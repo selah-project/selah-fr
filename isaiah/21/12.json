@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Le guetteur a dit : ⟨le⟩ matin vient, et aussi la nuit ; si vous ⟨la⟩ désirez, désirez, et revenez, venez.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "le guetteur"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vient"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "vous ⟨la⟩ désirez"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "désirez"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "revenez"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "venez"
+    }
+  ],
+  "timestamp": "2026-08-04T15:14:18.819114978Z",
+  "model": "glm-4.5"
+}

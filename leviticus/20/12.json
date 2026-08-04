@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et un homme qui couchera avec ⟨את⟩ sa belle-fille, mort ils seront mis à mort, les deux ; tebel ils ont fait, leur sang ⟨est⟩ en eux.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "et un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "couchera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa belle-fille"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "sa belle-fille"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mort"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ils seront mis à mort"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ils ont fait"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "leur sang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "en eux"
+    }
+  ],
+  "timestamp": "2026-08-04T08:05:17.105949442Z",
+  "model": "glm-4.5"
+}

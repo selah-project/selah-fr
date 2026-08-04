@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Écoutez ⟨la⟩ parole de YHWH, chefs de Sedom ; prêtez l'oreille ⟨à⟩ ⟨la⟩ Torah de notre Élohim, peuple d'Amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "chefs"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "prêtez l'oreille"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "d'Amora"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:59.582842176Z",
+  "model": "glm-4.5"
+}

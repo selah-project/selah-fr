@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et vous avez vu ⟨את⟩ leurs abominations et ⟨את⟩ leurs oracles ⟨du⟩ bois et ⟨la⟩ pierre, ⟨de⟩ l'argent et ⟨l'⟩or, qui ⟨sont⟩ avec eux",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "et vous avez vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs abominations"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "leurs abominations"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs oracles"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "leurs oracles"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bois"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "et pierre"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "et or"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "avec eux"
+    }
+  ],
+  "timestamp": "2026-08-04T10:40:40.171686152Z",
+  "model": "glm-4.5"
+}

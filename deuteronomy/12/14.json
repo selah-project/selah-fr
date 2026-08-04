@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 12:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "seulement dans ⟨le⟩ lieu ⟨que⟩ YHWH choisira dans l'une de tes tribus, là tu feras monter tes offrandes d'élévation, et là tu feras tout ce que je te commande",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨dans⟩"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "⟨le⟩ lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "choisira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dans l'une"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "de tes tribus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "tu feras monter"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "tes offrandes d'élévation"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "et là"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "te commande"
+    }
+  ],
+  "timestamp": "2026-08-04T10:14:21.482257536Z",
+  "model": "glm-4.5"
+}

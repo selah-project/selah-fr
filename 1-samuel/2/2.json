@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Il n'y a ⟨de⟩ saint comme YHWH, car il n'y a ⟨de⟩ ⟶ toi, et il n'y a ⟨de⟩ rocher comme notre Élohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "il n'y a ⟨de⟩"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "comme YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a ⟨de⟩"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "⟶ toi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a ⟨de⟩"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rocher"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "comme notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T12:06:37.334581498Z",
+  "model": "glm-4.5"
+}

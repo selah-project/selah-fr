@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et il dit : béni soit YHWH, l'Élohim de Shem, et que Canaan soit serviteur pour eux.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "béni soit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim de"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et que soit"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Canaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "serviteur"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-04T05:09:41.094585457Z",
+  "model": "glm-4.5"
+}

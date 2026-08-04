@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 40:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Celui qui est appauvri ⟨par⟩ une offrande choisit un bois qui ne pourrira pas ; il cherche pour lui un artisan habile pour préparer une sculpture qui ne chancellera pas.",
+  "tokens": [
+    {
+      "surface": "המסכן",
+      "gloss": "Celui qui est appauvri"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "⟨par⟩ une offrande"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "un bois"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "pourrira pas"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "choisit"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "artisan"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "habile"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "cherche"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "pour préparer"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "une sculpture"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "chancellera pas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:35:00.577579701Z",
+  "model": "glm-4.5"
+}

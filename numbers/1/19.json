@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Comme YHWH ⟨את⟩ l'avait commandé à Moshé, il les dénombra dans le désert de Sinaï.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "l'avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "à Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "il les dénombra"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "de Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-04T08:22:37.779061754Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Yitro, beau-père de Moshé, prit ⟨את⟩ Tsipporah, épouse de Moshé, après son renvoi",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "beau-père"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "épouse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "après"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "son renvoi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:38:24.803162109Z",
+  "model": "glm-4.5"
+}

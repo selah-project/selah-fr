@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et la terre ne se vendra pas ⟨en⟩ perpétuité, car la terre ⟨est⟩ à moi, car vous êtes des résidents étrangers et des habitants avec moi.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Et la terre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "se vendra"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "⟨en⟩ perpétuité"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨est⟩ à moi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "des résidents étrangers"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "et des habitants"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous êtes"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:47.299296849Z",
+  "model": "glm-4.5"
+}

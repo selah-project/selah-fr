@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et les Égyptiens firent servir les fils d'Israël ⟨את⟩ avec dureté",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Et firent servir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "avec dureté"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:36.733359061Z",
+  "model": "glm-4.5"
+}

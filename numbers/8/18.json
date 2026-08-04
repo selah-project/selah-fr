@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et je prends ⟨את⟩ les Lévites à la place de tout premier-né parmi les fils d'Israël",
+  "tokens": [
+    {
+      "surface": "וָאֶקַּח",
+      "gloss": "Et je prends"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les Lévites"
+    },
+    {
+      "surface": "הַלְוִיִּם",
+      "gloss": "les Lévites"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "à la place de"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בְּכוֹר",
+      "gloss": "premier-né"
+    },
+    {
+      "surface": "בִּבְנֵי",
+      "gloss": "parmi les fils de"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:39:54.924653882Z",
+  "model": "glm-4.5"
+}

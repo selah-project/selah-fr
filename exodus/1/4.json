@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Dan et Naphtali, Gad et Aser.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "et Naphtali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et Aser"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:21.350482522Z",
+  "model": "glm-4.5"
+}

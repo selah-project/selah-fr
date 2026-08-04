@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "et un esprit de jugement pour celui qui siège ⟨sur⟩ le jugement, et une force pour les renvoyants ⟨de⟩ la bataille ⟨à⟩ la porte.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "et un esprit"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "de jugement"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "pour celui qui siège"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "et une force"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "pour les renvoyants"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨de⟩ la bataille"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "⟨à⟩ la porte"
+    }
+  ],
+  "timestamp": "2026-08-04T15:22:14.251652506Z",
+  "model": "glm-4.5"
+}

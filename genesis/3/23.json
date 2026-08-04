@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "donc YHWH Élohim l'envoya ⟨du⟩ jardin d'Éden pour travailler ⟨את⟩ le sol duquel il fut pris",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "donc l'envoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨du⟩ jardin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "d'Éden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pour travailler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sol"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "le sol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "duquel"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "il fut pris"
+    },
+    {
+      "surface": "משם",
+      "gloss": "⟨de⟩ là"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:50.836743119Z",
+  "model": "glm-4.5"
+}

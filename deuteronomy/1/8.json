@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Regarde, j'ai mis ⟨את⟩ la terre devant vous ; entrez et possédez ⟨את⟩ la terre que YHWH a jurée à vos pères, à Abraham, à Isaac et à Jacob, de leur donner, et à leur semence après eux.",
+  "tokens": [
+    {
+      "surface": "רְאֵ֛ה",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "נָתַ֥תִּי",
+      "gloss": "j'ai mis"
+    },
+    {
+      "surface": "לִפְנֵיכֶ֖ם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "בֹּ֚אוּ",
+      "gloss": "entrez"
+    },
+    {
+      "surface": "וּרְשׁ֣וּ",
+      "gloss": "et possédez"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נִשְׁבַּ֣ע",
+      "gloss": "a jurée"
+    },
+    {
+      "surface": "יְ֠הוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לַאֲבֹ֨תֵיכֶ֜ם",
+      "gloss": "à vos pères"
+    },
+    {
+      "surface": "לְאַבְרָהָ֨ם",
+      "gloss": "à Abraham"
+    },
+    {
+      "surface": "לְיִצְחָ֤ק",
+      "gloss": "à Isaac"
+    },
+    {
+      "surface": "וּֽלְיַעֲקֹב֙",
+      "gloss": "et à Jacob"
+    },
+    {
+      "surface": "לָתֵ֣ת",
+      "gloss": "de donner"
+    },
+    {
+      "surface": "לָהֶ֔ם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "וּלְזַרְעָ֖ם",
+      "gloss": "et à leur semence"
+    },
+    {
+      "surface": "אַחֲרֵיהֶֽם",
+      "gloss": "après eux"
+    }
+  ],
+  "timestamp": "2026-08-04T09:48:59.597218133Z",
+  "model": "glm-4.5"
+}

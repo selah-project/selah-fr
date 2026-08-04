@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et les bergers vinrent et les chassèrent ; et Moïse se leva et les délivra, et abreva ⟨את⟩ leur troupeau.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vinrent"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "les bergers"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "et les chassèrent"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "et se leva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "et les délivra"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "et abreva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur troupeau"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "leur troupeau"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:45.007449819Z",
+  "model": "glm-4.5"
+}

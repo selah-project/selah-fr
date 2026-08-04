@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et des ouvertures, trois rangs, et ouverture contre ouverture, trois fois.",
+  "tokens": [
+    {
+      "surface": "וּשְׁקֻפִ֖ים",
+      "gloss": "et des ouvertures"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֣ה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "טוּרִ֑ים",
+      "gloss": "rangs"
+    },
+    {
+      "surface": "וּמֶחֱזָ֥ה",
+      "gloss": "et ouverture"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "contre"
+    },
+    {
+      "surface": "מֶחֱזָ֖ה",
+      "gloss": "ouverture"
+    },
+    {
+      "surface": "שָׁלֹ֥שׁ",
+      "gloss": "trois"
+    },
+    {
+      "surface": "פְּעָמִֽים",
+      "gloss": "fois"
+    }
+  ],
+  "timestamp": "2026-08-04T13:38:39.170356924Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "car ⟨par⟩ sept fois Qaïn sera vengé, mais Lémek, soixante-dix-sept fois.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "⟨par⟩ sept fois"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "sera vengé"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qaïn"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "mais Lémek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "soixante-dix"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "-sept"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:50.066478772Z",
+  "model": "glm-4.5"
+}

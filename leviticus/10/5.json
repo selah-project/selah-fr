@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "ils s'approchèrent et les portèrent dans leurs tuniques à l'extérieur du camp, comme ⟨avait⟩ parlé Moshé",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ils s'approchèrent"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "et les portèrent"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "dans leurs tuniques"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "l'extérieur"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "du camp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "avait parlé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "timestamp": "2026-08-04T07:39:26.167796873Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Mais ce ⟨sont⟩ vos iniquités qui ont fait ⟨de⟩ séparation entre vous et votre Élohim, et vos péchés ont caché ⟨sa⟩ face de vous, pour qu'il n'entende pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mais"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ce"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "vos iniquités"
+    },
+    {
+      "surface": "היו",
+      "gloss": "qui ont fait"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "de séparation"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "entre vous"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "et"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "et vos péchés"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "ont caché"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "face"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "de vous"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "pour qu'il n'entende pas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:52:50.257734709Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Car les étoiles des cieux et leurs constellations ne feront pas briller ⟨leur⟩ lumière, le soleil s'est obscurci à sa sortie, et la lune ne fera pas resplendir ⟨sa⟩ lumière.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "les étoiles"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "et leurs constellations"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "feront pas briller"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "⟨leur⟩ lumière",
+      "marks": "leur lumière"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "s'est obscurci"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "à sa sortie"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "et la lune"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "fera pas resplendir"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "⟨sa⟩ lumière",
+      "marks": "sa lumière"
+    }
+  ],
+  "timestamp": "2026-08-04T15:00:44.760736750Z",
+  "model": "glm-4.5"
+}

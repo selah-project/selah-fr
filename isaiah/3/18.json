@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "En ce jour-là, Adonaï ôtera ⟨את⟩ la parure des anneaux de chevilles, des bonnets et des croissants",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ôtera"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parure des anneaux de chevilles, des bonnets et des croissants"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "la parure"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "des anneaux de chevilles"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "des bonnets"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "des croissants"
+    }
+  ],
+  "timestamp": "2026-08-04T14:50:27.420245865Z",
+  "model": "glm-4.5"
+}

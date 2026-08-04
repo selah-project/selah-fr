@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Abraham s'approcha et dit : ⟨est-ce que⟩ tu vas balayer le juste avec le méchant ?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "et s'approcha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "האף",
+      "gloss": "⟨est-ce que⟩"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "tu vas balayer"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    }
+  ],
+  "timestamp": "2026-08-04T05:23:50.971788094Z",
+  "model": "glm-4.5"
+}

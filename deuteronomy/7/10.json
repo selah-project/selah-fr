@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et rend ⟨à⟩ ceux qui Le haïssent ⟨sur⟩ leur face pour le détruire ; il ne différera pas ⟨à⟩ celui qui Le hait, ⟨sur⟩ sa face Il lui rendra.",
+  "tokens": [
+    {
+      "surface": "וּמְשַׁלֵּ֧ם",
+      "gloss": "Et rend"
+    },
+    {
+      "surface": "לְשֹׂנְאָ֛יו",
+      "gloss": "⟨à⟩ ceux qui Le haïssent",
+      "marks": "ceux qui Le haïssent"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "פָּנָ֖יו",
+      "gloss": "leur face"
+    },
+    {
+      "surface": "לְהַאֲבִיד֑וֹ",
+      "gloss": "pour le détruire"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יְאַחֵר֙",
+      "gloss": "différera pas"
+    },
+    {
+      "surface": "לְשֹׂ֣נְא֔וֹ",
+      "gloss": "⟨à⟩ celui qui Le hait",
+      "marks": "celui qui Le hait"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "פָּנָ֖יו",
+      "gloss": "sa face"
+    },
+    {
+      "surface": "יְשַׁלֶּם",
+      "gloss": "Il lui rendra"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:01:27.274243323Z",
+  "model": "glm-4.5"
+}

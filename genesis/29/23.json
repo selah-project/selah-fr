@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et il advint ⟨le⟩ soir et il prit ⟨את⟩ Léa sa fille et il la conduisit vers lui et il vint vers elle",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "⟨le⟩ soir"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et il prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Léa"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Léa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sa fille"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il conduisit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨la⟩",
+      "marks": "vers lui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il vint"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vers elle"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:24.765567295Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et le prêtre qui purifie fera se tenir l'homme qui se purifie et ⟨את⟩ eux devant YHWH ⟨à⟩ l'entrée de la tente d'assignation",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "Et fera se tenir"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "qui purifie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'homme"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "qui se purifie"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "et ⟨את⟩ eux",
+      "marks": "devant"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:50:26.901736415Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Naboth dit à Achab : Que YHWH ⟨me⟩ garde de te donner ⟨את⟩ l'héritage de mes pères !",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": " loin de moi \/ impossible"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pour moi⟩"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "de par YHWH"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "donner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'héritage"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "l'héritage"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "de mes pères"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:02:49.111746790Z",
+  "model": "glm-4.5"
+}

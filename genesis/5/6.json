@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Sheth vécut cinq ans et cent ans et engendra ⟨את⟩ Enosh",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheth"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "et cent"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:07.388393477Z",
+  "model": "glm-4.5"
+}

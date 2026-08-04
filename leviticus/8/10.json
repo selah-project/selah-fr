@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Mosheh prit ⟨את⟩ l'huile de l'onction et oignit ⟨את⟩ le mishkan et ⟨את⟩ tout ce qui ⟨est⟩ en lui, et les sanctifia.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'huile"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de l'onction"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "et oignit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "le mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "et les sanctifia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:49.969065881Z",
+  "model": "glm-4.5"
+}

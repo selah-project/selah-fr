@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Tout oiseau pur vous mangerez",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "oiseau"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "pur"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    }
+  ],
+  "timestamp": "2026-08-04T10:16:49.141796606Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "D’Aser ⟨son⟩ pain est gras, et il fournira des délices de roi.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "D’Aser"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "est gras"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "⟨son⟩ pain"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et il"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fournira"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "des délices"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de roi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:09:28.220670847Z",
+  "model": "glm-4.5"
+}

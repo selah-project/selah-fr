@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Toutes les villes que vous ⟨vous⟩ donnerez aux Lévites, quarante-huit villes : elles, et ⟨את⟩ leurs banlieues.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toutes"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "vous ⟨vous⟩ donnerez"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "aux Lévites"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "-huit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "villes"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "elles",
+      "marks": "ו את"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "מגרשיהן"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "leurs banlieues"
+    }
+  ],
+  "timestamp": "2026-08-04T09:46:03.402489710Z",
+  "model": "glm-4.5"
+}

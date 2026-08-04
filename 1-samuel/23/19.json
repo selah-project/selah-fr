@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 23:19",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et les Ziphites montèrent vers Shaül à Guibéa, pour dire : N'est-ce pas David qui se cache avec nous dans les places fortes, dans la forêt, sur la colline de Hakila, à la droite du Yéshimon ?",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Et montèrent"
+    },
+    {
+      "surface": "זפים",
+      "gloss": "les Ziphites"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "à Guibéa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "qui se cache"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "dans les places fortes"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "dans la forêt"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "sur la colline de"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Hakila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "à la droite de"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "le Yéshimon"
+    }
+  ],
+  "timestamp": "2026-08-04T12:40:13.819397330Z",
+  "model": "glm-4.5"
+}

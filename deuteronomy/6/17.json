@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Gardez avec soin ⟨את⟩ les commandements de YHWH votre Élohim et ses témoignages et ses statuts, qu'il vous a commandés",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Gardez"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "avec soin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les commandements"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "les commandements"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "et ses témoignages"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "et ses statuts"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "il vous a commandés"
+    }
+  ],
+  "timestamp": "2026-08-04T09:59:22.223431848Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et aux fils de Qehath il n'a ⟨pas⟩ donné car ⟨le⟩ service du sanctuaaire ⟨est⟩ sur eux sur l'épaule ils porteront",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Et aux fils de"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Qehath"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'a ⟨pas⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donné"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "⟨le⟩ service"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "du sanctuaire"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "⟨est⟩ sur eux"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "sur l'épaule"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ils porteront"
+    }
+  ],
+  "timestamp": "2026-08-04T08:35:33.343454834Z",
+  "model": "glm-4.5"
+}

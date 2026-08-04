@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il dit : Ne crains pas, car plus nombreux sont ceux qui sont avec nous que ceux qui sont avec eux.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "crains pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plus nombreux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceux qui"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "sont avec nous"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ceux qui sont avec eux",
+      "marks": "ceux qui sont avec eux"
+    }
+  ],
+  "timestamp": "2026-08-04T14:14:46.411181457Z",
+  "model": "glm-4.5"
+}

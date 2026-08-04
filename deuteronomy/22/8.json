@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Quand tu bâtiras une maison nouvelle, tu feras une balustrade pour ⟨ton⟩ toit, et tu ne mettras pas de sang dans ⟨ta⟩ maison, si celui qui tombe tombe de lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tu bâtiras"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvelle"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "balustrade"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "pour ⟨ton⟩ toit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "mettras pas"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "dans ⟨ta⟩ maison"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tombe"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "celui qui tombe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:26:11.907291099Z",
+  "model": "glm-4.5"
+}

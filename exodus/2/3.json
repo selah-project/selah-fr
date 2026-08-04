@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et ⟨elle ne⟩ put plus le cacher, elle prit pour lui une arche de papyrus, et l'enduisit de bitume et de poix, et y mit ⟨את⟩ l'enfant, et mit ⟨dans⟩ les roseaux sur le bord ⟨du⟩ fleuve",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et ⟨elle ne⟩"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "put"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "le cacher"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "elle prit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "une arche"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "de papyrus"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "et l'enduisit"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "de bitume"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "et de poix"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "et y mit"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'enfant"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "et mit"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "⟨dans⟩ les roseaux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "le bord"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "⟨du⟩ fleuve"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:28.943436144Z",
+  "model": "glm-4.5"
+}

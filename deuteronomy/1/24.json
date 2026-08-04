@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et ils se tournèrent et montèrent dans la montagne, et vinrent jusqu'au ravin d'Eshkol, et ⟨את⟩ espionnèrent.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "et ils se tournèrent"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "et ils montèrent"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "dans la montagne"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et ils vinrent"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "au ravin"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "d'Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "et espionnèrent"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "le pays \/ l'objet"
+    }
+  ],
+  "timestamp": "2026-08-04T09:48:51.088465208Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Yarobam bâtit ⟨את⟩ Sichem dans la montagne d'Éphraïm et y habita ; et il sortit de là et bâtit ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Et bâtit"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sichem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dans la montagne"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "d'Éphraïm"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et y habita"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "et il sortit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "et bâtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-08-04T13:49:15.616780531Z",
+  "model": "glm-4.5"
+}

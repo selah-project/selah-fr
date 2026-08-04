@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Il dit : qu'as-tu fait ? ⟨la⟩ voix de ⟨le⟩ sang de ton frère crie vers moi de ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Il dit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qu'as-tu fait"
+    },
+    {
+      "surface": "עשית",
+      "gloss": ""
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨la⟩ voix"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "de ⟨le⟩ sang"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "de ton frère"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "crie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:30.030833997Z",
+  "model": "glm-4.5"
+}

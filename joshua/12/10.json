@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "le roi de Jérusalem, un ; le roi de Hébron, un ;",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֨ם֙",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "un"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "חֶבְר֖וֹן",
+      "gloss": "de Hébron"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "un"
+    }
+  ],
+  "timestamp": "2026-08-04T11:05:39.899171426Z",
+  "model": "glm-4.5"
+}

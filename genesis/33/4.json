@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et Esav courut à sa rencontre et l'embrassa et tomba sur son cou et le baisa et ils pleurèrent",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "Et courut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "à sa rencontre"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "et l'embrassa"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "et tomba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "son cou"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "et le baisa"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "et ils pleurèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:43:30.938474820Z",
+  "model": "glm-4.5"
+}

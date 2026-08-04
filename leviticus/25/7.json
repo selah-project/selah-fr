@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et pour ton bétail et pour la bête qui ⟨est⟩ dans ton pays sera toute sa production pour manger",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "et pour ton bétail"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "et pour la bête"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "dans ton pays"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sa production"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pour manger"
+    }
+  ],
+  "timestamp": "2026-08-04T08:14:53.888302754Z",
+  "model": "glm-4.5"
+}

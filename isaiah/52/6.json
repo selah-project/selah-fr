@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "C'est pourquoi mon peuple connaîtra mon nom ; c'est pourquoi, en ce jour-là, ⟨il est⟩ celui qui parle : me voici.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connaîtra"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mon nom"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "celui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "qui parle"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "qui parle"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "me voici"
+    }
+  ],
+  "timestamp": "2026-08-04T15:46:55.642180205Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il advint le lendemain, et Mosheh s'assit pour juger ⟨את⟩ le peuple, et le peuple se tint devant Mosheh depuis le matin jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "le lendemain"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et s'assit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "pour juger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "et se tint"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "על",
+      "gloss": "devant"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    }
+  ],
+  "timestamp": "2026-08-04T06:38:39.329684705Z",
+  "model": "glm-4.5"
+}

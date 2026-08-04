@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et ils ne feront pas porter ⟨את⟩ faute ⟨את⟩ culpabilité en ce qu'ils mangent leurs choses saintes, car moi, YHWH, je les sanctifie.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "et ils ne feront pas porter"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "faute"
+    },
+    {
+      "surface": "עון",
+      "gloss": "faute"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "⟨את⟩ culpabilité"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "en ce qu'ils mangent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choses saintes"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "leurs choses saintes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "je les sanctifie"
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:55.090425592Z",
+  "model": "glm-4.5"
+}

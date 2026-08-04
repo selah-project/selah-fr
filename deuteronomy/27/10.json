@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "tu écouteras donc la voix de YHWH ton Élohim et tu feras ⟨את⟩ ses commandements et ⟨את⟩ ses statuts que moi je te commande aujourd'hui",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "tu écouteras donc"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voix de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses commandements"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ses commandements"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses statuts"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ses statuts"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi je"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "te commande"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:35:52.697115335Z",
+  "model": "glm-4.5"
+}

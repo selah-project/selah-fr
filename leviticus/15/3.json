@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et ceci ⟨sera⟩ sa impureté dans son flux : si sa chair ruisselle de son flux, ou si sa chair se ferme ⟨par rapport à⟩ son flux, c'est ⟨est⟩ sa impureté.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨sera⟩"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "sa impureté"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "dans son flux"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ruisselle"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son flux"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "son flux"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "se ferme"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "⟨par rapport à⟩ son flux"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "sa impureté"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est ⟨est⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T07:52:55.960286938Z",
+  "model": "glm-4.5"
+}

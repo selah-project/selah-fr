@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Le pain de son Élohim, des choses très-saintes et des choses saintes, il mangera",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Le pain"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "de son Élohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "des choses très-saintes"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "et des choses saintes"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et de"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il mangera"
+    }
+  ],
+  "timestamp": "2026-08-04T08:06:31.054370851Z",
+  "model": "glm-4.5"
+}

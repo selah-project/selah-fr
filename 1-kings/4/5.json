@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et Azaryahou, fils de Nathan, ⟨était⟩ sur ⟨les⟩ officiers, et Zaboud, fils de Nathan, prêtre, compagnon ⟨du⟩ roi",
+  "tokens": [
+    {
+      "surface": "וַעֲזַרְיָ֥הוּ",
+      "gloss": "et Azaryahou"
+    },
+    {
+      "surface": "בֶן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "נָתָ֖ן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הַנִּצָּבִ֑ים",
+      "gloss": "⟨les⟩ officiers"
+    },
+    {
+      "surface": "וְזָב֧וּד",
+      "gloss": "et Zaboud"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "נָתָ֛ן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "כֹּהֵ֖ן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "רֵעֶ֥ה",
+      "gloss": "compagnon"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "⟨du⟩ roi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:36.280802089Z",
+  "model": "glm-4.5"
+}

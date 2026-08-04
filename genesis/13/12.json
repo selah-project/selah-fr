@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Abram habita dans ⟨le⟩ pays de Canaan, et Lot habita dans ⟨les⟩ villes de ⟨la⟩ plaine, et dressa sa tente jusqu'à Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "et Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habita"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "dans ⟨les⟩ villes"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "de ⟨la⟩ plaine"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "et dressa sa tente"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:04.143378574Z",
+  "model": "glm-4.5"
+}

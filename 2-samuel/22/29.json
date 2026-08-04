@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car tu es ma lampe, YHWH, et YHWH éclairera mon obscurité",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "ma lampe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "éclairera"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "mon obscurité"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:29.567969442Z",
+  "model": "glm-4.5"
+}

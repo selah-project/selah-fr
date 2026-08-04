@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et les jours de David se rapprochèrent pour mourir, et il commanda ⟨את⟩ Shelomoh son fils, en disant",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "se rapprochèrent"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pour mourir"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "et il commanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh son fils"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T13:30:50.612173682Z",
+  "model": "glm-4.5"
+}

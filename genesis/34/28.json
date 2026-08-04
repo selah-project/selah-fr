@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Ils prirent ⟨את⟩ leur petit bétail et ⟨את⟩ leur gros bétail et ⟨את⟩ leurs ânes et ⟨את⟩ ce qui ⟨est⟩ dans la ville et ⟨את⟩ ce qui ⟨est⟩ dans le champ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur petit bétail"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "leur petit bétail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leur gros bétail"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "leur gros bétail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leurs ânes"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "leurs ânes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ce qui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ce qui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "prirent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:55.524907226Z",
+  "model": "glm-4.5"
+}

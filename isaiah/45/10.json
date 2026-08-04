@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Malheur à celui qui dit ⟨à⟩ un père : « Qu'est-ce que tu engendres ? » et ⟨à⟩ une femme : « Qu'est-ce que tu enfas ? »",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "⟨à⟩ un père"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu'est-ce que"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "tu engendres"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "et ⟨à⟩ une femme"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu'est-ce que"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "tu enfas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:41:32.729394274Z",
+  "model": "glm-4.5"
+}

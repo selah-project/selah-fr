@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "YHWH mit une parole dans la bouche de Bilam et dit : retourne vers Balak, et ainsi tu parleras.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dans la bouche de"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "retourne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "et ainsi"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tu parleras"
+    }
+  ],
+  "timestamp": "2026-08-04T09:17:56.384345764Z",
+  "model": "glm-4.5"
+}

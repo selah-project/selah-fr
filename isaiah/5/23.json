@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "qui ⟨justifient⟩ le méchant pour un pot-de-vin, et ⟨la⟩ justice des justes, ils ⟨la⟩ détournent de lui",
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "justifient"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "en échange de"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "pot-de-vin"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "et la justice"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "ils détournent"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-04T14:52:25.257769905Z",
+  "model": "glm-4.5"
+}

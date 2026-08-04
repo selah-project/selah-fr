@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Le neuf du mois, et la famine se renforça dans la ville, et il n'y avait ⟨pas⟩ de pain pour le peuple du pays.",
+  "tokens": [
+    {
+      "surface": "בְּתִשְׁעָה",
+      "gloss": "Le neuf"
+    },
+    {
+      "surface": "לַחֹ֔דֶשׁ",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "וַיֶּחֱזַ֥ק",
+      "gloss": "et se renforça"
+    },
+    {
+      "surface": "הָרָעָ֖ב",
+      "gloss": "la famine"
+    },
+    {
+      "surface": "בָּעִ֑יר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "et il n'y avait"
+    },
+    {
+      "surface": "הָ֥יָה",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "לֶ֖חֶם",
+      "gloss": "de pain"
+    },
+    {
+      "surface": "לְעַ֥ם",
+      "gloss": "pour le peuple"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "du pays"
+    }
+  ],
+  "timestamp": "2026-08-04T14:46:42.347498618Z",
+  "model": "glm-4.5"
+}

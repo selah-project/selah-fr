@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Yehoshua commanda ⟨את⟩ les scribes du peuple, en disant",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et commanda"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les scribes"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "les scribes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T10:49:39.481690281Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et les fils de Gomer : Ashkenaz, et Riphat, et Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Et les fils de"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": ", et Riphat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": ", et Togarma"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:37.135350099Z",
+  "model": "glm-4.5"
+}

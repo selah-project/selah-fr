@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Vous n'allumerez ⟨pas⟩ de feu dans toutes vos habitations le jour du shabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "vous n'allumerez"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de feu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toutes"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "vos habitations"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "du shabbat"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:02.637387355Z",
+  "model": "glm-4.5"
+}

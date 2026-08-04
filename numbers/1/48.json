@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH parla à Moïse pour dire",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T08:23:16.402763294Z",
+  "model": "glm-4.5"
+}

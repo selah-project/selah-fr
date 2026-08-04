@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et dit le roi d'Israël : Ah ! car YHWH a appelé ces trois rois pour les livrer en la main de ⟨את⟩ Moab",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ah !"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a appelé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ces trois"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "rois"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "pour"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "les livrer"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "en la main de Moab"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en la main"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    }
+  ],
+  "timestamp": "2026-08-04T14:09:10.475718667Z",
+  "model": "glm-4.5"
+}

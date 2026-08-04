@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et il tourna ⟨את⟩ son visage vers le mur, et pria vers YHWH, pour dire",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Et il tourna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son visage"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "son visage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "le mur"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "et pria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T14:38:34.870698487Z",
+  "model": "glm-4.5"
+}

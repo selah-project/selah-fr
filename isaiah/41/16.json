@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Tu les vanneras, et le vent les emportera, et la tempête les dispersera ⟨את⟩ ; et toi, tu te réjouiras en YHWH, dans le Saint d'Israël tu te glorifieras.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "tu les vanneras"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "et le vent"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "les emportera"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "et la tempête"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "les dispersera"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "וְאַתָּה (et toi)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "tu te réjouiras"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "dans le Saint"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "tu te glorifieras"
+    }
+  ],
+  "timestamp": "2026-08-04T15:36:25.150831916Z",
+  "model": "glm-4.5"
+}

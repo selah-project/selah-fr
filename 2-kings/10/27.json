@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Ils détruisirent ⟨את⟩ la stèle de Baal et ils détruisirent ⟨את⟩ la maison de Baal et en firent des latrines jusqu'à ce jour",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ils détruisirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la stèle de Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "la stèle"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "de Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "et ils détruisirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison de Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "de Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "et en firent"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "des latrines"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ce jour"
+    }
+  ],
+  "timestamp": "2026-08-04T14:23:49.247238076Z",
+  "model": "glm-4.5"
+}

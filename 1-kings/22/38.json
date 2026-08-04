@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-kings 22:38",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et on lava ⟨את⟩ le char sur le bassin de Samarie et les chiens léchèrent ⟨את⟩ son sang et les prostituées se lavèrent selon la parole de YHWH qu'il avait dite",
+  "tokens": [
+    {
+      "surface": "וישטף",
+      "gloss": "et on lava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le char"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "le char"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "le bassin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "de Samarie"
+    },
+    {
+      "surface": "וילקו",
+      "gloss": "et les chiens léchèrent"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "les chiens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son sang"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "והזנות",
+      "gloss": "et les prostituées"
+    },
+    {
+      "surface": "רחצו",
+      "gloss": "se lavèrent"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il avait dite"
+    }
+  ],
+  "timestamp": "2026-08-04T14:05:20.240859451Z",
+  "model": "glm-4.5"
+}

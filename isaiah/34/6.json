@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "L'épée ⟨de⟩ YHWH est pleine de sang, engraissée de graisse, du sang de béliers et de boucs, de la graisse des reins de béliers, car un sacrifice ⟨est⟩ pour YHWH à Botsra, et un grand massacre dans le pays d'Édom.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "L'épée"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨de⟩ YHWH",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "est pleine"
+    },
+    {
+      "surface": "דם",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "engraissée"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "de graisse"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "du sang"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "de béliers"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "et de boucs"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "de la graisse"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "des reins"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "de béliers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "un sacrifice"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨est⟩ pour YHWH",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "à Botsra"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "et un grand massacre"
+    },
+    {
+      "surface": "גדול",
+      "gloss": ""
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "d'Édom"
+    }
+  ],
+  "timestamp": "2026-08-04T15:29:30.702481084Z",
+  "model": "glm-4.5"
+}

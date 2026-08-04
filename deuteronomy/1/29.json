@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et je dis à vous : ne soyez pas terrifiés, et ne craignez pas d'eux.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "אֲלֵכֶם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תַֽעַרְצ֥וּן",
+      "gloss": "soyez terrifiés"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "תִֽירְא֖וּן",
+      "gloss": "craignez"
+    },
+    {
+      "surface": "מֵהֶֽם",
+      "gloss": "d'eux"
+    }
+  ],
+  "timestamp": "2026-08-04T09:49:17.401270295Z",
+  "model": "glm-4.5"
+}

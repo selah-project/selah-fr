@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Je ferai l'homme plus précieux que l'or fin, et l'humain plus que l'or d'Ophir.",
+  "tokens": [
+    {
+      "surface": "אוֹקִיר",
+      "gloss": "Je ferai précieux"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "מִפָּ֑ז",
+      "gloss": "que l'or fin"
+    },
+    {
+      "surface": "וְאָדָ֖ם",
+      "gloss": "et l'humain"
+    },
+    {
+      "surface": "מִכֶּ֥תֶם",
+      "gloss": "plus que"
+    },
+    {
+      "surface": "אוֹפִֽיר",
+      "gloss": "l'or d'Ophir"
+    }
+  ],
+  "timestamp": "2026-08-04T15:00:49.177589088Z",
+  "model": "glm-4.5"
+}

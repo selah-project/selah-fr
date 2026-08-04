@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Yoav combattit contre Rabba des Beney Amon et prit ⟨את⟩ la ville de la royauté",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "Et combattit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "contre Rabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des Beney"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville de la royauté"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "de la royauté"
+    }
+  ],
+  "timestamp": "2026-08-04T13:07:53.111268407Z",
+  "model": "glm-4.5"
+}

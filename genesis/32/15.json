@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "chèvres deux cents, et boucs vingt, brebis deux cents, et béliers vingt",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "chèvres"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "deux cents"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "et boucs"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "brebis"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "deux cents"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "et béliers"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:34.682906997Z",
+  "model": "glm-4.5"
+}

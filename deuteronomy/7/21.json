@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Tu ne seras pas effrayé à cause d'eux, car YHWH ton Élohim est au milieu de toi, El grand et redoutable.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "seras effrayé"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "à cause d'eux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "est au milieu de toi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "et redoutable"
+    }
+  ],
+  "timestamp": "2026-08-04T10:01:27.352653416Z",
+  "model": "glm-4.5"
+}

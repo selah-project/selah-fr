@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "car volé je fus volé du pays des Hébreux, et aussi ici je n'ai rien fait pour qu'ils mettent ⟨את⟩ moi dans la fosse",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "volé"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "je fus volé"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "des Hébreux"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'... pas"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ai fait"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "rien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pour que"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ils mettent"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "dans la fosse"
+    }
+  ],
+  "timestamp": "2026-08-04T05:53:12.898840205Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et vous mangerez ⟨le⟩ vieux, vieux, et ⟨le⟩ vieux à cause ⟨du⟩ nouveau vous ferez sortir",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Et vous mangerez"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "⟨le⟩ vieux"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "vieux"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "et ⟨le⟩ vieux"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause ⟨du⟩"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "vous ferez sortir"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:35.784880452Z",
+  "model": "glm-4.5"
+}

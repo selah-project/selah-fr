@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et ⟨dans⟩ le second mois, le vingt-septième jour du mois, la terre ⟨était⟩ sèche.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Et ⟨dans⟩ le mois"
+    },
+    {
+      "surface": "השני",
+      "gloss": "le second"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "⟨le⟩ vingt-⟨et⟩-sept"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "sèche"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:24.476649182Z",
+  "model": "glm-4.5"
+}

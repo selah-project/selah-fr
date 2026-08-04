@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et pourquoi avez-vous fait venir ⟨את⟩ l'assemblée de YHWH dans ce désert, pour y mourir, nous et notre bétail ?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Et pourquoi"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "avez-vous fait venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'assemblée de YHWH"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ce désert"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pour mourir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "y"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "et notre bétail"
+    }
+  ],
+  "timestamp": "2026-08-04T09:07:37.306491141Z",
+  "model": "glm-4.5"
+}

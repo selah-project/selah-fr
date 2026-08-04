@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et si un homme consacre ⟨את⟩ sa maison comme chose sainte à YHWH, le prêtre l'évaluera, entre le bon et le mauvais ; comme le prêtre l'évaluera ⟨את⟩ lui, ainsi il se tiendra.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "et si un homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "consacre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa maison"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "comme chose sainte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "et l'évaluera"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bon"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mauvais"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "il évaluera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (la valeur)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "il se tiendra"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:29.806827622Z",
+  "model": "glm-4.5"
+}

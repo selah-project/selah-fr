@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Tout ce qui rampe ⟨parmi⟩ les volatiles, ce qui marche sur quatre, ⟨est⟩ une abomination pour vous",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ce qui rampe"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "⟨parmi⟩ les volatiles"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ce qui marche"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "une abomination"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:57.194415565Z",
+  "model": "glm-4.5"
+}

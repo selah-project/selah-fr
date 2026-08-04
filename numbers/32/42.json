@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Nobah ⟨est⟩ allé et ⟨a⟩ pris ⟨את⟩ Kenath et ⟨את⟩ ses villages, et ⟨l’a⟩ appelée Nobah d’après son nom.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Et Nobah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨est⟩ allé"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "et ⟨a⟩ pris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenath"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses villages"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ses villages"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et ⟨l’a⟩ appelée"
+    },
+    {
+      "surface": "לה",
+      "gloss": "Nobah"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "d’après son nom"
+    }
+  ],
+  "timestamp": "2026-08-04T09:41:53.676869855Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "⟨את⟩ le hibou et ⟨את⟩ la chouette et le cygne",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le hibou"
+    },
+    {
+      "surface": "הַכּוֹס",
+      "gloss": "le hibou"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la chouette"
+    },
+    {
+      "surface": "הַיַּנְשׁוּף",
+      "gloss": "la chouette"
+    },
+    {
+      "surface": "וְהַתִּנְשָׁמֶת",
+      "gloss": "et le cygne"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:04.629077680Z",
+  "model": "glm-4.5"
+}

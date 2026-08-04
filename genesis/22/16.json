@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et a dit : Par moi-même j'ai juré — oracle de YHWH — parce que tu as fait ⟨את⟩ la chose, celle-ci, et n'as pas retenu ⟨את⟩ ton fils, ⟨את⟩ ton unique",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "et a dit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "par moi-même"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "j'ai juré"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "יען",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu as fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la chose"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la chose"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'as pas"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "retenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton fils"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ton fils"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton unique"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "ton unique"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:06.274030903Z",
+  "model": "glm-4.5"
+}

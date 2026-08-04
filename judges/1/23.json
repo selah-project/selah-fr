@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et la maison de Josué fit espionner ⟨את⟩ Beth-El, et le nom de la ville auparavant était Luz.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "fit espionner"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison de"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josué"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨את⟩ Beth-El",
+      "marks": "Beth-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ושם",
+      "gloss": "et le nom de"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "auparavant"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Luz"
+    }
+  ],
+  "timestamp": "2026-08-04T11:32:51.290850640Z",
+  "model": "glm-4.5"
+}

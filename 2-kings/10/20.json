@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Yéhu dit : Consacrez ⟨une⟩ assemblée solennelle pour Baal. Et ils la proclamèrent.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Yéhu dit"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yéhu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Consacrez"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "assemblée solennelle"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "pour Baal"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "Et ils la proclamèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T14:22:46.855465683Z",
+  "model": "glm-4.5"
+}

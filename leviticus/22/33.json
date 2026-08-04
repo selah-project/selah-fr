@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Celui qui ⟨a⟩ fait sortir ⟨את⟩ vous du pays d'Égypte pour être à vous pour Élohim, moi YHWH.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Celui qui fait sortir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "pour être"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pour Élohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:58.110822093Z",
+  "model": "glm-4.5"
+}

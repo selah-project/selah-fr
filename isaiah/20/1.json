@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "L'année où Tartan vint à Ashdod, quand Sargon, roi d'Assur, l'envoya et combattit contre Ashdod et la prit",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "L'année"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vint"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "à Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "quand ... envoya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "et combattit"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "contre Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "et la prit"
+    }
+  ],
+  "timestamp": "2026-08-04T15:12:20.512224478Z",
+  "model": "glm-4.5"
+}

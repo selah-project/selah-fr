@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "les bandeaux et les chaînes de pieds, et les ceintures, et les boîtes de parfum, et les amulettes",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "les bandeaux"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "et les chaînes de pieds"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "et les ceintures"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "et les boîtes"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "de parfum"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "et les amulettes"
+    }
+  ],
+  "timestamp": "2026-08-04T14:50:08.637630827Z",
+  "model": "glm-4.5"
+}

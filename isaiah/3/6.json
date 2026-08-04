@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car un homme saisira son frère, ⟨de⟩ la maison de ⟨son⟩ père : « Une robe est ⟨ici⟩, sois notre chef, et que cette ruine soit sous ta main »",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "saisira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨de⟩ son père"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "une robe"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "viens"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "chef"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sois"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "notre"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "et cette ruine"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    }
+  ],
+  "timestamp": "2026-08-04T14:50:26.878733645Z",
+  "model": "glm-4.5"
+}

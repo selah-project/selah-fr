@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et leur offrande, de la farine pétrie ⟨dans⟩ l'huile : trois dixièmes pour ⟨le⟩ taureau, deux dixièmes pour ⟨le⟩ bélier",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "et leur offrande"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de la farine"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "pétrie"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dans l'huile"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dixièmes"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "pour le taureau"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "dixièmes"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "pour le bélier"
+    }
+  ],
+  "timestamp": "2026-08-04T09:29:44.410241062Z",
+  "model": "glm-4.5"
+}

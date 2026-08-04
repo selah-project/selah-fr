@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Trois ans ⟨il⟩ régna à Jérusalem, et le nom de sa mère ⟨était⟩ Maakah, fille d'Abishalom",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Trois"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨il⟩ régna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "et le nom"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sa mère"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "d'Abishalom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:53:58.033418430Z",
+  "model": "glm-4.5"
+}

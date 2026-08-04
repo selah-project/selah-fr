@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et Yitschaq envoya ⟨את⟩ Yaakov et il alla vers Paddan-Aram, vers Laban fils de Bethouel l'Araméen, frère de Rivka, mère de Yaakov et d'Ésaü.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et il alla"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "vers Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Bethouel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "l'Araméen"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frère de"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mère de"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "et d'Ésaü"
+    }
+  ],
+  "timestamp": "2026-08-04T05:36:14.311173427Z",
+  "model": "glm-4.5"
+}

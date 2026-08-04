@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et je ferai la faveur ⟨de⟩ ce peuple aux yeux des Mitsrim, et il arrivera que quand vous ⟨irez⟩ vous n'irez pas ⟨les mains⟩ vides",
+  "tokens": [
+    {
+      "surface": "וְנָתַתִּ֛י",
+      "gloss": "Et je ferai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la faveur ⟨de⟩ ce peuple"
+    },
+    {
+      "surface": "חֵ֥ן",
+      "gloss": "faveur"
+    },
+    {
+      "surface": "הָֽעָם",
+      "gloss": "⟨de⟩ ce peuple"
+    },
+    {
+      "surface": "הַזֶּ֖ה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "בְּעֵינֵ֣י",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "Mitsrim"
+    },
+    {
+      "surface": "וְהָיָה֙",
+      "gloss": "et il arrivera"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "que"
+    },
+    {
+      "surface": "תֵֽלֵכ֔וּן",
+      "gloss": "quand vous ⟨irez⟩"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תֵלְכ֖וּ",
+      "gloss": "irez"
+    },
+    {
+      "surface": "רֵיקָֽם",
+      "gloss": "⟨les mains⟩ vides"
+    }
+  ],
+  "timestamp": "2026-08-04T06:15:40.239660848Z",
+  "model": "glm-4.5"
+}

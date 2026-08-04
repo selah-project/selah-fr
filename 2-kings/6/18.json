@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-kings 6:18",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ils descendirent vers lui, et Élisha pria YHWH et dit : frappe, je te prie, ⟨ce⟩ peuple de cécité. Et il les frappa de cécité selon la parole d'Élisha.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "et ils descendirent"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "et pria"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Élisha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "הך",
+      "gloss": "frappe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ce⟩",
+      "marks": "peuple"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "de cécité"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "de cécité"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "et il les frappa"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "de cécité"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon la parole"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "d'Élisha"
+    }
+  ],
+  "timestamp": "2026-08-04T14:15:22.368281078Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "fais-la en morceaux, et verse sur elle ⟨את⟩ l'huile ; c'est une offrande.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "fais-la en morceaux"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "",
+      "marks": "morceaux"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "morceaux"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "et verse"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "offrande"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-04T07:26:36.098389737Z",
+  "model": "glm-4.5"
+}

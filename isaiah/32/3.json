@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et ne seront pas voilées ⟨les⟩ yeux de ceux qui voient, et ⟨les⟩ oreilles de ceux qui entendent écouteront",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et ne"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "seront pas voilées"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "⟨les⟩ yeux"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "de ceux qui voient"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "et ⟨les⟩ oreilles"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "de ceux qui entendent"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "écouteront"
+    }
+  ],
+  "timestamp": "2026-08-04T15:27:20.176072288Z",
+  "model": "glm-4.5"
+}

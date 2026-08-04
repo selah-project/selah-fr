@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et dix jeunes hommes portant ⟨les⟩ armes de Joab l'entourèrent et frappèrent ⟨את⟩ Avshalom et le firent mourir.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Et l'entourèrent"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dix"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jeunes hommes"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "portant"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "⟨les⟩ armes"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "de Joab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et frappèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "et le firent mourir"
+    }
+  ],
+  "timestamp": "2026-08-04T13:17:51.158346758Z",
+  "model": "glm-4.5"
+}

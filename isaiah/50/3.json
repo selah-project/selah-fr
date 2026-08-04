@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Je vêts les cieux de noir, et du sac je fais leur couverture.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Je vêts"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "de noir"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "et du sac"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "je fais"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "leur couverture"
+    }
+  ],
+  "timestamp": "2026-08-04T15:45:28.502020238Z",
+  "model": "glm-4.5"
+}

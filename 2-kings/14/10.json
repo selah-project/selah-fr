@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Tu as frappé ⟨את⟩ Édom et ton cœur s'est élevé ; glorifie-toi et reste dans ta maison ; et pourquoi t'engages-tu ⟨dans⟩ ⟨le⟩ mal, que tu tombes, toi et Juda avec toi ?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "tu as frappé"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tu as frappé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Édom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "et ton cœur s'est élevé"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "et ton cœur"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "glorifie-toi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "et reste"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "dans ta maison"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "et pourquoi"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "t'engages-tu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dans le mal"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "que tu tombes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "et Juda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:27:41.031741013Z",
+  "model": "glm-4.5"
+}

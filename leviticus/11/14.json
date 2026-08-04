@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨את⟩ la daa et ⟨את⟩ la ayya selon son espèce",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "הדאה"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "la daa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "האיה"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "la ayya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:40.903413750Z",
+  "model": "glm-4.5"
+}

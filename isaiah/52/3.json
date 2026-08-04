@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Car ainsi a dit YHWH : pour rien vous avez été vendus, et ce n'est pas par de l'argent que vous serez rachetés.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "pour rien"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "vous avez été vendus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ce n'est pas"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "par de l'argent"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "vous serez rachetés"
+    }
+  ],
+  "timestamp": "2026-08-04T15:46:58.935758322Z",
+  "model": "glm-4.5"
+}

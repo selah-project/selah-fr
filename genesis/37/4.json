@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et ses frères virent que ⟨le⟩ père l'aimait ⟨את⟩ plus que tous ⟨ses⟩ frères, et ils le haïrent, et ne pouvaient ⟨le⟩ parler pour ⟨la⟩ paix.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Et virent"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aimait",
+      "marks": "le père l'aimait"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "⟨le⟩ père"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "plus que tous"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "⟨ses⟩ frères"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "et ils le haïrent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "ils le haïrent"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "pouvaient"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨le⟩ parler"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "pour ⟨la⟩ paix"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:21.200938941Z",
+  "model": "glm-4.5"
+}

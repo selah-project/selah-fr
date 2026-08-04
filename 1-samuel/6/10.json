@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et les hommes firent ainsi et prirent deux vaches allaitantes et les lièrent au chariot, et ⟨את⟩ leurs petits ils enfermèrent dans la maison",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Et firent"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "et prirent"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "deux"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "vaches"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "allaitantes"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "et les lièrent"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "au chariot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs petits"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "leurs petits"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ils enfermèrent"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    }
+  ],
+  "timestamp": "2026-08-04T12:10:54.257647405Z",
+  "model": "glm-4.5"
+}

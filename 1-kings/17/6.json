@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et les corbeaux lui apportaient du pain et de la viande le matin, et du pain et de la viande le soir, et il buvait du torrent.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Et les corbeaux"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "lui apportaient"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "et de la viande"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "et du pain"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "et de la viande"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "le soir"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et du"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "torrent"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "il buvait"
+    }
+  ],
+  "timestamp": "2026-08-04T13:56:46.037861778Z",
+  "model": "glm-4.5"
+}

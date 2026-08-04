@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Passez vers Tarsis, hurlez, habitants de l'île.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "Passez"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "vers Tarsis"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "hurlez"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "habitants"
+    },
+    {
+      "surface": "אי",
+      "gloss": "de l'île"
+    }
+  ],
+  "timestamp": "2026-08-04T15:17:31.276355005Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Prends ⟨את⟩ les Lévites du milieu des fils d'Israël et purifie-les",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "prends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Lévites"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "les Lévites"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "du milieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "et purifie-les"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-04T08:39:33.826025978Z",
+  "model": "glm-4.5"
+}

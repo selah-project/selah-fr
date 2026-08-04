@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et au premier mois, le quatorze ⟨du⟩ mois, Pessah ⟨est⟩ pour YHWH",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Et au mois"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "en quatre"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dix [quatorze]"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "au mois"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pessah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T09:27:48.424149858Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et tu placeras ⟨את⟩ le bassin entre le Tente d'Assignation et l'autel, et tu mettras là de l'eau",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "et tu placeras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bassin"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "le bassin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "le Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'Assignation"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "et tu mettras"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:40.693045234Z",
+  "model": "glm-4.5"
+}

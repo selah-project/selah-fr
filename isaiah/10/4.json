@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Sans moi ⟨ils⟩ fléchiront sous le prisonnier et sous les tués ⟨ils⟩ tomberont. Malgré tout cela, sa colère ne se ⟨est⟩ pas détournée, et encore sa main est tendue.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "sans moi"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "fléchiront"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "le prisonnier"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "et sous"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "les tués"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "tomberont"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "malgré tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "שב",
+      "gloss": "détournée"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sa colère"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "et encore"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "est tendue"
+    }
+  ],
+  "timestamp": "2026-08-04T14:57:46.611880512Z",
+  "model": "glm-4.5"
+}

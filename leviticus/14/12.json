@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et le prêtre prendra ⟨את⟩ l'agneau, l'un, et le présentera en sacrifice de culpabilité, et ⟨את⟩ le log d'huile, et les brandira, une offrande balancée, devant YHWH.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Et le prêtre prendra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'agneau"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "l'agneau"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "et le présentera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "en sacrifice de culpabilité"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "en sacrifice de culpabilité"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le log"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "d'huile"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "et les brandira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "une offrande balancée"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "une offrande balancée"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:50:32.385869252Z",
+  "model": "glm-4.5"
+}

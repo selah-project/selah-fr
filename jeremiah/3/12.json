@@ -1,0 +1,110 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 3:12",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Va, et proclame ces paroles vers le nord, et dis : Revenez, ⟨rebelle⟩ Israël — déclaration de YHWH — car je ne ferai pas tomber ma face sur vous, car je suis bienveillant — déclaration de YHWH — je ne garde pas ⟨pour⟩ toujours.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "et proclame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ces paroles"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ces paroles"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨ces⟩"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "vers le nord"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "et dis"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Revenez"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "⟨rebelle⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "car je ne"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "ferai pas tomber"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ma face"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sur vous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "je suis bienveillant"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨je suis⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אטור",
+      "gloss": "garde pas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨pour⟩ toujours"
+    }
+  ],
+  "timestamp": "2026-08-04T16:07:01.087086059Z",
+  "model": "glm-4.5"
+}

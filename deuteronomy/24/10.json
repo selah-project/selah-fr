@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Quand tu prêteras à ton compatriote n'importe quelle dette, tu n'entreras pas dans sa maison pour prendre son gage",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "tu prêteras"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "à ton compatriote"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "n'importe quelle dette"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu n'⟨entreras pas⟩"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "entreras"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "pour prendre"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "son gage"
+    }
+  ],
+  "timestamp": "2026-08-04T10:31:06.583893754Z",
+  "model": "glm-4.5"
+}

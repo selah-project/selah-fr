@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Tu ne feras pas dévier ⟨le⟩ jugement de ton indigent dans ⟨son⟩ litige",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "fais pas dévier"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨le⟩ jugement"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "de ton indigent"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "dans ⟨son⟩ litige"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:53.184151137Z",
+  "model": "glm-4.5"
+}

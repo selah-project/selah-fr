@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il fera expiation ⟨pour⟩ le sanctuaire ⟨contre⟩ les impuretés des fils d'Israël et ⟨contre⟩ leurs rébellions, pour tous leurs péchés ; et ainsi il fera ⟨pour⟩ la tente d'assignation, celle qui réside ⟨avec⟩ eux, au milieu de leurs impuretés.",
+  "tokens": [
+    {
+      "surface": "וְכִפֶּר",
+      "gloss": "Et il fera expiation"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨pour⟩ \/ ⟨contre⟩",
+      "marks": "sanctuaire \/ impuretés \/ rébellions"
+    },
+    {
+      "surface": "הַקֹּ֗דֶשׁ",
+      "gloss": "le sanctuaire"
+    },
+    {
+      "surface": "מִטֻּמְאֹת֙",
+      "gloss": "⟨contre⟩ les impuretés"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "וּמִפִּשְׁעֵיהֶ֖ם",
+      "gloss": "et ⟨contre⟩ leurs rébellions"
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "pour tous"
+    },
+    {
+      "surface": "חַטֹּאתָ֑ם",
+      "gloss": "leurs péchés"
+    },
+    {
+      "surface": "וְכֵ֤ן",
+      "gloss": "et ainsi"
+    },
+    {
+      "surface": "יַעֲשֶׂה֙",
+      "gloss": "il fera"
+    },
+    {
+      "surface": "לְאֹ֣הֶל",
+      "gloss": "⟨pour⟩ la tente"
+    },
+    {
+      "surface": "מוֹעֵ֔ד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "הַשֹּׁכֵ֣ן",
+      "gloss": "celle qui réside"
+    },
+    {
+      "surface": "אִתָּ֔ם",
+      "gloss": "⟨avec⟩ eux"
+    },
+    {
+      "surface": "בְּת֖וֹךְ",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "טֻמְאֹתָֽם",
+      "gloss": "de leurs impuretés"
+    }
+  ],
+  "timestamp": "2026-08-04T07:58:39.218165861Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 11:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Le peuple allait çà et là et ⟨le⟩ ramassait, et ⟨le⟩ broyait avec des meules ou ⟨le⟩ pilait dans un mortier, et ⟨le⟩ cuisait dans un pot, et en faisait ⟨את⟩ des galettes, et son goût était comme le goût d'une galette à l'huile.",
+  "tokens": [
+    {
+      "surface": "שטו",
+      "gloss": "allait çà et là"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "et ⟨le⟩ ramassait"
+    },
+    {
+      "surface": "וטחנו",
+      "gloss": "et ⟨le⟩ broyait"
+    },
+    {
+      "surface": "ברחים",
+      "gloss": "avec des meules"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "דכו",
+      "gloss": "⟨le⟩ pilait"
+    },
+    {
+      "surface": "במדכה",
+      "gloss": "dans un mortier"
+    },
+    {
+      "surface": "ובשלו",
+      "gloss": "et ⟨le⟩ cuisait"
+    },
+    {
+      "surface": "בפרור",
+      "gloss": "dans un pot"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "et en faisaient"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "des galettes"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "des galettes"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et était"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "son goût"
+    },
+    {
+      "surface": "כטעם",
+      "gloss": "comme le goût"
+    },
+    {
+      "surface": "לשד",
+      "gloss": "d'une galette"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "à l'huile"
+    }
+  ],
+  "timestamp": "2026-08-04T08:47:55.254338987Z",
+  "model": "glm-4.5"
+}

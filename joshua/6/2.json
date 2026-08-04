@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et YHWH dit à Yehoshoua : Regarde, j'ai donné dans ta main ⟨את⟩ Jéricho et ⟨את⟩ son roi, ⟨les⟩ guerriers du courage.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai donné"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "dans ta main"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jéricho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jéricho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son roi"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "son roi"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "guerriers"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "du courage"
+    }
+  ],
+  "timestamp": "2026-08-04T10:56:57.134403720Z",
+  "model": "glm-4.5"
+}

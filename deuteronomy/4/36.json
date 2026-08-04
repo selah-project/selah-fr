@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Des cieux il t'a fait entendre ⟨את⟩ sa voix pour t'instruire, et sur la terre il t'a montré ⟨את⟩ son grand feu, et ses paroles tu as entendues du milieu du feu",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "il t'a fait entendre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa voix"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "pour t'instruire"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "il t'a montré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son grand feu"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "son feu"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "et ses paroles"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu as entendues"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "du milieu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "du feu"
+    }
+  ],
+  "timestamp": "2026-08-04T09:55:59.521685399Z",
+  "model": "glm-4.5"
+}

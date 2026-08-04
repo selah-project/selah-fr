@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Ceux-ci ⟨sont⟩ les fils de Chem, selon leurs familles, selon leurs langues, dans leurs terres, selon leurs nations.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ceux-ci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "selon leurs familles"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "selon leurs langues"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "dans leurs terres"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "selon leurs nations"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:57.421532583Z",
+  "model": "glm-4.5"
+}

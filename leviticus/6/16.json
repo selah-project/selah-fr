@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et toute offrande du prêtre ⟨est⟩ consumée tout entière, elle ne sera pas mangée.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et toute"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "offrande"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "du prêtre"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "consumée tout entière"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sera pas mangée"
+    }
+  ],
+  "timestamp": "2026-08-04T07:33:33.768534593Z",
+  "model": "glm-4.5"
+}

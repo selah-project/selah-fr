@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 24:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et si la femme ne ⟨veut⟩ pas venir après toi, tu seras acquitté de mon serment, seulement, mon fils, ne le fais pas retourner là-bas.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "⟨veut⟩ pas"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "venir"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "après toi"
+    },
+    {
+      "surface": "ונקית",
+      "gloss": "tu seras acquitté"
+    },
+    {
+      "surface": "משבעתי",
+      "gloss": "de mon serment"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ","
+    },
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "fais pas retourner"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là-bas"
+    }
+  ],
+  "timestamp": "2026-08-04T05:29:50.673753692Z",
+  "model": "glm-4.5"
+}

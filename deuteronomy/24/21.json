@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Quand ⟨tu⟩ cueilles ta vigne, tu ne glaneras pas après toi : ce sera pour le résident, pour l'orphelin et pour la veuve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "⟨tu⟩ cueilles"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ta vigne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "glaneras"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "après toi"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "pour le résident"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "pour l'orphelin"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "et pour la veuve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ce sera"
+    }
+  ],
+  "timestamp": "2026-08-04T10:30:45.936832402Z",
+  "model": "glm-4.5"
+}

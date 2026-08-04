@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "En ce temps-là ⟨est⟩ tombé malade Abiya fils de Yarobam",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "En ce temps-là"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "tombé malade"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "de Yarobam"
+    }
+  ],
+  "timestamp": "2026-08-04T13:52:25.915527734Z",
+  "model": "glm-4.5"
+}

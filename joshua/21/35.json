@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnah et ⟨את⟩ sa banlieue, ⟨את⟩ Nahalal et ⟨את⟩ sa banlieue — villes quatre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnah"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa banlieue"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sa banlieue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa banlieue"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sa banlieue"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "villes"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quatre"
+    }
+  ],
+  "timestamp": "2026-08-04T11:24:19.111132817Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et aussi la main de YHWH ⟨a été⟩ contre eux pour les détruire du milieu du camp jusqu'à leur consommation.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la main"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨a été⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contre eux"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "pour les détruire"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "du milieu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "du camp"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "leur consommation"
+    }
+  ],
+  "timestamp": "2026-08-04T09:51:03.321597547Z",
+  "model": "glm-4.5"
+}

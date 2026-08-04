@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Moi, je vais ⟨le⟩ chemin de toute la terre ; sois fort, et montre-toi un homme",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi, je"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vais"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨le⟩ chemin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "sois fort"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "et montre-toi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "un homme"
+    }
+  ],
+  "timestamp": "2026-08-04T13:30:51.270632751Z",
+  "model": "glm-4.5"
+}

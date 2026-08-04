@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et la largeur du parvis du côté de l'orient, vers le levant, ⟨est⟩ cinquante coudées.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Et la largeur"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "du parvis"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "du côté de"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "l'orient"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "vers le levant"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquante"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "coudées"
+    }
+  ],
+  "timestamp": "2026-08-04T06:54:08.600697442Z",
+  "model": "glm-4.5"
+}

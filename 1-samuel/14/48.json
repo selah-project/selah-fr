@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et il fit ⟨une⟩ force et frappa ⟨את⟩ Amalek et délivra ⟨את⟩ Israël de ⟨la⟩ main de son pillard.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "force"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "et délivra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "de son pillard"
+    }
+  ],
+  "timestamp": "2026-08-04T12:25:15.773266565Z",
+  "model": "glm-4.5"
+}

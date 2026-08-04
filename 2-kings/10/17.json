@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il vint à Shoméron et frappa ⟨את⟩ tout ce qui restait à Ahab à Shoméron jusqu'à le détruire, selon la parole de YHWH, qu'il avait dite à Éliyahou",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et il vint"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "à Shoméron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce qui restait à Ahab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ce qui restait"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "à Ahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "à Shoméron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "le détruire"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il avait dite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Éliyahou"
+    }
+  ],
+  "timestamp": "2026-08-04T14:23:03.560237932Z",
+  "model": "glm-4.5"
+}

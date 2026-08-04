@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Yéhu détruisit ⟨את⟩ Baal du milieu d'Israël",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Et détruisit"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yéhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "du milieu d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:23:14.147105497Z",
+  "model": "glm-4.5"
+}

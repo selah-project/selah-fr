@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Les fils de Merari, selon leurs familles, selon la maison de leurs pères, tu ⟨dénombreras⟩ ⟨את⟩ eux.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Les fils de"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "selon leurs familles"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "selon la maison de"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "leurs pères"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tu ⟨dénombreras⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    }
+  ],
+  "timestamp": "2026-08-04T08:28:10.013651847Z",
+  "model": "glm-4.5"
+}

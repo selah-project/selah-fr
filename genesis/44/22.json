@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Et nous dîmes à mon seigneur : le jeune ne peut pas quitter ⟨את⟩ son père ; car il le quitterait ⟨את⟩ son père, et il mourrait.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Et nous dîmes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mon seigneur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "il peut"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "le jeune"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "quitter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "[il] quitterait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "et [il] mourrait"
+    }
+  ],
+  "timestamp": "2026-08-04T06:00:21.120448432Z",
+  "model": "glm-4.5"
+}

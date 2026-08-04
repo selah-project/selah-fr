@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et nous dîmes à lui : des hommes droits ⟨sont⟩ nous, pas ⟨nous n'⟩étions des espions",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Et nous dîmes"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "des hommes droits"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "⟨nous n'⟩étions"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "des espions"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:34.132608109Z",
+  "model": "glm-4.5"
+}

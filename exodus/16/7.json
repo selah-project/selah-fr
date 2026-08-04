@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "et le matin, vous verrez ⟨את⟩ la gloire de YHWH, car il a entendu ⟨את⟩ vos murmures contre YHWH ; et que sommes-nous, que vous murmuriiez contre nous ?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "et le matin"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "et vous verrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la gloire de YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "car il a entendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos murmures"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "vos murmures"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "et que sommes-nous"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "vous murmuriiez"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "contre nous"
+    }
+  ],
+  "timestamp": "2026-08-04T06:36:16.551120579Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Hurlez, car proche est le jour de YHWH, comme une destruction du Shaddaï elle viendra",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Hurlez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "proche"
+    },
+    {
+      "surface": "יום",
+      "gloss": "est le jour"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "comme une destruction"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "du Shaddaï"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "elle viendra"
+    }
+  ],
+  "timestamp": "2026-08-04T15:00:27.060749674Z",
+  "model": "glm-4.5"
+}

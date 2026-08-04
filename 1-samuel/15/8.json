@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et il saisit Agag roi d'Amalek vivant, et ⟨את⟩ tout le peuple il dévoua par le fil de l'épée",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Et il saisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "d'Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout le peuple"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "il dévoua"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "par le fil"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "de l'épée"
+    }
+  ],
+  "timestamp": "2026-08-04T12:25:55.688425622Z",
+  "model": "glm-4.5"
+}

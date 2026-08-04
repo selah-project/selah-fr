@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Moshé écrivit ⟨את⟩ ce chant, en ce jour-là, et l'enseigna ⟨את⟩ aux fils d'Israël",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Et il écrivit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce chant"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ce chant"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "et l'enseigna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aux fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aux fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T10:43:32.584552443Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Ainsi a dit YHWH Tsevaot : Je me suis souvenu ⟨את⟩ ce qu'Amaleq a fait à Israël, ⟨comment⟩ il s'est dressé contre lui dans la route lors de sa montée d'Égypte.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Je me suis souvenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qu'Amaleq a fait à Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "à Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨comment⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il s'est dressé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "contre lui"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la route"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "lors de sa montée"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T12:25:53.203336575Z",
+  "model": "glm-4.5"
+}

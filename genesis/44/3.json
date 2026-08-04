@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Le matin ⟨est⟩ lumière, et les hommes ⟨sont⟩ envoyés, eux et leurs ânes.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "Le matin"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumière"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "et les hommes"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "envoyés"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eux"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "et leurs ânes"
+    }
+  ],
+  "timestamp": "2026-08-04T05:59:45.821198702Z",
+  "model": "glm-4.5"
+}

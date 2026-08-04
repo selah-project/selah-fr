@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "et du bleu, et du violet, et ⟨de⟩ la cramoisie, et du lin, et des poils ⟨de⟩ chèvres",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "et du bleu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "et du violet"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "et ⟨de⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "cramoisie"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "et du lin"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "et des poils ⟨de⟩ chèvres"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:17.595046785Z",
+  "model": "glm-4.5"
+}

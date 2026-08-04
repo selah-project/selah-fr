@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "(car ils entendent ⟨את⟩ ton nom ⟨le⟩ grand et ⟨את⟩ ta main ⟨la⟩ forte, et ton bras ⟨le⟩ tendu ; et il vient, et prie vers cette maison)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ils entendent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton nom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "et ton bras"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "tendu"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "et il vient"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "et prie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "cette maison"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "cette"
+    }
+  ],
+  "timestamp": "2026-08-04T13:42:22.900170024Z",
+  "model": "glm-4.5"
+}

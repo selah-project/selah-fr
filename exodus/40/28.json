@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et il plaça ⟨את⟩ l'écran ⟨de⟩ l'entrée du mishkan",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Et il plaça"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'écran de l'entrée du mishkan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "l'écran"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "⟨de⟩ l'entrée"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "du mishkan"
+    }
+  ],
+  "timestamp": "2026-08-04T07:23:23.931378949Z",
+  "model": "glm-4.5"
+}

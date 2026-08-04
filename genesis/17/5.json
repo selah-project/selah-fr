@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et on n'appellera plus ton nom Abram, et ton nom sera Abraham, car père d'une multitude de nations je t'ai donné.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et on ne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "appellera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton nom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et sera"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אב",
+      "gloss": "père"
+    },
+    {
+      "surface": "המון",
+      "gloss": "d'une multitude"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "de nations"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "je t'ai donné"
+    }
+  ],
+  "timestamp": "2026-08-04T05:21:19.011535899Z",
+  "model": "glm-4.5"
+}

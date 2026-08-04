@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et il fit ⟨את⟩ la parvis ⟨du⟩ côté ⟨du⟩ sud témanite : les tentures ⟨de⟩ la parvis, lin torsadé, cent coudées",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parvis"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "la parvis"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "⟨du⟩ côté"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "⟨du⟩ sud"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "témanite"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "les tentures"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨de⟩ la parvis"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "torsadé"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cent"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "coudées"
+    }
+  ],
+  "timestamp": "2026-08-04T07:18:46.072522229Z",
+  "model": "glm-4.5"
+}

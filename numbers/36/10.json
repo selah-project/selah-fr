@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Comme ⟨le⟩ YHWH avait commandé ⟨את⟩ Mosheh, ainsi firent les filles de Tselophchad",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "firent"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "les filles"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "de Tselophchad"
+    }
+  ],
+  "timestamp": "2026-08-04T09:47:25.783236331Z",
+  "model": "glm-4.5"
+}

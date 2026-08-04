@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et YHWH dit : le cri de Sedom et d'Amora, car ⟨il est⟩ grand, et leur péché, car ⟨il est⟩ très grave",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "le cri"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "de Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "et d'Amora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grand"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "et leur péché"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "grave"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    }
+  ],
+  "timestamp": "2026-08-04T05:23:57.892359203Z",
+  "model": "glm-4.5"
+}

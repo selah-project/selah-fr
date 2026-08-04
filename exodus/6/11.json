@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Entre, parle à Pharaon, roi d'Égypte, et qu'il renvoie ⟨את⟩ les fils d'Israël de son pays",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Entre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et qu'il renvoie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "de son pays"
+    }
+  ],
+  "timestamp": "2026-08-04T06:19:03.553914708Z",
+  "model": "glm-4.5"
+}

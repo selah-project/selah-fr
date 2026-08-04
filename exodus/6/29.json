@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et YHWH parla à Moïse en disant : « Je suis YHWH, parle à Pharaon, roi d'Égypte, ⟨את⟩ tout ce que je te dis ».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Je suis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce que je te dis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:19:38.960005593Z",
+  "model": "glm-4.5"
+}

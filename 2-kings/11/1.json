@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Athaliah, mère d'Achazyah, vit que ⟨son⟩ fils ⟨était⟩ mort ; et elle se leva et détruisit ⟨את⟩ toute la descendance du royaume.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Et Athaliah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mère"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "d'Achazyah"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "fils ⟨était⟩ mort"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "et elle se leva"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "et détruisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la descendance du royaume"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "descendance"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "du royaume"
+    }
+  ],
+  "timestamp": "2026-08-04T14:24:10.730850244Z",
+  "model": "glm-4.5"
+}

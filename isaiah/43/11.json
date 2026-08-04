@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Moi, moi, ⟨je suis⟩ YHWH, et hors de moi il n'y a point de sauveur.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "hors de moi"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "sauveur"
+    }
+  ],
+  "timestamp": "2026-08-04T15:38:00.516743514Z",
+  "model": "glm-4.5"
+}

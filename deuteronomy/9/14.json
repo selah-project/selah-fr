@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Laisse-moi, et je les détruirai, et j'effacerai ⟨את⟩ leur nom de dessous les cieux, et je te ferai devenir une nation plus forte et plus grande que lui.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Laisse-moi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de par moi"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "et je les détruirai"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "et j'effacerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur nom"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "leur nom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de dessous"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "et je ferai"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ toi",
+      "marks": "une nation"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "une nation"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "plus forte"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et plus grande"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "que lui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:09:27.782362729Z",
+  "model": "glm-4.5"
+}

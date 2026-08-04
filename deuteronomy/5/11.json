@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Tu ne porteras pas ⟨את⟩ le nom de YHWH ton Élohim pour le néant, car YHWH ne tiendra pas pour innocent ⟨את⟩ qui portera ⟨את⟩ son nom pour le néant",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "porteras pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "pour le néant"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "tiendra pas pour innocent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "portera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "pour le néant"
+    }
+  ],
+  "timestamp": "2026-08-04T09:57:10.582166254Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Car tu as fait de la ville ⟨un⟩ monceau, de la ville forte ⟨une⟩ ruine, le palais des étrangers, pour qu'elle ne soit plus une ville, elle ne sera jamais reconstruite.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tu as fait"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "⟨un⟩ monceau"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "⟨une⟩ ruine"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "le palais"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "des étrangers"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "pour qu'elle ne soit plus une ville"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "à jamais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "elle sera construite"
+    }
+  ],
+  "timestamp": "2026-08-04T15:19:39.706965545Z",
+  "model": "glm-4.5"
+}

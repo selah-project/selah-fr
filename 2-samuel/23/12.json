@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "et il se tint au milieu du lot et il le délivra et il frappa ⟨את⟩ les Philistins et YHWH fit une grande délivrance",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "et il se tint"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "le lot"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "et il le délivra"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et il frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Philistins"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "délivrance"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-04T13:26:27.238506902Z",
+  "model": "glm-4.5"
+}

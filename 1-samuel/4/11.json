@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et l'arche d'Élohim fut prise, et les deux fils d'Éli moururent, Hophni et Pinhas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Et l'arche"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "fut prise"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "et les deux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "d'Éli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "moururent"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hophni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "et Pinhas"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:50.675482943Z",
+  "model": "glm-4.5"
+}

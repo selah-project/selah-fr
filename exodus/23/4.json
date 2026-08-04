@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Si tu rencontres ⟨le⟩ bœuf de ton ennemi ou son âne égaré, tu le retourneras, tu le retourneras sûrement à lui",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "tu rencontres"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨le⟩ bœuf"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "de ton ennemi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "son âne"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "égaré"
+    },
+    {
+      "surface": "השב",
+      "gloss": "tu le retourneras"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "tu le retourneras sûrement"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:46.178941980Z",
+  "model": "glm-4.5"
+}

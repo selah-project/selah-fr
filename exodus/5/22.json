@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Moïse retourna vers YHWH et dit : Adonaï, pourquoi as-tu fait du mal ⟨à⟩ ce peuple ? pourquoi ⟨est-ce⟩ que tu m'as envoyé ?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et retourna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "as-tu fait du mal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨au⟩ peuple"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨c'est que⟩"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "tu m'as envoyé"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:26.374234783Z",
+  "model": "glm-4.5"
+}

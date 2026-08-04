@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il sera quand vous viendrez vers ⟨la⟩ terre qu'YHWH donnera à vous comme il a parlé que vous gardiez ⟨את⟩ le service ⟨ce⟩",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et il sera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "vous viendrez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il a parlé"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "que vous gardiez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le service"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "le service"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨ce⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:28:29.371773503Z",
+  "model": "glm-4.5"
+}

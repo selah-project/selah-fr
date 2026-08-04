@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et tout homme d'Israël, en voyant ⟨את⟩ l'homme, s'enfuit de devant lui, et craignirent beaucoup.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "en voyant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'homme"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "s'enfuit"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de devant lui"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "et craignirent"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beaucoup"
+    }
+  ],
+  "timestamp": "2026-08-04T12:31:51.912833052Z",
+  "model": "glm-4.5"
+}

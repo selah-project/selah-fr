@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Prenez une offrande ⟨de⟩ chez vous pour YHWH, tout ⟨homme⟩ généreux de cœur la fera venir, ⟨את⟩ l'offrande de YHWH : or et argent et bronze",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "prenez"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨de⟩ chez vous"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "une offrande"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "⟨homme⟩ généreux"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "la fera venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande de YHWH"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "l'offrande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "or"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "et argent"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "et bronze"
+    }
+  ],
+  "timestamp": "2026-08-04T07:10:57.062085499Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Or la terre était tohou et bohou, et les ténèbres ⟨étaient⟩ sur la face de l'abîme, et le Rouah Élohim planait sur la face des eaux.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Or la terre"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "était"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohou"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "et bohou"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "et les ténèbres"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "l'abîme"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "et le Rouah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "planait"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:17.291706958Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Car ⟨la⟩ clameur a fait le tour ⟨את⟩ la frontière de Moab, jusqu'à Églaïm son hurlement, et ⟨à⟩ Beer-Élim son hurlement",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "a fait le tour"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "⟨la⟩ clameur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la frontière"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "la frontière"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Églaïm"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "son hurlement"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "et ⟨à⟩ Beer"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "-Élim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "son hurlement"
+    }
+  ],
+  "timestamp": "2026-08-04T15:04:36.062585603Z",
+  "model": "glm-4.5"
+}

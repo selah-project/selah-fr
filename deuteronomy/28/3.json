@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "tu ⟨es⟩ béni dans ⟨la⟩ ville et tu ⟨es⟩ béni dans ⟨le⟩ champ",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "béni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans ⟨la⟩ ville"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "et tu ⟨es⟩ béni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans ⟨le⟩ champ"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:00.305710362Z",
+  "model": "glm-4.5"
+}

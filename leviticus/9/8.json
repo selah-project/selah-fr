@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Aaron s'approcha de l'autel et égorgea ⟨את⟩ le veau du sacrifice pour le péché qui ⟨est⟩ pour lui",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "et s'approcha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "et égorgea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le veau"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "le veau"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "du sacrifice pour le péché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:16.562050409Z",
+  "model": "glm-4.5"
+}

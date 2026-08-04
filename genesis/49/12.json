@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "plus sombre que ⟨le⟩ vin ⟨sont⟩ ses yeux, et plus blanc que ⟨le⟩ lait ⟨sont⟩ ses dents",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "plus sombre"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "que le vin"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "et plus blanc"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ses dents"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "que le lait"
+    }
+  ],
+  "timestamp": "2026-08-04T06:09:11.015481283Z",
+  "model": "glm-4.5"
+}

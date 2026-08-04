@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "isaiah 14:29",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Ne te réjouis pas, toute la Philistie, car ⟨le⟩ bâton ⟨de⟩ celui qui te frappe ⟨est⟩ brisé ; car de la racine ⟨d'un⟩ serpent sortira une vipère, et son fruit ⟨sera⟩ un saraph volant.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "te réjouis pas"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Philistie"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "toute ⟨la⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "⟨est⟩ brisé"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "bâton"
+    },
+    {
+      "surface": "מכך",
+      "gloss": "⟨de⟩ celui qui te frappe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "de la racine"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "⟨d'un⟩ serpent"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sortira"
+    },
+    {
+      "surface": "צפע",
+      "gloss": "une vipère"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "et son fruit"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "un saraph"
+    },
+    {
+      "surface": "מעופף",
+      "gloss": "volant"
+    }
+  ],
+  "timestamp": "2026-08-04T15:03:06.040706959Z",
+  "model": "glm-4.5"
+}

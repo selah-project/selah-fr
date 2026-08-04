@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Moi, moi, ⟨il est⟩ celui qui efface ⟨את⟩ tes révoltes pour moi-même, et ⟨את⟩ tes péchés, je ne me souviendrai pas.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "celui qui efface"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "tes révoltes",
+      "marks": "tes révoltes"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "pour moi-même"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "et ⟨את⟩ tes péchés",
+      "marks": "tes péchés"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne ... pas"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "me souviendrai"
+    }
+  ],
+  "timestamp": "2026-08-04T15:38:37.175391888Z",
+  "model": "glm-4.5"
+}

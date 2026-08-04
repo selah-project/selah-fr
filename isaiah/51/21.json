@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "C'est pourquoi, écoute maintenant, ceci, toi, l'affligée, et l'ivrogne, mais ⟨pas⟩ de vin",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "toi, l'affligée"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "et l'ivrogne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "de vin"
+    }
+  ],
+  "timestamp": "2026-08-04T15:46:16.370302753Z",
+  "model": "glm-4.5"
+}

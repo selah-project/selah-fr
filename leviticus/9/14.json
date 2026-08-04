@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et il lava ⟨את⟩ l'intérieur et ⟨את⟩ les jambes et il fit fumer sur ⟨l'ola⟩ l'autel",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "et il lava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'intérieur"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "l'intérieur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les jambes"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "les jambes"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "et il fit fumer"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨l'ola⟩"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:35.921509018Z",
+  "model": "glm-4.5"
+}

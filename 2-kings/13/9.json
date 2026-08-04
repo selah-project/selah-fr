@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-kings 13:9",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Yehoahaz s'étendit avec ses pères et on l'ensevelit dans Samarie et Yoash son fils régna à sa place",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Et s'étendit"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ses pères"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "et on l'ensevelit"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "dans Samarie"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "et régna"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "à sa place"
+    }
+  ],
+  "timestamp": "2026-08-04T14:26:30.926307094Z",
+  "model": "glm-4.5"
+}

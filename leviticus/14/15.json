@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et le prêtre prendra du log de l'huile et ⟨le⟩ versera sur ⟨la⟩ paume de ⟨la⟩ main gauche du prêtre",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "et prendra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "du log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "de l'huile"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "et versera"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כף",
+      "gloss": "paume"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "du prêtre"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "gauche"
+    }
+  ],
+  "timestamp": "2026-08-04T07:50:24.551790532Z",
+  "model": "glm-4.5"
+}

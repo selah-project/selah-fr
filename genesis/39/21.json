@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et YHWH était avec Joseph et étendit vers lui du hessed et donna sa faveur aux yeux du chef de la prison.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et [il] fut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨avec⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "et étendit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hessed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et donna"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "sa faveur"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "שר",
+      "gloss": "le chef"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "du cercle (prison)"
+    }
+  ],
+  "timestamp": "2026-08-04T05:51:47.604686609Z",
+  "model": "glm-4.5"
+}

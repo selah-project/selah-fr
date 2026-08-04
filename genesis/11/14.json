@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Shelah vécut trente ans et engendra ⟨את⟩ Éber",
+  "tokens": [
+    {
+      "surface": "וְשֶׁלַח",
+      "gloss": "Et Shelah"
+    },
+    {
+      "surface": "חַי",
+      "gloss": "vécut"
+    },
+    {
+      "surface": "שְׁלֹשִׁים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "וַיּוֹלֶד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Éber"
+    },
+    {
+      "surface": "עֵֽבֶר",
+      "gloss": "Éber"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:42.356360679Z",
+  "model": "glm-4.5"
+}

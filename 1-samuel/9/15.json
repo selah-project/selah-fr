@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Or YHWH avait découvert ⟨את⟩ l'oreille de Shemouël un jour avant la venue de Shaoul, pour dire",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Or YHWH"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "avait découvert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'oreille de Shemouël"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'oreille"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "de Shemouël"
+    },
+    {
+      "surface": "יום",
+      "gloss": "un jour"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "avant"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "la venue"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "de Shaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T12:15:11.019014129Z",
+  "model": "glm-4.5"
+}

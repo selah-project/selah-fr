@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si le soleil s'est levé sur lui, ⟨il y a⟩ du sang pour lui — il fera pleine restitution ; s'il n'a rien, il sera vendu pour son vol.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "s'est levé"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "du sang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "restitution"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fera"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rien"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "il sera vendu"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "pour son vol"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:12.721420448Z",
+  "model": "glm-4.5"
+}

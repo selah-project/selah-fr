@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et voici ⟨les⟩ princes qui ⟨étaient⟩ à lui : Azaryahou, fils de Tsadoq, ⟨le⟩ prêtre",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et voici"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "⟨les⟩ princes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨étaient⟩ à lui"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨le⟩ prêtre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:04.586507424Z",
+  "model": "glm-4.5"
+}

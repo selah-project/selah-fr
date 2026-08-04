@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Le désert et le lieu aride ⟨se⟩ réjouiront, et la steppe ⟨sera⟩ dans l'allégresse et fleurira comme le narcisse.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "se réjouiront"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "le désert"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "et le lieu aride"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "et ⟨sera⟩ dans l'allégresse"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "et la steppe"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "et fleurira"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "comme le narcisse"
+    }
+  ],
+  "timestamp": "2026-08-04T15:29:59.700096461Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "N'est-ce pas encore un peu, un peu, et le Liban deviendra le Carmel, et le Carmel sera réputé comme une forêt ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un peu"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "un peu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "et deviendra"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "le Liban"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "le Carmel"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "et le Carmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "comme une forêt"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sera réputé"
+    }
+  ],
+  "timestamp": "2026-08-04T15:24:25.432646441Z",
+  "model": "glm-4.5"
+}

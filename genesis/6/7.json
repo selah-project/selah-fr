@@ -1,0 +1,102 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et YHWH dit : j'effacerai ⟨את⟩ l'humain que j'ai créé de dessus la face de la terre, depuis l'humain jusqu'à la bête, jusqu'au reptile, et jusqu'à l'oiseau des cieux, car je me repens de les avoir faits.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "j'effacerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "j'ai créé"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de dessus"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "depuis l'humain"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "la bête"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "au reptile"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "l'oiseau"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "je me repens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "les avoir faits"
+    }
+  ],
+  "timestamp": "2026-08-04T05:05:20.165165618Z",
+  "model": "glm-4.5"
+}

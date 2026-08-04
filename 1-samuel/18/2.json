@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Chaoul le prit ce jour-là et ne ⟨le⟩ permit pas de retourner ⟨à⟩ la maison de son père.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Et Chaoul le prit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ce jour-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "permit pas"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "de retourner"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨à⟩ la maison"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    }
+  ],
+  "timestamp": "2026-08-04T12:33:29.155295180Z",
+  "model": "glm-4.5"
+}

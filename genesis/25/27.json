@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 25:27",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et les garçons grandirent, et Esav fut un homme connaissant ⟨la⟩ chasse, un homme des champs, et Yaakov ⟨fut⟩ un homme parfait, habitant ⟨des⟩ tentes.",
+  "tokens": [
+    {
+      "surface": "ויגדלו",
+      "gloss": "Et grandirent"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "les garçons"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et fut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connaissant"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "⟨la⟩ chasse",
+      "marks": "la chasse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "des champs"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "et Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "תם",
+      "gloss": "parfait"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitant"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "⟨des⟩ tentes",
+      "marks": "des tentes"
+    }
+  ],
+  "timestamp": "2026-08-04T05:32:33.979390880Z",
+  "model": "glm-4.5"
+}

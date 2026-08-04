@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Fais-toi une arche de bois de gopher, des nids tu feras ⟨את⟩ l'arche, et tu la couvriras de bitume ⟨את⟩ dedans et ⟨את⟩ dehors par le bitume",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "fais"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "une arche"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "de bois"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "de gopher"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "des nids"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "et tu la couvriras"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dedans"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de dedans"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "et dehors"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "par le bitume"
+    }
+  ],
+  "timestamp": "2026-08-04T05:05:33.634501749Z",
+  "model": "glm-4.5"
+}

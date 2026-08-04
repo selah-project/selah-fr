@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "genesis 41:33",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et maintenant, que Paroh voie ⟨un⟩ homme discernant et sage, et ⟨le⟩ mette sur ⟨la⟩ terre de Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "voie"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "discernant"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "et sage"
+    },
+    {
+      "surface": "וישיתהו",
+      "gloss": "et ⟨le⟩ mette"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-04T05:54:46.961435093Z",
+  "model": "glm-4.5"
+}

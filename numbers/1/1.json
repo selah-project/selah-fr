@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH parla à Moïse dans le désert de Sinaï, dans ⟨le⟩ tent⟨e⟩ de rendez-vous, le premier ⟨du⟩ second mois, la seconde année de leur sortie ⟨du⟩ pays d'Égypte, en disant",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et YHWH parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "de Sinaï"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dans la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "de rendez-vous"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "השני",
+      "gloss": "second"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "la seconde année"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "seconde"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "de leur sortie"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T08:21:25.311968134Z",
+  "model": "glm-4.5"
+}

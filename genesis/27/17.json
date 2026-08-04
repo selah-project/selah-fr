@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "et elle donna ⟨את⟩ les mets succulents et ⟨את⟩ le pain qu'elle avait préparé dans la main de Jacob son fils",
+  "tokens": [
+    {
+      "surface": "וַתִּתֵּן",
+      "gloss": "et elle donna"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les mets succulents"
+    },
+    {
+      "surface": "הַמַּטְעַמִּ֛ים",
+      "gloss": "les mets succulents"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le pain"
+    },
+    {
+      "surface": "הַלֶּ֖חֶם",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עָשָׂ֑תָה",
+      "gloss": "elle avait préparé"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "יַעֲקֹ֥ב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "בְּנָֽהּ",
+      "gloss": "son fils"
+    }
+  ],
+  "timestamp": "2026-08-04T05:34:45.044866263Z",
+  "model": "glm-4.5"
+}

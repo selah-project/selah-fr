@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "et vous ⟨vous⟩ garderez très soigneusement pour vos nefesh d'aimer ⟨את⟩ YHWH votre Élohim",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "et vous ⟨vous⟩ garderez"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très soigneusement"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "pour vos nefesh"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "d'aimer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T11:29:38.399047456Z",
+  "model": "glm-4.5"
+}

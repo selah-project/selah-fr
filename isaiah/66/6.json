@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Une voix de tumulte ⟨vient⟩ de la ville, une voix du Temple, une voix de YHWH faisant le paiement à ses ennemis.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Une voix"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "de tumulte"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "⟨vient⟩ de la ville"
+    },
+    {
+      "surface": "קול",
+      "gloss": "une voix"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "du Temple"
+    },
+    {
+      "surface": "קול",
+      "gloss": "une voix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "faisant le paiement"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "le paiement"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "à ses ennemis"
+    }
+  ],
+  "timestamp": "2026-08-04T16:01:29.405756085Z",
+  "model": "glm-4.5"
+}

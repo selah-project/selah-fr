@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Il dit : Je serai avec toi, et ceci ⟨est⟩ pour toi le signe que c'est moi qui t'ai envoyé : quand tu auras fait sortir ⟨את⟩ le peuple d'Égypte, vous servirez ⟨את⟩ Élohim sur cette montagne-ci.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Il dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Je serai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "et ceci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "האות",
+      "gloss": "le signe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "c'est moi"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "qui t'ai envoyé"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "quand tu auras fait sortir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "vous servirez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T06:15:37.341326197Z",
+  "model": "glm-4.5"
+}

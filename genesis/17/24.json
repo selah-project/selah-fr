@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et Abraham ⟨est⟩ fils de quatre-vingt-dix-neuf ans, en se faisant circoncire la chair de son prépuce",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Et Abraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨est⟩ fils"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "quatre-vingt-dix"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "et neuf"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "en se faisant circoncire"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "de son prépuce"
+    }
+  ],
+  "timestamp": "2026-08-04T05:22:17.219649876Z",
+  "model": "glm-4.5"
+}

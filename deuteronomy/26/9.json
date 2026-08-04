@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et il nous a fait venir vers ce lieu-ci et il nous a donné ⟨את⟩ la terre-ci, une terre ruisselant de lait et de miel",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "et il nous a fait venir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et il a donné"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "à nous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre-ci"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ruisselant"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "de lait"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "et de miel"
+    }
+  ],
+  "timestamp": "2026-08-04T10:34:28.464866809Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Ils ont soigné ⟨את⟩ la brèche de mon peuple à la légère, disant : Shalom, shalom, et il n'y a pas de shalom.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "Ils ont soigné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la brèche"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "la brèche"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "de mon peuple"
+    },
+    {
+      "surface": "על",
+      "gloss": "à la légère"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "à la légère"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de shalom"
+    }
+  ],
+  "timestamp": "2026-08-04T16:12:29.884762837Z",
+  "model": "glm-4.5"
+}

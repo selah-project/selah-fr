@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il dit : Viens avec moi et vois ⟨ma⟩ zèle pour YHWH ; et ils le firent monter ⟨את⟩ dans son char.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Viens"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et vois"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "ma zèle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "et ils firent monter"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dans son char"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "dans son char"
+    }
+  ],
+  "timestamp": "2026-08-04T14:22:41.915238964Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et tu prendras ⟨את⟩ l'huile de l'onction et tu verseras sur sa tête et tu oindras ⟨את⟩ lui",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "et tu prendras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'huile"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de l'onction"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "et tu verseras"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sa tête"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "et tu oindras"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T06:58:01.639861757Z",
+  "model": "glm-4.5"
+}

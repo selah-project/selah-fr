@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Tu vois ⟨de⟩ nombreuses choses et tu ne ⟨les⟩ gardes pas ; des oreilles ouvertes et il n'entend pas.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Tu vois"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "nombreuses choses"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "gardes pas"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ouvertes"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "oreilles"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "il n'entend pas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:29.114399905Z",
+  "model": "glm-4.5"
+}

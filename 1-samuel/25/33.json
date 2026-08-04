@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-samuel 25:33",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et béni ⟨est⟩ ton jugement et bénie ⟨es⟩-tu, ⟨את⟩ celle qui m'a retenu ce jour-ci de venir en sangs et de sauver ma main pour moi.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "et béni"
+    },
+    {
+      "surface": "טעמך",
+      "gloss": "ton jugement"
+    },
+    {
+      "surface": "וברוכה",
+      "gloss": "et bénie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celle qui m'a retenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celle qui"
+    },
+    {
+      "surface": "כלתני",
+      "gloss": "m'a retenu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ce jour-ci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "de venir"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "en sangs"
+    },
+    {
+      "surface": "והשע",
+      "gloss": "et de sauver"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:44:32.516331442Z",
+  "model": "glm-4.5"
+}

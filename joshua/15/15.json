@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et ⟨il⟩ monta de là vers les habitants de Debir — et le nom de Debir auparavant ⟨était⟩ Qiryat-Sépher —",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Et ⟨il⟩ monta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants de"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "et le nom de"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "auparavant"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "-Sépher"
+    }
+  ],
+  "timestamp": "2026-08-04T11:10:15.936023214Z",
+  "model": "glm-4.5"
+}

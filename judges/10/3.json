@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et après lui se leva Yaïr le Guiléadien et il jugea ⟨את⟩ Israël vingt-deux ans",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et se leva"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "après lui"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yaïr"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "le Guiléadien"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "et il jugea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "-deux"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    }
+  ],
+  "timestamp": "2026-08-04T11:47:25.928261850Z",
+  "model": "glm-4.5"
+}

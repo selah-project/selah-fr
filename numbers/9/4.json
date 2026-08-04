@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Mosheh parla aux fils d'Israël pour faire ⟨le⟩ Pessah",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨le⟩ Pessah",
+      "marks": "le Pessah"
+    }
+  ],
+  "timestamp": "2026-08-04T08:41:36.808446310Z",
+  "model": "glm-4.5"
+}

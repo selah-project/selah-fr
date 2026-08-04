@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et si ⟨il est⟩ un homme pauvre, tu ne dormiras pas ⟨avec⟩ son gage",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pauvre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "dormiras pas"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "⟨avec⟩ son gage"
+    }
+  ],
+  "timestamp": "2026-08-04T10:31:15.866404676Z",
+  "model": "glm-4.5"
+}

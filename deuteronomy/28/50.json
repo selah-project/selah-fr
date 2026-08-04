@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "une nation au visage impitoyable qui ne ⟨fera⟩ pas accueil ⟨au⟩ vieillard et ⟨au⟩ jeune ne ⟨fera⟩ pas grâce",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "une nation"
+    },
+    {
+      "surface": "עז",
+      "gloss": "impitoyable"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "au visage"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "fera accueil"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨au⟩"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "vieillard"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "et ⟨au⟩ jeune"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "fera grâce"
+    }
+  ],
+  "timestamp": "2026-08-04T10:38:41.716756544Z",
+  "model": "glm-4.5"
+}

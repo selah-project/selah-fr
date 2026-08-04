@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et je fis venir ⟨את⟩ vous vers ⟨את⟩ la terre de l'Amoréen, celui qui réside au-delà du Jourdain, et ils firent la guerre avec vous, et je les donnai en ⟨את⟩ main de vous, et vous possédâtes ⟨את⟩ leur terre, et je les détruisis de devant vous.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "Et je fis venir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "אל"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de l'Amoréen"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "celui qui réside"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "au-delà"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "du Jourdain"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "et ils firent la guerre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "et je donnai"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ eux",
+      "marks": "בידכם"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "en main de vous"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "et vous possédâtes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ארצם"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur terre"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "et je les détruisis"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "de devant vous"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:21.081681703Z",
+  "model": "glm-4.5"
+}

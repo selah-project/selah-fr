@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il fit ⟨את⟩ la maison des hauts-lieux, et il fit des prêtres des extrémités du peuple, qui n'étaient pas des fils de Lévi",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison des hauts-lieux"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "במות",
+      "gloss": "des hauts-lieux"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et il fit"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "des prêtres"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "des extrémités"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'étaient pas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "étaient"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Lévi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:49:35.484660534Z",
+  "model": "glm-4.5"
+}

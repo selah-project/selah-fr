@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Sanctifie pour moi tout premier-né, l'ouverture de toute matrice parmi les fils d'Israël, tant ⟨de⟩ l'humain que ⟨de⟩ la bête, à moi il est.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Sanctifie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premier-né"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "l'ouverture"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "matrice"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "parmi les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tant ⟨de⟩ l'humain"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "que ⟨de⟩ la bête"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:44.724082901Z",
+  "model": "glm-4.5"
+}

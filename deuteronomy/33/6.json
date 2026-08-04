@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Vive Ruben et qu'il ne meure pas, et que ses hommes soient en nombre.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et qu'il ne"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "meure pas"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et que"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ses hommes"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "soient en nombre"
+    }
+  ],
+  "timestamp": "2026-08-04T10:47:56.972662916Z",
+  "model": "glm-4.5"
+}

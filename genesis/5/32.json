@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Noé ⟨était⟩ fils de cinq cents ans et Noé engendra ⟨את⟩ Chem ⟨את⟩ Ham et ⟨את⟩ Japheth",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et ⟨était⟩"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et Noé engendra"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Chem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Japheth"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Japheth"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:42.889064491Z",
+  "model": "glm-4.5"
+}

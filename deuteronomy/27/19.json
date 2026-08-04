@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit soit celui qui pervertit le jugement du résident, de l'orphelin et de la veuve ; et tout le peuple dira : Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maudit soit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "⟨celui qui pervertit⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "גר",
+      "gloss": "du résident"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "de l'orphelin"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "et de la veuve"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:20.611896887Z",
+  "model": "glm-4.5"
+}

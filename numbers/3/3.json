@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Voici les noms des fils d’Aaron, les cohanim, les oints, dont il a rempli la main pour officier comme cohen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "les noms"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d’Aaron"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les cohanim"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "les oints"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "il a rempli"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "la main"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pour officier comme cohen"
+    }
+  ],
+  "timestamp": "2026-08-04T08:25:39.478886173Z",
+  "model": "glm-4.5"
+}

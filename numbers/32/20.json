@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Moshé leur dit : Si vous faites ⟨ce⟩ ⟨את⟩ ⟨chose⟩, si vous vous armez devant YHWH pour ⟨la⟩ guerre",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la chose"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la chose"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "vous vous armez"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pour la guerre"
+    }
+  ],
+  "timestamp": "2026-08-04T09:41:10.502031480Z",
+  "model": "glm-4.5"
+}

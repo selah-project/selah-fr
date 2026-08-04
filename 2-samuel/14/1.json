@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et Joab, fils de Tseruya, savait que ⟨le⟩ cœur ⟨du⟩ roi ⟨était⟩ pour Abshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "et ... savait"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "de Tseruya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cœur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:11:08.520761939Z",
+  "model": "glm-4.5"
+}

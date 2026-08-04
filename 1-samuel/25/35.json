@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et David prit de sa main ⟨את⟩ ce qu'elle avait apporté pour lui, et il lui dit : Monte pour la paix vers ta maison, regarde, j'ai entendu ta voix et j'ai accepté ta face.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "de sa main"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qu'elle avait apporté"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "elle avait apporté"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "et il lui"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Monte"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pour la paix"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "vers ta maison"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "j'ai entendu"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "ta voix"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "et j'ai accepté"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    }
+  ],
+  "timestamp": "2026-08-04T12:44:38.371006520Z",
+  "model": "glm-4.5"
+}

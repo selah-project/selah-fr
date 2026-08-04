@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "YHWH régnera ⟨pour⟩ l'éternité et ⟨pour⟩ toujours.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "régnera"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "⟨pour⟩ l'éternité"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et ⟨pour⟩ toujours"
+    }
+  ],
+  "timestamp": "2026-08-04T06:34:49.966481890Z",
+  "model": "glm-4.5"
+}

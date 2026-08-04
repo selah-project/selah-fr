@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit soit celui qui couche avec sa belle-mère ; et tout le peuple dira : Amen.",
+  "tokens": [
+    {
+      "surface": "אָרוּר",
+      "gloss": "Maudit"
+    },
+    {
+      "surface": "שֹׁכֵב",
+      "gloss": "celui qui couche"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "חֹֽתַנְתּ֑וֹ",
+      "gloss": "sa belle-mère"
+    },
+    {
+      "surface": "וְאָמַר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אָמֵן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:27.485576743Z",
+  "model": "glm-4.5"
+}

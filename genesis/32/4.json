@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Jacob envoya des messengers devant lui vers Ésaü son frère, ⟨au⟩ pays de Séïr, ⟨le⟩ champ d'Édom",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "des messengers"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨au⟩ pays"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de Séïr"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨le⟩ champ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "d'Édom"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:08.334528940Z",
+  "model": "glm-4.5"
+}

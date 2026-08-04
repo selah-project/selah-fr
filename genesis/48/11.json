@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Et Israël dit à Joseph : voir ton visage, je ne l'avais pas espéré, et voici, Élohim m'a fait voir aussi ⟨את⟩ ta descendance.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "voir"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ton visage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne l'avais pas"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "espéré"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "a fait voir"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "me",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta descendance"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ta descendance"
+    }
+  ],
+  "timestamp": "2026-08-04T06:07:46.864134623Z",
+  "model": "glm-4.5"
+}

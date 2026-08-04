@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Quiconque est trouvé sera percé, et quiconque est capturé tombera par l'épée.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Quiconque"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "est trouvé"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "sera percé"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et quiconque"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "est capturé"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tombera"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "par l'épée"
+    }
+  ],
+  "timestamp": "2026-08-04T15:00:41.172713504Z",
+  "model": "glm-4.5"
+}

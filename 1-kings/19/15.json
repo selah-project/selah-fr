@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et YHWH lui ⟨dit⟩ : va, retourne sur ton chemin ⟨vers⟩ le désert de Damas, et viens, et oins ⟨את⟩ Hazael pour roi sur Aram",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et YHWH ... dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "retourne"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "sur ton chemin"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "⟨vers⟩ le désert"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "de Damas"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "et viens"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "et oins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pour roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-04T14:00:02.537051850Z",
+  "model": "glm-4.5"
+}

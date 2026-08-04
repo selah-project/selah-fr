@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et le cohen apportera devant YHWH et fera ⟨le⟩ sacrifice pour le péché et ⟨l⟩offrande d'élévation.",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִיב",
+      "gloss": "Et apportera"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וְעָשָׂה",
+      "gloss": "et fera"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨le⟩",
+      "marks": "sacrifice pour le péché"
+    },
+    {
+      "surface": "חַטָּאתֽוֹ",
+      "gloss": "sacrifice pour le péché"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨l⟩",
+      "marks": "offrande d'élévation"
+    },
+    {
+      "surface": "עֹלָתוֹ",
+      "gloss": "offrande d'élévation"
+    }
+  ],
+  "timestamp": "2026-08-04T08:33:49.876033214Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "De vin et de boisson forte, il s'abstiendra, vinaigre de vin et vinaigre de boisson forte, il n'en boira pas, et tout jus de raisins, il n'en boira pas, et raisins frais et secs, il n'en mangera pas",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "de vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "et de boisson forte"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "il s'abstiendra"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinaigre"
+    },
+    {
+      "surface": "יין",
+      "gloss": "de vin"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "et vinaigre"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "de boisson forte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'en"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "boira pas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "jus"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "de raisins"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'en"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "boira pas"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "et raisins"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "frais"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "et secs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'en"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera pas"
+    }
+  ],
+  "timestamp": "2026-08-04T08:33:32.622543172Z",
+  "model": "glm-4.5"
+}

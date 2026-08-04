@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et YHWH alla ⟨quand⟩ il ⟨eut⟩ achevé de parler à Abraham, et Abraham retourna à son lieu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨quand⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "il ⟨eut⟩ achevé"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "de parler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "et Abraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "retourna"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "à son lieu"
+    }
+  ],
+  "timestamp": "2026-08-04T05:24:03.975961364Z",
+  "model": "glm-4.5"
+}

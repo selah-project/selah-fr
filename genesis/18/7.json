@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "et ⟨vers⟩ ⟨le⟩ bétail courut Abraham et prit un fils ⟨de⟩ bétail tendre et bon et donna ⟨à⟩ ⟨le⟩ jeune homme et ⟨se⟩ hâta ⟨de⟩ faire ⟨את⟩ lui",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "et"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "⟨le⟩ bétail"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "courut"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨de⟩ bétail"
+    },
+    {
+      "surface": "רך",
+      "gloss": "tendre"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "et bon"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et donna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨le⟩ jeune homme"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "et ⟨se⟩ hâta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨de⟩ faire"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "le veau"
+    }
+  ],
+  "timestamp": "2026-08-04T05:23:12.073018847Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et l'on dit au roi de Jéricho : Voici, des hommes sont venus ici cette nuit, des fils d'Israël, pour espionner ⟨את⟩ le pays.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et l'on dit"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "au roi"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "de Jéricho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "des hommes"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sont venus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "cette nuit"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "pour espionner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pays"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le pays"
+    }
+  ],
+  "timestamp": "2026-08-04T10:50:27.817709235Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Je vis ⟨את⟩ la terre, et voici, c'était ⟨un⟩ tohou et ⟨un⟩ bohou, et ⟨vers⟩ les cieux, et ils n'avaient pas leur lumière.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Je vis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohou"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "et bohou"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ⟨vers⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ils n'avaient pas"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "leur lumière"
+    }
+  ],
+  "timestamp": "2026-08-04T16:07:47.188497923Z",
+  "model": "glm-4.5"
+}

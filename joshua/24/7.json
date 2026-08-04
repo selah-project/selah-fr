@@ -1,0 +1,107 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "joshua 24:7",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et ils crièrent vers YHWH et il mit de l'obscurité entre vous et les Égyptiens et ⟨il⟩ fit venir sur eux ⟨את⟩ la mer et la couvrit et vos yeux ont vu ⟨את⟩ ce que j'ai fait en Égypte et vous demeurâtes dans le désert des jours nombreux",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Et ils crièrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et il mit"
+    },
+    {
+      "surface": "מאפל",
+      "gloss": "de l'obscurité"
+    },
+    {
+      "surface": "ביניכם",
+      "gloss": "entre vous"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il fit venir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "et la couvrit"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "et vos yeux ont vu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vos yeux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que j'ai fait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "j'ai fait"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "et vous demeurâtes"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreux"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:43.846391838Z",
+  "model": "glm-4.5"
+}

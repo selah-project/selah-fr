@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "L'herbe sèche, la fleur tombe, mais la parole de notre Élohim se dresse pour toujours.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "sèche"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "l'herbe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "tombe"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "la fleur"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mais la parole"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "de notre Élohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se dresse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-04T15:35:26.919315272Z",
+  "model": "glm-4.5"
+}

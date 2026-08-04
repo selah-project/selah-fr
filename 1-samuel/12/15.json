@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et si vous n'écoutez pas ⟨la⟩ voix de YHWH et que vous vous rebelliez contre ⟨את⟩ la bouche de YHWH, alors ⟨la⟩ main de YHWH sera contre vous et contre vos pères",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "vous n'écoutez"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨la⟩ voix de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "et que vous vous rebelliez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bouche de YHWH"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "alors sera"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨la⟩ main de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contre vous"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "et contre vos pères"
+    }
+  ],
+  "timestamp": "2026-08-04T12:20:07.446450643Z",
+  "model": "glm-4.5"
+}

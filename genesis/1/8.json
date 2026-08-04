@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim appela l'étendue cieux. Et il y eut soir, et il y eut matin, second jour.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "l'étendue"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Et il y eut"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il y eut"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "שני",
+      "gloss": "second"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:13.110326625Z",
+  "model": "glm-4.5"
+}

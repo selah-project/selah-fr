@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-samuel 25:30",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et il arrivera quand YHWH fera pour mon seigneur selon tout ⟨le⟩ bien dont il a parlé sur toi, et qu'il t'aura établi prince sur Israël",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et il arrivera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "pour mon seigneur"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il a parlé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bien"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "et qu'il t'aura établi"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "prince"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T12:44:06.709348062Z",
+  "model": "glm-4.5"
+}

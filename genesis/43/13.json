@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "et prenez votre ⟨את⟩ frère et levez-vous retournez vers l'homme",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "votre frère"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "votre frère"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "prenez"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "et levez-vous"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "retournez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    }
+  ],
+  "timestamp": "2026-08-04T05:58:05.158385117Z",
+  "model": "glm-4.5"
+}

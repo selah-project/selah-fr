@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et si un autel de pierres tu fais pour moi, tu ne le bâtiras pas de pierres taillées ; car si tu fais agiter ton épée sur lui, tu le profanes",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un autel"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "de pierres"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu fais"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bâtiras pas"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "de pierres taillées"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "pierres taillées"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ton épée"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "tu fais agiter"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "tu le profanes"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:52.308758376Z",
+  "model": "glm-4.5"
+}

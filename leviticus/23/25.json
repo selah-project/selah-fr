@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "aucun ouvrage ⟨de⟩ service vous ne ferez, et vous présenterez ⟨une⟩ offrande par le feu à YHWH",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "aucun"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ouvrage"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "⟨de⟩ service"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "et vous présenterez"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨une⟩ offrande par le feu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:12:01.421158925Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Bénayahou fils de Yehoyada ⟨est⟩ sur ⟨la⟩ milice, et Tsadoq et Ébyatar sont ⟨les⟩ prêtres",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Et Bénayahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨la⟩ milice"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "et Tsadoq"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "et Ébyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "sont ⟨les⟩ prêtres"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:09.877634036Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,31 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Shamma ⟨le⟩ Harodite, Eliqa ⟨le⟩ Harodite",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Shamma"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "⟨le⟩ Harodite",
+      "marks": "Shamma"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "Eliqa"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "⟨le⟩ Harodite",
+      "marks": "Eliqa"
+    }
+  ],
+  "timestamp": "2026-08-04T13:26:06.251786523Z",
+  "model": "glm-4.5"
+}

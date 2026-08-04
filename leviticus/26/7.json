@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et vous poursuivrez ⟨את⟩ vos ennemis et ils tomberont devant vous par l'épée",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "et vous poursuivrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos ennemis"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vos ennemis"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "et ils tomberont"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "par l'épée"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:43.674777770Z",
+  "model": "glm-4.5"
+}

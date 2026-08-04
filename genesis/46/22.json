@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Ceux-ci ⟨sont⟩ les fils de Rachel, qui naquirent ⟨pour⟩ Jacob : toutes les ⟨personnes⟩ furent quatorze.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ceux-ci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "naquirent"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "⟨pour⟩ Jacob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes les"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨personnes⟩"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T06:03:51.945519267Z",
+  "model": "glm-4.5"
+}

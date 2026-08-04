@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et il dit : renvoie-moi, car ⟨le⟩ jour s'est levé. Et il dit : non, je ne te renverrai pas si ce n'est que tu m'as béni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "renvoie-moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "s'est levé"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "⟨le⟩ jour"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "je ne te renverrai pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si ce n'est que"
+    },
+    {
+      "surface": "אם",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "tu m'as béni"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:41.666454338Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim appela la lumière jour et la ténèbre il appela nuit. Et il fut soir et il fut matin jour un.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "et la ténèbre"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "il appela"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nuit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Et il fut"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il fut"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:13.695155011Z",
+  "model": "glm-4.5"
+}

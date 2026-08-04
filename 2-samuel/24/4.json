@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et la parole du roi prévalut sur ⟨Joab⟩ et sur ⟨les chefs⟩ de ⟨l'armée⟩ ; et ⟨Joab⟩ sortit et les chefs de l'armée de devant le roi pour dénombrer ⟨את⟩ le peuple ⟨את⟩ Israël.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Et ... prévalut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "les chefs"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "de l'armée"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "et ... sortit"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "et les chefs"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "de l'armée"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "pour dénombrer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T13:27:17.705484968Z",
+  "model": "glm-4.5"
+}

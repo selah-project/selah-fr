@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et un homme, s'il frappe ⟨la⟩ nefesh d'un humain, il mourra certainement.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et un homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "s'il"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "frappe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨la⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'un humain"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "certainement"
+    }
+  ],
+  "timestamp": "2026-08-04T08:13:47.814788537Z",
+  "model": "glm-4.5"
+}

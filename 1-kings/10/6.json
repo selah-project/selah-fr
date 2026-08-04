@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Elle dit au roi : vrai ⟨était⟩ la parole que j'entendis dans mon pays sur tes propos et sur ta sagesse.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Elle dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "vrai"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨était⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "j'entendis"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "dans mon pays"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tes propos"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ta sagesse"
+    }
+  ],
+  "timestamp": "2026-08-04T13:45:37.981169167Z",
+  "model": "glm-4.5"
+}

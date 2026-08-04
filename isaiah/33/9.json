@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Le pays se lamente et s'affaisse ; le Liban est confus, il se flétrit ; le Sarone est comme une steppe, et Basan et le Carmel ⟨secouent⟩.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "se lamente"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "s'affaisse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "est confus"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "le Liban"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "se flétrit"
+    },
+    {
+      "surface": "היה",
+      "gloss": "est"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "le Sarone"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "comme une steppe"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "et ⟨secouent⟩"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "et le Carmel"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:24.640192079Z",
+  "model": "glm-4.5"
+}

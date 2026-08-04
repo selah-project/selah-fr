@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et Juda dit à ses frères : Quel profit si nous tuons ⟨את⟩ notre frère et si nous cachons ⟨את⟩ son sang ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Quel ... ?"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "profit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "nous tuons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre frère"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "notre frère"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "et si nous cachons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son sang"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "son sang"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:38.997427620Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et tout le peuple du pays se réjouit et ⟨la⟩ ville ⟨fut⟩ tranquille, et ⟨את⟩ Athaliahou ils mirent à mort par l'épée ⟨dans⟩ la maison du roi.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Et ... se réjouit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "et la ville"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "⟨fut⟩ tranquille"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Athaliahou"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athaliahou"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ils mirent à mort"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "par l'épée"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨dans⟩ la maison"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:24:11.997743673Z",
+  "model": "glm-4.5"
+}

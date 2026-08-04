@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et Josué se leva ⟨le⟩ matin, et fit approcher ⟨את⟩ Israël selon ses tribus, et fut pris ⟨le⟩ tribu de Juda",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Et se leva"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josué"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "et fit approcher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "selon ses tribus"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "et fut pris"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "⟨le⟩ tribu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    }
+  ],
+  "timestamp": "2026-08-04T10:58:28.855838732Z",
+  "model": "glm-4.5"
+}

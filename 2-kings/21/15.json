@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "parce qu'ils ont fait ⟨את⟩ le mal à mes yeux, et ils ont été ⟨des⟩ provocateurs ⟨את⟩ moi depuis le jour où leurs pères sont sortis d'Égypte jusqu'à ce jour-ci.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ils ont fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mal"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "à mes yeux"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et ils ont été"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "provocateurs"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sont sortis"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "leurs pères"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T14:39:35.449694863Z",
+  "model": "glm-4.5"
+}

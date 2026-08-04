@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il dit : béni soit YHWH, l'Élohim d'Israël, qui a parlé par sa bouche ⟨את⟩ David, mon père, et a accompli par sa main, en disant",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "béni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "par sa bouche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "et a accompli par sa main"
+    },
+    {
+      "surface": "מלא",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T13:42:00.892600729Z",
+  "model": "glm-4.5"
+}

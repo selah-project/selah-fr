@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et le père de la jeune fille dira aux anciens : J'ai donné ⟨את⟩ ma fille à cet homme pour femme, et il la hait.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et dira"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "le père"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "de la jeune fille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "anciens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma fille"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ma fille"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "J'ai donné"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "cet homme"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pour femme"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "et il la hait"
+    }
+  ],
+  "timestamp": "2026-08-04T10:26:25.504343504Z",
+  "model": "glm-4.5"
+}

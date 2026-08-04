@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et l'humain connut ⟨את⟩ Hawa, sa femme, et elle conçut et enfanta ⟨את⟩ Caïn, et elle dit : J'ai acquis un homme avec ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Et l'humain"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "et elle conçut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "et enfanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Caïn"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Caïn"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et elle dit"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "J'ai acquis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "avec ⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:13.185513867Z",
+  "model": "glm-4.5"
+}

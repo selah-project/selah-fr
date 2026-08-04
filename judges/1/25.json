@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il leur ⟨a⟩ montré ⟨את⟩ l'entrée de ⟨la⟩ ville et ils frappèrent ⟨את⟩ ⟨la⟩ ville par le tranchant de ⟨l'⟩ épée, et ils envoyèrent ⟨את⟩ l'homme et ⟨את⟩ toute sa famille",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "Et il leur ⟨a⟩ montré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'entrée"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de ⟨la⟩ ville"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et ils frappèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨la⟩ ville"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "par le tranchant de"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨l'⟩ épée"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ils envoyèrent ⟨את⟩",
+      "marks": "l'homme"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "toute"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "sa famille"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ils envoyèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T11:33:25.944622570Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Serug vécut après avoir engendré ⟨את⟩ Nachor deux cents ans, et il engendra des fils et des filles.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "avoir engendré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "deux cents"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "et des filles"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:56.988538600Z",
+  "model": "glm-4.5"
+}

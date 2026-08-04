@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et il approcha ⟨את⟩ l'offrande et remplit sa main ⟨d'elle⟩ et la fit fumer sur l'autel outre ⟨l'ola⟩ du matin",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "et il approcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "l'offrande"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "et remplit"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "⟨d'elle⟩"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "et la fit fumer"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "outre"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "⟨l'ola⟩"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "du matin"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:35.308177672Z",
+  "model": "glm-4.5"
+}

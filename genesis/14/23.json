@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "si ⟨d'un⟩ fil et jusqu'à une lanière de sandale, et si je prends ⟨de⟩ tout ce qui ⟨est⟩ à toi, tu ne diras pas : moi, j'ai enrichi ⟨את⟩ Abram",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "⟨d'un⟩ fil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "une lanière"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "de sandale"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "je prends"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨de⟩ tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨est⟩ à toi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "diras"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi,"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "j'ai enrichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    }
+  ],
+  "timestamp": "2026-08-04T05:19:04.674432767Z",
+  "model": "glm-4.5"
+}

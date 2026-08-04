@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Des jours et un an, vous tremblerez, confiantes, car la vendange est finie, la récolte ne viendra pas.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "על",
+      "gloss": "et"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "un an"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "vous tremblerez"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "confiantes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "est finie"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "la vendange"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "la récolte"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "viendra pas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:27:42.628374244Z",
+  "model": "glm-4.5"
+}

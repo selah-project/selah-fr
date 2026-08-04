@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Car de loin tu verras ⟨את⟩ la terre, et là tu n'entreras pas, ⟨dans⟩ la terre que je donne aux fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "de loin"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu verras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "et là"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "n'entreras pas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dans⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T10:47:38.311590207Z",
+  "model": "glm-4.5"
+}

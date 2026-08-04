@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et Yoqshan engendra ⟨את⟩ Sheba et ⟨את⟩ Dedan. Et les fils de Dedan furent Ashourim, et Letoushim, et Leoummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Et Yoqshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Et les fils de"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "furent"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashourim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "et Letoushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "et Leoummim"
+    }
+  ],
+  "timestamp": "2026-08-04T05:31:57.460240028Z",
+  "model": "glm-4.5"
+}

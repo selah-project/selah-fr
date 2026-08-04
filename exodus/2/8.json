@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et la fille de Paroh lui dit : Va. Et ⟨la⟩ jeune fille alla et appela ⟨את⟩ la mère de l'enfant.",
+  "tokens": [
+    {
+      "surface": "וַתֹּֽאמֶר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "לָ֥הּ",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "פַּרְעֹ֖ה",
+      "gloss": "de Paroh"
+    },
+    {
+      "surface": "לֵ֑כִי",
+      "gloss": "Va"
+    },
+    {
+      "surface": "וַתֵּ֨לֶךְ֙",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "הָֽעַלְמָ֔ה",
+      "gloss": "⟨la⟩ jeune fille"
+    },
+    {
+      "surface": "וַתִּקְרָ֖א",
+      "gloss": "et appela"
+    },
+    {
+      "surface": "אֵ֥ם",
+      "gloss": "⟨את⟩",
+      "marks": "la mère"
+    },
+    {
+      "surface": "הַיָּֽלֶד",
+      "gloss": "de l'enfant"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:22.702431048Z",
+  "model": "glm-4.5"
+}

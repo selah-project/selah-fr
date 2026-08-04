@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Moïse ⟨l'⟩entendit, et il tomba sur ⟨son⟩ visage",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et ⟨l'⟩entendit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "et il tomba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨son⟩ visage"
+    }
+  ],
+  "timestamp": "2026-08-04T08:58:28.326951127Z",
+  "model": "glm-4.5"
+}

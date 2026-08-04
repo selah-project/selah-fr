@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Balak dit à Bilam : ni maudire, ne le maudis ⟨tu⟩, ni bénir, ne le bénis.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קב",
+      "gloss": "maudire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "le maudis"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bénir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "le bénis"
+    }
+  ],
+  "timestamp": "2026-08-04T09:18:40.277387648Z",
+  "model": "glm-4.5"
+}

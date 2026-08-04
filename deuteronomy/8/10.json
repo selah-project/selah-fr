@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et tu mangeras et tu seras rassasié et tu béniras ⟨את⟩ YHWH ton Élohim pour la bonne terre qu'il t'a donnée",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "et tu mangeras"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "et tu seras rassasié"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "et tu béniras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH ton Élohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il a donnée"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T10:07:09.111978427Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et ⟨את⟩ les deux reins et ⟨את⟩ la graisse qui ⟨est⟩ sur eux, qui ⟨est⟩ sur les flancs, et ⟨את⟩ le lobe sur le foie, sur les reins, il l'enlèvera.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les deux reins"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "reins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la graisse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "⟨est⟩ sur eux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨est⟩ sur"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "les flancs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le lobe"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "le lobe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "le foie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "les reins"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "il l'enlèvera"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:21.319301983Z",
+  "model": "glm-4.5"
+}

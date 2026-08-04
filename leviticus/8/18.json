@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il fit approcher ⟨את⟩ le bélier de l'ola et Aaron et ses fils posèrent ⟨את⟩ leurs mains sur la tête du bélier",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Et il fit approcher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bélier de l'ola"
+    },
+    {
+      "surface": "איל",
+      "gloss": "le bélier"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "de l'ola"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "et Aaron et ses fils posèrent"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mains"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "du bélier"
+    }
+  ],
+  "timestamp": "2026-08-04T07:37:06.061455424Z",
+  "model": "glm-4.5"
+}

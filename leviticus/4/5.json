@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et prendra le prêtre, l'Oint, du sang du taureau, et fera entrer ⟨את⟩ lui vers la Tente d'Assignation.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Et prendra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "l'Oint"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "du sang"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "du taureau"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "et fera entrer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la Tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'Assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:23.786164616Z",
+  "model": "glm-4.5"
+}

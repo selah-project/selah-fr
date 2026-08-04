@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 61,
+  "translation": "Et des étrangers se tiendront ⟨et⟩ feront paître votre troupeau, et les fils de l'étranger seront vos laboureurs et vos vignerons",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "Et des étrangers se tiendront"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "Étrangers"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "feront paître"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "votre troupeau"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "et les fils de"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "l'étranger"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "vos laboureurs"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "et vos vignerons"
+    }
+  ],
+  "timestamp": "2026-08-04T15:54:59.208945913Z",
+  "model": "glm-4.5"
+}

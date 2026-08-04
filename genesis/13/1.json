@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Abram monta d'Égypte, lui et sa femme, et tout ce qui ⟨était⟩ à lui, et Lot avec lui, ⟨vers⟩ le Néguev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Et monta"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "et sa femme"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨était⟩ à lui"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "et Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "⟨vers⟩ le Néguev"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:06.020021841Z",
+  "model": "glm-4.5"
+}

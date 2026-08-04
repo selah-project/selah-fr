@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Celui qui frappe ⟨un⟩ homme et ⟨il⟩ meurt, ⟨il⟩ sera mis à mort mort.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Celui qui frappe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨un⟩ homme"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "et ⟨il⟩ meurt"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mort"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sera mis à mort"
+    }
+  ],
+  "timestamp": "2026-08-04T06:42:50.774213090Z",
+  "model": "glm-4.5"
+}

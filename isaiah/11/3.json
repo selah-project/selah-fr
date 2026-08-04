@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨il⟩ fera sentir son plaisir dans la crainte de YHWH, et non selon l'apparence de ses yeux il jugera, et non selon le bruit de ses oreilles il convaincra",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "et ⟨il⟩ fera sentir son plaisir"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "dans la crainte de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "selon l'apparence de"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "il jugera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "selon le bruit de"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "ses oreilles"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "il convaincra"
+    }
+  ],
+  "timestamp": "2026-08-04T14:59:37.249415244Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Consolez, consolez mon peuple, dit votre Élohim.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Consolez"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "consolez"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T15:34:30.742839290Z",
+  "model": "glm-4.5"
+}

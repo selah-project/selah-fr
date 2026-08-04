@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et YHWH envoya ⟨את⟩ Jerubbaal et ⟨את⟩ Bedan et ⟨את⟩ Jephthé et ⟨את⟩ Shemouël, et ⟨il⟩ délivra ⟨את⟩ vous de ⟨la⟩ main de vos ennemis tout autour, et vous habitâtes en sécurité.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Jephthé"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jephthé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Shemouël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemouël"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "et délivra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩",
+      "marks": "de la main"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de main"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "de vos ennemis"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "et vous habitâtes"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "en sécurité"
+    }
+  ],
+  "timestamp": "2026-08-04T12:19:54.687322590Z",
+  "model": "glm-4.5"
+}

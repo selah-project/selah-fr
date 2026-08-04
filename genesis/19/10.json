@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et les hommes envoyèrent ⟨את⟩ leur main et firent entrer ⟨את⟩ Lot vers eux ⟨dans⟩ la maison et ⟨את⟩ la porte ils fermèrent",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Et envoyèrent"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur main"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leur main"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "et firent entrer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vers eux"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la porte"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "la porte"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ils fermèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:24:27.894048075Z",
+  "model": "glm-4.5"
+}

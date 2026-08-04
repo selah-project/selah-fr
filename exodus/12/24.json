@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et vous garderez ⟨את⟩ la parole, celle-ci, comme statut pour toi et pour tes fils, pour toujours.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "et vous garderez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "comme statut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "et pour tes fils"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pour"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "toujours"
+    }
+  ],
+  "timestamp": "2026-08-04T06:28:43.218581618Z",
+  "model": "glm-4.5"
+}

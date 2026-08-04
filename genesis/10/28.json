@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et ⟨את⟩ Obal et ⟨את⟩ Abimael et ⟨את⟩ Sheba",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Obal"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Obal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Abimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:29.595086183Z",
+  "model": "glm-4.5"
+}

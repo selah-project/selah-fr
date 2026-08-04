@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "le cerf, la gazelle, le daim, la chèvre sauvage, le pygarg, l'antilope, le bouquetin",
+  "tokens": [
+    {
+      "surface": "אַיָּל",
+      "gloss": "le cerf"
+    },
+    {
+      "surface": "וּצְבִי",
+      "gloss": "la gazelle"
+    },
+    {
+      "surface": "וְיַחְמוּר",
+      "gloss": "le daim"
+    },
+    {
+      "surface": "וְאַקּוֹ",
+      "gloss": "la chèvre sauvage"
+    },
+    {
+      "surface": "וְדִישֹׁן",
+      "gloss": "le pygarg"
+    },
+    {
+      "surface": "וּתְאֹו",
+      "gloss": "l'antilope"
+    },
+    {
+      "surface": "וָזָמֶר",
+      "gloss": "le bouquetin"
+    }
+  ],
+  "timestamp": "2026-08-04T10:16:47.719539586Z",
+  "model": "glm-4.5"
+}

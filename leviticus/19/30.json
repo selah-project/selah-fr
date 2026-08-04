@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Mes shabbats vous garderez et mon sanctuaire vous craindrez ; moi, YHWH.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes shabbats"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mes shabbats"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "vous garderez"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "et mon sanctuaire"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vous craindrez"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:37.505270791Z",
+  "model": "glm-4.5"
+}

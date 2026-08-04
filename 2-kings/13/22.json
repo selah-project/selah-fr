@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Hazaël, roi d'Aram, ⟨a⟩ opprimé ⟨את⟩ Israël tous ⟨les⟩ jours de Yehoahaz",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Et Hazaël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "d'Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "⟨a⟩ opprimé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "⟨les⟩ jours"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "de Yehoahaz"
+    }
+  ],
+  "timestamp": "2026-08-04T14:26:17.515649708Z",
+  "model": "glm-4.5"
+}

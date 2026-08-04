@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et il expira et mourut Abraham dans ⟨une⟩ bonne vieillesse, vieillard et rassasié, et fut recueilli vers ses peuples.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Et il expira"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et mourut"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "dans ⟨une⟩ bonne vieillesse"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vieillard"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "et rassasié"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "et fut recueilli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ses peuples"
+    }
+  ],
+  "timestamp": "2026-08-04T05:31:58.049653616Z",
+  "model": "glm-4.5"
+}

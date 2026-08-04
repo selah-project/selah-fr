@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Tu ne sacrifieras pas ⟨avec⟩ du levain ⟨את⟩ le sang de mon sacrifice, et ⟨le⟩ gras de ma fête ne passera pas ⟨la⟩ nuit jusqu'au matin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "sacrifieras pas"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨avec⟩"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "du levain"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨את⟩ le sang"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "de mon sacrifice"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ne passera pas ⟨la⟩ nuit"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "⟨le⟩ gras"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "de ma fête"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "matin"
+    }
+  ],
+  "timestamp": "2026-08-04T06:47:48.034532893Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "et pratiquant le hessed pour ⟨les⟩ milliers, ⟨pour ceux qui⟩ m'aiment et ⟨qui⟩ gardent mes mitsvot",
+  "tokens": [
+    {
+      "surface": "וְעֹ֥שֶׂה",
+      "gloss": "et pratiquant"
+    },
+    {
+      "surface": "חֶ֖סֶד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "לַאֲלָפִ֑ים",
+      "gloss": "pour ⟨les⟩ milliers"
+    },
+    {
+      "surface": "לְאֹהֲבַ֖י",
+      "gloss": "⟨pour ceux qui⟩ m'aiment"
+    },
+    {
+      "surface": "וּלְשֹׁמְרֵ֥י",
+      "gloss": "et ⟨qui⟩ gardent"
+    },
+    {
+      "surface": "מִצְוֺתָֽי",
+      "gloss": "mes mitsvot"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:39.377994717Z",
+  "model": "glm-4.5"
+}

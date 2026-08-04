@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 39:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et il arriva, en ce jour-là, qu'il entra dans la maison pour faire son travail, et il n'y avait ⟨pas⟩ un seul homme des gens de la maison là dans la maison",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "en ce jour-là"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "qu'il entra"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "son travail"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y avait ⟨pas⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "⟨parmi⟩ les gens de"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    }
+  ],
+  "timestamp": "2026-08-04T05:51:22.253985519Z",
+  "model": "glm-4.5"
+}

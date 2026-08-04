@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et le prêtre donna aux chefs de centaines ⟨את⟩ les lances et ⟨את⟩ les boucliers ⟨qui étaient⟩ ⟨pour⟩ le roi David, ⟨qui étaient⟩ dans la maison de YHWH.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et donna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "aux chefs"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "de centaines"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les lances"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "les lances"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les boucliers"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "les boucliers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pour le roi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T14:24:17.235437304Z",
+  "model": "glm-4.5"
+}

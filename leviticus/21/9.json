@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et la fille d’un homme, prêtre, si elle commence à se prostituer, ⟨את⟩ son père elle profane, dans le feu elle sera brûlée",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Et la fille"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d’un homme"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "elle commence"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "à se prostituer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "son père"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "profane"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dans le feu"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "elle sera brûlée"
+    }
+  ],
+  "timestamp": "2026-08-04T08:06:29.604272628Z",
+  "model": "glm-4.5"
+}

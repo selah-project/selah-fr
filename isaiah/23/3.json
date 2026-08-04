@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et par des eaux nombreuses ⟨est⟩ le grain de Shichor, la récolte du Fleuve ⟨est⟩ son revenu, et elle fut le marché des nations.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "Et par des eaux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreuses"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "le grain"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "de Shichor"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "la récolte"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "du Fleuve"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "son revenu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et elle fut"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "le marché"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    }
+  ],
+  "timestamp": "2026-08-04T15:16:51.119378420Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Abraham se leva et se prosterna devant le peuple du pays, les fils de Heth",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et ⟨il⟩ se leva"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "et se prosterna"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "devant le peuple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "חת",
+      "gloss": "de Heth"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:47.366294094Z",
+  "model": "glm-4.5"
+}

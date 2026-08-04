@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨את⟩ le porc car il est diviseur de sabot et fendeur de fente de sabot, et lui la rumination il ne rumine pas, impur il est pour vous",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et"
+    },
+    {
+      "surface": "הַחֲזִיר",
+      "gloss": "⟨את⟩ le porc"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מַפְרִיס",
+      "gloss": "il est diviseur"
+    },
+    {
+      "surface": "פַּרְסָה",
+      "gloss": "de sabot"
+    },
+    {
+      "surface": "ה֗וּא",
+      "gloss": "et lui"
+    },
+    {
+      "surface": "וְשֹׁסַ֥ע",
+      "gloss": "fendeur"
+    },
+    {
+      "surface": "שֶׁ֨סַע",
+      "gloss": "de fente"
+    },
+    {
+      "surface": "פַּרְסָה",
+      "gloss": "de sabot"
+    },
+    {
+      "surface": "וְה֖וּא",
+      "gloss": "et lui"
+    },
+    {
+      "surface": "גֵּרָ֣ה",
+      "gloss": "la rumination"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יִגָּ֑ר",
+      "gloss": "rumine pas"
+    },
+    {
+      "surface": "טָמֵ֥א",
+      "gloss": "impur"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "לָכֶֽם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:40.720994439Z",
+  "model": "glm-4.5"
+}

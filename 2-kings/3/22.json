@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ils se levèrent de bon matin, et le soleil ⟨fut⟩ sur les eaux, et Moab vit d'en face que ⟨את⟩ les eaux étaient rouges comme le sang.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "et ils se levèrent de bon matin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "et le soleil"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "brilla"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "et ils virent"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "d'en face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les eaux"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "rouges"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "comme le sang"
+    }
+  ],
+  "timestamp": "2026-08-04T14:10:55.620505357Z",
+  "model": "glm-4.5"
+}

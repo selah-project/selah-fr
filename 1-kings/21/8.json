@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et elle écrivit des lettres au nom d'Achab, et les scella de son sceau, et envoya les lettres aux anciens et aux nobles qui ⟨étaient⟩ dans sa ville, demeurant auprès de ⟨את⟩ Naboth.",
+  "tokens": [
+    {
+      "surface": "וַתִּכְתֹּ֤ב",
+      "gloss": "Et elle écrivit"
+    },
+    {
+      "surface": "סְפָרִים֙",
+      "gloss": "des lettres"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "au nom de"
+    },
+    {
+      "surface": "אַחְאָ֔ב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "וַתַּחְתֹּ֖ם",
+      "gloss": "et scella"
+    },
+    {
+      "surface": "בְּחֹתָמ֑וֹ",
+      "gloss": "de son sceau"
+    },
+    {
+      "surface": "וַתִּשְׁלַ֣ח",
+      "gloss": "et envoya"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "les lettres"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "הַזְקֵנִ֤ים",
+      "gloss": "anciens"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "et aux"
+    },
+    {
+      "surface": "הַֽחֹרִים֙",
+      "gloss": "nobles"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בְּעִיר֔וֹ",
+      "gloss": "dans sa ville"
+    },
+    {
+      "surface": "הַיֹּשְׁבִ֖ים",
+      "gloss": "demeurant"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "auprès de Naboth"
+    },
+    {
+      "surface": "נָבֽוֹת",
+      "gloss": "Naboth"
+    }
+  ],
+  "timestamp": "2026-08-04T14:02:56.237276528Z",
+  "model": "glm-4.5"
+}

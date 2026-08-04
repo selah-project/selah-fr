@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et tout vase de terre, où l'un d'eux tombe, tout ce qui est à l'intérieur devient impur, et ⟨את⟩ vous briserez",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et tout"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vase"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "de terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tombe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "l'un d'eux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "l'intérieur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "est à l'intérieur"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "devient impur"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "vous briserez"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "vous briserez"
+    }
+  ],
+  "timestamp": "2026-08-04T07:41:47.141447752Z",
+  "model": "glm-4.5"
+}

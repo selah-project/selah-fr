@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et je l'ai rempli ⟨du⟩ Rouah Élohim en sagesse et en intelligence et en savoir et dans toute œuvre",
+  "tokens": [
+    {
+      "surface": "וָאֲמַלֵּ֥א",
+      "gloss": "et je l'ai rempli"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨le⟩",
+      "marks": "Rouah Élohim"
+    },
+    {
+      "surface": "ר֣וּחַ",
+      "gloss": "Rouah"
+    },
+    {
+      "surface": "אֱלֹהִ֑ים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בְּחָכְמָ֛ה",
+      "gloss": "en sagesse"
+    },
+    {
+      "surface": "וּבִתְבוּנָ֥ה",
+      "gloss": "et en intelligence"
+    },
+    {
+      "surface": "וּבְדַ֖עַת",
+      "gloss": "et en savoir"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "et dans toute"
+    },
+    {
+      "surface": "מְלָאכָֽה",
+      "gloss": "œuvre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:04:56.760387627Z",
+  "model": "glm-4.5"
+}

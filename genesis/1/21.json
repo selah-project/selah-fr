@@ -1,0 +1,108 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim créa ⟨את⟩ les grands reptiles et ⟨את⟩ toute nefesh vivante qui rampe, ⟨que⟩ les eaux font pulluler selon leur espèce, et ⟨את⟩ tout volatile d'aile selon son espèce, et Élohim vit que c'était bon.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Et créa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les grands reptiles"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "les grands reptiles"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "grands"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "toute nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "vivante"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "qui rampe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "font pulluler"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "selon leur espèce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout volatile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "volatile"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "d'aile"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:53.828426873Z",
+  "model": "glm-4.5"
+}

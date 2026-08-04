@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 44:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Et il fouilla, ⟨il⟩ commença par le plus âgé et finit par le plus jeune, et l'on trouva la coupe dans le sac de Benjamin.",
+  "tokens": [
+    {
+      "surface": "ויחפש",
+      "gloss": "Et il fouilla"
+    },
+    {
+      "surface": "בגדול",
+      "gloss": "par le plus âgé"
+    },
+    {
+      "surface": "החל",
+      "gloss": "⟨il⟩ commença"
+    },
+    {
+      "surface": "ובקטן",
+      "gloss": "et finit par le plus jeune"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "finir"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "et l'on trouva"
+    },
+    {
+      "surface": "הגביע",
+      "gloss": "la coupe"
+    },
+    {
+      "surface": "באמתחת",
+      "gloss": "dans le sac"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "de Benjamin"
+    }
+  ],
+  "timestamp": "2026-08-04T06:00:08.130272815Z",
+  "model": "glm-4.5"
+}

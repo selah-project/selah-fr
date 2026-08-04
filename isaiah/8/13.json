@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "⟨את⟩ YHWH Tsevaot, lui, vous ⟨le⟩ sanctifierez, et lui, ⟨il sera⟩ votre effroi, et lui, ⟨il sera⟩ votre terreur.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "lui",
+      "marks": "vous ⟨le⟩ sanctifierez"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "vous ⟨le⟩ sanctifierez"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et lui,"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "votre effroi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et lui,"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "votre terreur"
+    }
+  ],
+  "timestamp": "2026-08-04T14:55:52.411342259Z",
+  "model": "glm-4.5"
+}

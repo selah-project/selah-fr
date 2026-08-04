@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Dans l'année ⟨du⟩ Yobel, celle-ci, vous retournerez, un homme vers ⟨sa⟩ possession.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Dans l'année"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "⟨du⟩ Yobel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "vous retournerez"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "⟨sa⟩ possession"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:44.621556634Z",
+  "model": "glm-4.5"
+}

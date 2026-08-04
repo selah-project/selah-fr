@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨את⟩ ses signes et ⟨את⟩ ses actes qu'il a faits au milieu de l'Égypte à Pharaon roi d'Égypte et à tout son pays",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses signes"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "ses signes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses actes"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ses actes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a faits"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "à Pharaon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "et à tout"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "son pays"
+    }
+  ],
+  "timestamp": "2026-08-04T10:12:06.462203580Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Car YHWH avait ⟨dé⟩⟨tenu⟩ fermé tout sein de la maison d'Abimelek à cause de la parole de Sarah, femme d'Abraham",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "⟨dé⟩⟨tenu⟩"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "fermé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "sein"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "d'Abimelek"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "de Sarah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femme"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "d'Abraham"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:15.579531812Z",
+  "model": "glm-4.5"
+}

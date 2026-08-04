@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et YHWH notre Élohim donna ⟨aussi⟩ dans notre main ⟨את⟩ Og, roi de le Bashan, et ⟨את⟩ tout son peuple, et nous le frappâmes jusqu'à ce qu'il n'y eut plus pour lui de survivant",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et ... donna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "dans notre main"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨aussi⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og, roi de le Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "de le Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout son peuple"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "et nous le frappâmes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce qu'"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "il n'y eut plus"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "laissé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "de survivant"
+    }
+  ],
+  "timestamp": "2026-08-04T09:53:29.801234867Z",
+  "model": "glm-4.5"
+}

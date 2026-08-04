@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "À cause de cela, ne ⟨je⟩ rendrai pas visite ? oracle de YHWH, et ⟨sur⟩ une nation qui est comme celle-ci, ⟨ma⟩ nefesh ne se vengera-t-elle pas ?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "À cause de"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "⟨je⟩ rendrai pas visite"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "⟨sur⟩ une nation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "comme celle-ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "se vengera-t-elle pas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨ma⟩ nefesh"
+    }
+  ],
+  "timestamp": "2026-08-04T16:08:42.302345549Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH t'ouvrira ⟨את⟩ son bon trésor, ⟨את⟩ les cieux, pour donner la pluie à ton pays en son temps, et pour bénir ⟨את⟩ tout l'ouvrage de ta main ; et tu prêteras à des nations nombreuses, et toi, tu n'emprunteras pas.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "ouvrira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לך",
+      "gloss": "t'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son bon trésor"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "son trésor"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les cieux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pluie"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "à ton pays"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "en son temps"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "et pour bénir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'ouvrage"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "de ta main"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "et tu prêteras"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreuses"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "emprunteras"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:10.385020764Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et Baalath et Tamar dans le désert, dans ⟨le⟩ pays",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Baalath"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    }
+  ],
+  "timestamp": "2026-08-04T13:44:19.721273799Z",
+  "model": "glm-4.5"
+}

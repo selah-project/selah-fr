@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et des oiseaux de proie descendirent sur les carcasses, et Abram les ⟨את⟩ chassa.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Et descendirent"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "les oiseaux de proie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "les carcasses"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "et Abram les ⟨את⟩ chassa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "les",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    }
+  ],
+  "timestamp": "2026-08-04T05:20:22.407206295Z",
+  "model": "glm-4.5"
+}

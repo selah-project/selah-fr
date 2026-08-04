@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Or le roi d’Aram ⟨était⟩ en guerre contre Israël, et il consulta ses serviteurs, disant : En tel et tel lieu ⟨sera⟩ mon camp.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Or le roi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "d’Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨était⟩"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "en guerre"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contre Israël"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "et il consulta"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "En"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tel et tel lieu"
+    },
+    {
+      "surface": "פלני",
+      "gloss": ""
+    },
+    {
+      "surface": "אלמני",
+      "gloss": ""
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "⟨sera⟩ mon camp"
+    }
+  ],
+  "timestamp": "2026-08-04T14:14:33.911343640Z",
+  "model": "glm-4.5"
+}

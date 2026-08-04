@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et les Pelishtim s'attachèrent à ⟨את⟩ Chaoul et ⟨את⟩ ses fils, et les Pelishtim frappèrent ⟨את⟩ Yehonathan et ⟨את⟩ Avinadav et ⟨את⟩ Malkishoua, fils de Chaoul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "s'attachèrent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "frappèrent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonathan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malkishoua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkishoua"
+    },
+    {
+      "surface": "שוע",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:27.816854897Z",
+  "model": "glm-4.5"
+}

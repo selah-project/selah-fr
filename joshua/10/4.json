@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Montez vers moi, et aidez-moi, et frapperons ⟨את⟩ Gabaon, car elle a fait la paix avec ⟨את⟩ Yehoshoua et avec les fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Montez"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "et aidez-moi"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "et frapperons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gabaon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gabaon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "elle a fait la paix"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshoua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et avec"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T11:03:12.930725003Z",
+  "model": "glm-4.5"
+}

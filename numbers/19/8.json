@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et celui qui la brûlera lavera ses vêtements dans l'eau et lavera sa chair dans l'eau et ⟨sera⟩ impur jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Et celui qui la brûlera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lavera"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lavera"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "et lavera"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "et ⟨sera⟩ impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "au soir"
+    }
+  ],
+  "timestamp": "2026-08-04T09:06:31.957028131Z",
+  "model": "glm-4.5"
+}

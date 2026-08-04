@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 43:28",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Ils dirent : « Il va bien, ton serviteur notre père, il est encore vivant », et ils s'inclinèrent et se prosternèrent.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ils dirent"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "il va bien"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "notre père"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "il est encore"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "et ils s'inclinèrent"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "et se prosternèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:58:26.695956470Z",
+  "model": "glm-4.5"
+}

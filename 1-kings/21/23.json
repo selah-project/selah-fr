@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et aussi au sujet d'Izebel a parlé YHWH en disant : les chiens mangeront ⟨את⟩ Izebel dans le fossé de Yizréel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "au sujet d'Izebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "les chiens"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "dans le fossé"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "de Yizréel"
+    }
+  ],
+  "timestamp": "2026-08-04T14:03:14.567872931Z",
+  "model": "glm-4.5"
+}

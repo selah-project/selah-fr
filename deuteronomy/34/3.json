@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "et ⟨את⟩ le Néguev, et ⟨את⟩ le district, ⟨la⟩ vallée de Jéricho, la ville des palmiers, jusqu'à Tsoar",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le Néguev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "le Néguev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le district"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "le district"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "⟨la⟩ vallée"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "de Jéricho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "des palmiers"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-04T10:49:02.209600879Z",
+  "model": "glm-4.5"
+}

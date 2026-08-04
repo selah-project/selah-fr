@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il arriva comme il ⟨avait⟩ fait approcher pour entrer en Mitsraïm, il dit à Saraï sa femme : Vois donc, je sais qu'une femme belle d'apparence ⟨tu⟩ es.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "il ⟨avait⟩ fait approcher"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "pour entrer"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "en Mitsraïm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "il dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraï"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Vois"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je sais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "belle"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "d'apparence"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "une femme belle d'apparence"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:24.284625564Z",
+  "model": "glm-4.5"
+}

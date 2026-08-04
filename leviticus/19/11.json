@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Vous ne volerez point, et vous ne nierez point, et vous ne mentirez point, un homme à son prochain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... point"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "volerez"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne ... point"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "nierez"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne ... point"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "mentirez"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "à son prochain"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:42.636824709Z",
+  "model": "glm-4.5"
+}

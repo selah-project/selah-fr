@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Et Yossef acheta ⟨את⟩ toute la terre d'Égypte pour le Pharaon, car les Égyptiens vendirent chacun son champ, car la famine s'était appesantie sur eux, et la terre devint ⟨pour⟩ le Pharaon.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "Et acheta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la terre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pour le Pharaon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "vendirent"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "son champ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "s'était appesantie"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la famine"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et devint"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pour le Pharaon"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:41.398257680Z",
+  "model": "glm-4.5"
+}

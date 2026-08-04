@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et il dit ⟨d'⟩enseigner aux fils de Yehoudah ⟨le⟩ arc : voici, elle est écrite sur le livre du Yashar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "⟨d'⟩enseigner"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aux fils de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehoudah"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨le⟩ arc"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "elle est écrite"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le livre de"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "Yashar"
+    }
+  ],
+  "timestamp": "2026-08-04T12:52:04.700444795Z",
+  "model": "glm-4.5"
+}

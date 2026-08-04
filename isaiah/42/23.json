@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Qui parmi vous ⟨est⟩ celui qui ⟨fera⟩ prêter l'oreille à cela, ⟨qui⟩ prêtera attention et entendra pour l'avenir ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "parmi vous"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "fera prêter l'oreille"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "à cela"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "prêtera attention"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "et entendra"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "pour l'avenir"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:21.401534537Z",
+  "model": "glm-4.5"
+}

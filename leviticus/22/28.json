@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et bœuf ou petit ⟨את⟩ lui et ⟨את⟩ son fils ne ⟨pas⟩ égorgez en jour un",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "et bœuf"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שה",
+      "gloss": "petit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "son fils"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ⟨pas⟩"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "égorgez"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en jour"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:38.598183867Z",
+  "model": "glm-4.5"
+}

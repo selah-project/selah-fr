@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "un bouc ⟨des⟩ chèvres pour ⟨une⟩ offrande pour le péché",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "un bouc"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨des⟩ chèvres"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pour une offrande pour le péché"
+    }
+  ],
+  "timestamp": "2026-08-04T08:35:51.027832049Z",
+  "model": "glm-4.5"
+}

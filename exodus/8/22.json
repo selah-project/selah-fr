@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 8:22",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Mosheh dit : il n'est pas convenable de faire ainsi, car nous sacrifierions l'abomination de l'Égypte à YHWH notre Élohim ; si nous sacrifions ⟨את⟩ l'abomination de l'Égypte sous leurs yeux, ne nous lapideraient-ils pas ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'est pas"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "convenable"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "l'abomination"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de l'Égypte"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "nous sacrifierions"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "הן",
+      "gloss": "si"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "nous sacrifions"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'abomination de l'Égypte"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "l'abomination"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de l'Égypte"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "sous leurs yeux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "יסקלנו",
+      "gloss": "nous lapideraient-ils"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:01.632476375Z",
+  "model": "glm-4.5"
+}

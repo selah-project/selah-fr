@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et Mikhal fit descendre ⟨את⟩ David par la fenêtre, et il s'en alla, et s'enfuit, et échappa",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "et fit descendre"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "par"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "la fenêtre"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et il s'en alla"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "et s'enfuit"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "et échappa"
+    }
+  ],
+  "timestamp": "2026-08-04T12:35:16.227336876Z",
+  "model": "glm-4.5"
+}

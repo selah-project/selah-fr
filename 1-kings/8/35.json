@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-kings 8:35",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Dans le cas ⟨où⟩ ⟨le⟩ ciel ⟨est⟩ fermé et qu'il n'y a pas de pluie, parce qu'ils ont péché contre toi, et qu'ils prient vers ⟨ce⟩ lieu-ci et confessent ⟨את⟩ ton nom, et reviennent de leur faute, parce que tu les affliges",
+  "tokens": [
+    {
+      "surface": "בהעצר",
+      "gloss": "dans le cas ⟨où⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨le⟩ ciel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et qu'il n'y a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "de pluie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "יחטאו",
+      "gloss": "ils ont péché"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "et qu'ils prient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨ce⟩ lieu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "et confessent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton nom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "ומחטאתם",
+      "gloss": "et reviennent de leur faute"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "reviennent"
+    },
+    {
+      "surface": "כי",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "תענם",
+      "gloss": "tu les affliges"
+    }
+  ],
+  "timestamp": "2026-08-04T13:42:20.525369872Z",
+  "model": "glm-4.5"
+}

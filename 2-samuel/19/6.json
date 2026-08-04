@@ -1,0 +1,112 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Yoav entra ⟨dans⟩ la maison du roi et dit : tu as humilié aujourd'hui ⟨את⟩ les faces de tous tes serviteurs qui ont sauvé aujourd'hui ⟨את⟩ ta vie, et ⟨את⟩ la vie de tes fils et de tes filles, et la vie de tes épouses et la vie de tes concubines",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et entra"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dans⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la maison du roi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "tu as humilié"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les faces de tous tes serviteurs"
+    },
+    {
+      "surface": "פני",
+      "gloss": "les faces"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "qui ont sauvé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta vie"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ta vie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la vie de tes fils et de tes filles"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "de tes fils"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "et de tes filles"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "et la vie"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "de tes épouses"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "et la vie"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "de tes concubines"
+    }
+  ],
+  "timestamp": "2026-08-04T13:19:42.008365495Z",
+  "model": "glm-4.5"
+}

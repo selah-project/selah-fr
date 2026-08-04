@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH étendit ⟨את⟩ sa main et toucha sur ma bouche, et YHWH me dit : Voici, j'ai mis mes paroles dans ta bouche",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et étendit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "et toucha"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ma bouche"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai mis"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mes paroles"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "dans ta bouche"
+    }
+  ],
+  "timestamp": "2026-08-04T16:02:40.131328915Z",
+  "model": "glm-4.5"
+}

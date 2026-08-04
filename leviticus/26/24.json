@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "alors je marcherai, moi aussi, hostilement avec vous et je frapperai ⟨את⟩ vous, même moi, sept fois pour vos péchés",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "alors je marcherai"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hostilement"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": ""
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "et je frapperai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sept fois"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "vos péchés"
+    }
+  ],
+  "timestamp": "2026-08-04T08:18:09.865446422Z",
+  "model": "glm-4.5"
+}

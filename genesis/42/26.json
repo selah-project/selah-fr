@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Ils chargèrent ⟨את⟩ leur grain sur leurs ânes et s'en allèrent de là.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "chargèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur grain"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "leur grain"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "leurs ânes"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "et s'en allèrent"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:29.468135366Z",
+  "model": "glm-4.5"
+}

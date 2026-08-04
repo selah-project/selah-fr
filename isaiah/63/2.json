@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Pourquoi ⟨ton⟩ vêtement est-il rouge et ⟨tes⟩ vêtements comme celui ππqui πppresse dans la cuve ?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "rouge"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "⟨ton⟩ vêtement"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "et ⟨tes⟩ vêtements"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "comme celui ππqui πppresse"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "dans la cuve"
+    }
+  ],
+  "timestamp": "2026-08-04T15:56:21.038690338Z",
+  "model": "glm-4.5"
+}

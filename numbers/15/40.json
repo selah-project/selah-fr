@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "numbers 15:40",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "afin que vous vous souveniez et que vous fassiez ⟨את⟩ toutes mes commandements, et soyez saints pour votre Élohim",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "vous vous souveniez"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "et que vous fassiez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes mes commandements"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mes commandements"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "et soyez"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "saints"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "pour votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:58:09.184151833Z",
+  "model": "glm-4.5"
+}

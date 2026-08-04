@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il ne put plus répondre ⟨את⟩ Abner une parole à cause de sa crainte de lui.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "put"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "répondre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "à cause de sa crainte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-04T12:54:28.294898254Z",
+  "model": "glm-4.5"
+}

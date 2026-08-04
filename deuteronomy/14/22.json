@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Tu dîmeras ⟨את⟩ tout le revenu de ⟨le⟩ semence qui sort du champ année ⟨par⟩ année.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Tu dîmeras"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "dîmeras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le revenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "le revenu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "de semence"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "qui sort"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "du champ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "année"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "année"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:14.809155809Z",
+  "model": "glm-4.5"
+}

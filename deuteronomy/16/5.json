@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Tu ne pourras pas sacrifier ⟨את⟩ la Pâque dans l'une de tes portes que YHWH ton Élohim te donne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne pourras pas"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Tu ne pourras pas"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sacrifier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Pâque"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "la Pâque"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "dans l'une de"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tes portes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-04T10:19:41.297046387Z",
+  "model": "glm-4.5"
+}

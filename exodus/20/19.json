@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et ils dirent à Moïse : Toi, parle avec nous, et nous écouterons ; mais qu'Élohim ne parle pas avec nous, de peur que nous ne mourions.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "et nous écouterons"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et que ... ne ... pas"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "nous mourions"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:52.779691005Z",
+  "model": "glm-4.5"
+}

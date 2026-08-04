@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et tu feras venir ⟨את⟩ l'offrande qui sera faite de celles-ci à YHWH, et on la présentera au prêtre, et on la fera approcher de l'autel.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Et tu feras venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "l'offrande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sera faite"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "de celles-ci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "et on la présentera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "et on la fera approcher"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T07:26:33.094461973Z",
+  "model": "glm-4.5"
+}

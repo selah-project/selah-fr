@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "et mariez-vous avec nous, vos filles donnez-⟨את⟩ à nous, et ⟨את⟩ nos filles prenez pour vous",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "et mariez-vous"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "vos filles"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "donnez-⟨את⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "à nous"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "nos filles"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "nos filles"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "prenez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:27.863795482Z",
+  "model": "glm-4.5"
+}

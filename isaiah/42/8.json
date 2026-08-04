@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Moi, YHWH, c'est ⟨est⟩ mon nom, et ma gloire, ⟨à⟩ un autre, ⟨je⟩ ne la donnerai pas, et ma louange ⟨aux⟩ idoles.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mon nom"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "et ma gloire"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "⟨à⟩ un autre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "la donnerai"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "et ma louange"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "⟨aux⟩ idoles"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:10.387742227Z",
+  "model": "glm-4.5"
+}

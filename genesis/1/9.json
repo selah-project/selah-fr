@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et dit Élohim : que se rassemblent ⟨les⟩ eaux d'en bas ⟨des⟩ cieux vers un lieu un, et qu'apparaisse ⟨la⟩ terre ferme ; et il fut ainsi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "que se rassemblent"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨les⟩ eaux"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "d'en bas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨des⟩ cieux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "et qu'apparaisse"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "⟨la⟩ terre ferme"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il fut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:17.859121045Z",
+  "model": "glm-4.5"
+}

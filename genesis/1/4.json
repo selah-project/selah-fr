@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim vit ⟨את⟩ la lumière, qu'elle était bonne ; et Élohim sépara entre la lumière et entre les ténèbres",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la lumière"
+    },
+    {
+      "surface": "האור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "et sépara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "האור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "les ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:17.167974692Z",
+  "model": "glm-4.5"
+}

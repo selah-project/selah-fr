@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Édom refusa de donner ⟨à⟩ Israël passage dans sa frontière, et Israël se détourna de lui.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Et refusa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de donner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨à⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passage"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "dans sa frontière"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "et se détourna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-04T09:08:18.778694474Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Alors ta lumière ⟨se⟩ brisera comme ⟨l'aube⟩ et ta guérison promptement germera ; et ta justice ⟨ira⟩ devant ta face, la gloire de YHWH ⟨sera⟩ ta garde-arrière.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "se brisera"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "comme l'aube"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ta lumière"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "et ta guérison"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "promptement"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "germera"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "ira"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant ta face"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ta justice"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "sera ta garde-arrière"
+    }
+  ],
+  "timestamp": "2026-08-04T15:51:54.992332230Z",
+  "model": "glm-4.5"
+}

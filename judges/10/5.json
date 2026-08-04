@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Yaïr mourut, et ⟨il⟩ fut enterré à Qamôn.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mourut"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yaïr"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "et fut enterré"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "à Qamôn"
+    }
+  ],
+  "timestamp": "2026-08-04T11:47:24.480710215Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Moi, moi, il est celui qui vous console — qui ⟨es⟩-tu, que tu aies craint ⟨de⟩ l'humain qui meurt et ⟨du⟩ fils de l'humain ⟨comme⟩ herbe qui ⟨est⟩ donné ?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "celui qui vous console"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "que tu aies craint"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "que tu aies craint"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "de l'humain"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "qui meurt"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "et du fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'humain"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "herbe"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "qui est donné"
+    }
+  ],
+  "timestamp": "2026-08-04T15:46:44.738594948Z",
+  "model": "glm-4.5"
+}

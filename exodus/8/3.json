@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et ils firent ainsi les enchanteurs par ⟨leurs⟩ incantations, et ils firent monter ⟨את⟩ les grenouilles sur ⟨la⟩ terre de Mitsraïm.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Et ils firent"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "les enchanteurs"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "par ⟨leurs⟩ incantations"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "et ils firent monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les grenouilles"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "les grenouilles"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsraïm"
+    }
+  ],
+  "timestamp": "2026-08-04T06:21:27.547259025Z",
+  "model": "glm-4.5"
+}

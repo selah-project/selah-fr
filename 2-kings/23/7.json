@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et il détruisit ⟨את⟩ les maisons des consacrés qui ⟨étaient⟩ dans la maison de YHWH, où les femmes tissaient ⟨des⟩ maisons pour l'Ashérah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "Et il détruisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les maisons des consacrés"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "les maisons"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "des consacrés"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "les femmes"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "tissaient"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "maisons"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "pour l'Ashérah"
+    }
+  ],
+  "timestamp": "2026-08-04T14:41:59.477853659Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-samuel 19:27",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il a dit : Mon seigneur ⟨le⟩ roi, mon serviteur m'a trompé, car ton serviteur a dit : je sellerai ⟨l'⟩âne et je monterai dessus, et j'irai avec ⟨le⟩ roi, car boiteux ⟨est⟩ ton serviteur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il a dit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mon seigneur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mon serviteur"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "m'a trompé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "אחבשה",
+      "gloss": "je sellerai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "⟨l'⟩âne"
+    },
+    {
+      "surface": "וארכב",
+      "gloss": "et je monterai"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dessus"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "et j'irai"
+    },
+    {
+      "surface": "את",
+      "gloss": "avec",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "boiteux"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    }
+  ],
+  "timestamp": "2026-08-04T13:20:10.165513418Z",
+  "model": "glm-4.5"
+}

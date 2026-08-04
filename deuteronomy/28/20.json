@@ -1,0 +1,112 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Enverra YHWH sur toi ⟨את⟩ la malédiction, ⟨את⟩ le trouble et ⟨את⟩ la réprobation, en tout envoi de ta main que tu feras, jusqu'à ⟨ton⟩ anéantissement et jusqu'à ⟨ta⟩ perdition rapide, de face la méchanceté de tes actions, par lesquelles tu m'as abandonné.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Enverra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la malédiction"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "la malédiction"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le trouble"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "le trouble"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la réprobation"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "la réprobation"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en tout"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "envoi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "de ta main"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "⟨ton⟩ anéantissement"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "⟨ta⟩ perdition"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "rapide"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de face"
+    },
+    {
+      "surface": "רע",
+      "gloss": "la méchanceté"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "de tes actions"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par lesquelles"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "tu m'as abandonné"
+    }
+  ],
+  "timestamp": "2026-08-04T10:38:13.067860615Z",
+  "model": "glm-4.5"
+}

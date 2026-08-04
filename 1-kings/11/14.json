@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et YHWH suscita un satan à Salomon, ⟨את⟩ Hadad l'Édomite, de la semence du roi, lui, en Édom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et suscita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "un satan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "à Salomon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad l'Édomite"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "l'Édomite"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "de la semence"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "en Édom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:47:11.952815931Z",
+  "model": "glm-4.5"
+}

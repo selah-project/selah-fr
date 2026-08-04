@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et les fils d'Aaron le feront fumer sur l'autel ⟨sur⟩ l'offrande d'élévation qui est ⟨sur⟩ le bois qui est ⟨sur⟩ le feu, offrande par feu, odeur apaisante pour YHWH.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִ֨ירוּ",
+      "gloss": "et le feront fumer"
+    },
+    {
+      "surface": "אֹת֤וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Aaron"
+    },
+    {
+      "surface": "בְנֵֽי",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "אַהֲרֹן֙",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֔חָה",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָ֣עֹלָ֔ה",
+      "gloss": "l'offrande d'élévation"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָעֵצִ֖ים",
+      "gloss": "le bois"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָאֵ֑שׁ",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "אִשֵּׁ֛ה",
+      "gloss": "offrande par feu"
+    },
+    {
+      "surface": "רֵ֥יחַ",
+      "gloss": "odeur"
+    },
+    {
+      "surface": "נִיחֹ֖חַ",
+      "gloss": "apaisante"
+    },
+    {
+      "surface": "לַֽיהוָֽה",
+      "gloss": "pour YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:28:14.432770638Z",
+  "model": "glm-4.5"
+}

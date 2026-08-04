@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Moïse et Aaron allèrent et ils assemblèrent ⟨את⟩ tous les anciens des fils d'Israël",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "et allèrent"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "et ils assemblèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les anciens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:02.354909691Z",
+  "model": "glm-4.5"
+}

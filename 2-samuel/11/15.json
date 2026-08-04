@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et il écrivit dans la lettre, en disant : Placez ⟨את⟩ Ouriyah en face de l'avant de la guerre, la plus forte, et vous vous retirerez de derrière lui, et il sera frappé et mourra.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Et il écrivit"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dans la lettre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Placez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ouriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ouriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מול",
+      "gloss": "en face de"
+    },
+    {
+      "surface": "פני",
+      "gloss": "l'avant de"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "la guerre"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "la plus forte"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "et vous vous retirerez"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "de derrière lui"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "et il sera frappé"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "et mourra"
+    }
+  ],
+  "timestamp": "2026-08-04T13:06:22.736248428Z",
+  "model": "glm-4.5"
+}

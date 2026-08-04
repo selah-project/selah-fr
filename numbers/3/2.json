@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ce sont ici les noms des fils d'Aaron : ⟨le⟩ premier-né, Nadab, et Abihou, Eléazar et Ithamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et ce sont ici"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "les noms"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨le⟩ premier-né"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "et Abihou"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Eléazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "et Ithamar"
+    }
+  ],
+  "timestamp": "2026-08-04T08:25:35.253072672Z",
+  "model": "glm-4.5"
+}

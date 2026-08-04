@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et à Hannah il donnait une part d'une double portion car il aimait ⟨את⟩ Hannah et YHWH avait fermé son sein",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "et à Hannah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "il donnait"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "une part"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "d'une double"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "portion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hannah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "il aimait"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "avait fermé"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "son sein"
+    }
+  ],
+  "timestamp": "2026-08-04T12:04:45.213228699Z",
+  "model": "glm-4.5"
+}

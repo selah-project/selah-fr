@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et Élisha envoya vers lui ⟨un⟩ messager pour dire : Va et lave-toi sept fois dans le Jourdain et ta chair reviendra vers toi et tu seras pur.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "et envoya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Élisha"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messager"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "va"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "et lave-toi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sept"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fois"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "dans le Jourdain"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et reviendra"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ta chair"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "et tu seras pur"
+    }
+  ],
+  "timestamp": "2026-08-04T14:13:17.253430908Z",
+  "model": "glm-4.5"
+}

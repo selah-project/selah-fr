@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et Israël partit, et tendit sa tente au-delà de Migdal-Éder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Et partit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "et tendit"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "sa tente"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "au-delà de"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal-"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Éder"
+    }
+  ],
+  "timestamp": "2026-08-04T05:45:57.686338205Z",
+  "model": "glm-4.5"
+}

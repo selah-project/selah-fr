@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Et ⟨il⟩ ensevelit ⟨את⟩ lui dans la vallée, dans ⟨le⟩ pays de Moab, en face de Beth-Peor, et ⟨aucun⟩ homme ne connaît ⟨את⟩ sa sépulture jusqu'à ⟨ce⟩ jour-ci.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "et ensevelit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "dans la vallée"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "en face de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨aucun⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ne connaît"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa sépulture"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "sa sépulture"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ce⟩ jour"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T10:49:16.837277020Z",
+  "model": "glm-4.5"
+}

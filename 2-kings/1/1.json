@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Moab ⟨se révolta⟩ contre Israël après la mort d'Achab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "Et ⟨se révolta⟩"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contre Israël"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "d'Achab"
+    }
+  ],
+  "timestamp": "2026-08-04T14:06:15.353194483Z",
+  "model": "glm-4.5"
+}

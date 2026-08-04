@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et tu diras ⟨à⟩ Paroh : ainsi a dit YHWH : mon fils, mon premier-né ⟨est⟩ Israël.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Et tu diras"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "mon premier-né"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:10.119987477Z",
+  "model": "glm-4.5"
+}

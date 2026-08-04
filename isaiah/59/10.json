@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "nous tâtonnons ⟨le⟩ mur comme ⟨des⟩ aveugles, et comme sans yeux nous tâtonnons, nous trébuchons au midi comme au crépuscule, ⟨dans⟩ les lieux luxueants comme des morts.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "nous tâtonnons"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "comme des aveugles"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "⟨le⟩ mur",
+      "marks": "le mur"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "et comme sans"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "yeux"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "nous tâtonnons"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "nous trébuchons"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "au midi"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "comme au crépuscule"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "⟨dans⟩ les lieux luxueux",
+      "marks": "les lieux luxueux"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "comme des morts"
+    }
+  ],
+  "timestamp": "2026-08-04T15:52:52.095777682Z",
+  "model": "glm-4.5"
+}

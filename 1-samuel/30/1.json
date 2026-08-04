@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et il arriva, à l'arrivée de David et de ses hommes à Tsiklag, le troisième jour, que les Amalécites avaient fait une incursion dans le Néguev et à Tsiklag, et ils avaient frappé ⟨את⟩ Tsiklag et l'avaient brûlée ⟨את⟩ dans le feu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "à l'arrivée de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "et de ses hommes"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "le troisième"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "que les Amalécites"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "avaient fait une incursion"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "le Néguev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et ils avaient frappé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "et ils l'avaient brûlée"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dans le feu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dans le feu"
+    }
+  ],
+  "timestamp": "2026-08-04T12:50:05.117551993Z",
+  "model": "glm-4.5"
+}

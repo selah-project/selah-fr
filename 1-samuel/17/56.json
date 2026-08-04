@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et le roi dit : demande ⟨dont⟩ le fils ⟨est⟩ ce jeune homme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "demande"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨dont⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "le jeune homme"
+    }
+  ],
+  "timestamp": "2026-08-04T12:32:26.443770459Z",
+  "model": "glm-4.5"
+}

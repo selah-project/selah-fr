@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "N'entrera pas ⟨le⟩ blessé, ⟨le⟩ écrasé, et ⟨le⟩ coupé ⟨au⟩ membre dans ⟨l'⟩assemblée de YHWH.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "N'entrera pas"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "entrera"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "blessé"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "écrasé"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "et coupé"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "membre"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dans l'assemblée"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T10:27:58.973562819Z",
+  "model": "glm-4.5"
+}

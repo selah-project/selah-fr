@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 10:11",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il arriva ⟨dans⟩ la seconde année, ⟨au⟩ second mois, ⟨le⟩ vingtième ⟨du⟩ mois, ⟨la⟩ nuée monta de sur la Demeure du Témoignage",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "⟨dans⟩ la seconde année"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "seconde"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "⟨au⟩ second"
+    },
+    {
+      "surface": "השני",
+      "gloss": "mois"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "⟨le⟩ vingtième"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "⟨du⟩ mois"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "monta"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "⟨la⟩ nuée"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sur"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "la Demeure"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "du Témoignage"
+    }
+  ],
+  "timestamp": "2026-08-04T08:45:29.294333007Z",
+  "model": "glm-4.5"
+}

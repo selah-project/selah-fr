@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et le roi dit à Amasa : fais-moi ⟨את⟩ ⟨les hommes⟩ de Juda rassembler en trois jours, et toi, ici, tiens-toi ⟨prêt⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "fais ... rassembler"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les hommes de Juda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨les hommes⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tiens-toi ⟨prêt⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T13:21:15.286275096Z",
+  "model": "glm-4.5"
+}

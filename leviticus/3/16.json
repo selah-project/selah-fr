@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le prêtre les fera fumer sur l'autel, pain de l'offrande par feu, en odeur apaisante, tout le gras appartient à YHWH.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִירָם",
+      "gloss": "Et le prêtre les fera fumer"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "הַמִּזְבֵּחָה",
+      "gloss": "sur l'autel"
+    },
+    {
+      "surface": "לֶ֤חֶם",
+      "gloss": "pain"
+    },
+    {
+      "surface": "אִשֶּׁה",
+      "gloss": "de l'offrande par feu"
+    },
+    {
+      "surface": "לְרֵ֣יחַ",
+      "gloss": "en odeur"
+    },
+    {
+      "surface": "נִיחֹ֔חַ",
+      "gloss": "apaisante"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חֵלֶב",
+      "gloss": "le gras"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "appartient à YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:27:41.054692970Z",
+  "model": "glm-4.5"
+}

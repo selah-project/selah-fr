@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Tu ne verras pas ⟨את⟩ le bœuf de ton frère ou ⟨את⟩ son mouton égarés et tu te cacheras d'eux; tu feras revenir, oui, tu feras revenir ⟨le⟩ vers ton frère.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne... pas"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "verras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bœuf de ton frère"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bœuf"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "de ton frère"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son mouton"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "égarés"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "et tu te cacheras"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "השב",
+      "gloss": "tu feras revenir"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "tu feras revenir ⟨le⟩"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "vers ton frère"
+    }
+  ],
+  "timestamp": "2026-08-04T10:26:29.225007888Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Les rassasiés se sont loués pour du pain et les affamés ont cessé ⟨de manquer⟩ ; jusqu'à la stérile, elle a enfanté sept, et celle qui avait beaucoup de fils est ⟨devenue⟩ languissante.",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "Les rassasiés"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "pour du pain"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "se sont loués"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "et les affamés"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ont cessé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "la stérile"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "elle a enfanté"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "et celle qui avait beaucoup"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "de fils"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "est ⟨devenue⟩ languissante"
+    }
+  ],
+  "timestamp": "2026-08-04T12:06:00.689331999Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Par ⟨le⟩ El de ton père qui ⟨te⟩ secourra, et ⟨par⟩ Shaddaï qui ⟨te⟩ bénira — bénédictions des cieux d'en haut, bénédictions de l'abîme couché en bas, bénédictions des seins et du sein maternel",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "par ⟨le⟩ El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "qui ⟨te⟩ secourra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨par⟩",
+      "marks": "Shaddaï"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaï"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "qui ⟨te⟩ bénira"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bénédictions"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "d'en haut"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bénédictions"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "de l'abîme"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "couché"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "en bas"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bénédictions"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "des seins"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "et du sein maternel"
+    }
+  ],
+  "timestamp": "2026-08-04T06:09:20.045116441Z",
+  "model": "glm-4.5"
+}

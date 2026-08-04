@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Moïse leva sa main et frappa ⟨את⟩ le rocher avec son bâton deux fois et ⟨את⟩ des eaux abondantes sortirent et but l'assemblée et leurs bêtes",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Et leva"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le rocher"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "le rocher"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "avec son bâton"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "deux fois"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "et sortirent"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abondantes"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "et but"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "et leurs bêtes"
+    }
+  ],
+  "timestamp": "2026-08-04T09:07:03.399415690Z",
+  "model": "glm-4.5"
+}

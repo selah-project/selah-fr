@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et il advint après sept jours que les eaux du déluge ⟨étaient⟩ sur la terre.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et il advint"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "après sept"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "que les eaux"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "du déluge"
+    },
+    {
+      "surface": "היו",
+      "gloss": "étaient"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:06:13.063401156Z",
+  "model": "glm-4.5"
+}

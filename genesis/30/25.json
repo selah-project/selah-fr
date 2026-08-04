@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et il arriva, quand Rachel enfanta ⟨את⟩ Joseph, que Jacob dit à Laban : envoie-moi et je m'en irai vers mon lieu et vers mon pays.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quand"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "enfanta"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "que Jacob dit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "envoie-moi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "et je m'en irai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "mon lieu"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "et vers mon pays"
+    }
+  ],
+  "timestamp": "2026-08-04T05:39:17.265149095Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit ⟨celui⟩ qui méprise son père ou sa mère — et tout le peuple dira : Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maudit"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "qui méprise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ou sa mère"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:35:34.682233096Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "et si ⟨il⟩ ne ⟨les⟩ lave pas et sa chair ne se lave pas, il portera sa faute",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "⟨les⟩ lave pas"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "et sa chair"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "se lave pas"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "il portera"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sa faute"
+    }
+  ],
+  "timestamp": "2026-08-04T08:00:20.179191619Z",
+  "model": "glm-4.5"
+}

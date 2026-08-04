@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et il lui dit : Va avec moi à la maison et mange du pain.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "à la maison"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "et mange"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    }
+  ],
+  "timestamp": "2026-08-04T13:50:10.300283517Z",
+  "model": "glm-4.5"
+}

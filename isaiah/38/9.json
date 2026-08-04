@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "L'écrit de Hizqiyyahou, roi de Yéhoudah, dans sa maladie, et il vérit ⟨de⟩ sa maladie",
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "L'écrit"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "de Hizqiyyahou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yéhoudah"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "dans sa maladie"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "et il vérit"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "⟨de⟩ sa maladie",
+      "marks": "de sa maladie"
+    }
+  ],
+  "timestamp": "2026-08-04T15:33:09.090731368Z",
+  "model": "glm-4.5"
+}

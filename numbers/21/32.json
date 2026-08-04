@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Mosheh envoya espionner ⟨את⟩ Jaazer, et ils en capturèrent les villes, et dépossédèrent ⟨את⟩ l'Amorite qui était là",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "espionner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "et ils capturèrent"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ses villes"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "et dépossédèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Amorite"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Amorite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "était là"
+    }
+  ],
+  "timestamp": "2026-08-04T09:13:36.575127303Z",
+  "model": "glm-4.5"
+}

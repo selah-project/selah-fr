@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et Il donnera ⟨את⟩ Israël à cause des péchés de Jéroboam qu'il a commis et par lesquels il a fait pécher ⟨את⟩ Israël",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "et Il donnera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "les péchés"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "de Jéroboam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "il a commis"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et par lesquels"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "il a fait pécher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T13:52:51.049518288Z",
+  "model": "glm-4.5"
+}

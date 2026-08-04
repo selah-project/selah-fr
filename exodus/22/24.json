@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si tu prêtes de l'argent à ⟨את⟩ mon peuple, ⟨את⟩ le pauvre qui est avec toi, tu ne seras pas pour lui comme un créancier, tu ne placeras pas sur lui d'intérêt.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "tu prêtes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon peuple"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pauvre"
+    },
+    {
+      "surface": "העני",
+      "gloss": "le pauvre"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qui est avec toi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "seras"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "comme un créancier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "placeras"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "d'intérêt"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:27.826350977Z",
+  "model": "glm-4.5"
+}

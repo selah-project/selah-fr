@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Ainsi dit ⟨le⟩ roi : qu'Ézéchias ne vous séduise pas, car il ne pourra pas vous délivrer.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "séduise"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ézéchias"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "pourra"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "délivrer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T15:30:45.612363249Z",
+  "model": "glm-4.5"
+}

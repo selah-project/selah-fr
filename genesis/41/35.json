@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "genesis 41:35",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "et qu'ils rassemblent ⟨את⟩ toute la nourriture des ces bonnes années qui viennent et qu'ils amassent du blé sous la main de Paroh, ⟨את⟩ la nourriture, dans les villes, et qu'ils la gardent.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "et qu'ils rassemblent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la nourriture"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "la nourriture"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "des ces années"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "bonnes"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "qui viennent"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "ויצברו",
+      "gloss": "et qu'ils amassent"
+    },
+    {
+      "surface": "בר",
+      "gloss": "du blé"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la main"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "⟨את⟩ la nourriture",
+      "marks": "la nourriture"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "dans les villes"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "et qu'ils la gardent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:55:08.802660792Z",
+  "model": "glm-4.5"
+}

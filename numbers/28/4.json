@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "⟨את⟩ le agneau l'un tu feras ⟨le⟩ matin et ⟨את⟩ le agneau le second tu feras entre les deux soirs",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le agneau"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "le agneau"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le agneau"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "le agneau"
+    },
+    {
+      "surface": "השני",
+      "gloss": "le second"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "les deux soirs"
+    }
+  ],
+  "timestamp": "2026-08-04T09:27:56.365980108Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Ceux qui te voient ⟨se⟩ dirigent vers toi, sur toi ils ⟨s'⟩attardent : Est-ce ⟨que⟩ ⟨celui-ci⟩ est l'homme qui faisait trembler ⟨la⟩ terre, qui secouait des royaumes ?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Ceux qui te voient"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "⟨se⟩ dirigent"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "ils ⟨s'⟩attardent"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Est-ce ⟨que⟩ ⟨celui-ci⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "est l'homme"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "qui faisait trembler"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre",
+      "marks": "la terre"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "qui secouait"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "des royaumes"
+    }
+  ],
+  "timestamp": "2026-08-04T15:03:23.468540663Z",
+  "model": "glm-4.5"
+}

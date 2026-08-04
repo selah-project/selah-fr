@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Ont-ils ⟨את⟩ délivrés, les dieux des nations, ⟨que⟩ mes pères ⟨ont⟩ détruits : Gozan, et ⟨את⟩ Haran, et Rezeph, et les fils d'Éden, ⟨qui étaient⟩ à Telassar ?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Ont-ils délivrés"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les dieux des nations"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "les dieux"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "mes pères ⟨ont⟩ détruits"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mes pères"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "et Rezeph"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "et les fils de"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Éden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui étaient⟩"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "à Telassar"
+    }
+  ],
+  "timestamp": "2026-08-04T14:37:19.051668242Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Nachor vécut après avoir engendré ⟨את⟩ Terach, cent dix-neuf ans, et engendra des fils et des filles.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "avoir engendré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "neuf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dix"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "et cent"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "et des filles"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:35.926204334Z",
+  "model": "glm-4.5"
+}

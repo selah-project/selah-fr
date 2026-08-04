@@ -1,0 +1,121 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Abram prit ⟨את⟩ Saraï sa femme et ⟨את⟩ Lot fils de son frère et ⟨את⟩ tout le bien qu'ils avaient acquis et ⟨את⟩ les personnes qu'ils avaient faites à Haran, et ils sortirent pour aller au pays de Canaan, et ils vinrent au pays de Canaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraï sa femme"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraï"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "de son frère"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout le bien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ils avaient acquis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les personnes"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "les personnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ils avaient faites"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "à Haran"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ils sortirent"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour aller"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "au pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ils vinrent"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "au pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:30.569978607Z",
+  "model": "glm-4.5"
+}

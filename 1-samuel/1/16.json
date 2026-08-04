@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Ne compte pas ta servante pour ⟨une⟩ fille de Belial ; car c’est à cause de l’abondance de mon monologue et de mon irritation que j’ai parlé jusqu’ici.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "compte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta servante"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ta servante"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pour"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨une⟩ fille"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "de Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "de l’abondance"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "de mon monologue"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "et de mon irritation"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "j’ai parlé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’ici"
+    },
+    {
+      "surface": "הנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T12:04:20.592149256Z",
+  "model": "glm-4.5"
+}

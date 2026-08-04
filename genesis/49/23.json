@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 49:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Ils l'ont amer et ⟨ils⟩ l'ont harcelé, ⟨les⟩ maîtres des flèches ⟨l'ont⟩ haï",
+  "tokens": [
+    {
+      "surface": "וימררהו",
+      "gloss": "Ils l'ont amer"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "et ⟨ils⟩ l'ont harcelé"
+    },
+    {
+      "surface": "וישטמהו",
+      "gloss": "⟨les⟩ maîtres des flèches ⟨l'ont⟩ haï"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "maîtres des"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "flèches"
+    }
+  ],
+  "timestamp": "2026-08-04T06:09:31.970369273Z",
+  "model": "glm-4.5"
+}

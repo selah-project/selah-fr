@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Rassemblez-vous et écoutez, fils de Ya‘aqov, et écoutez ⟨le⟩ Israël, votre père.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "Rassemblez-vous"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "et écoutez"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Ya‘aqov"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "et écoutez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "votre père"
+    }
+  ],
+  "timestamp": "2026-08-04T06:08:48.314972965Z",
+  "model": "glm-4.5"
+}

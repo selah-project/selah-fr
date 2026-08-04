@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "et je ne voulus pas écouter ⟨le⟩ Balaam, et il bénit ⟨fort⟩ ⟨את⟩ vous, et je délivrai ⟨את⟩ vous de sa main",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et je ne"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "voulus"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "écouter ⟨le⟩"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Balaam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et il bénit"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "⟨fort⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "vous"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "et je délivrai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "vous"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "de sa main"
+    }
+  ],
+  "timestamp": "2026-08-04T11:30:48.693471907Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et dans la cinquième année, vous mangerez ⟨את⟩ son fruit, pour augmenter pour vous son revenu ; moi, YHWH, ⟨suis⟩ votre Élohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Et dans l'année"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "la cinquième"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son fruit"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "son fruit"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "pour augmenter"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "son revenu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:51.562082759Z",
+  "model": "glm-4.5"
+}

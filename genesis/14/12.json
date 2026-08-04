@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Ils prirent ⟨את⟩ Lot et ⟨את⟩ ses biens, le fils du frère d'Abram, et ils s'en allèrent, or il habitait à Sodome.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ils prirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses biens"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ses biens"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "du frère"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "d'Abram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "et ils s'en allèrent"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "or il"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitait"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "à Sodome"
+    }
+  ],
+  "timestamp": "2026-08-04T05:19:06.236019797Z",
+  "model": "glm-4.5"
+}

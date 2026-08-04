@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et David frappa ⟨את⟩ Hadadézer, fils de Rechob, roi de Tsoba, dans son aller pour ramener sa main ⟨sur⟩ le fleuve.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Et frappa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadézer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi de"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "dans son aller"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "pour ramener"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "⟨sur⟩ le fleuve"
+    }
+  ],
+  "timestamp": "2026-08-04T13:03:01.826160822Z",
+  "model": "glm-4.5"
+}

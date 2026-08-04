@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et ses frères furent jaloux de lui, mais son père garda ⟨la⟩ chose.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Et furent jaloux"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "mais son père"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "garda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la chose"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la chose"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:25.403801225Z",
+  "model": "glm-4.5"
+}

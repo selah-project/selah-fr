@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et le ⟨frontière⟩ sortit ⟨vers⟩ la mer au nord de Micmethath, et le ⟨frontière⟩ tournait ⟨vers⟩ l'orient à Taanath-Shilo, et passait ⟨à l'est⟩ de ⟨Janoha⟩",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et sortit"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "la frontière"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "vers la mer"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "au nord de Micmethath"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "au nord"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "et tournait"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "la frontière"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "vers l'orient"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanath"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "-Shilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "et passait"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "à l'est de Janoha"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "à l'est"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Janoha"
+    }
+  ],
+  "timestamp": "2026-08-04T11:15:25.573737518Z",
+  "model": "glm-4.5"
+}

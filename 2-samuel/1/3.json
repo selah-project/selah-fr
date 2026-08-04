@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et David lui dit : d'où viens-tu ? Et il lui dit : je me suis échappé du camp d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "d'où"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "[de] ceci"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tu viens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "du camp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "je me suis échappé"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:41.874079093Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Chaque homme ⟨doit donner⟩ selon le don de sa main, selon la bénédiction de YHWH ton Élohim, ⟨celle⟩ qu'il t'a donnée.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Chaque homme"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "selon le don"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "de sa main"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "selon la bénédiction"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨celle⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qu'il t'a donnée"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨à toi⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T10:20:14.293449876Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et YHWH dit à Moïse : Viens vers Pharaon, car j'ai alourdi ⟨את⟩ son cœur et ⟨את⟩ le cœur de ses serviteurs, afin de placer ces mes signes au milieu de lui",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Viens"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ai alourdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son cœur"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le cœur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "de ses serviteurs"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin de"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "placer"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ces mes signes"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "au milieu de lui"
+    }
+  ],
+  "timestamp": "2026-08-04T06:24:34.724056541Z",
+  "model": "glm-4.5"
+}

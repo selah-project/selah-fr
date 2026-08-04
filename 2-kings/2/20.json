@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et il dit : apportez-moi un nouveau plat et mettez-y du sel. Et ils le lui apportèrent.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "apportez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "un nouveau plat"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "et mettez-y"
+    },
+    {
+      "surface": "שם",
+      "gloss": "-y"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "du sel"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "Et ils apportèrent"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    }
+  ],
+  "timestamp": "2026-08-04T14:07:33.301079936Z",
+  "model": "glm-4.5"
+}

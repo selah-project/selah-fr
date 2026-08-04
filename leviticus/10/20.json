@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Mosheh entendit, et cela fut bon dans ⟨ses⟩ yeux",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et Mosheh entendit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "et cela fut bon"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "dans ⟨ses⟩ yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T07:39:20.342751850Z",
+  "model": "glm-4.5"
+}

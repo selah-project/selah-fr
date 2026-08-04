@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il se tint et bénit ⟨את⟩ toute l'assemblée d'Israël d'une voix grande, en disant",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Et il se tint"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et bénit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'assemblée"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "קול",
+      "gloss": "d'une voix"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T13:42:50.030846110Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-samuel 2:33",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et l'homme de chez toi, que je ne couperai pas de mon autel, sera pour consumer tes yeux, et pour affliger ta nefesh, et tout le reste de ta maison mourra hommes.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et l'homme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "couperai pas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de chez toi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "d'auprès de"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mon autel"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "pour consumer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes yeux"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tes yeux"
+    },
+    {
+      "surface": "ולאדיב",
+      "gloss": "et pour affliger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ta nefesh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "le reste"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "hommes"
+    }
+  ],
+  "timestamp": "2026-08-04T12:07:37.612017166Z",
+  "model": "glm-4.5"
+}

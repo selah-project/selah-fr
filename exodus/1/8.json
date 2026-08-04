@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il se leva un roi nouveau sur l'Égypte, qui n'avait pas connu ⟨את⟩ Joseph.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et il se leva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un roi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'avait pas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:25.165606660Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Alors se rassemblèrent ⟨vers⟩ le roi Shelomoh tout homme d’Israël, au mois des Éthanims, à la fête, ⟨c'est⟩ le mois ⟨le⟩ septième.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Alors se rassemblèrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩",
+      "marks": "le roi Shelomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d’Israël"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "au mois"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "des Éthanims"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "à la fête"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨c'est⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "le mois ⟨le⟩"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septième"
+    }
+  ],
+  "timestamp": "2026-08-04T13:41:12.589415092Z",
+  "model": "glm-4.5"
+}

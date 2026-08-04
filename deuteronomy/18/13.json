@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Entier tu seras avec YHWH ton Élohim.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "entier"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tu seras"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T10:21:48.228840654Z",
+  "model": "glm-4.5"
+}

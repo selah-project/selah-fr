@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 43:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "et El Shaddaï vous fasse miséricorde devant l'homme et qu'il envoie pour vous ⟨את⟩ votre autre frère et ⟨את⟩ Benjamin ; et moi, comme je suis privé d'enfants, je suis privé d'enfants.",
+  "tokens": [
+    {
+      "surface": "וְאֵ֣ל",
+      "gloss": "et El"
+    },
+    {
+      "surface": "שַׁדַּ֗י",
+      "gloss": "Shaddaï"
+    },
+    {
+      "surface": "יִתֵּ֨ן",
+      "gloss": "fasse"
+    },
+    {
+      "surface": "לָכֶ֤ם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "רַחֲמִים֙",
+      "gloss": "miséricorde"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "devant"
+    },
+    {
+      "surface": "הָאִ֔ישׁ",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "וְשִׁלַּ֥ח",
+      "gloss": "et qu'il envoie"
+    },
+    {
+      "surface": "לָכֶ֛ם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "אֲחִיכֶ֥ם",
+      "gloss": "⟨את⟩",
+      "marks": "votre autre frère"
+    },
+    {
+      "surface": "אַחֵ֖ר",
+      "gloss": "autre frère"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et",
+      "marks": "Benjamin"
+    },
+    {
+      "surface": "בִּנְיָמִ֑ין",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "וַאֲנִ֕י",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "שָׁכֹ֖לְתִּי",
+      "gloss": "je suis privé d'enfants"
+    },
+    {
+      "surface": "שָׁכָֽלְתִּי",
+      "gloss": "je suis privé d'enfants"
+    }
+  ],
+  "timestamp": "2026-08-04T05:58:52.364112498Z",
+  "model": "glm-4.5"
+}

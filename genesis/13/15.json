@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "car ⟨את⟩ toute la terre que tu vois, à toi je la donne, et à ta descendance jusqu'à l'éternité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la terre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vois"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "je la donne"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "et à ta descendance"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "l'éternité"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:02.612061486Z",
+  "model": "glm-4.5"
+}

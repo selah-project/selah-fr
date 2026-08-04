@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "après ⟨sa⟩ frappe de Sihon, roi de l'Amoréen, ⟨qui⟩ réside à Heshbon, et ⟨de⟩ Og, roi du Bashan, ⟨qui⟩ réside à Ashtaroth et à Edrei",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "⟨sa⟩ frappe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨de⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de l'Amoréen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "réside"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "à Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨de⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "du Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "réside"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "à Ashtaroth"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "et à Edrei"
+    }
+  ],
+  "timestamp": "2026-08-04T09:49:16.153971085Z",
+  "model": "glm-4.5"
+}

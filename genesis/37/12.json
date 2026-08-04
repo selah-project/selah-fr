@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et ses frères allèrent pour faire paître ⟨את⟩ le petit bétail de leur père à Shékhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "allèrent"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "pour faire paître"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le petit bétail"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "le petit bétail"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "de leur père"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "à Shékhem"
+    }
+  ],
+  "timestamp": "2026-08-04T05:49:02.622985456Z",
+  "model": "glm-4.5"
+}

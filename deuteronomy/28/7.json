@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH donnera ⟨את⟩ tes ennemis qui ⟨sont⟩ dressés contre toi frappés devant toi ; par une seule route ils sortiront vers toi, et par sept routes ils fuiront devant toi.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes ennemis"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "qui ⟨sont⟩ dressés"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "frappés"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "par une seule route"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seule"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ils sortiront"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "et par sept"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "routes"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "ils fuiront"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:54.920091059Z",
+  "model": "glm-4.5"
+}

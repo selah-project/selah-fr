@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et le cohen ordonnera et ils ôteront ⟨את⟩ les pierres auxquelles ⟨est⟩ la plaie et ils les jetteront ⟨את⟩-elles vers l'extérieur de la ville vers un lieu impur",
+  "tokens": [
+    {
+      "surface": "וְצִוָּה",
+      "gloss": "et ordonnera"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "וְחִלְּצוּ",
+      "gloss": "et ils ôteront"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "האבנים"
+    },
+    {
+      "surface": "הָ֣אֲבָנִ֔ים",
+      "gloss": "les pierres"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "auxquelles"
+    },
+    {
+      "surface": "בָּהֵ֖ן",
+      "gloss": "en elles"
+    },
+    {
+      "surface": "הַנָּ֑גַע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "וְהִשְׁלִ֤יכוּ",
+      "gloss": "et ils les jetteront"
+    },
+    {
+      "surface": "אֶתְהֶן֙",
+      "gloss": "⟨את⟩-elles",
+      "marks": "אל"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מִח֣וּץ",
+      "gloss": "l'extérieur"
+    },
+    {
+      "surface": "לָעִ֔יר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מָק֖וֹם",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "טָמֵֽא",
+      "gloss": "impur"
+    }
+  ],
+  "timestamp": "2026-08-04T07:51:40.163037011Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et David ne voulut pas déplacer vers lui ⟨את⟩ l'arche de YHWH sur la cité de David, et David la fit détourner ⟨est⟩ vers la maison d'Obed-Édom le Guittite.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "voulut pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "déplacer"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche de YHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la cité"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "et la fit détourner"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vers la maison"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "d'Obed"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "le Guittite"
+    }
+  ],
+  "timestamp": "2026-08-04T12:58:24.289848929Z",
+  "model": "glm-4.5"
+}

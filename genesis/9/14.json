@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et il arrivera, quand je ferai un nuage ⟨sur⟩ la terre, et ⟨qu'⟩elle sera vue, ⟨l'⟩arc dans le nuage",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et il arrivera"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "quand je ferai un nuage"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "nuage"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "et ⟨qu'⟩elle sera vue"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "⟨l'⟩arc"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "dans le nuage"
+    }
+  ],
+  "timestamp": "2026-08-04T05:09:07.784194386Z",
+  "model": "glm-4.5"
+}

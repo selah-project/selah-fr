@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "et ⟨את⟩ les Hittites et ⟨את⟩ les Perizzites et ⟨את⟩ les Rephaïm",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Hittites"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "les Hittites"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Perizzites"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "les Perizzites"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Rephaïm"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "les Rephaïm"
+    }
+  ],
+  "timestamp": "2026-08-04T05:19:41.131902334Z",
+  "model": "glm-4.5"
+}

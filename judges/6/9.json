@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Je vous ai délivré ⟨את⟩ de la main de Mitsraïm et ⟨את⟩ de la main de tous vos oppresseurs, et Je les ai chassés de devant vous, et Je vous ai donné ⟨את⟩ leur terre.",
+  "tokens": [
+    {
+      "surface": "וָאַצִּל",
+      "gloss": "Et Je délivrai"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "vous",
+      "marks": "de la main"
+    },
+    {
+      "surface": "מִיַּד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "de Mitsraïm"
+    },
+    {
+      "surface": "וּמִיַּד",
+      "gloss": "et de la main"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "לֹחֲצֵיכֶם",
+      "gloss": "vos oppresseurs"
+    },
+    {
+      "surface": "וָאֲגָרֵשׁ",
+      "gloss": "et Je chassai"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "eux",
+      "marks": "de devant vous"
+    },
+    {
+      "surface": "מִפְּנֵיכֶם",
+      "gloss": "de devant vous"
+    },
+    {
+      "surface": "וָאֶתְּנָה",
+      "gloss": "et Je donnai"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leur terre"
+    },
+    {
+      "surface": "אַרְצָם",
+      "gloss": "leur terre"
+    }
+  ],
+  "timestamp": "2026-08-04T11:40:54.475718167Z",
+  "model": "glm-4.5"
+}

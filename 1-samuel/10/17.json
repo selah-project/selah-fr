@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Shemuël cria ⟨את⟩ le peuple vers YHWH, à Mitspa",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Et cria"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "à Mitspa"
+    }
+  ],
+  "timestamp": "2026-08-04T12:16:21.417599984Z",
+  "model": "glm-4.5"
+}

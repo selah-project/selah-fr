@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Et Israël dit à Joseph : Je mourrai cette fois-ci, après avoir vu ⟨את⟩ ton visage, car tu es encore vivant.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "Je mourrai"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "cette fois-ci"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "avoir vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton visage"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ton visage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "tu es encore"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    }
+  ],
+  "timestamp": "2026-08-04T06:03:14.582836544Z",
+  "model": "glm-4.5"
+}

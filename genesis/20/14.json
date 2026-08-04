@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Abimelek prit ⟨des⟩ brebis et ⟨du⟩ bétail, et des serviteurs et des servantes, et il ⟨les⟩ donna à Abraham, et il rendit à lui ⟨את⟩ Sarah sa femme.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "⟨des⟩ brebis"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "et ⟨du⟩ bétail"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "et des serviteurs"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "et des servantes"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et il ⟨les⟩ donna"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "à Abraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il rendit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:16.240042272Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Alors le Rab-shaqé revint et trouva ⟨את⟩ le roi d'Assyrie faisant la guerre contre Libnah, car il avait entendu ⟨qu'il⟩ était parti de Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "revint"
+    },
+    {
+      "surface": "רב",
+      "gloss": "le chef"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "des échansons"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "et trouva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi d'Assyrie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assyrie"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "faisant la guerre"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "il avait entendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "était parti"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "de Lakish"
+    }
+  ],
+  "timestamp": "2026-08-04T14:37:00.837340945Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et sonnez ⟨un⟩ cri d'alarme et ⟨les⟩ camps ⟨qui⟩ campent à l'orient ⟨devront⟩ partir",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "et sonnez"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "⟨un⟩ cri d'alarme"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "et ⟨les⟩ camps ⟨qui⟩ campent à l'orient ⟨devront⟩ partir"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "et ⟨les⟩ camps"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "⟨qui⟩ campent"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "à l'orient"
+    }
+  ],
+  "timestamp": "2026-08-04T08:45:30.686005594Z",
+  "model": "glm-4.5"
+}

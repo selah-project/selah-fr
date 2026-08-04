@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "et le poisson qui ⟨est⟩ dans le Nil mourra et le Nil deviendra fétide et les Égyptiens se lasseront de boire de l'eau du Nil",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "et le poisson"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "⟨est⟩ dans le Nil"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "et le Nil deviendra fétide"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "le Nil"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "et se lasseront"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "de boire"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de l'eau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nil"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:14.114740218Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "et du fruit de l'arbre qui ⟨est⟩ au milieu du jardin, Élohim a dit : vous n'en mangerez pas, et vous n'y toucherez pas, de peur que vous ne mouriez.",
+  "tokens": [
+    {
+      "surface": "וּמִפְּרִי",
+      "gloss": "et du fruit"
+    },
+    {
+      "surface": "הָעֵץ",
+      "gloss": "de l'arbre"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בְּתוֹךְ",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "הַגָּן",
+      "gloss": "du jardin"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תֹֽאכְלוּ",
+      "gloss": "vous mangerez"
+    },
+    {
+      "surface": "מִמֶּ֔נּוּ",
+      "gloss": "en"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "תִגְּע֖וּ",
+      "gloss": "vous toucherez"
+    },
+    {
+      "surface": "בּ֑וֹ",
+      "gloss": "y"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תְּמֻתֽוּן",
+      "gloss": "vous mouriez"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:34.803688935Z",
+  "model": "glm-4.5"
+}

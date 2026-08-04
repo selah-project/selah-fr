@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "L'homme, le seigneur du pays, a parlé ⟨durement⟩ avec nous, et nous a pris ⟨את⟩ comme des espions du pays.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "le seigneur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "⟨durement⟩"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et nous a pris"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "comme des espions"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "comme des espions"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du pays"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:43.700400176Z",
+  "model": "glm-4.5"
+}

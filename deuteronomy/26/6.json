@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et les Égyptiens ⟨nous⟩ firent du mal, et ⟨nous⟩ affligèrent, et mirent sur nous un service dur",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "firent du mal"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨nous⟩",
+      "marks": "les Égyptiens"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "et affligèrent"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "et mirent"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "service"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "dur"
+    }
+  ],
+  "timestamp": "2026-08-04T10:34:28.192236334Z",
+  "model": "glm-4.5"
+}

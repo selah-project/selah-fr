@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et celui qui porte ⟨את⟩ leurs carcasses lavera ses vêtements et sera impur jusqu'au soir ; impurs, ils sont pour vous.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "Et celui qui porte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs carcasses"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "leurs carcasses"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lavera"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "et sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "impurs"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils sont"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:40.879441562Z",
+  "model": "glm-4.5"
+}

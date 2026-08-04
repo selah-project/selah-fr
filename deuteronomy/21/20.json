@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et ils diront aux anciens de sa ville : « Notre fils, celui-ci, ⟨est⟩ révolté et rebelle ; il n’obéit pas à notre voix, ⟨il est⟩ un glouton et un ivrogne ».",
+  "tokens": [
+    {
+      "surface": "וְאָמְר֞וּ",
+      "gloss": "et ils diront"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "זִקְנֵ֣י",
+      "gloss": "anciens"
+    },
+    {
+      "surface": "עִיר֗וֹ",
+      "gloss": "de sa ville"
+    },
+    {
+      "surface": "בְּנֵ֤נוּ",
+      "gloss": "notre fils"
+    },
+    {
+      "surface": "זֶה֙",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "סוֹרֵ֣ר",
+      "gloss": "révolté"
+    },
+    {
+      "surface": "וּמֹרֶ֔ה",
+      "gloss": "et rebelle"
+    },
+    {
+      "surface": "אֵינֶ֥נּוּ",
+      "gloss": "il n’⟨est⟩ pas"
+    },
+    {
+      "surface": "שֹׁמֵ֖עַ",
+      "gloss": "obéissant"
+    },
+    {
+      "surface": "בְּקֹלֵ֑נוּ",
+      "gloss": "à notre voix"
+    },
+    {
+      "surface": "זוֹלֵ֖ל",
+      "gloss": "glouton"
+    },
+    {
+      "surface": "וְסֹבֵֽא",
+      "gloss": "et ivrogne"
+    }
+  ],
+  "timestamp": "2026-08-04T10:25:16.420045739Z",
+  "model": "glm-4.5"
+}

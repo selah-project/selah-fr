@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et le prêtre la fera approcher et la fera se tenir devant YHWH",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "et fera approcher"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la femme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "et la fera se tenir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:31:21.100501559Z",
+  "model": "glm-4.5"
+}

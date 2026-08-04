@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Sarai était stérile, elle n'avait pas ⟨d'enfant⟩",
+  "tokens": [
+    {
+      "surface": "וַתְּהִי",
+      "gloss": "Et"
+    },
+    {
+      "surface": "שָׂרַי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עֲקָרָה",
+      "gloss": "était stérile"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "n'avait pas"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "elle"
+    },
+    {
+      "surface": "וָלָד",
+      "gloss": "d'enfant"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:35.630774347Z",
+  "model": "glm-4.5"
+}

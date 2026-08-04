@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il dit : contre demain. Et il dit : selon ta parole, afin que tu saches que ⟨il n'y a⟩ point comme YHWH notre Élohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "contre demain"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "selon ta parole"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tu saches"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a point"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "comme YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T06:21:56.957583785Z",
+  "model": "glm-4.5"
+}

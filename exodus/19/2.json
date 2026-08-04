@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Ils partirent de Rephidim et vinrent ⟨au⟩ désert du Sinaï, et ils campèrent dans ⟨le⟩ désert ; et là campa Israël en face de ⟨la⟩ montagne.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ils partirent"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "de Rephidim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et vinrent"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨au⟩ désert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "du Sinaï"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "et ils campèrent"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans ⟨le⟩ désert"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "et là campa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "en face de"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨la⟩ montagne"
+    }
+  ],
+  "timestamp": "2026-08-04T06:40:15.321504287Z",
+  "model": "glm-4.5"
+}

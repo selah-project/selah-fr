@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "⟨את⟩ ton argent, tu ne ⟨lui⟩ donneras pas à intérêt, et pour augmentation tu ne ⟨lui⟩ donneras pas ⟨את⟩ ta nourriture",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton argent"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ton argent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "donneras"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "à intérêt"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "et pour augmentation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "donneras"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "⟨את⟩ ta nourriture"
+    }
+  ],
+  "timestamp": "2026-08-04T08:16:24.811669068Z",
+  "model": "glm-4.5"
+}

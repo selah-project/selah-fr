@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "L'herbe se dessèche, la fleur se fane, car la Rouah de YHWH a soufflé sur elle; oui, l'herbe, c'est le peuple.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "se dessèche"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "l'herbe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "se fane"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "la fleur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "la Rouah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "a soufflé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "oui"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "l'herbe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "c'est le peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T15:34:51.144455564Z",
+  "model": "glm-4.5"
+}

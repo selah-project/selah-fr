@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et ⟨ils⟩ ne ⟨se⟩ mirent pas en compte avec ⟨את⟩ les hommes ⟨qui⟩ donnaient ⟨את⟩ l'argent sur leur main pour donner à ceux qui faisaient l'ouvrage, car dans la fidélité ils ⟨le⟩ faisaient",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ils ne mirent pas en compte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les hommes"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "donnaient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'argent"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leur main"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "à ceux qui faisaient"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "l'ouvrage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "dans la fidélité"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ils"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "faisaient"
+    }
+  ],
+  "timestamp": "2026-08-04T14:25:35.700267479Z",
+  "model": "glm-4.5"
+}

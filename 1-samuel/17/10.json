@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et le Philistin dit : J'ai défié ⟨את⟩ les rangs d'Israël aujourd'hui ; donnez-moi un homme et nous combattrons ensemble.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "le Philistin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "j'ai défié"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les rangs d'Israël"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "les rangs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "donnez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "et combattrons"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-04T12:30:52.630503805Z",
+  "model": "glm-4.5"
+}

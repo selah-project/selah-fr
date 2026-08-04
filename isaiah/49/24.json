@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "La proie sera-t-elle prise ⟨à⟩ un guerrier, et si l'exil d'un juste, sera-t-il délivré ?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "sera-t-elle prise"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "⟨à⟩ un guerrier"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "la proie"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "l'exil"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "d'un juste"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sera-t-il délivré"
+    }
+  ],
+  "timestamp": "2026-08-04T15:45:00.351539026Z",
+  "model": "glm-4.5"
+}

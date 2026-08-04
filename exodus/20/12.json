@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Honore ⟨את⟩ ton père et ⟨את⟩ ta mère afin que se prolongent tes jours sur la terre que YHWH ton Élohim te donne",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Honore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton père"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ta mère"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ta mère"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "se prolongent"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tes jours"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:43.920832779Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Yehonathan dit à David : ⟨que⟩ dira ta nefesh et je ferai ⟨pour⟩ toi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quoi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "dira"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ta nefesh"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "et je ferai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pour⟩ toi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:36:05.140705198Z",
+  "model": "glm-4.5"
+}

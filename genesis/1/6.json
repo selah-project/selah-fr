@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim dit : qu'il y ait une étendue au milieu ⟨des⟩ eaux, et qu'elle ⟨soit⟩ une séparation entre les eaux et ⟨les⟩ eaux.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qu'il y ait"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "une étendue"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨des⟩ eaux"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et qu'elle"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "⟨soit⟩ une séparation"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "למים",
+      "gloss": "et ⟨les⟩ eaux"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:10.933030070Z",
+  "model": "glm-4.5"
+}

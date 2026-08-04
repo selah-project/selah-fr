@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-samuel 17:3",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "et je ferai revenir tout le peuple vers toi, comme le retour de tout, l'homme ⟨את⟩ que tu cherches, tout le peuple sera en shalom",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "et je ferai revenir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "כשוב",
+      "gloss": "comme le retour"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cherches"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "en shalom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:16:31.391306912Z",
+  "model": "glm-4.5"
+}

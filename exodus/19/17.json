@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Mosheh fit sortir ⟨את⟩ le peuple à la rencontre d'Élohim du camp, et ils se tinrent au bas de la montagne",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Et fit sortir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "à la rencontre de"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "et ils se tinrent"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "au bas de"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "la montagne"
+    }
+  ],
+  "timestamp": "2026-08-04T06:40:34.171614216Z",
+  "model": "glm-4.5"
+}

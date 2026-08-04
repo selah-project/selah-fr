@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et si le prêtre voit et voici, la tumeur s'est étendue sur la peau, et le prêtre le déclare impur, c'est la lèpre",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "et si voit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "s'est étendue"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "la tumeur"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "sur la peau"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "et le déclare impur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "la lèpre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:15.686954390Z",
+  "model": "glm-4.5"
+}

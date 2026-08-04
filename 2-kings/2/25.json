@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et il alla de là vers la montagne du Carmel et de là il revint à Samarie",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et il alla"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "du Carmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "et de là"
+    },
+    {
+      "surface": "שב",
+      "gloss": "il revint"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "à Samarie"
+    }
+  ],
+  "timestamp": "2026-08-04T14:08:13.550607457Z",
+  "model": "glm-4.5"
+}

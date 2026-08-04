@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Ben-Chesed, ⟨est⟩ à Aruboth ; à lui ⟨sont⟩ Soko et toute la terre de Hépher",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-Chesed",
+      "notes": "Premier élément du composé Ben-Chesed."
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Ben-Chesed",
+      "notes": "Deuxième élément du composé Ben-Chesed."
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "⟨est⟩ à Aruboth",
+      "notes": "Préfixe ב, article défini et préposition de lieu."
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui ⟨sont⟩",
+      "notes": "Pronom suffixe 3ms."
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "de Hépher"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:10.854239499Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Voici, les jours viennent, et j'ai retranché ⟨את⟩ ton bras, et ⟨את⟩ le bras de la maison de ton père, de sorte qu'il n'y ait pas de vieillard dans ta maison.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "באים",
+      "gloss": "viennent"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "et j'ai retranché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton bras"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ton bras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le bras"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "le bras"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "de sorte qu'il n'y ait"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "de vieillard"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "dans ta maison"
+    }
+  ],
+  "timestamp": "2026-08-04T12:07:16.150445693Z",
+  "model": "glm-4.5"
+}

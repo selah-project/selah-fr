@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et YHWH dit à Jacob : retourne ⟨au⟩ pays de tes pères et ⟨vers⟩ ta parenté, et je serai avec toi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "retourne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨au⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pays"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "de tes pères"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "et ⟨vers⟩ ta parenté"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "et je serai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:14.003722780Z",
+  "model": "glm-4.5"
+}

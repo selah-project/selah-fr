@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et tous les puits qu'avaient creusés les serviteurs de son père aux jours d'Abraham son père, les Philistins les ⟨ont⟩ bouchés et les ⟨ont⟩ remplis de poussière.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et tous"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "les puits"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "avaient creusés"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "aux jours"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "les ⟨ont⟩ bouchés"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "et les ⟨ont⟩ remplis"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "de poussière"
+    }
+  ],
+  "timestamp": "2026-08-04T05:33:26.104779043Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Mon dos, je l'ai donné ⟨aux⟩ frappeurs, et mes joues ⟨aux⟩ arracheurs ; ma face, je ne l'ai pas cachée ⟨des⟩ ignominies et ⟨du⟩ crachat.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "mon dos"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "je l'ai donné"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "⟨aux⟩ frappeurs"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "et mes joues"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "⟨aux⟩ arracheurs"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ma face"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne l'ai pas"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "cachée"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "⟨des⟩ ignominies"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "et ⟨du⟩ crachat"
+    }
+  ],
+  "timestamp": "2026-08-04T15:45:35.628436496Z",
+  "model": "glm-4.5"
+}

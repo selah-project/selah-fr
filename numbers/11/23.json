@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et YHWH dit à Moïse : La main de YHWH est-elle ⟨trop⟩ courte ? Maintenant tu verras si ma parole ⟨advient⟩ pour toi ou si ⟨non⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "היד",
+      "gloss": "la main"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "est-elle ⟨trop⟩ courte"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu verras"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "si ma parole ⟨advient⟩ pour toi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ma parole"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si ⟨non⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T08:47:51.328780537Z",
+  "model": "glm-4.5"
+}

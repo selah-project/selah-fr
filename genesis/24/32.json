@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et l'homme ⟨alla⟩ ⟨dans⟩ la maison, et ⟨il⟩ déchargea les chameaux, et donna de la paille et du fourrage aux chameaux, et de l'eau pour laver ses pieds et les pieds des hommes qui étaient avec lui",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et ⟨alla⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨dans⟩ la maison"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "et ⟨il⟩ déchargea"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "les chameaux"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et donna"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "de la paille"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "et du fourrage"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "aux chameaux"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "et de l'eau"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "pour laver"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ses pieds"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "et les pieds"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "des hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "étaient avec lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:30:30.676623373Z",
+  "model": "glm-4.5"
+}

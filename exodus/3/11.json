@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Mosheh dit à Élohim : qui suis-je, moi, pour que je go vers Paroh, et pour que je fasse sortir ⟨את⟩ les fils d'Israël d'Égypte ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "suis-je, moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pour que"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "je go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "et pour que"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "je fasse sortir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:15:34.648270179Z",
+  "model": "glm-4.5"
+}

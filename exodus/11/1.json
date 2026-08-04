@@ -1,0 +1,107 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et YHWH dit à Moshe : encore une plaie, je ⟨ferai venir⟩ sur Paro et sur Mitsrayim ; après cela, il ⟨vous⟩ renverra d'ici ; quand il ⟨vous⟩ renverra, il ⟨vous⟩ chassera tout à fait d'ici.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "une plaie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "une"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "je ⟨ferai venir⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "il ⟨vous⟩ renverra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩",
+      "marks": "d'ici"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "d'ici"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "quand il ⟨vous⟩ renverra"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tout à fait"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "il ⟨vous⟩ chassera"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "chassera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩",
+      "marks": "d'ici"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "d'ici"
+    }
+  ],
+  "timestamp": "2026-08-04T06:26:00.731190361Z",
+  "model": "glm-4.5"
+}

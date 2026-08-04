@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Quand ton fils te demandera demain, en disant : Que ⟨sont⟩ ⟨le⟩s témoignages, et les lois, et les jugements que YHWH notre Élohim vous a commandés",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "te demandera"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ton fils"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "demain"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨le⟩s témoignages"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "et les lois"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "et les jugements"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a commandés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:00:20.542287114Z",
+  "model": "glm-4.5"
+}

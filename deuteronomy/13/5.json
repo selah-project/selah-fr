@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "après YHWH votre Élohim vous marcherez, et ⟨את⟩ lui vous craindrez, et ⟨את⟩ ses commandements vous garderez, et dans sa voix vous entendrez, et ⟨את⟩ lui vous servirez, et en lui vous vous attacherez.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "vous marcherez"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "et ⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vous craindrez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses commandements"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ses commandements"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "vous garderez"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "et dans sa voix"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "vous entendrez"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "et ⟨את⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "vous servirez"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "et en lui"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "vous vous attacherez"
+    }
+  ],
+  "timestamp": "2026-08-04T10:15:56.522964005Z",
+  "model": "glm-4.5"
+}

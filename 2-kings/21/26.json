@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et on l'enterra ⟨את⟩ dans son sépulcre dans le jardin d'Ouzza, et Yoshiyahou son fils régna à sa place",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "et on l'enterra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dans son sépulcre"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "dans son sépulcre"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "dans le jardin"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "d'Ouzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "et régna"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahou"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "à sa place"
+    }
+  ],
+  "timestamp": "2026-08-04T14:39:44.168438766Z",
+  "model": "glm-4.5"
+}

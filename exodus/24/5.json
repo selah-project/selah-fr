@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et il envoya ⟨את⟩ les jeunes des fils d'Israël, et ils offrirent des olot, et sacrifièrent des zebahim shelamim à YHWH, des taureaux.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et il envoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les jeunes"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "les jeunes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "et ils offrirent"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "des olot"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "et sacrifièrent"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "des zebahim"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "des taureaux"
+    }
+  ],
+  "timestamp": "2026-08-04T06:48:43.782114229Z",
+  "model": "glm-4.5"
+}

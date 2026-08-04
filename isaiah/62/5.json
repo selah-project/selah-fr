@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Car comme ⟨un⟩ jeune homme épouse ⟨une⟩ vierge, tes fils ⟨t'épouseront⟩, et comme la joie ⟨du⟩ marié ⟨est⟩ sur ⟨la⟩ mariée, ainsi se réjouira sur toi ton Élohim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "épouse"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "jeune homme"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "vierge"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "tes fils ⟨t'épouseront⟩"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tes fils"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "et comme la joie"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "marié"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mariée"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "se réjouira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T15:55:50.859054748Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et Nebouzaradan ⟨את⟩ chef des cuisiniers prit ⟨את⟩ eux sur le roi de Babylone, à Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et ... prit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Nebouzaradan"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebouzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "chef"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "des cuisiniers"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "prit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sur le roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babylone"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "à Ribla"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:19.360824485Z",
+  "model": "glm-4.5"
+}

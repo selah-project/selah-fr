@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Michayehu dit : YHWH ⟨est⟩ vivant ! Car ⟨ce⟩ que YHWH dira ⟨vers⟩ moi, ⟨את⟩ cela, je parlerai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Michayehu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨vers⟩ moi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cela"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "je parlerai"
+    }
+  ],
+  "timestamp": "2026-08-04T14:04:59.931935337Z",
+  "model": "glm-4.5"
+}

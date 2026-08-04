@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Et il fit ⟨את⟩ les planches pour le mishkan, des bois de shittim, dressées",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les planches"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "les planches"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pour le mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "des bois"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dressées"
+    }
+  ],
+  "timestamp": "2026-08-04T07:14:56.956219382Z",
+  "model": "glm-4.5"
+}

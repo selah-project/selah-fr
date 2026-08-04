@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "et des épines et des chardons elle fera pousser pour toi et tu mangeras ⟨את⟩ l'herbe des champs",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "et des épines"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "et des chardons"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "elle fera pousser"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "et tu mangeras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'herbe des champs"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "l'herbe"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des champs"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:31.060794691Z",
+  "model": "glm-4.5"
+}

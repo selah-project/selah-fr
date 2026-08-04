@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Hiram envoya au roi ⟨את⟩ cent et vingt talents d'or.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "au roi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cent"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "et vingt"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talents"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    }
+  ],
+  "timestamp": "2026-08-04T13:44:33.192728625Z",
+  "model": "glm-4.5"
+}

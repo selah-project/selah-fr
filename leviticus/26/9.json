@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et je me tournerai vers vous et je vous rendrai fructueux et je vous multiplierai et je maintiendrai ⟨את⟩ mon alliance avec vous",
+  "tokens": [
+    {
+      "surface": "וּפָנִ֣יתִי",
+      "gloss": "Et je me tournerai"
+    },
+    {
+      "surface": "אֲלֵיכֶ֔ם",
+      "gloss": "vers vous"
+    },
+    {
+      "surface": "וְהִפְרֵיתִ֣י",
+      "gloss": "et je vous rendrai fructueux"
+    },
+    {
+      "surface": "אֶתְכֶ֔ם",
+      "gloss": "vous",
+      "marks": "je vous multiplierai"
+    },
+    {
+      "surface": "וְהִרְבֵּיתִ֖י",
+      "gloss": "et je vous multiplierai"
+    },
+    {
+      "surface": "אֶתְכֶ֑ם",
+      "gloss": "vous",
+      "marks": "je maintiendrai"
+    },
+    {
+      "surface": "וַהֲקִימֹתִ֥י",
+      "gloss": "et je maintiendrai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mon alliance"
+    },
+    {
+      "surface": "בְּרִיתִ֖י",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "אִתְּכֶֽם",
+      "gloss": "avec vous"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:50.892158192Z",
+  "model": "glm-4.5"
+}

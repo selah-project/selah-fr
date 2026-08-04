@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Parle aux fils d'Israël en disant : une nefesh, si elle pèche par erreur contre l'un des commandements de YHWH qui ne doivent pas être faits, et fait contre l'un d'eux",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "elle pèche"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "par erreur"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "contre l'un"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "des commandements"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "doivent pas être faits"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et fait"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "contre l'une"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "d'elles"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:19.174427295Z",
+  "model": "glm-4.5"
+}

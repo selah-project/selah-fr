@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et vous ⟨les⟩ enseignerez ⟨את⟩ vos fils pour en parler, quand tu sièges dans ta maison et quand tu marches ⟨sur⟩ la route, et quand tu te couches et quand tu te lèves",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "et vous enseignerez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨les⟩",
+      "marks": "את"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos fils"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vos fils"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pour en parler"
+    },
+    {
+      "surface": "בם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "quand tu sièges"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "dans ta maison"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "et quand tu marches"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨sur⟩ la route"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "et quand tu te couches"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "et quand tu te lèves"
+    }
+  ],
+  "timestamp": "2026-08-04T10:12:37.278222059Z",
+  "model": "glm-4.5"
+}

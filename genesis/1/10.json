@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim appela ⟨la⟩ terre sèche terre, et ⟨le⟩ rassemblement des eaux, il appela mers ; et Élohim vit que ⟨c'était⟩ bon.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "⟨la⟩ terre sèche"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "et ⟨le⟩ rassemblement"
+    },
+    {
+      "surface": "המים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "il appela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mers"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨c'était⟩ bon"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:29.038155730Z",
+  "model": "glm-4.5"
+}

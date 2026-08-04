@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Qénan vécut soixante-dix ans et engendra ⟨את⟩ Mahalalel",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "et vécut"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Qénan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "soixante-dix"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:00.777988034Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et il arriva après ces ⟨paroles⟩, et Élohim testa ⟨את⟩ Abraham, et il dit vers lui : Abraham, et il dit : me voici.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "après"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ces ⟨paroles⟩"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨ces⟩"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "et Élohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "testa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "me voici"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:00.508056546Z",
+  "model": "glm-4.5"
+}

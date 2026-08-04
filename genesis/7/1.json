@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et YHWH dit à Noé : Entre, toi et toute ta maison, vers ⟨le⟩ coffre, car toi, je ⟨ai⟩ vu juste devant moi dans cette génération.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "à Noé"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Entre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ta maison"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "⟨le⟩ coffre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "toi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "je ⟨ai⟩ vu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "juste"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dans cette génération"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T05:06:09.609223672Z",
+  "model": "glm-4.5"
+}

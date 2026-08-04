@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Pour l'amour de mon nom, je prolonge ma colère, et pour ma louange, je la retiens ⟨pour⟩ toi, afin de ne pas ⟨te⟩ retrancher.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pour l'amour de"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mon nom"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "je prolonge"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ma colère"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "et pour ma louange"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "je la retiens"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pour⟩ toi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "afin de ne pas"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "⟨te⟩ retrancher"
+    }
+  ],
+  "timestamp": "2026-08-04T15:43:47.577785414Z",
+  "model": "glm-4.5"
+}

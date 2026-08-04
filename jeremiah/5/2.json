@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et s'ils disent : « YHWH ⟨est vivant⟩ », c'est en vain qu'ils jurent mensongèrement",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨est vivant⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ils disent"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "c'est en vain"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "mensongèrement"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ils jurent"
+    }
+  ],
+  "timestamp": "2026-08-04T16:08:35.551507221Z",
+  "model": "glm-4.5"
+}

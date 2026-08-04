@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "et non seulement si je ⟨suis⟩ encore en vie, tu ne feras pas avec moi le hessed de YHWH, et je ne mourrai pas",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et non seulement"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "je ⟨suis⟩ encore en vie"
+    },
+    {
+      "surface": "חי",
+      "gloss": "en vie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non seulement"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu ne feras pas"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "je ne mourrai pas"
+    }
+  ],
+  "timestamp": "2026-08-04T12:36:24.162196472Z",
+  "model": "glm-4.5"
+}

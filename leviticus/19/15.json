@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Vous ne ferez pas d'injustice ⟨dans⟩ le jugement ; vous ne favoriserez pas le petit, et vous n'honorerez pas le grand ; ⟨avec⟩ justice, vous jugerez ton prochain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ferez"
+    },
+    {
+      "surface": "עול",
+      "gloss": "injustice"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨dans⟩ le jugement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "favoriserez"
+    },
+    {
+      "surface": "פני",
+      "gloss": "le visage"
+    },
+    {
+      "surface": "דל",
+      "gloss": "du petit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "honorerez"
+    },
+    {
+      "surface": "פני",
+      "gloss": "le visage"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "du grand"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "⟨avec⟩ justice"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "jugerez"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ton prochain"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:35.299074948Z",
+  "model": "glm-4.5"
+}

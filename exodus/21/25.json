@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "brûlure pour brûlure, blessure pour blessure, meurtrissure pour meurtrissure",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "brûlure"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "brûlure"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "blessure"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "blessure"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "meurtrissure"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "meurtrissure"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:17.265816501Z",
+  "model": "glm-4.5"
+}

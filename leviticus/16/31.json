@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "un shabbat shabbaton ⟨est⟩ pour vous, et vous humilierez ⟨את⟩ vos néfeshots, statut perpétuel",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "et vous humilierez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos néfeshots"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "néfeshots"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "statut"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétuel"
+    }
+  ],
+  "timestamp": "2026-08-04T07:58:50.597908005Z",
+  "model": "glm-4.5"
+}

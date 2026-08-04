@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Cependant ils ne se sont pas détournés des péchés de ⟨la⟩ maison de Yarobam, par lesquels il avait fait pécher ⟨את⟩ Israël ; ils ont marché ⟨dedans⟩ ; et ⟨aussi⟩ l'Ashéra est restée à Samarie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Cependant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "se sont détournés"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "des péchés"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨la⟩ maison"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "de Yarobam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par lesquels"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "il avait fait pécher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨dedans⟩"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ils ont marché"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et ⟨aussi⟩"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "l'Ashéra"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "est restée"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "à Samarie"
+    }
+  ],
+  "timestamp": "2026-08-04T14:26:45.009369715Z",
+  "model": "glm-4.5"
+}

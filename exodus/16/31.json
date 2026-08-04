@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et la maison d'Israël appela ⟨את⟩ son nom manne, et il ⟨était⟩ comme de la semence de coriandre blanche, et son goût ⟨était⟩ comme une galette au miel",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Et ... appelèrent"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manne"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et il"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "comme de la semence"
+    },
+    {
+      "surface": "גד",
+      "gloss": "de coriandre"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "blanche"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "et son goût"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "comme une galette"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "au miel"
+    }
+  ],
+  "timestamp": "2026-08-04T06:37:14.036521469Z",
+  "model": "glm-4.5"
+}

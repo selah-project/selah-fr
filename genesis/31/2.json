@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Jacob vit ⟨את⟩ la face de Laban, et voici, il n'était ⟨pas⟩ avec lui comme avant-hier.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la face de Laban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "de Laban"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "il n'était"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "comme"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "avant-hier"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:24.298575449Z",
+  "model": "glm-4.5"
+}

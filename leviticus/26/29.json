@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et vous mangerez la chair de vos fils, et la chair de vos filles vous mangerez",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "et vous mangerez"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "de vos fils"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "et la chair"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "de vos filles"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    }
+  ],
+  "timestamp": "2026-08-04T08:18:08.708371262Z",
+  "model": "glm-4.5"
+}

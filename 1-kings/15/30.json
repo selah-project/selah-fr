@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "à cause des fautes de Jéroboam qu'il ⟨a⟩ commises et par lesquelles il a fait pécher ⟨את⟩ Israël, par son irritation avec laquelle il a irrité ⟨את⟩ YHWH, l'Élohim d'Israël",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "les fautes"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jéroboam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "il ⟨a⟩ commises"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et par lesquelles"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "il a fait pécher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "par son irritation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avec laquelle"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "il a irrité"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T13:54:41.683875479Z",
+  "model": "glm-4.5"
+}

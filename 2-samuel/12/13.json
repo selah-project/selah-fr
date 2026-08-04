@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et David dit à Nathan : j’ai péché contre YHWH. Et Nathan dit à David : même YHWH ⟨a⟩ fait passer ta faute, tu ne mourras pas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "j’ai péché"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "contre YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "a fait passer"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "ta faute"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mourras pas"
+    }
+  ],
+  "timestamp": "2026-08-04T13:07:17.813492762Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Et Josèph dit à ses frères : approchez-vous, je vous prie, vers moi. Et ils s'approchèrent. Et il dit : moi, je suis Josèph, votre frère, que vous avez vendu ⟨את⟩ l'Égypte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josèph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "approchez-vous"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je vous prie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Et ils s'approchèrent"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi, je suis"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josèph"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "votre frère"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "vous avez vendu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "l'Égypte"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "l'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:01:12.021940632Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Abraham pria vers Élohim, et Élohim guérit ⟨את⟩ Abimélek et ⟨את⟩ sa femme et ses servantes, et elles enfantèrent",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "pria"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "guérit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimélek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimélek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa femme"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ses servantes"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "elles enfantèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:06.376678044Z",
+  "model": "glm-4.5"
+}

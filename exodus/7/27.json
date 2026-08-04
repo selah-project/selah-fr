@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et si ⟨tu⟩ refuses de renvoyer, voici, je frappe ⟨את⟩ toute ta frontière de grenouilles.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refuses"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "de renvoyer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "frappe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute ta frontière"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ta frontière"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "de grenouilles"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:01.976486236Z",
+  "model": "glm-4.5"
+}

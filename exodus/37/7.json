@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et il fit deux kérouvim ⟨d'⟩or ; d'ouvrage martelé il fit ⟨את⟩ les ⟨את⟩, depuis les deux extrémités du propitiatoire.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kérouvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨d'⟩or"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "d'ouvrage martelé"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il fit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les kérouvim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "depuis les deux"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "extrémités"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "du propitiatoire"
+    }
+  ],
+  "timestamp": "2026-08-04T07:17:23.296231741Z",
+  "model": "glm-4.5"
+}

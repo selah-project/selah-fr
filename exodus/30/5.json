@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "et tu feras ⟨את⟩ les barres, bois de shittim, et tu les plaqueras ⟨את⟩ d'or",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les barres"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "les barres"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bois de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "et tu les plaqueras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "d'or"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "or"
+    }
+  ],
+  "timestamp": "2026-08-04T07:01:02.139855671Z",
+  "model": "glm-4.5"
+}

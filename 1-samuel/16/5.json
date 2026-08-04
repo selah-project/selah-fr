@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Il dit : Paix ; pour sacrifier à YHWH je suis venu, sanctifiez-vous et venez avec moi ⟨au⟩ sacrifice. Et il sanctifia ⟨את⟩ Isaï et ⟨את⟩ ses fils, et les convoqua ⟨au⟩ sacrifice.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Il dit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Paix"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pour sacrifier"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "je suis venu"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "sanctifiez-vous"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "et venez"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "⟨au⟩ sacrifice"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "Et il sanctifia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaï"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isaï"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et les convoqua"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨au⟩"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-04T12:28:40.661038669Z",
+  "model": "glm-4.5"
+}

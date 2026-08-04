@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Garde-toi de ne pas monter ⟨tes⟩ ola dans tout lieu que tu voies,",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Garde-toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de ne pas"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "monter"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "⟨tes⟩ ola",
+      "marks": "ola"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu voies"
+    }
+  ],
+  "timestamp": "2026-08-04T10:13:48.872985592Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anathoth et ⟨את⟩ sa banlieue et ⟨את⟩ Almon et ⟨את⟩ sa banlieue, quatre villes.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anathoth"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa banlieue"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sa banlieue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa banlieue"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sa banlieue"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "villes"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quatre"
+    }
+  ],
+  "timestamp": "2026-08-04T11:23:36.766950883Z",
+  "model": "glm-4.5"
+}

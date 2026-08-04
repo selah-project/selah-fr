@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et des hommes de sainteté vous serez pour moi, et la chair dans le champ, une déchirure, vous ne la mangerez pas, au chien vous la jetterez ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "et des hommes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "de sainteté"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "vous serez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "et la chair"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "une déchirure"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne la"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez pas"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "au chien"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "vous la jetterez"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "la chair"
+    }
+  ],
+  "timestamp": "2026-08-04T06:45:15.417390433Z",
+  "model": "glm-4.5"
+}

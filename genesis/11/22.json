@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Seroug vécut trente ans et engendra ⟨את⟩ Nachor",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seroug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:24.678113523Z",
+  "model": "glm-4.5"
+}

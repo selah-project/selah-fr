@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Le feu, perpétuellement, sera allumé sur l'autel, il ne s'éteindra pas.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Le feu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "perpétuellement"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "sera allumé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "s'éteindra pas"
+    }
+  ],
+  "timestamp": "2026-08-04T07:33:23.523463281Z",
+  "model": "glm-4.5"
+}

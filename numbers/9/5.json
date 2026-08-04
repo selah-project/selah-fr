@@ -1,0 +1,103 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et ils firent ⟨את⟩ la Pâque, le premier, le quatorzième jour du mois, entre les deux soirs, dans le désert de Sinaï ; selon tout ce que YHWH avait commandé ⟨את⟩ Moïse, ainsi firent les fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Et ils firent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Pâque"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "la Pâque"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "les deux soirs"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "de Sinaï"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moïse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "firent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:41:30.758472094Z",
+  "model": "glm-4.5"
+}

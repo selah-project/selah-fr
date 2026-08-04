@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Jacob envoya et appela Rachel et Léa aux champs vers son troupeau",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et appela"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "et Léa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "aux champs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "son troupeau"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:16.739242342Z",
+  "model": "glm-4.5"
+}

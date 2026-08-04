@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "On ne trouvera point chez toi ⟨celui qui⟩ fait passer son fils ou sa fille par le feu, ⟨un⟩ devin, ⟨un⟩ diseur de bonne aventure, ⟨un⟩ sorcier, ⟨un⟩ nécromancien, ⟨un⟩ enchanteur.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "On ne ... point"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "trouvera"
+    },
+    {
+      "surface": "בך",
+      "gloss": "chez toi"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "⟨celui qui⟩ fait passer"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ou sa fille"
+    },
+    {
+      "surface": "באש",
+      "gloss": "par le feu"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "⟨un⟩ devin"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "⟨un⟩ diseur de bonne aventure"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "⟨un⟩ sorcier"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "⟨un⟩ nécromancien"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "⟨un⟩ enchanteur"
+    }
+  ],
+  "timestamp": "2026-08-04T10:22:21.640325697Z",
+  "model": "glm-4.5"
+}

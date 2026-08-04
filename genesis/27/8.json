@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et maintenant, mon fils, écoute ma voix selon ⟨את⟩ ce que je te commande",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "selon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "commande"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ce que je te commande"
+    }
+  ],
+  "timestamp": "2026-08-04T05:34:29.169543704Z",
+  "model": "glm-4.5"
+}

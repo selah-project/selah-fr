@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "afin qu'ils ⟨peuvent⟩ croire que YHWH, Élohim de leurs pères, Élohim d'Abraham, Élohim d'Isaac et Élohim de Jacob, s'est ⟨est⟩ révélé à toi",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "afin qu'"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ils ⟨peuvent⟩ croire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "s'est ⟨est⟩ révélé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de leurs pères"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "d'Abraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "d'Isaac"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et Élohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-04T06:16:30.291209127Z",
+  "model": "glm-4.5"
+}

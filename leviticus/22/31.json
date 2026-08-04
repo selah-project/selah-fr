@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et vous garderez ⟨les⟩ mitsvot de moi et vous ferez ⟨את⟩ elles, moi, YHWH.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Et vous garderez"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "⟨les⟩ mitsvot de moi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "et vous ferez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "elles"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:42.994430902Z",
+  "model": "glm-4.5"
+}

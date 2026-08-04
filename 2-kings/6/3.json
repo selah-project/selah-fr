@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et l'un dit : S'il te plaît, et va avec ⟨את⟩ tes serviteurs. Et il dit : Moi, je vais.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "S'il te plaît"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "et va"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes serviteurs"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "je vais"
+    }
+  ],
+  "timestamp": "2026-08-04T14:14:28.950217361Z",
+  "model": "glm-4.5"
+}

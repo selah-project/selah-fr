@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "En ce temps-là, Hizqiya coupa ⟨את⟩ les battants ⟨du⟩ temple ⟨de⟩ YHWH et ⟨את⟩ les montants que Hizqiya, roi ⟨de⟩ Yéhoudah, avait plaqués, et les donna au roi ⟨de⟩ Ashour.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "En ce temps-là"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "là"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "coupa"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les battants ⟨du⟩ temple"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "les battants"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨du⟩ temple"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les montants"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "les montants"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "avait plaqués"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "⟨de⟩ Yéhoudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "et les donna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "au roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "⟨de⟩ Ashour"
+    }
+  ],
+  "timestamp": "2026-08-04T14:35:00.626340474Z",
+  "model": "glm-4.5"
+}

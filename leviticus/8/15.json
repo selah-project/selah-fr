@@ -1,0 +1,108 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et il égorgea et prit Mosheh ⟨את⟩ le sang et mit sur les cornes de l'autour tout autour avec son doigt et purifia ⟨את⟩ l'autel et ⟨את⟩ le sang il versa sur le fondement de l'autel et le sanctifia pour faire expiation sur lui",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "et il égorgea"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et mit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "les cornes"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "avec son doigt"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "et purifia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "il versa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "le fondement"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "et le sanctifia"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "pour faire expiation"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    }
+  ],
+  "timestamp": "2026-08-04T07:37:07.270049049Z",
+  "model": "glm-4.5"
+}

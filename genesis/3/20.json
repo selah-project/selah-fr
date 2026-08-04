@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et l'Adam appela le nom de sa femme Havah, car elle ⟨est⟩ mère de tout vivant.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "de sa femme"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Havah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mère"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:28.264894193Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Car YHWH a versé sur vous un esprit de torpeur, il a bandé ⟨את⟩ vos yeux, ⟨את⟩ les prophètes et vos têtes, les voyants, il a couvert",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "a versé"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sur vous"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un esprit"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "de torpeur"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "et il a bandé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos yeux"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vos yeux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les prophètes"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "les prophètes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et vos têtes"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": ""
+    },
+    {
+      "surface": "החזים",
+      "gloss": "les voyants"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "il a couvert"
+    }
+  ],
+  "timestamp": "2026-08-04T15:23:44.885676954Z",
+  "model": "glm-4.5"
+}

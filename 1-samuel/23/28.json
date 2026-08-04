@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-samuel 23:28",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Shaul revint de poursuivre après David et alla ⟨à la rencontre de⟩ les Philistins ; sur ⟨cela⟩, ils appelèrent le lieu celui-ci Sela-ham-Mahlekoth.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et revint"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "de poursuivre"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "David (omis en français)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et alla"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨à la rencontre de⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨cela⟩"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ils appelèrent"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "המחלקות",
+      "gloss": "ham-Mahlekoth"
+    }
+  ],
+  "timestamp": "2026-08-04T12:40:39.016671219Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Moïse dit au peuple : Souvenez-vous ⟨de⟩ ce jour, où vous êtes sortis d'Égypte, de la maison des serviteurs ; car avec ⟨une⟩ main forte YHWH vous a fait sortir d'ici, et l'on ne mangera pas ⟨de⟩ pain levé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et [il] dit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "העם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Souvenez-vous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce jour"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ce jour"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ce, -ci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "vous êtes sortis"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "des serviteurs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "avec la force"
+    },
+    {
+      "surface": "יד",
+      "gloss": "de [la] main"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "[il] a fait sortir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "d'ici"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "d'ici"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et [on] ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "[ce qui est] levé"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:56.017572893Z",
+  "model": "glm-4.5"
+}

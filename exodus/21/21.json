@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "seulement si ⟨il⟩ se tient un jour ou deux jours, il ne sera pas vengé car ⟨c'est⟩ son argent",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יום",
+      "gloss": "un jour"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "deux jours"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "il se tient"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne sera pas"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "vengé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "son argent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨c'est⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:31.428418074Z",
+  "model": "glm-4.5"
+}

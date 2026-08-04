@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit celui qui prend un pot-de-vin pour frapper une nefesh, du sang innocent ! Et tout le peuple dira : Amen.",
+  "tokens": [
+    {
+      "surface": "אָרוּר",
+      "gloss": "Maudit"
+    },
+    {
+      "surface": "לֹקֵחַ",
+      "gloss": "celui qui prend"
+    },
+    {
+      "surface": "שֹׁחַד",
+      "gloss": "un pot-de-vin"
+    },
+    {
+      "surface": "לְהַכּוֹת",
+      "gloss": "pour frapper"
+    },
+    {
+      "surface": "נֶפֶשׁ",
+      "gloss": "une nefesh"
+    },
+    {
+      "surface": "דָּם",
+      "gloss": "du sang"
+    },
+    {
+      "surface": "נָקִי",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "וְאָמַר",
+      "gloss": "Et dira"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אָמֵן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:04.928772200Z",
+  "model": "glm-4.5"
+}

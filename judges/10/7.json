@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et la colère de YHWH s'enflamma contre Israël et il les vendit en main des Philistins et en main des fils d'Ammon",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Et s'enflamma"
+    },
+    {
+      "surface": "אף",
+      "gloss": "la colère"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contre Israël"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "et il les vendit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en main"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "et en main"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "d'Ammon"
+    }
+  ],
+  "timestamp": "2026-08-04T11:47:46.353224021Z",
+  "model": "glm-4.5"
+}

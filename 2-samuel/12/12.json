@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Puisque toi tu as fait ⟨en⟩ secret, et moi je ferai ⟨את⟩ la parole celle-ci face à tout Israël et face au soleil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Puisque"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu as fait"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "⟨en⟩ secret"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "je ferai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole celle-ci"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "face à"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "et face à"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "au soleil"
+    }
+  ],
+  "timestamp": "2026-08-04T13:07:37.978363127Z",
+  "model": "glm-4.5"
+}

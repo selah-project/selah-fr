@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Deux épaules jointes seront ⟨pour⟩ lui sur ses deux extrémités et ⟨il sera⟩ joint.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "Deux"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "épaules"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "jointes"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "seront"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pour⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ses deux"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "extrémités"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "et ⟨il sera⟩ joint"
+    }
+  ],
+  "timestamp": "2026-08-04T06:54:42.857774945Z",
+  "model": "glm-4.5"
+}

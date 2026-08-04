@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Des vignes tu planteras et ⟨tu⟩ travailleras, et du vin tu ne boiras pas et tu n'en ⟨feras⟩ pas la récolte, car la teigne le mangera.",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "des vignes"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "tu planteras"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "et travailleras"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "et du vin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "boiras"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne ... pas"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "feras la récolte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "le mangera"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "la teigne"
+    }
+  ],
+  "timestamp": "2026-08-04T10:38:20.700907658Z",
+  "model": "glm-4.5"
+}

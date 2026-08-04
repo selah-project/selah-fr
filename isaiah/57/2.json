@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Il entrera dans la shalom, ils se reposeront sur leurs lits, celui qui marchait dans sa droiture.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "entrera"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la shalom"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ils se reposeront"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "leurs lits"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "celui qui marchait"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "dans sa droiture"
+    }
+  ],
+  "timestamp": "2026-08-04T15:50:56.104484004Z",
+  "model": "glm-4.5"
+}

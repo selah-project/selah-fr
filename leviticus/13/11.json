@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "C'est une lèpre ancienne dans la peau de sa chair, et le cohen le déclarera impur, il ne l'enfermera pas, car il est impur.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "lèpre"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "ancienne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dans la peau"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "de sa chair"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "et le cohen le déclarera impur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "l'enfermera pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "il est impur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-08-04T07:46:15.966866914Z",
+  "model": "glm-4.5"
+}

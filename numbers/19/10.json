@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et celui ⟨qui⟩ rassemble ⟨את⟩ la cendre de la vache lavera ses vêtements, et ⟨il⟩ sera impur jusqu'au soir ; et ce sera pour les fils d'Israël, et pour l'étranger résidant au milieu d'eux, une loi perpétuelle.",
+  "tokens": [
+    {
+      "surface": "וְכִבֶּס",
+      "gloss": "lavera"
+    },
+    {
+      "surface": "הָאֹסֵף",
+      "gloss": "celui ⟨qui⟩ rassemble"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la cendre"
+    },
+    {
+      "surface": "אֵפֶר",
+      "gloss": "la cendre"
+    },
+    {
+      "surface": "הַפָּרָה",
+      "gloss": "de la vache"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ses vêtements"
+    },
+    {
+      "surface": "בְּגָדָיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "וְטָמֵא",
+      "gloss": "et ⟨il⟩ sera impur"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "הָעָרֶב",
+      "gloss": "au soir"
+    },
+    {
+      "surface": "וְהָיְתָה",
+      "gloss": "et ce sera"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "pour les fils"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "וְלַגֵּר",
+      "gloss": "et pour l'étranger"
+    },
+    {
+      "surface": "הַגָּר",
+      "gloss": "résidant"
+    },
+    {
+      "surface": "בְּתוֹכָם",
+      "gloss": "au milieu d'eux"
+    },
+    {
+      "surface": "לְחֻקַּת",
+      "gloss": "une loi"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "perpétuelle"
+    }
+  ],
+  "timestamp": "2026-08-04T09:05:28.653919325Z",
+  "model": "glm-4.5"
+}

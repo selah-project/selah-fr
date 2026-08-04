@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Canaan engendra ⟨את⟩ Tsidon son premier-né et ⟨את⟩ Heth",
+  "tokens": [
+    {
+      "surface": "וּכְנַ֗עַן",
+      "gloss": "Et Canaan"
+    },
+    {
+      "surface": "יָלַ֛ד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צִידֹ֥ן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בְּכֹר֖וֹ",
+      "gloss": "son premier-né"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Heth"
+    },
+    {
+      "surface": "חֵֽת",
+      "gloss": "Heth"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:48.580632433Z",
+  "model": "glm-4.5"
+}

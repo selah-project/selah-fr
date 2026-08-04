@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Et Esau habitait ⟨dans⟩ la montagne de Seir — Esau, c’est Édom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et il habita"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨dans⟩ la montagne"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "— c’est"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    }
+  ],
+  "timestamp": "2026-08-04T05:46:42.112990745Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Prends ⟨את⟩ Aaron et ⟨את⟩ ses fils avec lui, et ⟨את⟩ les vêtements, et ⟨את⟩ l'huile de l'onction, et ⟨את⟩ le taureau du sacrifice pour le péché, et ⟨את⟩ les deux béliers, et ⟨את⟩ la corbeille des pains sans levain",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Prends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les vêtements"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "les vêtements"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'huile"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de l'onction"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "פר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "du sacrifice pour le péché"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les deux"
+    },
+    {
+      "surface": "שני",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "béliers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la corbeille"
+    },
+    {
+      "surface": "סל",
+      "gloss": "la corbeille"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "des pains sans levain"
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:50.549695961Z",
+  "model": "glm-4.5"
+}

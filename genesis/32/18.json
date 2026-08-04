@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et il commanda ⟨את⟩ le premier, en disant : S’il te rencontre Ésaü, mon frère, et qu’il t’interroge, en disant : À qui es-tu, et où vas-tu, et à qui sont ceux-ci devant toi ?",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et il commanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le premier"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "כי",
+      "gloss": "S’il"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "te rencontre"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mon frère"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "et qu’il t’interroge"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "למי",
+      "gloss": "À qui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "es-tu"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "et où"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "vas-tu"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "et à qui"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sont ceux-ci"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:47.843474074Z",
+  "model": "glm-4.5"
+}

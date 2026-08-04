@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "et ⟨את⟩ Beth-Nimrah et ⟨את⟩ Beth-ha-Ran, villes fortifiées, et ⟨את⟩ des enclos pour le petit bétail",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Beth-Nimrah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Beth-ha-Ran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ha-Ran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "villes"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortifiées"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "et des enclos"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pour le petit bétail"
+    }
+  ],
+  "timestamp": "2026-08-04T09:41:32.484848202Z",
+  "model": "glm-4.5"
+}

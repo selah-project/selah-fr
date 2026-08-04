@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et il fit ⟨את⟩ l'éphod : or, tekhelet, et argaman, et tolaat shani, et lin retors",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'éphod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "l'éphod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "or"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "et argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "et tolaat shani"
+    },
+    {
+      "surface": "שני",
+      "gloss": ""
+    },
+    {
+      "surface": "ושש",
+      "gloss": "et lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "retors"
+    }
+  ],
+  "timestamp": "2026-08-04T07:20:28.069726553Z",
+  "model": "glm-4.5"
+}

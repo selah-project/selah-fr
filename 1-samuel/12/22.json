@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Car YHWH n'abandonnera pas ⟨את⟩ son peuple à cause de son grand nom, car YHWH a consenti de faire ⟨de vous⟩ pour lui un peuple.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "abandonnera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son peuple"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "a consenti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨de vous⟩",
+      "marks": "pour lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "un peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T12:20:16.191969782Z",
+  "model": "glm-4.5"
+}

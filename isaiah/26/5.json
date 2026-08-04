@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Car il a courbé les habitants de la hauteur, la ville élevée, il l'a humiliée, jusqu'à la terre il la fait descendre, jusqu'à la poussière.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "השח",
+      "gloss": "il a courbé"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "de la hauteur"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "élevée"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "il l'a humiliée"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "il l'humilie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "il la fait descendre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la poussière"
+    }
+  ],
+  "timestamp": "2026-08-04T15:20:20.818802185Z",
+  "model": "glm-4.5"
+}

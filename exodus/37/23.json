@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et il fit ⟨את⟩ ses sept lampes et ses mouchettes et ses coupelles d'or pur.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses sept lampes"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ses lampes"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "et ses mouchettes"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "et ses coupelles"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "or"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    }
+  ],
+  "timestamp": "2026-08-04T07:17:37.085715195Z",
+  "model": "glm-4.5"
+}

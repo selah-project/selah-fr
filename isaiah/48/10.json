@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Voici, Je t'ai affiné et ⟨pas⟩ avec de l'argent, Je t'ai élu ⟨dans⟩ le fourneau de l'affliction",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "Je t'ai affiné"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "avec de l'argent"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Je t'ai élu"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "dans le fourneau"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de l'affliction"
+    }
+  ],
+  "timestamp": "2026-08-04T15:44:14.491042353Z",
+  "model": "glm-4.5"
+}

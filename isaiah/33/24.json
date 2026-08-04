@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et ⟨le⟩ résident ne dira pas : je ⟨suis⟩ malade ; ⟨le⟩ peuple qui habite en elle sera pardonné de son iniquité.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "Et ne ... pas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dira"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "⟨le⟩ résident"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "je ⟨suis⟩ malade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "qui habite"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "sera pardonné"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquité"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:37.105210907Z",
+  "model": "glm-4.5"
+}

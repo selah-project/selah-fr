@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et YHWH raidit ⟨את⟩ le cœur de Pharaon, et il ne consentit pas à les renvoyer",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Et raidit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cœur de Pharaon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "consentit pas"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "à les renvoyer"
+    }
+  ],
+  "timestamp": "2026-08-04T06:24:44.433263988Z",
+  "model": "glm-4.5"
+}

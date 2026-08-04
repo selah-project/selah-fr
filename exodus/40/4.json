@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et feras entrer ⟨את⟩ la table et arrangeras ⟨את⟩ son arrangement, et feras entrer ⟨את⟩ la menorah et feras monter ⟨את⟩ ses lampes",
+  "tokens": [
+    {
+      "surface": "וְהֵבֵאתָ֙",
+      "gloss": "et feras entrer"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la table"
+    },
+    {
+      "surface": "הַשֻּׁלְחָ֔ן",
+      "gloss": "la table"
+    },
+    {
+      "surface": "וְעָרַכְתָּ֖",
+      "gloss": "et arrangeras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son arrangement"
+    },
+    {
+      "surface": "עֶרְכּ֑וֹ",
+      "gloss": "son arrangement"
+    },
+    {
+      "surface": "וְהֵבֵאתָ֙",
+      "gloss": "et feras entrer"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la menorah"
+    },
+    {
+      "surface": "הַמְּנֹרָ֔ה",
+      "gloss": "la menorah"
+    },
+    {
+      "surface": "וְהַעֲלֵיתָ֖",
+      "gloss": "et feras monter"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ses lampes"
+    },
+    {
+      "surface": "נֵרֹתֶֽיהָ",
+      "gloss": "ses lampes"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:49.645371869Z",
+  "model": "glm-4.5"
+}

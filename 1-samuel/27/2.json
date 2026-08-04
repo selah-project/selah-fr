@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et David se leva et passa, lui et six cents hommes qui étaient avec lui, vers Akish, fils de Maoch, roi de Gath.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et se leva"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "et passa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "et six"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "étaient avec lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maoch"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi de"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    }
+  ],
+  "timestamp": "2026-08-04T12:46:46.605861418Z",
+  "model": "glm-4.5"
+}

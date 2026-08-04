@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "⟨את⟩ les pieux du mishkan et ⟨את⟩ les pieux du parvis et ⟨את⟩ leurs cordages",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les pieux du mishkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "les pieux"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "du mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les pieux du parvis"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "les pieux"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "du parvis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leurs cordages"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "leurs cordages"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:47.884350781Z",
+  "model": "glm-4.5"
+}

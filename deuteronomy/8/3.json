@@ -1,0 +1,126 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il t'a humilié et t'a fait faim et t'a fait manger ⟨את⟩ la manne que tu ne connaissais pas et n'ont pas connue tes pères afin de te faire savoir que non sur le pain seul vivra ⟨l'humain⟩ mais sur tout ce qui sort de la bouche de YHWH vivra ⟨l'humain⟩",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "et il t'a humilié"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "et t'a fait faim"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "et t'a fait manger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la manne"
+    },
+    {
+      "surface": "המן",
+      "gloss": "la manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "connaissais"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'ont"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "connue"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tes pères"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin de"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "te faire savoir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seul"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "vivra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨l'humain⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ce qui sort"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de la bouche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "vivra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨l'humain⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T10:04:58.007707130Z",
+  "model": "glm-4.5"
+}

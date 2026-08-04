@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit celui qui couche avec toute bête, et tout le peuple dira : Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "celui qui couche"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bête"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:22.084825189Z",
+  "model": "glm-4.5"
+}

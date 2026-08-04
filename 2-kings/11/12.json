@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et il fit sortir ⟨את⟩ le fils du roi et il mit sur lui ⟨את⟩ le diadème et ⟨את⟩ le témoignage et ils le firent roi et ils l'oignirent et ils frappèrent la main et ils dirent vive le roi",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "et il fit sortir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le fils du roi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et il mit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le diadème"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "le diadème"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le témoignage"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "le témoignage"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "et ils firent roi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le roi (l'oignirent)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "et l'oignirent"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et ils frappèrent"
+    },
+    {
+      "surface": "כף",
+      "gloss": "la main"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "et ils dirent"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:24:12.318741513Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il arrangea ⟨את⟩ les bûches et coupa ⟨את⟩ le taureau et plaça ⟨sur⟩ les bûches",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "Et il arrangea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les bûches"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "les bûches"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "et coupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et plaça"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "les bûches"
+    }
+  ],
+  "timestamp": "2026-08-04T13:58:39.353703067Z",
+  "model": "glm-4.5"
+}

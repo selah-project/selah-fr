@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Seulement ⟨את⟩ tout ⟨le⟩ royaume, je ne l'arracherai pas ; une tribu, je la donnerai à ton fils, à cause de David, mon serviteur, et à cause de Jérusalem, que j'ai choisie.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le royaume"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "le royaume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne ... pas"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "l'arracherai"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "une"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "je la donnerai"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "à ton fils"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mon serviteur"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "et à cause de"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "j'ai choisie"
+    }
+  ],
+  "timestamp": "2026-08-04T13:47:33.291759879Z",
+  "model": "glm-4.5"
+}

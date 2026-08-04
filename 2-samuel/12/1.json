@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et YHWH envoya ⟨את⟩ Nathan vers David, et il vint vers lui et lui dit : deux hommes étaient dans une ville, un riche et un pauvre",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nathan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il vint"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "hommes"
+    },
+    {
+      "surface": "היו",
+      "gloss": "étaient"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans une ville"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "une"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "riche"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "et un"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pauvre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:06:56.231717183Z",
+  "model": "glm-4.5"
+}

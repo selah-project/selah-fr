@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et David vit ⟨que⟩ Shaül était sorti pour chercher ⟨את⟩ sa vie ; or David était dans le désert de Ziph, dans la forêt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "était sorti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pour chercher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa vie"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa vie"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "or David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "de Ziph"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "dans la forêt"
+    }
+  ],
+  "timestamp": "2026-08-04T12:40:11.464426225Z",
+  "model": "glm-4.5"
+}

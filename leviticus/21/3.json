@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et pour sa sœur, la vierge, qui est proche de lui, qui n'a pas été à un homme, pour elle il se rend impur",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "et pour sa sœur"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "la vierge"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "qui est proche"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "été"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à un homme"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pour elle"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "il se rend impur"
+    }
+  ],
+  "timestamp": "2026-08-04T08:06:43.519901971Z",
+  "model": "glm-4.5"
+}

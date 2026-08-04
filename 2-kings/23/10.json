@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et il rendit impur ⟨את⟩ Topheth, qui est dans la vallée des fils de Hinnom, pour que personne ne fasse passer ⟨את⟩ son fils et ⟨את⟩ sa fille par le feu pour Moléc.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Et il rendit impur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Topheth"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Topheth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "dans la vallée"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "de Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pour que ne"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "fasse passer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "personne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son fils"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa fille"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sa fille"
+    },
+    {
+      "surface": "באש",
+      "gloss": "par le feu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pour Moléc"
+    }
+  ],
+  "timestamp": "2026-08-04T14:42:20.281210290Z",
+  "model": "glm-4.5"
+}

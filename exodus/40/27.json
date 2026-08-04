@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et il fit fumer sur lui ⟨את⟩ le parfum aromatique comme YHWH ⟨a⟩ commandé ⟨את⟩ Moïse",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "et il fit fumer"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "le parfum"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "aromatique"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨a⟩ commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moïse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    }
+  ],
+  "timestamp": "2026-08-04T07:23:32.031313670Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Comme un berger il fera paître ⟨son⟩ troupeau, avec son bras il rassemblera ⟨les⟩ agneaux, et dans son sein il les portera, celles qui allaitent il conduira avec précaution.",
+  "tokens": [
+    {
+      "surface": "כְּרֹעֶה",
+      "gloss": "Comme un berger"
+    },
+    {
+      "surface": "עֶדְר֣וֹ",
+      "gloss": "⟨son⟩ troupeau"
+    },
+    {
+      "surface": "יִרְעֶ֔ה",
+      "gloss": "il fera paître"
+    },
+    {
+      "surface": "בִּזְרֹעוֹ֙",
+      "gloss": "avec son bras"
+    },
+    {
+      "surface": "יְקַבֵּ֣ץ",
+      "gloss": "il rassemblera"
+    },
+    {
+      "surface": "טְלָאִ֔ים",
+      "gloss": "⟨les⟩ agneaux"
+    },
+    {
+      "surface": "וּבְחֵיק֖וֹ",
+      "gloss": "et dans son sein"
+    },
+    {
+      "surface": "יִשָּׂ֑א",
+      "gloss": "il les portera"
+    },
+    {
+      "surface": "עָל֖וֹת",
+      "gloss": "celles qui allaitent"
+    },
+    {
+      "surface": "יְנַהֵֽל",
+      "gloss": "il conduira avec précaution"
+    }
+  ],
+  "timestamp": "2026-08-04T15:34:41.209802117Z",
+  "model": "glm-4.5"
+}

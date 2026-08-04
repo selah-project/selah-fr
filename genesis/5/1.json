@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Ceci est le livre des généalogies d'Adam. Au jour où Élohim créa Adam, à la ressemblance d'Élohim il fit ⟨את⟩ lui.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "est le livre"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "des généalogies"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Au jour"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "où Élohim créa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "à la ressemblance"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il fit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:07.538442794Z",
+  "model": "glm-4.5"
+}

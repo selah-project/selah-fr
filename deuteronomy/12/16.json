@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Seulement ⟨le⟩ sang, vous ne ⟨le⟩ mangerez point ; sur ⟨la⟩ terre, vous ⟨le⟩ répandrez comme de l'eau.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨le⟩ sang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... point"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "vous ⟨le⟩ répandrez"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "comme de l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T10:14:20.295918059Z",
+  "model": "glm-4.5"
+}

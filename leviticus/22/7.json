@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et quand ⟨le⟩ soleil sera couché et ⟨il sera⟩ pur et après il mangera de ⟨les⟩ choses saintes car c'est son pain",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "et quand"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨le⟩ soleil"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "et ⟨il sera⟩ pur"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "et après"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il mangera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨les⟩ choses saintes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "c'est son pain"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:36.481195157Z",
+  "model": "glm-4.5"
+}

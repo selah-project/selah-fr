@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et ils firent sortir ⟨את⟩ les stèles de la maison de Baal et ⟨ils⟩ les brûlèrent",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Et ils firent sortir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les stèles"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "les stèles"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "de Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "et ⟨ils⟩ les brûlèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T14:22:57.436240142Z",
+  "model": "glm-4.5"
+}

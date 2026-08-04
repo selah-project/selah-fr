@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Dans le lieu où ils égorgent ⟨את⟩ l'ola, ils égorgeront ⟨את⟩ la culpabilité, et ⟨את⟩ son sang, on en jettera sur l'autel, tout autour.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Dans le lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ils égorgent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'ola"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ils égorgeront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la culpabilité"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "la culpabilité"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son sang"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "on en jettera"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    }
+  ],
+  "timestamp": "2026-08-04T07:34:37.956890309Z",
+  "model": "glm-4.5"
+}

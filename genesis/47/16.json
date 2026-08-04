@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Et Joseph dit : Donnez votre bétail, et je vous donnerai ⟨du⟩ pain pour votre bétail, si l'argent ⟨est⟩ épuisé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Donnez"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "votre bétail"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "et je donnerai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "pour votre bétail"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "épuisé"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "l'argent"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:35.670607230Z",
+  "model": "glm-4.5"
+}

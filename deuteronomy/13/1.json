@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "⟨את⟩ toute la parole que je vous commande, ⟨את⟩ vous la garderez pour faire ; vous n'ajouterez pas sur elle et vous ne diminuerez pas d'elle.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la parole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "commande"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous la garderez"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vous la garderez"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "vous garderez"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous n'ajouterez pas"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ajouterez"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne diminuerez pas"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "diminuerez"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "d'elle"
+    }
+  ],
+  "timestamp": "2026-08-04T10:15:52.478599871Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et tu égorgeras le bélier et tu prendras ⟨את⟩ son sang et tu le jetteras sur ⟨le⟩ autour tout autour",
+  "tokens": [
+    {
+      "surface": "וְשָׁחַטְתָּ",
+      "gloss": "et tu égorgeras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le bélier"
+    },
+    {
+      "surface": "הָאָיִל",
+      "gloss": "le bélier"
+    },
+    {
+      "surface": "וְלָקַחְתָּ",
+      "gloss": "et tu prendras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son sang"
+    },
+    {
+      "surface": "דָּמוֹ",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "וְזָרַקְתָּ",
+      "gloss": "et tu le jetteras"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "⟨le⟩ autel"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "tout autour"
+    }
+  ],
+  "timestamp": "2026-08-04T06:59:09.912006537Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et si dans cela vous n'écoutez pas ⟨pour⟩ moi, et que vous marchiez ⟨avec⟩ moi en hostilité",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "dans cela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "écoutez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pour⟩ moi",
+      "marks": "me"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "et que vous marchiez"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨avec⟩ moi",
+      "marks": "with me"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "en hostilité"
+    }
+  ],
+  "timestamp": "2026-08-04T08:18:17.589469007Z",
+  "model": "glm-4.5"
+}

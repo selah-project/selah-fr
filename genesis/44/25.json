@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Et notre père dit : retournez, achetez-nous un peu de nourriture.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "notre père"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "retournez"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "achetez"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un peu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "de nourriture"
+    }
+  ],
+  "timestamp": "2026-08-04T06:00:19.905222161Z",
+  "model": "glm-4.5"
+}

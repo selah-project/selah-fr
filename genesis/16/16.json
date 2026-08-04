@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Or Abram ⟨était⟩ fils de quatre-vingt-six ans, dans ⟨l'enfantement⟩ de Hagar ⟨את⟩ Yishmael pour Abram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Or Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "quatre-vingt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "-six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "dans l'enfantement"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "de Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "pour Abram"
+    }
+  ],
+  "timestamp": "2026-08-04T05:20:55.028884238Z",
+  "model": "glm-4.5"
+}

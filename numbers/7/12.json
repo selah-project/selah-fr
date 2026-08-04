@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et celui qui présenta son offrande, le premier jour, ⟨est⟩ Nahshon fils d'Amminadab, pour ⟨la⟩ tribu de Juda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il fut"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "celui qui présenta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son offrande"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "son offrande"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "d'Amminadab"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pour la tribu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    }
+  ],
+  "timestamp": "2026-08-04T08:35:52.991308990Z",
+  "model": "glm-4.5"
+}

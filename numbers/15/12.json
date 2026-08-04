@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Selon le nombre que vous ferez, ainsi ferez-vous pour l'un selon leur nombre",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Selon le nombre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ferez-vous"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "pour l'un"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "selon leur nombre"
+    }
+  ],
+  "timestamp": "2026-08-04T08:56:39.478843482Z",
+  "model": "glm-4.5"
+}

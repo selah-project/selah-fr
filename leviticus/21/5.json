@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Ils ne feront pas de calvitie sur ⟨leur⟩ tête, et le coin de ⟨leur⟩ barbe ils ne se raseront pas, et dans ⟨leur⟩ chair ils ne feront pas d'incision",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "ils ne feront pas"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "de calvitie"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "sur ⟨leur⟩ tête"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "et le coin de"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "⟨leur⟩ barbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "ils ne se raseront pas"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "et dans ⟨leur⟩ chair"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "ils ne feront pas"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "d'incision"
+    }
+  ],
+  "timestamp": "2026-08-04T08:06:28.019632564Z",
+  "model": "glm-4.5"
+}

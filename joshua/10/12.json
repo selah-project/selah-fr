@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "joshua 10:12",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Alors Josué parla à YHWH, au jour où YHWH livra ⟨את⟩ l'Amoréen devant les fils d'Israël, et il dit aux yeux d'Israël : Soleil, arrête-toi sur Gabaon, et [lune] sur la vallée d'Ayalon.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parla"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josué"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "תת",
+      "gloss": "où ... livra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Amoréen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Amoréen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "aux yeux"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Soleil"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "sur Gabaon"
+    },
+    {
+      "surface": "דום",
+      "gloss": "arrête-toi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "[lune]"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sur la vallée"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "d'Ayalon"
+    }
+  ],
+  "timestamp": "2026-08-04T11:03:15.863686817Z",
+  "model": "glm-4.5"
+}

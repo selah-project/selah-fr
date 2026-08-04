@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "La ville de chaos est brisée, ⟨toute⟩ maison ⟨est⟩ fermée ⟨pour⟩ l'entrée.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "est brisée"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "la ville de"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "chaos"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fermée"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨toute⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "⟨pour⟩ l'entrée"
+    }
+  ],
+  "timestamp": "2026-08-04T15:18:17.498698160Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Pharaon appela Moïse et dit : Allez, servez YHWH, seulement vos petites créatures et votre bétail ⟨seront⟩ mis ⟨en réserve⟩, même vos tout-petits iront avec vous.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "allez"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "vos petites créatures"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "et votre bétail"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "⟨seront⟩ mis ⟨en réserve⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vos tout-petits"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "iront"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avec vous"
+    }
+  ],
+  "timestamp": "2026-08-04T06:24:55.097433585Z",
+  "model": "glm-4.5"
+}

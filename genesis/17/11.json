@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et vous couperez ⟨את⟩ la chair de votre prépuce, et il sera un signe de l'alliance entre moi et vous",
+  "tokens": [
+    {
+      "surface": "וּנְמַלְתֶּם",
+      "gloss": "et vous couperez"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "la chair de votre prépuce"
+    },
+    {
+      "surface": "בְּשַׂר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "עָרְלַתְכֶם",
+      "gloss": "de votre prépuce"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "et il sera"
+    },
+    {
+      "surface": "לְא֣וֹת",
+      "gloss": "un signe"
+    },
+    {
+      "surface": "בְּרִ֔ית",
+      "gloss": "de l'alliance"
+    },
+    {
+      "surface": "בֵּינִ֖י",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "וּבֵינֵיכֶֽם",
+      "gloss": "et vous"
+    }
+  ],
+  "timestamp": "2026-08-04T05:21:17.323848957Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "leviticus 11:39",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et si meurt ⟨de⟩ la bête qui ⟨est⟩ pour vous en nourriture, celui qui touche ⟨à⟩ son cadavre sera impur jusqu'⟨au⟩ soir.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meurt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "la bête"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "en nourriture"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "celui qui touche"
+    },
+    {
+      "surface": "בנבלתה",
+      "gloss": "⟨à⟩ son cadavre"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨au⟩ soir"
+    }
+  ],
+  "timestamp": "2026-08-04T07:42:09.514767162Z",
+  "model": "glm-4.5"
+}

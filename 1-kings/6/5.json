@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il bâtit contre le mur de la maison une structure adjacente tout autour, ⟨את⟩ les murs de la maison tout autour, du temple et du dèbir, et fit des cellules tout autour",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Et il bâtit"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "le mur"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "une structure adjacente"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les murs de la maison"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "les murs"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "du temple"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "et du dèbir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et fit"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "des cellules"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    }
+  ],
+  "timestamp": "2026-08-04T13:36:41.144548362Z",
+  "model": "glm-4.5"
+}

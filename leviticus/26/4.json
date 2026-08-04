@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "alors je donnerai vos pluies en leur saison et la terre donnera son produit et l'arbre du champ donnera son fruit",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "alors je donnerai"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "vos pluies"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "en leur saison"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "et ⟨la⟩ donnera"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "son produit"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "et l'arbre"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "du champ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "son fruit"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:29.934312209Z",
+  "model": "glm-4.5"
+}

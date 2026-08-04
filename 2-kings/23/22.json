@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Car n'avait pas été fait un Pessaḥ comme celui-ci depuis les jours des juges qui avaient jugé ⟨את⟩ Israël, et tous les jours des rois d'Israël et des rois de Yehoudah",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'avait pas"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "été fait"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "un Pessaḥ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "comme celui-ci"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "depuis les jours"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "des juges"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "avaient jugé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "des rois"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "et des rois"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehoudah"
+    }
+  ],
+  "timestamp": "2026-08-04T14:41:38.860392263Z",
+  "model": "glm-4.5"
+}

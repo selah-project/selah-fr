@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Suffisant ⟨est⟩ pour vous le tour de ⟨את⟩ cette montagne ; tournez-vous pour vous vers le nord.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "suffisant"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "סב",
+      "gloss": "le tour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette montagne"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "cette montagne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "פנו",
+      "gloss": "tournez-vous"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "vers le nord"
+    }
+  ],
+  "timestamp": "2026-08-04T09:50:50.007915681Z",
+  "model": "glm-4.5"
+}

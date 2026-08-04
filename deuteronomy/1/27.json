@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et vous murmurez dans vos tentes, et vous dites : dans la haine de YHWH ⟨את⟩ nous, il nous a fait sortir du pays d'Égypte pour nous donner dans ⟨la⟩ main de l'Amoréen ⟨את⟩ nous, pour nous détruire.",
+  "tokens": [
+    {
+      "surface": "וַתֵּרָגְנ֤וּ",
+      "gloss": "et vous murmurez"
+    },
+    {
+      "surface": "בְאָהֳלֵיכֶם֙",
+      "gloss": "dans vos tentes"
+    },
+    {
+      "surface": "וַתֹּ֣אמְר֔וּ",
+      "gloss": "et vous dites"
+    },
+    {
+      "surface": "בְּשִׂנְאַ֤ת",
+      "gloss": "dans la haine de"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֹתָ֔נוּ",
+      "gloss": "⟨את⟩",
+      "marks": "il nous a fait sortir"
+    },
+    {
+      "surface": "הוֹצִיאָ֖נוּ",
+      "gloss": "il nous a fait sortir"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "לָתֵ֥ת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "אֹתָ֛נוּ",
+      "gloss": "⟨את⟩",
+      "marks": "dans la main"
+    },
+    {
+      "surface": "בְּיַ֥ד",
+      "gloss": "dans ⟨la⟩ main"
+    },
+    {
+      "surface": "הָאֱמֹרִ֖י",
+      "gloss": "de l'Amoréen"
+    },
+    {
+      "surface": "לְהַשְׁמִידֵֽנוּ",
+      "gloss": "pour nous détruire"
+    }
+  ],
+  "timestamp": "2026-08-04T09:49:28.933513894Z",
+  "model": "glm-4.5"
+}

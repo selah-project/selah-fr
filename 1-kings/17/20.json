@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et il cria vers YHWH et dit : YHWH, mon Élohim, ⟨est-ce⟩ aussi sur la veuve avec qui je séjourne que ⟨tu⟩ as fait du mal pour faire mourir ⟨את⟩ son fils ?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et il cria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "⟨est-ce⟩ aussi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "la veuve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avec qui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "séjourne"
+    },
+    {
+      "surface": "עמה",
+      "gloss": ""
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "que ⟨tu⟩ as fait du mal"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pour faire mourir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son fils"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "son fils"
+    }
+  ],
+  "timestamp": "2026-08-04T13:56:56.600720460Z",
+  "model": "glm-4.5"
+}

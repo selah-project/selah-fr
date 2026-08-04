@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "C'est ⟨la⟩ parole que YHWH a dite au sujet de Moab depuis ce temps-là.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨la⟩ parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a dite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au sujet de"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "depuis ce temps-là"
+    }
+  ],
+  "timestamp": "2026-08-04T15:05:02.664772964Z",
+  "model": "glm-4.5"
+}

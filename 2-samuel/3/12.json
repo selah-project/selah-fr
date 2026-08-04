@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 3:12",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Abner envoya des messagers à David, de sa part, pour dire : À qui ⟨est⟩ la terre ? pour dire : Coupe ton alliance avec moi, et voici, ma main ⟨est⟩ avec toi pour faire tourner ⟨vers⟩ toi ⟨את⟩ tout Israël.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "des messagers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "de sa part"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "למי",
+      "gloss": "À qui"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "כרתה",
+      "gloss": "Coupe"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ton alliance"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "להסב",
+      "gloss": "pour faire tourner"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T12:54:50.568208762Z",
+  "model": "glm-4.5"
+}

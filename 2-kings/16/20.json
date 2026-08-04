@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Achaz s'endormit avec ses pères et fut enterré avec ses pères dans la ville de David ; et Hizqiyaou, son fils, régna à sa place.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Et s'endormit"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ses pères"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "et fut enterré"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ses pères"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "et régna"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiyaou"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "à sa place"
+    }
+  ],
+  "timestamp": "2026-08-04T14:31:01.946488864Z",
+  "model": "glm-4.5"
+}

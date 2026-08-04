@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car si tu refuses de les renvoyer, et que tu les tiens encore",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "tu refuses"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "de les renvoyer"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "et que ⟨tu les⟩ encore"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "tiens"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨les⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:55.732197093Z",
+  "model": "glm-4.5"
+}

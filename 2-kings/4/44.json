@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "2-kings 4:44",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "il la mit devant eux et ils mangèrent et il y en eut ⟨de reste⟩ selon la parole de YHWH",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "il la mit"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "devant eux"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "et ils mangèrent"
+    },
+    {
+      "surface": "ויותרו",
+      "gloss": "et il y en eut ⟨de reste⟩"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T14:12:35.335773352Z",
+  "model": "glm-4.5"
+}

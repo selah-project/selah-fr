@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Israël a péché, et même ils ont transgressé ⟨את⟩ mon alliance, que je leur avais commandée, et même ils ont pris du interdit, et même ils ont volé, et même ils ont menti, et même ils l'ont mis dans leurs ustensiles",
+  "tokens": [
+    {
+      "surface": "חָטָא֙",
+      "gloss": "a péché"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וְגַם֙",
+      "gloss": "et même"
+    },
+    {
+      "surface": "עָבְר֣וּ",
+      "gloss": "ils ont transgressé"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mon alliance"
+    },
+    {
+      "surface": "בְּרִיתִ֔י",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צִוִּ֖יתִי",
+      "gloss": "j'avais commandée"
+    },
+    {
+      "surface": "אוֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "le et même qui suit"
+    },
+    {
+      "surface": "וְגַ֤ם",
+      "gloss": "et même"
+    },
+    {
+      "surface": "לָֽקְחוּ֙",
+      "gloss": "ils ont pris"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הַחֵ֔רֶם",
+      "gloss": "interdit"
+    },
+    {
+      "surface": "וְגַ֤ם",
+      "gloss": "et même"
+    },
+    {
+      "surface": "גָּֽנְבוּ֙",
+      "gloss": "ils ont volé"
+    },
+    {
+      "surface": "וְגַ֣ם",
+      "gloss": "et même"
+    },
+    {
+      "surface": "כִּֽחֲשׁ֔וּ",
+      "gloss": "ils ont menti"
+    },
+    {
+      "surface": "וְגַ֖ם",
+      "gloss": "et même"
+    },
+    {
+      "surface": "שָׂ֥מוּ",
+      "gloss": "ils l'ont mis"
+    },
+    {
+      "surface": "בִכְלֵיהֶֽם",
+      "gloss": "dans leurs ustensiles"
+    }
+  ],
+  "timestamp": "2026-08-04T10:58:18.608522888Z",
+  "model": "glm-4.5"
+}

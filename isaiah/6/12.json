@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "et YHWH a éloigné ⟨את⟩ l'humain et multiplié ⟨la⟩ désolation au milieu de ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "et a éloigné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "et multiplié"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "la désolation"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T14:53:26.865140154Z",
+  "model": "glm-4.5"
+}

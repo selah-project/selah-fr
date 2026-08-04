@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et vous servirez ⟨את⟩ YHWH, votre Élohim, et il bénira ⟨את⟩ ton pain et ⟨את⟩ tes eaux, et j'écarterai ⟨la⟩ maladie de ton sein",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "et vous servirez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "et il bénira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton pain"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ton pain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tes eaux"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "tes eaux"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "et j'écarterai"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "la maladie"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "de ton sein"
+    }
+  ],
+  "timestamp": "2026-08-04T06:47:55.680659031Z",
+  "model": "glm-4.5"
+}

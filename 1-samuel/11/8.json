@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et il les dénombra à Bezek ; les fils d'Israël étaient trois cent mille, et l'homme de Juda trente mille.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Et il les dénombra"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "à Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "furent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trois"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cent"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et l'homme de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    }
+  ],
+  "timestamp": "2026-08-04T12:18:07.195651083Z",
+  "model": "glm-4.5"
+}

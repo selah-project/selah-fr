@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Abraham se leva de devant son mort et parla aux fils de Heth pour dire",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et se leva"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ face"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "son mort"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "et parla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "חת",
+      "gloss": "de Heth"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:47.983057190Z",
+  "model": "glm-4.5"
+}

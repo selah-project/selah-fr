@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "S'ils ⟨ne⟩ voient ⟨את⟩ la terre que j'ai jurée à leurs pères, et tous ceux qui ⟨me⟩ méprisent, ⟨non⟩ ne la verront.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "S'ils"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "voient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "j'ai jurée"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "à leurs pères"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "ceux qui méprisent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "la verront"
+    }
+  ],
+  "timestamp": "2026-08-04T08:54:02.586284432Z",
+  "model": "glm-4.5"
+}

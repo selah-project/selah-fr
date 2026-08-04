@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Prends ⟨את⟩ la tête des fils de Guershon aussi, eux, selon la maison de leurs pères, selon leurs familles",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Prends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tête des fils de Guershon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "de Guershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eux"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "selon la maison"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de leurs pères"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "selon leurs familles"
+    }
+  ],
+  "timestamp": "2026-08-04T08:27:37.043101724Z",
+  "model": "glm-4.5"
+}

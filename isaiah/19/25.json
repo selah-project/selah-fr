@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "que YHWH Tsevaot a bénis, en disant : Béni soit mon peuple, Égypte, et l'ouvrage de mes mains, l'Assyrie, et mon héritage, Israël.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "a bénis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Béni"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Égypte"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "et l'ouvrage"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de mes mains"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "l'Assyrie"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "et mon héritage"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T15:10:00.832572664Z",
+  "model": "glm-4.5"
+}

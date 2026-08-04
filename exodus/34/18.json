@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "⟨את⟩ la fête des pains sans levain tu garderas ; sept jours tu mangeras des pains sans levain, comme je t'ai ⟨commandé⟩, au temps fixé du mois d'Abib ; car dans le mois d'Abib, tu es sorti d'Égypte.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fête des pains sans levain"
+    },
+    {
+      "surface": "חג",
+      "gloss": "la fête"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "des pains sans levain"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "tu garderas"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu mangeras"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "des pains sans levain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "je t'ai ⟨commandé⟩"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "au temps fixé"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "d'Abib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dans le mois"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "d'Abib"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "tu es sorti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T07:09:15.431600126Z",
+  "model": "glm-4.5"
+}

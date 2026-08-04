@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et David entendit ⟨dans⟩ ⟨le⟩ désert que Nabal tondait ⟨את⟩ son troupeau",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et David entendit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨dans⟩ ⟨le⟩ désert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "tondait"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son troupeau"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "son troupeau"
+    }
+  ],
+  "timestamp": "2026-08-04T12:43:15.877427728Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Lui, il frappa ⟨את⟩ les Philistins jusqu’à Gaza et ⟨את⟩ ses frontières, depuis la tour des guetteurs jusqu’à la ville fortifiée.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Lui"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "il frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Philistins"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses frontières"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ses frontières"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "depuis la tour"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "des guetteurs"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortifiée"
+    }
+  ],
+  "timestamp": "2026-08-04T14:34:53.939787062Z",
+  "model": "glm-4.5"
+}

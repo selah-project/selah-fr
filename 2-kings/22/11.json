@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et il arriva, lorsque le roi entendit ⟨את⟩ les paroles du livre de la Torah, qu'il déchira ⟨את⟩ ses vêtements",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lorsque... entendit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les paroles"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "du livre"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "de la Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "qu'il déchira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses vêtements"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    }
+  ],
+  "timestamp": "2026-08-04T14:40:43.992283918Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et vous avez vu ⟨les⟩ brèches de la Cité de David, car elles ⟨sont⟩ nombreuses ; et vous avez rassemblé ⟨את⟩ les eaux de ⟨la⟩ piscine inférieure",
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "et",
+      "marks": "בקיעי"
+    },
+    {
+      "surface": "בְּקִיעֵי",
+      "gloss": "brèches"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "Cité"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "David"
+    },
+    {
+      "surface": "רְאִיתֶם",
+      "gloss": "vous avez vu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רָבּוּ",
+      "gloss": "elles sont nombreuses"
+    },
+    {
+      "surface": "וַתְקַבְּצוּ",
+      "gloss": "et vous avez rassemblé"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "מי"
+    },
+    {
+      "surface": "מֵי",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "הַבְּרֵכָה",
+      "gloss": "de la piscine"
+    },
+    {
+      "surface": "הַתַּחְתּוֹנָה",
+      "gloss": "inférieure"
+    }
+  ],
+  "timestamp": "2026-08-04T15:15:42.430944854Z",
+  "model": "glm-4.5"
+}

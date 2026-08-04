@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et ceci ⟨est⟩ ce que vous ne mangerez pas d'eux : le nécros, et l'ossifrage, et l'osprey.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "le nécros"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "et l'ossifrage"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "et l'osprey"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:13.079094766Z",
+  "model": "glm-4.5"
+}

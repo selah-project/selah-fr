@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Shemuël dit au peuple : YHWH, ⟨celui qui⟩ a fait ⟨את⟩ Moshé et ⟨את⟩ Aharon, et ⟨celui qui⟩ a fait monter ⟨את⟩ vos pères du pays de Mitsraïm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "העם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨celui qui⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et ⟨celui qui⟩"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "a fait monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos pères"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsraïm"
+    }
+  ],
+  "timestamp": "2026-08-04T12:19:44.761371906Z",
+  "model": "glm-4.5"
+}

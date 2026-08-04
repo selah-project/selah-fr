@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et la parole de YHWH ⟨fut⟩ ⟨vers⟩ lui, disant :",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et ⟨fut⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨vers⟩ lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant :"
+    }
+  ],
+  "timestamp": "2026-08-04T13:56:32.757820053Z",
+  "model": "glm-4.5"
+}

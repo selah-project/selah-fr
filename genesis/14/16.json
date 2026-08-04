@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et il ramena ⟨את⟩ toutes ⟨את⟩ les biens, et aussi ⟨את⟩ Lot son frère, et ses biens il ⟨a⟩ ramenés, et aussi ⟨את⟩ les femmes et ⟨את⟩ le peuple.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et il ramena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les biens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "les biens"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "et ses biens"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "il ⟨a⟩ ramenés"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les femmes"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "les femmes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:52.386603661Z",
+  "model": "glm-4.5"
+}

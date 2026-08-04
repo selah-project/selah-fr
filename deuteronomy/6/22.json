@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 6:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et YHWH ⟨a fait⟩ des signes et des prodiges, grands et mauvais, ⟨en⟩ Égypte, ⟨contre⟩ le Pharaon et toute sa maison, devant nos yeux.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et YHWH ⟨a fait⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אותת",
+      "gloss": "des signes"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "et des prodiges"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grands"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "et mauvais"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "⟨en⟩ Égypte"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "⟨contre⟩ le Pharaon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "devant nos yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T09:59:44.336183856Z",
+  "model": "glm-4.5"
+}

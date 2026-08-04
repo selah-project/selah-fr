@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et David chercha ⟨את⟩ Élohim pour le jeune garçon, et David imposa un jeûne et entra et passa la nuit et coucha ⟨sur⟩ la terre",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Et chercha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pour"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "le jeune garçon"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "et imposa un jeûne"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "un jeûne"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "et entra"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "et passa la nuit"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "et coucha"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨sur⟩ la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:07:16.754511658Z",
+  "model": "glm-4.5"
+}

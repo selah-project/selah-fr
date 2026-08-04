@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Balak fit comme Bilam ⟨avait⟩ dit, et ⟨il⟩ offrit ⟨את⟩ un taureau et ⟨את⟩ un bélier sur ⟨le⟩ mizbéah",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fit"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "offrit"
+    },
+    {
+      "surface": "פר",
+      "gloss": "⟨את⟩",
+      "marks": "un taureau"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "et ⟨את⟩",
+      "marks": "un bélier"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sur ⟨le⟩ mizbéah"
+    }
+  ],
+  "timestamp": "2026-08-04T09:18:58.467166396Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Aujourd'hui, vous sortez dans le mois de l'Abib.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Aujourd'hui"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "sortez"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dans le mois"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "de l'Abib"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:33.439676325Z",
+  "model": "glm-4.5"
+}

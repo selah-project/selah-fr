@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Bilam se leva ⟨le⟩ matin et sella ⟨את⟩ son ânesse et alla avec les princes de Moab",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "et se leva"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "et sella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son ânesse"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "son ânesse"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et alla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "les princes"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    }
+  ],
+  "timestamp": "2026-08-04T09:15:27.001078383Z",
+  "model": "glm-4.5"
+}

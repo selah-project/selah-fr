@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et elle conçut encore, et elle enfanta un fils, et elle appela ⟨את⟩ son nom Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "et elle conçut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "et elle enfanta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "et elle appela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-04T05:50:09.435622526Z",
+  "model": "glm-4.5"
+}

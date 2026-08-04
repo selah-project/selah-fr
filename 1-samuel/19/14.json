@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Shaoul envoya ⟨le⟩ messagers prendre ⟨את⟩ David, et elle dit : malade ⟨il est⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "messagers"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "prendre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et elle dit"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "malade"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il est⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T12:35:22.126861357Z",
+  "model": "glm-4.5"
+}

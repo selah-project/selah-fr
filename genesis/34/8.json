@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Et Chamor parla avec eux, disant : Mon fils Shechem, sa nefesh s'est attachée à votre fille, donnez-la, je vous prie, ⟨את⟩ à lui pour femme.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et ... parla"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "s'est attachée"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa nefesh"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "à votre fille"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "donnez"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je vous prie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "à lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pour femme"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:48.928429293Z",
+  "model": "glm-4.5"
+}

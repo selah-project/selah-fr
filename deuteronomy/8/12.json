@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "de peur que tu ne ⟨manges⟩ et sois rassasié, et que tu ne bâtisses des maisons ⟨bonnes⟩ et y ⟨habites⟩",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu ne ⟨manges⟩"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "et sois rassasié"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "et que tu ne bâtisses des maisons"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "⟨bonnes⟩"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "et que tu ne bâtisses"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "et y ⟨habites⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T10:05:14.460329747Z",
+  "model": "glm-4.5"
+}

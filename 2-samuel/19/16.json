@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et le roi revint et ⟨est⟩ venu jusqu'au Jourdain. Et Juda vint à Guilgal pour aller à la rencontre du roi pour faire passer ⟨את⟩ le roi ⟨את⟩ le Jourdain.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et le roi revint"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et ⟨est⟩ venu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jourdain"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Et Juda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vint"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "à Guilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour aller"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "à la rencontre de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "pour faire passer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    }
+  ],
+  "timestamp": "2026-08-04T13:20:18.263456241Z",
+  "model": "glm-4.5"
+}

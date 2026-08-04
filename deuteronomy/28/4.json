@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Béni ⟨le⟩ fruit de ton ventre, et ⟨le⟩ fruit de ta terre, et ⟨le⟩ fruit de ton bétail, la portée de tes bœufs et ⟨les⟩ brebis de ton petit bétail.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "béni"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "de ton ventre"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "et le fruit"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "de ta terre"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "et le fruit"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "de ton bétail"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "la portée"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "de tes bœufs"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "et les brebis"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "de ton petit bétail"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:42.249758783Z",
+  "model": "glm-4.5"
+}

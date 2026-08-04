@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et l'humain dit : la femme que tu as placée avec moi — elle ⟨a⟩ donné de l'arbre ⟨à⟩ moi — et j'ai mangé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tu as placée"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a donné"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨à⟩ moi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "l'arbre"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "et j'ai mangé"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:18.241524749Z",
+  "model": "glm-4.5"
+}

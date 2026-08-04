@@ -1,0 +1,104 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car c'est de l'amour de YHWH envers vous, et parce qu'Il ⟨את⟩ garde le serment qu'Il a juré à vos pères, que YHWH ⟨את⟩ vous a fait sortir par une main forte, et ⟨את⟩ t'a racheté de la maison de serviteurs, de la main de Pharaon, roi d'Égypte",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "de l'amour"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "et parce qu'Il ⟨est⟩ garde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le serment"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "le serment"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Il a juré"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "à vos pères"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a fait sortir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par main"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "forte"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "et t'a racheté"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de ⟨la⟩ maison"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "de serviteurs"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de ⟨la⟩ main"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T10:01:28.787349159Z",
+  "model": "glm-4.5"
+}

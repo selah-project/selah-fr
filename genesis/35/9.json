@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et Élohim apparut à Jacob de nouveau, à son retour de Paddan-Aram, et le bénit",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et apparut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "de nouveau"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "à son retour"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "de Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et le bénit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le (Jacob)"
+    }
+  ],
+  "timestamp": "2026-08-04T05:46:05.756533148Z",
+  "model": "glm-4.5"
+}

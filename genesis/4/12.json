@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Quand tu travailleras ⟨את⟩ la terre, elle ne donnera plus sa force ⟨pour⟩ toi ; tu seras un vagabond et un fugitif sur la terre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tu travailleras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "donnera plus"
+    },
+    {
+      "surface": "תת",
+      "gloss": "sa force"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "⟨sa force⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pour⟩ toi"
+    },
+    {
+      "surface": "נע",
+      "gloss": "vagabond"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "et fugitif"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tu seras"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:26.322050955Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et il conduisit ⟨את⟩ devant ⟨le⟩ roi de Moab, et ils habitèrent avec lui tous les jours du séjour de David dans la forteresse",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "et il conduisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devant le roi de Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "et ils habitèrent"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "היות",
+      "gloss": "du séjour"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "dans la forteresse"
+    }
+  ],
+  "timestamp": "2026-08-04T12:38:52.413510705Z",
+  "model": "glm-4.5"
+}

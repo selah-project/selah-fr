@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Voici ceux d'entre eux que vous mangerez : ⟨את⟩ la sauterelle selon son espèce, et ⟨את⟩ le solam selon son espèce, et ⟨את⟩ le hargol selon son espèce, et ⟨את⟩ le hagab selon son espèce.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceux"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ceux"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'entre eux"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "que vous mangerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sauterelle"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "la sauterelle"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "le solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "le hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le hagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "le hagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:22.258609742Z",
+  "model": "glm-4.5"
+}

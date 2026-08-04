@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et ne profanez pas ⟨את⟩ mon saint nom, et je serai sanctifié au milieu des fils d'Israël ; moi, YHWH, ⟨je⟩ sanctifie ⟨את⟩ vous",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "profanez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon saint nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mon saint"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "et je serai sanctifié"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "sanctifie vous"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:37.850374708Z",
+  "model": "glm-4.5"
+}

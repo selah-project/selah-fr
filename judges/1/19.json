@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH ⟨fut⟩ avec Juda et il posséda ⟨את⟩ la montagne car ⟨il ne pouvait⟩ pas déposséder ⟨את⟩ les habitants de la vallée car ⟨ils avaient⟩ des chars de fer",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et ⟨fut⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "avec",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "et il posséda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la montagne"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "déposséder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les habitants"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "de la vallée"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chars"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ils avaient⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T11:33:32.563945169Z",
+  "model": "glm-4.5"
+}

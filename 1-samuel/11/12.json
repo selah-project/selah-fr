@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et le peuple dit à Shemuël : Qui est celui qui a dit : Shaoul régnera sur nous ? Donnez les hommes et nous les ferons mourir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "est celui qui a dit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "régnera"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Donnez"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "et nous les ferons mourir"
+    }
+  ],
+  "timestamp": "2026-08-04T12:19:15.574141134Z",
+  "model": "glm-4.5"
+}

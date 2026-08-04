@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et tu vois dans ⟨le⟩ captif une femme de belle apparence et tu convoites envers elle et tu prends pour toi pour femme",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "et tu vois"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "dans ⟨le⟩ captif"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "de belle"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "apparence"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "et tu convoites"
+    },
+    {
+      "surface": "בה",
+      "gloss": "envers elle"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "et tu prends"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pour femme"
+    }
+  ],
+  "timestamp": "2026-08-04T10:25:04.640763483Z",
+  "model": "glm-4.5"
+}

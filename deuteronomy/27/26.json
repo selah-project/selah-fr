@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit ⟨est⟩ celui qui ne fait pas tenir ⟨את⟩ les paroles de cette Torah pour les faire et dira tout le peuple amen",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celui qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "fait pas tenir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les paroles de cette Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "de cette Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pour les faire"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "et dira"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:04.240898590Z",
+  "model": "glm-4.5"
+}

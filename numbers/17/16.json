@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et YHWH parla ⟨à⟩ Moïse, pour dire:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", pour dire:"
+    }
+  ],
+  "timestamp": "2026-08-04T09:01:49.602332987Z",
+  "model": "glm-4.5"
+}

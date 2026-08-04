@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et ils rapportèrent ⟨à⟩ David en disant : Voici, les Pelishtim font la guerre ⟨contre⟩ Keïla, et ils pillent ⟨את⟩ les aires.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Et ils rapportèrent"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨à⟩ David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "font la guerre"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "⟨contre⟩ Keïla"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "et ils"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "pillent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les aires"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "les aires"
+    }
+  ],
+  "timestamp": "2026-08-04T12:39:58.651374920Z",
+  "model": "glm-4.5"
+}

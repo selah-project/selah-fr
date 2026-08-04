@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Tu gardes ⟨en⟩ parfaite shalom, shalom, ⟨celui dont le⟩ dessein s'appuie sur Toi, car en Toi il est confiant",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "Tu gardes"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "s'appuie"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "⟨en⟩ parfaite"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en Toi"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "il est confiant"
+    }
+  ],
+  "timestamp": "2026-08-04T15:20:26.130550257Z",
+  "model": "glm-4.5"
+}

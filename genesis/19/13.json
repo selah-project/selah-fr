@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Car nous détruisons ⟨את⟩ le lieu, celui-ci, car grand est leur cri ⟨את⟩ devant la face de YHWH, et YHWH nous a envoyés pour le détruire",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "nous détruisons"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le lieu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "est grand"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "leur cri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devant la face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "devant la face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "et nous a envoyés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "pour le détruire"
+    }
+  ],
+  "timestamp": "2026-08-04T05:24:53.629842541Z",
+  "model": "glm-4.5"
+}

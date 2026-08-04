@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "sauf pour sa chair proche qui ⟨est⟩ proche de lui : pour sa mère, et pour son père, et pour son fils, et pour sa fille, et pour son frère",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sauf"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "pour sa chair"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "la proche"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "près de lui"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "pour sa mère"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "et pour son père"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "et pour son fils"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "et pour sa fille"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "et pour son frère"
+    }
+  ],
+  "timestamp": "2026-08-04T08:06:28.364942780Z",
+  "model": "glm-4.5"
+}

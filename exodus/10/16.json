@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Pharaon se hâta d'appeler Moïse et Aaron, et il dit : j'ai péché contre YHWH, votre Élohim, et contre vous.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Et se hâta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "d'appeler"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "j'ai péché"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "contre YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "et contre vous"
+    }
+  ],
+  "timestamp": "2026-08-04T06:25:08.057576945Z",
+  "model": "glm-4.5"
+}

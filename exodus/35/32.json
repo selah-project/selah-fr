@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "et ⟨pour⟩ concevoir des conceptions ⟨pour⟩ faire ⟨en⟩ or et ⟨en⟩ argent et ⟨en⟩ bronze",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "et ⟨pour⟩ concevoir"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "des conceptions"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "⟨pour⟩ faire"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "⟨en⟩ or"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "et ⟨en⟩ argent"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "et ⟨en⟩ bronze"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:59.793367136Z",
+  "model": "glm-4.5"
+}

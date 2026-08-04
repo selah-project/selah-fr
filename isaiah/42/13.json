@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "YHWH ⟨est⟩ sorti comme ⟨un⟩ héros, comme ⟨un⟩ homme de guerre il réveille ⟨sa⟩ jalousie ; il crie, oui, il pousse un cri de guerre, contre ses ennemis il ⟨se⟩ montre puissant.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "comme ⟨un⟩ héros"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "est sorti"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "comme ⟨un⟩ homme"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "de guerre"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "il réveille"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "⟨sa⟩ jalousie"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "il crie"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oui"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "il pousse un cri de guerre"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ses ennemis"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "il ⟨se⟩ montre puissant"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:46.955112942Z",
+  "model": "glm-4.5"
+}

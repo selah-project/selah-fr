@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "et que vos yeux n'épargnent pas ⟨את⟩ vos affaires, car le bien de toute la terre d'Égypte est à vous.",
+  "tokens": [
+    {
+      "surface": "וְעֵינְכֶם",
+      "gloss": "et que vos yeux"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תָּחֹס",
+      "gloss": "épargnent"
+    },
+    {
+      "surface": "עַל",
+      "gloss": ""
+    },
+    {
+      "surface": "כְּלֵיכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "vos affaires"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ט֛וּב",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "אֶ֥רֶץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "לָכֶ֥ם",
+      "gloss": "est à vous"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "⟨il⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:01:35.549690Z",
+  "model": "glm-4.5"
+}

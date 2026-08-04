@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Or Israël aimait ⟨את⟩ Joseph plus que tous ses fils, car c'était un fils de sa vieillesse, et il lui fit une tunique de couleur",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Or Israël"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aimait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "plus que tous"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "de sa vieillesse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'était"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et il fit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "une tunique"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "de couleur"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:22.772820710Z",
+  "model": "glm-4.5"
+}

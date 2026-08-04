@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Et Shechem parla à Hamor son père, en disant : prends-moi ⟨את⟩ la jeune fille, celle-ci, pour femme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... parla"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prends"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi \/ -moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la jeune fille"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "la jeune fille"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pour femme"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:16.873256289Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et quiconque touche à tout ce qui ⟨sera⟩ sous lui sera impur jusqu'au soir, et celui qui les porte ⟨את⟩ lavera ses vêtements et se lavera dans l'eau, et ⟨sera⟩ impur jusqu'au soir",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et quiconque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "touche"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "à tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨sera⟩"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sous lui"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "et celui qui les porte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "celui qui les porte"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lavera"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "et se lavera"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "et ⟨sera⟩ impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    }
+  ],
+  "timestamp": "2026-08-04T07:54:43.744973625Z",
+  "model": "glm-4.5"
+}

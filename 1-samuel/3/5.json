@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "et il courut vers Eli et dit me voici car tu m'as appelé et il dit je n'ai pas appelé retourne couche-toi et il alla et se coucha",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "et il courut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "me voici"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "tu as appelé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'ai pas"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "appelé"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "retourne"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "couche-toi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et il alla"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "et se coucha"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:28.450598264Z",
+  "model": "glm-4.5"
+}

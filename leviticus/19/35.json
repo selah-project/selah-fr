@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Ne faites pas d'injustice ⟨dans⟩ le jugement, ⟨dans⟩ la mesure, ⟨dans⟩ le poids et ⟨dans⟩ ⟨la⟩ mesure-liquide",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "faites"
+    },
+    {
+      "surface": "עול",
+      "gloss": "d'injustice"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨dans⟩ le jugement"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "⟨dans⟩ la mesure"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "⟨dans⟩ le poids"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "et ⟨dans⟩ ⟨la⟩ mesure-liquide"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:42.483944864Z",
+  "model": "glm-4.5"
+}

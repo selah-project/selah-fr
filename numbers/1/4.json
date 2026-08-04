@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et avec vous ⟨il y aura⟩ un homme, un homme pour la tribu, un homme chef de ⟨la⟩ maison de ses pères, ⟨lui-même⟩.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "et avec vous"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨il y aura⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pour la tribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "chef"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "de ⟨la⟩ maison"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "de ses pères"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨lui-même⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T08:21:42.814340071Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et maintenant rassemble ⟨את⟩ le reste du peuple et campe contre la ville et capture-la de peur que je ne capture ⟨את⟩ la ville et qu'il soit appelé mon nom sur elle",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "rassemble"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le reste du peuple"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "le reste"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "et campe"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "et capture-la"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "je ne capture"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "et qu'il soit appelé"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mon nom"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sur elle"
+    }
+  ],
+  "timestamp": "2026-08-04T13:08:27.164356509Z",
+  "model": "glm-4.5"
+}

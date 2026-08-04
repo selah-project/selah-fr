@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et vous m'avez répondu, et vous avez dit : « Bon ⟨est⟩ la parole dont tu as parlé de faire. »",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "et vous m'avez répondu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "et vous avez dit"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "et vous avez dit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu as parlé"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    }
+  ],
+  "timestamp": "2026-08-04T09:48:33.783960109Z",
+  "model": "glm-4.5"
+}

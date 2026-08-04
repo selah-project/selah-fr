@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et maintenant, faites, car YHWH a dit à David, en disant : Par ⟨la⟩ main de David, mon serviteur, sauver ⟨את⟩ mon peuple Israël de ⟨la⟩ main des Philistins et de ⟨la⟩ main de tous leurs ennemis.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "faites"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "Par ⟨la⟩ main"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mon serviteur"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "sauver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon peuple Israël"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de ⟨la⟩ main"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "et de ⟨la⟩ main"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "leurs ennemis"
+    }
+  ],
+  "timestamp": "2026-08-04T12:54:48.781567190Z",
+  "model": "glm-4.5"
+}

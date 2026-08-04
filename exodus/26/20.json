@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et pour la côté du mishkan, la seconde, ⟨vers⟩ le nord, vingt planches",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Et pour la côté"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "du mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la seconde"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "le nord"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "planches"
+    }
+  ],
+  "timestamp": "2026-08-04T06:52:27.240053595Z",
+  "model": "glm-4.5"
+}

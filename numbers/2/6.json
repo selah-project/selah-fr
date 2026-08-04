@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et son armée et ses recensés : cinquante-quatre mille quatre cents",
+  "tokens": [
+    {
+      "surface": "וּצְבָא֖וֹ",
+      "gloss": "et son armée"
+    },
+    {
+      "surface": "וּפְקֻדָ֑יו",
+      "gloss": "et ses recensés"
+    },
+    {
+      "surface": "אַרְבָּעָ֧ה",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "וַחֲמִשִּׁ֛ים",
+      "gloss": "cinquante"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "וְאַרְבַּ֥ע",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "cents"
+    }
+  ],
+  "timestamp": "2026-08-04T08:24:03.971019984Z",
+  "model": "glm-4.5"
+}

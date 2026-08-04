@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et les serviteurs d'Amon complotèrent contre lui et mirent à mort ⟨את⟩ le roi dans sa maison.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "Et ils complotèrent"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "d'Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contre lui"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "et ils mirent à mort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "dans sa maison"
+    }
+  ],
+  "timestamp": "2026-08-04T14:39:55.100049701Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨את⟩ la fille de l'autruche, et ⟨את⟩ le hulotte, et ⟨את⟩ la mouette, et ⟨את⟩ l'épervier selon son espèce",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la fille de l'autruche"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "de l'autruche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le hulotte"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "le hulotte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la mouette"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "la mouette"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'épervier"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "l'épervier"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T07:41:03.197681353Z",
+  "model": "glm-4.5"
+}

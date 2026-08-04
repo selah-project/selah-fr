@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et YHWH dit à Aaron : toi, et tes fils, et la maison de ton père avec toi, vous porterez ⟨את⟩ la faute du sanctuaire ; et toi, et tes fils avec toi, vous porterez ⟨את⟩ la faute de votre sacerdoce.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "et tes fils"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "et la maison"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "vous porterez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la faute du sanctuaire"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la faute"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "du sanctuaire"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "et tes fils"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "vous porterez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la faute de votre sacerdoce"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la faute"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "de votre sacerdoce"
+    }
+  ],
+  "timestamp": "2026-08-04T09:03:00.534624129Z",
+  "model": "glm-4.5"
+}

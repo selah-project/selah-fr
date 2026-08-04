@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et il ôtera ⟨את⟩ son jabot avec ses plumes et ⟨il⟩ le jettera ⟨את⟩ du côté de l'autel vers l'orient au lieu de la cendre",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "et il ôtera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son jabot"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "son jabot"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "avec ses plumes"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "et ⟨il⟩ jettera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "du côté"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "du côté"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "vers l'orient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "de la cendre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:24:55.043377469Z",
+  "model": "glm-4.5"
+}

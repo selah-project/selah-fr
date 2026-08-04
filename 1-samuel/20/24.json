@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et David se cacha dans ⟨le⟩ champ, et ⟨il y eut⟩ la nouvelle lune, et le roi s'assit ⟨sur⟩ ⟨le⟩ pain pour manger.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Et se cacha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans ⟨le⟩ champ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et ⟨il y eut⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "la nouvelle lune"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et s'assit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "⟨le⟩ pain"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "pour manger"
+    }
+  ],
+  "timestamp": "2026-08-04T12:36:35.013172082Z",
+  "model": "glm-4.5"
+}

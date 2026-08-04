@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Un fils d'un an ⟨est⟩ Shaul dans son règne, et deux ans ⟨a-t-il régné⟩ sur Israël.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "an"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "dans son règne"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "et deux"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "régné"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T12:22:24.051217487Z",
+  "model": "glm-4.5"
+}

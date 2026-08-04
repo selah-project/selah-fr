@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "leviticus 13:40",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et un homme, si ⟨son⟩ cheveu tombe de ⟨sa⟩ tête, il est chauve, il est pur.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et un homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "tombe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "de sa tête"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "il est chauve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-08-04T07:47:19.923554904Z",
+  "model": "glm-4.5"
+}

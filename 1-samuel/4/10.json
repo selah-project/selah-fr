@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et les Pelishtim combattirent et ⟨את⟩ Israël fut frappé et ils s'enfuirent, un homme vers sa tente, et la défaite fut très grande, et il tomba d'Israël trente mille hommes de pied",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "et combattirent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "et ⟨את⟩ fut frappé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël",
+      "marks": "Israël"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "et ils s'enfuirent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "vers sa tente"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et ⟨fut⟩"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "la défaite"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "très grande"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "et il tomba"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "hommes de pied"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:56.441017564Z",
+  "model": "glm-4.5"
+}

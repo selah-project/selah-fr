@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Mon seigneur, écoute-moi : un terrain de quatre cents shekels d'argent, qu'est-ce ⟨que cela⟩ entre moi et toi ? Enterre donc ⟨את⟩ ton mort.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Mon seigneur"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "écoute-moi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "un terrain"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cents"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekels"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qu'est-ce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨que cela⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ton mort"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ton mort"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "Enterre donc"
+    }
+  ],
+  "timestamp": "2026-08-04T05:29:10.630593739Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Le vil ne sera plus appelé généreux, et l'avare ne sera plus dit riche.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... plus"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sera appelé"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "désormais"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "le vil"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "généreux"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "et l'avare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sera dit"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "riche"
+    }
+  ],
+  "timestamp": "2026-08-04T15:27:18.988405718Z",
+  "model": "glm-4.5"
+}

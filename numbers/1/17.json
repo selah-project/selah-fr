@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Moshe et Aaron prirent ⟨את⟩ ces hommes qui furent désignés par leurs noms.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "et ... prirent"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ces hommes"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ces hommes"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "furent désignés"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "par leurs noms"
+    }
+  ],
+  "timestamp": "2026-08-04T08:21:24.987302522Z",
+  "model": "glm-4.5"
+}

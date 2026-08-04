@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Hizqiya donna ⟨את⟩ tout l'argent ⟨qui⟩ ⟨était⟩ trouvé ⟨dans⟩ la maison de YHWH et ⟨dans⟩ les trésors ⟨de⟩ la maison du roi",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et donna"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizqiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout l'argent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "⟨qui⟩ ⟨était⟩ trouvé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨dans⟩ la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "et ⟨dans⟩ les trésors"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩ la maison"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:35:19.573971096Z",
+  "model": "glm-4.5"
+}

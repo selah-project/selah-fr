@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Car du sommet des rochers je le vois, et des collines je ⟨le⟩ contemple ; voilà, un peuple qui habitera seul, et ne sera pas compté parmi les nations.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "du sommet"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "des rochers"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "je le vois"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "et des collines"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "je ⟨le⟩ contemple"
+    },
+    {
+      "surface": "הן",
+      "gloss": "voilà"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un peuple"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "seul"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "habitera"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "et parmi les nations"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "sera compté"
+    }
+  ],
+  "timestamp": "2026-08-04T09:18:37.255905028Z",
+  "model": "glm-4.5"
+}

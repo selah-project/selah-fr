@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et je rendrai dur ⟨את⟩ le cœur de Pharaon, et je multiplierai ⟨את⟩ mes signes et ⟨את⟩ mes prodiges dans le pays d'Égypte",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et je"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "rendrai dur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cœur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "et je multiplierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes signes"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "mes signes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "mes prodiges"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mes prodiges"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:05.488194742Z",
+  "model": "glm-4.5"
+}

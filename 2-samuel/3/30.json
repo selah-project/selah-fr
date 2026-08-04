@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Joab et Abishai son frère tuèrent Abner car il avait fait mourir ⟨את⟩ Asahel leur frère à Gabaon dans la bataille",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Et Joab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "et Abishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "tuèrent"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "על",
+      "gloss": "car"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "il"
+    },
+    {
+      "surface": "המית",
+      "gloss": "avait fait mourir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "leur frère"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "à Gabaon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dans la bataille"
+    }
+  ],
+  "timestamp": "2026-08-04T12:55:24.184506725Z",
+  "model": "glm-4.5"
+}

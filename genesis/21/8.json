@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et l'enfant grandit et fut sevré, et Abraham fit un grand festin au jour du sevrage d'⟨את⟩ Yitschaq",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Et grandit"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "et fut sevré"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et fit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "un festin"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "du sevrage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:46.474535331Z",
+  "model": "glm-4.5"
+}

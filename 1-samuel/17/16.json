@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et le Philistin ⟨s'⟩approchait le matin et le soir, et se tint là quarante jours",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Et ⟨s'⟩approchait"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "le Philistin"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "et le soir"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "et se tint là"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jours"
+    }
+  ],
+  "timestamp": "2026-08-04T12:30:38.963761870Z",
+  "model": "glm-4.5"
+}

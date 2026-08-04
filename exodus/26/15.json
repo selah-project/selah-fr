@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et tu feras ⟨את⟩ les planches pour le mishkan, des bois de shittim, dressées",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Et tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les planches"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "les planches"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pour le mishkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "des bois"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dressées"
+    }
+  ],
+  "timestamp": "2026-08-04T06:52:28.813806475Z",
+  "model": "glm-4.5"
+}

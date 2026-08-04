@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Paroh commanda ⟨sur⟩ lui ⟨des⟩ hommes, et ils le renvoyèrent, ⟨את⟩ lui et ⟨את⟩ sa femme et ⟨את⟩ tout ce qui était à lui.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "et commanda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨sur⟩ lui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨des⟩ hommes"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "et ils renvoyèrent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa femme"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce qui était à lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "était à lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:26.618873889Z",
+  "model": "glm-4.5"
+}

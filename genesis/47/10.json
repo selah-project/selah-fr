@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Et Yaakov bénit ⟨את⟩ Paroh et sortit de devant Paroh",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Et bénit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "et sortit"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:16.768438019Z",
+  "model": "glm-4.5"
+}

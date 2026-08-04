@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et YHWH ajouta de ⟨la⟩ brûler contre Israël, et il incita ⟨את⟩ David contre eux en disant : Va, dénombre ⟨את⟩ Israël et ⟨את⟩ Juda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Et ajouta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "de ⟨la⟩ brûler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "contre"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "et il incita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "contre eux"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "dénombre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-08-04T13:27:26.195434990Z",
+  "model": "glm-4.5"
+}

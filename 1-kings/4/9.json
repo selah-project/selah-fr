@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Ben-Déker ⟨est⟩ à Makaz, et à Shaalbim, et ⟨את⟩ Beth-Shemesh, et Elon-Beth-Hanan",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Fils de"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Déker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "⟨à⟩ Makaz"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "et ⟨à⟩ Shaalbim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "et Beth-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "et Elon-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanan"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:18.003285269Z",
+  "model": "glm-4.5"
+}

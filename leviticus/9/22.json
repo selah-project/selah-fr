@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Aaron leva ⟨את⟩ sa main vers le peuple et les bénit, et descendit de ⟨la⟩ faire de l'offrande pour le péché et de l'ola et des offrandes de paix",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Et leva"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "et les bénit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "et descendit"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "de ⟨la⟩ faire de"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "l'offrande pour le péché"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "et de l'ola"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "et des offrandes de paix"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:29.052470373Z",
+  "model": "glm-4.5"
+}

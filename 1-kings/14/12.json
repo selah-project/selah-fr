@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Lève-toi donc et va-t'en à ta maison, au moment où tes pieds entreront ⟨dans⟩ la ville, l'enfant mourra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'enfant"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "lève-toi donc"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "va-t'en"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "à ta maison"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "au moment où"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "tes pieds"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "entreront ⟨dans⟩ la ville"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    }
+  ],
+  "timestamp": "2026-08-04T13:53:01.118618377Z",
+  "model": "glm-4.5"
+}

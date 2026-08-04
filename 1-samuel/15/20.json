@@ -1,0 +1,99 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et Shaoul dit à Shemuël : j'ai obéi à la voix de YHWH, je suis allé dans le chemin par lequel YHWH m'a envoyé, et j'ai amené ⟨את⟩ Agag, roi d'Amaleq, et ⟨את⟩ Amaleq, j'ai dévoué.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[que]"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "j'ai obéi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "à la voix de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "je suis allé"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans le chemin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par lequel"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "m'a envoyé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "et j'ai amené"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi de"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleq"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "j'ai dévoué"
+    }
+  ],
+  "timestamp": "2026-08-04T12:26:35.126755527Z",
+  "model": "glm-4.5"
+}

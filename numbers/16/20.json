@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et YHWH parla à Moïse et à Aaron, disant",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    }
+  ],
+  "timestamp": "2026-08-04T08:58:31.002777511Z",
+  "model": "glm-4.5"
+}

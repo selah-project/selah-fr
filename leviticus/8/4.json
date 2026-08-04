@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Mosheh fit selon ce qu'avait commandé YHWH, et la communauté ⟨se⟩ rassembla ⟨à⟩ l'entrée de la tente ⟨du⟩ rendez-vous",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et ... fit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "selon ce que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "la communauté se rassembla"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "et ... se rassembla"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "la communauté"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨du⟩ rendez-vous"
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:41.920123509Z",
+  "model": "glm-4.5"
+}

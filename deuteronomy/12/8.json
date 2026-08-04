@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Vous ne ferez pas comme tout ce que nous faisons ici ⟨aujourd'hui⟩, ⟨chaque⟩ homme ⟨tout⟩ ce qui est droit à ses yeux",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תַעֲשׂ֔וּן",
+      "gloss": "ferez pas"
+    },
+    {
+      "surface": "כְּ֠כֹל",
+      "gloss": "comme tout"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אֲנַ֧חְנוּ",
+      "gloss": "nous"
+    },
+    {
+      "surface": "עֹשִׂ֛ים",
+      "gloss": "faisons"
+    },
+    {
+      "surface": "פֹּ֖ה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "⟨aujourd'hui⟩"
+    },
+    {
+      "surface": "אִ֖ישׁ",
+      "gloss": "⟨chaque⟩ homme"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "⟨tout⟩ ce qui"
+    },
+    {
+      "surface": "הַיָּשָׁ֥ר",
+      "gloss": "est droit"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "à ses yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T10:14:08.297158268Z",
+  "model": "glm-4.5"
+}

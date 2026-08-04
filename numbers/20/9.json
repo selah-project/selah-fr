@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Mosheh prit ⟨את⟩ le bâton de devant YHWH, comme il lui ⟨avait⟩ commandé",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et ... prit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bâton"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "le bâton"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "il lui ⟨avait⟩ commandé"
+    }
+  ],
+  "timestamp": "2026-08-04T09:07:32.376933125Z",
+  "model": "glm-4.5"
+}

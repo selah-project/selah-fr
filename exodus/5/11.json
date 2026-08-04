@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Allez, prenez pour vous de la paille où vous la trouverez, car ⟨rien⟩ ne sera retranché de votre travail.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Allez"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "y"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "prenez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "de la paille"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "vous la trouverez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨rien⟩"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ne sera retranché"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "de votre travail"
+    },
+    {
+      "surface": "דבר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:57.399964648Z",
+  "model": "glm-4.5"
+}

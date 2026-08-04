@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨il⟩ lui dit : ainsi a dit Jiphtach : Israël n'a pas pris ⟨את⟩ ⟨la⟩ terre de Moab, et ⟨את⟩ ⟨la⟩ terre des Fils d'Ammon",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiphtach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pris"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨la⟩ terre de Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨la⟩ terre des Fils d'Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des Fils"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "d'Ammon"
+    }
+  ],
+  "timestamp": "2026-08-04T11:48:45.490163246Z",
+  "model": "glm-4.5"
+}

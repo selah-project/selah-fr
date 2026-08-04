@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Une bête trouvée morte ou déchirée ⟨il⟩ ne la mangera pas pour ⟨se⟩ souiller avec elle ; moi, je suis YHWH.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "Une bête trouvée morte"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ou déchirée"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera pas"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "pour se souiller"
+    },
+    {
+      "surface": "בה",
+      "gloss": "avec elle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi, je suis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:40.822901504Z",
+  "model": "glm-4.5"
+}

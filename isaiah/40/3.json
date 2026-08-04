@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Une voix crie : dans le désert, dégagez ⟨le⟩ chemin de YHWH, dans l'Araba, aplanissez ⟨une⟩ route pour notre Élohim",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Une voix"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "crie"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "dégagez"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "aplanissez"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "dans l'Araba"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "route"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pour notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T15:34:36.994580296Z",
+  "model": "glm-4.5"
+}

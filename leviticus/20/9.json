@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Car tout homme qui maudit ⟨את⟩ son père et ⟨את⟩ sa mère, mourir ⟨il⟩; son père et sa mère il a maudit, son sang ⟨est⟩ en lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tout homme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa mère"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mourir"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mourir"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "et sa mère"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "il a maudit"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-04T08:05:19.249011784Z",
+  "model": "glm-4.5"
+}

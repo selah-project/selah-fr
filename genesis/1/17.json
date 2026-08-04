@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim mit ⟨את⟩ les [luminaires] dans l'étendue des cieux pour éclairer sur ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "dans l'étendue"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "pour éclairer"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:28.350770061Z",
+  "model": "glm-4.5"
+}

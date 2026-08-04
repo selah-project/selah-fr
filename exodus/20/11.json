@@ -1,0 +1,122 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "car en six jours YHWH fit ⟨את⟩ les cieux et ⟨את⟩ la terre, ⟨את⟩ la mer et ⟨את⟩ tout ce qui est en eux, et il se reposa le jour septième ; à cause de cela, YHWH bénit ⟨את⟩ le jour du shabbat et le sanctifia",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les cieux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בם",
+      "gloss": "est en eux"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "et il se reposa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septième"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bénit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le jour"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "du shabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "et le sanctifia"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:42.455372056Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Dans le mois troisième, ⟨de⟩ la sortie des fils d'Israël du pays d'Égypte, en ce jour-là, ils vinrent au désert de Sinaï.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Dans le mois"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "troisième"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "⟨de⟩ la sortie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-là"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ils vinrent"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "au désert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "de Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-04T06:40:18.625031571Z",
+  "model": "glm-4.5"
+}

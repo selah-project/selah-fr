@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le roi Yehoram sortit ce jour-là de Shomron et mit ⟨את⟩ ⟨tout⟩ Israël en ordre de bataille",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et sortit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ce jour-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "de Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "et mit en ordre de bataille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨tout⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:08:59.900360530Z",
+  "model": "glm-4.5"
+}

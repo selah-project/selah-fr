@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et ceci ⟨est⟩ la bénédiction dont bénit Moshé, l’homme ⟨de⟩ l’Élohim, ⟨את⟩ les fils d’Israël avant sa mort.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "la bénédiction"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bénit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l’homme"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ l’Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d’Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d’Israël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "avant"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "sa mort"
+    }
+  ],
+  "timestamp": "2026-08-04T10:48:00.874877290Z",
+  "model": "glm-4.5"
+}

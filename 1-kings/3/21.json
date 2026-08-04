@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et je me levai ⟨le⟩ matin pour allaiter ⟨את⟩ mon fils, et voici, ⟨il était⟩ mort. Et je l'observai ⟨le⟩ matin, et voici, ce n'était pas mon fils, celui que j'avais enfanté.",
+  "tokens": [
+    {
+      "surface": "וָאָקֻם",
+      "gloss": "Et je me levai"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "לְהֵינִיק",
+      "gloss": "pour allaiter"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mon fils"
+    },
+    {
+      "surface": "בְּנִי",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "מֵת",
+      "gloss": "⟨il était⟩ mort"
+    },
+    {
+      "surface": "וָאֶתְבּוֹנֵן",
+      "gloss": "Et je l'observai"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ce n'était pas"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "⟨il⟩"
+    },
+    {
+      "surface": "בְּנִי",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "celui que"
+    },
+    {
+      "surface": "יָלָדְתִּי",
+      "gloss": "j'avais enfanté"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:21.427550179Z",
+  "model": "glm-4.5"
+}

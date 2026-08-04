@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Au premier ⟨jour⟩ du premier mois, au premier du mois, tu dresseras ⟨את⟩ le mishkan, la tente d'assignation.",
+  "tokens": [
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "Au ⟨jour⟩"
+    },
+    {
+      "surface": "הַחֹ֥דֶשׁ",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "הָרִאשׁ֖וֹן",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "בְּאֶחָ֣ד",
+      "gloss": "au premier"
+    },
+    {
+      "surface": "לַחֹ֑דֶשׁ",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "תָּקִ֕ים",
+      "gloss": "dresseras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le mishkan"
+    },
+    {
+      "surface": "מִשְׁכַּ֖ן",
+      "gloss": "le mishkan"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:48.809120650Z",
+  "model": "glm-4.5"
+}

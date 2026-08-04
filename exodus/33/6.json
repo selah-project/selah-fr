@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et les fils d'Israël se dépouillèrent de ⟨את⟩ leurs ornements, depuis la montagne de Horeb.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "se dépouillèrent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs ornements"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "leurs ornements"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "depuis la montagne"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "de Horeb"
+    }
+  ],
+  "timestamp": "2026-08-04T07:07:39.203739669Z",
+  "model": "glm-4.5"
+}

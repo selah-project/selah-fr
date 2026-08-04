@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et au jour où ⟨se voit⟩ en lui de la chair vive, il ⟨sera⟩ impur.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Et au jour"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "où ⟨se voit⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "de la chair"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "il ⟨sera⟩ impur"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:51.281407116Z",
+  "model": "glm-4.5"
+}

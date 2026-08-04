@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et je dis à vous en ce temps-là pour dire : je ne puis pas ⟨seul⟩ porter ⟨vous⟩",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "en ce temps"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne puis pas"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "je ne puis pas"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "⟨seul⟩"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "porter"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T09:48:33.859700976Z",
+  "model": "glm-4.5"
+}

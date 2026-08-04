@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Voici ⟨les⟩ familles des Shiméonites : vingt-deux mille et deux cents.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨les⟩ familles"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "des Shiméonites"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "-deux"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "et deux cents"
+    }
+  ],
+  "timestamp": "2026-08-04T09:23:34.656675514Z",
+  "model": "glm-4.5"
+}

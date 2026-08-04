@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Aussi prenez votre petit bétail, aussi votre gros bétail, comme vous avez parlé, et allez, et bénissez aussi ⟨את⟩ moi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "votre petit bétail"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "votre gros bétail"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "prenez"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "vous avez parlé"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "et allez"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "et bénissez"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:28:35.664023501Z",
+  "model": "glm-4.5"
+}

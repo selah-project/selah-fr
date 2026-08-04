@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et il se hâta et retira ⟨את⟩ la cendre de sur ses yeux, et le roi d'Israël reconnut ⟨את⟩ lui qu'il est des prophètes.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Et il se hâta"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "et retira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cendre"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "la cendre"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sur"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "et reconnut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "il est des prophètes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    }
+  ],
+  "timestamp": "2026-08-04T14:02:27.844573629Z",
+  "model": "glm-4.5"
+}

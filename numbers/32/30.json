@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et si ⟨ils ne⟩ passent ⟨pas⟩ armés avec vous, ⟨ils auront⟩ des possessions au milieu de vous dans le pays de Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne ... pas⟩"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "passent"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "armés"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "⟨ils auront⟩ des possessions"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "au milieu de vous"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-04T09:41:16.133815492Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 21:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Abraham se leva tôt le matin et prit du pain et une outre d'eau et ⟨les donna⟩ à Hagar, les mit sur son épaule, ainsi que ⟨את⟩ l'enfant, et la renvoya; et elle partit et s'égara dans le désert de Beer-Sheba.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "et se leva tôt"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "et [outre] de"
+    },
+    {
+      "surface": "מים",
+      "gloss": "eau"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et donna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "[les] mit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "son épaule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ainsi que l'enfant"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "וישלחה",
+      "gloss": "et la renvoya"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "et elle partit"
+    },
+    {
+      "surface": "ותתע",
+      "gloss": "et s'égara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-08-04T05:27:08.254102001Z",
+  "model": "glm-4.5"
+}

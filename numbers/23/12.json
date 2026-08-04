@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et il répondit et dit : ⟨Ne⟩ dois-je pas prendre garde à ⟨parler⟩ ce que YHWH met dans ma bouche ?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et il répondit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨Ne⟩... pas ?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "met"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dans ma bouche"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "à le parler"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "prendre garde"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "à ⟨parler⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T09:18:20.954018849Z",
+  "model": "glm-4.5"
+}

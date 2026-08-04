@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "et si ⟨il⟩ rachète, il la rachètera et ajoutera son cinquième sur ton estimation",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "rachète"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "il la rachètera"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "et ajoutera"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "son cinquième"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ton estimation"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:01.161010331Z",
+  "model": "glm-4.5"
+}

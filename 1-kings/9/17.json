@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Shelomoh bâtit ⟨את⟩ Gezer et ⟨את⟩ Beth-Horon le bas",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "et bâtit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Beth-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "le bas"
+    }
+  ],
+  "timestamp": "2026-08-04T13:44:18.107400916Z",
+  "model": "glm-4.5"
+}

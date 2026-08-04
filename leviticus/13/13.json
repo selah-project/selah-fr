@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et le prêtre verra et voici la lèpre a couvert ⟨את⟩ toute sa chair et il a purifié ⟨את⟩ la plaie tout est devenu blanc pur il-est",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "et verra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "a couvert"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "la lèpre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute sa chair"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "et a purifié"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la plaie"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tout est"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "devenu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "blanc"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il-est"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:36.788037154Z",
+  "model": "glm-4.5"
+}

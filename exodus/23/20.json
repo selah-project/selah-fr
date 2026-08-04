@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Voici, je ⟨suis⟩ envoyant un messager devant toi pour te garder sur la route et pour te faire venir ⟨vers⟩ le lieu que j'ai préparé",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "⟨suis⟩ envoyant"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "un messager"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "pour te garder"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur la route"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "et pour te faire venir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "j'ai préparé"
+    }
+  ],
+  "timestamp": "2026-08-04T06:47:32.678018313Z",
+  "model": "glm-4.5"
+}

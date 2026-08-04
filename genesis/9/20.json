@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Noé, homme de la terre, commença et planta ⟨une⟩ vigne",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "et commença"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "et planta"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "une vigne"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:48.326311581Z",
+  "model": "glm-4.5"
+}

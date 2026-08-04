@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et il découvrit ⟨את⟩ la couverture de Juda et tu regardas en ce jour-là vers l'armement de la Maison de la Forêt",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Et il découvrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la couverture de Juda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "la couverture"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "et tu regardas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "l'armement"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la Maison"
+    },
+    {
+      "surface": "היער",
+      "gloss": "de la Forêt"
+    }
+  ],
+  "timestamp": "2026-08-04T15:15:40.671366374Z",
+  "model": "glm-4.5"
+}

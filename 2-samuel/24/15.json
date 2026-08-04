@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et YHWH donna ⟨la⟩ peste en Israël depuis le matin jusqu'au temps fixé, et il mourut du peuple, depuis Dan jusqu'à Beer-Sheva, soixante-dix mille hommes.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et donna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨la⟩ peste"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "depuis le matin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "עת",
+      "gloss": "au"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "temps fixé"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il mourut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "העם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "depuis Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "soixante-dix"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hommes"
+    }
+  ],
+  "timestamp": "2026-08-04T13:27:56.819122103Z",
+  "model": "glm-4.5"
+}

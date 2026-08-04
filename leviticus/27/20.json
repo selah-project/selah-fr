@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et s'il ne rachète pas ⟨את⟩ le champ, et s'il a vendu ⟨את⟩ le champ à un autre homme, il ne sera plus racheté",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "rachète"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le champ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "le champ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "il a vendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le champ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "le champ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à un homme"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "autre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "sera racheté"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:10.399639433Z",
+  "model": "glm-4.5"
+}

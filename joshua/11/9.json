@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Josué fit pour eux comme YHWH lui ⟨avait⟩ dit : ⟨את⟩ leurs chevaux, il ⟨les⟩ hamstra, et ⟨את⟩ leurs chars, il brûla ⟨par⟩ le feu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josué"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs chevaux"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "leurs chevaux"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "hamstra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leurs chars"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "leurs chars"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brûla"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨par⟩ le feu"
+    }
+  ],
+  "timestamp": "2026-08-04T11:04:38.910422788Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "car ton serviteur s'est porté garant de ⟨את⟩ le jeune homme auprès de mon père, en disant : Si je ne le fais pas venir auprès de toi, j'aurai péché contre mon père tous les jours.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "s'est porté garant de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le jeune homme"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "le jeune homme"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "auprès de"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "je le fais pas venir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "auprès de toi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "j'aurai péché"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "contre mon père"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "les jours"
+    }
+  ],
+  "timestamp": "2026-08-04T06:00:38.116505760Z",
+  "model": "glm-4.5"
+}

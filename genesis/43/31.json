@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Et il lava son visage et sortit et se contint et dit : Servez du pain.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "Et il lava"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "son visage"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "et sortit"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "et se contint"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Servez"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    }
+  ],
+  "timestamp": "2026-08-04T05:58:11.703348224Z",
+  "model": "glm-4.5"
+}

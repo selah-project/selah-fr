@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et Joseph répondit ⟨את⟩ Paroh en disant : sans moi, Élohim répondra ⟨את⟩ la paix de Paroh",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "sans moi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "répondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la paix de Paroh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la paix"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Paroh"
+    }
+  ],
+  "timestamp": "2026-08-04T05:54:11.742682272Z",
+  "model": "glm-4.5"
+}

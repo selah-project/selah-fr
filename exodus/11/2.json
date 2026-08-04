@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Parle, je te prie, aux oreilles du peuple, et qu'ils demandent, un homme ⟨את⟩ de son compagnon, et une femme ⟨את⟩ de sa compagne, des ustensiles d'argent et des ustensiles d'or.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "aux oreilles"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "et qu'ils demandent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "de son compagnon"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "de son compagnon"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "et une femme"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "de sa compagne"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "de sa compagne"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "des ustensiles"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "et des ustensiles"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    }
+  ],
+  "timestamp": "2026-08-04T06:25:48.429381384Z",
+  "model": "glm-4.5"
+}

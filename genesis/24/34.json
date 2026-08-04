@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et il dit : je suis le serviteur d'Abraham.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "le serviteur"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "d'Abraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je suis"
+    }
+  ],
+  "timestamp": "2026-08-04T05:30:55.500359932Z",
+  "model": "glm-4.5"
+}

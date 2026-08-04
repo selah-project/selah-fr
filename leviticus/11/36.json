@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Seulement une source ou un puits, un rassemblement d'eaux, sera pur ; et celui qui touche leur cadavre sera impur",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "une source"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "ou un puits"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "un rassemblement"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eaux"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "et celui qui touche"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "leur cadavre"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sera impur"
+    }
+  ],
+  "timestamp": "2026-08-04T07:41:39.912840462Z",
+  "model": "glm-4.5"
+}

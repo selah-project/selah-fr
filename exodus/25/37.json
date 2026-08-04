@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et tu feras ⟨את⟩ ses lampes sept, et elles feront monter ⟨את⟩ ses lampes, et elles illumineront sur le côté de sa face",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses lampes"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ses lampes"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sept"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "et elles feront monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses lampes"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ses lampes"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "et elles illumineront"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "le côté de"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sa face"
+    }
+  ],
+  "timestamp": "2026-08-04T06:50:25.020844609Z",
+  "model": "glm-4.5"
+}

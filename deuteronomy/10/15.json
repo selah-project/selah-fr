@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 10:15",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Seulement YHWH s'est attaché à tes pères pour les aimer, et il a choisi leur postérité après eux, vous, sur tous les peuples, comme ⟨il est⟩ ce jour.",
+  "tokens": [
+    {
+      "surface": "רַק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "בַּאֲבֹתֶיךָ",
+      "gloss": "à tes pères"
+    },
+    {
+      "surface": "חָשַׁק",
+      "gloss": "s'est attaché"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לְאַהֲבָה",
+      "gloss": "pour aimer"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "leurs postérité"
+    },
+    {
+      "surface": "וַיִּבְחַר",
+      "gloss": "et il a choisi"
+    },
+    {
+      "surface": "בְּזַרְעָם",
+      "gloss": "leur postérité"
+    },
+    {
+      "surface": "אַחֲרֵיהֶם",
+      "gloss": "après eux"
+    },
+    {
+      "surface": "בָּכֶם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "מִכָּל",
+      "gloss": "sur tous"
+    },
+    {
+      "surface": "הָעַמִּים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "כַּיּוֹם",
+      "gloss": "comme ce jour"
+    },
+    {
+      "surface": "הַזֶּה",
+      "gloss": "⟨celui-ci⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T10:11:50.652633164Z",
+  "model": "glm-4.5"
+}

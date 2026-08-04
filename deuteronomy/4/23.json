@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 4:23",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Gardez-vous de peur que vous n'oubliez ⟨את⟩ l'alliance de YHWH votre Élohim qu'Il a cut avec vous, et que vous ne vous fassiez une sculpture, forme de quoi que ce soit, que YHWH ton Élohim t'a commandé",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "Gardez-vous"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨vous-mêmes⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "vous n'oubliez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'alliance"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "l'alliance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Il a cut"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "et que vous ne fassiez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "une sculpture"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "forme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de quoi que ce soit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "t'a commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T09:55:29.502332052Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le roi dit : Coupez ⟨le⟩ vivant ⟨enfant⟩ en deux, et donnez ⟨la⟩ moitié à l'une et ⟨la⟩ moitié à l'autre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "coupez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vivant enfant"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "⟨l'enfant⟩"
+    },
+    {
+      "surface": "החי",
+      "gloss": "⟨le⟩ vivant"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "en deux"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "et donnez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moitié"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "⟨la⟩ moitié"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "à l'une"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la moitié"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "⟨la⟩ moitié"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "à l'autre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:13.766783442Z",
+  "model": "glm-4.5"
+}

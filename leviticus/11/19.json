@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨את⟩ la cigogne, le héron selon son espèce, et ⟨את⟩ la huppe, et ⟨את⟩ la chauve-souris.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la cigogne"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "la cigogne"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "le héron"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la huppe"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "la huppe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la chauve-souris"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "la chauve-souris"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:40.531159744Z",
+  "model": "glm-4.5"
+}

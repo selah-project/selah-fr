@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Ouriya se coucha ⟨à⟩ ⟨l'⟩ouverture de la maison du roi, ⟨את⟩ avec tous les serviteurs de son maître, et ne descendit pas vers sa maison.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Et Ouriya se coucha"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ouriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨à⟩ ⟨l'⟩ouverture"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avec tous les serviteurs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "de son maître"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "descendit pas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    }
+  ],
+  "timestamp": "2026-08-04T13:05:29.739952547Z",
+  "model": "glm-4.5"
+}

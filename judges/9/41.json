@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Abimélec s'installa à Aruma et Zebul expulsa ⟨את⟩ Gaal et ⟨את⟩ ses frères de l'habitation à Sichem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et s'installa"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimélec"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "à Aruma"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "et expulsa"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses frères"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "de l'habitation"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "à Sichem"
+    }
+  ],
+  "timestamp": "2026-08-04T11:46:22.108143095Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Un roi, dans sa beauté, ⟨le⟩ verront tes yeux, elles contempleront ⟨la⟩ terre des lointains.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Un roi"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "dans sa beauté"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "⟨le⟩ verront"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tes yeux"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "elles contempleront"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "des lointains"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:27.464416928Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "et ils servirent les idoles, lesquelles YHWH avait dites à eux : vous ne ferez pas ⟨את⟩ la parole, celle-ci",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "et ils servirent"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "les idoles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lesquelles"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avait dites"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne ferez pas"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ", celle-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T14:33:44.045907030Z",
+  "model": "glm-4.5"
+}

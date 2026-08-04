@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et il envoya des messagers à Achab roi d'Israël ⟨dans⟩ la ville",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et il envoya"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "des messagers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "⟨dans⟩ la ville"
+    }
+  ],
+  "timestamp": "2026-08-04T14:00:35.486848723Z",
+  "model": "glm-4.5"
+}

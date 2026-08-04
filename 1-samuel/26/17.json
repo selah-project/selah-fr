@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et Shaul reconnut ⟨את⟩ la voix de David et dit : Est-ce là ta voix, mon fils David ? Et David dit : Ma voix, Adonaï ⟨est⟩ le roi.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Et reconnut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voix de David"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "Est-ce là ta voix"
+    },
+    {
+      "surface": "זה",
+      "gloss": "est-ce là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et David dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "Ma voix"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:46:16.992147523Z",
+  "model": "glm-4.5"
+}

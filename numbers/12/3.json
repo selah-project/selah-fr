@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Or l'homme, Mosheh, ⟨était⟩ très anavi, plus que tout ⟨homme⟩ ⟨qui est⟩ sur la face de la terre.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Or l'homme,"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh,"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "anavi,"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "plus que tout"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨homme⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui est⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terre."
+    }
+  ],
+  "timestamp": "2026-08-04T08:49:52.548226436Z",
+  "model": "glm-4.5"
+}

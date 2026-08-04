@@ -1,0 +1,52 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et les fils de Gad bâtirent ⟨את⟩ Dibon et ⟨את⟩ Ataroth et ⟨את⟩ Aroër",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "et ils bâtirent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ataroth"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Ataroth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Aroër"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroër"
+    }
+  ],
+  "timestamp": "2026-08-04T09:41:33.063150763Z",
+  "model": "glm-4.5"
+}

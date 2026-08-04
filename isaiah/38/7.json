@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et ceci ⟨est⟩ pour toi le signe de ⟨la part de⟩ YHWH, que YHWH fera ⟨את⟩ la parole, celle-ci, qu'il a dite.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "האות",
+      "gloss": "le signe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de ⟨la part de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il a dite"
+    }
+  ],
+  "timestamp": "2026-08-04T15:33:08.551817372Z",
+  "model": "glm-4.5"
+}

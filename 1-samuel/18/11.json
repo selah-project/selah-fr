@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Shaul lança ⟨את⟩ la javeline et dit : 'Je frapperai David et ⟨le⟩ mur' et David se détourna de devant lui deux fois",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "Et lança"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la javeline"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "la javeline"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "je frapperai"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "et ⟨le⟩ mur"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "et se détourna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de devant lui"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "deux fois"
+    }
+  ],
+  "timestamp": "2026-08-04T12:33:54.780750612Z",
+  "model": "glm-4.5"
+}

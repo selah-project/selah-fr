@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Si tu envoies ⟨את⟩ notre frère avec nous, nous descendrons et nous achèterons pour toi de la nourriture",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "tu ⟨as⟩"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "envoies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre frère"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "notre frère"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "nous descendrons"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "et nous achèterons"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "de la nourriture"
+    }
+  ],
+  "timestamp": "2026-08-04T05:57:31.642695233Z",
+  "model": "glm-4.5"
+}

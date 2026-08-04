@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Car si nous n'avions pas tardé, certes maintenant nous serions revenus cette seconde fois.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "si"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "nous n'avions pas tardé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "certes"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "nous serions revenus"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cette"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "seconde fois"
+    }
+  ],
+  "timestamp": "2026-08-04T05:58:22.024896392Z",
+  "model": "glm-4.5"
+}

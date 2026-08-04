@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et la colère de YHWH s'embrasa contre eux, et il s'en alla.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "s'embrasa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "colère"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contre eux"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et il s'en alla"
+    }
+  ],
+  "timestamp": "2026-08-04T08:50:00.491289092Z",
+  "model": "glm-4.5"
+}

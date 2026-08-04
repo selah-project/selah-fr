@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Comme au bruit ⟨parvenu⟩ en Égypte, ils seront terrifiés, au bruit ⟨de⟩ Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Comme"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "au bruit"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ils seront terrifiés"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "au bruit"
+    },
+    {
+      "surface": "צר",
+      "gloss": "⟨de⟩ Tsor",
+      "marks": "au bruit de Tsor"
+    }
+  ],
+  "timestamp": "2026-08-04T15:17:16.937670129Z",
+  "model": "glm-4.5"
+}

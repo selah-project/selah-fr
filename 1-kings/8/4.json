@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et ils firent monter ⟨את⟩ l'arche de YHWH et ⟨את⟩ la tente d'assignation et ⟨את⟩ tous les instruments du sanctuaire qui étaient dans la tente, et les prêtres et les Lévites les firent monter.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Et ils firent monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la tente"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tous"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "les instruments"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "du sanctuaire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "étaient dans la tente"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "firent monter"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨les⟩",
+      "marks": "les prêtres"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "et les Lévites"
+    }
+  ],
+  "timestamp": "2026-08-04T13:41:00.428505689Z",
+  "model": "glm-4.5"
+}

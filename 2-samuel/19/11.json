@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Or Absalom, que nous avons oint sur nous, est mort dans la bataille ; et maintenant, pourquoi êtes-vous silencieux pour faire revenir ⟨את⟩ le roi ?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Or Absalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "nous avons oint"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "מת",
+      "gloss": "est mort"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dans la bataille"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "êtes-vous"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "silencieux"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "pour faire revenir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:19:16.722371102Z",
+  "model": "glm-4.5"
+}

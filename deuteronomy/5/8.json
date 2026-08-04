@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Tu ne feras pas pour toi ⟨une⟩ idole, ⟨une⟩ image de quelque chose qui est dans les cieux en haut, et qui est sur la terre en bas, et qui est dans les eaux en bas de la terre",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "feras pas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "⟨une⟩ idole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨une⟩ image de quelque chose"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "image"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "en haut"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et qui est"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "en bas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et qui est"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans les eaux"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "en bas"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T09:56:55.721272721Z",
+  "model": "glm-4.5"
+}

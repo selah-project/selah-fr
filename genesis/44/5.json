@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "N'est-ce pas celle ⟨dans laquelle⟩ boit mon seigneur, et ⟨par laquelle⟩ il pronostique, le mal que vous avez fait ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dans laquelle⟩"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "boit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mon seigneur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dans laquelle⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "pronostique"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "pronostique"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨par laquelle⟩"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "vous avez fait"
+    }
+  ],
+  "timestamp": "2026-08-04T05:59:47.409187852Z",
+  "model": "glm-4.5"
+}

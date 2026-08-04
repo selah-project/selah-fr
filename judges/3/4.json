@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ils furent pour ⟨les⟩ éprouver par eux ⟨את⟩ Israël, pour savoir ⟨s'ils⟩ écouteraient ⟨את⟩ les commandements de YHWH, qu'il avait commandés ⟨את⟩ leurs pères par la main de Moïse.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Et ils furent"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "pour éprouver"
+    },
+    {
+      "surface": "בם",
+      "gloss": "par eux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pour savoir"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "⟨s'ils⟩ écouteraient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les commandements"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "les commandements"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'il"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandés"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs pères"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "leurs pères"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main de"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    }
+  ],
+  "timestamp": "2026-08-04T11:36:33.691387074Z",
+  "model": "glm-4.5"
+}

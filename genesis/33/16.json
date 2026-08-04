@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et Esav s'en retourna ce jour-là sur ⟨son⟩ chemin vers Seir",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et s'en retourna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ce jour-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sur ⟨son⟩ chemin"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "vers Seir"
+    }
+  ],
+  "timestamp": "2026-08-04T05:43:27.421736164Z",
+  "model": "glm-4.5"
+}

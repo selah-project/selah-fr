@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Béni ⟨est⟩ ton panier et ta huche",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "béni"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ton panier"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "et ta huche"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:18.925461448Z",
+  "model": "glm-4.5"
+}

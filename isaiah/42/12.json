@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Qu'ils attribuent de la gloire à YHWH et sa louange dans les îles ⟨le⟩ proclament",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "Qu'ils attribuent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "et sa louange"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "dans les îles"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "⟨le⟩ proclament"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:31.396732947Z",
+  "model": "glm-4.5"
+}

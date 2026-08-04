@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Écoutez-moi, îles, et peuple⟨s⟩ lointain⟨s⟩, prêtez attention : YHWH m'a appelé depuis le sein, depuis le ventre de ma mère il a mentionné mon nom.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "איים",
+      "gloss": "îles"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "et prêtez attention"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "peuples"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de loin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "depuis le sein"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "m'a appelé"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "depuis le ventre"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "de ma mère"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "il a mentionné"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mon nom"
+    }
+  ],
+  "timestamp": "2026-08-04T15:44:37.404659656Z",
+  "model": "glm-4.5"
+}

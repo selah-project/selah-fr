@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et Jacob habitait dans ⟨le⟩ pays des séjours de son père, dans ⟨le⟩ pays de Canaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et habitait"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "des séjours"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:11.169519501Z",
+  "model": "glm-4.5"
+}

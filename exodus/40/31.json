@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et ils se lavèrent de lui, Moïse et Aaron et ses fils, ⟨את⟩ leurs mains et ⟨את⟩ leurs pieds",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "et ils se lavèrent"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mains"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs pieds"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "leurs pieds"
+    }
+  ],
+  "timestamp": "2026-08-04T07:24:10.340381819Z",
+  "model": "glm-4.5"
+}

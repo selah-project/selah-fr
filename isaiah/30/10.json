@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "qui disaient aux voyants : ne voyez pas ; et aux voyants : ne prophétisez pas pour nous ⟨ce qui est⟩ droit ; parlez-nous ⟨des choses⟩ apaisantes ; voyez ⟨des⟩ illusions",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "disaient"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "aux voyants"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "voyez pas"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "et aux voyants"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "prophétisez pas"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "⟨ce qui est⟩ droit"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "parlez"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-nous"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "⟨des choses⟩ apaisantes"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "voyez"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "⟨des⟩ illusions"
+    }
+  ],
+  "timestamp": "2026-08-04T15:25:17.098076225Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Seulement, ceci vous ⟨mangerez⟩, de tout ⟨le⟩ reptile du vol qui marche sur quatre, qui a ⟨des⟩ jambes au-dessus de ses pieds, pour sauter avec elles sur ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous ⟨mangerez⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "reptile"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "du vol"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "qui marche"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "⟨des⟩ jambes"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "au-dessus"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "de ses pieds"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "pour sauter"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "avec elles"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:29.872451133Z",
+  "model": "glm-4.5"
+}

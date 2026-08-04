@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et Laban dit : bon ⟨je⟩ donnerai ⟨את⟩ elle à toi plutôt que de donner ⟨את⟩ elle à un autre homme, habite avec moi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Laban dit"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Et Laban dit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "⟨je⟩ donnerai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "elle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "plutôt que de donner"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "elle"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à un autre homme"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "autre"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "habite"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:44.778351239Z",
+  "model": "glm-4.5"
+}

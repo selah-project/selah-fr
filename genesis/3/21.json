@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et YHWH Élohim fit à Adam et à sa femme des tuniques de peau et les vêtit",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "à Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "et à sa femme"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "des tuniques"
+    },
+    {
+      "surface": "עור",
+      "gloss": "de peau"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "et les vêtit"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:38.005307107Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car ses princes sont à Tsoan et ses messagers sont arrivés jusqu'à Hanès.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sont"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "à Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ses princes"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "et ses messagers"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanès"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "sont arrivés jusqu'à"
+    }
+  ],
+  "timestamp": "2026-08-04T15:25:51.262105583Z",
+  "model": "glm-4.5"
+}

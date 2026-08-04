@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Quand tu achètes un serviteur hébreu, six ans il servira, et la septième il sortira libre, gratuitement.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "tu achètes"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "un serviteur"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hébreu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "il servira"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "et la septième"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "il sortira"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "libre"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gratuitement"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:17.229985255Z",
+  "model": "glm-4.5"
+}

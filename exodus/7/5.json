@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et les Égyptiens sauront que je suis YHWH, quand j'étendrai ⟨את⟩ ma main sur l'Égypte et que je ferai sortir ⟨את⟩ les fils d'Israël du milieu d'eux.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Et les Égyptiens sauront"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "quand j'étendrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma main"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "et que je ferai sortir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils d'Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "du milieu d'eux"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:49.936915565Z",
+  "model": "glm-4.5"
+}

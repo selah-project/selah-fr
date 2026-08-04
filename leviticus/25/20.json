@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et si vous dites : « Que mangerons-nous ⟨dans⟩ la septième année ? voici, nous ne sèmerons pas et nous ne récolterons pas ⟨את⟩ notre récolte »",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "vous dites"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mangerons-nous"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dans l'année"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "la septième"
+    },
+    {
+      "surface": "הן",
+      "gloss": "voici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "sèmerons pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "récolterons pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre récolte"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "notre récolte"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:19.162381891Z",
+  "model": "glm-4.5"
+}

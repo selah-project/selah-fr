@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et YHWH dit à Moïse : Pharaon n'écoutera ⟨pas⟩ ⟨vous⟩, afin de multiplier ⟨mes⟩ signes dans le pays d'Égypte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'écoutera ⟨pas⟩"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "écoutera"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "⟨vous⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin de"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "multiplier"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "⟨mes⟩ signes"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:25:53.093796025Z",
+  "model": "glm-4.5"
+}

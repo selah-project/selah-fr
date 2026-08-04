@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et Joseph commanda ⟨את⟩ ses serviteurs ⟨את⟩ les médecins d'embaumer ⟨את⟩ son père et les médecins embaumèrent ⟨את⟩ Israël",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et Joseph commanda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les médecins"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "les médecins"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "d'embaumer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "et les médecins embaumèrent"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "les médecins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:13.753583687Z",
+  "model": "glm-4.5"
+}

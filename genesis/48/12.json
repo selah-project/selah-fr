@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Et Joseph fit sortir ⟨את⟩ eux d'entre ⟨ses⟩ genoux et il se prosterna le visage contre terre",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "et il fit sortir"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "d'entre"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "⟨ses⟩ genoux"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "et il se prosterna"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "le visage ⟨contre⟩"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "terre"
+    }
+  ],
+  "timestamp": "2026-08-04T06:08:00.945258585Z",
+  "model": "glm-4.5"
+}

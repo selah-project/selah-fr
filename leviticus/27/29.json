@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Tout interdit qui sera interdit ⟨parmi⟩ les humains ne sera pas racheté, il mourra certainement.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "interdit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "sera interdit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨parmi⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "les humains"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "sera pas racheté"
+    },
+    {
+      "surface": "מות",
+      "gloss": "certainement"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "il mourra"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:37.171032102Z",
+  "model": "glm-4.5"
+}

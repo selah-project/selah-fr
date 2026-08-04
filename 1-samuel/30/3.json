@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et David vint, et ses hommes, ⟨à⟩ la ville, et voici, elle est brûlée par le feu, et leurs femmes, et leurs fils, et leurs furent emmenés captives",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et vint"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "et ses hommes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "elle est brûlée"
+    },
+    {
+      "surface": "באש",
+      "gloss": "par le feu"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "et leurs femmes"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "et leurs fils"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "et leurs filles"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "furent emmenés captives"
+    }
+  ],
+  "timestamp": "2026-08-04T12:49:46.979310374Z",
+  "model": "glm-4.5"
+}

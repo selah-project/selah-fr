@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Moi, YHWH, ⟨suis⟩ ton Élohim, qui ⟨ai⟩ fait sortir ⟨le⟩ pays d'Égypte, de ⟨la⟩ maison d'esclaves.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "⟨ai⟩ fait sortir"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨le⟩ pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de ⟨la⟩ maison"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "d'esclaves"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:31.695832110Z",
+  "model": "glm-4.5"
+}

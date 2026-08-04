@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Ne savez-vous pas ? N'entendez-vous pas ? N'a-t-il pas été proclamé ⟨à vous⟩ dès le commencement ? N'avez-vous pas compris ⟨les⟩ fondements ⟨de⟩ la terre ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ne... pas ?"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "savez-vous"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'entendez-vous pas ?"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "entendez-vous"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'a-t-il pas été"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "proclamé"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "dès le commencement"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨à vous⟩"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'avez-vous pas"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "compris"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "⟨les⟩ fondements"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨de⟩ la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:35:01.226331827Z",
+  "model": "glm-4.5"
+}

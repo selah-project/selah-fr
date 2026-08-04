@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et le roi lui dit : Qu'as-tu ? Et elle dit : Vraiment une femme veuve ⟨je suis⟩ et mon mari est mort.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu'as-tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et elle dit"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Vraiment"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "veuve"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨je suis⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et est mort"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mon mari"
+    }
+  ],
+  "timestamp": "2026-08-04T13:11:12.360151923Z",
+  "model": "glm-4.5"
+}

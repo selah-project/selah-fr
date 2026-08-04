@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Shemuël dit ⟨את⟩ toutes les paroles de YHWH au peuple ⟨qui⟩ demandait un roi de sa part",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les paroles de YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "העם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "qui demandaient"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "de sa part"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un roi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:13:32.619800325Z",
+  "model": "glm-4.5"
+}

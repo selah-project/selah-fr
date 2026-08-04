@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et il fit ⟨את⟩ le manteau de l'éphod ouvrage de tisserand tout de tekhelet",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le manteau de l'éphod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "le manteau"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "de l'éphod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ouvrage"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "de tisserand"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "de tekhelet"
+    }
+  ],
+  "timestamp": "2026-08-04T07:20:31.978684320Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et moi, voici, je dresse ⟨את⟩ mon alliance avec vous, et ⟨את⟩ votre postérité après vous",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "voici, je"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "dresse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon alliance"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "votre postérité"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "après vous"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:51.905168359Z",
+  "model": "glm-4.5"
+}

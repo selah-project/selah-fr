@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "⟨את⟩ les tentures de la cour, ⟨את⟩ ses piliers et ⟨את⟩ leurs socles, et ⟨את⟩ le voile du portail de la cour",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les tentures de la cour"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "les tentures"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "de la cour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses piliers"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ses piliers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leurs socles"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "leurs socles"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le voile du portail"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "le voile"
+    },
+    {
+      "surface": "שער",
+      "gloss": "du portail"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "de la cour"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:52.742439129Z",
+  "model": "glm-4.5"
+}

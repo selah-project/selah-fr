@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Paroh dit : moi, je renverrai ⟨את⟩ vous, et vous sacrifierez à YHWH, votre Élohim, dans le désert ; seulement, loin, vous ne vous éloignerez pas d'aller ; suppliez pour moi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "je renverrai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "et vous sacrifierez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "loin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "vous vous éloignerez"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "d'aller"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "suppliez"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:06.764749292Z",
+  "model": "glm-4.5"
+}

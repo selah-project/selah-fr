@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "En offrande de prémices, vous ferez approcher ⟨את⟩ eux vers YHWH, et sur l'autel ils ne monteront pas pour odeur apaisante.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "En offrande"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "de prémices"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "vous ferez approcher"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vers YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "monteront pas"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "pour odeur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "apaisante"
+    }
+  ],
+  "timestamp": "2026-08-04T07:27:00.654279201Z",
+  "model": "glm-4.5"
+}

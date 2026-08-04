@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et son pays est rempli d'argent et d'or, et il n'y a pas de fin ⟨à⟩ ses trésors ; et son pays est rempli de chevaux, et il n'y a pas de fin ⟨à⟩ ses chars",
+  "tokens": [
+    {
+      "surface": "וַתִּמָּלֵא",
+      "gloss": "et fut rempli"
+    },
+    {
+      "surface": "אַרְצוֹ",
+      "gloss": "son pays"
+    },
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "וְזָהָב",
+      "gloss": "et or"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "et [il n'y] a pas"
+    },
+    {
+      "surface": "קֵצֶה",
+      "gloss": "fin"
+    },
+    {
+      "surface": "לְאֹצְרֹתָיו",
+      "gloss": "⟨à⟩ ses trésors",
+      "marks": "ses trésors"
+    },
+    {
+      "surface": "וַתִּמָּלֵא",
+      "gloss": "et fut rempli"
+    },
+    {
+      "surface": "אַרְצוֹ",
+      "gloss": "son pays"
+    },
+    {
+      "surface": "סוּסִים",
+      "gloss": "chevaux"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "et [il n'y] a pas"
+    },
+    {
+      "surface": "קֵצֶה",
+      "gloss": "fin"
+    },
+    {
+      "surface": "לְמַרְכְּבֹתָיו",
+      "gloss": "⟨à⟩ ses chars",
+      "marks": "ses chars"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:14.994498122Z",
+  "model": "glm-4.5"
+}

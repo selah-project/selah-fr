@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Pour ouvrir ⟨des⟩ yeux aveugles, pour faire sortir ⟨un⟩ prisonnier ⟨du⟩ lieu de détention, ⟨les⟩ habitants des ténèbres ⟨de la⟩ maison de prison.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "pour ouvrir"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "yeux"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "aveugles"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "pour faire sortir"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "du lieu de détention"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "prisonnier"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "de prison"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "habitants"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "des ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:13.120136762Z",
+  "model": "glm-4.5"
+}

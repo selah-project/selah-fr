@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et il prit ⟨את⟩ son mashal, et dit : Malheur ! qui vivra quand El ⟨את⟩ fera ?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Et il prit"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "⟨את⟩ son mashal",
+      "marks": "son mashal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Malheur !"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "vivra"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "quand El ⟨את⟩ fera",
+      "marks": "quand El ⟨את⟩ fera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-04T09:20:11.933411825Z",
+  "model": "glm-4.5"
+}

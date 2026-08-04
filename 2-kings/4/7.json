@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et elle vint, et elle l'annonça à l'homme de l'Élohim, et il dit : Va, vends ⟨את⟩ l'huile, et rembourse ⟨את⟩ tes créanciers, et toi et tes fils, vivez du reste.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Et elle vint"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "et elle l'annonça"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à l'homme"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de l'Élohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Va"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "vends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'huile"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "et rembourse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes créanciers"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "tes créanciers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "tes fils"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "vivez"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "du reste"
+    }
+  ],
+  "timestamp": "2026-08-04T14:11:40.425984985Z",
+  "model": "glm-4.5"
+}

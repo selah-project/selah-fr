@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Prêtez l'oreille, cieux, et je parlerai, et que la terre entende les paroles de ma bouche",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Prêtez l'oreille"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "et je parlerai"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "et que ⟨elle⟩ entende"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de ma bouche"
+    }
+  ],
+  "timestamp": "2026-08-04T10:46:25.283641605Z",
+  "model": "glm-4.5"
+}

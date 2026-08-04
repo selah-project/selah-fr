@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et si le taureau d'un homme percute ⟨את⟩ le taureau de son prochain et qu'il meure, qu'ils vendent ⟨את⟩ le taureau vivant et qu'ils partagent ⟨את⟩ son argent, et aussi le mort, qu'ils le partagent.",
+  "tokens": [
+    {
+      "surface": "וְכִֽי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "יִגֹּ֧ף",
+      "gloss": "percute"
+    },
+    {
+      "surface": "שֽׁוֹר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "אִ֛ישׁ",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau de son prochain"
+    },
+    {
+      "surface": "שׁ֥וֹר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "רֵעֵ֖הוּ",
+      "gloss": "de son prochain"
+    },
+    {
+      "surface": "וָמֵ֑ת",
+      "gloss": "et qu'il meure"
+    },
+    {
+      "surface": "וּמָ֨כְר֜וּ",
+      "gloss": "qu'ils vendent"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau vivant"
+    },
+    {
+      "surface": "הַשּׁ֤וֹר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "הַחַי֙",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "וְחָצ֣וּ",
+      "gloss": "et qu'ils partagent"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son argent"
+    },
+    {
+      "surface": "כַּסְפּ֔וֹ",
+      "gloss": "son argent"
+    },
+    {
+      "surface": "וְגַ֥ם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le mort"
+    },
+    {
+      "surface": "הַמֵּ֖ת",
+      "gloss": "le mort"
+    },
+    {
+      "surface": "יֶֽחֱצֽוּן",
+      "gloss": "qu'ils le partagent"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:48.730169363Z",
+  "model": "glm-4.5"
+}

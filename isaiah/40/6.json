@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Une voix dit : Crie ! et il dit : Que crierai-je ? Toute chair ⟨est⟩ de l'herbe, et tout son hessed ⟨est⟩ comme la fleur des champs.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Une voix"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "קרא",
+      "gloss": ": Crie !"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "crierai-je ?"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Toute"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "⟨est⟩ de l'herbe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "⟨est⟩ comme la fleur"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des champs"
+    }
+  ],
+  "timestamp": "2026-08-04T15:35:03.317300869Z",
+  "model": "glm-4.5"
+}

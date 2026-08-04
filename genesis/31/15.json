@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Ne ⟨sont⟩-nous pas comptées pour lui comme des étrangères ? Car il nous a vendues, et il a même dévoré ⟨את⟩ notre argent.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "étrangères"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "comptées"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "il nous a vendues"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "et il a dévoré"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "dévorer (inf.)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre argent"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "notre argent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:31.001368613Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et vous ne fûtes pas disposés à monter et vous vous révoltâtes contre ⟨את⟩ la parole de YHWH votre Élohim",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "fûtes pas disposés"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "à monter"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "et vous vous révoltâtes contre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T09:49:15.125076493Z",
+  "model": "glm-4.5"
+}

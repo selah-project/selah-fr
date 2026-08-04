@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et ses serviteurs se levèrent et formèrent une conjuration et frappèrent ⟨את⟩ Yoash ⟨à⟩ la maison de Millo, ⟨qui⟩ descend vers Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Et se levèrent"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "et formèrent une conjuration"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "conjuration"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et frappèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison de"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "⟨qui⟩ descend"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "vers Silla"
+    }
+  ],
+  "timestamp": "2026-08-04T14:25:51.087620509Z",
+  "model": "glm-4.5"
+}

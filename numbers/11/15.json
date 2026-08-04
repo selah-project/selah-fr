@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 11:15",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et si c’est ainsi que tu agis ⟨את⟩ envers moi, fais-moi mourir, je te prie, si j’ai trouvé grâce à tes yeux, et que je ne voie pas ⟨mon⟩ malheur.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "c’est ainsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "envers moi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tu agis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "envers moi"
+    },
+    {
+      "surface": "הרגני",
+      "gloss": "fais-moi mourir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "fais [mourir]"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "j’ai trouvé"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grâce"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "à tes yeux"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et que ne"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "je voie"
+    },
+    {
+      "surface": "ברעתי",
+      "gloss": "mon malheur"
+    }
+  ],
+  "timestamp": "2026-08-04T08:48:20.580360963Z",
+  "model": "glm-4.5"
+}

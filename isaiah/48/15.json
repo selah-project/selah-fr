@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Moi, moi, ⟨j'ai⟩ parlé ; même, je l'ai appelé ; je l'ai fait venir, et prospérera ⟨sa⟩ route.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "⟨j'ai⟩ parlé"
+    },
+    {
+      "surface": "אף",
+      "gloss": "même"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "je l'ai appelé"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "je l'ai fait venir"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "et prospérera"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "⟨sa⟩ route"
+    }
+  ],
+  "timestamp": "2026-08-04T15:44:10.996722429Z",
+  "model": "glm-4.5"
+}

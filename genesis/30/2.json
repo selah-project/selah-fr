@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et la colère de Jacob s'enflamma contre Rachel et il dit : ⟨suis⟩-je à la place d'Élohim qui a retenu de toi le fruit du ventre ?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Et la colère de ... s'enflamma"
+    },
+    {
+      "surface": "אף",
+      "gloss": "colère"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "contre Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "à la place"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨suis⟩-je"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "a retenu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "le fruit"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "du ventre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:38:39.734332495Z",
+  "model": "glm-4.5"
+}

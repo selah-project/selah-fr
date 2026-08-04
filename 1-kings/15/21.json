@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et il arriva, lors de l'audition de Baasha, qu'il cessa de bâtir ⟨את⟩ la Ramah et il séjourna à Tirça",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et il arriva"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lors de l'audition"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "de Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "qu'il cessa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "de bâtir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "la Ramah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il séjourna"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "à Tirça"
+    }
+  ],
+  "timestamp": "2026-08-04T13:54:18.696565224Z",
+  "model": "glm-4.5"
+}

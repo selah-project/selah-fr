@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il appela Moïse et Aaron la nuit et il dit : Levez-vous, sortez du milieu de mon peuple, vous et les fils d'Israël, et allez, servez ⟨את⟩ YHWH selon votre parole",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et il appela"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Levez-vous"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "sortez"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "du milieu de"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "גם",
+      "gloss": "et"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "et allez"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "selon votre parole"
+    }
+  ],
+  "timestamp": "2026-08-04T06:28:27.026353770Z",
+  "model": "glm-4.5"
+}

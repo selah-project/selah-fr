@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et tu oindras avec lui ⟨את⟩ la tente d'assignation et ⟨את⟩ l'arche du témoignage",
+  "tokens": [
+    {
+      "surface": "וּמָשַׁחְתָּ֥",
+      "gloss": "Et tu oindras"
+    },
+    {
+      "surface": "ב֖וֹ",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la tente d'assignation"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'arche du témoignage"
+    },
+    {
+      "surface": "אֲר֥וֹן",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "הָעֵדֻֽת",
+      "gloss": "du témoignage"
+    }
+  ],
+  "timestamp": "2026-08-04T07:01:43.808087405Z",
+  "model": "glm-4.5"
+}

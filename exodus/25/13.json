@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et tu feras les barres des bois de shittim et tu les plaqueras ⟨את⟩ d'or",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "les barres"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "des bois"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "et tu les plaqueras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "d'or"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "or"
+    }
+  ],
+  "timestamp": "2026-08-04T06:49:30.175415375Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et le peuple dit à Josué : Non, car YHWH nous servirons.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josué"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "nous servirons"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:37.776473458Z",
+  "model": "glm-4.5"
+}

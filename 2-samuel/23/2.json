@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Le Rouah de YHWH a parlé par moi, et sa parole ⟨est⟩ sur ma langue.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Rouah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "בי",
+      "gloss": "par moi"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "et sa parole"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ma langue"
+    }
+  ],
+  "timestamp": "2026-08-04T13:25:39.194163405Z",
+  "model": "glm-4.5"
+}

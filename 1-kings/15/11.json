@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et Asa fit ⟨ce qui est⟩ droit aux yeux de YHWH, comme David, son père",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "⟨ce qui est⟩ droit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "comme David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    }
+  ],
+  "timestamp": "2026-08-04T13:53:51.514809188Z",
+  "model": "glm-4.5"
+}

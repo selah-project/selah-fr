@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et un homme le trouva, et voici, il errait ⟨dans⟩ le champ, et l'homme l'interrogea en disant : que cherches-tu ?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "Et un homme le trouva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "il errait"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "⟨dans⟩ le champ"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "et l'homme l'interrogea"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "cherches-tu"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:52.406681719Z",
+  "model": "glm-4.5"
+}

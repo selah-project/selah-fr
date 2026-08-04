@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Pour les fils de Joseph, pour Éphraïm, Elishama, fils d'Ammihud, pour Manassé, Gamliel, fils de Pedahçour",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Pour les fils de"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "pour Éphraïm"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "pour Manassé"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahçour"
+    }
+  ],
+  "timestamp": "2026-08-04T08:21:32.694958204Z",
+  "model": "glm-4.5"
+}

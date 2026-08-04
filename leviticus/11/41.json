@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et tout ⟨le⟩ reptile qui rampe sur ⟨la⟩ terre, elle est une abomination, elle ne sera pas mangée.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et tout"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "⟨le⟩ reptile"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "qui rampe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle est"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sera pas mangée"
+    }
+  ],
+  "timestamp": "2026-08-04T07:41:55.231704111Z",
+  "model": "glm-4.5"
+}

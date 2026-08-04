@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Jaakob déroba ⟨את⟩ le cœur de Laban l'Araméen, pour ne pas lui ⟨avoir⟩ dit qu'il fuyait",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "déroba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cœur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "de Laban"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "l'Araméen"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "⟨avoir⟩ dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "il fuyait"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:39.279567623Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 35:18",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Ou bien dans un instrument de bois à la main qui ⟨est⟩ mortel, il l'a frappé et il est mort, meurtrier il est, par mort il mourra, le meurtrier.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ou bien"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "dans un instrument"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "de bois"
+    },
+    {
+      "surface": "יד",
+      "gloss": "à la main"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "⟨est⟩ mortel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dans ⟨celui-ci⟩"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "il l'a frappé"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il est mort"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "meurtrier"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "מות",
+      "gloss": "par mort"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "il mourra"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "le meurtrier"
+    }
+  ],
+  "timestamp": "2026-08-04T09:46:21.237693361Z",
+  "model": "glm-4.5"
+}

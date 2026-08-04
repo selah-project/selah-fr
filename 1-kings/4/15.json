@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Achimaats était en Nephtali, lui aussi prit ⟨את⟩ Bashemath fille de Shelomo pour femme",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "en Nephtali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lui aussi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashemath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "pour femme"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:33.225013026Z",
+  "model": "glm-4.5"
+}

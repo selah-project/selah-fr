@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et le prêtre prendra la corbeille de ta main et la déposera devant l'autel de YHWH ton Élohim",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Et prendra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "⟨la⟩ corbeille"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "de ta main"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "et la déposera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T10:34:24.075113799Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Si tu sors ⟨en⟩ campement contre tes ennemis, alors garde-toi de toute chose mauvaise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tu sors"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "⟨en⟩ campement"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "alors garde-toi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chose"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvaise"
+    }
+  ],
+  "timestamp": "2026-08-04T10:28:46.302098437Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Bethsabé entra auprès du roi dans la chambre ; et le roi ⟨était⟩ très vieux, et Abishag la Shunammite servait ⟨את⟩ le roi",
+  "tokens": [
+    {
+      "surface": "וַתָּבֹ֨א",
+      "gloss": "entra"
+    },
+    {
+      "surface": "בַת",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "שֶׁ֤בַע",
+      "gloss": "sabé"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "auprès de"
+    },
+    {
+      "surface": "הַמֶּ֨לֶךְ֙",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "הַחַ֔דְרָה",
+      "gloss": "dans la chambre"
+    },
+    {
+      "surface": "וְהַמֶּ֖לֶךְ",
+      "gloss": "et le roi"
+    },
+    {
+      "surface": "זָקֵ֣ן",
+      "gloss": "⟨était⟩ très vieux"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "très"
+    },
+    {
+      "surface": "וַֽאֲבִישַׁג֙",
+      "gloss": "et Abishag"
+    },
+    {
+      "surface": "הַשּׁ֣וּנַמִּ֔ית",
+      "gloss": "la Shunammite"
+    },
+    {
+      "surface": "מְשָׁרַ֖ת",
+      "gloss": "servait"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:29:20.572307082Z",
+  "model": "glm-4.5"
+}

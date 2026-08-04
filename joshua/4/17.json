@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Josué commanda ⟨את⟩ les prêtres en disant : « Montez du Jourdain ».",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et commanda"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josué"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les prêtres"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Montez"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jourdain"
+    }
+  ],
+  "timestamp": "2026-08-04T10:53:07.946060262Z",
+  "model": "glm-4.5"
+}

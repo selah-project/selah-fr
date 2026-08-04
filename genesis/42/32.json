@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Nous ⟨sommes⟩ douze frères, fils de notre père ; l'un n'est pas, et le plus petit est aujourd'hui avec ⟨את⟩ notre père dans le pays de Canaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "douze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "Nous"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frères"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "de notre père"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "et le plus petit"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre père"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "notre père"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:42.994939327Z",
+  "model": "glm-4.5"
+}

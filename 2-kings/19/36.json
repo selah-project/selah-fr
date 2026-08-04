@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "2-kings 19:36",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Sancherib, roi d'Assur, ⟨se⟩ mit en marche, ⟨et⟩ s'en alla, ⟨et⟩ retourna ⟨et⟩ demeura à Ninive.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "se mit en marche"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "s'en alla"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "retourna"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "demeura"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "à Ninive"
+    }
+  ],
+  "timestamp": "2026-08-04T14:38:08.005911341Z",
+  "model": "glm-4.5"
+}

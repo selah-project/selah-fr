@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Fils de trente ans ⟨était⟩ David ⟨à⟩ son règne, quarante ans il régna.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Fils"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "⟨à⟩ son règne"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "il régna"
+    }
+  ],
+  "timestamp": "2026-08-04T12:57:05.997108539Z",
+  "model": "glm-4.5"
+}

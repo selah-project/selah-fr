@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Seulement aux péchés de Yarobam fils de Nebat qui avait fait fauter ⟨את⟩ Israël ⟨il⟩ adhéra, ne se détourna pas d'elle.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "aux péchés"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "de Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "de Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "avait fait fauter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "⟨il⟩ adhéra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "se détourna pas"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "d'elle"
+    }
+  ],
+  "timestamp": "2026-08-04T14:09:02.127179464Z",
+  "model": "glm-4.5"
+}

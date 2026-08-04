@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Aram de devant et les Philistins de derrière ; et ils dévorent ⟨את⟩ Israël de toute bouche. Avec tout cela, sa colère ne se détourne pas, et encore sa main est tendue.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "et les Philistins"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "de derrière"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "et ils dévorent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bouche"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Avec tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se détourne"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "pas [sa colère]"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "et encore"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "est tendue"
+    }
+  ],
+  "timestamp": "2026-08-04T14:57:02.548601907Z",
+  "model": "glm-4.5"
+}

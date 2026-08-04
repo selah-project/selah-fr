@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Manque-t-il d'insensés que vous ayez amené ⟨את⟩ celui-ci pour déranger sur moi ? Celui-ci entrera-t-il dans ma maison ?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Manque-t-il"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "d'insensés"
+    },
+    {
+      "surface": "אני",
+      "gloss": "que"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vous ayez"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "amené"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui-ci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "pour déranger"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Celui-ci"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrera-t-il"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ma maison"
+    }
+  ],
+  "timestamp": "2026-08-04T12:38:19.431702657Z",
+  "model": "glm-4.5"
+}

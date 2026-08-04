@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Pain, vous n'avez ⟨pas⟩ mangé, et vin et boisson forte, vous n'avez ⟨pas⟩ bu, afin que vous sachiez que moi, YHWH, ⟨suis⟩ votre Élohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Pain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "vous avez mangé"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "et vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "et boisson forte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "vous avez bu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "vous sachiez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T10:40:10.977100683Z",
+  "model": "glm-4.5"
+}

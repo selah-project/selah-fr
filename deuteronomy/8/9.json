@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "un pays où tu mangeras ⟨le⟩ pain sans manque, tu ne manqueras de rien ⟨en lui⟩ ; un pays dont ⟨ses⟩ pierres ⟨sont⟩ du fer, et de ses montagnes tu creuseras ⟨du⟩ cuivre",
+  "tokens": [
+    {
+      "surface": "אֶ֗רֶץ",
+      "gloss": "un pays"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "où"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "sans"
+    },
+    {
+      "surface": "בְמִסְכֵּנֻת֙",
+      "gloss": "manque"
+    },
+    {
+      "surface": "תֹּֽאכַל",
+      "gloss": "tu mangeras"
+    },
+    {
+      "surface": "בָּ֣הּ",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "לֶ֔חֶם",
+      "gloss": "pain"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תֶחְסַ֥ר",
+      "gloss": "manqueras"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "rien"
+    },
+    {
+      "surface": "בָּ֑הּ",
+      "gloss": "⟨en lui⟩"
+    },
+    {
+      "surface": "אֶ֚רֶץ",
+      "gloss": "un pays"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "אֲבָנֶ֣יהָ",
+      "gloss": "⟨ses⟩ pierres"
+    },
+    {
+      "surface": "בַרְזֶ֔ל",
+      "gloss": "⟨sont⟩ du fer"
+    },
+    {
+      "surface": "וּמֵהֲרָרֶ֖יהָ",
+      "gloss": "et de ses montagnes"
+    },
+    {
+      "surface": "תַּחְצֹ֥ב",
+      "gloss": "tu creuseras"
+    },
+    {
+      "surface": "נְחֹֽשֶׁת",
+      "gloss": "⟨du⟩ cuivre"
+    }
+  ],
+  "timestamp": "2026-08-04T10:05:39.462054042Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Tu ne le mangeras pas ; tu le répandras sur la terre comme ⟨de l'⟩eau.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Tu ne ... pas"
+    },
+    {
+      "surface": "תֹּאכְלֶ֑נּוּ",
+      "gloss": "le mangeras"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "תִּשְׁפְּכֶ֖נּוּ",
+      "gloss": "tu le répandras"
+    },
+    {
+      "surface": "כַּמָּֽיִם",
+      "gloss": "comme ⟨de l'⟩eau"
+    }
+  ],
+  "timestamp": "2026-08-04T10:13:31.678273229Z",
+  "model": "glm-4.5"
+}

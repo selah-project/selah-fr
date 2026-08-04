@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH attachera à toi la pestilence ⟨את⟩ jusqu'à ce qu'elle t'ait consommé ⟨את⟩ de dessus ⟨la⟩ terre où ⟨tu⟩ entres pour la posséder.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "attachera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "הדבר (la pestilence)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la pestilence"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "elle t'ait consommé"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "מעל (de dessus)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de dessus"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "entres"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "pour la posséder"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:42.445127580Z",
+  "model": "glm-4.5"
+}

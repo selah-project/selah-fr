@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Athaliah entendit ⟨את⟩ la voix des coureurs ⟨et⟩ ⟨le⟩ peuple, et elle vint vers ⟨le⟩ peuple, ⟨dans⟩ la maison de YHWH.",
+  "tokens": [
+    {
+      "surface": "וַתִּשְׁמַ֣ע",
+      "gloss": "Et entendit"
+    },
+    {
+      "surface": "עֲתַלְיָ֔ה",
+      "gloss": "Athaliah"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la voix"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "הָֽרָצִ֖ין",
+      "gloss": "des coureurs"
+    },
+    {
+      "surface": "הָעָ֑ם",
+      "gloss": "⟨et⟩ ⟨le⟩ peuple"
+    },
+    {
+      "surface": "וַתָּבֹ֥א",
+      "gloss": "et elle vint"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "⟨dans⟩ la maison"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T14:24:29.486330798Z",
+  "model": "glm-4.5"
+}

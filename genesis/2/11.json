@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Le nom de ⟨l'⟩un est Pishon, c'est lui qui entoure ⟨את⟩ toute la terre de Havila, où est l'or",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Le nom"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ⟨l'⟩un"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est lui"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "qui entoure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la terre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "de Havila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "שם",
+      "gloss": "est"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'or"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:29.326200180Z",
+  "model": "glm-4.5"
+}

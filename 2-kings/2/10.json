@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et il dit : Tu as demandé une chose dure : si tu vois ⟨את⟩ être pris d'avec toi, il en sera ainsi pour toi ; et si non, cela ne sera pas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "Tu as rendu dur"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "de demander"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu vois"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "être pris"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "être pris"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "d'avec toi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qu'il soit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "non"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera pas"
+    }
+  ],
+  "timestamp": "2026-08-04T14:07:35.987878919Z",
+  "model": "glm-4.5"
+}

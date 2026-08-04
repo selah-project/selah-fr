@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Fais sortir ⟨le⟩ peuple aveugle, bien qu'il ait des yeux, et ⟨les⟩ sourds, bien qu'ils aient des oreilles.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Fais sortir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aveugle"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "bien qu'il ait des yeux"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bien qu'il ait"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "et ⟨les⟩ sourds"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "bien qu'ils aient des oreilles"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bien qu'ils aient"
+    }
+  ],
+  "timestamp": "2026-08-04T15:38:26.892116676Z",
+  "model": "glm-4.5"
+}

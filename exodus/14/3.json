@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et Pharaon dira des fils d'Israël : « Ils sont ⟨en⟩ confusion dans le pays, le désert a fermé ⟨sur⟩ eux ».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et dira"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "des fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "ils sont en confusion"
+    },
+    {
+      "surface": "הם",
+      "gloss": "[eux]"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "a fermé"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨sur⟩ eux"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "le désert"
+    }
+  ],
+  "timestamp": "2026-08-04T06:31:06.641687406Z",
+  "model": "glm-4.5"
+}

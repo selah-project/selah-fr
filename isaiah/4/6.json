@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et il y aura un soukka pour ombre le jour de la chaleur, et pour refuge et pour cachette contre l'orage et contre la pluie.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Et un soukka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "il y aura"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "pour ombre"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de la chaleur"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "et pour refuge"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "et pour cachette"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "contre l'orage"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "et contre la pluie"
+    }
+  ],
+  "timestamp": "2026-08-04T14:51:34.091381125Z",
+  "model": "glm-4.5"
+}

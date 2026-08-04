@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "De leur chair vous ne mangerez pas et de leur carcasse vous ne toucherez pas, impure ils ⟨sont⟩ pour vous.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "De leur chair"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne ... pas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "et de leur carcasse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne ... pas"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toucherez"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "impure"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ils"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:17.229614684Z",
+  "model": "glm-4.5"
+}

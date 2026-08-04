@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et il commanda Mosheh ⟨את⟩ les lévites, porteurs de ⟨את⟩ l'arche de l'alliance de YHWH, en disant",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et il commanda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les lévites"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "les lévites"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "porteurs"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de l'arche"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "de l'alliance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T10:43:07.470203733Z",
+  "model": "glm-4.5"
+}

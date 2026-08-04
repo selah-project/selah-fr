@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et ⟨le⟩ roi de Babel les frappa et les mit à mort à Riblah dans ⟨le⟩ pays de Hamath, et Juda fut exilé de dessus ⟨sa⟩ terre.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Et ⟨le⟩ ... frappa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babel"
+    },
+    {
+      "surface": "ומיתם",
+      "gloss": "et les mit à mort"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "à Riblah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "de Hamath"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "et Juda fut exilé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": ""
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de dessus"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "⟨sa⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:05.547519739Z",
+  "model": "glm-4.5"
+}

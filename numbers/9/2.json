@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et feront les fils d'Israël ⟨את⟩ la Pâque en son temps fixe",
+  "tokens": [
+    {
+      "surface": "וְיַעֲשׂ֧וּ",
+      "gloss": "Et feront"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֛ל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la Pâque"
+    },
+    {
+      "surface": "הַפָּ֖סַח",
+      "gloss": "la Pâque"
+    },
+    {
+      "surface": "בְּמוֹעֲדֽוֹ",
+      "gloss": "en son temps fixe"
+    }
+  ],
+  "timestamp": "2026-08-04T08:41:21.553412484Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et tu prendras de la farine fine et tu en cuiras ⟨את⟩ douze pains, deux dixièmes ⟨seront⟩ ⟨le⟩ pain ⟨le⟩ un",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Et tu prendras"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de la farine fine"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "et tu en cuiras"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "douze pains"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "douze"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "חלות",
+      "gloss": "pains"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux dixièmes"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": ""
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨seront⟩"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "⟨le⟩ pain"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "⟨le⟩ un"
+    }
+  ],
+  "timestamp": "2026-08-04T08:13:27.720281947Z",
+  "model": "glm-4.5"
+}

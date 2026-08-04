@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Sarah nia, en disant : je n'ai pas ri, car elle avait peur. Et il dit : non, car tu as ri.",
+  "tokens": [
+    {
+      "surface": "וַתְּכַחֵשׁ",
+      "gloss": "et nia"
+    },
+    {
+      "surface": "שָׂרָה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "je n'ai pas"
+    },
+    {
+      "surface": "צָחַקְתִּי",
+      "gloss": "ri"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יָרֵאָה",
+      "gloss": "elle avait peur"
+    },
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "non"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "צָחָקְתְּ",
+      "gloss": "tu as ri"
+    }
+  ],
+  "timestamp": "2026-08-04T05:23:29.374710424Z",
+  "model": "glm-4.5"
+}

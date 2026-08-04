@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et le cohen verra ⟨את⟩ la plaie au septième jour, et voici, ⟨la⟩ lésion ne s'est pas étendue, et il n'y a pas en elle de poil jaune, et l'aspect de la lésion n'est pas plus profond que ⟨la⟩ peau",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "et verra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la plaie"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "le septième"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "s'est étendue"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "la lésion"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poil"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "jaune"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "et l'aspect"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "de la lésion"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "plus profond"
+    },
+    {
+      "surface": "מן",
+      "gloss": "que"
+    },
+    {
+      "surface": "העור",
+      "gloss": "la peau"
+    }
+  ],
+  "timestamp": "2026-08-04T07:46:19.521358082Z",
+  "model": "glm-4.5"
+}

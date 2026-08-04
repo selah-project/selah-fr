@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et tu donneras ⟨את⟩ les Lévites à Aaron et à ses fils, donnés donnés ils ⟨sont⟩ à lui, de ⟨la part⟩ des fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Et tu donneras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Lévites"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "les Lévites"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "à Aaron"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "et à ses fils"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "donnés"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "donnés"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la part de"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:25:40.537505906Z",
+  "model": "glm-4.5"
+}

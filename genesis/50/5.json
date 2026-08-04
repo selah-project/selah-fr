@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Mon père m'a fait jurer en disant : Voici, je meurs ; dans ma sépulture que j'ai creusée pour moi dans le pays de Canaan, là tu m'enterreras. Et maintenant, que je monte, je te prie, et que j'enterre ⟨את⟩ mon père, et je reviendrai.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Mon père"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "m'a fait jurer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meurs"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "dans ma sépulture"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "j'ai creusée"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "tu m'enterreras"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "que je monte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "et que j'enterre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon père"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "et je reviendrai"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:21.117505142Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "C'est pourquoi un homme quittera ⟨את⟩ son père et ⟨את⟩ sa mère et s'attachera à sa femme, et ils deviendront une seule chair.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "quittera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa mère"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "et s'attachera"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "à sa femme"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "et ils deviendront"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "une seule chair"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T05:01:17.844061569Z",
+  "model": "glm-4.5"
+}

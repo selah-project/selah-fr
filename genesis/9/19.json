@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Ces trois ⟨sont⟩ les fils de Noé, et d'eux fut ⟨peuplée⟩ toute la terre.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Ces trois"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨sont⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "et d'eux"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "fut ⟨peuplée⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:09:12.500489849Z",
+  "model": "glm-4.5"
+}

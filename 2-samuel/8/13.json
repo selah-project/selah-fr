@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et David se fit un nom ⟨en⟩ revenant de frapper ⟨את⟩ Aram dans la vallée du Sel, dix-huit mille.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et [il] fit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "un nom"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "⟨en⟩ revenant"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "de frapper"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "dans la vallée"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "du Sel"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "dix-huit"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "[mille]"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    }
+  ],
+  "timestamp": "2026-08-04T13:03:07.247023313Z",
+  "model": "glm-4.5"
+}

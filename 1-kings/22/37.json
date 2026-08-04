@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et mourut le roi et on vint à Shomron et on enterra ⟨את⟩ le roi à Shomron",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "et on vint"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "à Shomron"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "et on enterra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "à Shomron"
+    }
+  ],
+  "timestamp": "2026-08-04T14:05:25.974650625Z",
+  "model": "glm-4.5"
+}

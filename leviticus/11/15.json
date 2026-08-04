@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "⟨את⟩ tout corbeau selon son espèce,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout corbeau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "corbeau"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:28.247418234Z",
+  "model": "glm-4.5"
+}

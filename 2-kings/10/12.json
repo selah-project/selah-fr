@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il se leva et vint et alla à ⟨le⟩ Samarie ; lui, ⟨est⟩ à la maison ⟨de⟩ la tonte des bergers sur ⟨la⟩ route",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et il se leva"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et vint"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et alla"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "à ⟨le⟩ Samarie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨est⟩ à la maison"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "⟨de⟩ la tonte"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "des bergers"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur ⟨la⟩ route"
+    }
+  ],
+  "timestamp": "2026-08-04T14:22:35.788892313Z",
+  "model": "glm-4.5"
+}

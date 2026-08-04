@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Vous ne ferez pas ainsi pour YHWH votre Élohim",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Vous ne ferez pas"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ferez"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T10:15:14.187643773Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Alors Abimelek alla à Thébets et il campa contre Thébets et ⟨il⟩ la prit",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Thébets"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "et il campa"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "contre Thébets"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "et ⟨il⟩ la prit"
+    }
+  ],
+  "timestamp": "2026-08-04T11:46:21.940374579Z",
+  "model": "glm-4.5"
+}

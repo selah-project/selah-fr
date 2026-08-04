@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et six ans tu sèmeras ⟨את⟩ ta terre et tu rassembleras ⟨את⟩ son rapport",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "et six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "tu sèmeras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta terre"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ta terre"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "et tu rassembleras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son rapport"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "son rapport"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:50.811549282Z",
+  "model": "glm-4.5"
+}

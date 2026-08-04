@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Levez-vous et montons la nuit et détruisons ses palais",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Levez-vous"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "et montons"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "et détruisons"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ses palais"
+    }
+  ],
+  "timestamp": "2026-08-04T16:12:07.666662288Z",
+  "model": "glm-4.5"
+}

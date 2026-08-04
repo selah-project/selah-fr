@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "C'est ⟨un⟩ délit-coupable : il s'est ⟨certainement⟩ rendu coupable envers YHWH.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "délit-coupable"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "il s'est rendu coupable"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "certainement"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "envers YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:31:56.871166716Z",
+  "model": "glm-4.5"
+}

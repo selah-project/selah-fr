@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Parle aux fils d'Israël et dis-leur : moi, je suis YHWH, votre Élohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "et dis-leur"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨à eux⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi, je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "suis YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:01:17.067017425Z",
+  "model": "glm-4.5"
+}

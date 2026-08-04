@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Tout homme, de la maison d'Israël, qui ⟨הוא⟩ sacrifie un bœuf ou un agneau ou une chèvre dans le camp, ou qui sacrifie ⟨את⟩ dehors le camp",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Tout homme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "[homme]"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "sacrifie"
+    },
+    {
+      "surface": "שור",
+      "gloss": "un bœuf"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "un agneau"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עז",
+      "gloss": "une chèvre"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "dans le camp"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "sacrifie"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "dehors"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "le camp"
+    }
+  ],
+  "timestamp": "2026-08-04T08:00:34.815508898Z",
+  "model": "glm-4.5"
+}

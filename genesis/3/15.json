@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et je mettrai inimitié entre toi et ⟨la⟩ femme, et entre ta semence et ⟨sa⟩ semence ; lui, il te meurtrira ⟨la⟩ tête, et toi, tu le meurtriras ⟨le⟩ talon.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "Et inimitié"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "je mettrai"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "entre toi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨la⟩ femme"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ta semence"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "⟨sa⟩ semence"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "il te meurtrira"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨la⟩ tête"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "tu le meurtriras"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨le⟩ talon"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:43.972974614Z",
+  "model": "glm-4.5"
+}

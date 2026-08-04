@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Tu n'opprimeras point ⟨את⟩ ton prochain et tu ne déroberas point ; le salaire d'un salarié ne passera pas la nuit avec toi jusqu'au matin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu n'… point"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "opprimeras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton prochain"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ton prochain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne… point"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "déroberas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tu n'… point"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ne passera pas la nuit"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "le salaire"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "d'un salarié"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "matin"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:56.136738135Z",
+  "model": "glm-4.5"
+}

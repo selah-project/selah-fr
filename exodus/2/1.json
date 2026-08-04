@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et alla un homme de la maison de Levi et prit ⟨את⟩ la fille de Levi",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fille de Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:12.999480968Z",
+  "model": "glm-4.5"
+}

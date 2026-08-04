@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et la guerre se poursuivit, et David sortit, et combattit les Philistins, et ⟨את⟩ frappa parmi eux une grande défaite, et ils s'enfuirent de devant sa face.",
+  "tokens": [
+    {
+      "surface": "וַתּ֥וֹסֶף",
+      "gloss": "Et se poursuivit"
+    },
+    {
+      "surface": "הַמִּלְחָמָ֖ה",
+      "gloss": "la guerre"
+    },
+    {
+      "surface": "לִֽהְי֑וֹת",
+      "gloss": "d'être"
+    },
+    {
+      "surface": "וַיֵּצֵ֨א",
+      "gloss": "et sortit"
+    },
+    {
+      "surface": "דָוִ֜ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וַיִּלָּ֣חֶם",
+      "gloss": "et combattit"
+    },
+    {
+      "surface": "בַּפְּלִשְׁתִּ֗ים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "וַיַּ֤ךְ",
+      "gloss": "et ⟨את⟩ frappa",
+      "marks": "une grande défaite"
+    },
+    {
+      "surface": "בָּהֶם֙",
+      "gloss": "parmi eux"
+    },
+    {
+      "surface": "מַכָּ֣ה",
+      "gloss": "une défaite"
+    },
+    {
+      "surface": "גְדוֹלָ֔ה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "וַיָּנֻ֖סוּ",
+      "gloss": "et ils s'enfuirent"
+    },
+    {
+      "surface": "מִפָּנָֽיו",
+      "gloss": "de devant sa face"
+    }
+  ],
+  "timestamp": "2026-08-04T12:35:06.233616033Z",
+  "model": "glm-4.5"
+}

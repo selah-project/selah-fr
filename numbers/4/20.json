@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et ils n'entreront pas pour voir ⟨את⟩ le sanctuaire enveloppé, et ils mourront",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne... pas"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entreront"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "enveloppé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sanctuaire"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "le sanctuaire"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "et ils mourront"
+    }
+  ],
+  "timestamp": "2026-08-04T08:28:08.329473805Z",
+  "model": "glm-4.5"
+}

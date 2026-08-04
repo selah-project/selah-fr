@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et il leur dit : Non, mais c'est pour voir la nudité ⟨du⟩ pays que vous êtes venus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudité"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "vous êtes venus"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:20.669315178Z",
+  "model": "glm-4.5"
+}

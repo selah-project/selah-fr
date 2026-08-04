@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et David dit à Uriyah : descends dans ta maison et lave tes pieds. Et Uriyah sortit de la maison du roi, et ⟨un⟩ cadeau du roi sortit après lui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "à Uriyah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "descends"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "dans ta maison"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "et lave"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "tes pieds"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "Et sortit"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "et sortit"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "après lui"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "⟨un⟩ cadeau"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:05:43.893036146Z",
+  "model": "glm-4.5"
+}

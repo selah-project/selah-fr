@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et tu prendras ⟨את⟩ deux pierres de shoham, et tu graveras sur elles les noms des fils d'Israël",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Et tu prendras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deux pierres de shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "deux"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pierres de"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "et tu graveras"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur elles"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "les noms"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T06:55:34.344469503Z",
+  "model": "glm-4.5"
+}

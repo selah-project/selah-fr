@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Or tout étranger ne mangera pas le sanctuaire : ⟨le⟩ résident ⟨du⟩ prêtre et ⟨le⟩ salarié ne mangeront pas le sanctuaire",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Or tout"
+    },
+    {
+      "surface": "זר",
+      "gloss": "étranger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "le sanctuaire"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "⟨le⟩ résident"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "⟨du⟩ prêtre"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "et ⟨le⟩ salarié"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangeront"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "le sanctuaire"
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:58.221425815Z",
+  "model": "glm-4.5"
+}

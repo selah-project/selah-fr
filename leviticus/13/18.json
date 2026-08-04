@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et la chair, s'il y a ⟨dans⟩ sa peau une brûlure et qu'elle soit guérie",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "Et la chair"
+    },
+    {
+      "surface": "כי",
+      "gloss": "s'il y a"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dans⟩"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "sa peau"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "une brûlure"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "et qu'elle soit guérie"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:49.008794227Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Lavez-vous, purifiez-vous, ôtez le mal de vos actions de devant ⟨mes⟩ yeux, cessez de faire le mal",
+  "tokens": [
+    {
+      "surface": "רַחֲצוּ֙",
+      "gloss": "Lavez-vous"
+    },
+    {
+      "surface": "הִזַּכּ֔וּ",
+      "gloss": "purifiez-vous"
+    },
+    {
+      "surface": "הָסִ֛ירוּ",
+      "gloss": "ôtez"
+    },
+    {
+      "surface": "רֹ֥עַ",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "מַעַלְלֵיכֶ֖ם",
+      "gloss": "de vos actions"
+    },
+    {
+      "surface": "מִנֶּ֣גֶד",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "עֵינָ֑י",
+      "gloss": "⟨mes⟩ yeux"
+    },
+    {
+      "surface": "חִדְל֖וּ",
+      "gloss": "cessez"
+    },
+    {
+      "surface": "הָרֵֽעַ",
+      "gloss": "de faire le mal"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:55.316821640Z",
+  "model": "glm-4.5"
+}

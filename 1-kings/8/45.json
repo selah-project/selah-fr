@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et tu entendras ⟨dans⟩ les cieux ⟨את⟩ leur prière et ⟨את⟩ leur supplication, et tu feras ⟨le⟩ jugement ⟨d'eux⟩",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "et tu entendras"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur prière"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "leur prière"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leur supplication"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "leur supplication"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "le jugement"
+    }
+  ],
+  "timestamp": "2026-08-04T13:42:32.677408487Z",
+  "model": "glm-4.5"
+}

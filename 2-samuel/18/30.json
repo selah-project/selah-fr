@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et le roi dit : détourne-toi, tiens-toi ici. Et il se détourna et se tint ⟨là⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "סב",
+      "gloss": "détourne-toi"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "tiens-toi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "et il se détourna"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "et se tint"
+    }
+  ],
+  "timestamp": "2026-08-04T13:18:44.171837522Z",
+  "model": "glm-4.5"
+}

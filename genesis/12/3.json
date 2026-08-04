@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et je bénirai ⟨ceux⟩ qui te bénissent, et ⟨celui⟩ qui te maudit, je le maudirai ; et seront bénies en toi toutes les familles de la terre.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "et je bénirai"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "⟨ceux⟩ qui te bénissent"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "et ⟨celui⟩ qui te maudit"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "je le maudirai"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "et seront bénies"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "les familles"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:18.538412073Z",
+  "model": "glm-4.5"
+}

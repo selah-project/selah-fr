@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et Juda fut frappé devant Israël, et ils s'enfuirent, chaque homme vers sa tente.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "Et fut frappé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "et ils s'enfuirent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chaque homme"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "vers sa tente"
+    }
+  ],
+  "timestamp": "2026-08-04T14:27:30.982163742Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et le peuple eut soif là ⟨pour⟩ l'eau et le peuple murmura contre Moïse et dit : pourquoi ⟨est⟩ ceci que tu nous as fait monter d'Égypte pour me faire mourir, moi, et ⟨את⟩ mes fils, et ⟨את⟩ mon bétail, par la soif",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "et eut soif"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "למים",
+      "gloss": "⟨pour⟩ l'eau"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "et murmura"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨est⟩ ceci"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "que tu nous as fait monter"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "pour me faire mourir"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mes fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mes fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mon bétail"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "mon bétail"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "par la soif"
+    }
+  ],
+  "timestamp": "2026-08-04T06:37:43.081485483Z",
+  "model": "glm-4.5"
+}

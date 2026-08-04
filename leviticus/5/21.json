@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Si une *nefesh* pèche et ⟨commet⟩ une infidélité envers YHWH, et ⟨agit⟩ avec fausseté envers son compagnon dans ⟨un⟩ dépôt, ou dans ⟨une⟩ mise en gage, ou par violence, ou ⟨opprime⟩ ⟨את⟩ son compagnon",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Si une *nefesh*"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "pèche"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "et ⟨commet⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "une infidélité"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "envers YHWH"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "et ⟨agit⟩ avec fausseté"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "envers son compagnon"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "dans ⟨un⟩ dépôt"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "dans ⟨une⟩ mise en gage"
+    },
+    {
+      "surface": "יד",
+      "gloss": "main"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "par violence"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "⟨opprime⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son compagnon"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "son compagnon"
+    }
+  ],
+  "timestamp": "2026-08-04T07:33:05.118883408Z",
+  "model": "glm-4.5"
+}

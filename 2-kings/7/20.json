@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et il en fut ainsi pour lui ; et le peuple le piétina ⟨את⟩ dans la porte, et il mourut.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il en fut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "et piétinèrent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "dans la porte"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il mourut"
+    }
+  ],
+  "timestamp": "2026-08-04T14:16:07.987298392Z",
+  "model": "glm-4.5"
+}

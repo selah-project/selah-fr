@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Élohim vit ⟨את⟩ la terre, et voici, ⟨elle était⟩ corrompue, car toute chair avait corrompu ⟨את⟩ sa voie sur la terre.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "corrompue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "avait corrompu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa voie"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa voie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:05:38.514193964Z",
+  "model": "glm-4.5"
+}

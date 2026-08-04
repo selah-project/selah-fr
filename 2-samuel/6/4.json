@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 6:4",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ils le portèrent depuis la maison d'Abinadab qui ⟨est⟩ à Guibéa, avec ⟨את⟩ l'arche de l'Élohim, et Achio marchait devant l'arche.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Et ils le portèrent"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "depuis la maison"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "d'Abinadab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "⟨est⟩ à Guibéa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨את⟩ l'arche",
+      "marks": "l'arche de l'Élohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de l'Élohim"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "et Achio"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "marchait"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l'arche"
+    }
+  ],
+  "timestamp": "2026-08-04T12:58:15.465602219Z",
+  "model": "glm-4.5"
+}

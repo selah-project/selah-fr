@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et vous démolirez ⟨את⟩ leurs autels et vous briserez ⟨את⟩ leurs stèles et leurs ashéras vous les brûlerez ⟨au⟩ feu et les images taillées de leurs dieux vous les abattrez et vous ferez disparaître ⟨את⟩ leurs noms de ce lieu",
+  "tokens": [
+    {
+      "surface": "וְנִתַּצְתֶּ֣ם",
+      "gloss": "et vous démolirez"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs autels"
+    },
+    {
+      "surface": "מִזְבּחֹתָ֗ם",
+      "gloss": "leurs autels"
+    },
+    {
+      "surface": "וְשִׁבַּרְתֶּם֙",
+      "gloss": "et vous briserez"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs stèles"
+    },
+    {
+      "surface": "מַצֵּ֣בֹתָ֔ם",
+      "gloss": "leurs stèles"
+    },
+    {
+      "surface": "וַאֲשֵֽׁרֵיהֶם֙",
+      "gloss": "et leurs ashéras"
+    },
+    {
+      "surface": "תִּשְׂרְפ֣וּן",
+      "gloss": "vous les brûlerez"
+    },
+    {
+      "surface": "בָּאֵ֔שׁ",
+      "gloss": "⟨au⟩ feu"
+    },
+    {
+      "surface": "וּפְסִילֵ֥י",
+      "gloss": "et les images taillées de"
+    },
+    {
+      "surface": "אֱלֹֽהֵיהֶ֖ם",
+      "gloss": "leurs dieux"
+    },
+    {
+      "surface": "תְּגַדֵּע֑וּן",
+      "gloss": "vous les abattrez"
+    },
+    {
+      "surface": "וְאִבַּדְתֶּ֣ם",
+      "gloss": "et vous ferez disparaître"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs noms"
+    },
+    {
+      "surface": "שְׁמָ֔ם",
+      "gloss": "leurs noms"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הַמָּק֖וֹם",
+      "gloss": "ce lieu"
+    },
+    {
+      "surface": "הַהֽוּא",
+      "gloss": "⟨le⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T10:14:27.323393215Z",
+  "model": "glm-4.5"
+}

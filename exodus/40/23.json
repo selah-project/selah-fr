@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et il arrangea sur elle une rangée de pain devant YHWH, comme YHWH avait commandé ⟨את⟩ Moshé.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "et il arrangea"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "une rangée"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "timestamp": "2026-08-04T07:23:21.251766392Z",
+  "model": "glm-4.5"
+}

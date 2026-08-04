@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il n'y aura pas d'œuvre pour l'Égypte, que fassent la tête ou la queue, la palme ou le roseau.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et il n'y aura pas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il n'y aura pas"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "pour l'Égypte"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "d'œuvre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fassent"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ou la queue"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "la palme"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ou le roseau"
+    }
+  ],
+  "timestamp": "2026-08-04T15:10:23.429388665Z",
+  "model": "glm-4.5"
+}

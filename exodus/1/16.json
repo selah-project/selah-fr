@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il dit : quand vous enfanterez ⟨את⟩ les Hébreues, et que vous verrez sur les sièges, si c'est un fils, alors faites-le mourir ; et si c'est une fille, alors qu'elle vive.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "quand vous enfanterez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Hébreues"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "les Hébreues"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "et que vous verrez"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "les sièges"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "alors faites-le mourir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "alors faites-le mourir"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "בת",
+      "gloss": "une fille"
+    },
+    {
+      "surface": "היא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "alors qu'elle vive"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:31.685406198Z",
+  "model": "glm-4.5"
+}

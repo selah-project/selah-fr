@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et maintenant, mon père ⟨a⟩ mis ⟨sur⟩ vous un joug lourd, et moi, j'ajouterai ⟨sur⟩ votre joug; mon père ⟨a⟩ corrigé ⟨את⟩ vous ⟨avec⟩ des fouets, et moi, je corrigerai ⟨את⟩ vous ⟨avec⟩ des scorpions.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "⟨a⟩ mis"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨sur⟩ vous"
+    },
+    {
+      "surface": "על",
+      "gloss": "un joug"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lourd"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "j'ajouterai"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "votre joug"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "⟨a⟩ corrigé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous ⟨avec⟩ des fouets"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "⟨avec⟩ des fouets"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "je corrigerai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous ⟨avec⟩ des scorpions"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "⟨avec⟩ des scorpions"
+    }
+  ],
+  "timestamp": "2026-08-04T13:48:51.319557653Z",
+  "model": "glm-4.5"
+}

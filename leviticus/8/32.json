@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et ce qui reste de la chair et du pain, avec le feu, vous ⟨le⟩ brûlerez",
+  "tokens": [
+    {
+      "surface": "וְהַנּוֹתָר",
+      "gloss": "et ce qui reste"
+    },
+    {
+      "surface": "בַּבָּשָׂר",
+      "gloss": "de la chair"
+    },
+    {
+      "surface": "וּבַלָּחֶם",
+      "gloss": "et du pain"
+    },
+    {
+      "surface": "בָּאֵשׁ",
+      "gloss": "avec le feu"
+    },
+    {
+      "surface": "תִּשְׂרֹפוּ",
+      "gloss": "vous ⟨le⟩ brûlerez"
+    }
+  ],
+  "timestamp": "2026-08-04T07:37:36.332981353Z",
+  "model": "glm-4.5"
+}

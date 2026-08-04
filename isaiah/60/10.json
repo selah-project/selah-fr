@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Et les fils de l'étranger bâtiront tes murs, et leurs rois te serviront ; car dans mon indignation je t'ai frappée, mais dans ma faveur je t'ai compassion.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "et bâtiront"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "l'étranger"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "tes murs"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "et leurs rois"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "te serviront"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "dans mon indignation"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "je t'ai frappée"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "mais dans ma faveur"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "je t'ai compassion"
+    }
+  ],
+  "timestamp": "2026-08-04T15:53:52.270628843Z",
+  "model": "glm-4.5"
+}

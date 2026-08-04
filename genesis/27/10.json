@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "et tu feras venir ⟨à⟩ ton père et il mangera, afin qu'il te bénisse avant sa mort",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "et tu feras venir"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "⟨à⟩ ton père"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "et il mangera"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "afin qu'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "il te bénisse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "avant"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "sa mort"
+    }
+  ],
+  "timestamp": "2026-08-04T05:34:28.084600366Z",
+  "model": "glm-4.5"
+}

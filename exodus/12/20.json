@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Toute fermentation vous ne la mangerez pas ; dans tous vos demeures vous mangerez des pains sans levain.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "fermentation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tous"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "vos demeures"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "pains sans levain"
+    }
+  ],
+  "timestamp": "2026-08-04T06:27:44.088199149Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 57:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Mais les méchants ⟨sont⟩ comme la mer chassée, car elle ne peut pas se calmer, et ses eaux rejettent ⟨de⟩ la vase et ⟨du⟩ limon.",
+  "tokens": [
+    {
+      "surface": "והרשעים",
+      "gloss": "Mais les méchants"
+    },
+    {
+      "surface": "כים",
+      "gloss": "comme la mer"
+    },
+    {
+      "surface": "נגרש",
+      "gloss": "chassée"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "se calmer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "peut"
+    },
+    {
+      "surface": "ויגרשו",
+      "gloss": "et rejettent"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ses eaux"
+    },
+    {
+      "surface": "רפש",
+      "gloss": "vase"
+    },
+    {
+      "surface": "וטיט",
+      "gloss": "et limon"
+    }
+  ],
+  "timestamp": "2026-08-04T15:50:59.724542914Z",
+  "model": "glm-4.5"
+}

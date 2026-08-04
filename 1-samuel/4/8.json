@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Malheur à nous ! Qui nous délivrera de la main de ces Élohim, les puissants ? Ce sont les Élohim qui frappaient ⟨את⟩ l'Égypte de toute plaie dans le désert.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "à nous"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "nous délivrera"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ces Élohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "les puissants"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ceux"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הם",
+      "gloss": "[sont]"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "les Élohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "qui frappaient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Égypte"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "plaie"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:57.841853814Z",
+  "model": "glm-4.5"
+}

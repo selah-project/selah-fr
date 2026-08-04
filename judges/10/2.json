@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il jugea ⟨את⟩ Israël vingt-trois ans, et il mourut, et il fut enterré à Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Et il jugea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "trois"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il mourut"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "et il fut enterré"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "à Shamir"
+    }
+  ],
+  "timestamp": "2026-08-04T11:47:26.394888685Z",
+  "model": "glm-4.5"
+}

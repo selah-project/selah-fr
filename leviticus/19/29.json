@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Ne profane pas ⟨את⟩ ta fille pour la prostituer ; et le pays ne se prostituera pas, et le pays ne se remplira pas de dépravation.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "profane pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta fille"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ta fille"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "pour la prostituer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "le pays ne se prostituera pas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "et"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "se remplira pas de dépravation"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:20.021581795Z",
+  "model": "glm-4.5"
+}

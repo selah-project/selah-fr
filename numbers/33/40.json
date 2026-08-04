@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "numbers 33:40",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et ⟨le⟩ Cananéen, roi d'Arad, ⟨qui⟩ habitait ⟨dans le⟩ Néguev ⟨dans⟩ le pays de Canaan, entendit ⟨la⟩ venue des fils d'Israël",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et entendit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨le⟩ Cananéen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "d'Arad"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitait"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "⟨dans le⟩ Néguev"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨dans⟩ le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "⟨la⟩ venue"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T09:43:51.264809115Z",
+  "model": "glm-4.5"
+}

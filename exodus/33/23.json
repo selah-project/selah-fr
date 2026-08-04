@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "et j'ôterai ⟨את⟩ ma main et tu verras ⟨את⟩ mon arrière, et ⟨le⟩ visage ne se ⟨fera⟩ pas voir",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "et j'ôterai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma main"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "et tu verras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon arrière"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mon arrière"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "et ⟨le⟩ visage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "se ⟨fera⟩ pas voir"
+    }
+  ],
+  "timestamp": "2026-08-04T07:08:00.736511930Z",
+  "model": "glm-4.5"
+}

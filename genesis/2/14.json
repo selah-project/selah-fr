@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et le nom du troisième fleuve est Hiddeqel, c'est ⟨celui⟩ ⟨qui⟩ va à l'est d'Ashour. Et le quatrième fleuve, c'est ⟨le⟩ Perath.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Et le nom"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "du fleuve"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "le troisième"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Hiddeqel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨celui⟩ ⟨qui⟩ va"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "à l'est de"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashour"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "Et le fleuve"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "le quatrième"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "⟨le⟩ Perath"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:49.250000336Z",
+  "model": "glm-4.5"
+}

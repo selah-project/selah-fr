@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et les fils d'Israël servirent ⟨את⟩ Eglon roi de Moab dix-huit ans",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Et ils servirent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon roi de Moab"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "dix-huit"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dix"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    }
+  ],
+  "timestamp": "2026-08-04T11:37:27.776650497Z",
+  "model": "glm-4.5"
+}

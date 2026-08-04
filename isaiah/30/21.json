@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et tes oreilles entendront une parole derrière toi, disant : C'est ⟨le⟩ chemin, marchez-y, quand vous tournerez à droite et quand vous tournerez à gauche.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "Et tes oreilles"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "entendront"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "derrière toi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "זה",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "⟨le⟩ chemin"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "marchez-y"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "vous tournerez à droite"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "et quand"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "vous tournerez à gauche"
+    }
+  ],
+  "timestamp": "2026-08-04T15:25:50.343253771Z",
+  "model": "glm-4.5"
+}

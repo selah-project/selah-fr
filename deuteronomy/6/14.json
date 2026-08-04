@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Vous n'irez pas ⟨après⟩ d'autres Élohim, ⟨d'⟩Élohim les peuples qui ⟨sont⟩ autour de vous",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "n'irez pas"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "vous n'irez pas"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨après⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'autres Élohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "d'autres"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "⟨d'⟩Élohim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "autour de vous"
+    }
+  ],
+  "timestamp": "2026-08-04T09:59:19.128370255Z",
+  "model": "glm-4.5"
+}

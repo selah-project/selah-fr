@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Mon seigneur a demandé à ⟨את⟩ ses serviteurs, en disant : « Y a-t-il pour vous un père ou un frère ? »",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Mon seigneur"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "a demandé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", en disant"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Y a-t-il"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "אב",
+      "gloss": "un père"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "אח",
+      "gloss": "un frère"
+    }
+  ],
+  "timestamp": "2026-08-04T06:00:04.169436270Z",
+  "model": "glm-4.5"
+}

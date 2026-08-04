@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Lot sortit vers eux ⟨au⟩ ⟨l'⟩ouverture, et ⟨la⟩ porte ferma ⟨derrière⟩ lui",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et Lot sortit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vers eux"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "⟨au⟩ ⟨l'⟩ouverture"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "et ⟨la⟩ porte"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ferma"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨derrière⟩ lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:24:22.470621625Z",
+  "model": "glm-4.5"
+}

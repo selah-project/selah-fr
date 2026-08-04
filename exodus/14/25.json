@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et il détourna ⟨את⟩ la roue de ses chars et il le conduisit avec difficulté ; et l'Égypte dit : fuyons devant la face d'Israël, car YHWH combat pour eux contre l'Égypte.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "et il détourna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la roue"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "la roue"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "de ses chars"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "et il le conduisit"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "avec difficulté"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "fuyons"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant la face"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "combat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "contre l'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:32:00.801145225Z",
+  "model": "glm-4.5"
+}

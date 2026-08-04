@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Seulement, tu ne mangeras pas ⟨את⟩ le sang, sur la terre tu le verseras comme de l'eau.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu ne mangeras"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "tu le verseras"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "comme de l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T10:18:49.867879250Z",
+  "model": "glm-4.5"
+}

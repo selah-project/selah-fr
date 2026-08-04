@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et il dit : tu ne passeras pas. Et Édom sortit à sa rencontre avec ⟨un⟩ peuple nombreux et ⟨avec⟩ une main forte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "passeras"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "Et sortit"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "à sa rencontre"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "avec ⟨un⟩ peuple"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "et ⟨avec⟩ une main"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "forte"
+    }
+  ],
+  "timestamp": "2026-08-04T09:08:05.138641491Z",
+  "model": "glm-4.5"
+}

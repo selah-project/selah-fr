@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Les pères ne seront pas mis à mort pour ⟨les⟩ fils, et les fils ne seront pas mis à mort pour ⟨les⟩ pères ; chaque homme mourra pour son propre péché.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "seront mis à mort"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "les pères"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "⟨les⟩ fils"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "et les fils"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "seront mis à mort"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "⟨les⟩ pères"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chaque homme"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "pour son propre péché"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mourra"
+    }
+  ],
+  "timestamp": "2026-08-04T10:31:20.710104580Z",
+  "model": "glm-4.5"
+}

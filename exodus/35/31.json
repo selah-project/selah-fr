@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et il a rempli ⟨את⟩ lui de Rouah Élohim en Hokhma, en Tevunah et en Daat, et dans toute Melakah",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Et il a rempli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "Rouah Élohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Rouah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "en Hokhma"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "en Tevunah"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "et en Daat"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "et dans toute"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "Melakah"
+    }
+  ],
+  "timestamp": "2026-08-04T07:12:08.288271325Z",
+  "model": "glm-4.5"
+}

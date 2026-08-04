@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et mourut Joseph, fils de cent dix ans, et ils l'embaumèrent, et on le mit dans un cercueil en Égypte.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cent"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "dix"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "et ils l'embaumèrent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "mit dans un cercueil"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "et on mit"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "dans un cercueil"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:21.638526738Z",
+  "model": "glm-4.5"
+}

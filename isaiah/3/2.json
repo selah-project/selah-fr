@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "l'homme fort et ⟨l'⟩homme de guerre, le juge et le prophète, le devin et l'ancien",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "l'homme fort"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et ⟨l'⟩homme"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "de guerre"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "le juge"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "et le prophète"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "et le devin"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "et l'ancien"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:59.587505573Z",
+  "model": "glm-4.5"
+}

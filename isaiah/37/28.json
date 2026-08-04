@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et ton séjour, et ta sortie, et ton entrée, je le sais, et ⟨את⟩ ta fureur contre moi",
+  "tokens": [
+    {
+      "surface": "וְשִׁבְתְּךָ֛",
+      "gloss": "et ton séjour"
+    },
+    {
+      "surface": "וְצֵאתְךָ֥",
+      "gloss": "et ta sortie"
+    },
+    {
+      "surface": "וּבוֹאֲךָ֖",
+      "gloss": "et ton entrée"
+    },
+    {
+      "surface": "יָדָ֑עְתִּי",
+      "gloss": "je le sais"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "ta fureur"
+    },
+    {
+      "surface": "הִֽתְרַגֶּזְךָ֥",
+      "gloss": "ta fureur"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "contre moi"
+    }
+  ],
+  "timestamp": "2026-08-04T15:32:19.486108612Z",
+  "model": "glm-4.5"
+}

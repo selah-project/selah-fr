@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Un homme ne prendra pas ⟨את⟩ la femme de son père, et il ne découvrira pas la [pan] de son père.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prendra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la femme"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "découvrira"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "la [pan]"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    }
+  ],
+  "timestamp": "2026-08-04T10:28:34.363194442Z",
+  "model": "glm-4.5"
+}

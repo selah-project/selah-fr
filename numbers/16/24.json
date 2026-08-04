@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Parle à ⟨la⟩ assemblée, en disant : « éloignez-vous des alentours du mishkan de Qorah, de Dathan et d'Abiram »",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨la⟩ assemblée"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "éloignez-vous"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "des alentours"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "du mishkan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "de Qorah"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "de Dathan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "et d'Abiram"
+    }
+  ],
+  "timestamp": "2026-08-04T09:00:07.472565937Z",
+  "model": "glm-4.5"
+}

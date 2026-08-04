@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et David se leva ⟨tôt⟩, lui et ses hommes, pour partir ⟨le⟩ matin, pour retourner au pays des Pelishtim, et les Pelishtim montèrent à Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "et se leva tôt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "et ses hommes"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour partir"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "pour retourner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays de"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "et Pelishtim"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "montèrent"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-04T12:49:08.426141930Z",
+  "model": "glm-4.5"
+}

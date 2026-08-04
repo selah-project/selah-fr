@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et il posera ⟨sa⟩ main sur ⟨la⟩ tête du sacrifice pour le péché, et égorgera ⟨le⟩ sacrifice pour le péché au lieu de l'offrande d'élévation.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "et il posera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "du sacrifice pour le péché"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "et égorgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sacrifice pour le péché"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "le sacrifice pour le péché"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "au lieu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "de l'offrande d'élévation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:42.694807085Z",
+  "model": "glm-4.5"
+}

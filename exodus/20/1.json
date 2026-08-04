@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Élohim parla toutes ces paroles, pour dire:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes ces paroles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ces paroles"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:21.509882428Z",
+  "model": "glm-4.5"
+}

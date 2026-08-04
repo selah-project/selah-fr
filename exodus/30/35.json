@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "et tu feras d'elle un parfum, mélange, ouvrage de parfumeur, salé, pur, sacré",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "d'elle",
+      "marks": "un parfum"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "un parfum"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mélange"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ouvrage"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "de parfumeur"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "salé"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sacré"
+    }
+  ],
+  "timestamp": "2026-08-04T07:02:14.607651373Z",
+  "model": "glm-4.5"
+}

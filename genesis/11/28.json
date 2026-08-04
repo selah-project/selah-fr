@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et mourut Haran sur la face de Terah son père, dans ⟨le⟩ pays de sa naissance, à Ur des Kasdim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "de sa naissance"
+    },
+    {
+      "surface": "באור",
+      "gloss": "à Ur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "des Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:37.590508645Z",
+  "model": "glm-4.5"
+}

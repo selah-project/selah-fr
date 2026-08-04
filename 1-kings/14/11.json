@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Celui qui meurt de Yarobeam dans la ville, les chiens le mangeront ; et celui qui meurt dans les champs, l'oiseau des cieux le mangera ; car YHWH a parlé.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Celui qui meurt"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "de Yarobeam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "les chiens le mangeront"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": ""
+    },
+    {
+      "surface": "והמת",
+      "gloss": "et celui qui meurt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans les champs"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "l'oiseau des cieux le mangera"
+    },
+    {
+      "surface": "עוף",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    }
+  ],
+  "timestamp": "2026-08-04T13:52:56.344716749Z",
+  "model": "glm-4.5"
+}

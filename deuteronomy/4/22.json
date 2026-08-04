@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car je meurs dans cette terre-ci, je ne passerai pas ⟨את⟩ le Jourdain, et vous passerez et vous hériterez ⟨את⟩ la bonne terre-ci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meurs"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans cette terre"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "et vous"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "passerez"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "et vous hériterez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bonne terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T09:55:45.725204514Z",
+  "model": "glm-4.5"
+}

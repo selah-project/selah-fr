@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et les Philistins prirent ⟨את⟩ l'arche d'Élohim et la firent entrer depuis Ében-ha-Ezer à Ashdod",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Et les Philistins"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "prirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "et la firent entrer"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ében-ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "à Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-04T12:10:12.481038585Z",
+  "model": "glm-4.5"
+}

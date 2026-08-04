@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Le soleil était sorti sur la terre et Lot était entré à Tsoar.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "était sorti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "et Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "était entré"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "à Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-04T05:24:21.701899903Z",
+  "model": "glm-4.5"
+}

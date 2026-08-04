@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Pourquoi as-tu dit : elle est ma sœur, et je prendrai ⟨את⟩ elle pour moi comme femme ? Et maintenant, voici ta femme, prends et va.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "as-tu dit"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "elle est ma sœur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "et je prendrai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "elle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "comme femme"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ta femme"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prends"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "et va"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:28.320502722Z",
+  "model": "glm-4.5"
+}

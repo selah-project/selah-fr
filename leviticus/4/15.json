@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et les anciens de ⟨l'⟩assemblée imposeront ⟨את⟩ leurs mains sur la tête du taureau devant YHWH, et on égorgera ⟨את⟩ le taureau devant YHWH",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "et imposeront"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de ⟨l'⟩assemblée"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mains"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "du taureau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "et on égorgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:31:00.951164178Z",
+  "model": "glm-4.5"
+}

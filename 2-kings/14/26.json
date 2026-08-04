@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Car YHWH vit ⟨את⟩ l'angoisse d'Israël, très amère, et il n'y avait ni enfermé, ni abandonné, et il n'y avait de secours pour Israël.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'angoisse d'Israël"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'angoisse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "amère"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "et il n'y avait"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ni enfermé"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "abandonné"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y avait"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "de secours"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pour Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:28:15.984261821Z",
+  "model": "glm-4.5"
+}

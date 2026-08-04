@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Jacob interrogea et dit : Fais savoir, je te prie, ton nom. Et il dit : Pourquoi ⟨est-ce⟩ que tu demandes mon nom ? Et il le bénit là.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Et interrogea"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Fais savoir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨est-ce que⟩"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "tu demandes"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "mon nom"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "Et il bénit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:50.739635795Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Tu ne laboureras pas avec un bœuf et un âne ensemble.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "laboureras pas"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "avec un bœuf"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "et un âne"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-04T10:26:13.913778537Z",
+  "model": "glm-4.5"
+}

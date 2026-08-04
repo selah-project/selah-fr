@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "et il bâtit ⟨את⟩ la galerie contre toute la maison, cinq coudées sa hauteur, et elle se saisit de ⟨את⟩ la maison avec des bois de cèdres",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "et il bâtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la galerie"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "la galerie"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "coudées"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sa hauteur"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "et elle se saisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "avec des bois"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "de cèdres"
+    }
+  ],
+  "timestamp": "2026-08-04T13:36:39.719202422Z",
+  "model": "glm-4.5"
+}

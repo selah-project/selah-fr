@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et je mettrai ⟨את⟩ vos villes en désolation, et je rendrai désolés ⟨את⟩ vos sanctuaires, et je ne sentirai pas le parfum de vos apaisements",
+  "tokens": [
+    {
+      "surface": "וְנָתַתִּ֤י",
+      "gloss": "et je mettrai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vos villes"
+    },
+    {
+      "surface": "עָֽרֵיכֶם֙",
+      "gloss": "vos villes"
+    },
+    {
+      "surface": "חָרְבָּ֔ה",
+      "gloss": "en désolation"
+    },
+    {
+      "surface": "וַהֲשִׁמּוֹתִ֖י",
+      "gloss": "et je rendrai désolés"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vos sanctuaires"
+    },
+    {
+      "surface": "מִקְדְּשֵׁיכֶ֑ם",
+      "gloss": "vos sanctuaires"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "אָרִ֔יחַ",
+      "gloss": "je sentirai"
+    },
+    {
+      "surface": "בְּרֵ֖יחַ",
+      "gloss": "le parfum"
+    },
+    {
+      "surface": "נִיחֹֽחֲכֶֽם",
+      "gloss": "de vos apaisements"
+    }
+  ],
+  "timestamp": "2026-08-04T08:18:46.891650558Z",
+  "model": "glm-4.5"
+}

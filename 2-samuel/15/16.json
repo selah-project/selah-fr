@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et le roi sortit, et toute sa maison, à pied, et le roi laissa ⟨את⟩ dix femmes, concubines, pour garder ⟨la⟩ maison.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sortit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "à pied"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "il laissa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dix femmes, concubines"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dix"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "femmes"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "concubines"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pour garder"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    }
+  ],
+  "timestamp": "2026-08-04T13:12:45.608521958Z",
+  "model": "glm-4.5"
+}

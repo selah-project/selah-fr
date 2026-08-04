@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Noach engendra trois fils : ⟨את⟩ Sem, ⟨את⟩ Ham et ⟨את⟩ Japheth.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Et engendra"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fils :"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Japheth"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Japheth"
+    }
+  ],
+  "timestamp": "2026-08-04T05:05:51.683372352Z",
+  "model": "glm-4.5"
+}

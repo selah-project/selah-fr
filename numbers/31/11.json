@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et ils prirent ⟨את⟩ tout le butin et ⟨את⟩ toute la capture, parmi les humains et parmi les bêtes",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Et ils prirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le butin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "le butin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toute la capture"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "la capture"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "parmi les humains"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "et parmi les bêtes"
+    }
+  ],
+  "timestamp": "2026-08-04T09:37:14.069302205Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et il dit : ‹ Allons, partons et je marcherai devant toi ›.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Allons, partons"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "et partons"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "et je marcherai"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "devant toi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:43:42.664481306Z",
+  "model": "glm-4.5"
+}

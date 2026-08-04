@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Abimélek dit à Abraham : Qu'as-tu vu pour que tu aies fait ⟨את⟩ cette chose-ci ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimélek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu'"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "as-tu vu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pour que"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu aies fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette chose-ci"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cette chose"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:16.565479207Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et tu feras des barres pour ⟨le⟩ mizbeah, des barres de bois de sittim, et tu les recouvriras de cuivre.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Et tu feras"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "des barres"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pour ⟨le⟩ mizbeah"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "des barres"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "de bois"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de sittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "et tu les recouvriras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les barres"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "de cuivre"
+    }
+  ],
+  "timestamp": "2026-08-04T06:53:51.703536296Z",
+  "model": "glm-4.5"
+}

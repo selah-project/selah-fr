@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Après qui est sorti le roi d'Israël ? Après qui cours-tu ? Après un chien mort, après une puce unique.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Après qui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "est sorti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Après qui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "cours-tu"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "⟨tu⟩ cours"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Après"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "un chien"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mort"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "une puce"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unique"
+    }
+  ],
+  "timestamp": "2026-08-04T12:41:47.142479319Z",
+  "model": "glm-4.5"
+}

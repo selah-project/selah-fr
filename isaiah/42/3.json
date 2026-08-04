@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Un roseau ⟨qui est⟩ écrasé, il ne ⟨le⟩ brisera pas, et une mèche vacillante, il ne l'éteindra pas ; en vérité, il fera sortir le droit.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Un roseau"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "écrasé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "brisera"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "et une mèche"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "vacillante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "l'éteindra"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "en vérité"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "fera sortir"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le droit"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:08.294362059Z",
+  "model": "glm-4.5"
+}

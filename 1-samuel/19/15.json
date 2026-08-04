@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Shaul envoya ⟨את⟩ les messagers pour voir ⟨את⟩ David, disant : faites-moi monter ⟨את⟩ le lit avec lui, pour le mettre à mort",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les messagers"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "les messagers"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "faites-moi monter"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le lit"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "le lit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "pour le mettre à mort"
+    }
+  ],
+  "timestamp": "2026-08-04T12:35:21.793469938Z",
+  "model": "glm-4.5"
+}

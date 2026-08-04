@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Alors David saisit ⟨ses⟩ vêtements et les déchira, et aussi tous les hommes qui étaient avec lui",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "saisit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "⟨ses⟩ vêtements"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "et les déchira"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "étaient avec lui"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:42.886230487Z",
+  "model": "glm-4.5"
+}

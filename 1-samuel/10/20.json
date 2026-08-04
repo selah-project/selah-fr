@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Shemuël fit approcher ⟨את⟩ toutes les tribus d'Israël, et la tribu de Benjamin fut prise",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "et fit approcher"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les tribus d'Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "les tribus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "et fut prise"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "la tribu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "de Benjamin"
+    }
+  ],
+  "timestamp": "2026-08-04T12:16:45.940656921Z",
+  "model": "glm-4.5"
+}

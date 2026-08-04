@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Rappelle-toi ⟨ce que⟩ Amalek ⟨את⟩ t'a fait sur le chemin, lors de votre sortie d'Égypte.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Rappelle-toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que Amalek... t'a fait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ce que⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "t'a fait"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur le chemin"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "lors de votre sortie"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T10:32:29.697002915Z",
+  "model": "glm-4.5"
+}

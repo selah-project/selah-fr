@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et David dénombra ⟨את⟩ le peuple qui ⟨était⟩ avec lui et plaça sur eux des chefs de milliers et des chefs de centaines",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "et dénombra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "était avec lui"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et plaça"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "des chefs"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "de milliers"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "et des chefs"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "de centaines"
+    }
+  ],
+  "timestamp": "2026-08-04T13:17:48.213530855Z",
+  "model": "glm-4.5"
+}

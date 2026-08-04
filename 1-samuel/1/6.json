@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et sa rivale l'irritait aussi avec colère pour ⟨la⟩ faire trembler, car YHWH avait fermé ⟨son⟩ matrice.",
+  "tokens": [
+    {
+      "surface": "וְכִֽעֲסַ֤תָּה",
+      "gloss": "Et son adversaire l'irritait"
+    },
+    {
+      "surface": "צָֽרָתָה֙",
+      "gloss": "sa rivale"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "כַּ֔עַס",
+      "gloss": "avec colère"
+    },
+    {
+      "surface": "בַּעֲב֖וּר",
+      "gloss": "pour"
+    },
+    {
+      "surface": "הַרְּעִמָ֑הּ",
+      "gloss": "la faire trembler"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "car"
+    },
+    {
+      "surface": "סָגַ֥ר",
+      "gloss": "avait fermé"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בְּעַ֥ד",
+      "gloss": "contre"
+    },
+    {
+      "surface": "רַחְמָֽהּ",
+      "gloss": "sa matrice"
+    }
+  ],
+  "timestamp": "2026-08-04T12:04:17.280885643Z",
+  "model": "glm-4.5"
+}

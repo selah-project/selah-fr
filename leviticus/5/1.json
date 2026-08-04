@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et une nefesh, si elle pèche, et qu'elle entende ⟨la⟩ voix d'une imprécation, alors qu'il est témoin, ou qu'il ait vu, ou qu'il ait su — s'il ne le déclare pas, il portera son iniquité.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Et une nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "elle pèche"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "et qu'elle entende"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨la⟩ voix"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "d'une imprécation"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "alors qu'il est"
+    },
+    {
+      "surface": "עד",
+      "gloss": "témoin"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qu'il ait vu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "qu'il ait su"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "il le déclare"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "il portera"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "son iniquité"
+    }
+  ],
+  "timestamp": "2026-08-04T07:32:15.857628593Z",
+  "model": "glm-4.5"
+}

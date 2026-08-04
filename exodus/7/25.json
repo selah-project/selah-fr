@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et sept jours se remplirent après que YHWH eut frappé ⟨את⟩ le Fleuve.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Et se remplirent"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "que ... eut frappé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Fleuve"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "le Fleuve"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:43.825339183Z",
+  "model": "glm-4.5"
+}

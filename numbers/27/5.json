@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et Mosheh rapprocha ⟨את⟩ leur jugement devant YHWH",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Et rapprocha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur jugement"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "leur jugement"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T09:26:12.513793774Z",
+  "model": "glm-4.5"
+}

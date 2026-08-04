@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "et il fit fumer son ola et ⟨את⟩ son offrande et il versa ⟨את⟩ sa libation et il projeta ⟨את⟩ le sang des sacrifices de communion qu'il avait sur l'autel",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "et il fit fumer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son ola"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "son ola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son offrande"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "son offrande"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "et il versa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa libation"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "sa libation"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "et il projeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "דם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "des sacrifices de communion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לו",
+      "gloss": "il avait"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T14:30:59.263186001Z",
+  "model": "glm-4.5"
+}

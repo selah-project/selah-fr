@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et aussi pour Lot, ⟨celui⟩ allant avec Abram, il y avait ⟨du⟩ petit bétail et ⟨du⟩ gros bétail et ⟨des⟩ tentes.",
+  "tokens": [
+    {
+      "surface": "וְגַם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "לְלוֹט",
+      "gloss": "pour Lot"
+    },
+    {
+      "surface": "הַהֹלֵךְ",
+      "gloss": "⟨celui⟩ allant"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "avec Abram"
+    },
+    {
+      "surface": "אַבְרָם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "il y avait"
+    },
+    {
+      "surface": "צֹאן",
+      "gloss": "⟨du⟩ petit bétail"
+    },
+    {
+      "surface": "וּבָקָר",
+      "gloss": "et ⟨du⟩ gros bétail"
+    },
+    {
+      "surface": "וְאֹהָלִים",
+      "gloss": "et ⟨des⟩ tentes"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:33.498499504Z",
+  "model": "glm-4.5"
+}

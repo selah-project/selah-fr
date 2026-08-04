@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "que ⟨le⟩ service devienne lourd sur ⟨les⟩ hommes, et qu'ils fassent ⟨en⟩ lui, et qu'ils ne ⟨se⟩ tournent pas vers ⟨des⟩ paroles de mensonge",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "que ... devienne lourd"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "⟨le⟩ service"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨les⟩ hommes"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "et qu'ils fassent"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨en⟩ lui"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et qu'ils ne"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "⟨se⟩ tournent pas"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "vers ⟨des⟩ paroles"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:59.806679811Z",
+  "model": "glm-4.5"
+}

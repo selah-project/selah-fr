@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et il les mit ⟨את⟩ en garde dans la maison du chef des bouchers, à la prison, le lieu où Yosseph ⟨את⟩ était lié là",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et il mit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "en garde"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "en garde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "שר",
+      "gloss": "du chef"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "des bouchers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "de la prison"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosseph"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "⟨était lié⟩",
+      "marks": "Yosseph"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-04T05:52:44.592874647Z",
+  "model": "glm-4.5"
+}

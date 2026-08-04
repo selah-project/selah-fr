@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Dénombre ⟨את⟩ les fils de Lévi selon ⟨la⟩ maison de leurs pères, selon leurs familles, tout mâle depuis un fils de mois et au dénombre tu les dénombreras.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "dénombre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils de Lévi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Lévi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "selon ⟨la⟩ maison"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de leurs pères"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "selon leurs familles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "depuis un fils"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "de mois"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "et au dénombre"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "tu les dénombreras"
+    }
+  ],
+  "timestamp": "2026-08-04T08:26:07.854278273Z",
+  "model": "glm-4.5"
+}

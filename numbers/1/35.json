@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Leur dénombrement pour ⟨la⟩ tribu de Menashsheh : trente-deux mille et deux cents.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Leur dénombrement"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pour ⟨la⟩ tribu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "de Menashsheh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "deux"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "et deux cents"
+    }
+  ],
+  "timestamp": "2026-08-04T08:23:06.704293286Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et Joab se leva et alla à Geshur et fit venir ⟨את⟩ Avshalom à Jérusalem",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "et se leva"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et alla"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "à Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et fit venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-04T13:11:26.559945621Z",
+  "model": "glm-4.5"
+}

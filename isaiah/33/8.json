@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Les routes ⟨sont⟩ dévastées, ⟨le⟩ passant sur le chemin ⟨a⟩ cessé, il a violé l'alliance, il a méprisé les villes, il ne tient pas compte de l'humain.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "sont dévastées"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "les routes"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a cessé"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "le passant"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sur le chemin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "il a violé"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "l'alliance"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "il a méprisé"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tient pas compte"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "de l'humain"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:19.789243475Z",
+  "model": "glm-4.5"
+}

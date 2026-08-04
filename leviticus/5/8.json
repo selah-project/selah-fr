@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et il apportera ⟨את⟩ les oiseaux au prêtre, et présentera ⟨את⟩ celui qui est pour le sacrifice pour le péché en premier, et pincera ⟨את⟩ sa tête depuis sa nuque, et ne ⟨le⟩ séparera pas",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Et il apportera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les oiseaux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "et présentera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui qui est pour le sacrifice pour le péché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celui qui est"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pour le sacrifice pour le péché"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "en premier"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "et pincera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tête"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sa tête"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "sa nuque"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "séparera pas"
+    }
+  ],
+  "timestamp": "2026-08-04T07:32:25.312434913Z",
+  "model": "glm-4.5"
+}

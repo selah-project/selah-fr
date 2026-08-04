@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 47:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Or il n'y avait pas de pain dans tout le pays, car la famine était très pesante, et le pays d'Égypte et le pays de Canaan s'épuisaient à cause de la famine.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Or il n'y avait pas de pain"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y avait pas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "était très pesante"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la famine"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "et s'épuisaient"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la famine"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:42.267680911Z",
+  "model": "glm-4.5"
+}

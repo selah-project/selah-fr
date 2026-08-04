@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Jonathan se dépouilla ⟨את⟩ du manteau qui était sur lui et le donna à David, et ses vêtements, et jusqu'à ⟨le⟩ son épée, et jusqu'à ⟨le⟩ son arc, et jusqu'à ⟨le⟩ son baudrier.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "et se dépouilla"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le manteau"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "le manteau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "était sur lui"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "et le donna"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "et ses vêtements"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "son épée"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "son arc"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "son baudrier"
+    }
+  ],
+  "timestamp": "2026-08-04T12:34:08.403518319Z",
+  "model": "glm-4.5"
+}

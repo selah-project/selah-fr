@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et si ⟨il y a⟩ un dommage, alors tu donneras une nefesh sous ⟨une⟩ nefesh",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "un dommage"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨il y a⟩"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "alors tu donneras"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "une nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨une⟩ nefesh"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:16.788150510Z",
+  "model": "glm-4.5"
+}

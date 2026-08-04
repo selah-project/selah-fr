@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et il fit pour eux un banquet, et ils mangèrent et burent",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "un banquet"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "et ils mangèrent"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "et burent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:33:38.270808022Z",
+  "model": "glm-4.5"
+}

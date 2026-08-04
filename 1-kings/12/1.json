@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Rechabam alla à Shekem, car Shekem était venu tout Israël pour le faire régner",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "à Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "était venu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "pour le faire régner"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le"
+    }
+  ],
+  "timestamp": "2026-08-04T13:48:51.592952452Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et tu placeras ⟨את⟩ la parvis tout autour et tu placeras ⟨את⟩ le voile de la porte de la parvis",
+  "tokens": [
+    {
+      "surface": "וְשַׂמְתָּ֥",
+      "gloss": "et tu placeras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la parvis"
+    },
+    {
+      "surface": "הֶחָצֵ֖ר",
+      "gloss": "la parvis"
+    },
+    {
+      "surface": "סָבִיב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "וְנָ֣תַתָּ֔",
+      "gloss": "et tu placeras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le voile"
+    },
+    {
+      "surface": "מָסַ֖ךְ",
+      "gloss": "le voile"
+    },
+    {
+      "surface": "שַׁ֥עַר",
+      "gloss": "de la porte"
+    },
+    {
+      "surface": "הֶחָצֵֽר",
+      "gloss": "de la parvis"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:41.638725500Z",
+  "model": "glm-4.5"
+}

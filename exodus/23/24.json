@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Tu ne te prosterneras point devant leurs elohim et tu ne les serviras point et tu ne feras point comme leurs œuvres car tu les détruiras dévasté et tu briseras brisé leurs stèles",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... point"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "tu ne te prosterneras"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "devant leurs elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne ... point"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "tu ne les serviras"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne ... point"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu ne feras"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "comme leurs œuvres"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "tu les détruiras"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "dévasté"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "et tu briseras"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "brisé"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "leurs stèles"
+    }
+  ],
+  "timestamp": "2026-08-04T06:48:02.033349668Z",
+  "model": "glm-4.5"
+}

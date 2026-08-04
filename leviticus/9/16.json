@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et il approcha ⟨את⟩ l'ola et la fit selon ⟨le⟩ jugement",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "et il approcha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'ola"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "et il fit"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "selon ⟨le⟩ jugement"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:16.889460156Z",
+  "model": "glm-4.5"
+}

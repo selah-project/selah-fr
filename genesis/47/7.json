@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Et Joseph fit entrer ⟨את⟩ Jacob son père et le fit se tenir devant le Pharaon, et Jacob bénit ⟨את⟩ le Pharaon",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et fit entrer"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jacob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "et le fit se tenir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "le Pharaon"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et bénit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Pharaon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "le Pharaon"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:27.184015006Z",
+  "model": "glm-4.5"
+}

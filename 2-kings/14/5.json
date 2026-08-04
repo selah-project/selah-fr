@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et il arriva, lorsque la royauté fut affermie en sa main, qu'il frappa ⟨את⟩ ses serviteurs, les frappant ⟨את⟩ le roi, son père",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lorsque"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "fut affermie"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "la royauté"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "en sa main"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "qu'il frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "les frappant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    }
+  ],
+  "timestamp": "2026-08-04T14:27:35.178506178Z",
+  "model": "glm-4.5"
+}

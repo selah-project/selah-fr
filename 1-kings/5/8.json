@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et l'orge et la paille pour les chevaux et les coursiers ils apporteront ⟨au⟩ lieu qui sera là, chacun selon son jugement",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "et l'orge"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "et la paille"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "pour les chevaux"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "et les coursiers"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ils apporteront"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨au⟩ lieu",
+      "marks": "lieu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "selon son jugement"
+    }
+  ],
+  "timestamp": "2026-08-04T13:35:02.427777330Z",
+  "model": "glm-4.5"
+}

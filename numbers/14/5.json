@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et Moïse et Aaron tombèrent sur ⟨leurs⟩ faces devant toute l'assemblée de la communauté des fils d'Israël",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Et tombèrent"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "⟨leurs⟩ faces"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "de la communauté"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:53:41.253029755Z",
+  "model": "glm-4.5"
+}

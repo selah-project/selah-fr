@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Tu ne muselleras point ⟨le⟩ bœuf pendant son battage.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne ... point"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "muselleras"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bœuf"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "pendant son battage"
+    }
+  ],
+  "timestamp": "2026-08-04T10:32:17.019732721Z",
+  "model": "glm-4.5"
+}

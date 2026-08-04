@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Prends Aaron et ⟨את⟩ Elazar son fils, et fais monter ⟨את⟩ eux la montagne Hor",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Prends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "et fais monter"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T09:07:54.811692805Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Dans le premier mois, le quatorze du mois, entre les deux soirs, ⟨est⟩ la Pâque pour YHWH.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Dans le mois"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "⟨le⟩ premier"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "le quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "⟨les⟩ deux soirs"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "la Pâque"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:11:39.340890960Z",
+  "model": "glm-4.5"
+}

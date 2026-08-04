@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Ne montez pas, car YHWH n'est ⟨pas⟩ au milieu de vous, et vous ne serez pas frappés devant vos ennemis",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "montez pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'est ⟨pas⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "au milieu de vous"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "serez pas frappés"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vos ennemis"
+    }
+  ],
+  "timestamp": "2026-08-04T08:55:22.452321243Z",
+  "model": "glm-4.5"
+}

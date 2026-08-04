@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "et ils le prirent et le jetèrent ⟨את⟩ dans la fosse et la fosse était vide il n'y avait pas d'eau en elle",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "et ils le prirent"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "et ils le jetèrent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dans la fosse"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "dans la fosse"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "et la fosse"
+    },
+    {
+      "surface": "רק",
+      "gloss": "était vide"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y avait pas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:53.955104342Z",
+  "model": "glm-4.5"
+}

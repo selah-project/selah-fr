@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Ceux-ci ⟨sont⟩ les fils de Cham, selon leurs familles, selon leurs langues, dans leurs terres et dans leurs nations.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ceux-ci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "selon leurs familles"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "selon leurs langues"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "dans leurs terres"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "et dans leurs nations"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:03.288295208Z",
+  "model": "glm-4.5"
+}

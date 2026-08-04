@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il dit : Je n'ai pas ⟨את⟩ troublé Israël, mais toi et la maison de ton père, en ce que vous avez abandonné ⟨את⟩ les commandements de YHWH, et que tu es allé après les Baals.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Je n'ai pas"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "troublé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "אם",
+      "gloss": "toi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": ""
+    },
+    {
+      "surface": "ובית",
+      "gloss": "et la maison"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "en ce que vous avez abandonné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les commandements"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "les commandements"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "et que tu es allé"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "les Baals"
+    }
+  ],
+  "timestamp": "2026-08-04T13:58:04.358170976Z",
+  "model": "glm-4.5"
+}

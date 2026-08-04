@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Abram ⟨était⟩ très riche en bétail, en argent et en or.",
+  "tokens": [
+    {
+      "surface": "וְאַבְרָ֖ם",
+      "gloss": "Et Abram"
+    },
+    {
+      "surface": "כָּבֵ֣ד",
+      "gloss": "⟨était⟩ très riche"
+    },
+    {
+      "surface": "מְאֹ֑ד",
+      "gloss": "très"
+    },
+    {
+      "surface": "בַּמִּקְנֶ֕ה",
+      "gloss": "en bétail"
+    },
+    {
+      "surface": "בַּכֶּ֖סֶף",
+      "gloss": "en argent"
+    },
+    {
+      "surface": "וּבַזָּהָֽב",
+      "gloss": "et en or"
+    }
+  ],
+  "timestamp": "2026-08-04T05:17:34.298719906Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et tous les jours d'Adam, qu'il vécut, furent ⟨sont⟩ neuf cents ans et trente ans, et il mourut.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Et furent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "חי",
+      "gloss": "il vécut"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "neuf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "et trente"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il mourut"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:19.725028293Z",
+  "model": "glm-4.5"
+}

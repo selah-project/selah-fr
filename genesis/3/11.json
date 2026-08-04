@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Il dit : Qui t'a ⟨a⟩ déclaré que tu étais nu ? Est-ce que tu as mangé de l'arbre dont je t'avais commandé de ne pas manger ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Il dit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "t'a ⟨a⟩ déclaré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "t'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "tu étais nu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Est-ce que"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "de l'arbre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "je t'avais commandé"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "de ne pas"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manger"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "tu as mangé"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:25.942757931Z",
+  "model": "glm-4.5"
+}

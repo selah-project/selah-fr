@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et ce sont ⟨les⟩ jugements que tu placeras devant ⟨eux⟩",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et ce sont"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "les jugements"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "tu placeras"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "devant eux"
+    }
+  ],
+  "timestamp": "2026-08-04T06:42:50.551305683Z",
+  "model": "glm-4.5"
+}

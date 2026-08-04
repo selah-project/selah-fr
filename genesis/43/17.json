@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Et l'homme fit selon ce qu'avait dit Joseph, et l'homme fit entrer ⟨את⟩ les hommes dans ⟨la⟩ maison de Joseph.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "selon ce que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avait dit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et fit entrer"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les hommes"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "dans ⟨la⟩ maison"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "de Joseph"
+    }
+  ],
+  "timestamp": "2026-08-04T05:58:06.749373637Z",
+  "model": "glm-4.5"
+}

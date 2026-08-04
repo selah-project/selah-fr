@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Selon tout ce que je te fais voir, ⟨את⟩ le modèle du mishkan et ⟨את⟩ le modèle de tous ses ustensiles, et ainsi vous ferez.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "fais voir"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le modèle du mishkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "le modèle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "du mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le modèle de tous ses ustensiles"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "le modèle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ses ustensiles"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "et ainsi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    }
+  ],
+  "timestamp": "2026-08-04T06:49:31.234437332Z",
+  "model": "glm-4.5"
+}

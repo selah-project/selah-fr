@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et Yitschak son père lui dit : Qui es-tu ? Et il dit : Je ⟨suis⟩ ton fils, ton premier-né, Ésaü.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "es-tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Je"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ton fils"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ton premier-né"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    }
+  ],
+  "timestamp": "2026-08-04T05:35:09.103611636Z",
+  "model": "glm-4.5"
+}

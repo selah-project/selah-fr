@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et elle ouvrit et le vit, ⟨את⟩ l'enfant, et voici, un garçon pleurant, et elle eut compassion sur lui, et dit, des enfants des Hébreux, celui-ci.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Et elle ouvrit"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "et le vit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'enfant"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un garçon"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pleurant"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "et elle eut compassion"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "des enfants"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "des Hébreux"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:31.009870076Z",
+  "model": "glm-4.5"
+}

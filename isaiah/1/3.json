@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Le bœuf connaît son propriétaire et l'âne ⟨la⟩ mangeoire de son maître, Israël ne connaît pas, mon peuple ne réfléchit pas.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "שור",
+      "gloss": "le bœuf"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "son propriétaire"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "et l'âne"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "mangeoire"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "de son maître"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "réfléchit pas"
+    }
+  ],
+  "timestamp": "2026-08-04T14:48:00.258533418Z",
+  "model": "glm-4.5"
+}

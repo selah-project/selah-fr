@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il dit : Hagar, servante de Saraï, d'où viens-tu et où vas-tu ? Et elle dit : Je fuis devant ⟨ma⟩ maîtresse Saraï.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "servante de"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraï"
+    },
+    {
+      "surface": "אי",
+      "gloss": "d'où"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "[viens-tu]"
+    },
+    {
+      "surface": "באת",
+      "gloss": "viens"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "et où"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "vas-tu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Et elle dit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraï"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "ma maîtresse"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Je"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "fuis"
+    }
+  ],
+  "timestamp": "2026-08-04T05:20:53.263838685Z",
+  "model": "glm-4.5"
+}

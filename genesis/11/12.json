@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Arpakhshad vécut trente-cinq ans et engendra ⟨את⟩ Shelah",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Et Arpakhshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vécut"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "et trente"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelah"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:16.495693296Z",
+  "model": "glm-4.5"
+}

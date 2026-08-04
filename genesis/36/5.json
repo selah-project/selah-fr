@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "et Oholibamah enfanta ⟨את⟩ Jeush, et ⟨את⟩ Jalam, et ⟨את⟩ Qorach ; ceux-ci ⟨sont⟩ les fils d'Ésaü, qui lui furent nés dans le pays de Canaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "et Oholibamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "enfanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Qorach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ceux-ci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "d'Ésaü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "furent nés"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    }
+  ],
+  "timestamp": "2026-08-04T05:47:00.607423181Z",
+  "model": "glm-4.5"
+}

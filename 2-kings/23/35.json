@@ -1,0 +1,130 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "2-kings 23:35",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et l'argent et l'or ⟨a donnés⟩ Yehoyaqim à Parah, seulement ⟨il a évalué⟩ ⟨את⟩ la terre pour donner ⟨את⟩ l'argent sur la bouche de Parah, chacun selon son évaluation ⟨il a exigé⟩ ⟨את⟩ l'argent et ⟨את⟩ l'or, ⟨את⟩ le peuple de la terre pour donner à Parah-Neko.",
+  "tokens": [
+    {
+      "surface": "והכסף",
+      "gloss": "et l'argent"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "et l'or"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨a donnés⟩"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "à Parah"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "העריך",
+      "gloss": "⟨il a évalué⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'argent"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Parah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "כערכו",
+      "gloss": "selon son évaluation"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "⟨il a exigé⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'argent"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'or"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'or"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "à Parah"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Neko"
+    }
+  ],
+  "timestamp": "2026-08-04T14:43:14.748577294Z",
+  "model": "glm-4.5"
+}

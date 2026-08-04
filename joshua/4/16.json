@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Commande ⟨את⟩ les prêtres, porteurs de l'arche du témoignage, et qu'ils montent du Jourdain.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Commande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les prêtres"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "porteurs"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "de l'arche"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "du témoignage"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "et qu'ils montent"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jourdain"
+    }
+  ],
+  "timestamp": "2026-08-04T10:52:58.834802833Z",
+  "model": "glm-4.5"
+}

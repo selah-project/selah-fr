@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 66:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Et vous verrez, et votre cœur se réjouira, et vos os comme l'herbe ⟨se⟩ feront éclore ; et la main de YHWH sera connue envers ⟨את⟩ ses serviteurs, et ⟨il⟩ sera indigné envers ⟨את⟩ ses ennemis",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Et vous verrez"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "et votre cœur se réjouira"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "cœur"
+    },
+    {
+      "surface": "ועצמותיכם",
+      "gloss": "et vos os"
+    },
+    {
+      "surface": "כדשא",
+      "gloss": "comme l'herbe"
+    },
+    {
+      "surface": "תפרחנה",
+      "gloss": "⟨se⟩ feront éclore"
+    },
+    {
+      "surface": "ונודעה",
+      "gloss": "et sera connue"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la main"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "et ⟨il⟩ sera indigné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses ennemis"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ses ennemis"
+    }
+  ],
+  "timestamp": "2026-08-04T16:01:44.094270062Z",
+  "model": "glm-4.5"
+}

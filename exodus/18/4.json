@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "et le nom de l'autre était Éliézer, car ⟨le⟩ Élohim de mon père est mon aide et il m'a délivré de l'épée de Pharaon.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "et le nom"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de l'autre"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Éliézer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨le⟩ Élohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de mon père"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "est mon aide"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "et il m'a délivré"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de l'épée"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    }
+  ],
+  "timestamp": "2026-08-04T06:39:14.802363474Z",
+  "model": "glm-4.5"
+}

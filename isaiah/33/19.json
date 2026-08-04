@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Tu ne verras pas ⟨את⟩ le peuple audacieux, le peuple d'un langage obscur, qui ne peut ⟨être⟩ compris, d'une langue raillée, ⟨il n'y a⟩ pas d'intelligence.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple audacieux"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "audacieux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "verras"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "d'un langage obscur"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "langage"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "qui ne peut être compris"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "raillée"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "langue"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨il n'y a⟩ pas"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "d'intelligence"
+    }
+  ],
+  "timestamp": "2026-08-04T15:29:01.103731089Z",
+  "model": "glm-4.5"
+}

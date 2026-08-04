@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et qui frappe une bête la restituera ; et qui frappe un humain sera mis à mort",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Et qui frappe"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "une bête"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "la restituera"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "et qui frappe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un humain"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sera mis à mort"
+    }
+  ],
+  "timestamp": "2026-08-04T08:13:47.861915642Z",
+  "model": "glm-4.5"
+}

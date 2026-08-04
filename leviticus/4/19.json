@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et ⟨את⟩ tout son gras il enlèvera de lui et le fera fumer sur l'autel",
+  "tokens": [
+    {
+      "surface": "וְאֵ֥ת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout son gras"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חֶלְבּ֖וֹ",
+      "gloss": "son gras"
+    },
+    {
+      "surface": "יָרִ֣ים",
+      "gloss": "il enlèvera"
+    },
+    {
+      "surface": "מִמֶּ֑נּוּ",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "וְהִקְטִ֖יר",
+      "gloss": "et le fera fumer"
+    },
+    {
+      "surface": "הַמִּזְבֵּֽחָה",
+      "gloss": "sur l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:34.395039805Z",
+  "model": "glm-4.5"
+}

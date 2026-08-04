@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Il instruit mes mains ⟨à⟩ la guerre et ⟨un⟩ arc de cuivre est brisé par mes bras",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Il instruit"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mes mains"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨à⟩ la guerre"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "et ⟨un⟩ arc de cuivre est brisé"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arc"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "de cuivre"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "par mes bras"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:44.115990721Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "D'après le nombre d'années après le Yovel, tu achèteras ⟨את⟩ de ton ami, et d'après le nombre des années des récoltes, on te vendra.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "d'après le nombre"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "d'années"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "après"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "le Yovel"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "tu achèteras"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "de ton ami"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ton ami"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "d'après le nombre"
+    },
+    {
+      "surface": "שני",
+      "gloss": "des années"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "des récoltes"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "on te vendra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:31.565371932Z",
+  "model": "glm-4.5"
+}

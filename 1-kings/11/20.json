@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et la sœur de Tachpenès enfanta pour lui ⟨את⟩ Genoubath son fils, et Tachpenès le sevra dans la maison de Paroh, et Genoubath était dans la maison de Paroh au milieu des fils de Paroh",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֨לֶד",
+      "gloss": "et enfanta"
+    },
+    {
+      "surface": "ל֜וֹ",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "אֲח֣וֹת",
+      "gloss": "la sœur"
+    },
+    {
+      "surface": "תַּחְפְּנֵ֗ס",
+      "gloss": "de Tachpenès"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "Genoubath son fils"
+    },
+    {
+      "surface": "גְּנֻבַ֣ת",
+      "gloss": "Genoubath"
+    },
+    {
+      "surface": "בְּנ֔וֹ",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "וַתִּגְמְלֵ֣הוּ",
+      "gloss": "et le sevra"
+    },
+    {
+      "surface": "תַחְפְּנֵ֔ס",
+      "gloss": "Tachpenès"
+    },
+    {
+      "surface": "בְת֖וֹךְ",
+      "gloss": "dans"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "פַּרְעֹ֑ה",
+      "gloss": "de Paroh"
+    },
+    {
+      "surface": "וַיְהִ֤י",
+      "gloss": "et était"
+    },
+    {
+      "surface": "גְנֻבַת֙",
+      "gloss": "Genoubath"
+    },
+    {
+      "surface": "בֵּ֣ית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "פַּרְעֹ֔ה",
+      "gloss": "de Paroh"
+    },
+    {
+      "surface": "בְת֖וֹךְ",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "פַרְעֹֽה",
+      "gloss": "de Paroh"
+    }
+  ],
+  "timestamp": "2026-08-04T13:47:11.972893141Z",
+  "model": "glm-4.5"
+}

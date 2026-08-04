@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Laban rattrapa ⟨את⟩ Jacob, et Jacob planta ⟨את⟩ sa tente sur ⟨la⟩ montagne, et Laban planta ⟨את⟩ ses frères sur ⟨la⟩ montagne de Galaad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "Et rattrapa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jacob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "et Jacob"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "planta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tente"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sa tente"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "et Laban"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "planta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses frères"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "de Galaad"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:44.180310106Z",
+  "model": "glm-4.5"
+}

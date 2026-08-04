@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et David ⟨fut⟩ encore assemblé ⟨avec⟩ ⟨את⟩ tous ⟨les⟩ hommes choisis en Israël, trente mille.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Et David fut encore assemblé"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les hommes choisis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "hommes choisis"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    }
+  ],
+  "timestamp": "2026-08-04T12:58:37.342435547Z",
+  "model": "glm-4.5"
+}

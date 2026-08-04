@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et Rab-Shaqé retourna et trouva ⟨את⟩ le roi d'Assour faisant la guerre contre Libna, car il avait entendu ⟨qu'il⟩ s'était retiré de Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et retourna"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shaqé"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "et trouva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi d'Assour"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assour"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "faisant la guerre"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "il avait entendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "s'était retiré"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "de Lakish"
+    }
+  ],
+  "timestamp": "2026-08-04T15:31:58.547805766Z",
+  "model": "glm-4.5"
+}

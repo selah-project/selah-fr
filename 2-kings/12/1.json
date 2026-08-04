@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "⟨Un⟩ fils de sept ans ⟨était⟩ Yehoash dans son règne",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨Un⟩ fils de"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sept"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "dans son règne"
+    }
+  ],
+  "timestamp": "2026-08-04T14:25:14.626753796Z",
+  "model": "glm-4.5"
+}

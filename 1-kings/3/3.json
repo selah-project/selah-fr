@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Shelomoh aima ⟨את⟩ YHWH pour marcher dans les prescriptions de David son père, seulement les hauts-lieux lui ⟨sont⟩ sacrifice et fait-fumer.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Et aima"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour marcher"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "dans les prescriptions"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "les hauts-lieux"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "et fait-fumer"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:07.421604358Z",
+  "model": "glm-4.5"
+}

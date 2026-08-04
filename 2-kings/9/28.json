@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et ses serviteurs le firent monter sur un char ⟨את⟩ vers Jérusalem et l'enterrèrent dans son tombeau ⟨את⟩ avec ses pères dans la ville de David",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "et ils firent monter"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "et ils enterrèrent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le",
+      "marks": "dans son tombeau"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "dans son tombeau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ses pères"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-04T14:19:58.517247628Z",
+  "model": "glm-4.5"
+}

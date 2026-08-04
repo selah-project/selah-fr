@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et les fils d'Israël s'en allèrent et firent comme YHWH avait commandé ⟨את⟩ Moshé et Aharon, ainsi firent-ils.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "s'en allèrent"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "et firent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "firent-ils"
+    }
+  ],
+  "timestamp": "2026-08-04T06:27:56.713408858Z",
+  "model": "glm-4.5"
+}

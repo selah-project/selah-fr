@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et il renversa ⟨את⟩ ces villes et ⟨את⟩ toute la plaine et ⟨את⟩ tous les habitants des villes et ⟨la⟩ végétation de la terre",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "et il renversa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ces villes"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ces villes"
+    },
+    {
+      "surface": "האל",
+      "gloss": "et"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toute la plaine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "la plaine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tous les habitants des villes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants de"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "et la végétation"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:24:56.425522824Z",
+  "model": "glm-4.5"
+}

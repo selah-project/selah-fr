@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et le chef des bouchers chargea Joseph ⟨את⟩ avec eux et il servit ⟨את⟩ eux et ils furent des jours en garde",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "et chargea"
+    },
+    {
+      "surface": "שר",
+      "gloss": "le chef"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "des bouchers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "et il servit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et ils furent"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "en garde"
+    }
+  ],
+  "timestamp": "2026-08-04T05:52:39.903853721Z",
+  "model": "glm-4.5"
+}

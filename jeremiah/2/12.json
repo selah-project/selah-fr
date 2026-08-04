@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Soyez stupéfaits, cieux, sur ⟨ce⟩ point, et frémissez, soyez désolés ⟨très⟩ gravement — oracle de YHWH.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Soyez stupéfaits"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ce⟩ point",
+      "marks": "ce point"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "et frémissez"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "soyez désolés"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨très⟩ gravement"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T16:05:11.607399541Z",
+  "model": "glm-4.5"
+}

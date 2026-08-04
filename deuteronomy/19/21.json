@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et ton œil n'épargnera pas : nefesh pour nefesh, œil pour œil, dent pour dent, main pour main, pied pour pied.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "épargnera"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ton œil"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "pour nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pour œil"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dent"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "pour dent"
+    },
+    {
+      "surface": "יד",
+      "gloss": "main"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pour main"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pied"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "pour pied"
+    }
+  ],
+  "timestamp": "2026-08-04T10:23:20.279335205Z",
+  "model": "glm-4.5"
+}

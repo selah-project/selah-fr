@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et ses fils firent pour lui ainsi comme il ⟨leur⟩ avait commandé",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "firent"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צום",
+      "gloss": "il ⟨leur⟩ avait commandé"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:36.104012433Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Alors ils se hâtèrent et descendirent chacun ⟨את⟩ son sac ⟨à⟩ terre et ouvrirent chacun son sac",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ils se hâtèrent"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "et descendirent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son sac"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "son sac"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨à⟩ terre"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "et ouvrirent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "son sac"
+    }
+  ],
+  "timestamp": "2026-08-04T06:00:02.282895185Z",
+  "model": "glm-4.5"
+}

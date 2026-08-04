@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "C'est pourquoi je te louerai, YHWH, ⟨parmi⟩ les nations, et je chanterai ⟨pour⟩ ton nom.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "je te louerai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "⟨parmi⟩ les nations"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "et ⟨pour⟩ ton nom"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "je chanterai"
+    }
+  ],
+  "timestamp": "2026-08-04T13:25:12.196800350Z",
+  "model": "glm-4.5"
+}

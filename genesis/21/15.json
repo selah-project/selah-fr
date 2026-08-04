@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et les eaux furent consumées de ⟨la⟩ outre, et elle jeta ⟨את⟩ l'enfant sous un des broussailles",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Et furent consumées"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "⟨la⟩ outre"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "et elle jeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'enfant"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "des broussailles"
+    }
+  ],
+  "timestamp": "2026-08-04T05:27:14.424644657Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et le roi d'Égypte leur dit : Pourquoi, Moïse et Aaron, faites-vous chômer ⟨את⟩ le peuple de ⟨ses⟩ travaux ? Allez à ⟨vos⟩ corvées.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "faites-vous chômer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "de ⟨ses⟩ travaux"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "allez"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "à ⟨vos⟩ corvées"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:11.098997329Z",
+  "model": "glm-4.5"
+}

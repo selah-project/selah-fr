@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Son pays est aussi plein d'idoles, ils se prosternent devant l'œuvre de leurs mains, ce que leurs doigts ont fait",
+  "tokens": [
+    {
+      "surface": "וַתִּמָּלֵ֥א",
+      "gloss": "est plein"
+    },
+    {
+      "surface": "אַרְצ֖וֹ",
+      "gloss": "son pays"
+    },
+    {
+      "surface": "אֱלִילִ֑ים",
+      "gloss": "d'idoles"
+    },
+    {
+      "surface": "לְמַעֲשֵׂ֤ה",
+      "gloss": "devant l'œuvre"
+    },
+    {
+      "surface": "יָדָיו֙",
+      "gloss": "de leurs mains"
+    },
+    {
+      "surface": "יִֽשְׁתַּחֲו֔וּ",
+      "gloss": "ils se prosternent"
+    },
+    {
+      "surface": "לַאֲשֶׁ֥ר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עָשׂ֖וּ",
+      "gloss": "ont fait"
+    },
+    {
+      "surface": "אֶצְבְּעֹתָֽיו",
+      "gloss": "leurs doigts"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:14.434793363Z",
+  "model": "glm-4.5"
+}

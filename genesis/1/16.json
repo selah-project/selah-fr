@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim fit ⟨את⟩ les deux grands luminaires, ⟨את⟩ le grand luminaire pour la domination du jour, et ⟨את⟩ le petit luminaire pour la domination de la nuit, et ⟨את⟩ les étoiles",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les deux grands luminaires"
+    },
+    {
+      "surface": "שני",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "grands luminaires"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "grands"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le grand luminaire"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "le grand luminaire"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "grand"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pour la domination"
+    },
+    {
+      "surface": "היום",
+      "gloss": "du jour"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le petit luminaire"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "le petit luminaire"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "petit"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pour la domination"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "de la nuit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les étoiles"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "les étoiles"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:37.789299574Z",
+  "model": "glm-4.5"
+}

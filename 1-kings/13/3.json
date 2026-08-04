@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et il donna, dans ce jour-là, un signe, en disant : « C'est ⟨est⟩ le signe dont YHWH a parlé : Voici, l'autel va se fendre et la cendre ⟨qui est⟩ sur lui va se répandre ».",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Et il donna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dans le jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "celui-là"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "un signe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "le signe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "va se fendre"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "et va se répandre"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "la cendre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui est⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    }
+  ],
+  "timestamp": "2026-08-04T13:50:51.558666968Z",
+  "model": "glm-4.5"
+}

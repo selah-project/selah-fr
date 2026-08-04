@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et ⟨את⟩ sa maison construisit Shelomoh treize ans, et il acheva ⟨את⟩ toute sa maison",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Et ⟨את⟩",
+      "marks": "sa maison"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "construisit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "treize"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "et il acheva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute sa maison"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    }
+  ],
+  "timestamp": "2026-08-04T13:38:35.806976346Z",
+  "model": "glm-4.5"
+}

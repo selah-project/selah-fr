@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "et j'enverrai devant toi un messager, et je chasserai ⟨את⟩ le Cananéen, l'Amoréen, le Hittite, le Perizite, le Hivite et le Jébusite",
+  "tokens": [
+    {
+      "surface": "וְשָׁלַחְתִּ֥י",
+      "gloss": "et j'enverrai"
+    },
+    {
+      "surface": "לְפָנֶ֖יךָ",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "מַלְאָ֑ךְ",
+      "gloss": "un messager"
+    },
+    {
+      "surface": "וְגֵֽרַשְׁתִּ֗י",
+      "gloss": "et je chasserai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le Cananéen, l'Amoréen, le Hittite, le Perizite, le Hivite et le Jébusite"
+    },
+    {
+      "surface": "הַֽכְּנַעֲנִי֙",
+      "gloss": "le Cananéen"
+    },
+    {
+      "surface": "הָֽאֱמֹרִ֔י",
+      "gloss": "l'Amoréen"
+    },
+    {
+      "surface": "וְהַֽחִתִּי֙",
+      "gloss": "le Hittite"
+    },
+    {
+      "surface": "וְהַפְּרִזִּ֔י",
+      "gloss": "le Perizite"
+    },
+    {
+      "surface": "הַחִוִּ֖י",
+      "gloss": "le Hivite"
+    },
+    {
+      "surface": "וְהַיְבוּסִֽי",
+      "gloss": "et le Jébusite"
+    }
+  ],
+  "timestamp": "2026-08-04T07:07:47.969447761Z",
+  "model": "glm-4.5"
+}

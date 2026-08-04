@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et ⟨le⟩ peuple cria vers Moïse ; et Moïse pria YHWH, et ⟨le⟩ feu s'apaisa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Et cria"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "et pria"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "et s'apaisa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨le⟩ feu"
+    }
+  ],
+  "timestamp": "2026-08-04T08:47:22.849330588Z",
+  "model": "glm-4.5"
+}

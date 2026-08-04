@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et Yehoshoua renvoya ⟨את⟩ le peuple, chaque homme vers son héritage.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et renvoya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chaque homme"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "vers son héritage"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:53.262858027Z",
+  "model": "glm-4.5"
+}

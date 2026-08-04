@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et il sacrifia ⟨את⟩ tous les prêtres des hauts lieux qui étaient là sur les autels et il brûla ⟨את⟩ des ossements d'homme sur eux et il revint à Jérusalem",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Et il sacrifia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les prêtres des hauts lieux"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "des hauts lieux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "étaient là"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "les autels"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "et il brûla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "des ossements d'homme"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "des ossements"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'homme"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il revint"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "à Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-04T14:42:27.250080480Z",
+  "model": "glm-4.5"
+}

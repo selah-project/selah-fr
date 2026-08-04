@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Comme ⟨ma⟩ main ⟨a⟩ trouvé ⟨le⟩ royaume de l'idole — et leurs images taillées, [plus] que Jérusalem et que Samarie.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Comme"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "a trouvé"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "le royaume de"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "l'idole"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "et leurs images taillées"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "[plus] que Jérusalem"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "et que Samarie"
+    }
+  ],
+  "timestamp": "2026-08-04T14:57:54.291577074Z",
+  "model": "glm-4.5"
+}

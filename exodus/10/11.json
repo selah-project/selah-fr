@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Pas ainsi, allez donc, ⟨les⟩ hommes, et servez YHWH, car c'est ⟨cela⟩ que vous recherchez ; et on les chassa de devant la face de Pharaon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Pas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "allez"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "et servez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "c'est ⟨cela⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "recherchez"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "et on chassa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "de devant"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    }
+  ],
+  "timestamp": "2026-08-04T06:25:06.563104705Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et Laban rassembla ⟨את⟩ tous les hommes du lieu et fit un festin.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Et il rassembla"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les hommes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "du lieu"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et il fit"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "un festin"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:17.203715025Z",
+  "model": "glm-4.5"
+}

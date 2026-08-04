@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "YHWH a pris plaisir pour ⟨le⟩ sake de ⟨sa⟩ justice, il magnifie ⟨la⟩ Torah et la rend glorifiée.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a pris plaisir"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pour ⟨le⟩ sake de"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "⟨sa⟩ justice"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "il magnifie"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "⟨la⟩ Torah"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "et la rend glorifiée"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:19.734613237Z",
+  "model": "glm-4.5"
+}

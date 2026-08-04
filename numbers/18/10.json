@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Dans le lieu saint des saints tu le mangeras ; tout mâle le mangera, ⟨il est⟩ saint pour toi.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Dans le lieu saint"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "des saints"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "tu le mangeras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "est"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    }
+  ],
+  "timestamp": "2026-08-04T09:03:21.867297922Z",
+  "model": "glm-4.5"
+}

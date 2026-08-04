@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Yehonatan répondit ⟨את⟩ Shaoul : David a demandé instamment, il a demandé [permission] d'aller à Beth-Lehem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "a demandé instamment"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "il a demandé [permission]"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "de ma part"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-04T12:36:52.935522738Z",
+  "model": "glm-4.5"
+}

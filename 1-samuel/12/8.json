@@ -1,0 +1,100 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Quand ⟨Jacob⟩ ⟨est⟩ entré en Égypte, vos pères ont crié vers YHWH, et YHWH a envoyé ⟨את⟩ Moshé et ⟨את⟩ Aaron, et ils ont fait sortir ⟨את⟩ vos pères d'Égypte et ils les ont fait habiter dans ⟨ce⟩ lieu-ci.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨est⟩ entré"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "⟨Jacob⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "et vos pères ont crié"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et YHWH a envoyé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "et ils ont fait sortir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos pères"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "et ils les ont fait habiter"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "dans ⟨ce⟩ lieu-ci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-04T12:19:50.244682004Z",
+  "model": "glm-4.5"
+}

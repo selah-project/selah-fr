@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et il but du vin et s'enivra et se découvrit au ⟨milieu⟩ de ⟨sa⟩ tente",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "et il but"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "et s'enivra"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "et se découvrit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au ⟨milieu⟩"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "de ⟨sa⟩ tente"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:59.394496605Z",
+  "model": "glm-4.5"
+}

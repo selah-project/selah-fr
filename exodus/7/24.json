@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et tous les Égyptiens creusèrent ⟨autour⟩ du Nil pour ⟨trouver de⟩ l'eau à boire, car ils ne pouvaient pas boire des eaux du Nil.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "Et ils creusèrent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "⟨autour⟩"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "du Nil"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨trouver de⟩ l'eau"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "à boire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "pouvaient"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "boire"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "du Nil"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:52.277006564Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Voici, sur des paumes je t'ai gravé ⟨את⟩, tes mures sont constamment devant moi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "des paumes"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "je t'ai gravé ⟨את⟩",
+      "marks": "tes mures"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "tes mures"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "constamment"
+    }
+  ],
+  "timestamp": "2026-08-04T15:44:46.119346925Z",
+  "model": "glm-4.5"
+}

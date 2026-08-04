@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Il me fit sortir ⟨את⟩ vers un lieu large, me délivra, car Il avait plaisir en moi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et Il fit sortir"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "vers un lieu large"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "me délivra"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Il me délivra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Il avait plaisir"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:15.597279238Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Et Israël dit : pourquoi m'avez-vous ⟨fait⟩ du mal, ⟨pour⟩ dire à l'homme que vous aviez encore un frère ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "m'avez-vous ⟨fait⟩ du mal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨à⟩ moi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "⟨pour⟩ dire"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à l'homme"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "que vous aviez encore"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨que⟩ vous"
+    },
+    {
+      "surface": "אח",
+      "gloss": "un frère"
+    }
+  ],
+  "timestamp": "2026-08-04T05:57:35.862304260Z",
+  "model": "glm-4.5"
+}

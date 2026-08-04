@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Prophétie sur Moab : car dans la nuit Ar de Moab ⟨est⟩ dévastée, elle ⟨est⟩ réduite au silence ; car dans la nuit Kir de Moab ⟨est⟩ dévastée, elle ⟨est⟩ réduite au silence.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Prophétie"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sur Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "dans la nuit"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dévastée"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "réduite au silence"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "dans la nuit"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dévastée"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "réduite au silence"
+    }
+  ],
+  "timestamp": "2026-08-04T15:03:42.410746289Z",
+  "model": "glm-4.5"
+}

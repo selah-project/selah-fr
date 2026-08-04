@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Écoutez, cieux, et prêtez l'oreille, terre ! Car YHWH a parlé : Des fils j'ai fait grandir et j'ai élevé, et eux, ils ont péché contre moi.",
+  "tokens": [
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "שָׁמַיִם",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "וְהַאֲזִינִי",
+      "gloss": "et prêtez l'oreille"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דִּבֵּר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "בָּנִים",
+      "gloss": "fils"
+    },
+    {
+      "surface": "גִּדַּלְתִּי",
+      "gloss": "j'ai fait grandir"
+    },
+    {
+      "surface": "וְרוֹמַמְתִּי",
+      "gloss": "et j'ai élevé"
+    },
+    {
+      "surface": "וְהֵם",
+      "gloss": "et eux"
+    },
+    {
+      "surface": "פָּשְׁעוּ",
+      "gloss": "ils ont péché"
+    },
+    {
+      "surface": "בִֽי",
+      "gloss": "contre moi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:59.701321890Z",
+  "model": "glm-4.5"
+}

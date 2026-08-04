@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et leurs enfants seront brisés devant leurs yeux, ⟨את⟩ leurs maisons seront pillées, et leurs femmes violées",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "Et leurs enfants"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "seront brisés"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "devant leurs yeux"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "seront pillées"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs maisons"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "leurs maisons"
+    },
+    {
+      "surface": "ונשיהם תשגלנה",
+      "gloss": "et leurs femmes violées"
+    }
+  ],
+  "timestamp": "2026-08-04T15:00:25.068323345Z",
+  "model": "glm-4.5"
+}

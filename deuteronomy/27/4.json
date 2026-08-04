@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et il sera, ⟨quand⟩ vous aurez passé ⟨את⟩ le Jourdain, vous dresserez ⟨את⟩ ces pierres, que je vous commande ⟨le⟩ jour, sur la montagne d'Ébal, et vous les enduirez ⟨את⟩ de chaux.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et il sera"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "⟨quand⟩ vous aurez passé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "vous dresserez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ces pierres"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ces pierres"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "je commande"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "vous"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "commande"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨le⟩ jour"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "d'Ébal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "et vous enduirez"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "de chaux"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "de chaux"
+    }
+  ],
+  "timestamp": "2026-08-04T10:35:42.554830306Z",
+  "model": "glm-4.5"
+}

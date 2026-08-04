@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et si vraiment mangé est mangé ⟨le⟩ jour ⟨le⟩ troisième, c’est une abomination, il ne sera pas agréé",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "vraiment mangé"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "est mangé"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨le⟩ jour"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨le⟩ troisième"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "c’est une abomination"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "sera pas agréé"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:32.976939444Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et YHWH frappa ⟨את⟩ le peuple parce qu'ils avaient fait ⟨את⟩ le veau qu'avait fait Aharon",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Et frappa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "על",
+      "gloss": "parce qu'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ils"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "avaient fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le veau"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "le veau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "avait fait"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-04T07:07:12.881812882Z",
+  "model": "glm-4.5"
+}

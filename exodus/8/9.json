@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et YHWH fit selon la parole de Moïse, et les grenouilles moururent des maisons, des cours et des champs.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon la parole de"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "et moururent"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "les grenouilles"
+    },
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "maisons"
+    },
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "cours"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et des"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "champs"
+    }
+  ],
+  "timestamp": "2026-08-04T06:21:22.925202672Z",
+  "model": "glm-4.5"
+}

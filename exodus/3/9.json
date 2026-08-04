@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et maintenant, voici, le cri des fils d'Israël ⟨est⟩ venu jusqu'à moi, et aussi j'ai vu ⟨את⟩ la détresse dont Mitsraïm ⟨les⟩ opprime",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "le cri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "באה",
+      "gloss": "⟨est⟩ venu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jusqu'à moi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la détresse"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "la détresse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraïm"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "oppriment"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨les⟩",
+      "marks": "les fils d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T06:14:54.941767927Z",
+  "model": "glm-4.5"
+}

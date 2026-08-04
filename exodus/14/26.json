@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et YHWH dit à Moïse : tends ⟨את⟩ ta main sur la mer, et les eaux retourneront sur les Égyptiens, sur ses chars et sur ses cavaliers.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "tends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "et retourneront"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ses chars"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "ses cavaliers"
+    }
+  ],
+  "timestamp": "2026-08-04T06:31:23.322045725Z",
+  "model": "glm-4.5"
+}

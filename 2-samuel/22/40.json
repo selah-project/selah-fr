@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "2-samuel 22:40",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car tu m'as ceint de force pour ⟨la⟩ guerre, tu fais fléchir ⟨ceux qui⟩ se lèvent contre moi, tu les mets ⟨sous⟩ moi.",
+  "tokens": [
+    {
+      "surface": "וַתַּזְרֵ֥נִי",
+      "gloss": "tu m'as ceint"
+    },
+    {
+      "surface": "חַ֖יִל",
+      "gloss": "de force"
+    },
+    {
+      "surface": "לַמִּלְחָמָ֑ה",
+      "gloss": "pour la guerre"
+    },
+    {
+      "surface": "תַּכְרִ֥יעַ",
+      "gloss": "tu fais fléchir"
+    },
+    {
+      "surface": "קָמַ֖י",
+      "gloss": "ceux qui se lèvent contre moi"
+    },
+    {
+      "surface": "תַּחְתֵּֽנִי",
+      "gloss": "tu [les] mets sous moi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:55.408285401Z",
+  "model": "glm-4.5"
+}

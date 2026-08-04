@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il advint, quand il eut fini de parler à Shaoul, que la nefesh de Yehonatan fut liée à la nefesh de David, et Yehonatan l'aima comme sa propre nefesh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "quand il eut fini"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "de parler"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "que la nefesh"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "de Yehonatan"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "fut liée"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "à la nefesh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "et Yehonatan l'aima"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": ""
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "comme sa propre nefesh"
+    }
+  ],
+  "timestamp": "2026-08-04T12:33:39.469513547Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et ce qu'il fit ⟨était⟩ mauvais aux yeux de YHWH, et il le fit mourir aussi.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "et ce fut mauvais"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il fit"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il fit mourir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le"
+    }
+  ],
+  "timestamp": "2026-08-04T05:50:09.947584898Z",
+  "model": "glm-4.5"
+}

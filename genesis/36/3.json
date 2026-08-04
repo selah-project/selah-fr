@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "et ⟨את⟩ Basemath fille d'Ismaël, sœur de Nebayoth",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Basemath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "d'Ismaël"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sœur"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "de Nebayoth"
+    }
+  ],
+  "timestamp": "2026-08-04T05:46:36.108664893Z",
+  "model": "glm-4.5"
+}

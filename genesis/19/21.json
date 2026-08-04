@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il lui dit : Voici, j'ai ⟨accepté⟩ ta face aussi pour cette parole, ⟨pour⟩ ne pas ⟨renverser⟩ ⟨את⟩ la ville dont tu as parlé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "j'ai ⟨accepté⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pour cette parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "⟨pour⟩ ne pas"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "⟨renverser⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu as parlé"
+    }
+  ],
+  "timestamp": "2026-08-04T05:25:03.483906106Z",
+  "model": "glm-4.5"
+}

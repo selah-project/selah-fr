@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Sur une montagne haute et élevée tu as placé ta couche, aussi là tu es monté pour sacrifier ⟨un⟩ sacrifice",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הר",
+      "gloss": "une montagne"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "haute"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "et élevée"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tu as placé"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ta couche"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "tu es monté"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pour sacrifier"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "⟨un⟩ sacrifice",
+      "marks": "sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-04T15:51:13.514803815Z",
+  "model": "glm-4.5"
+}

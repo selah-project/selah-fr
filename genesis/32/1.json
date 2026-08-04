@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Laban se leva ⟨le⟩ matin, et il embrassa ses fils et ses filles, et il les bénit, et Laban s'en alla et retourna ⟨vers⟩ son ⟨lieu⟩.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "et il se leva"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "et il embrassa"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "et ses filles"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et il bénit"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨les⟩",
+      "marks": "ses fils et ses filles"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et il s'en alla"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et retourna"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "⟨vers⟩ son ⟨lieu⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:12.247795995Z",
+  "model": "glm-4.5"
+}

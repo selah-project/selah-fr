@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Jacob craignit beaucoup et fut angoissé ; et il divisa ⟨את⟩ le peuple qui était avec lui et ⟨את⟩ le petit bétail et ⟨את⟩ le gros bétail et les chameaux en deux camps.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "Et craignit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "et fut angoissé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "et il divisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le petit bétail"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "le petit bétail"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le gros bétail"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "le gros bétail"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "et les chameaux"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "en deux"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "camps"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:15.561700231Z",
+  "model": "glm-4.5"
+}

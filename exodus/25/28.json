@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et tu feras ⟨את⟩ les barres de bois de sitta, et tu les plaqueras d'or, et l'on portera avec elles ⟨את⟩ la table",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les barres"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "les barres"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "de bois"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de sitta"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "et tu les plaqueras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "d'or"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "et l'on portera"
+    },
+    {
+      "surface": "בם",
+      "gloss": "avec elles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la table"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la table"
+    }
+  ],
+  "timestamp": "2026-08-04T06:50:12.845134974Z",
+  "model": "glm-4.5"
+}

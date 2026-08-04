@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Car le roi entendra pour délivrer ⟨את⟩ sa servante de la main de l'homme, pour détruire avec mon fils de l'héritage d'Élohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "entendra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "pour délivrer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa servante"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sa servante"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "pour détruire"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "avec mon fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "mon fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "de l'héritage"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T13:11:30.779793563Z",
+  "model": "glm-4.5"
+}

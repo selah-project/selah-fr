@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "et ⟨את⟩ votre petit frère faites venir vers moi et seront fidèles vos paroles et vous ne mourrez pas et ils firent ainsi",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "votre petit frère"
+    },
+    {
+      "surface": "אֲחִיכֶ֤ם",
+      "gloss": "votre petit frère"
+    },
+    {
+      "surface": "הַקָּטֹן֙",
+      "gloss": "⟨le petit⟩"
+    },
+    {
+      "surface": "תָּבִ֣יאוּ",
+      "gloss": "faites venir"
+    },
+    {
+      "surface": "אֵלַ֔י",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "וְיֵאָמְנ֥וּ",
+      "gloss": "et seront fidèles"
+    },
+    {
+      "surface": "דִבְרֵיכֶ֖ם",
+      "gloss": "vos paroles"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תָמ֑וּתוּ",
+      "gloss": "mourrez pas"
+    },
+    {
+      "surface": "וַיַּעֲשׂוּ",
+      "gloss": "et ils firent"
+    },
+    {
+      "surface": "כֵֽן",
+      "gloss": "ainsi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:33.720324795Z",
+  "model": "glm-4.5"
+}

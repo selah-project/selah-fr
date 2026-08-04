@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et après ⟨le⟩ peuple partit de Hatséroth, et ils campèrent dans le désert de Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Et après"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "partirent"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "de Hatséroth"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "et ils campèrent"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "de Paran"
+    }
+  ],
+  "timestamp": "2026-08-04T08:49:48.834364693Z",
+  "model": "glm-4.5"
+}

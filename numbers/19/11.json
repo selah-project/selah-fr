@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Celui qui touche ⟨un⟩ corps, pour toute nefesh d'Adam, ⟨est⟩ impur ⟨pendant⟩ sept jours.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "Celui qui touche"
+    },
+    {
+      "surface": "במת",
+      "gloss": "⟨un⟩ corps"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour toute"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "⟨est⟩ impur"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    }
+  ],
+  "timestamp": "2026-08-04T09:04:53.186342975Z",
+  "model": "glm-4.5"
+}

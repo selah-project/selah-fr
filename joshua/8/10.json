@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Yehoshoua se leva ⟨le⟩ matin, et il fit la revue de ⟨את⟩ le peuple, et il monta, lui et les anciens d'Israël, devant le peuple vers Ha-Aï.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Et se leva"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "et fit la revue de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "et il monta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "et les anciens de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Aï"
+    }
+  ],
+  "timestamp": "2026-08-04T10:59:42.082562586Z",
+  "model": "glm-4.5"
+}

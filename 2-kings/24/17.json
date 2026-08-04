@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et fit régner le roi de Babel ⟨את⟩ Mattania, son oncle, à sa place, et changea ⟨את⟩ son nom en Sidqiyyahou",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "Et fit régner"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattania"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattania"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "son oncle"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "à sa place"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "et changea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "en Sidqiyyahou"
+    }
+  ],
+  "timestamp": "2026-08-04T14:43:44.336719948Z",
+  "model": "glm-4.5"
+}

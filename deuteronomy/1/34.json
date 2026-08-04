@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH entendit ⟨את⟩ la voix de vos paroles et il fit éclater sa colère et jura, en disant",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et YHWH entendit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voix"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "de vos paroles"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "et il fit éclater sa colère"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "et jura"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T09:49:42.208431484Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Mais je sais ton séjour, et ta sortie, et ton entrée, et ⟨את⟩ ta fureur contre moi.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "et ton séjour"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "et ta sortie"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "et ton entrée"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je sais"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ta fureur contre moi"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ta fureur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "contre moi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:38:04.937547394Z",
+  "model": "glm-4.5"
+}

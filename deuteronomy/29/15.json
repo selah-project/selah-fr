@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "car vous savez ⟨ce que⟩ nous avons demeuré au pays de Mitsraïm et ⟨ce que⟩ nous avons passé au milieu des nations par lesquelles vous avez passé",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "savez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que nous avons demeuré"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nous avons demeuré"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "au pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsraïm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ce que nous avons passé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "nous avons passé"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par lesquelles"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "vous avez passé"
+    }
+  ],
+  "timestamp": "2026-08-04T10:40:40.416333557Z",
+  "model": "glm-4.5"
+}

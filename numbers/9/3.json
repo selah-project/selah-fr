@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 9:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Le quatorze ⟨du⟩ mois ⟨celui-ci⟩, entre les deux soirs, vous ⟨le⟩ ferez à son temps fixé, selon tous ses décrets et selon tous ses jugements vous ⟨le⟩ ferez.",
+  "tokens": [
+    {
+      "surface": "בארבעה",
+      "gloss": "quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "dans le mois"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "les deux soirs"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "le Pessah (lui)"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "à son temps fixé"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tous"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "ses décrets"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "et selon tous"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ses jugements"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "le Pessah (lui)"
+    }
+  ],
+  "timestamp": "2026-08-04T08:41:33.329273948Z",
+  "model": "glm-4.5"
+}

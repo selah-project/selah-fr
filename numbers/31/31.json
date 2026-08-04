@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Moïse fit, et Eléazar ⟨le⟩ prêtre, comme YHWH avait commandé ⟨את⟩ Moïse.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "et Eléazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨le⟩ prêtre"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moïse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    }
+  ],
+  "timestamp": "2026-08-04T09:38:06.131048328Z",
+  "model": "glm-4.5"
+}

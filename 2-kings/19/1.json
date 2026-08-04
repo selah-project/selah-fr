@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il arriva, lorsqu'entendit le roi Hizqiyyahou, qu'il déchira ⟨את⟩ ses vêtements et se couvrit de ⟨sac⟩ et entra ⟨dans⟩ ⟨la⟩ maison de YHWH",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lorsqu'entendit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizqiyyahou"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "qu'il déchira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses vêtements"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "et se couvrit"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "de sac"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et entra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T14:36:47.543042467Z",
+  "model": "glm-4.5"
+}

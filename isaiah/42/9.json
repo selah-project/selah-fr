@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Les premières choses, voici, elles sont arrivées, et les nouvelles, je ⟨les⟩ déclare ; avant qu'elles ne poussent, je vous fais entendre.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Les premières choses"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "באו",
+      "gloss": "elles sont arrivées"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "et les nouvelles"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "déclare"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "avant"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "qu'elles ne poussent"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "je fais entendre"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:14.501334122Z",
+  "model": "glm-4.5"
+}

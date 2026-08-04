@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Traverse ta terre comme le Nil, fille de Tarsis : il n'y a plus de ceinture désormais.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Traverse"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ta terre"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "comme le Nil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "de Tarsis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a plus"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "de ceinture"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "désormais"
+    }
+  ],
+  "timestamp": "2026-08-04T15:16:50.228722734Z",
+  "model": "glm-4.5"
+}

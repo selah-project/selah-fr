@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ils frappèrent ⟨את⟩ toute la nefesh qui ⟨était⟩ dedans par le tranchant de l'épée, le dévouant à ⟨la destruction⟩; il ne resta aucune respiration, et ⟨את⟩ Hatsor, il brûla par le feu",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "et ils frappèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨était⟩ dedans"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "par"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "le tranchant de l'épée"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "le dévouement à ⟨la destruction⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "resta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aucune"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "respiration"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "il brûla"
+    },
+    {
+      "surface": "באש",
+      "gloss": "par le feu"
+    }
+  ],
+  "timestamp": "2026-08-04T11:05:02.225974132Z",
+  "model": "glm-4.5"
+}

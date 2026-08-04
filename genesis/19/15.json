@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et comme l'aube montait, les messagers pressèrent Lot en disant : Lève-toi, prends ⟨את⟩ ta femme et ⟨את⟩ tes deux filles qui se trouvent là, de peur que tu ne sois balayé dans l'iniquité de la ville.",
+  "tokens": [
+    {
+      "surface": "וּכְמוֹ",
+      "gloss": "et comme"
+    },
+    {
+      "surface": "הַשַּׁחַר",
+      "gloss": "l'aube"
+    },
+    {
+      "surface": "עָלָה",
+      "gloss": "montait"
+    },
+    {
+      "surface": "וַיָּאִיצוּ",
+      "gloss": "pressèrent"
+    },
+    {
+      "surface": "הַמַּלְאָכִים",
+      "gloss": "les messagers"
+    },
+    {
+      "surface": "בְּלוֹט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "קוּם",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "קַח",
+      "gloss": "prends"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ta femme"
+    },
+    {
+      "surface": "אִשְׁתְּךָ",
+      "gloss": "ta femme"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tes deux filles"
+    },
+    {
+      "surface": "שְׁתֵּי",
+      "gloss": "deux"
+    },
+    {
+      "surface": "בְנֹתֶיךָ",
+      "gloss": "filles"
+    },
+    {
+      "surface": "הַנִּמְצָאת",
+      "gloss": "qui se trouvent ⟨là⟩"
+    },
+    {
+      "surface": "פֶּן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תִּסָּפֶה",
+      "gloss": "tu ne sois balayé"
+    },
+    {
+      "surface": "בַּעֲוֺן",
+      "gloss": "dans l'iniquité"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "de la ville"
+    }
+  ],
+  "timestamp": "2026-08-04T05:25:00.127094104Z",
+  "model": "glm-4.5"
+}

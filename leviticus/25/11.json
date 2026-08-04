@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "un Yovel, c'est la cinquantième année, elle sera pour vous ; vous ne sèmerez pas et vous ne moissonnerez pas ⟨את⟩ ses repousses, et vous ne vendangerez pas ⟨את⟩ ses produits",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "un Yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "la"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "cinquantième"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "année"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "elle sera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "sèmerez pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "moissonnerez pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses repousses"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "ses repousses"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "vendangerez pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses produits"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "ses produits"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:01.738032502Z",
+  "model": "glm-4.5"
+}

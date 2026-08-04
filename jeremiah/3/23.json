@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "jeremiah 3:23",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "En vain, le tumulte des montagnes, la foule des collines ; en effet, en YHWH notre Élohim est la délivrance d'Israël.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "en vain"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "le tumulte"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "des montagnes"
+    },
+    {
+      "surface": "המון",
+      "gloss": "la foule"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "des collines"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "en effet"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "la délivrance"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T16:06:31.021369075Z",
+  "model": "glm-4.5"
+}

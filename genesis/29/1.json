@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et Jacob leva ses pieds et alla vers ⟨le⟩ pays des fils de l'Orient",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Et leva"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ses pieds"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et alla"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "vers ⟨le⟩ pays"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "de l'Orient"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:09.542675273Z",
+  "model": "glm-4.5"
+}

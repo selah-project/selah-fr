@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "et Jacob écouta son père et sa mère et partit pour Paddan-Aram",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "et écouta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et partit"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-04T05:36:12.108631784Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Et il envoya ⟨את⟩ ses frères, et ils s'en allèrent, et il leur dit : Ne vous disputez pas en chemin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et il envoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses frères"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "et ils s'en allèrent"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "vous disputez pas"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "en chemin"
+    }
+  ],
+  "timestamp": "2026-08-04T06:01:52.738454113Z",
+  "model": "glm-4.5"
+}

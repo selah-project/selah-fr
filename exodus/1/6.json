@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Joseph mourut, et tous ses frères, et toute cette génération",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "la génération"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "cette"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:18.827050019Z",
+  "model": "glm-4.5"
+}

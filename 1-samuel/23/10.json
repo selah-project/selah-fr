@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et David dit : YHWH, Élohim d'Israël, ton serviteur ⟨a⟩ bien entendu que Sha'ül cherche à venir à Keïla pour détruire la ville à cause de moi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et David dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ton serviteur ⟨a⟩ bien entendu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "entendu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cherche"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ül"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "à venir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keïla"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "pour détruire"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "à cause de moi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:39:59.454076743Z",
+  "model": "glm-4.5"
+}

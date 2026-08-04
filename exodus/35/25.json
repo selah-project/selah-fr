@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et toute femme sage de cœur ⟨a⟩ filé de ⟨ses⟩ mains, et ⟨elles⟩ ont apporté ⟨ce⟩ qui ⟨a⟩ été filé : ⟨את⟩ le bleu, et ⟨את⟩ le pourpre, ⟨את⟩ le vermillon, et ⟨את⟩ le lin.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Et toute"
+    },
+    {
+      "surface": "אִשָּׁ֥ה",
+      "gloss": "femme"
+    },
+    {
+      "surface": "חַכְמַת",
+      "gloss": "sage"
+    },
+    {
+      "surface": "לֵ֖ב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "בְּיָדֶ֣יהָ",
+      "gloss": "de ⟨ses⟩ mains"
+    },
+    {
+      "surface": "טָו֑וּ",
+      "gloss": "filé"
+    },
+    {
+      "surface": "וַיָּבִ֣יאוּ",
+      "gloss": "et ⟨elles⟩ ont apporté"
+    },
+    {
+      "surface": "מַטְוֶ֗ה",
+      "gloss": "⟨ce⟩ qui ⟨a⟩ été filé"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "le bleu"
+    },
+    {
+      "surface": "הַתְּכֵ֨לֶת֙",
+      "gloss": "le bleu"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le pourpre"
+    },
+    {
+      "surface": "הָֽאַרְגָּמָ֔ן",
+      "gloss": "le pourpre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le vermillon"
+    },
+    {
+      "surface": "תּוֹלַ֥עַת",
+      "gloss": "vermillon"
+    },
+    {
+      "surface": "הַשָּׁנִ֖י",
+      "gloss": "⟨le⟩ rouge"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le lin"
+    },
+    {
+      "surface": "הַשֵּֽׁשׁ",
+      "gloss": "le lin"
+    }
+  ],
+  "timestamp": "2026-08-04T07:12:00.327246274Z",
+  "model": "glm-4.5"
+}

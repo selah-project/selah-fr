@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim créa ⟨את⟩ l'humain à son image, à l'image d'Élohim il créa ⟨את⟩ lui, mâle et femelle il créa ⟨את⟩ eux",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Et créa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "à son image"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "à l'image"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "il créa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "et femelle"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "il créa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:56.266953296Z",
+  "model": "glm-4.5"
+}

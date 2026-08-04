@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Justice, justice tu ⟨pourras⟩ poursuivre, afin que tu ⟨puisses⟩ vivre et que tu possèdes ⟨את⟩ la terre que YHWH ton Élohim ⟨est en train de⟩ donner à toi",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "tu ⟨pourras⟩ poursuivre"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tu ⟨puisses⟩ vivre"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "et que tu possèdes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨est en train de⟩ donner"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T10:20:23.938349288Z",
+  "model": "glm-4.5"
+}

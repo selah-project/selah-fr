@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "que mon père a combattu pour vous et a jeté ⟨את⟩ sa vie contre, et a délivré ⟨את⟩ vous de la main de Midiân",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "a combattu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "et a jeté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa vie"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa vie"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "contre"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "et a délivré"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de Midiân"
+    }
+  ],
+  "timestamp": "2026-08-04T11:45:42.805842811Z",
+  "model": "glm-4.5"
+}

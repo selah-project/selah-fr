@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Des chevaux bien nourris, ⟨ils sont⟩ coureurs matinaux, chaque homme ⟨hennit⟩ vers la femme de son compagnon.",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "Des chevaux"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "bien nourris"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "coureurs matinaux"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ils sont⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chaque homme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "de son compagnon"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "⟨hennit⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T16:08:39.900243006Z",
+  "model": "glm-4.5"
+}

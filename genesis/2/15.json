@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH Élohim prit ⟨את⟩ l'humain et le plaça dans le jardin d'Éden pour le servir et pour le garder.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "et le plaça"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "dans le jardin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "d'Éden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "pour le servir"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "et pour le garder"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:43.016993108Z",
+  "model": "glm-4.5"
+}

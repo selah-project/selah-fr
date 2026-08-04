@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et ⟨leurs⟩ recensés ⟨selon⟩ leurs familles ⟨furent⟩ trois mille et deux cents",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "et ⟨furent⟩"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "⟨leurs⟩ recensés"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨selon⟩ leurs familles"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "et deux cents"
+    }
+  ],
+  "timestamp": "2026-08-04T08:29:43.661073876Z",
+  "model": "glm-4.5"
+}

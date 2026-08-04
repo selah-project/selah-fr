@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et ⟨את⟩ la fille de l'autruche, et ⟨את⟩ le chat-huant, et ⟨את⟩ la mouette, et ⟨את⟩ l'épervier selon son espèce",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la fille de l'autruche"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "de l'autruche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le chat-huant"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "le chat-huant"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la mouette"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "la mouette"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'épervier"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "l'épervier"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:19.023566120Z",
+  "model": "glm-4.5"
+}

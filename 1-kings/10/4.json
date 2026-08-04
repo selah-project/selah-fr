@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et la reine de Sheba vit ⟨את⟩ toute la sagesse de Shelomo et la maison qu'il avait bâtie",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "la reine"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "de Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la sagesse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "et la maison"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "il avait bâtie"
+    }
+  ],
+  "timestamp": "2026-08-04T13:45:30.915692940Z",
+  "model": "glm-4.5"
+}

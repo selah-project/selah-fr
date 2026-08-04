@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "et aussi, certes, elle est ma sœur, la fille de mon père, seulement pas la fille de ma mère, et elle devint ma femme",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "certes"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ma sœur"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de mon père"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle est"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "de ma mère"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et elle devint"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "femme"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:19.020678392Z",
+  "model": "glm-4.5"
+}

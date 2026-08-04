@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et maintenant, que mon sang ne tombe pas ⟨à⟩ la terre loin de la face de YHWH, car le roi d'Israël est sorti pour chercher ⟨את⟩ une seule puce, comme on poursuit ⟨le⟩ corbeau ⟨dans⟩ les montagnes.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que ... ne pas"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tombe"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mon sang"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨à⟩ la terre"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "loin de"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "est sorti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pour chercher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "une seule puce"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "puce"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seule"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "poursuit"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "⟨le⟩ corbeau"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "⟨dans⟩ les montagnes"
+    }
+  ],
+  "timestamp": "2026-08-04T12:45:35.624159397Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Vraiment, tu es un Dieu qui se cache, Élohim d'Israël, le Sauveur.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Vraiment"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "אל",
+      "gloss": "un Dieu"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "qui se cache"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "le Sauveur"
+    }
+  ],
+  "timestamp": "2026-08-04T15:42:01.924784659Z",
+  "model": "glm-4.5"
+}

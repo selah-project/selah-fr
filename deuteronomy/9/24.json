@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Rebelles vous ⟨avez été⟩ avec YHWH depuis le jour ⟨que⟩ je vous ⟨ai⟩ connus.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "rebelles"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "vous ⟨avez été⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "depuis le jour"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "⟨que⟩ je vous ⟨ai⟩ connus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:10:18.824983381Z",
+  "model": "glm-4.5"
+}

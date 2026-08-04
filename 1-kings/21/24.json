@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Celui qui meurt d’Achab ⟨dans⟩ la ville, les chiens le mangeront ; et celui qui meurt ⟨dans⟩ le champ, ⟨le⟩ vol ⟨des⟩ cieux le mangera.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "celui qui meurt"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "d’Achab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeront"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "les chiens"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "et celui qui meurt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangera"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "le vol"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    }
+  ],
+  "timestamp": "2026-08-04T14:03:14.862259352Z",
+  "model": "glm-4.5"
+}

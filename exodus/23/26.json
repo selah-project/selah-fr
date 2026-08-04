@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Il n'y aura ⟨pas⟩ de fausse couche ni de stérilité dans ton pays ; ⟨את⟩ le nombre de tes jours, je le remplirai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "il n'y aura ⟨pas⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "il n'y aura"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "de fausse couche"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ni de stérilité"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "dans ton pays"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nombre de tes jours"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "le nombre"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "de tes jours"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "je le remplirai"
+    }
+  ],
+  "timestamp": "2026-08-04T06:47:46.565460671Z",
+  "model": "glm-4.5"
+}

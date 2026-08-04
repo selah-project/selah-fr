@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et David prit ⟨את⟩ les boucliers d'or qui ⟨étaient⟩ sur les serviteurs de Hadadézer, et il les apporta à Jérusalem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les boucliers d'or"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "les boucliers"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היו",
+      "gloss": "étaient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs de"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "et il les apporta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "à Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-04T13:02:03.230847304Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "La colonne de nuée ⟨ne⟩ partait point le jour, ni la colonne de feu la nuit, devant le peuple.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩ point"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "partait"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "colonne"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "de nuée"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ni la colonne"
+    },
+    {
+      "surface": "האש",
+      "gloss": "de feu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T06:30:08.605508917Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Un mouton parfait, un mâle, fils d'une année, sera pour vous, depuis les moutons et depuis les chèvres vous prendrez.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "parfait"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "d'une année"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "les moutons"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et depuis"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "les chèvres"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "vous prendrez"
+    }
+  ],
+  "timestamp": "2026-08-04T06:27:44.410313052Z",
+  "model": "glm-4.5"
+}

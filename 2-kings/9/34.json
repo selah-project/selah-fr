@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "2-kings 9:34",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Il entra et mangea et but et dit : veuillez inspecter cette maudite et ⟨את⟩ ensevelir car fille de roi elle est",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Il entra"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "et mangea"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "et but"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "veuillez inspecter"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette maudite"
+    },
+    {
+      "surface": "הארורה",
+      "gloss": "cette maudite"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "וקברוה",
+      "gloss": "et ⟨את⟩ ensevelir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de roi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle est"
+    }
+  ],
+  "timestamp": "2026-08-04T14:20:52.904482918Z",
+  "model": "glm-4.5"
+}

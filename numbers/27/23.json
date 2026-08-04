@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "et il posa ⟨את⟩ ses mains sur lui et lui donna un ordre, comme YHWH avait parlé par la main de Moshe",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "et il posa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses mains"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "et il lui ordonna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il avait parlé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshe"
+    }
+  ],
+  "timestamp": "2026-08-04T09:26:28.005198337Z",
+  "model": "glm-4.5"
+}

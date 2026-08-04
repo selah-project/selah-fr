@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et les fils de Heth répondirent à Abraham en lui disant :",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Et répondirent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:46.647660557Z",
+  "model": "glm-4.5"
+}

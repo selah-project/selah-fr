@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et mourut le fils de cette femme, la nuit, car elle ⟨avait⟩ couché sur lui.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de cette femme"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "car"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "elle ⟨avait⟩ couché"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:18.351294016Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 54,
+  "translation": "Voici, ⟨on⟩ se rassemblera, sûrement pas de par moi ; quiconque se rassemblera contre toi, à cause de toi tombera.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "גור",
+      "gloss": "se rassemblera"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "se rassemblera"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "sûrement pas"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "de par moi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "quiconque"
+    },
+    {
+      "surface": "גר",
+      "gloss": "se rassemblera"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "à cause de toi"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tombera"
+    }
+  ],
+  "timestamp": "2026-08-04T15:48:46.487522809Z",
+  "model": "glm-4.5"
+}

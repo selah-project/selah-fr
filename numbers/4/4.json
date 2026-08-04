@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Ceci ⟨est⟩ le service des fils de Qehat dans la tente d'assignation, le saint des saints",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "le service"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "de Qehat"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dans la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "des saints"
+    }
+  ],
+  "timestamp": "2026-08-04T08:27:38.201020137Z",
+  "model": "glm-4.5"
+}

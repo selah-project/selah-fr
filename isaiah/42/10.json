@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Chantez à YHWH un chant nouveau, sa louange, du bout de la terre, vous qui descendez ⟨vers⟩ la mer et sa plénitude, les îles et leurs habitants",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sa louange"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "du bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "vous qui descendez"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨vers⟩ la mer"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "et sa plénitude"
+    },
+    {
+      "surface": "איים",
+      "gloss": "les îles"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "et leurs habitants"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:25.118341943Z",
+  "model": "glm-4.5"
+}

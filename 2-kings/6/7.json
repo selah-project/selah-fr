@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il dit : Lève-le ⟨pour⟩ toi. Et il étendit sa main et le prit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Lève-le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pour⟩ toi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Et il étendit"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "וקחהו",
+      "gloss": "et le prit"
+    }
+  ],
+  "timestamp": "2026-08-04T14:14:36.800975180Z",
+  "model": "glm-4.5"
+}

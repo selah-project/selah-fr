@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Tout ⟨ce qui⟩ a le sabot fendu et fait la fente du sabot ⟨et⟩ rumine, dans la bête, celle-la vous mangerez",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "⟨ce qui⟩ a le sabot fendu"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sabot"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "et fait la fente"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "fente"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "du sabot"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "⟨et⟩ rumine"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "cud"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "dans la bête"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "celle-la",
+      "marks": "vous mangerez"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:21.722698547Z",
+  "model": "glm-4.5"
+}

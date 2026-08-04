@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Malheur, ⟨les⟩ législateurs ⟨de⟩ décrets ⟨de⟩ perversité, et ⟨les⟩ scribes ⟨qui⟩ ont écrit ⟨de⟩ la misère,",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "⟨les⟩ législateurs"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "⟨de⟩ décrets"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨de⟩ perversité"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "et ⟨les⟩ scribes"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "⟨de⟩ la misère"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ont écrit"
+    }
+  ],
+  "timestamp": "2026-08-04T14:57:46.173584078Z",
+  "model": "glm-4.5"
+}

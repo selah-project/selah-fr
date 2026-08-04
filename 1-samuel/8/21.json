@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Shemuël entendit ⟨את⟩ toutes les paroles du peuple et ⟨les⟩ parla dans les oreilles de YHWH.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et Shemuël entendit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les paroles du peuple"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "et ⟨les⟩ parla"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "dans les oreilles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T12:13:19.563190932Z",
+  "model": "glm-4.5"
+}

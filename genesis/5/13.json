@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 5:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Qénan vécut après avoir engendré ⟨את⟩ Mahalaleel, quarante ans et huit cents ans, et il engendra des fils et des filles",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Qénan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "avoir engendré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalaleel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "et huit"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "et des filles"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:23.536809855Z",
+  "model": "glm-4.5"
+}

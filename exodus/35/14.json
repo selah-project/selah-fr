@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "et ⟨את⟩ le chandelier du luminaire et ⟨את⟩ ses ustensiles et ⟨את⟩ ses lampes et ⟨את⟩ l'huile du luminaire",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le chandelier"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "le chandelier"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "du luminaire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses ustensiles"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ses ustensiles"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses lampes"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ses lampes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'huile"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "du luminaire"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:18.001177016Z",
+  "model": "glm-4.5"
+}

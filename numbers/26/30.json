@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Voici ⟨les⟩ fils de Gilad : pour Iézer, ⟨la⟩ famille des Iézerites ; pour Helek, ⟨la⟩ famille des Helekites",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨les⟩ fils"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "de Gilad"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "pour Iézer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨la⟩ famille"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "des Iézerites"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "pour Helek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨la⟩ famille"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "des Helekites"
+    }
+  ],
+  "timestamp": "2026-08-04T09:24:30.971218646Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 14:7",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Seulement, ⟨את⟩ ceci vous ne mangerez pas, d'entre les ruminants et d'entre les разделяurs du sabot fendu : ⟨את⟩ le chameau, et ⟨את⟩ le lièvre, et ⟨את⟩ le daman, car ⟨ils⟩ ruminent, mais le sabot ils n'ont pas partagé ; impurs ils sont pour vous.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "d'entre"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "les ruminants"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "et d'entre"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "les разделяurs"
+    },
+    {
+      "surface": "השסועה",
+      "gloss": "du sabot fendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le chameau"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "le chameau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le lièvre"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "le lièvre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le daman"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "le daman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ruminent"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "[la rumination]"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ils⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "et le sabot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "[ils] n'ont pas"
+    },
+    {
+      "surface": "הפריסו",
+      "gloss": "partagé"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "impurs"
+    },
+    {
+      "surface": "הם",
+      "gloss": "[ils] sont"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:42.543659203Z",
+  "model": "glm-4.5"
+}

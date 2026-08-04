@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et il dit : Voici donc, je suis vieux, je ne connais pas le jour de ma mort.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "je ⟨suis⟩ vieux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "connais pas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "de ma mort"
+    }
+  ],
+  "timestamp": "2026-08-04T05:34:29.459705726Z",
+  "model": "glm-4.5"
+}

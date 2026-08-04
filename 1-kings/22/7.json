@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Jehoshaphat dit : N'y a-t-il pas ici un prophète de YHWH encore, pour que nous consultations ⟨את⟩ lui ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Jehoshaphat dit"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshaphat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "N'y a-t-il pas"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "un prophète"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "pour que nous consultations"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T14:04:09.349199334Z",
+  "model": "glm-4.5"
+}

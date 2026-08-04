@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Vous ne mangerez pas ⟨sur⟩ le sang, vous ne pratiquerez pas la divination, ni ⟨les⟩ augures.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "pratiquerez pas la divination"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "⟨les⟩ augures"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:11.714124717Z",
+  "model": "glm-4.5"
+}

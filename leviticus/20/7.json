@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et sanctifiez-vous, et soyez saints, car moi, YHWH, ⟨je suis⟩ votre Élohim.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Et sanctifiez-vous"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "et soyez"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "saints"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:05:26.759746671Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "onze jours de Horeb par le chemin de la montagne de Seir jusqu'à Qadesh-Barnéa.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "onze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "onze"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jours"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de Horeb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "par le chemin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "de la montagne"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnéa"
+    }
+  ],
+  "timestamp": "2026-08-04T09:48:40.201357062Z",
+  "model": "glm-4.5"
+}

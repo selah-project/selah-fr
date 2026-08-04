@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 53,
+  "translation": "Par oppression et par jugement il a été emmené, et ⟨את⟩ sa génération — qui la décrira ? Car il a été retranché du pays des vivants ; à cause de la transgression de mon peuple ⟨il lui est arrivé⟩ un coup.",
+  "tokens": [
+    {
+      "surface": "מֵעֹ֤צֶר",
+      "gloss": "Par oppression"
+    },
+    {
+      "surface": "וּמִמִּשְׁפָּט֙",
+      "gloss": "et par jugement"
+    },
+    {
+      "surface": "לֻקָּ֔ח",
+      "gloss": "il a été emmené"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa génération"
+    },
+    {
+      "surface": "דּוֹר֖וֹ",
+      "gloss": "sa génération"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יְשׂוֹחֵ֑חַ",
+      "gloss": "la décrira"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "car"
+    },
+    {
+      "surface": "נִגְזַר֙",
+      "gloss": "il a été retranché"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "חַיִּ֔ים",
+      "gloss": "des vivants"
+    },
+    {
+      "surface": "מִפֶּ֥שַׁע",
+      "gloss": "à cause de la transgression"
+    },
+    {
+      "surface": "עַמִּ֖י",
+      "gloss": "de mon peuple"
+    },
+    {
+      "surface": "נֶ֥גַע",
+      "gloss": "un coup"
+    },
+    {
+      "surface": "לָֽמוֹ",
+      "gloss": "lui est arrivé"
+    }
+  ],
+  "timestamp": "2026-08-04T15:47:49.060311205Z",
+  "model": "glm-4.5"
+}

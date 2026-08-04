@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Shelomoh bâtit ⟨את⟩ la maison et l'acheva",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Et bâtit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "et l'acheva"
+    }
+  ],
+  "timestamp": "2026-08-04T13:36:49.395717092Z",
+  "model": "glm-4.5"
+}

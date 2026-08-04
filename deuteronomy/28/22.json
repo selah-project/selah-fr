@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH te frappera de la consomption, de la fièvre, de l'inflammation, de la chaleur brûlante, de l'épée, de la sécheresse et de la jaunisse, et elles te poursuivront jusqu'à ce que tu périsses.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "frappera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "de la consomption"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "de la fièvre"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "de l'inflammation"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "de la chaleur brûlante"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "de l'épée"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "de la sécheresse"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "et de la jaunisse"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "et elles te poursuivront"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "tu périsses"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:43.444826080Z",
+  "model": "glm-4.5"
+}

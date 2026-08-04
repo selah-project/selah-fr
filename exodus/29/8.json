@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et tu feras approcher ⟨את⟩ ses fils et tu les revêtiras de tuniques",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tu feras approcher"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "et tu les revêtiras"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "de tuniques"
+    }
+  ],
+  "timestamp": "2026-08-04T06:58:01.713370026Z",
+  "model": "glm-4.5"
+}

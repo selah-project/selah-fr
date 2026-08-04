@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et les fils d'Israël vinrent ⟨pour acheter⟩ au milieu de ceux qui venaient, car ⟨il y avait⟩ la famine dans le pays de Canaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "vinrent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "⟨pour acheter⟩"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ceux qui venaient"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨il y avait⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la famine"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays de"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Canaan"
+    }
+  ],
+  "timestamp": "2026-08-04T05:55:57.893264842Z",
+  "model": "glm-4.5"
+}

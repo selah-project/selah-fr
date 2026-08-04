@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "YHWH, votre Élohim, qui marche devant vous, c'est lui qui combattra pour vous, selon tout ce qu'il a fait avec vous en Égypte, sous vos yeux.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "qui marche"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est lui"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "combattra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a fait"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "sous vos yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T09:49:27.653657870Z",
+  "model": "glm-4.5"
+}

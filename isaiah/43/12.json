@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Moi j'ai fait connaître et j'ai sauvé et j'ai fait entendre, et il n'y avait pas ⟨parmi vous⟩ de dieu étranger; et vous êtes ⟨mes⟩ témoins, déclaration de YHWH, et moi je suis El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "j'ai fait connaître"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "et j'ai sauvé"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "et j'ai fait entendre"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y avait pas"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "⟨parmi vous⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "זר",
+      "gloss": "de dieu étranger"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "et vous"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "êtes ⟨mes⟩ témoins"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "je suis El"
+    }
+  ],
+  "timestamp": "2026-08-04T15:39:28.047315771Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et si tu ⟨⟩ racontes ⟨את⟩ cette affaire-ci, alors nous serons innocents de ⟨ton⟩ serment par lequel tu nous as fait jurer",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "tu ⟨⟩ racontes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette affaire-ci"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "cette affaire-ci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "alors nous serons"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "innocents"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "de ⟨ton⟩ serment"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par lequel"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "tu nous as fait jurer"
+    }
+  ],
+  "timestamp": "2026-08-04T10:51:06.009605585Z",
+  "model": "glm-4.5"
+}

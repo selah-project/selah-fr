@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et le peuple entendit ⟨את⟩ cette parole mauvaise, et ils firent le deuil, et ils ne mirent pas, un homme, son ornement sur lui.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "et entendit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette parole mauvaise"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mauvaise"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "et ils firent le deuil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "mirent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "son ornement"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    }
+  ],
+  "timestamp": "2026-08-04T07:07:40.478730143Z",
+  "model": "glm-4.5"
+}

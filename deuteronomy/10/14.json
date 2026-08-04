@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Voici, à YHWH ton Élohim ⟨sont⟩ les cieux et les cieux des cieux, la terre et tout ce qui ⟨est⟩ en elle.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "et les cieux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    }
+  ],
+  "timestamp": "2026-08-04T10:11:36.434052892Z",
+  "model": "glm-4.5"
+}

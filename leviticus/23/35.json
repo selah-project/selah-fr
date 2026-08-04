@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Au premier jour, ⟨une⟩ convocation sainte, ⟨toute⟩ œuvre de service vous ne ferez pas",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Au jour"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "⟨le⟩ premier"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "convocation"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sainte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨toute⟩"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "œuvre"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "de service"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    }
+  ],
+  "timestamp": "2026-08-04T08:12:33.854885647Z",
+  "model": "glm-4.5"
+}

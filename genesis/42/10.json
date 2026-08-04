@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et ils dirent à lui : Non, mon adoni, tes serviteurs sont venus pour acheter ⟨du⟩ aliment.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mon adoni"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "tes serviteurs"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sont venus"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pour acheter"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aliment"
+    }
+  ],
+  "timestamp": "2026-08-04T05:55:52.721577593Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Votre pays ⟨est⟩ désolation, vos villes ⟨sont⟩ brûlées par le feu ; votre sol, devant vous, des étrangers ⟨le⟩ dévorent, et ⟨il est⟩ désolation comme un bouleversement d'étrangers.",
+  "tokens": [
+    {
+      "surface": "אַרְצְכֶ֣ם",
+      "gloss": "votre pays"
+    },
+    {
+      "surface": "שְׁמָמָ֔ה",
+      "gloss": "désolation"
+    },
+    {
+      "surface": "עָרֵיכֶ֖ם",
+      "gloss": "vos villes"
+    },
+    {
+      "surface": "שְׂרֻפ֣וֹת",
+      "gloss": "brûlées"
+    },
+    {
+      "surface": "אֵ֑שׁ",
+      "gloss": "par le feu"
+    },
+    {
+      "surface": "אַדְמַתְכֶ֗ם",
+      "gloss": "votre sol"
+    },
+    {
+      "surface": "לְנֶגְדְּכֶם֙",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "זָרִים֙",
+      "gloss": "des étrangers"
+    },
+    {
+      "surface": "אֹכְלִ֣ים",
+      "gloss": "dévorent"
+    },
+    {
+      "surface": "אֹתָ֔הּ",
+      "gloss": "⟨le⟩",
+      "marks": "votre sol"
+    },
+    {
+      "surface": "וּשְׁמָמָ֖ה",
+      "gloss": "et désolation"
+    },
+    {
+      "surface": "כְּמַהְפֵּכַ֥ת",
+      "gloss": "comme un bouleversement"
+    },
+    {
+      "surface": "זָרִֽים",
+      "gloss": "d'étrangers"
+    }
+  ],
+  "timestamp": "2026-08-04T14:48:02.218375083Z",
+  "model": "glm-4.5"
+}

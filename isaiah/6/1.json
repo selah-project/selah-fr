@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Dans l'année de la mort du roi Ouziahou, je vis Adonaï assis sur un trône haut et élevé, et les pans de ⟨son⟩ vêtement remplissaient ⟨le⟩ Temple.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "dans l'année de"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Ouziahou"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "et je vis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonaï"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "assis"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "un trône"
+    },
+    {
+      "surface": "רם",
+      "gloss": "haut"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "et élevé"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "et les pans de son vêtement"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "remplissaient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Temple"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "le Temple"
+    }
+  ],
+  "timestamp": "2026-08-04T14:53:29.702193006Z",
+  "model": "glm-4.5"
+}

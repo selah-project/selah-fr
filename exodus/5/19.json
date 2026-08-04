@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et les scribes des fils d'Israël virent ⟨qu'ils étaient⟩ dans le mal, en disant : Vous ne diminuerez pas de vos briques, la parole du jour en son jour.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Et ... virent"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "les scribes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dans le mal"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dans le mal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "diminuerez"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "de vos briques"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יום",
+      "gloss": "du jour"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "en son jour"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:51.792666788Z",
+  "model": "glm-4.5"
+}

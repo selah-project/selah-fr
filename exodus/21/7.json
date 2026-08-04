@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et si un homme vend ⟨את⟩ sa fille comme servante, elle ne sortira pas selon ⟨la⟩ sortie des serviteurs.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "vend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa fille"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sa fille"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "comme servante"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "elle sortira"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "selon ⟨la⟩ sortie"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "des serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T06:42:50.895812322Z",
+  "model": "glm-4.5"
+}

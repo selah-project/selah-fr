@@ -1,0 +1,119 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Maintenant va, frappe ⟨את⟩ Amalek et dévouez à ⟨la⟩ destruction ⟨את⟩ tout ce qui ⟨est⟩ à lui, et n'⟨aies⟩ pas pitié de lui, et fais mourir de l'homme jusqu'à la femme, de l'enfant jusqu'à celui qui allaite, du bœuf jusqu'au petit bétail, du chameau jusqu'à l'âne.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Maintenant"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "frappe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "dévouez à la destruction"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "est à lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "aies pas pitié"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "fais mourir"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "de l'enfant"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "celui qui allaite"
+    },
+    {
+      "surface": "משור",
+      "gloss": "du bœuf"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "שה",
+      "gloss": "au petit bétail"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "du chameau"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "l'âne"
+    }
+  ],
+  "timestamp": "2026-08-04T12:26:45.258721471Z",
+  "model": "glm-4.5"
+}

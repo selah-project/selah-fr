@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Leurs recensés pour la tribu de Shimon : cinquante-neuf mille et trois cents.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Leurs recensés"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pour la tribu"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "de Shimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "cinquante-neuf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mille"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "et"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "trois"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    }
+  ],
+  "timestamp": "2026-08-04T08:22:33.555955247Z",
+  "model": "glm-4.5"
+}

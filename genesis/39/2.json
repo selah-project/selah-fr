@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et YHWH était ⟨avec⟩ Joseph, et il fut un homme ⟨qui⟩ réussissait, et il était dans la maison de son maître, l'Égyptien.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et fut \/ Et il fut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨avec⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il fut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "réussissant \/ prospère"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il fut"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "de son maître"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "l'Égyptien"
+    }
+  ],
+  "timestamp": "2026-08-04T05:51:19.451039973Z",
+  "model": "glm-4.5"
+}

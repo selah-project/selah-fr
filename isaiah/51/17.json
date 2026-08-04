@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Réveille-toi, réveille-toi, lève-toi, Jérusalem, toi qui as bu ⟨de⟩ la main de YHWH ⟨את⟩ la coupe de sa fureur, la coupe d'étourdissement tu as bue, tu as vidé",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "Réveille-toi"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "réveille-toi"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "lève-toi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "toi qui"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "as bu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "⟨de⟩ la main de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la coupe"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "coupe"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "de sa fureur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la coupe d'étourdissement"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "la coupe d'étourdissement"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "coupe"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "d'étourdissement"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "tu as bue"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "tu as vidé"
+    }
+  ],
+  "timestamp": "2026-08-04T15:46:43.806051274Z",
+  "model": "glm-4.5"
+}

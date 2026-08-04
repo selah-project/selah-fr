@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 5:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Il dit : « Oisifs, vous êtes oisifs ; c'est pourquoi vous dites : Allons, sacrifions à YHWH ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Il dit"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "oisifs"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous êtes"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "oisifs"
+    },
+    {
+      "surface": "על",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "dites"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "allons"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "sacrifions"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:29.004861555Z",
+  "model": "glm-4.5"
+}

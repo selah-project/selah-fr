@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et feras approcher ⟨את⟩ Aaron et ⟨את⟩ ses fils vers l'entrée de ⟨la⟩ tente ⟨du⟩ rendez-vous, et laveras ⟨את⟩-eux dans l'eau",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "et feras approcher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "du rendez-vous"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "et laveras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-eux",
+      "marks": "dans l'eau"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T07:23:11.067769381Z",
+  "model": "glm-4.5"
+}

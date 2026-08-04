@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et les fils d'Israël campèrent à Guilgal et firent ⟨את⟩ la Pâque le quatorzième jour du mois, le soir, dans les plaines de Jéricho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Et campèrent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "à Guilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "et firent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Pâque"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "la Pâque"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "en [le] quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "[dix]"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "le soir"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "dans les plaines de"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jéricho"
+    }
+  ],
+  "timestamp": "2026-08-04T10:54:50.097179381Z",
+  "model": "glm-4.5"
+}

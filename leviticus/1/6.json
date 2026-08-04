@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et il dépouillera ⟨את⟩ l'ola et la coupera en ses morceaux",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "et il dépouillera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'ola"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "et la coupera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "en ses morceaux"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "en ses morceaux"
+    }
+  ],
+  "timestamp": "2026-08-04T07:24:56.670055689Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et il plaça ⟨את⟩ sa dépouille dans sa tombe et ils se lamentèrent sur lui : Hélas ! mon frère !",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Et il plaça"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa dépouille"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "sa dépouille"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "dans sa tombe"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "et ils se lamentèrent"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hélas !"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mon frère !"
+    }
+  ],
+  "timestamp": "2026-08-04T13:51:52.430594119Z",
+  "model": "glm-4.5"
+}

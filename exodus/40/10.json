@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et tu oindras ⟨את⟩ l'autel de l'ola et ⟨את⟩ tous ses ustensiles, et tu sanctifieras ⟨את⟩ l'autel, et l'autel sera saint des saints",
+  "tokens": [
+    {
+      "surface": "וּמָשַׁחְתָּ",
+      "gloss": "et tu oindras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel de l'ola"
+    },
+    {
+      "surface": "מִזְבַּח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "הָעֹלָה",
+      "gloss": "de l'ola"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tous ses ustensiles"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כֵּלָיו",
+      "gloss": "ses ustensiles"
+    },
+    {
+      "surface": "וְקִדַּשְׁתָּ",
+      "gloss": "et tu sanctifieras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "et il sera"
+    },
+    {
+      "surface": "הַמִּזְבֵּחַ",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "saint"
+    },
+    {
+      "surface": "קָדָשִׁים",
+      "gloss": "des saints"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:47.249368768Z",
+  "model": "glm-4.5"
+}

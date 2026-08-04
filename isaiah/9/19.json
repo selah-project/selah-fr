@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et il ⟨a⟩ coupé à droite et ⟨a⟩ faim, et il ⟨a⟩ mangé à gauche et ⟨ils⟩ ne sont pas rassasiés ; un homme la chair de son bras la mangera",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "et il ⟨a⟩ coupé"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "droite"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "et ⟨a⟩ faim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "et il ⟨a⟩ mangé"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "gauche"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨ne sont⟩ pas"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "rassasiés"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "de son bras"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "la mangera"
+    }
+  ],
+  "timestamp": "2026-08-04T14:57:19.470204732Z",
+  "model": "glm-4.5"
+}

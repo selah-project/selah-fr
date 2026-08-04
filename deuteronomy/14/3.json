@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Tu ne mangeras pas ⟨toute⟩ abomination.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne ... pas"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangeras"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨toute⟩"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abomination"
+    }
+  ],
+  "timestamp": "2026-08-04T10:16:50.235474699Z",
+  "model": "glm-4.5"
+}

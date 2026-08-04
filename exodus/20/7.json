@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Tu ne porteras pas ⟨le⟩ nom de YHWH ton Élohim pour ⟨du⟩ vide, car YHWH ne tiendra pas pour innocent ⟨celui⟩ qui portera ⟨le⟩ nom de YHWH pour ⟨du⟩ vide",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "porteras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "nom de YHWH ton Élohim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "pour ⟨du⟩ vide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "tiendra pas pour innocent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨celui⟩",
+      "marks": "qui portera le nom de YHWH pour du vide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "portera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "nom de YHWH"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nom de YHWH"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "pour ⟨du⟩ vide"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:33.040365295Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Car par la colère de YHWH cela ⟨était⟩ à Jérusalem et en Juda jusqu'à ce qu'il les eût rejetés ⟨את⟩ de devant sa face ; et Sédécias se révolta contre le roi de Babylone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "על",
+      "gloss": "par"
+    },
+    {
+      "surface": "אף",
+      "gloss": "la colère de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "cela ⟨était⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "et en Juda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce qu'"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "il les eût rejetés"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "de devant sa face"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa face"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "et Sédécias se révolta"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sédécias"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "contre le roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babylone"
+    }
+  ],
+  "timestamp": "2026-08-04T14:46:23.969553066Z",
+  "model": "glm-4.5"
+}

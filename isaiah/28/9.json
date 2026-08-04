@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "À qui ⟨את⟩ enseigne-t-il la connaissance, et à qui ⟨את⟩ fait-il comprendre ⟨le⟩ message ? Ceux sevrés du lait, ceux retirés des seins,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "enseigne-t-il"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "fait-il comprendre"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "le message"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "ceux sevrés"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "du lait"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ceux retirés"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "des seins"
+    }
+  ],
+  "timestamp": "2026-08-04T15:22:24.124401728Z",
+  "model": "glm-4.5"
+}

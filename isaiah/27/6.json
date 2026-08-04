@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 27:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Les venants feront prendre racine ⟨à⟩ Jacob, ⟨il⟩ brillera et fleurira, Israël, et ils rempliront la face de la terre de produit.",
+  "tokens": [
+    {
+      "surface": "הבאים",
+      "gloss": "Les venants"
+    },
+    {
+      "surface": "ישרש",
+      "gloss": "feront prendre racine"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "⟨à⟩ Jacob",
+      "marks": "Jacob"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "⟨il⟩ brillera"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "et fleurira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "et ils rempliront"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "תנובה",
+      "gloss": "de produit"
+    }
+  ],
+  "timestamp": "2026-08-04T15:21:43.083626354Z",
+  "model": "glm-4.5"
+}

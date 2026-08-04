@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et il le prit et l'amena vers sa mère et il ⟨était⟩ assis sur ses genoux jusqu'à midi et il mourut",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "et il le prit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le garçon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il ⟨était⟩ assis"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ses genoux"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "midi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le garçon"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "mourut"
+    }
+  ],
+  "timestamp": "2026-08-04T14:11:21.975479570Z",
+  "model": "glm-4.5"
+}

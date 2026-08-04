@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Enosh vécut quatre-vingt-dix ans et il engendra ⟨את⟩ Qénân",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "quatre-vingt-dix"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qénân"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Qénân"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:12.828905868Z",
+  "model": "glm-4.5"
+}

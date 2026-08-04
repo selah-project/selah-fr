@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et il tourna ⟨את⟩ le cœur de tout homme de Juda comme un seul homme et ils envoyèrent vers le roi reviens toi et tous tes serviteurs",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "et il tourna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cœur de tout homme de Juda"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "comme un homme"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "seul"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "et ils envoyèrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "reviens"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T13:19:55.145602426Z",
+  "model": "glm-4.5"
+}

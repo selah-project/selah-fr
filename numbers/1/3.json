@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "depuis le fils de vingt ans et au-dessus, tout ⟨celui⟩ sortant pour ⟨la⟩ troupe en Israël, vous les recenserez ⟨את⟩ pour leurs troupes, toi et Aaron",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "depuis le fils de"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "et au-dessus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sortant"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pour ⟨la⟩ troupe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "vous les recenserez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "pour leurs troupes"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "pour leurs troupes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    }
+  ],
+  "timestamp": "2026-08-04T08:21:39.625298392Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Il n'y aura pas pour toi d'autres Élohim sur ma face.",
+  "tokens": [
+    {
+      "surface": "לֹֽ֣א",
+      "gloss": "Il n'y a"
+    },
+    {
+      "surface": "יִהְיֶֽה",
+      "gloss": "aura"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "d'autres Élohim"
+    },
+    {
+      "surface": "אֲחֵרִ֖ים",
+      "gloss": ""
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פָּנָֽיַ",
+      "gloss": "ma face"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:23.602884596Z",
+  "model": "glm-4.5"
+}

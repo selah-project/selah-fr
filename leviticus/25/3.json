@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Six ans tu sèmeras ton champ, et six ans tailleras ta vigne, et tu rassembleras ⟨את⟩ son revenu",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "tu sèmeras"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ton champ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "et six"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "tailleras"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ta vigne"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "et tu rassembleras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son revenu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "son revenu"
+    }
+  ],
+  "timestamp": "2026-08-04T08:14:57.305024323Z",
+  "model": "glm-4.5"
+}

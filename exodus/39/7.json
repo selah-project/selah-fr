@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "et il les mit sur les épaules de l'éphod, ⟨את⟩ pierres de mémorial pour les fils d'Israël, comme l'avait commandé YHWH ⟨את⟩ Moshé",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "et il mit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "les",
+      "marks": "sur les épaules"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "les épaules"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "de l'éphod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "pierres"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "de mémorial"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pour les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "timestamp": "2026-08-04T07:20:32.958693165Z",
+  "model": "glm-4.5"
+}

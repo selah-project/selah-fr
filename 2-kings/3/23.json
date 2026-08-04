@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ils dirent : « C'est ⟨du⟩ sang ! la dévastation s'est produite : les rois ont frappé chacun ⟨את⟩ son prochain, et maintenant, au butin, Moab ! »",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "la dévastation"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "s'est produite"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ont frappé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son prochain"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son prochain"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "au butin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-04T14:09:19.634992790Z",
+  "model": "glm-4.5"
+}

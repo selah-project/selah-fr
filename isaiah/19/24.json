@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "En ce jour-là Israël sera ⟨le⟩ tiers ⟨de⟩ l'Égypte et ⟨de⟩ l'Assyrie, une bénédiction au milieu de la terre.",
+  "tokens": [
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "En ce jour"
+    },
+    {
+      "surface": "הַה֗וּא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "יִהְיֶ֤ה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "שְׁלִ֣ישִׁיָּ֔ה",
+      "gloss": "⟨le⟩ tiers"
+    },
+    {
+      "surface": "לְמִצְרַ֖יִם",
+      "gloss": "⟨de⟩ l'Égypte"
+    },
+    {
+      "surface": "וּלְאַשּׁ֑וּר",
+      "gloss": "et ⟨de⟩ l'Assyrie"
+    },
+    {
+      "surface": "בְּרָכָ֖ה",
+      "gloss": "une bénédiction"
+    },
+    {
+      "surface": "בְּקֶ֥רֶב",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:10:21.047495557Z",
+  "model": "glm-4.5"
+}

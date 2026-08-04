@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et l'humain sera courbé et l'homme sera humilié et les yeux des hautains seront abaissés",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "et sera courbé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "et sera humilié"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "et les yeux"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "des hautains"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "seront abaissés"
+    }
+  ],
+  "timestamp": "2026-08-04T14:52:12.915272247Z",
+  "model": "glm-4.5"
+}

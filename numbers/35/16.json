@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Mais si c'est avec un instrument de fer qu'il ⟨a⟩ frappé et qu'il est mort, meurtrier il ⟨est⟩, le meurtrier mourra, le meurtrier.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mais si"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "avec un instrument de"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fer"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "il ⟨a⟩ frappé"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et qu'il est mort"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "meurtrier"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il ⟨est⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "le meurtrier"
+    }
+  ],
+  "timestamp": "2026-08-04T09:46:10.110945438Z",
+  "model": "glm-4.5"
+}

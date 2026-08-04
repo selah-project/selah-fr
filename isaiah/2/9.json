@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et l'homme se ⟨est⟩ incliné, et l'homme s'⟨est⟩ abaissé, et Tu ne les porteras pas",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "et se ⟨est⟩ incliné"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "et s'⟨est⟩ abaissé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et Tu ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "les porteras pas"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:07.407345601Z",
+  "model": "glm-4.5"
+}

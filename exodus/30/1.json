@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et tu feras un mizbah pour faire monter la qétoret : en bois de shittim tu le feras.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Et tu feras"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un mizbah"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "pour faire monter"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "la qétoret"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "en bois de"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu le feras"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le mizbah"
+    }
+  ],
+  "timestamp": "2026-08-04T07:01:00.699719989Z",
+  "model": "glm-4.5"
+}

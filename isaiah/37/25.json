@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Moi, j'ai creusé et j'ai bu ⟨des⟩ eaux, et je dessécherai avec la plante de mes pieds tous les fleuves du fortifié.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "j'ai creusé"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "et j'ai bu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "eaux"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "et je dessécherai"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "avec la plante"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "de mes pieds"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "les fleuves"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "du fortifié"
+    }
+  ],
+  "timestamp": "2026-08-04T15:31:57.687643079Z",
+  "model": "glm-4.5"
+}

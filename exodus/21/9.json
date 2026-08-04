@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et si pour son fils il la destine, selon le droit des filles il fera pour elle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pour son fils"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "il la destine"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "selon le droit"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "des filles"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "il fera"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pour elle"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:10.036890552Z",
+  "model": "glm-4.5"
+}

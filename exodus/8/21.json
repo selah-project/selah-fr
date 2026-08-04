@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Paroh appela Moshe et Aaron, et dit : allez, sacrifiez à vos Élohim dans ⟨le⟩ pays.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "allez"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sacrifiez"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "à vos Élohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:00.213539160Z",
+  "model": "glm-4.5"
+}

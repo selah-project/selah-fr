@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 30:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Un homme, s'il ⟨a⟩ fait ⟨un⟩ vœu ⟨à⟩ YHWH ou ⟨a⟩ fait ⟨une⟩ imprécation pour lier une obligation sur sa nefesh, il ⟨ne⟩ violera pas sa parole ; selon tout ce qui est sorti de sa bouche, il fera.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "s'il"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "⟨a⟩ fait ⟨un⟩ vœu"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "vœu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨à⟩ YHWH"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "⟨a⟩ fait ⟨une⟩ imprécation"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "imprécation"
+    },
+    {
+      "surface": "לאסר",
+      "gloss": "pour lier"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "une obligation"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ⟨ne⟩ ... pas"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "violera"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa parole"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ce qui est sorti"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "de sa bouche"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "il fera"
+    }
+  ],
+  "timestamp": "2026-08-04T09:36:20.634991946Z",
+  "model": "glm-4.5"
+}

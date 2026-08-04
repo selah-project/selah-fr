@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et Ésaü dit : J'ai ⟨en⟩ abondance, mon frère, qu'il soit à toi ce qui ⟨est⟩ à toi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "יש",
+      "gloss": "j'ai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abondance"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mon frère"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qu'il soit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "est à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:43:41.172882Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et ⟨את⟩ l'huile de l'onction, et ⟨את⟩ l'encens des aromates pour le sanctuaire, selon tout ce que je t'ai commandé, ils feront.",
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'huile de l'onction"
+    },
+    {
+      "surface": "שֶׁמֶן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "הַמִּשְׁחָה",
+      "gloss": "de l'onction"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'encens des aromates"
+    },
+    {
+      "surface": "קְטֹרֶת",
+      "gloss": "l'encens"
+    },
+    {
+      "surface": "הַסַּמִּים",
+      "gloss": "des aromates"
+    },
+    {
+      "surface": "לַקֹּדֶשׁ",
+      "gloss": "pour le sanctuaire"
+    },
+    {
+      "surface": "כְּכֹל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צִוִּיתִךָ",
+      "gloss": "je t'ai commandé"
+    },
+    {
+      "surface": "יַעֲשׂוּ",
+      "gloss": "ils feront"
+    }
+  ],
+  "timestamp": "2026-08-04T07:04:32.758059682Z",
+  "model": "glm-4.5"
+}

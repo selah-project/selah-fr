@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et il arriva ⟨le⟩ lendemain, et vinrent les Pelishtim pour dépouiller ⟨את⟩ les tués, et trouvèrent ⟨את⟩ Shaoul et ⟨את⟩ ses trois fils tombés sur la montagne du Guilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "⟨le⟩ lendemain"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et vinrent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "pour dépouiller"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les tués"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "les tués"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "et trouvèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses trois fils"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fils"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "tombés"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "du Guilboa"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:22.311288649Z",
+  "model": "glm-4.5"
+}

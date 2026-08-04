@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et si ⟨il est⟩ un vœu ou une offrande volontaire, son sacrifice : au jour où il présente ⟨את⟩ son sacrifice, il ⟨le⟩ mangera, et le lendemain, et ce qui reste de lui sera mangé.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un vœu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "une offrande volontaire"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "son sacrifice"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": ":"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "où il présente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son sacrifice"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "son sacrifice"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il ⟨le⟩ mangera"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "et le lendemain"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "et ce qui reste"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sera mangé"
+    }
+  ],
+  "timestamp": "2026-08-04T07:34:39.683674727Z",
+  "model": "glm-4.5"
+}

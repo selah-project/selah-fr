@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et la nudité de la sœur de ta mère et ⟨de⟩ la sœur de ton père tu ne ⟨la⟩ découvriras pas car il a découvert ⟨את⟩ sa chair proche leur iniquité ils porteront",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "Et la nudité de"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "la sœur de"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ta mère"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "et de la sœur de"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "découvriras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa chair proche"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "sa chair proche"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "il a découvert"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "leur iniquité"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ils porteront"
+    }
+  ],
+  "timestamp": "2026-08-04T08:05:19.513372240Z",
+  "model": "glm-4.5"
+}

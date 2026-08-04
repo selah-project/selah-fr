@@ -1,0 +1,102 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "numbers 7:19",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Il a présenté ⟨את⟩ son offrande : un plat d'argent, ⟨un⟩ de cent trente shekels ⟨au⟩ poids, une coupe d'argent, ⟨un⟩ de soixante-dix shekels, ⟨selon⟩ le shekel du sanctuaire, tous deux pleins de farine fine pétrie avec l'huile pour ⟨l'⟩offrande.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "il a présenté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son offrande"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "son offrande"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "un plat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨un⟩"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "et cent"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "⟨au⟩ poids"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "une coupe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨un⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "soixante-dix"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekels"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨selon⟩ le shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "du sanctuaire"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tous deux"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "pleins"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de farine fine"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "pétrie"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "avec l'huile"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "pour ⟨l'⟩offrande"
+    }
+  ],
+  "timestamp": "2026-08-04T08:35:48.835487671Z",
+  "model": "glm-4.5"
+}

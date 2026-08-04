@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il arriva à leur entrée qu'il vit ⟨את⟩ Éliab et dit : Certainement, devant YHWH ⟨est⟩ son Oint",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "à leur entrée"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qu'il vit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Éliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Éliab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Certainement"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "son Oint"
+    }
+  ],
+  "timestamp": "2026-08-04T12:27:43.460902915Z",
+  "model": "glm-4.5"
+}

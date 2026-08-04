@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et ⟨את⟩ les vêtements de service et ⟨את⟩ les vêtements du sanctuaire pour Aaron le cohen et ⟨את⟩ les vêtements de ses fils pour le sacerdoce",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les vêtements de service"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "les vêtements"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "de service"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les vêtements du sanctuaire"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "les vêtements"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "du sanctuaire"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pour Aaron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les vêtements de ses fils"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "les vêtements"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "de ses fils"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pour le sacerdoce"
+    }
+  ],
+  "timestamp": "2026-08-04T07:04:23.079356565Z",
+  "model": "glm-4.5"
+}

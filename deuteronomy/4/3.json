@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Vos yeux ⟨ont⟩ vu ⟨את⟩ ce que YHWH a fait à Baal Péor, car tout homme qui ⟨s'est⟩ allé après Baal Péor, YHWH ton Élohim l'a détruit du milieu de toi.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "vos yeux"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "⟨ont⟩ vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que YHWH a fait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "à Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Péor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨s'est⟩ allé"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Péor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "l'a détruit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "du milieu de toi"
+    }
+  ],
+  "timestamp": "2026-08-04T09:54:46.957348919Z",
+  "model": "glm-4.5"
+}

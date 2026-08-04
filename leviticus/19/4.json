@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Ne vous tournez pas vers les idoles, et un dieu de fonte vous ne ferez pas pour vous ; moi, je suis YHWH, votre Élohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "vous tournez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "les idoles"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et un dieu"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "de fonte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ferez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pas pour vous"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "je suis YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:15.887136530Z",
+  "model": "glm-4.5"
+}

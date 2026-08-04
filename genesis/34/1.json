@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Et Dina, fille de Léa, qu'elle avait enfantée à Jacob, sortit pour voir ⟨les⟩ filles du pays.",
+  "tokens": [
+    {
+      "surface": "וַתֵּצֵא",
+      "gloss": "sortit"
+    },
+    {
+      "surface": "דִינָה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "לֵאָה",
+      "gloss": "de Léa"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "elle avait enfantée"
+    },
+    {
+      "surface": "לְיַעֲקֹב",
+      "gloss": "à Jacob"
+    },
+    {
+      "surface": "לִרְאוֹת",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "בִּבְנֹת",
+      "gloss": "⟨les⟩ filles"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "du pays"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:14.445631395Z",
+  "model": "glm-4.5"
+}

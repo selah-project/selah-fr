@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Mon peuple, ses exacteurs sont des enfants, et des femmes ⟨le⟩ dominent. Mon peuple, ceux qui te disent heureux ⟨te⟩ font errer, et ⟨la⟩ voie de tes sentiers ⟨ils⟩ dévorent.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Mon peuple"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ses exacteurs"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "sont des enfants"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "et des femmes"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "dominent"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mon peuple"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "ceux qui te disent heureux"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "font errer"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "et la voie"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "de tes sentiers"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "dévorent"
+    }
+  ],
+  "timestamp": "2026-08-04T14:50:49.957938677Z",
+  "model": "glm-4.5"
+}

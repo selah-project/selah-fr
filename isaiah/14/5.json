@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "YHWH a brisé ⟨le⟩ bâton des méchants, ⟨le⟩ sceptre des dominateurs",
+  "tokens": [
+    {
+      "surface": "שָׁבַר",
+      "gloss": "a brisé"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מַטֵּה",
+      "gloss": "⟨le⟩ bâton"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "שֵׁבֶט",
+      "gloss": "⟨le⟩ sceptre"
+    },
+    {
+      "surface": "מֹשְׁלִים",
+      "gloss": "des dominateurs"
+    }
+  ],
+  "timestamp": "2026-08-04T15:03:06.482094981Z",
+  "model": "glm-4.5"
+}

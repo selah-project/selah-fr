@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et pas avec vous seuls ⟨je⟩ coupe ⟨את⟩ ⟨l'alliance⟩ cette-ci et ⟨את⟩ ⟨l'imprécation⟩ cette-ci",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "seuls"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "coupe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'alliance"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "⟨l'alliance⟩"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette-ci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'imprécation"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨l'imprécation⟩"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T10:40:22.816207598Z",
+  "model": "glm-4.5"
+}

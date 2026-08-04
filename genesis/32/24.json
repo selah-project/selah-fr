@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et il les prit, et les fit passer ⟨את⟩ le torrent, et fit passer ⟨את⟩ ce qui ⟨était⟩ à lui.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Et il les prit"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "et les fit passer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le torrent"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "le torrent"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "et fit passer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qui était à lui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "était à lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:24.535187353Z",
+  "model": "glm-4.5"
+}

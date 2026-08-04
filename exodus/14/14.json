@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "YHWH combattra pour vous, et vous, vous ⟨êtes⟩ silencieux.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "combattra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "et vous"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "vous ⟨êtes⟩ silencieux"
+    }
+  ],
+  "timestamp": "2026-08-04T06:31:17.713271119Z",
+  "model": "glm-4.5"
+}

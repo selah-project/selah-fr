@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et l'or de ⟨cette⟩ terre-là est bon, là le bdellium et la pierre de shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "et l'or"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨cette⟩-là"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "est bon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "le bdellium"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "et la pierre"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "de shoham"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:35.042018823Z",
+  "model": "glm-4.5"
+}

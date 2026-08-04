@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "et si vous n'écoutez pas ⟨pour⟩ nous ⟨d'être⟩ circoncis, nous prendrons ⟨את⟩ notre fille et nous irons",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous n'"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "écoutez pas"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "⟨pour⟩ nous"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "⟨d'être⟩ circoncis"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "nous prendrons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre fille"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "notre fille"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "et nous irons"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:52.623968349Z",
+  "model": "glm-4.5"
+}

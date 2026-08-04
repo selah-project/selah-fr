@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 9:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et je vis, et voici, vous aviez péché contre YHWH votre Élohim, vous aviez fait ⟨pour⟩ vous-mêmes un veau de fonte, vous aviez détourné ⟨vite⟩ du chemin qu'avait commandé YHWH ⟨את⟩ vous",
+  "tokens": [
+    {
+      "surface": "וָאֵרֶא",
+      "gloss": "Et je vis"
+    },
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "חֲטָאתֶם",
+      "gloss": "vous aviez péché"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "contre YHWH"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "עֲשִׂיתֶם",
+      "gloss": "vous aviez fait"
+    },
+    {
+      "surface": "לָכֶם",
+      "gloss": "⟨pour⟩ vous-mêmes"
+    },
+    {
+      "surface": "עֵגֶל",
+      "gloss": "un veau"
+    },
+    {
+      "surface": "מַסֵּכָה",
+      "gloss": "de fonte"
+    },
+    {
+      "surface": "סַרְתֶּם",
+      "gloss": "vous aviez détourné"
+    },
+    {
+      "surface": "מַהֵר",
+      "gloss": "⟨vite⟩"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הַדֶּרֶךְ",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "qu'avait"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "commandé"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֶתְכֶֽם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:09:01.251139951Z",
+  "model": "glm-4.5"
+}

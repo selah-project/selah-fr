@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 16:12",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Mosheh envoya pour appeler ⟨à⟩ Dathan et ⟨à⟩ Abiram, fils d'Éliab, et ils dirent : nous ne monterons pas",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et Mosheh envoya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "pour appeler"
+    },
+    {
+      "surface": "לדתן",
+      "gloss": "⟨à⟩ Dathan",
+      "marks": "Dathan"
+    },
+    {
+      "surface": "ולאבירם",
+      "gloss": "et ⟨à⟩ Abiram",
+      "marks": "Abiram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "d'Éliab"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "et ils dirent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nous ne"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "monterons pas"
+    }
+  ],
+  "timestamp": "2026-08-04T09:00:10.003610320Z",
+  "model": "glm-4.5"
+}

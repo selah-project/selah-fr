@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il dit à son peuple : Voici, le peuple des fils d'Israël est nombreux et puissant plus que nous.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "et puissant"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "plus que nous"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:31.076475040Z",
+  "model": "glm-4.5"
+}

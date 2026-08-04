@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Voici, pour la justice régnera un roi, et les princes, pour le droit, ⟨ils⟩ domineront.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "pour la justice"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "régnera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un roi"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "et les princes"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pour le droit"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "⟨ils⟩ domineront"
+    }
+  ],
+  "timestamp": "2026-08-04T15:27:20.758325156Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "sur ⟨le⟩ candélabre ⟨le⟩ pur, il arrangera ⟨את⟩ les lampes devant YHWH continuellement",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "⟨le⟩ candélabre"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "⟨le⟩ pur"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "il arrangera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les lampes"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "les lampes"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    }
+  ],
+  "timestamp": "2026-08-04T08:13:22.256230823Z",
+  "model": "glm-4.5"
+}

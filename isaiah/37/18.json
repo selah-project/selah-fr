@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Vraiment, YHWH, les rois d'Assur ont dévasté ⟨את⟩ toutes les terres et ⟨את⟩ leur pays,",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Vraiment"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ont dévasté"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les terres"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "les terres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leur pays"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur pays"
+    }
+  ],
+  "timestamp": "2026-08-04T15:32:14.148536834Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Je ⟨suis⟩ YHWH, votre Élohim, qui vous a fait sortir ⟨d'⟩Égypte pour vous donner ⟨את⟩ le pays de Canaan, afin d'être votre Élohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "a fait sortir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨d'⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Égypte"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pays de Canaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "afin d'être"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "votre"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:16:50.690433188Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-samuel 8:8",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Selon toutes les actions qu'ils ⟨ont⟩ faites depuis le jour où je ⟨les⟩ ai fait monter ⟨את⟩ d'Égypte jusqu'à ce jour ⟨-ci⟩, et ils m'ont abandonné et ils ont servi d'autres dieux, ainsi ils font aussi pour toi.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Selon toutes"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "les actions"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ils ⟨ont⟩ faites"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "depuis le jour"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "où je ⟨les⟩ ai fait monter"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "d'Égypte"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ce jour"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ci⟩"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "et ils m'ont abandonné"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "et ils ont servi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'autres dieux"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "d'autres"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "font"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:14:06.637201224Z",
+  "model": "glm-4.5"
+}

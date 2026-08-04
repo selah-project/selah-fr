@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 23:11",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Balak dit à Bilam : Qu'est-ce que tu m'as fait ? Je t'ai pris ⟨pour⟩ maudire mes ennemis, et voici, tu ⟨les⟩ as bénis ⟨d'une bénédiction⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu'est-ce que"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu as fait"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "pour maudire"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "je t'ai pris"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "tu as bénis"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "d'une bénédiction"
+    }
+  ],
+  "timestamp": "2026-08-04T09:18:01.797570007Z",
+  "model": "glm-4.5"
+}

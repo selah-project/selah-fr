@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Ton père a rendu dur ⟨את⟩ notre joug ; et toi, maintenant, allège ⟨du⟩ service dur de ton père et de son joug pesant qu'il ⟨a⟩ mis sur nous, et nous te servirons.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "a rendu dur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre joug"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "notre joug"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "allège"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "⟨du⟩ service"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "dur"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "et de son joug"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pesant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨a⟩ mis"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "et nous te servirons"
+    }
+  ],
+  "timestamp": "2026-08-04T13:48:48.064343733Z",
+  "model": "glm-4.5"
+}

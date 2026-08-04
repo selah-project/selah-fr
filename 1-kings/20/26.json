@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et il arriva au retour de l'année que Ben-Hadad passa en revue ⟨את⟩ Aram et monta à Aphek pour ⟨la⟩ guerre contre Israël",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "au retour de"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "l'année"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "que Ben-Hadad passa en revue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "-Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "et monta"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "à Aphek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pour ⟨la⟩ guerre"
+    },
+    {
+      "surface": "עם",
+      "gloss": "contre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:01:08.964318790Z",
+  "model": "glm-4.5"
+}

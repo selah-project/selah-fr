@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "vos petits, vos femmes et ton étranger qui est ⟨au⟩ milieu de ton camp, depuis celui qui coupe ⟨le⟩ bois jusqu'à celui qui tire ⟨l'⟩eau",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "vos petits"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "vos femmes"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "et ton étranger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "⟨au⟩ milieu"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "de ton camp"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "depuis celui qui coupe"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "⟨le⟩ bois"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "celui qui tire"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "⟨l'⟩eau"
+    }
+  ],
+  "timestamp": "2026-08-04T10:40:12.966117627Z",
+  "model": "glm-4.5"
+}

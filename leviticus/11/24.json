@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et par ceux-ci ⟨vous⟩ serez impurs : quiconque touche à leurs cadavres sera impur jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Et par ceux-ci"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "⟨vous⟩ serez impurs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "quiconque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "touche"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "⟨à⟩ leurs cadavres"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "au soir"
+    }
+  ],
+  "timestamp": "2026-08-04T07:41:07.426467929Z",
+  "model": "glm-4.5"
+}

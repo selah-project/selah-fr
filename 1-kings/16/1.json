@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et ⟨la⟩ parole de YHWH ⟨fut⟩ à Yehou fils ⟨de⟩ Hanani contre Baasha ⟨en⟩ disant",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et ⟨la⟩ parole... ⟨fut⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils ⟨de⟩"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨en⟩ disant"
+    }
+  ],
+  "timestamp": "2026-08-04T13:55:11.326684767Z",
+  "model": "glm-4.5"
+}

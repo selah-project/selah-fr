@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Baana fils de Hushai était en Asher et en Aloth",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hushai"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "en Asher"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "et en Aloth"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:25.344438754Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Il ne criera pas, et il n'élèvera pas, et ne fera pas entendre sa voix dans la rue.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Il ne ... pas"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "criera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne ... pas"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "élèvera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "fera entendre"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "dans la rue"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sa voix"
+    }
+  ],
+  "timestamp": "2026-08-04T15:37:04.170722076Z",
+  "model": "glm-4.5"
+}

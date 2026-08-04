@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Or tu n'as pas appelé ⟨את⟩ moi, Jacob, car tu t'es fatigué de moi, Israël.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Or"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "appelé"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "tu t'es fatigué"
+    },
+    {
+      "surface": "בי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T15:38:42.369042140Z",
+  "model": "glm-4.5"
+}

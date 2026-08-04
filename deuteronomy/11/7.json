@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Car vos yeux ⟨sont ceux qui⟩ voient ⟨את⟩ toute l'œuvre de YHWH, la grande, qu'il a faite",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vos yeux"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "⟨sont ceux qui⟩ voient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'œuvre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'œuvre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "la grande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a faite"
+    }
+  ],
+  "timestamp": "2026-08-04T10:12:12.465234055Z",
+  "model": "glm-4.5"
+}

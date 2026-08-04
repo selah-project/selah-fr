@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et le ger, tu ne le maltraiteras pas et tu ne le presseras pas ; car des gerim vous ⟨êtes⟩ dans le pays de Mitsraïm.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "et le ger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "maltraiteras"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne ... pas"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "presseras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "des gerim"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "vous ⟨êtes⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsraïm"
+    }
+  ],
+  "timestamp": "2026-08-04T06:45:10.959135079Z",
+  "model": "glm-4.5"
+}

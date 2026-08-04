@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et ⟨את⟩ Pathrusim et ⟨את⟩ Casluhim qui sortirent de là les Philistins et ⟨את⟩ Caphtorim",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Casluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Casluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sortirent"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Caphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Caphtorim"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:08.868382335Z",
+  "model": "glm-4.5"
+}

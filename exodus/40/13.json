@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et tu revêtiras Aaron ⟨את⟩ les vêtements saints et tu l'oindras et tu le sanctifieras et il officiera pour moi",
+  "tokens": [
+    {
+      "surface": "וְהִלְבַּשְׁתָּ֙",
+      "gloss": "et tu revêtiras"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אַהֲרֹ֔ן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "les vêtements saints"
+    },
+    {
+      "surface": "בִּגְדֵ֣י",
+      "gloss": "les vêtements"
+    },
+    {
+      "surface": "הַקֹּ֑דֶשׁ",
+      "gloss": "saints"
+    },
+    {
+      "surface": "וּמָשַׁחְתָּ֥",
+      "gloss": "et tu l'oindras"
+    },
+    {
+      "surface": "אֹת֛וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "tu le sanctifieras"
+    },
+    {
+      "surface": "וְקִדַּשְׁתָּ֥",
+      "gloss": "et tu le sanctifieras"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "il officiera"
+    },
+    {
+      "surface": "וְכִהֵ֥ן",
+      "gloss": "et il officiera"
+    },
+    {
+      "surface": "לִֽי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-04T07:23:12.143302743Z",
+  "model": "glm-4.5"
+}

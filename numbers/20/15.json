@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 20:15",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "que nos pères sont descendus en Égypte, et que nous avons séjourné en Égypte des jours nombreux, et que les Égyptiens nous ont fait du mal, à nous et à nos pères",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "sont descendus"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nos pères"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "et que nous avons séjourné"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "et ont fait du mal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "à nous"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "et à nos pères"
+    }
+  ],
+  "timestamp": "2026-08-04T09:07:39.689862304Z",
+  "model": "glm-4.5"
+}

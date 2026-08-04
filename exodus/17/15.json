@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et Moïse bâtit un autel, et appela son nom YHWH-Nissi",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "et bâtit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un autel"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et appela"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:37:53.634781747Z",
+  "model": "glm-4.5"
+}

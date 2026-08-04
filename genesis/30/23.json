@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et elle conçut et enfanta un fils, et elle dit : Élohim a ôté ⟨את⟩ mon déshonneur.",
+  "tokens": [
+    {
+      "surface": "וַתַּ֖הַר",
+      "gloss": "et elle conçut"
+    },
+    {
+      "surface": "וַתֵּ֣לֶד",
+      "gloss": "et enfanta"
+    },
+    {
+      "surface": "בֵּ֑ן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "וַתֹּ֕אמֶר",
+      "gloss": "et elle dit"
+    },
+    {
+      "surface": "אָסַ֥ף",
+      "gloss": "a ôté"
+    },
+    {
+      "surface": "אֱלֹהִ֖ים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mon déshonneur"
+    },
+    {
+      "surface": "חֶרְפָּתִֽי",
+      "gloss": "mon déshonneur"
+    }
+  ],
+  "timestamp": "2026-08-04T05:38:47.939383102Z",
+  "model": "glm-4.5"
+}

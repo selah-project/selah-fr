@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH Élohim bâtit ⟨את⟩ la côte qu'il avait prise de l'humain en femme, et il la fit venir vers l'humain",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Et bâtit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la côte"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "la côte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "il avait prise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "en femme"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "et il la fit venir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    }
+  ],
+  "timestamp": "2026-08-04T05:01:11.578671754Z",
+  "model": "glm-4.5"
+}

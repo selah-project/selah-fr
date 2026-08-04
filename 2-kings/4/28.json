@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et elle dit : Ai-je demandé ⟨un⟩ fils à ⟨mon⟩ seigneur ? N'ai-je pas dit : ne me trompe pas ⟨את⟩ moi ?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Et elle dit"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Ai-je demandé"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨un⟩ fils"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "à"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨mon⟩ seigneur"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "N'ai-je pas"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "me trompe pas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ moi",
+      "marks": "moi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:12:07.806476618Z",
+  "model": "glm-4.5"
+}

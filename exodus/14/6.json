@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et il attela ⟨את⟩ son char et ⟨את⟩ son peuple, il prit avec lui",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "Et il attela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son char"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "son char"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "son peuple"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "il prit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    }
+  ],
+  "timestamp": "2026-08-04T06:30:59.547082014Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Dis au nord : Donne ! et au sud : Ne retiens pas ! Fais venir mes fils de loin, et mes filles du bout de la terre.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "au nord"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Donne !"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "et au sud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "retiens pas"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "Fais venir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mes fils"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de loin"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "et mes filles"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "du bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:38:27.508203275Z",
+  "model": "glm-4.5"
+}

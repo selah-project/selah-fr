@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et ⟨il fut⟩ rapporté à Shaül, en disant : Voici, David ⟨est⟩ à Nayoith à Rama.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Et ⟨il fut⟩ rapporté"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "à Shaül"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "à Nayoith"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "à Rama"
+    }
+  ],
+  "timestamp": "2026-08-04T12:35:43.391579021Z",
+  "model": "glm-4.5"
+}

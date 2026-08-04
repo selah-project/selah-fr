@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Jacob se leva et fit monter ⟨את⟩ ses fils et ⟨את⟩ ses femmes sur les chameaux",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "et se leva"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "et fit monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses femmes"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ses femmes"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "les chameaux"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:25.704407646Z",
+  "model": "glm-4.5"
+}

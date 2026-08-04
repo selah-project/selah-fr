@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et YHWH visita ⟨את⟩ Sarah comme ⟨il⟩ avait dit, et YHWH fit ⟨à⟩ Sarah comme ⟨il⟩ avait parlé",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Et YHWH"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "visita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avait dit"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "à Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "avait parlé"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:49.900616028Z",
+  "model": "glm-4.5"
+}

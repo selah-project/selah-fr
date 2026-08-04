@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Encore tu ⟨te⟩ dresses contre mon peuple pour ne pas ⟨les⟩ envoyer",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "Encore"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "tu ⟨te⟩ dresses"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "contre mon peuple"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pour ne pas"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "⟨les⟩ envoyer"
+    }
+  ],
+  "timestamp": "2026-08-04T06:23:16.371817997Z",
+  "model": "glm-4.5"
+}

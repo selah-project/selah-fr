@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Celui-ci dira : Je ⟨suis⟩ à YHWH, et celui-ci appellera ⟨au⟩ nom de Jacob, et celui-ci écrira sa main pour YHWH, et ⟨au⟩ nom d'Israël il se nommera.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Celui-ci"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Je"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "et celui-ci"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "appellera"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨au⟩ nom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "et celui-ci"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "écrira"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "et ⟨au⟩ nom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "il se nommera"
+    }
+  ],
+  "timestamp": "2026-08-04T15:39:44.507561734Z",
+  "model": "glm-4.5"
+}

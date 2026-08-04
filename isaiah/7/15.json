@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "De la crème et du miel il mangera, quand il saura rejeter le mauvais et choisir le bon.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "de la crème"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "et du miel"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il mangera"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "quand il saura"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "rejeter"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "le mauvais"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "et choisir"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "le bon"
+    }
+  ],
+  "timestamp": "2026-08-04T14:54:39.109807010Z",
+  "model": "glm-4.5"
+}

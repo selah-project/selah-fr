@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Arpakshad engendra ⟨את⟩ Shélakh, et Shélakh engendra ⟨את⟩ Éber",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Et Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shélakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shélakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "et Shélakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Éber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Éber"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:33.043255876Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Ceci ⟨est⟩ la terre qui reste : tous les districts des Pelishtim et tout ⟨le⟩ Geshouri",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "qui reste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "les districts"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "des Pelishtim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "⟨le⟩ Geshouri"
+    }
+  ],
+  "timestamp": "2026-08-04T11:06:27.375426275Z",
+  "model": "glm-4.5"
+}

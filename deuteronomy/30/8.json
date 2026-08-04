@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et toi, tu ⟨ferras⟩ retour et tu entendras la voix de YHWH, et tu feras ⟨את⟩ toutes ses mitzvot que moi je te commande aujourd'hui.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "tu ⟨ferras⟩ retour"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "et tu entendras"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voix de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes ses mitzvot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ses mitzvot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi je"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "te commande"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:41:18.346954537Z",
+  "model": "glm-4.5"
+}

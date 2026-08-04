@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Le pied la foulera, les pieds du faible, les pas des humbles.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "la foulera"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "le pied"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "les pieds"
+    },
+    {
+      "surface": "עני",
+      "gloss": "du faible"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "les pas"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "des humbles"
+    }
+  ],
+  "timestamp": "2026-08-04T15:20:15.699762690Z",
+  "model": "glm-4.5"
+}

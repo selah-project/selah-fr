@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et je mettrai mon mishkan au milieu de vous, et mon être ne vous aura pas en dégoût",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Et je mettrai"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "mon mishkan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "au milieu de vous"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ... ne"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "aura en dégoût"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon être"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vous",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T08:18:01.987651958Z",
+  "model": "glm-4.5"
+}

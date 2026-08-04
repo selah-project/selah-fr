@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il envoya par la main de Nathan le prophète, et il appela ⟨את⟩ son nom Yedidia, à cause de YHWH.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et il envoya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "le prophète"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et il appela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidia"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T13:07:33.463058395Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et elle appela son nom Joseph, en disant : YHWH ⟨ajoutera⟩ pour moi un autre fils.",
+  "tokens": [
+    {
+      "surface": "וַתִּקְרָא",
+      "gloss": "Et elle appela"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "יֹסֵף",
+      "gloss": "ajoutera"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "אַחֵר",
+      "gloss": "un autre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:38:56.130898284Z",
+  "model": "glm-4.5"
+}

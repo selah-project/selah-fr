@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et YHWH Élohim dit à la femme : qu'est-ce que tu as fait ? Et la femme dit : le serpent m'a ⟨trompée⟩ et j'ai mangé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "à la femme"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quoi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cette chose"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu as fait"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Et elle dit"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "le serpent"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "m'a fait errer"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "et j'ai mangé"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:14.598432090Z",
+  "model": "glm-4.5"
+}

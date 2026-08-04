@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "YHWH a exalté ⟨את⟩ les adversaires de Retsin contre lui, et ⟨את⟩ ses ennemis il ⟨a⟩ unis",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "a exalté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les adversaires de Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "les adversaires"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "de Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "contre lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses ennemis"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ses ennemis"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "il ⟨a⟩ unis"
+    }
+  ],
+  "timestamp": "2026-08-04T14:56:41.585428317Z",
+  "model": "glm-4.5"
+}

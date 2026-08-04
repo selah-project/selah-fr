@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Or le roi David entendit ⟨את⟩ toutes ces choses, et sa colère ⟨était⟩ très grande pour lui.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "or le roi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "entendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes ces choses"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ces choses"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "et sa colère"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très grande"
+    }
+  ],
+  "timestamp": "2026-08-04T13:10:16.189152731Z",
+  "model": "glm-4.5"
+}

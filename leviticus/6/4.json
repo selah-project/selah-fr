@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "et qu'il ôte ⟨את⟩ ses vêtements et qu'il revête des vêtements autres et qu'il fasse sortir ⟨את⟩ la cendre vers l'extérieur du camp vers un lieu ⟨pur⟩",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "et qu'il ôte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses vêtements"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "et qu'il revête"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "des vêtements"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "autres"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "et qu'il fasse sortir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cendre"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "la cendre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "l'extérieur"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "du camp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "⟨pur⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T07:33:23.946120933Z",
+  "model": "glm-4.5"
+}

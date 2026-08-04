@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et David ⟨a⟩ délivré tout ce qu'Amalek ⟨avait⟩ pris ⟨את⟩ et ⟨a⟩ délivré David ⟨את⟩ ses deux épouses",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "Et ⟨a⟩ délivré"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce qu'Amalek avait pris"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "Amalek ⟨avait⟩ pris"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses deux épouses"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "deux"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "épouses"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "et ⟨a⟩ délivré"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-04T12:50:42.856782585Z",
+  "model": "glm-4.5"
+}

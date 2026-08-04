@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Voici, ils sont comme du chaume, le feu les a brûlés, ils ne sauveront pas ⟨את⟩ leur vie de la main de la flamme, il n'y a pas de braise pour leur pain, ni de lumière pour s'asseoir devant elle.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ils sont"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "comme du chaume"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "les a brûlés"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "sauveront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur vie"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "leur vie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "de la flamme"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "de braise"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "pour leur pain"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ni de lumière"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pour s'asseoir"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "devant elle"
+    }
+  ],
+  "timestamp": "2026-08-04T15:43:26.839492555Z",
+  "model": "glm-4.5"
+}

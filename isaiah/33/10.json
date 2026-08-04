@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Maintenant je ⟨me⟩ lèverai, dit YHWH ; maintenant je serai exalté ; maintenant je m'élèverai.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Maintenant"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "je ⟨me⟩ lèverai"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "je serai exalté"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "je m'élèverai"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:25.858517618Z",
+  "model": "glm-4.5"
+}

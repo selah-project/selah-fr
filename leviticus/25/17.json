@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et n'opprimez pas un homme ⟨את⟩ son prochain, et tu craindras ton Élohim, car je suis YHWH, votre Élohim",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et n'"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "opprimez pas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son prochain"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "son prochain"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "et tu craindras"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:16:11.675709341Z",
+  "model": "glm-4.5"
+}

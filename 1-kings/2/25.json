@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et le roi Shelomoh envoya ⟨par⟩ la main de Benayahu ⟨le⟩ fils de Yehoyada, et il le frappa et il mourut.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "et envoya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨par⟩ la main"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨le⟩ fils"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "de Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "et il le frappa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "le"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il mourut"
+    }
+  ],
+  "timestamp": "2026-08-04T13:31:30.230526477Z",
+  "model": "glm-4.5"
+}

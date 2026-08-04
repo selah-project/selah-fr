@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et firent tous les fils d'Israël selon ce ⟨qu'⟩avait commandé YHWH ⟨את⟩ Moshé et ⟨את⟩ Aharon, ainsi firent-ils",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Et firent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "selon ce que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "firent-ils"
+    }
+  ],
+  "timestamp": "2026-08-04T06:28:53.148869797Z",
+  "model": "glm-4.5"
+}

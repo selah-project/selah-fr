@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et ⟨il sera⟩ pour vous la forteresse de Paroh pour ⟨la honte⟩ et ⟨la protection⟩ dans l'ombre de Mitsraïm pour ⟨le déshonneur⟩",
+  "tokens": [
+    {
+      "surface": "וְהָיָ֥ה",
+      "gloss": "Et ⟨il sera⟩"
+    },
+    {
+      "surface": "לָכֶ֛ם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "מָע֥וֹז",
+      "gloss": "la forteresse"
+    },
+    {
+      "surface": "פַּרְעֹ֖ה",
+      "gloss": "de Paroh"
+    },
+    {
+      "surface": "לְבֹ֑שֶׁת",
+      "gloss": "pour ⟨la honte⟩"
+    },
+    {
+      "surface": "וְהֶחָס֥וּת",
+      "gloss": "et ⟨la protection⟩"
+    },
+    {
+      "surface": "בְּצֵל",
+      "gloss": "dans l'ombre"
+    },
+    {
+      "surface": "מִצְרַ֖יִם",
+      "gloss": "de Mitsraïm"
+    },
+    {
+      "surface": "לִכְלִמָּֽה",
+      "gloss": "pour ⟨le déshonneur⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T15:25:18.434533686Z",
+  "model": "glm-4.5"
+}

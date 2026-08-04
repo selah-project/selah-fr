@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Mais ⟨dans⟩ la septième année ⟨il y aura⟩ un shabbat de shabbaton ⟨pour⟩ la terre, un shabbat ⟨pour⟩ YHWH : ton champ, tu ne le sèmeras pas, et ta vigne, tu ne la tailleras pas",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "mais ⟨dans⟩ la ... année"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "septième"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "un shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "de shabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨il y aura⟩"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨pour⟩ la terre"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "un shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pour⟩ YHWH"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ton champ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "semeras"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "et ta vigne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "tailleras"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:12.996254843Z",
+  "model": "glm-4.5"
+}

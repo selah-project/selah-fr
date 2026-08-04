@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "S'il est déchiré, qu'il l'amène en ⟨témoignage⟩, la déchirure ⟨il⟩ ne la remboursera pas.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "il est déchiré"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": ""
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "qu'il l'amène"
+    },
+    {
+      "surface": "עד",
+      "gloss": "en ⟨témoignage⟩"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "la déchirure"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨il⟩ ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "la remboursera pas"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:13.445125529Z",
+  "model": "glm-4.5"
+}

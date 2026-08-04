@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Et Sion a dit : YHWH m'a abandonné, et Adonaï m'a oublié.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "Et a dit"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "עֲזָבַנִי",
+      "gloss": "m'a abandonné"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וַאדֹנָי",
+      "gloss": "et Adonaï"
+    },
+    {
+      "surface": "שְׁכֵחָנִי",
+      "gloss": "m'a oublié"
+    }
+  ],
+  "timestamp": "2026-08-04T15:44:53.548556285Z",
+  "model": "glm-4.5"
+}

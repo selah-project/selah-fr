@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et David rassembla ⟨את⟩ tout le peuple et marcha vers Rabba, et combattit contre elle, et la prit.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Et rassembla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le peuple"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et marcha"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "vers Rabba"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "et combattit"
+    },
+    {
+      "surface": "בה",
+      "gloss": "contre elle"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "et la prit"
+    }
+  ],
+  "timestamp": "2026-08-04T13:07:55.864760219Z",
+  "model": "glm-4.5"
+}

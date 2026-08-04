@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si ⟨il⟩ refuse absolument de lui donner ⟨son⟩ argent, il pèsera [de l'argent] comme le prix des vierges",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "refuse absolument"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "[il] refuse"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "[son] père"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "de lui donner"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "il pèsera"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "comme le prix"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "des vierges"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:20.392397823Z",
+  "model": "glm-4.5"
+}

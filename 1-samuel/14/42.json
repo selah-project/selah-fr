@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et Shaoul dit : Jetez ⟨le sort⟩ entre moi et Jonathan mon fils. Et Jonathan fut ⟨pris⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "jetez"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "et fut pris"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonathan"
+    }
+  ],
+  "timestamp": "2026-08-04T12:24:52.889908320Z",
+  "model": "glm-4.5"
+}

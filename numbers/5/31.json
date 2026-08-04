@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et l'homme sera innocent de la faute, et cette femme-là portera ⟨את⟩ sa faute",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "et l'homme sera innocent"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "de la faute"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "et la femme"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "cette-là"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "portera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa faute"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "sa faute"
+    }
+  ],
+  "timestamp": "2026-08-04T08:31:31.298448237Z",
+  "model": "glm-4.5"
+}

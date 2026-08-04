@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "car David fit ⟨את⟩ le droit aux yeux de YHWH et ne se détourna pas de tout ce qu'il lui avait commandé tous les jours de sa vie, seulement en la parole d'Ouria le Hittite",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "car"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le droit"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "le droit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "סר",
+      "gloss": "se détourna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "il lui avait commandé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours de"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sa vie"
+    },
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "en la parole"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "d'Ouria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "le Hittite"
+    }
+  ],
+  "timestamp": "2026-08-04T13:54:13.508863506Z",
+  "model": "glm-4.5"
+}

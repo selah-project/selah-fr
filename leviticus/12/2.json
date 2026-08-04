@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Parle aux fils d'Israël pour dire : une femme quand elle ⟨aura⟩ semé et ⟨aura⟩ enfanté un mâle, sera impure sept jours, comme les jours de son impurity de ses flux elle sera impure.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "elle ⟨aura⟩ semé"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "et ⟨aura⟩ enfanté"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "un mâle"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "sera impure"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "comme les jours"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "de son impurity"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "de ses flux"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "elle sera impure"
+    }
+  ],
+  "timestamp": "2026-08-04T07:42:47.726742252Z",
+  "model": "glm-4.5"
+}

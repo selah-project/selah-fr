@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et à Aaron naquirent Nadab, et Abihu, ⟨את⟩ Eléazar, et ⟨את⟩ Ithamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Et naquirent"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "à Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Abihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eléazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Eléazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ithamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Ithamar"
+    }
+  ],
+  "timestamp": "2026-08-04T09:25:28.568015089Z",
+  "model": "glm-4.5"
+}

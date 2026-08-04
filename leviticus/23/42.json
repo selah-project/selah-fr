@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Dans les soukkas ⟨vous⟩ habiterez sept jours; tout ⟨le⟩ natif en Israël habitera dans les soukkas.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "dans les soukkas"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "⟨vous⟩ habiterez"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "⟨le⟩ natif"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habitera"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "dans les soukkas"
+    }
+  ],
+  "timestamp": "2026-08-04T08:12:37.058042455Z",
+  "model": "glm-4.5"
+}

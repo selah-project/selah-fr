@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Chacun aide ⟨את⟩ son prochain, et à son frère il dit : Prends courage !",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Chacun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son prochain"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son prochain"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "aide"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "et à son frère"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "il dit"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Prends courage"
+    }
+  ],
+  "timestamp": "2026-08-04T15:36:02.786102375Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Qui est parmi tous les dieux de ces pays-là qui ⟨ont⟩ sauvé ⟨את⟩ leur pays de ma main, pour que YHWH sauve ⟨את⟩ Jérusalem de ma main ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "parmi tous"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "les dieux"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "de ces pays-là"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "⟨ont⟩ sauvé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur pays"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur pays"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "de ma main"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pour que"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "sauve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jérusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "de ma main"
+    }
+  ],
+  "timestamp": "2026-08-04T15:30:31.484458840Z",
+  "model": "glm-4.5"
+}

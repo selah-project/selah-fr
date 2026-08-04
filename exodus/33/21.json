@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et YHWH dit : Voici, un lieu ⟨est⟩ avec moi, et tu te tiendras sur ⟨le⟩ rocher",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "et tu te tiendras"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "⟨le⟩ rocher"
+    }
+  ],
+  "timestamp": "2026-08-04T07:07:38.526731936Z",
+  "model": "glm-4.5"
+}

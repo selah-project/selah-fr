@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et Ishmaël, son fils, ⟨était⟩ un fils de treize ans quand il fut circoncis dans la chair de son prépuce",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Et Ishmaël"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils de"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "treize"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "quand il fut circoncis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la chair de son prépuce"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "de son prépuce"
+    }
+  ],
+  "timestamp": "2026-08-04T05:21:37.880300552Z",
+  "model": "glm-4.5"
+}

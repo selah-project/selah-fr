@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "deux par deux ils vinrent vers Noé, vers la tevah, un mâle et une femelle, comme Elohim avait commandé ⟨את⟩ Noé.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "deux"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "par deux"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ils vinrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "la tevah"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "un mâle"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "et une femelle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noé"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    }
+  ],
+  "timestamp": "2026-08-04T05:06:35.209303616Z",
+  "model": "glm-4.5"
+}

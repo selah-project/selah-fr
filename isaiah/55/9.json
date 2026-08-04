@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Car comme les cieux sont élevés au-dessus de la terre, ainsi mes voies sont élevées au-dessus de vos voies, et mes pensées au-dessus de vos pensées.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sont élevés"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "au-dessus de la terre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "sont élevés"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mes voies"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "au-dessus de vos voies"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "et mes pensées"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "au-dessus de vos pensées"
+    }
+  ],
+  "timestamp": "2026-08-04T15:49:51.597906081Z",
+  "model": "glm-4.5"
+}

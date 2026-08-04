@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et le peuple se dispersa dans tout le pays de Mitsraïm pour glaner du chaume ⟨pour⟩ de la paille.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "et se dispersa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraïm"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "pour glaner"
+    },
+    {
+      "surface": "קש",
+      "gloss": "du chaume"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "⟨pour⟩ de la paille"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:52.711264655Z",
+  "model": "glm-4.5"
+}

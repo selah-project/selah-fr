@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "N'est-ce pas à cela que tu ⟨te⟩ causes ⟨ce⟩ : par ton abandon de YHWH ton Élohim au temps où il te conduisait ⟨dans⟩ la route.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "à cela"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu causes"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "par ton abandon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "au temps"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "où il te conduisait"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨dans⟩ la route"
+    }
+  ],
+  "timestamp": "2026-08-04T16:05:05.283496791Z",
+  "model": "glm-4.5"
+}

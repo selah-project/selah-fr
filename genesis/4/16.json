@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Qaïn sortit de devant la face de YHWH et il habita dans le pays de Nod, ⟨à l'⟩est d'Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et il sortit"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qaïn"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de devant la face de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il habita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays de"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "⟨à l'⟩est de"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:24.662282694Z",
+  "model": "glm-4.5"
+}

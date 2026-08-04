@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et toi, dénombrer ⟨את⟩ Aharon et ⟨את⟩ ses fils, et ils garderont leur fonction de prêtrerie, et ⟨le⟩ profane qui ⟨est⟩ proche mourra",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "dénombrer"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "et ils garderont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur fonction de prêtrerie"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "leur fonction de prêtrerie"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "et ⟨le⟩ profane"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "qui ⟨est⟩ proche"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mourra"
+    }
+  ],
+  "timestamp": "2026-08-04T08:25:50.892838896Z",
+  "model": "glm-4.5"
+}

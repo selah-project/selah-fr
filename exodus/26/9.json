@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et tu as assemblé ⟨את⟩ cinq ⟨את⟩ les tentures par elles-mêmes et ⟨את⟩ six ⟨את⟩ les tentures par elles-mêmes et tu as doublé ⟨את⟩ la tenture la sixième vers la face de la tente",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "et tu as assemblé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cinq"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "les tentures"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "par elles-mêmes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "six"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "les tentures"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "par elles-mêmes"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "et tu as doublé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tenture"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "la tenture"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "la sixième"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מול",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "la tente"
+    }
+  ],
+  "timestamp": "2026-08-04T06:51:33.760446645Z",
+  "model": "glm-4.5"
+}

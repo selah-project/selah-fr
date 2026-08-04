@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et il ⟨ne⟩ voulut pas écouter sa voix, et ⟨il fut⟩ plus fort qu'elle et la contraignit et coucha avec elle.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et ⟨ne⟩"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "voulut"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "écouter"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "et ⟨il fut⟩ plus fort"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "qu'elle"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "et la contraignit"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "et coucha avec"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "elle",
+      "marks": "elle"
+    }
+  ],
+  "timestamp": "2026-08-04T13:09:55.310863219Z",
+  "model": "glm-4.5"
+}

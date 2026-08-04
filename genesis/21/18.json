@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Lève-toi, soulève ⟨את⟩ le jeune garçon et tiens fermement ⟨את⟩ ta main sur lui, car je ferai de lui une grande nation.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "lève-toi"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "soulève"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le jeune garçon"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "le jeune garçon"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "et tiens fermement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "une nation"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "je ferai de lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:27:06.836558158Z",
+  "model": "glm-4.5"
+}

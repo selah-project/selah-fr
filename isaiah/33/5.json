@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "YHWH est exalté, car Il réside dans les hauts lieux, Il a rempli Zion ⟨du⟩ jugement et ⟨de⟩ la justice",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "est exalté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "Il réside"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dans les hauts lieux"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Il a rempli"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨du⟩ jugement"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "et ⟨de⟩ la justice"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:15.629718807Z",
+  "model": "glm-4.5"
+}

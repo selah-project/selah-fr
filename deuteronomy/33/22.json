@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et de Dan il dit : Dan est un lionceau, il s'élancera du Bashan.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "Et de Dan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "il dit"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "גור",
+      "gloss": "est un lionceau"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lion"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "il s'élancera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-08-04T10:48:36.183412844Z",
+  "model": "glm-4.5"
+}

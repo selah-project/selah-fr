@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et vous garderez ⟨את⟩ la garde du sanctuaire et ⟨את⟩ la garde de l'autel, et il n'y aura plus de colère sur les fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Et vous garderez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la garde du sanctuaire"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la garde"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "du sanctuaire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la garde de l'autel"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la garde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "aura"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "de colère"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T09:03:20.975731224Z",
+  "model": "glm-4.5"
+}

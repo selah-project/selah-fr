@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 13:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et ce sera comme un cerf chassé et comme un troupeau sans ⟨celui qui⟩ rassemble : chacun vers son peuple se tournera et chacun vers son pays s'enfuira",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et ce sera"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "comme un cerf"
+    },
+    {
+      "surface": "מדח",
+      "gloss": "chassé"
+    },
+    {
+      "surface": "וכצאן",
+      "gloss": "et comme un troupeau"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et sans"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "⟨celui qui⟩ rassemble",
+      "marks": "un troupeau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "se tournera"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et chacun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "son pays"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "s'enfuira"
+    }
+  ],
+  "timestamp": "2026-08-04T15:00:44.109519803Z",
+  "model": "glm-4.5"
+}

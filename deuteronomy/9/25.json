@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et je me suis jeté devant YHWH ⟨את⟩ les quarante jours et ⟨את⟩ les quarante nuits, car YHWH avait dit de vous détruire",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "Et je me suis jeté"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les quarante jours"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les quarante nuits"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nuits"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "car"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avait dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "de détruire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:10:30.528443490Z",
+  "model": "glm-4.5"
+}

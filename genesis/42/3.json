@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et descendirent les dix frères de Yosseph pour acheter du grain depuis l'Égypte.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Et descendirent"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "les frères"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "de Yosseph"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dix"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pour acheter"
+    },
+    {
+      "surface": "בר",
+      "gloss": "du grain"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "depuis l'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:09.096214687Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "C’est pourquoi la malédiction a dévoré ⟨la⟩ terre, et ses habitants s’en ⟨sont rendus coupables⟩ ; c’est pourquoi les habitants de ⟨la⟩ terre ont brûlé, et il reste un homme ⟨en⟩ très petit nombre.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "c’est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "donc"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "la malédiction"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "a dévoré"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "et s’en ⟨sont rendus coupables⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "c’est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "donc"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "ont brûlé"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de ⟨la⟩ terre"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "et il reste"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "en très petit nombre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:18:27.400125535Z",
+  "model": "glm-4.5"
+}

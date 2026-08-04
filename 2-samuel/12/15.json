@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Nathan alla vers sa maison, et YHWH frappa ⟨את⟩ l'enfant que la femme d'Urie avait enfanté à David, et il devint gravement malade.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'enfant"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "avait enfanté"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "d'Urie"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "et il devint gravement malade"
+    }
+  ],
+  "timestamp": "2026-08-04T13:08:57.605554244Z",
+  "model": "glm-4.5"
+}

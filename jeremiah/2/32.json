@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Une vierge oublierait-elle ⟨ses⟩ ornements, une fiancée ⟨ses⟩ liens ? Et mon peuple m'a oublié des jours sans nombre.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "oublierait-elle"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "une vierge"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "⟨ses⟩ ornements",
+      "marks": "ses ornements"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "une fiancée"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "⟨ses⟩ liens",
+      "marks": "ses liens"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "et mon peuple"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "m'a oublié"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nombre"
+    }
+  ],
+  "timestamp": "2026-08-04T16:05:39.578296989Z",
+  "model": "glm-4.5"
+}

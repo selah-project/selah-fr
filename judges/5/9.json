@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "judges 5:9",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Mon cœur est pour les législateurs d'Israël, pour les volontaires ⟨dans⟩ le peuple : bénissez YHWH.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Mon cœur"
+    },
+    {
+      "surface": "לחוקקי",
+      "gloss": "pour les législateurs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "pour les volontaires"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "⟨dans⟩ le peuple",
+      "marks": "dans le peuple"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T11:39:50.433136055Z",
+  "model": "glm-4.5"
+}

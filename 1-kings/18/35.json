@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et les eaux allaient ⟨autour⟩ de l'autel, et aussi il remplit ⟨את⟩ le fossé d'eau.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "allèrent"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨autour⟩"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le fossé"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "le fossé"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "il remplit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T13:58:44.887460916Z",
+  "model": "glm-4.5"
+}

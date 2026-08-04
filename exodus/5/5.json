@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Paroh dit : Voici, le peuple du pays est maintenant nombreux, et vous les faites cesser ⟨את⟩ de leurs charges.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "et vous les faites cesser"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les (homme) de leurs charges"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "de leurs charges"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:53.764899909Z",
+  "model": "glm-4.5"
+}

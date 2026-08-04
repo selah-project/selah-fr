@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 23:26",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Si tu entres ⟨dans⟩ la moisson de ton prochain, et que tu cueilles ⟨des⟩ épis avec ta main, tu ne feras pas passer la faucille ⟨sur⟩ la moisson de ton prochain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tu entres"
+    },
+    {
+      "surface": "בקמת",
+      "gloss": "dans la moisson"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "de ton prochain"
+    },
+    {
+      "surface": "וקטפת",
+      "gloss": "et que tu cueilles"
+    },
+    {
+      "surface": "מלילת",
+      "gloss": "⟨des⟩ épis"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "avec ta main"
+    },
+    {
+      "surface": "וחרמש",
+      "gloss": "et la faucille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "feras pas passer"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "קמת",
+      "gloss": "la moisson"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "de ton prochain"
+    }
+  ],
+  "timestamp": "2026-08-04T10:29:04.615934430Z",
+  "model": "glm-4.5"
+}

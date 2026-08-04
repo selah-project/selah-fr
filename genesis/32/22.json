@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et ⟨la⟩ offrande passa devant lui, et il passa la nuit cette nuit-là dans le camp.",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲבֹר",
+      "gloss": "Et ... passa"
+    },
+    {
+      "surface": "הַמִּנְחָה",
+      "gloss": "⟨la⟩ offrande"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "devant"
+    },
+    {
+      "surface": "פָּנָיו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "et il"
+    },
+    {
+      "surface": "לָן",
+      "gloss": "passa la nuit"
+    },
+    {
+      "surface": "בַּלַּֽיְלָה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "cette -là"
+    },
+    {
+      "surface": "בַּמַּחֲנֶה",
+      "gloss": "dans le camp"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:19.424590421Z",
+  "model": "glm-4.5"
+}

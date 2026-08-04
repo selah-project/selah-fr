@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et ils rencontrèrent ⟨את⟩ Moshé et ⟨את⟩ Aharon qui se tenaient ⟨à leur⟩ rencontre, à leur sortie de chez Paroh.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Et ils rencontrèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "qui se tenaient"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "⟨à leur⟩ rencontre"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "à leur sortie"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de chez"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:12.007583247Z",
+  "model": "glm-4.5"
+}

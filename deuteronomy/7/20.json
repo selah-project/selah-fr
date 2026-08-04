@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et aussi ⟨את⟩ la frelon YHWH ton Élohim l'enverra contre eux, jusqu'à la perdition des restants et de ceux qui se cachent de devant toi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la frelon"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "la frelon"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "l'enverra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contre eux"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "la perdition"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "des restants"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "et de ceux qui se cachent"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de devant toi"
+    }
+  ],
+  "timestamp": "2026-08-04T10:02:21.625319938Z",
+  "model": "glm-4.5"
+}

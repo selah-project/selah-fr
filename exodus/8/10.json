@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et ils les rassemblèrent en ⟨את⟩ tas, en ⟨את⟩ tas, et la terre devint putride",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "et ils rassemblèrent"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les grenouilles (objets précédents)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "en tas"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "en tas"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "et devint putride"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T06:21:26.014697540Z",
+  "model": "glm-4.5"
+}

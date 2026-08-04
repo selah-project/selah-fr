@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et ⟨את⟩ la peau du taureau et ⟨את⟩ toute sa chair, avec sa tête et avec ses jambes, et ses entrailles et son fumier",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la peau du taureau"
+    },
+    {
+      "surface": "עור",
+      "gloss": "la peau"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "du taureau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "toute sa chair"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "על",
+      "gloss": "avec"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sa tête"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et avec"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ses jambes"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "et ses entrailles"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "et son fumier"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:03.607212309Z",
+  "model": "glm-4.5"
+}

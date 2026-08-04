@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et Moïse et Aharon vinrent ⟨à⟩ la face de ⟨la⟩ tente ⟨du⟩ rendez‑vous.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et vinrent"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨la⟩ tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨du⟩ rendez‑vous"
+    }
+  ],
+  "timestamp": "2026-08-04T09:01:30.676198932Z",
+  "model": "glm-4.5"
+}

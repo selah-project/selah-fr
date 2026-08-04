@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et voici ⟨la⟩ contribution que vous prendrez d'eux : or et argent et bronze.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Et voici"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "⟨la⟩ contribution"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "vous prendrez"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "or"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "et argent"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "et bronze"
+    }
+  ],
+  "timestamp": "2026-08-04T06:49:24.491062436Z",
+  "model": "glm-4.5"
+}

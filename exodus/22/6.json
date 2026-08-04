@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si un homme ⟨donne⟩ à son compagnon de l'argent ou des objets à garder, et ⟨que cela soit⟩ volé de la maison de l'homme, si le voleur est trouvé, il paiera double.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨donne⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son compagnon"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "des objets"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "à garder"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "et ⟨que cela soit⟩ volé"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "la maison de l'homme"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "est trouvé"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "le voleur"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il paiera"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "double"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:22.856124719Z",
+  "model": "glm-4.5"
+}

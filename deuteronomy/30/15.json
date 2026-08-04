@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Vois, j'ai placé aujourd'hui devant toi ⟨את⟩ la vie et ⟨את⟩ le bien et ⟨את⟩ la mort et ⟨את⟩ le mal",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vois"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai placé"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "aujourd'hui devant toi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vie"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le bien"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la mort"
+    },
+    {
+      "surface": "המות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le mal"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "le mal"
+    }
+  ],
+  "timestamp": "2026-08-04T10:41:47.060529685Z",
+  "model": "glm-4.5"
+}

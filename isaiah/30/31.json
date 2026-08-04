@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car ⟨de⟩ la voix de YHWH, Ashour est terrassé ; avec la baguette il frappe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "⟨de⟩ la voix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "est terrassé"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashour"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "avec la baguette"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "il frappe"
+    }
+  ],
+  "timestamp": "2026-08-04T15:26:13.648820746Z",
+  "model": "glm-4.5"
+}

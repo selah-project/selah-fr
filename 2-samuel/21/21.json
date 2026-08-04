@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et il outragea ⟨את⟩ Israël, et le frappa Jonathan, fils de Shim'ï, frère de David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "et il outragea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "et le frappa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'ï"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frère de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-04T13:22:51.652802856Z",
+  "model": "glm-4.5"
+}

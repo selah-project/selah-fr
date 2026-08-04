@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et il fera sortir ⟨le⟩ taureau à l'extérieur du camp et ⟨le⟩ brûlera comme il a brûlé ⟨le⟩ premier taureau ; c'est une offrande pour le péché de l'assemblée, ⟨il⟩ l'est.",
+  "tokens": [
+    {
+      "surface": "וְהוֹצִ֣יא",
+      "gloss": "Et il fera sortir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨le⟩",
+      "marks": "taureau"
+    },
+    {
+      "surface": "הַפָּ֗ר",
+      "gloss": "taureau"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "à"
+    },
+    {
+      "surface": "מִחוּץ֙",
+      "gloss": "l'extérieur"
+    },
+    {
+      "surface": "לַֽמַּחֲנֶ֔ה",
+      "gloss": "du camp"
+    },
+    {
+      "surface": "וְשָׂרַ֣ף",
+      "gloss": "et ⟨le⟩ brûlera"
+    },
+    {
+      "surface": "אֹת֔וֹ",
+      "gloss": "⟨le⟩",
+      "marks": "il (le taureau)"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֣ר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "שָׂרַ֔ף",
+      "gloss": "il a brûlé"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨le⟩",
+      "marks": "premier taureau"
+    },
+    {
+      "surface": "הַפָּ֣ר",
+      "gloss": "premier taureau"
+    },
+    {
+      "surface": "הָרִאשׁ֑וֹן",
+      "gloss": ""
+    },
+    {
+      "surface": "חַטַּ֥את",
+      "gloss": "offrande pour le péché"
+    },
+    {
+      "surface": "הַקָּהָ֖ל",
+      "gloss": "de l'assemblée"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "⟨il⟩ l'est"
+    }
+  ],
+  "timestamp": "2026-08-04T07:31:11.025753279Z",
+  "model": "glm-4.5"
+}

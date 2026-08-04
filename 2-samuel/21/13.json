@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et il fit monter de là ⟨את⟩ les os de Shaoul et ⟨את⟩ les os de Yehonathan son fils et ils rassemblèrent ⟨את⟩ les os des pendus",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "et il fit monter"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les os de Shaoul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "les os"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaoul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les os de Yehonathan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "les os"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "de Yehonathan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "et ils rassemblèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les os des pendus"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "les os"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "des pendus"
+    }
+  ],
+  "timestamp": "2026-08-04T13:23:14.551279588Z",
+  "model": "glm-4.5"
+}

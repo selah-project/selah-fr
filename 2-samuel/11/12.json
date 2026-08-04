@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 11:12",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et David dit à Uriah : reste ici aussi aujourd'hui et demain je t'enverrai. Et Uriah resta à Jérusalem ce jour-là et le lendemain.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "שב",
+      "gloss": "reste"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "et demain"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "je t'enverrai"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Et resta"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ce jour-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "et le lendemain"
+    }
+  ],
+  "timestamp": "2026-08-04T13:06:01.925506416Z",
+  "model": "glm-4.5"
+}

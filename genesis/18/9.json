@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et ils dirent à lui : où est Sarah ta femme ? Et il dit : voici, ⟨dans⟩ la tente.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "איה",
+      "gloss": "où est"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ta femme"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dans la tente"
+    }
+  ],
+  "timestamp": "2026-08-04T05:23:25.817742070Z",
+  "model": "glm-4.5"
+}

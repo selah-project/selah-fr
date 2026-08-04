@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 64,
+  "translation": "Les villes de ton saint ⟨sont⟩ devenue⟨s⟩ un désert, Sion ⟨est⟩ devenue un désert, Jérusalem une désolation.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "Les villes de"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ton saint"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨sont⟩ devenue⟨s⟩"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "un désert"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨est⟩ devenue un désert"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "devenue"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "une désolation"
+    }
+  ],
+  "timestamp": "2026-08-04T15:59:05.201437617Z",
+  "model": "glm-4.5"
+}

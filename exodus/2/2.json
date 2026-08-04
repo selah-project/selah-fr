@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et conçut la femme et enfanta un fils et elle vit qu'il était bon et elle le cacha trois mois",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Et conçut"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "et enfanta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "et elle vit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il était bon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "et elle le cacha"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "mois"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:22.515079341Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et l'homme s'inclina et se prosterna devant YHWH",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "et s'inclina"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "et se prosterna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "devant YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T05:30:09.113678860Z",
+  "model": "glm-4.5"
+}

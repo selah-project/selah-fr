@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Hanok se promena avec Élohim ⟨את⟩ après avoir engendré ⟨את⟩ Methushelah trois cents ans et il engendra des fils et des filles",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "Et Hanok se promena"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avec Élohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "avoir engendré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Methushelah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Methushelah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trois"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "et des filles"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:44.759449759Z",
+  "model": "glm-4.5"
+}

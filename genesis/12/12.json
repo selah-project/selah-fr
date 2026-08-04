@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il adviendra, quand les Égyptiens te verront, ils diront : « C'est sa femme », et ils me tueront, et toi ils te feront vivre",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et il adviendra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "verront"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "les Égyptiens"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ils diront"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ils tueront"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "et ⟨את⟩",
+      "marks": "toi"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ils feront vivre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:15:08.146167283Z",
+  "model": "glm-4.5"
+}

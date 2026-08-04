@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et le roi dit : mourir tu mouras, Ahi- Melékh, toi et toute la maison de ton père.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mourir"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "tu mourras"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahi-Melékh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    }
+  ],
+  "timestamp": "2026-08-04T12:38:51.530734081Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Traquez ⟨את⟩ les Madianites et frappez-les",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "traquez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Madianites"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "les Madianites"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "et frappez-les"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "-les",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-04T09:22:04.222636840Z",
+  "model": "glm-4.5"
+}

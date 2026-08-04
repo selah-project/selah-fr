@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Et YHWH descendit dans ⟨la⟩ nuée et se tint avec lui là et proclama ⟨le⟩ nom de YHWH",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Et descendit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "dans ⟨la⟩ nuée"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "et se tint"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et proclama"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨le⟩ nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:08:54.706251733Z",
+  "model": "glm-4.5"
+}

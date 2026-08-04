@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Yehonathan répondit ⟨את⟩ Chaoul son père et lui dit : pourquoi ⟨il⟩ mourra-t-il ? qu'a-t-il fait ?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Chaoul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mourra-t-il"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quoi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a-t-il fait"
+    }
+  ],
+  "timestamp": "2026-08-04T12:37:24.470386234Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et la parole ⟨était⟩ droite aux yeux d'Avshalom et aux yeux de tous les anciens d'Israël",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "Et ⟨était⟩ droite"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "d'Avshalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "et aux yeux"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T13:16:26.815859027Z",
+  "model": "glm-4.5"
+}

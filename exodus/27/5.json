@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "et tu mettras ⟨את⟩ sous le rebord de l'autel, par en bas ; et le grillage sera jusqu'à la moitié de l'autel.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "et tu mettras"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sous le rebord de l'autel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "le rebord"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "par en bas"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "et sera"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "le grillage"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "la moitié"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T06:53:56.184804612Z",
+  "model": "glm-4.5"
+}

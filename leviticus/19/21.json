@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il fera venir ⟨את⟩ sa culpabilité à YHWH, à l'ouverture de la tente d'assignation, un bélier de délict",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Et il fera venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa culpabilité"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sa culpabilité"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'ouverture"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "איל",
+      "gloss": "un bélier"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "de délict"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:57.251273077Z",
+  "model": "glm-4.5"
+}

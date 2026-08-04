@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et après lui, Ibtsan de Bethléhem jugea ⟨את⟩ Israël",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Et après lui... jugea"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "après lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de Beth-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "léhem"
+    }
+  ],
+  "timestamp": "2026-08-04T11:49:57.902098480Z",
+  "model": "glm-4.5"
+}

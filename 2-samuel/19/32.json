@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Barzillaï le Guiladite descendit de Rogelim, et fit passer ⟨את⟩ le roi ⟨le⟩ Jourdain pour le faire passer ⟨את⟩ le Jourdain.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "Et Barzillaï"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "le Guiladite"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "descendit"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "de Rogelim"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "et fit passer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨le⟩ Jourdain"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "pour le faire passer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "le Jourdain"
+    }
+  ],
+  "timestamp": "2026-08-04T13:20:10.637445394Z",
+  "model": "glm-4.5"
+}

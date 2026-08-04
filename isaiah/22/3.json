@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Tous tes officiers se sont enfuis ensemble, sans l'arc ils sont liés ; tous tes trouvés sont liés ensemble, de loin ils ont fui.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "tes officiers"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "se sont enfuis"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "sans l'arc"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ils sont liés"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "tes trouvés"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "sont liés"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de loin"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "ils ont fui"
+    }
+  ],
+  "timestamp": "2026-08-04T15:15:43.001448444Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et il brûla ⟨את⟩ la maison de YHWH et ⟨את⟩ la maison du roi, et ⟨את⟩ toutes les maisons de Jérusalem, et ⟨את⟩ toute grande ⟨maison⟩ il brûla par le feu",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "et il brûla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison de YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la maison du roi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les maisons de Jérusalem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "les maisons"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toute grande maison"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בית",
+      "gloss": "grande ⟨maison⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "il brûla"
+    },
+    {
+      "surface": "באש",
+      "gloss": "par le feu"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:16.352882438Z",
+  "model": "glm-4.5"
+}

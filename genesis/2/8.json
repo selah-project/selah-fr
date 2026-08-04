@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH Élohim planta un jardin en Éden, vers l'orient, et il plaça là ⟨את⟩ l'humain qu'il avait formé.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "Et planta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "un jardin"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "en Éden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "vers l'orient"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et il plaça"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "il avait formé"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:58.683306338Z",
+  "model": "glm-4.5"
+}

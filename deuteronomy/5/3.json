@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Non ⟨את⟩ nos pères a coupé YHWH ⟨את⟩ l'alliance celle-ci, car avec nous sommes nous ceux-là ici le jour, nous tous vivants",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "Non"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nos pères"
+    },
+    {
+      "surface": "אֲבֹתֵ֔ינוּ",
+      "gloss": "nos pères"
+    },
+    {
+      "surface": "כָּרַ֥ת",
+      "gloss": "a coupé"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "l'alliance celle-ci"
+    },
+    {
+      "surface": "הַבְּרִ֣ית",
+      "gloss": "l'alliance"
+    },
+    {
+      "surface": "הַזֹּ֑את",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "car"
+    },
+    {
+      "surface": "אִתָּ֗נוּ",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "אֲנַ֨חְנוּ",
+      "gloss": "sommes nous"
+    },
+    {
+      "surface": "אֵ֥לֶּה",
+      "gloss": "ceux-là"
+    },
+    {
+      "surface": "פֹ֛ה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "הַיּ֖וֹם",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "כֻּלָּ֥נוּ",
+      "gloss": "nous tous"
+    },
+    {
+      "surface": "חַיִּֽים",
+      "gloss": "vivants"
+    }
+  ],
+  "timestamp": "2026-08-04T09:56:56.225800806Z",
+  "model": "glm-4.5"
+}

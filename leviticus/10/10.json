@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et distinguer entre le sacré et le profane, et entre l'impur et le pur",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "et distinguer"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "le sacré"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "החל",
+      "gloss": "le profane"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "l'impur"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "le pur"
+    }
+  ],
+  "timestamp": "2026-08-04T07:39:34.942625926Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il en fut ainsi, l'arche de YHWH ⟨était⟩ dans le champ des Philistins sept mois.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il en fut ainsi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sept"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mois"
+    }
+  ],
+  "timestamp": "2026-08-04T12:10:54.730316680Z",
+  "model": "glm-4.5"
+}

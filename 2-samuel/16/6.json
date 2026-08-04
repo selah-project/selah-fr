@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il lapida ⟨avec⟩ des pierres ⟨את⟩ David et ⟨את⟩ tous les serviteurs du roi David, et tout le peuple et tous les vaillants ⟨étaient⟩ à ⟨sa⟩ droite et à ⟨sa⟩ gauche.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Et il lapida"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "⟨avec⟩ des pierres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tous"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "les vaillants"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "à ⟨sa⟩ droite"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "et à ⟨sa⟩ gauche"
+    }
+  ],
+  "timestamp": "2026-08-04T13:16:13.508453387Z",
+  "model": "glm-4.5"
+}

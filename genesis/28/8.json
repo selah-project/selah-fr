@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et Ésaü vit que ⟨les⟩ filles de Canaan étaient mauvaises aux yeux de Yitsḥaq son père",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "étaient mauvaises"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "⟨les⟩ filles"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥaq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    }
+  ],
+  "timestamp": "2026-08-04T05:36:12.643489416Z",
+  "model": "glm-4.5"
+}

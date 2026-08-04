@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Ibtsan mourut et on ⟨l'⟩enterra à Beth-Lehem",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "et on ⟨l'⟩enterra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "à Beth-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-08-04T11:50:08.907229368Z",
+  "model": "glm-4.5"
+}

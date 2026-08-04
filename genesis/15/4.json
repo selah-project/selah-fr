@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 15:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et voici, la parole de YHWH ⟨fut⟩ vers lui, disant : celui-ci ne ⟨t'⟩héritera pas, sinon ⟨celui⟩ qui sortira de tes entrailles, lui ⟨t'⟩héritera.",
+  "tokens": [
+    {
+      "surface": "וְהִנֵּה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֵלָיו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יִֽירָשְׁךָ֖",
+      "gloss": "⟨t'⟩héritera"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mais, sinon"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "(marque l'alternative)"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "⟨celui⟩ qui"
+    },
+    {
+      "surface": "יֵצֵ֣א",
+      "gloss": "sortira"
+    },
+    {
+      "surface": "מִמֵּעֶ֔יךָ",
+      "gloss": "de tes entrailles"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יִֽירָשֶֽׁךָ",
+      "gloss": "⟨t'⟩héritera"
+    }
+  ],
+  "timestamp": "2026-08-04T05:19:54.384965713Z",
+  "model": "glm-4.5"
+}

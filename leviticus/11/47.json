@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "pour séparer entre ⟨le⟩ impur et entre ⟨le⟩ pur et entre ⟨la⟩ bête ⟨qui⟩ se mange et entre ⟨la⟩ bête qui ne se mangera pas",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "pour séparer"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "⟨le⟩ impur"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "⟨le⟩ pur"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "⟨la⟩ bête"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "⟨qui⟩ se mange"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "⟨la⟩ bête"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "se mangera pas"
+    }
+  ],
+  "timestamp": "2026-08-04T07:41:49.511916549Z",
+  "model": "glm-4.5"
+}

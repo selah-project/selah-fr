@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et ils furent tous deux nus, l'humain et sa femme, et ils ne ⟨furent⟩ pas honteux.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Et ils furent"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tous deux"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "nus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "et sa femme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "honteux"
+    }
+  ],
+  "timestamp": "2026-08-04T05:01:13.169497283Z",
+  "model": "glm-4.5"
+}

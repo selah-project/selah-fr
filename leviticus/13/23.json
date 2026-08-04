@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "leviticus 13:23",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et si sous elle la tache se tient et ne s'étend pas, c'est ⟨la⟩ brûlure de l'abcès, il est, et le prêtre le déclare pur.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "sous elle"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "se tient"
+    },
+    {
+      "surface": "הבהרת",
+      "gloss": "la tache"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "s'étend pas"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "brûlure"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "de l'abcès"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "et le prêtre le déclare pur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:51.924442664Z",
+  "model": "glm-4.5"
+}

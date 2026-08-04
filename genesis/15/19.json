@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "⟨את⟩ les Qéni, et ⟨את⟩ les Qenizi, et ⟨את⟩ les Qadmonei",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Qéni"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "les Qéni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Qenizi"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "les Qenizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Qadmonei"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "les Qadmonei"
+    }
+  ],
+  "timestamp": "2026-08-04T05:20:08.896302352Z",
+  "model": "glm-4.5"
+}

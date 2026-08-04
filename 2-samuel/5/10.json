@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et David allait, grandissant et devenant grand, et YHWH, Élohim des armées, était avec lui.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et David allait"
+    },
+    {
+      "surface": "דוד",
+      "gloss": ""
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "grandissant"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "et devenant grand"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": ", Élohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "des armées"
+    },
+    {
+      "surface": "עמו",
+      "gloss": ", était avec lui"
+    }
+  ],
+  "timestamp": "2026-08-04T12:57:06.730224875Z",
+  "model": "glm-4.5"
+}

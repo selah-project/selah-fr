@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et maintenant, YHWH, mon Élohim, toi, tu as fait régner ⟨את⟩ ton serviteur à la place de David, mon père ; et moi, je suis un jeune garçon, petit, je ne sais pas ⟨sortir⟩ et ⟨venir⟩.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֱלֹהָי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "הִמְלַכְתָּ",
+      "gloss": "tu as fait régner"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ton serviteur"
+    },
+    {
+      "surface": "עַבְדְּךָ",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "à la place de"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אָבִי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "וְאָנֹכִי",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "נַעַר",
+      "gloss": "je suis un jeune garçon"
+    },
+    {
+      "surface": "קָטֹן",
+      "gloss": "petit"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "je ne sais pas"
+    },
+    {
+      "surface": "אֵדַע",
+      "gloss": "je ne sais pas"
+    },
+    {
+      "surface": "צֵאת",
+      "gloss": "⟨sortir⟩"
+    },
+    {
+      "surface": "וָבֹא",
+      "gloss": "et ⟨venir⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:09.654618800Z",
+  "model": "glm-4.5"
+}

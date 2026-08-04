@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et Bilam leva ⟨את⟩ ses yeux et il vit ⟨את⟩ Israël résidant selon ses tribus, et le Rouah d'Élohim fut sur lui.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Et Bilam leva"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses yeux"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et il vit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "résidant"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "selon ses tribus"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et fut"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Rouah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T09:19:39.506841080Z",
+  "model": "glm-4.5"
+}

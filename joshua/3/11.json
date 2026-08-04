@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Voici, l'arche de ⟨l'alliance⟩, Adonaï de toute ⟨la⟩ terre, ⟨est⟩ passant devant vous dans ⟨le⟩ Jourdain.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "de ⟨l'alliance⟩"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨est⟩ passant"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "dans ⟨le⟩ Jourdain"
+    }
+  ],
+  "timestamp": "2026-08-04T10:51:38.150286314Z",
+  "model": "glm-4.5"
+}

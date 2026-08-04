@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et ils oublièrent ⟨את⟩ YHWH leur Élohim et il vendit ⟨את⟩ eux en main de Sisera chef de ⟨l'⟩armée de Hatsor et en main de Philistins et en main du roi de Moab et ils combattirent contre eux",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Et ils oublièrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "leur Élohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "et il vendit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux en main"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en main"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "de Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chef"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "de ⟨l'⟩armée"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "de Hatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "et en main"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "de Philistins"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "et en main"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "et ils combattirent"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contre eux"
+    }
+  ],
+  "timestamp": "2026-08-04T12:19:33.950917629Z",
+  "model": "glm-4.5"
+}

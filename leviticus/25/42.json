@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "car ils sont mes serviteurs, que j'ai fait sortir ⟨את⟩ du pays d'Égypte ; ils ne se vendront pas comme vente d'esclave",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mes serviteurs"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ils sont"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "j'ai fait sortir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "du pays"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils ne ... pas"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "se vendront"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "comme vente"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "d'esclave"
+    }
+  ],
+  "timestamp": "2026-08-04T08:16:41.044326799Z",
+  "model": "glm-4.5"
+}

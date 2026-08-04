@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "est en deuil, se flérit ⟨la⟩ terre, languit, se flétrit ⟨le⟩ monde, languissent ⟨les⟩ hauts lieux du peuple de ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "est en deuil"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "se flérit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "languit"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "se flétrit"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨le⟩ monde"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "languissent"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨les⟩ hauts lieux"
+    },
+    {
+      "surface": "עם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de ⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:18:14.169833141Z",
+  "model": "glm-4.5"
+}

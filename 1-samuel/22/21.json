@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Ebjathar annonça à David que Shaoul avait tué ⟨את⟩ les sacrificateurs de YHWH",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Et annonça"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "avait tué"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les sacrificateurs de YHWH"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "les sacrificateurs de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T12:38:54.130094022Z",
+  "model": "glm-4.5"
+}

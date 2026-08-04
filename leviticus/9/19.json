@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et ⟨את⟩ la graisse de taureau et du bélier, la queue grasse et ce qui recouvre ⟨les⟩ entrailles, et les reins, et le lobe du foie",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la graisse"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "השור",
+      "gloss": "taureau"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et du"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "bélier"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "la queue grasse"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "et ce qui recouvre"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "et les reins"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "et le lobe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "du foie"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:31.955048474Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "seulement, l'or ⟨את⟩, et l'argent ⟨את⟩, le bronze ⟨את⟩, le fer ⟨את⟩, l'étain ⟨את⟩, et le plomb ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'or"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'or"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'argent"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bronze"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "le bronze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le fer"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "le fer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'étain"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "l'étain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le plomb"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "le plomb"
+    }
+  ],
+  "timestamp": "2026-08-04T09:37:50.168458391Z",
+  "model": "glm-4.5"
+}

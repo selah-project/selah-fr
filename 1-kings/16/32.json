@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il éleva ⟨un⟩ autel ⟨pour⟩ Baal ⟨dans⟩ la maison ⟨de⟩ Baal, qu'il avait bâtie ⟨à⟩ Samarie",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et il éleva"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "⟨pour⟩ Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "⟨de⟩ Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "avait bâtie"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "⟨à⟩ Samarie"
+    }
+  ],
+  "timestamp": "2026-08-04T13:55:53.045172911Z",
+  "model": "glm-4.5"
+}

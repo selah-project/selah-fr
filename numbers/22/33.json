@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et ⟨l'⟩ânesse m'a vu et s'est déviée devant moi ces trois fois ; peut-être s'est-elle déviée de devant moi, car maintenant ⟨aussi⟩ toi, je t'aurais tué et ⟨elle⟩ je l'aurais laissée vivre.",
+  "tokens": [
+    {
+      "surface": "וַתִּרְאַ֨נִי֙",
+      "gloss": "et ⟨l'⟩ânesse m'a vu"
+    },
+    {
+      "surface": "הָֽאָת֔וֹן",
+      "gloss": "⟨l'⟩ânesse"
+    },
+    {
+      "surface": "וַתֵּ֣ט",
+      "gloss": "et s'est déviée"
+    },
+    {
+      "surface": "לְפָנַ֔י",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "שָׁלֹ֣שׁ",
+      "gloss": "trois"
+    },
+    {
+      "surface": "רְגָלִ֑ים",
+      "gloss": "fois"
+    },
+    {
+      "surface": "אוּלַ֙י",
+      "gloss": "peut-être"
+    },
+    {
+      "surface": "נָטְתָ֣ה",
+      "gloss": "s'est-elle déviée"
+    },
+    {
+      "surface": "מִפָּנַ֔י",
+      "gloss": "de devant moi"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "car"
+    },
+    {
+      "surface": "עַתָּ֛ה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "⟨aussi⟩"
+    },
+    {
+      "surface": "אֹתְכָ֥ה",
+      "gloss": "⟨את⟩",
+      "marks": "toi"
+    },
+    {
+      "surface": "הָרַ֖גְתִּי",
+      "gloss": "je t'aurais tué"
+    },
+    {
+      "surface": "וְאוֹתָ֥הּ",
+      "gloss": "⟨את⟩",
+      "marks": "elle"
+    },
+    {
+      "surface": "הֶחֱיֵֽיתִי",
+      "gloss": "je l'aurais laissée vivre"
+    }
+  ],
+  "timestamp": "2026-08-04T09:17:04.535089986Z",
+  "model": "glm-4.5"
+}

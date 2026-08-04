@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et il advint, lors de l'audition ⟨par⟩ le roi 'Hizqiyyahou, et il déchira ⟨את⟩ ses vêtements, et il se couvrit de sac, et il vint ⟨dans⟩ la maison de YHWH.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lors de l'audition"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨par⟩ le roi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "'Hizqiyyahou"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "et il déchira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses vêtements"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "et il se couvrit"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "de sac"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il vint"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨dans⟩ la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T15:31:41.381841060Z",
+  "model": "glm-4.5"
+}

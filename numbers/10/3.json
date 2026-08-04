@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et sonnez avec elles, et se réuniront vers toi toute l'assemblée ⟨à⟩ l'entrée du Ohel Moed.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "et sonnez"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "avec elles"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "et se réuniront"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩",
+      "marks": "l'entrée"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "du Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-08-04T08:45:51.298494695Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et un homme qui donnera sa couche avec une bête, ⟨il⟩ sera mis à mort, et ⟨את⟩ la bête, vous ⟨la⟩ tuerez.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sa couche"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "avec une bête"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mort"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sera mis à mort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la bête"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "la bête"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "vous tuerez"
+    }
+  ],
+  "timestamp": "2026-08-04T08:05:22.801316313Z",
+  "model": "glm-4.5"
+}

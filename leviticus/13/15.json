@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et le cohen verra ⟨את⟩ la chair vive et le rendra impur ⟨est⟩ la chair vive impure elle ⟨est⟩ la tsaraat elle",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "et verra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la chair vive"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "et le rendra impur"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "החי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impure"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:40.604531899Z",
+  "model": "glm-4.5"
+}

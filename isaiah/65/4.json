@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Ceux qui ⟨sont⟩ assis parmi les sépulcres et dans les lieux fermés ils passent la nuit, ceux qui mangent la chair du porc et du bouillon de choses immondes ⟨est⟩ dans leurs ustensiles",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "ceux qui ⟨sont⟩ assis"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "parmi les sépulcres"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "et dans les lieux fermés"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ils passent la nuit"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ceux qui mangent"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "du porc"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "et du bouillon"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "de choses immondes"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "dans leurs ustensiles"
+    }
+  ],
+  "timestamp": "2026-08-04T16:00:00.681525232Z",
+  "model": "glm-4.5"
+}

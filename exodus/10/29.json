@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Mosheh dit : Tu as bien parlé, je ne ⟨vais⟩ plus voir ⟨ton⟩ visage.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bien"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "as parlé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "plus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨vais⟩"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "voir"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨ton⟩ visage"
+    }
+  ],
+  "timestamp": "2026-08-04T06:24:43.600644108Z",
+  "model": "glm-4.5"
+}

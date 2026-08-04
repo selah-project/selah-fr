@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "et le soleil se leva pour lui quand il ⟨avait⟩ traversé ⟨את⟩ Penuel, et il ⟨était⟩ boiteux sur sa cuisse",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "et le soleil se leva"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quand"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨avait⟩ traversé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et il ⟨était⟩"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "boiteux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "sa cuisse"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:55.328429163Z",
+  "model": "glm-4.5"
+}

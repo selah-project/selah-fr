@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et ⟨את⟩ le reste du peuple il mit dans la main d’Avishaï son frère, et il rangea ⟨en ordre⟩ contre les fils d’Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Et ⟨את⟩",
+      "marks": "le reste"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "le reste"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il mit"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "d’Avishaï"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "et il rangea"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "contre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "d’Ammon"
+    }
+  ],
+  "timestamp": "2026-08-04T13:04:26.216151264Z",
+  "model": "glm-4.5"
+}

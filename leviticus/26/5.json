@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et le battage atteindra ⟨את⟩ la vendange et la vendange atteindra ⟨את⟩ les semailles et vous mangerez votre pain à satiété et vous habiterez en sécurité dans votre terre",
+  "tokens": [
+    {
+      "surface": "וְהִשִּׂ֨יג",
+      "gloss": "et atteindra"
+    },
+    {
+      "surface": "לָכֶ֥ם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "דַּ֨יִשׁ֙",
+      "gloss": "le battage"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la vendange"
+    },
+    {
+      "surface": "בָּצִ֔יר",
+      "gloss": "la vendange"
+    },
+    {
+      "surface": "וּבָצִ֖יר",
+      "gloss": "et la vendange"
+    },
+    {
+      "surface": "יַשִּׂ֣יג",
+      "gloss": "atteindra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les semailles"
+    },
+    {
+      "surface": "זָ֑רַע",
+      "gloss": "les semailles"
+    },
+    {
+      "surface": "וַאֲכַלְתֶּ֤ם",
+      "gloss": "et vous mangerez"
+    },
+    {
+      "surface": "לַחְמְכֶ֝ם֙",
+      "gloss": "votre pain"
+    },
+    {
+      "surface": "לָשֹׂ֔בַע",
+      "gloss": "à satiété"
+    },
+    {
+      "surface": "וִֽישַׁבְתֶּ֥ם",
+      "gloss": "et vous habiterez"
+    },
+    {
+      "surface": "לָבֶ֖טַח",
+      "gloss": "en sécurité"
+    },
+    {
+      "surface": "בְּאַרְצְכֶֽם",
+      "gloss": "dans votre terre"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:45.947116822Z",
+  "model": "glm-4.5"
+}

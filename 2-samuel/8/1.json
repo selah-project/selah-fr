@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il advint après cela, David frappa ⟨את⟩ les Philistins et les soumit, et David prit ⟨את⟩ le gouvernail de la métropole de la main des Philistins",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "frappa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Philistins"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "et les soumit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et David prit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le gouvernail de la métropole"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "le gouvernail"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "de la métropole"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    }
+  ],
+  "timestamp": "2026-08-04T13:02:03.477637186Z",
+  "model": "glm-4.5"
+}

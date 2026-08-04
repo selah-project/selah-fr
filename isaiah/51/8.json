@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Car comme un vêtement la teigne les mangera, et comme de la laine le ver les mangera, mais ma justice sera pour toujours, et mon salut de génération en génération.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "comme un vêtement"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "la teigne les mangera"
+    },
+    {
+      "surface": "עש",
+      "gloss": "teigne"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "et comme de la laine"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "le ver les mangera"
+    },
+    {
+      "surface": "סס",
+      "gloss": "ver"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "mais ma justice"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "et mon salut"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "en générations"
+    }
+  ],
+  "timestamp": "2026-08-04T15:46:05.629939816Z",
+  "model": "glm-4.5"
+}

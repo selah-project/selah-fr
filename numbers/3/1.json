@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ce sont ici les générations d'Aaron et de Moïse, au jour où YHWH parla ⟨את⟩ Moïse sur la montagne de Sinaï.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et ce sont ici"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "les générations"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "et de Moïse"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "où"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moïse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "de Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-04T08:25:39.967467030Z",
+  "model": "glm-4.5"
+}

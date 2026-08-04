@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Car ⟨il y a⟩ fureur ⟨pour⟩ YHWH contre toutes les nations, et colère contre toutes leurs armées : il les a voués ⟨à la destruction⟩, il les a livrés ⟨au⟩ massacre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "fureur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pour⟩ YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "et colère"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "leurs armées"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "il les a voués ⟨à la destruction⟩"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "il les a livrés"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "⟨au⟩ massacre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:29:20.196834740Z",
+  "model": "glm-4.5"
+}

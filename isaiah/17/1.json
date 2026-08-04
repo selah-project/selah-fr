@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "L'oracle de Damas. Voici, Damas ⟨est⟩ supprimée d'être ⟨une⟩ ville, et elle sera ⟨un⟩ tas ⟨de⟩ ruine.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "L'oracle"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "de Damas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damas"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "supprimée"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "d'être ⟨une⟩ ville"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "et elle sera"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "⟨un⟩ tas"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "⟨de⟩ ruine"
+    }
+  ],
+  "timestamp": "2026-08-04T15:05:49.644173774Z",
+  "model": "glm-4.5"
+}

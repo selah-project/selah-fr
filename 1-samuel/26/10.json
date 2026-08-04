@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "David dit : YHWH est vivant, si YHWH ne le frappe, ou si son jour vient pour qu'il meure, ou s'il descend dans la bataille et soit consumé",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "est vivant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "le frappe"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "son jour"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vient"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "pour qu'il meure"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dans la bataille"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "il descend"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "et soit consumé"
+    }
+  ],
+  "timestamp": "2026-08-04T12:45:38.374967609Z",
+  "model": "glm-4.5"
+}

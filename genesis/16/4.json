@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il alla vers Hagar et elle conçut et elle vit qu'elle ⟨avait⟩ conçu et fut méprisée sa maîtresse dans ses yeux",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et il alla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "et elle conçut"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "et elle vit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "elle ⟨avait⟩ conçu"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "et fut méprisée"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "sa maîtresse"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "dans ses yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T05:20:45.632125386Z",
+  "model": "glm-4.5"
+}

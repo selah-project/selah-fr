@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et sur toutes ⟨les⟩ montagnes élevées et sur toutes ⟨les⟩ collines qui ⟨sont⟩ élevées",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "⟨les⟩ montagnes"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "élevées"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "⟨les⟩ collines"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "qui ⟨sont⟩ élevées"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:06.972063738Z",
+  "model": "glm-4.5"
+}

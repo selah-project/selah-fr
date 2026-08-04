@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et Joseph reconnut ⟨את⟩ ses frères, et eux ⟨est⟩ ne le reconnurent pas",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Et ... reconnut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses frères"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "והם",
+      "gloss": "et eux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "reconnurent pas"
+    }
+  ],
+  "timestamp": "2026-08-04T05:55:51.726584280Z",
+  "model": "glm-4.5"
+}

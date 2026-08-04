@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il arriva après la mort de Shaoul que David revint de frapper ⟨את⟩ Amaleq, et David demeura à Tsiklag deux jours.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaoul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "que David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "revint"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "de frapper"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleq"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et David demeura"
+    },
+    {
+      "surface": "דוד",
+      "gloss": ""
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "à Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "deux"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:48.737571042Z",
+  "model": "glm-4.5"
+}

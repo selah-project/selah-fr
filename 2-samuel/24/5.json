@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et ils passèrent ⟨את⟩ le Jourdain et campèrent à Aroer, à droite de ⟨la⟩ ville qui ⟨est⟩ au milieu du torrent de Gad et vers Jaazer",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "Et ils passèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "et campèrent"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "à Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "à droite"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "le torrent"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "de Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaazer"
+    }
+  ],
+  "timestamp": "2026-08-04T13:27:08.661868085Z",
+  "model": "glm-4.5"
+}

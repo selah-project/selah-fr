@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "et tu placeras ⟨את⟩ deux rangées, six ⟨la⟩ rangée, sur la table pure devant YHWH",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "et tu placeras"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "deux rangées"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "deux"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rangées"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "la rangée"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la table"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "pure"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:13:25.431673476Z",
+  "model": "glm-4.5"
+}

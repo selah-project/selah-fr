@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et ses fils ne marchèrent pas dans sa voie, et ils se détournèrent après ⟨le⟩ gain, et ils prirent des pots-de-vin, et ils détournèrent ⟨le⟩ jugement.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et ... ne ... pas"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "marchèrent"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "dans sa voie"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "et ils se détournèrent"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "⟨le⟩ gain"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "et ils prirent"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "des pots-de-vin"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "et ils détournèrent"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨le⟩ jugement"
+    }
+  ],
+  "timestamp": "2026-08-04T12:13:21.130690801Z",
+  "model": "glm-4.5"
+}

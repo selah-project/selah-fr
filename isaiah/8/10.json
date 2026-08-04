@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Concevez ⟨une⟩ combinaison et ⟨elle⟩ sera brisée ; prononcez ⟨une⟩ parole et ⟨elle⟩ ne tiendra pas, car El ⟨est⟩ avec nous.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "concevez"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "une combinaison"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "et elle sera brisée"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "prononcez"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "elle ne tiendra pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-04T14:55:22.455952804Z",
+  "model": "glm-4.5"
+}

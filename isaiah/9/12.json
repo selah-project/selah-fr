@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et le peuple ne ⟨est⟩ pas revenu vers celui qui le frappe, et ⟨את⟩ YHWH Tsevaot, ils ne ⟨l'⟩ont pas cherché",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "et le peuple"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ⟨est⟩ pas"
+    },
+    {
+      "surface": "שב",
+      "gloss": "revenu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vers"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "celui qui le frappe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ont pas cherché"
+    }
+  ],
+  "timestamp": "2026-08-04T14:57:08.338695556Z",
+  "model": "glm-4.5"
+}

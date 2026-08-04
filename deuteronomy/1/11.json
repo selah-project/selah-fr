@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "YHWH, l'Élohim de vos pères, vous fasse croître de mille fois comme vous ⟨êtes⟩, et bénisse ⟨את⟩ vous, comme il a parlé à vous",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "de vos pères"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "vous fasse croître"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "de"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "mille fois comme vous"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fois"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et bénisse"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il a parlé"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "à vous"
+    }
+  ],
+  "timestamp": "2026-08-04T09:48:38.278690819Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨את⟩ le lièvre, car il fait monter ⟨la⟩ coudrée, et ⟨le⟩ sabot il n'a ⟨pas⟩ divisé, impure elle est pour vous",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le lièvre"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "le lièvre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "il fait monter"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨la⟩ coudrée"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "et ⟨le⟩ sabot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a ⟨pas⟩"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "divisé"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "impure"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:29.239918818Z",
+  "model": "glm-4.5"
+}

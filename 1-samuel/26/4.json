@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et David envoya des espions et savour ⟨que⟩ ⟨le⟩ Shaul était venu vers Nachon",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et David envoya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": ""
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "des espions"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "et savour"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "était venu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "⟨le⟩ Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nachon"
+    }
+  ],
+  "timestamp": "2026-08-04T12:45:35.870614376Z",
+  "model": "glm-4.5"
+}

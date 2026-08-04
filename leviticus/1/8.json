@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Les fils d'Aharon, les prêtres, mettront en ordre ⟨את⟩ les morceaux, ⟨את⟩ la tête et ⟨את⟩ la graisse, sur le bois ⟨qui est⟩ sur le feu ⟨qui est⟩ sur l'autel.",
+  "tokens": [
+    {
+      "surface": "וְעָרְכ֗וּ",
+      "gloss": "mettront en ordre"
+    },
+    {
+      "surface": "בְּנֵ֤י",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "אַהֲרֹן֙",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הַכֹּ֣הֲנִ֔ים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "הנתחים"
+    },
+    {
+      "surface": "הַנְּתָחִ֔ים",
+      "gloss": "les morceaux"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "הראש"
+    },
+    {
+      "surface": "הָרֹ֖אשׁ",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "הפדר"
+    },
+    {
+      "surface": "הַפָּ֑דֶר",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָעֵצִים֙",
+      "gloss": "le bois"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "⟨qui est⟩"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָאֵ֔שׁ",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "⟨qui est⟩"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הַמִּזְבֵּֽחַ",
+      "gloss": "l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T07:25:02.436839292Z",
+  "model": "glm-4.5"
+}

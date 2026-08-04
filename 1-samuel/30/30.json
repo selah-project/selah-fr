@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "et à ceux qui sont à Hormah, et à ceux qui sont à Cor-Ashan, et à ceux qui sont à Athac",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "et à ceux qui"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "sont à Hormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "et à ceux qui"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "sont à Cor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "-Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "et à ceux qui"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "sont à Athac"
+    }
+  ],
+  "timestamp": "2026-08-04T12:50:30.665087120Z",
+  "model": "glm-4.5"
+}

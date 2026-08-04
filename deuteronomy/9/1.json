@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Écoute, Israël : toi, ⟨tu⟩ passes aujourd'hui ⟨את⟩ le Jourdain pour venir posséder des nations plus grandes et plus fortes que toi, des villes grandes et fortifiées jusqu'aux cieux",
+  "tokens": [
+    {
+      "surface": "שְׁמַ֣ע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֗ל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אַתָּ֨ה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "עֹבֵ֤ר",
+      "gloss": "passes"
+    },
+    {
+      "surface": "הַיּוֹם֙",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הַיַּרְדֵּ֔ן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "לָבֹא֙",
+      "gloss": "pour venir"
+    },
+    {
+      "surface": "לָרֶ֣שֶׁת",
+      "gloss": "posséder"
+    },
+    {
+      "surface": "גּוֹיִ֔ם",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "גְּדֹלִ֥ים",
+      "gloss": "plus grandes"
+    },
+    {
+      "surface": "וַעֲצֻמִ֖ים",
+      "gloss": "et plus fortes"
+    },
+    {
+      "surface": "מִמֶּ֑ךָּ",
+      "gloss": "que toi"
+    },
+    {
+      "surface": "עָרִ֛ים",
+      "gloss": "des villes"
+    },
+    {
+      "surface": "גְּדֹלֹ֥ת",
+      "gloss": "grandes"
+    },
+    {
+      "surface": "וּבְצֻרֹ֖ת",
+      "gloss": "et fortifiées"
+    },
+    {
+      "surface": "בַּשָּׁמָֽיִם",
+      "gloss": "jusqu'aux cieux"
+    }
+  ],
+  "timestamp": "2026-08-04T10:09:01.845786657Z",
+  "model": "glm-4.5"
+}

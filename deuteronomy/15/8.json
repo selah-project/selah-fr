@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "car ouvrir largement tu ouvriras ⟨את⟩ ta main pour lui et prêter, tu prêteras pour lui assez ⟨de⟩ son manque, dont il manquera pour lui",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ouvrir largement"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "tu ouvriras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "et prêter"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "tu prêteras pour lui"
+    },
+    {
+      "surface": "די",
+      "gloss": "assez"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "⟨de⟩ son manque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "il manquera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:18:10.834601033Z",
+  "model": "glm-4.5"
+}

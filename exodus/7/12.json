@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Ils jetèrent chacun son bâton et ils furent ⟨pour⟩ des serpents, et le bâton d’Aaron engloutit ⟨את⟩ leurs bâtons",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Ils jetèrent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "son bâton"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et ils furent"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "⟨pour⟩ des serpents"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "et engloutit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "le bâton"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d’Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs bâtons"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "leurs bâtons"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:21.527150739Z",
+  "model": "glm-4.5"
+}

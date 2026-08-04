@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Garde ⟨le⟩ jour du shabbat pour le sanctifier, comme YHWH ton Élohim ⟨t'a⟩ commandé.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Garde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le jour du shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "du shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pour le sanctifier"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "⟨t'a⟩ commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T09:57:12.927148445Z",
+  "model": "glm-4.5"
+}

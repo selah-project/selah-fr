@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car qui est de toute chair ⟨qui⟩ a entendu ⟨la⟩ voix d'Élohim vivants parlant du milieu du feu comme nous et a vécu",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a entendu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨la⟩ voix"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivants"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "parlant"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "du milieu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "du feu"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "comme nous"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "et a vécu"
+    }
+  ],
+  "timestamp": "2026-08-04T09:57:40.170747053Z",
+  "model": "glm-4.5"
+}

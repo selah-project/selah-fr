@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et YHWH dit : voyant, j'ai vu ⟨את⟩ la misère de mon peuple qui est en Égypte, et ⟨את⟩ leur cri, je l'ai entendu à cause de ses oppresseurs, car je connais ⟨את⟩ ses douleurs.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "voyant"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la misère de mon peuple"
+    },
+    {
+      "surface": "עני",
+      "gloss": "la misère"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "de mon peuple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leur cri"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "leur cri"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "je l'ai entendu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ses oppresseurs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je connais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses douleurs"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "ses douleurs"
+    }
+  ],
+  "timestamp": "2026-08-04T06:14:32.688734288Z",
+  "model": "glm-4.5"
+}

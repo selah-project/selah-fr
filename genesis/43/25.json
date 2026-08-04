@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Et ils préparèrent ⟨את⟩ l'offrande jusqu'à ⟨la⟩ venue de Joseph à midi, car ils avaient entendu qu'ils mangeraient ⟨du⟩ pain là",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "Et ils préparèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "l'offrande"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "⟨la⟩ venue"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "de Joseph"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "à midi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ils avaient entendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ils mangeraient"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨du⟩ pain"
+    }
+  ],
+  "timestamp": "2026-08-04T05:58:34.692872088Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Ésaü prit ⟨את⟩ ses femmes d'entre les filles de Canaan : ⟨את⟩ Ada, fille d'Élon le Hittite, et ⟨את⟩ Oholibama, fille d'Ana, fille de Tsibeon le Hivite",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses femmes"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ses femmes"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "d'entre les filles"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Canaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Élon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "le Hittite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Oholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "d'Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "de Tsibeon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "le Hivite"
+    }
+  ],
+  "timestamp": "2026-08-04T05:46:47.012133520Z",
+  "model": "glm-4.5"
+}

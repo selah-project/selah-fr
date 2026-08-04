@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et il arriva environ dix jours, et YHWH frappa ⟨את⟩ Nabal, et il mourut.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "environ dix"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il mourut"
+    }
+  ],
+  "timestamp": "2026-08-04T12:44:26.801698443Z",
+  "model": "glm-4.5"
+}

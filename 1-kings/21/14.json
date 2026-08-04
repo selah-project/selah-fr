@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et ils envoyèrent à Izebel en disant : Naboth ⟨a été⟩ lapidé et ⟨il est⟩ mort.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Et ils envoyèrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "lapidé"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et ⟨il est⟩ mort"
+    }
+  ],
+  "timestamp": "2026-08-04T14:03:04.713768664Z",
+  "model": "glm-4.5"
+}

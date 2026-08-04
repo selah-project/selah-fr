@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "et ⟨את⟩ l'autel de l'encens et ⟨את⟩ ses barres, et ⟨את⟩ l'huile de l'onction, et ⟨את⟩ l'encens des aromates, et ⟨את⟩ le voile ⟨du⟩ porche ⟨à⟩ l'entrée ⟨du⟩ mishkan",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'autel de l'encens"
+    },
+    {
+      "surface": "מִזְבַּ֤ח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "הַקְּטֹ֨רֶת֙",
+      "gloss": "de l'encens"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses barres"
+    },
+    {
+      "surface": "בַּדָּ֔יו",
+      "gloss": "ses barres"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'huile de l'onction"
+    },
+    {
+      "surface": "שֶׁ֣מֶן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "הַמִּשְׁחָ֔ה",
+      "gloss": "de l'onction"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'encens des aromates"
+    },
+    {
+      "surface": "קְטֹ֣רֶת",
+      "gloss": "l'encens"
+    },
+    {
+      "surface": "הַסַּמִּ֑ים",
+      "gloss": "des aromates"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le voile du porche"
+    },
+    {
+      "surface": "מָסַ֥ךְ",
+      "gloss": "le voile"
+    },
+    {
+      "surface": "הַפֶּ֖תַח",
+      "gloss": "⟨du⟩ porche"
+    },
+    {
+      "surface": "לְפֶ֥תַח",
+      "gloss": "⟨à⟩ l'entrée"
+    },
+    {
+      "surface": "הַמִּשְׁכָּֽן",
+      "gloss": "⟨du⟩ mishkan"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:56.402067100Z",
+  "model": "glm-4.5"
+}

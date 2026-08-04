@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "joshua 19:17",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Pour Issacar est sorti ⟨את⟩ le lot ⟨le⟩ quatrième, pour les fils d'Issacar, pour leurs familles",
+  "tokens": [
+    {
+      "surface": "לְיִשָּׂשכָר",
+      "gloss": "Pour Issacar"
+    },
+    {
+      "surface": "יָצָא",
+      "gloss": "est sorti"
+    },
+    {
+      "surface": "הַגּוֹרָל",
+      "gloss": "⟨את⟩",
+      "marks": "le lot"
+    },
+    {
+      "surface": "הָֽרְבִיעִי",
+      "gloss": "⟨le⟩ quatrième"
+    },
+    {
+      "surface": "לִבְנֵי",
+      "gloss": "pour les fils"
+    },
+    {
+      "surface": "יִשָּׂשכָר",
+      "gloss": "d'Issacar"
+    },
+    {
+      "surface": "לְמִשְׁפְּחוֹתָם",
+      "gloss": "pour leurs familles"
+    }
+  ],
+  "timestamp": "2026-08-04T11:20:46.673809753Z",
+  "model": "glm-4.5"
+}

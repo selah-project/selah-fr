@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Car avant que le jeune garçon sache crier père et mère, ⟨il⟩ portera ⟨את⟩ les richesses de Damas et ⟨את⟩ le butin de Samarie devant le roi d'Assyrie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "avant que"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sache"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "le jeune garçon"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "crier"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "père"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "et mère"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "portera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les richesses de Damas"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "les richesses"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "de Damas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le butin de Samarie"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "le butin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "de Samarie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assyrie"
+    }
+  ],
+  "timestamp": "2026-08-04T14:55:45.585638379Z",
+  "model": "glm-4.5"
+}

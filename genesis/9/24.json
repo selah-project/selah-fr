@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Noakh se réveilla de son vin et sut ⟨את⟩ ce que lui avait fait son fils le petit",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "Et se réveilla"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "de son vin"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "et sut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que lui avait fait son fils le petit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "avait fait"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "le petit"
+    }
+  ],
+  "timestamp": "2026-08-04T05:09:40.125416536Z",
+  "model": "glm-4.5"
+}

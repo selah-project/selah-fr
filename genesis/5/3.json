@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Adam vécut cent trente ans et engendra ⟨un fils⟩ à sa ressemblance comme son image et appela ⟨את⟩ son nom Shet",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "et cent"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "à sa ressemblance"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "comme son image"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et appela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:09.871391147Z",
+  "model": "glm-4.5"
+}

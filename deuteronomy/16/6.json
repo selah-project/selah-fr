@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "mais seulement ⟨au⟩ lieu qu'aura choisi YHWH ton Élohim pour faire résider son nom ⟨là⟩, tu sacrifieras ⟨את⟩ la Pâque ⟨le⟩ soir, à la coucher du soleil, temps fixe de ta sortie d'Égypte",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "אם",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨au⟩ lieu"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "qu'aura choisi YHWH ton Élohim pour faire résider son nom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'aura choisi YHWH ton Élohim pour faire résider son nom"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "qu'aura choisi YHWH ton Élohim pour faire résider son nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "pour faire résider"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨là⟩"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "tu sacrifieras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Pâque"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "la Pâque"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "⟨le⟩ soir"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "à la coucher"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "du soleil"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "temps fixe"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "de ta sortie"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T10:20:05.732610739Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et YHWH avait dit à Abram : Va pour toi, de ton pays, et de ta parenté, et de la maison de ton père, vers la terre que je te ferai voir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et avait dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "de ton pays"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "et de ta parenté"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "et de la maison"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "je te ferai voir"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:22.279256562Z",
+  "model": "glm-4.5"
+}

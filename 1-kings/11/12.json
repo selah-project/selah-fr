@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Seulement, dans tes jours, je ne le ferai pas à cause de David, ton père ; de la main de ton fils, je le déchirerai.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "dans tes jours"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "je le ferai"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main de"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ton fils"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "je le déchirerai"
+    }
+  ],
+  "timestamp": "2026-08-04T13:46:43.830812147Z",
+  "model": "glm-4.5"
+}

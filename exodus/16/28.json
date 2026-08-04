@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et YHWH dit à Moïse : Jusqu'à quand refusez-vous de garder ⟨את⟩ mes commandements et ma loi ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Jusqu'à quand"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "refusez-vous"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "de garder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes commandements"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mes commandements"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "et ma loi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:37:00.273619028Z",
+  "model": "glm-4.5"
+}

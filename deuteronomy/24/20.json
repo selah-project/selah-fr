@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Quand tu battais ton olivier, tu ne ⟨devais⟩ pas ⟨te⟩ reprendre derrière toi : pour le résident, pour l'orphelin et pour la veuve, il sera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "tu battais"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "ton olivier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "reprendre"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "derrière toi"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "pour le résident"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "pour l'orphelin"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "et pour la veuve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il sera"
+    }
+  ],
+  "timestamp": "2026-08-04T10:31:17.875236182Z",
+  "model": "glm-4.5"
+}

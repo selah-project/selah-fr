@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Quand tu approches d'une ville pour la combattre, tu ⟨devras⟩ appeler vers elle ⟨pour la⟩ shalom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "tu approches"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "une ville"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "pour la combattre"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contre elle"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "tu appelleras"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vers elle"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pour shalom"
+    }
+  ],
+  "timestamp": "2026-08-04T10:23:43.423687222Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Lemek vécut après avoir engendré ⟨את⟩ Noah cinq ans et quatre-vingt-dix ans et cinq cents ans, et il engendra des fils et des filles.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "avoir engendré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noah"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ans et quatre-vingt-dix ans"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ans et cinq cents"
+    },
+    {
+      "surface": "מאת",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "et des filles"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:46.185173613Z",
+  "model": "glm-4.5"
+}

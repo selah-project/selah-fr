@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et YHWH dispersa ⟨את⟩ eux de là sur la face de toute ⟨la⟩ terre et ils cessèrent de bâtir ⟨la⟩ ville",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Et dispersa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "et ils cessèrent"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "de bâtir"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:31.324085133Z",
+  "model": "glm-4.5"
+}

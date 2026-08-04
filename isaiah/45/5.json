@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Moi, YHWH, et ⟨il n'y a⟩ point d'autre ; hormis moi, point d'Élohim : je te ceins, et tu ne m'as pas connu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il n'y a⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "point d'autre"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "hormis moi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "point"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "je te ceins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu n'"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "as pas connu"
+    }
+  ],
+  "timestamp": "2026-08-04T15:41:31.760767338Z",
+  "model": "glm-4.5"
+}

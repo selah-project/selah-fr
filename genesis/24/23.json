@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et il dit : fille, de qui es-tu ? déclare-le-moi, je te prie, y a-t-il dans la maison de ton père un lieu pour nous pour y passer la nuit ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "מי",
+      "gloss": "de qui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu es"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "déclare-le-moi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "y a-t-il"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "pour y passer la nuit"
+    }
+  ],
+  "timestamp": "2026-08-04T05:30:14.081640595Z",
+  "model": "glm-4.5"
+}

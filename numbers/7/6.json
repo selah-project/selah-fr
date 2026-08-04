@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et Mosheh prit ⟨את⟩ les chariots et ⟨את⟩ le bétail, et il les donna aux Lévites",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les chariots"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "les chariots"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le bétail"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "le bétail"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et il donna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "les"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lévites"
+    }
+  ],
+  "timestamp": "2026-08-04T08:35:42.054276155Z",
+  "model": "glm-4.5"
+}

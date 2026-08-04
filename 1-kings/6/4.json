@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il fit ⟨pour⟩ la maison des fenêtres ⟨obturées⟩",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨pour⟩ la maison"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "des fenêtres"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "⟨obturées⟩"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "⟨obturées⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T13:36:40.842259919Z",
+  "model": "glm-4.5"
+}

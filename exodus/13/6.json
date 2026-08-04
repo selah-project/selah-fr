@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Sept jours tu mangeras des pains sans levain, et au jour septième ⟨est⟩ une fête pour YHWH",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sept jours"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu mangeras"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "des pains sans levain"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "et au jour"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septième"
+    },
+    {
+      "surface": "חג",
+      "gloss": "une fête"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:37.251439841Z",
+  "model": "glm-4.5"
+}

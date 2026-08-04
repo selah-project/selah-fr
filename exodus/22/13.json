@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et si un homme demande ⟨à⟩ son ami et ⟨il se⟩ brise ou meurt, son maître n'est pas ⟨avec⟩ lui, il payera compensation.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "demande"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son ami"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "et ⟨il se⟩ brise"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meurt"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "son maître"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨avec⟩ lui"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "compensation"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il payera"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:22.480237548Z",
+  "model": "glm-4.5"
+}

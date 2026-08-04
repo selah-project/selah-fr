@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "ou un homme chez qui il y a une fracture ⟨au⟩ pied ou une fracture ⟨de⟩ la main",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chez qui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "une fracture"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pied"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "une fracture"
+    },
+    {
+      "surface": "יד",
+      "gloss": "main"
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:05.000678585Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "quand ils ont une affaire, elle vient à moi et je juge entre un homme et son prochain, et je fais connaître ⟨את⟩ les décrets de l'Élohim et ⟨את⟩ ses lois",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ils ont"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ils"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une affaire"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vient"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "et je juge"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son prochain"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "et je fais connaître"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les décrets"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "les décrets"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de l'Élohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses lois"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "ses lois"
+    }
+  ],
+  "timestamp": "2026-08-04T06:38:27.485459427Z",
+  "model": "glm-4.5"
+}

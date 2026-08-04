@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et toute ⟨la⟩ assemblée des fils d'Israël sortit de devant ⟨le⟩ visage de Moïse",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "sortirent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "assemblée"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:13.516870658Z",
+  "model": "glm-4.5"
+}

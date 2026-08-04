@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Élohim ⟨était⟩ avec ⟨את⟩ le jeune homme, et il grandit, et il demeura dans le désert, et il ⟨devint⟩ tireur à l'arc.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il fut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le jeune homme"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "le jeune homme"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "et il grandit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il demeura"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il fut"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grand"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tireur à l'arc"
+    }
+  ],
+  "timestamp": "2026-08-04T05:27:09.057642721Z",
+  "model": "glm-4.5"
+}

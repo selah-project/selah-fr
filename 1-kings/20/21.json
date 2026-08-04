@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et le roi d'Israël sortit, et frappa ⟨את⟩ les chevaux et ⟨את⟩ les chars, et frappa en Aram une grande défaite.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "sortit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les chevaux"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "les chevaux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les chars"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "les chars"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "en Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "défaite"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-04T14:01:12.130317832Z",
+  "model": "glm-4.5"
+}

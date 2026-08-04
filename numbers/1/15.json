@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "pour Nephthali, Achira fils d'Énan",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "pour Nephthali"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Achira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "d'Énan"
+    }
+  ],
+  "timestamp": "2026-08-04T08:22:30.045703027Z",
+  "model": "glm-4.5"
+}

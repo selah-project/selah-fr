@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il attendit encore sept autres jours et il ajouta envoyer ⟨את⟩ la colombe depuis l'arche",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Et il attendit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "autres"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "et il ajouta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envoyer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la colombe"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "la colombe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "l'arche"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:06.099152874Z",
+  "model": "glm-4.5"
+}

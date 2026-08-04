@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et YHWH fixa un moment, en disant : Demain YHWH fera cette chose dans ⟨le⟩ pays.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Et fixa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "un moment"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Demain"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cette chose"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:43.673571427Z",
+  "model": "glm-4.5"
+}

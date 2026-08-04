@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Tu as ajouté à la nation, YHWH, tu as ajouté à la nation, tu as été glorifié, tu as éloigné toutes les limites de la terre.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "Tu as ajouté"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "à la nation"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "tu as ajouté"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "à la nation"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "tu as été glorifié"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "tu as éloigné"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "les limites"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:20:38.419458342Z",
+  "model": "glm-4.5"
+}

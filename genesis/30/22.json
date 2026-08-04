@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et Élohim se souvint de Rachel, et Élohim l'écouta, et il ouvrit ⟨את⟩ son sein",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Et se souvint"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "et l'écouta"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "et il ouvrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son sein"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "son sein"
+    }
+  ],
+  "timestamp": "2026-08-04T05:39:11.087819165Z",
+  "model": "glm-4.5"
+}

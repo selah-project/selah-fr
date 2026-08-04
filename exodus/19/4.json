@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Vous, vous avez vu ce que j'ai fait à l'Égypte, et je vous ai portés ⟨את⟩ sur des ailes d'aigles, et je vous ai fait venir ⟨את⟩ vers moi.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Vous"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "avez vu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "j'ai fait"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "à l'Égypte"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "et je vous ai portés"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sur des ailes d'aigles"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "des ailes"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "d'aigles"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "et je vous ai fait venir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vers moi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:40:55.263027354Z",
+  "model": "glm-4.5"
+}

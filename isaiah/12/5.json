@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Chantez à YHWH, car il a fait des actes excellents ; ⟨cela⟩ est connu dans toute la terre.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Chantez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "il a fait des actes excellents"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a fait"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "est connu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨cela⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:00:00.844731166Z",
+  "model": "glm-4.5"
+}

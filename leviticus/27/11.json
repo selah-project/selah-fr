@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et si c'est ⟨est⟩ toute bête impure dont ils n'offriront pas de qorban à YHWH, alors il fera tenir ⟨את⟩ la bête devant le prêtre",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bête"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "impure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "offriront pas"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "de"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "qorban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "alors il fera tenir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bête"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "la bête"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:10.221104407Z",
+  "model": "glm-4.5"
+}

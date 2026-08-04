@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "L'oracle : dans ⟨la⟩ steppe d'Arabie vous passerez ⟨la⟩ nuit, ⟨sur⟩ les routes de Dedan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "L'oracle"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "dans ⟨la⟩ steppe d'Arabie"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "dans"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "Arabie"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "vous passerez ⟨la⟩ nuit"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "⟨sur⟩ les routes"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "de Dedan"
+    }
+  ],
+  "timestamp": "2026-08-04T15:12:32.930754871Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et Pharaon entendit ⟨את⟩ la parole, celle-ci, et chercha à tuer ⟨את⟩ Moïse ; et Moïse s'enfuit de devant Pharaon, et habita dans ⟨le⟩ pays de Madian, et s'assit près ⟨de⟩ ⟨le⟩ puits.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "et entendit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "et chercha"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "à tuer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moïse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "et s'enfuit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et habita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de Madian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et s'assit"
+    },
+    {
+      "surface": "על",
+      "gloss": "près ⟨de⟩"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "⟨le⟩ puits"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:48.737003349Z",
+  "model": "glm-4.5"
+}

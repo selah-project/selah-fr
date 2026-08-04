@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et vous garderez de faire comme ⟨a⟩ commandé YHWH, votre Élohim, ⟨את⟩ vous ; ne déviez ni à droite ni à gauche.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Et vous garderez"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨a⟩ commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "déviez"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "à droite"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ni à gauche"
+    }
+  ],
+  "timestamp": "2026-08-04T09:57:23.642892378Z",
+  "model": "glm-4.5"
+}

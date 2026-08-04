@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Or il arriva que toute la terre ⟨avait⟩ une seule lèvre et des paroles uniques",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Or il arriva que"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "une seule lèvre"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "une seule"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "et des paroles"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "uniques"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:13.664596005Z",
+  "model": "glm-4.5"
+}

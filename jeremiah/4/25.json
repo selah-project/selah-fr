@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "J'ai vu et voici : il n'y a ⟨pas⟩ l'humain, et tout oiseau des cieux s'est enfui",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "J'ai vu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a ⟨pas⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "oiseau"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "s'est enfui"
+    }
+  ],
+  "timestamp": "2026-08-04T16:07:33.438957751Z",
+  "model": "glm-4.5"
+}

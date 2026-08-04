@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "À cause de mon serviteur Jacob, et d'Israël mon élu, je t'ai appelé par ton nom, je t'ai surnommé, et tu ne m'as pas connu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mon serviteur"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "et d'Israël"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "mon élu"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "je t'ai appelé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "par ton nom"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "je t'ai surnommé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "m'as pas connu"
+    }
+  ],
+  "timestamp": "2026-08-04T15:41:32.890747925Z",
+  "model": "glm-4.5"
+}

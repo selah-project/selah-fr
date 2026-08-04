@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et le nom du deuxième fleuve ⟨est⟩ Guihon ; c'est lui qui entoure ⟨את⟩ toute la terre de Koush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Et le nom"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "du fleuve"
+    },
+    {
+      "surface": "השני",
+      "gloss": "le deuxième"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Guihon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est lui"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "qui entoure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la terre de Koush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "de Koush"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:56.213638222Z",
+  "model": "glm-4.5"
+}

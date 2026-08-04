@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et ⟨le⟩ roi vint de Damas, et ⟨le⟩ roi vit ⟨את⟩ l'autel, et ⟨le⟩ roi s'approcha de l'autel et y monta",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et vint"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "de Damas"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "et s'approcha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "de"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "et y monta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    }
+  ],
+  "timestamp": "2026-08-04T14:30:54.939864300Z",
+  "model": "glm-4.5"
+}

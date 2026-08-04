@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et fit faire le tour ⟨את⟩ la ville par l'arche de YHWH, le tour une fois, et ils vinrent au camp, et passèrent la nuit dans le camp",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Et fit faire le tour"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "le tour"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "fois"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "une"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et ils vinrent"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "au camp"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "et passèrent la nuit"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "dans le camp"
+    }
+  ],
+  "timestamp": "2026-08-04T10:56:55.780902048Z",
+  "model": "glm-4.5"
+}

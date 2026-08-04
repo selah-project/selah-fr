@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et il revint avec lui et mangea du pain dans sa maison et but de l'eau",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "et il revint"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "et mangea"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "dans sa maison"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "et but"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T13:50:35.805819446Z",
+  "model": "glm-4.5"
+}

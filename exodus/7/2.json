@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Toi, tu parleras ⟨את⟩ tout ce que je te commande, et Aaron ton frère parlera à Pharaon, et il enverra ⟨את⟩ les fils d'Israël de son pays.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tu parleras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce que je te commande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "je te commande"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ton frère"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "et il enverra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "de son pays"
+    }
+  ],
+  "timestamp": "2026-08-04T06:20:15.319150929Z",
+  "model": "glm-4.5"
+}

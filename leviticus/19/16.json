@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Tu ne marcheras pas ⟨compte⟩ médisant parmi ton peuple ; tu ne te tiendras pas ⟨contre⟩ le sang de ton prochain ; moi, YHWH.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "marcheras pas"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "⟨compte⟩ médisant"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "parmi ton peuple"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "te tiendras pas"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨contre⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "de ton prochain"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi,"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:52.355483964Z",
+  "model": "glm-4.5"
+}

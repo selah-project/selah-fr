@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "et tu les écriras sur les poteaux de ta maison et sur tes portes",
+  "tokens": [
+    {
+      "surface": "וּכְתַבְתָּם",
+      "gloss": "et tu les écriras"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מְזוּזֹת",
+      "gloss": "les poteaux"
+    },
+    {
+      "surface": "בֵּיתֶ֖ךָ",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "וּבִשְׁעָרֶֽיךָ",
+      "gloss": "et sur tes portes"
+    }
+  ],
+  "timestamp": "2026-08-04T09:58:17.761819855Z",
+  "model": "glm-4.5"
+}

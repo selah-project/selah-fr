@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et si ⟨ces⟩ trois-là ⟨il⟩ ne fait pas pour elle, elle sortira gratis, sans argent.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "⟨ces⟩ trois-là"
+    },
+    {
+      "surface": "אלה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fait"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pour elle"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "elle sortira"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gratis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    }
+  ],
+  "timestamp": "2026-08-04T06:42:50.332411559Z",
+  "model": "glm-4.5"
+}

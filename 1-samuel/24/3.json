@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et Shaul prit trois mille hommes, ⟨des⟩ élus, de tout Israël, et alla chercher ⟨את⟩ David et ses hommes sur ⟨le⟩ front des rochers ⟨des⟩ boucs",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mille"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hommes"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "élus"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et alla"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "chercher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "et ses hommes"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨le⟩ front"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "des rochers"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "⟨des⟩ boucs"
+    }
+  ],
+  "timestamp": "2026-08-04T12:41:19.576322256Z",
+  "model": "glm-4.5"
+}

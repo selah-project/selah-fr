@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Joab envoya et rapporta à David ⟨את⟩ toutes les affaires de la guerre",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et rapporta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les affaires"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les affaires"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "de la guerre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:05:46.711158751Z",
+  "model": "glm-4.5"
+}

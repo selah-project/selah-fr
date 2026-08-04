@@ -1,0 +1,116 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et ceci ⟨est⟩ le propos de la corvée que leva le roi Shelomo pour bâtir ⟨את⟩ la maison de YHWH et ⟨את⟩ sa maison et ⟨את⟩ le Millo et ⟨את⟩ la muraille de Yeroushalaim et ⟨את⟩ Hatsor et ⟨את⟩ Meguiddo et ⟨את⟩ Guézer",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "le propos"
+    },
+    {
+      "surface": "המס",
+      "gloss": "de la corvée"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "leva"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pour bâtir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison de YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa maison"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "le Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la muraille"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "la muraille"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yeroushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Meguiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Meguiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Guézer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Guézer"
+    }
+  ],
+  "timestamp": "2026-08-04T13:44:36.393873580Z",
+  "model": "glm-4.5"
+}

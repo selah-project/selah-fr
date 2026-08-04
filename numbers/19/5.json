@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il ⟨a⟩ brûlé ⟨את⟩ la vache devant ses yeux : ⟨את⟩ sa peau et ⟨את⟩ sa chair et ⟨את⟩ son sang sur son excrément il brûlera.",
+  "tokens": [
+    {
+      "surface": "וְשָׂרַף",
+      "gloss": "Et il brûla"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la vache"
+    },
+    {
+      "surface": "הַפָּרָה",
+      "gloss": "la vache"
+    },
+    {
+      "surface": "לְעֵינָיו",
+      "gloss": "devant ses yeux"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sa peau"
+    },
+    {
+      "surface": "עֹרָהּ",
+      "gloss": "sa peau"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa chair"
+    },
+    {
+      "surface": "בְּשָׂרָהּ",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son sang"
+    },
+    {
+      "surface": "דָּמָהּ",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פִּרְשָׁהּ",
+      "gloss": "son excrément"
+    },
+    {
+      "surface": "יִשְׂרֹֽף",
+      "gloss": "il brûlera"
+    }
+  ],
+  "timestamp": "2026-08-04T09:05:01.053277083Z",
+  "model": "glm-4.5"
+}

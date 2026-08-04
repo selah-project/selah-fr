@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et si, dans la haine, il le ⟨a⟩ poussé, ou ⟨a⟩ jeté ⟨sur⟩ lui ⟨par⟩ embuscade, et qu'il soit mort",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "dans la haine"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "il le ⟨a⟩ poussé"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "⟨a⟩ jeté"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨sur⟩ lui"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "⟨par⟩ embuscade"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et qu'il soit mort"
+    }
+  ],
+  "timestamp": "2026-08-04T09:46:07.382677122Z",
+  "model": "glm-4.5"
+}

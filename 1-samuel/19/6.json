@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Shaül écouta ⟨la⟩ voix de Yehonathan, et Shaül jura : YHWH ⟨est⟩ vivant, s'il meurt.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et ... écouta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨la⟩ voix"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "et ... jura"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "s'"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "il meurt"
+    }
+  ],
+  "timestamp": "2026-08-04T12:35:05.473953945Z",
+  "model": "glm-4.5"
+}

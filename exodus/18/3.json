@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "et ⟨את⟩ ses deux fils, dont le nom de ⟨l'un⟩ ⟨est⟩ Gershôm, car il a dit : étranger j'ai été dans un pays étranger.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses deux fils"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "de ⟨l'un⟩"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershôm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "il a dit"
+    },
+    {
+      "surface": "גר",
+      "gloss": "étranger"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'ai été"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans un pays"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "étranger"
+    }
+  ],
+  "timestamp": "2026-08-04T06:38:19.687540842Z",
+  "model": "glm-4.5"
+}

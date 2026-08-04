@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et il mit ⟨את⟩ les barres dans les anneaux sur les côtés de l'arche pour porter ⟨את⟩ l'arche",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et il mit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les barres"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "les barres"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "dans les anneaux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "les côtés"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "de l'arche"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "pour porter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l'arche"
+    }
+  ],
+  "timestamp": "2026-08-04T07:17:03.017889467Z",
+  "model": "glm-4.5"
+}

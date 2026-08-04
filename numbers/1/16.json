@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Voici les appelés de ⟨la⟩ assemblée, princes des tribus de leurs pères, têtes des milliers d'Israël, ils ⟨sont⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "les appelés"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de ⟨la⟩ assemblée"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "princes"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "des tribus"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "de leurs pères"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "têtes"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "des milliers"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ils ⟨sont⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T08:22:51.129274828Z",
+  "model": "glm-4.5"
+}

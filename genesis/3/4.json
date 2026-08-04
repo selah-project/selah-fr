@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le serpent dit à la femme : non, vous ne mourrez pas de mort.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "le serpent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de mort"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "vous mourrez"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:19.618026940Z",
+  "model": "glm-4.5"
+}

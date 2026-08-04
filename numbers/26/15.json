@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Fils de Gad ⟨selon⟩ leurs familles : de Tsephon, ⟨la⟩ famille des Tsephonites ; de Haggi, ⟨la⟩ famille des Haggites ; de Shuni, ⟨la⟩ famille des Shunites",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fils"
+    },
+    {
+      "surface": "גד",
+      "gloss": "de Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨selon⟩ leurs familles"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "de Tsephon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨la⟩ famille"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "des Tsephonites"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "de Haggi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨la⟩ famille"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "des Haggites"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "de Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨la⟩ famille"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "des Shunites"
+    }
+  ],
+  "timestamp": "2026-08-04T09:23:45.689730846Z",
+  "model": "glm-4.5"
+}

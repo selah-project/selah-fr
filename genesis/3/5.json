@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "car ⟨il⟩ sait, Élohim, que le jour où vous en mangerez, vos yeux s'ouvriront et vous serez comme Élohim, knowing bon et mauvais.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "vous mangerez"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "s'ouvriront"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vos yeux"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "vous serez"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "comme Élohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "knowing"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "et mauvais"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:17.313819623Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et maintenant, habitants de Jérusalem et homme de Juda, jugez, je vous prie, entre moi et ma vigne.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּ֛ה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "יוֹשֵׁ֥ב",
+      "gloss": "habitants"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֖ם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "וְאִ֣ישׁ",
+      "gloss": "et homme"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "שִׁפְטוּ",
+      "gloss": "jugez"
+    },
+    {
+      "surface": "נָ֕א",
+      "gloss": "je vous prie"
+    },
+    {
+      "surface": "בֵּינִ֖י",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "כַּרְמִֽי",
+      "gloss": "ma vigne"
+    }
+  ],
+  "timestamp": "2026-08-04T14:51:56.800007354Z",
+  "model": "glm-4.5"
+}

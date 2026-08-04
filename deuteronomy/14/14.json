@@ -1,0 +1,30 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et ⟨את⟩ tout corbeau selon son espèce",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout corbeau selon son espèce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "corbeau"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:18.900792824Z",
+  "model": "glm-4.5"
+}

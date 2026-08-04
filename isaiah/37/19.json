@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "et ont mis ⟨את⟩ leurs dieux dans le feu, car ils ne sont point des dieux, mais l'ouvrage de mains d'humain, bois et pierre, et ils les ont détruits",
+  "tokens": [
+    {
+      "surface": "וְנָתֹן",
+      "gloss": "et ont mis"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs dieux"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶם",
+      "gloss": "leurs dieux"
+    },
+    {
+      "surface": "בָּאֵשׁ",
+      "gloss": "dans le feu"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne ... point"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "des dieux"
+    },
+    {
+      "surface": "הֵמָּה",
+      "gloss": "ils"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "que"
+    },
+    {
+      "surface": "מַעֲשֵׂה",
+      "gloss": "l'ouvrage"
+    },
+    {
+      "surface": "יְדֵי",
+      "gloss": "de mains"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "d'humain"
+    },
+    {
+      "surface": "עֵץ",
+      "gloss": "bois"
+    },
+    {
+      "surface": "וָאֶבֶן",
+      "gloss": "et pierre"
+    },
+    {
+      "surface": "וַיְאַבְּדֽוּם",
+      "gloss": "et ils les ont détruits"
+    }
+  ],
+  "timestamp": "2026-08-04T15:32:29.157800984Z",
+  "model": "glm-4.5"
+}

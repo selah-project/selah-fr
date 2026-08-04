@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il arriva, à la sortie des prêtres du lieu saint, que la nuée remplit ⟨את⟩ la maison de YHWH",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et il arriva"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "à la sortie de"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "lieu saint"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "que la nuée"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "remplit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison de YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T13:41:22.699742750Z",
+  "model": "glm-4.5"
+}

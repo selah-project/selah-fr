@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et David allait et revenait d'auprès de Shaoul pour paître ⟨את⟩ le troupeau de son père à Beth-Léhem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Et David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "allait"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "et revenait"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "d'auprès de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "pour paître"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le troupeau"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "troupeau"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-Léhem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T12:30:34.687154234Z",
+  "model": "glm-4.5"
+}

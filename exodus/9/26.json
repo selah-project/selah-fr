@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Seulement dans le pays de Goshen, où ⟨étaient⟩ les fils d'Israël, il n'y eut ⟨pas⟩ de grêle.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "de Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "שם",
+      "gloss": "étaient"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "il y eut"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "de grêle"
+    }
+  ],
+  "timestamp": "2026-08-04T06:23:16.902961769Z",
+  "model": "glm-4.5"
+}

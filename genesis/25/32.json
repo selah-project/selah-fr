@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et Ésaü dit : Voici, je vais mourir, et pourquoi ⟨ceci⟩ est-il pour moi — la primogéniture ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "va"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mourir"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "et pourquoi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ceci⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "la primogéniture"
+    }
+  ],
+  "timestamp": "2026-08-04T05:32:23.602542579Z",
+  "model": "glm-4.5"
+}

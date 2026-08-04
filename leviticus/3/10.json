@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "et ⟨את⟩ les deux reins et ⟨את⟩ la graisse qui ⟨est⟩ sur eux qui ⟨est⟩ sur les flancs et ⟨את⟩ le lobe sur le foie sur les reins il l'enlèvera",
+  "tokens": [
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "et ⟨את⟩",
+      "marks": "les deux reins"
+    },
+    {
+      "surface": "שְׁתֵּ֣י",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "הַכְּלָיֹ֔ת",
+      "gloss": "reins"
+    },
+    {
+      "surface": "וְאֶת־",
+      "gloss": "et ⟨את⟩",
+      "marks": "la graisse"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עֲלֵהֶ֔ן",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הַכְּסָלִ֑ים",
+      "gloss": "les flancs"
+    },
+    {
+      "surface": "וְאֶת־",
+      "gloss": "et ⟨את⟩",
+      "marks": "le lobe"
+    },
+    {
+      "surface": "הַיֹּתֶ֨רֶת֙",
+      "gloss": "le lobe"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הַכָּבֵ֔ד",
+      "gloss": "le foie"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הַכְּלָיֹ֖ת",
+      "gloss": "les reins"
+    },
+    {
+      "surface": "יְסִירֶֽנָּה",
+      "gloss": "il l'enlèvera"
+    }
+  ],
+  "timestamp": "2026-08-04T07:27:50.287130352Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et on appela le nom du lieu ⟨ce⟩ Kivroth-hattaava, car là on enterra ⟨את⟩ le peuple ⟨ceux⟩ qui désiraient.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et on appela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom du lieu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "du lieu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ce⟩"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "Kivroth-hattaava"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "on enterra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "⟨ceux⟩ qui désiraient"
+    }
+  ],
+  "timestamp": "2026-08-04T08:49:12.365031542Z",
+  "model": "glm-4.5"
+}

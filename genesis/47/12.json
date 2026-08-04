@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Et Joseph nourrit ⟨את⟩ son père et ⟨את⟩ ses frères et ⟨את⟩ toute la maison de son père de pain, selon la bouche des petits enfants.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Et nourrit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses frères"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "toute la maison"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "selon la bouche"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "des petits enfants"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:24.790252113Z",
+  "model": "glm-4.5"
+}

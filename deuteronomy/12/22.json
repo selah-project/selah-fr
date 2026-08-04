@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Seulement comme on mange ⟨את⟩ le gazelle et ⟨את⟩ le cerf, ainsi tu le mangeras ; l'impur et le pur le mangeront ensemble.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "on mange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le gazelle"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "le gazelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le cerf"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "le cerf"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "tu le mangeras"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "l'impur"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "et le pur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "le mangeront"
+    }
+  ],
+  "timestamp": "2026-08-04T10:14:44.466822270Z",
+  "model": "glm-4.5"
+}

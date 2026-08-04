@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Shemuël grandit, et YHWH était avec lui, et ne ⟨fit⟩ tomber aucune de ses paroles vers la terre",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Et grandit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "était"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "⟨fit⟩ tomber"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "aucune de"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ses paroles"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "vers la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:13.392405849Z",
+  "model": "glm-4.5"
+}

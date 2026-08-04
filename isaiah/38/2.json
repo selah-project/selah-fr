@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et Chizqiya tourna ⟨son⟩ visage vers ⟨le⟩ mur, et pria YHWH",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "et tourna"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizqiya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "visage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "et pria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T15:33:18.430409284Z",
+  "model": "glm-4.5"
+}

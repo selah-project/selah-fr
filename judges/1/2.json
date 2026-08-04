@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH dit : Juda montera ; voici, j'ai donné ⟨את⟩ la terre en sa main.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "montera"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai donné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "en sa main"
+    }
+  ],
+  "timestamp": "2026-08-04T11:32:25.691759287Z",
+  "model": "glm-4.5"
+}

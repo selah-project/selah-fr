@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Puisque tu es précieux à mes yeux, ⟨tu es⟩ glorifié, et moi je t'ai aimé : donc je donnerai des humains à ta place, et des peuples à la place de ta nefesh.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Puisque"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "tu es précieux"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "à mes yeux"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "⟨tu es⟩ glorifié"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "je t'ai aimé"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "et je donnerai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "des humains"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "à ta place"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "et des peuples"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "à la place de"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ta nefesh"
+    }
+  ],
+  "timestamp": "2026-08-04T15:38:13.278813254Z",
+  "model": "glm-4.5"
+}

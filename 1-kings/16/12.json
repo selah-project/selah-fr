@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Zimri détruisit ⟨את⟩ toute la maison de Baasha, selon la parole de YHWH, qu'il avait dite contre Baasha, par la main de Yéhu, le prophète.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Et détruisit"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la maison"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "de Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "il avait dite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contre"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "de Yéhu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": ", le prophète"
+    }
+  ],
+  "timestamp": "2026-08-04T13:55:42.999310441Z",
+  "model": "glm-4.5"
+}

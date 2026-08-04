@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 29:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et un bouc de ⟨chèvres⟩ en sacrifice pour le péché, outre ⟨l'⟩ola du continuel, son offrande et sa libation",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "et un bouc"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "de chèvres"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "en sacrifice pour le péché"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "outre"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "l'ola",
+      "marks": "l'ola du continuel"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "du continuel"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "son offrande"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "et sa libation"
+    }
+  ],
+  "timestamp": "2026-08-04T09:29:42.600382956Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "l'homme ⟨est⟩ frappé de lèpre, il ⟨est⟩ impur, il ⟨est⟩ impur : le prêtre le déclarera impur, sa plaie ⟨est⟩ sur sa tête.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "frappé de lèpre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "⟨est⟩ impur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "⟨est⟩ impur"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "le déclarera impur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sur sa tête"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "sa plaie"
+    }
+  ],
+  "timestamp": "2026-08-04T07:46:37.258538099Z",
+  "model": "glm-4.5"
+}

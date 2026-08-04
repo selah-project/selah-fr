@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et YHWH ne voulut pas détruire ⟨את⟩ Juda, à cause de David, son serviteur, comme il lui avait dit de lui donner une lampe, à ses fils, tous les jours.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "voulut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "détruire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "son serviteur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "il avait dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "de donner"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "une lampe"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "à ses fils"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "les jours"
+    }
+  ],
+  "timestamp": "2026-08-04T14:17:35.421008942Z",
+  "model": "glm-4.5"
+}

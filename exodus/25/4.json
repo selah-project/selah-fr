@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et du bleu, et du violet, et du cramoisi, et du lin fin, et des poils de chèvre",
+  "tokens": [
+    {
+      "surface": "וּתְכֵלֶת",
+      "gloss": "et du bleu"
+    },
+    {
+      "surface": "וְאַרְגָּמָן",
+      "gloss": "et du violet"
+    },
+    {
+      "surface": "וְתוֹלַעַת",
+      "gloss": "et du cramoisi"
+    },
+    {
+      "surface": "שָׁנִי",
+      "gloss": "lin fin"
+    },
+    {
+      "surface": "וְשֵׁשׁ",
+      "gloss": "et des poils"
+    },
+    {
+      "surface": "וְעִזִּים",
+      "gloss": "de chèvre"
+    }
+  ],
+  "timestamp": "2026-08-04T06:49:33.429936373Z",
+  "model": "glm-4.5"
+}

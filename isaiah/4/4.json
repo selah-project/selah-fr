@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Si Adonaï lave ⟨את⟩ la crasse des filles de Sion et ⟨את⟩ le sang de Jérusalem ⟨il⟩ expulsera de son sein par un souffle de jugement et par un souffle de brûlage",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "lave"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la crasse"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "crasse"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filles"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "expulsera"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "de son sein"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "par un souffle"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "de jugement"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "et par un souffle"
+    },
+    {
+      "surface": "בער",
+      "gloss": "de brûlage"
+    }
+  ],
+  "timestamp": "2026-08-04T14:51:15.626333848Z",
+  "model": "glm-4.5"
+}

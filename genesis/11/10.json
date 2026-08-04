@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Celui-ci ⟨est⟩ les générations de Shem : Shem ⟨était⟩ fils de cent ans, et il engendra ⟨את⟩ Arpakshad, deux ans après le Déluge.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Celui-ci"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "les générations"
+    },
+    {
+      "surface": "שם",
+      "gloss": "de Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨était⟩ fils"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de cent"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "deux ans"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "après"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "le Déluge"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:23.389310426Z",
+  "model": "glm-4.5"
+}

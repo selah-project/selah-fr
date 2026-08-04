@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Mosheh dénombra, selon ⟨ce que⟩ YHWH avait commandé ⟨à⟩ lui, ⟨את⟩ tout premier-né parmi les fils d'Israël",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Et dénombra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "selon ⟨ce que⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨à⟩ lui",
+      "marks": "את"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout premier-né parmi les fils d'Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "premier-né"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "parmi les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:26:57.903625561Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "et aussi ⟨le⟩ sang de l'innocent qu'il a versé et il a rempli ⟨את⟩ Jérusalem de sang innocent et YHWH ne voulut pas pardonner",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨le⟩ sang"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "de l'innocent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "il a versé"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "et il a rempli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jérusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "דם",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "voulut pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "pardonner"
+    }
+  ],
+  "timestamp": "2026-08-04T14:43:28.939163522Z",
+  "model": "glm-4.5"
+}

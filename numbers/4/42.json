@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et le dénombrement ⟨des⟩ familles ⟨des⟩ fils de Merari, selon leurs familles, selon la maison de leurs pères",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Et le dénombrement"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨des⟩ familles"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨des⟩ fils"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "de Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "selon leurs familles"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "selon la maison"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de leurs pères"
+    }
+  ],
+  "timestamp": "2026-08-04T08:29:28.436085213Z",
+  "model": "glm-4.5"
+}

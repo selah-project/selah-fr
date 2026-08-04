@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et il parla avec eux, en disant : Si ⟨il est⟩ dans votre nefesh d'enterrer ⟨את⟩ mon mort loin de ma face, écoutez-moi, et intercédez pour moi auprès d'Ephron, fils de Tsohar.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et il parla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "votre nefesh"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "votre nefesh"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "d'enterrer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon mort"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mon mort"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "loin de ma face"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "écoutez-moi"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "et intercédez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "auprès d'Ephron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsohar"
+    }
+  ],
+  "timestamp": "2026-08-04T05:29:05.396412804Z",
+  "model": "glm-4.5"
+}

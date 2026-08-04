@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Il dit : ⟨à⟩ la saison fixe, ⟨au⟩ temps de la vie, tu ⟨es⟩ embrassant un fils, et elle dit : non, Adonaï, homme ⟨de⟩ Élohim, ne mens pas ⟨à⟩ ta servante.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "⟨à⟩ la saison fixe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "⟨au⟩ temps"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "de la vie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "tu"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "⟨es⟩ embrassant"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et elle dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨de⟩ Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "mens"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "⟨à⟩ ta servante"
+    }
+  ],
+  "timestamp": "2026-08-04T14:11:31.965452160Z",
+  "model": "glm-4.5"
+}

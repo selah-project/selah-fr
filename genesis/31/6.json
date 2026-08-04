@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et vous savez qu'avec toute ma force j'ai servi ⟨את⟩ votre père.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Et vous"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "savez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "avec toute"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ma force"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "j'ai servi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "votre père"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "votre père"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:09.716104247Z",
+  "model": "glm-4.5"
+}

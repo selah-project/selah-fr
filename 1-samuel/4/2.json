@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-samuel 4:2",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et les Pelishtim se rangèrent en ordre contre Israël, et la guerre se déploya, et Israël ⟨fut⟩ frappé devant les Pelishtim, et ils frappèrent ⟨par⟩ l'ordre dans le champ, environ quatre mille hommes.",
+  "tokens": [
+    {
+      "surface": "ויערכו",
+      "gloss": "Et se rangèrent en ordre"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "contre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ותטש",
+      "gloss": "et la guerre se déploya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "la guerre"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "et ⟨fut⟩ frappé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et ils frappèrent"
+    },
+    {
+      "surface": "במערכה",
+      "gloss": "⟨par⟩ l'ordre"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "כארבעת",
+      "gloss": "environ quatre"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mille"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hommes"
+    }
+  ],
+  "timestamp": "2026-08-04T12:09:01.594304337Z",
+  "model": "glm-4.5"
+}

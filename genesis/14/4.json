@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Douze ans ils servirent ⟨את⟩ Kedorlaomer, et treize ans ils se révoltèrent.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "douze"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ils servirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "et treize"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "ils se révoltèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:48.385741395Z",
+  "model": "glm-4.5"
+}

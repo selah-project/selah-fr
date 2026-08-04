@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ils placèrent ⟨את⟩ l'arche de YHWH sur le chariot et ⟨את⟩ le coffre et ⟨את⟩ les souris d'or et ⟨את⟩ les images de leurs tumeurs",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Et ils placèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "le chariot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le coffre"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "le coffre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les souris"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "les souris"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les images"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "les images"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "de leurs tumeurs"
+    }
+  ],
+  "timestamp": "2026-08-04T12:11:18.050262527Z",
+  "model": "glm-4.5"
+}

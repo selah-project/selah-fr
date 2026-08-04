@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et vous n'en laisserez rien ⟨rester⟩ jusqu'au matin, et ce qui en reste jusqu'au matin, au feu vous ⟨le⟩ brûlerez",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et vous n'"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "laisserez"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "rien de lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "au matin"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "et ce qui en reste"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "au matin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "au feu"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "brûlerez"
+    }
+  ],
+  "timestamp": "2026-08-04T06:27:31.234900602Z",
+  "model": "glm-4.5"
+}

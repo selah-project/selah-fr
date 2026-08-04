@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et YHWH parla à Moïse ⟨dans⟩ le désert du Sinaï, en disant",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et YHWH parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨dans⟩ le désert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "du Sinaï"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T08:26:03.010655333Z",
+  "model": "glm-4.5"
+}

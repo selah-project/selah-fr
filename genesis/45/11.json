@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "et je te ferai vivre ⟨את⟩ là-bas car encore cinq ans de famine de peur que tu ne deviennes pauvre toi et ta maison et tout ce qui est à toi",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "et je te ferai vivre"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "toi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là-bas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "de famine"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "tu ne deviennes pauvre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "et ta maison"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לך",
+      "gloss": "est à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:01:07.739801307Z",
+  "model": "glm-4.5"
+}

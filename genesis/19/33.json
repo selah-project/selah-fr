@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et elles firent boire ⟨את⟩ leur père du vin cette nuit-là, et l'aînée vint et coucha avec ⟨את⟩ son père, et il ne sut pas ⟨quand⟩ elle couchait ni ⟨quand⟩ elle se levait",
+  "tokens": [
+    {
+      "surface": "וַתַּשְׁקֶ֧ינָ",
+      "gloss": "et elles firent boire"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leur père"
+    },
+    {
+      "surface": "אֲבִיהֶ֛ן",
+      "gloss": "leur père"
+    },
+    {
+      "surface": "יַ֖יִן",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "בַּלַּ֣יְלָה",
+      "gloss": "cette nuit-là"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": ""
+    },
+    {
+      "surface": "וַתָּבֹ֤א",
+      "gloss": "et l'aînée vint"
+    },
+    {
+      "surface": "הַבְּכִירָה֙",
+      "gloss": "l'aînée"
+    },
+    {
+      "surface": "וַתִּשְׁכַּ֣ב",
+      "gloss": "et coucha avec"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son père"
+    },
+    {
+      "surface": "אָבִ֔יהָ",
+      "gloss": "son père"
+    },
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "et il ne sut pas"
+    },
+    {
+      "surface": "יָדַ֥ע",
+      "gloss": "il ne sut pas"
+    },
+    {
+      "surface": "בְּשִׁכְבָ֖הּ",
+      "gloss": "⟨quand⟩ elle couchait"
+    },
+    {
+      "surface": "וּבְקוּמָֽהּ",
+      "gloss": "ni ⟨quand⟩ elle se levait"
+    }
+  ],
+  "timestamp": "2026-08-04T05:25:46.009817591Z",
+  "model": "glm-4.5"
+}

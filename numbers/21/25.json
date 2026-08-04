@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Israël prit ⟨את⟩ toutes ces villes, et Israël habita dans toutes les villes de l'Amorite, à Heshbon et dans toutes ses filles",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes ces villes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ces villes"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "וישב",
+      "gloss": "habita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toutes"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de l'Amorite"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "à Heshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "et dans toutes"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ses filles"
+    }
+  ],
+  "timestamp": "2026-08-04T09:13:18.359087877Z",
+  "model": "glm-4.5"
+}

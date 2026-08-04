@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et YHWH dit à Moïse : monte ⟨sur⟩ cette montagne des Abarim et regarde ⟨את⟩ la terre que j'ai donnée aux fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הר",
+      "gloss": "cette montagne"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "des Abarim"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "cette"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et regarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai donnée"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T09:26:37.760864731Z",
+  "model": "glm-4.5"
+}

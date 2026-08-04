@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et si vous rejetez mes décrets, et si votre âme a en horreur ⟨את⟩ mes jugements pour ne pas faire ⟨את⟩ toutes mes commandements, [afin] de rompre ⟨את⟩ mon alliance",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "בְּחֻקֹּתַי",
+      "gloss": "mes décrets"
+    },
+    {
+      "surface": "תִּמְאָסוּ",
+      "gloss": "vous rejetez"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mes jugements"
+    },
+    {
+      "surface": "מִשְׁפָּטַי",
+      "gloss": "mes jugements"
+    },
+    {
+      "surface": "תִּגְעַל",
+      "gloss": "a en horreur"
+    },
+    {
+      "surface": "נַפְשְׁכֶם",
+      "gloss": "votre âme"
+    },
+    {
+      "surface": "לְבִלְתִּי",
+      "gloss": "pour ne pas"
+    },
+    {
+      "surface": "עֲשׂוֹת",
+      "gloss": "faire"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "toutes mes commandements"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מִצְוֹתַי",
+      "gloss": "mes commandements"
+    },
+    {
+      "surface": "לְהַפְרְכֶם",
+      "gloss": "[afin] de rompre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mon alliance"
+    },
+    {
+      "surface": "בְּרִיתִי",
+      "gloss": "mon alliance"
+    }
+  ],
+  "timestamp": "2026-08-04T08:18:23.041381835Z",
+  "model": "glm-4.5"
+}

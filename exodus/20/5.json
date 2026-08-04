@@ -1,0 +1,97 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Tu ne te prosterneras pas devant eux et tu ne les serviras pas ; car moi, YHWH, ton Élohim, ⟨suis⟩ un El jaloux, punissant ⟨la⟩ faute ⟨des⟩ pères sur les fils, sur la troisième et sur la quatrième, pour ceux qui me haïssent",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "te prosterneras"
+    },
+    {
+      "surface": "להם",
+      "gloss": "devant eux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "les serviras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "jaloux"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "punissant"
+    },
+    {
+      "surface": "עון",
+      "gloss": "faute"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "pères"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "la troisième"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "la quatrième"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "pour ceux qui me haïssent"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:46.187155907Z",
+  "model": "glm-4.5"
+}

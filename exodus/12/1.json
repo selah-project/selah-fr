@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et YHWH dit à Moshe et à Aharon dans ⟨le⟩ pays de Mitsraïm, disant",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsraïm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    }
+  ],
+  "timestamp": "2026-08-04T06:27:30.498385207Z",
+  "model": "glm-4.5"
+}

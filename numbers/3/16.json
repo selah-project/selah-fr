@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Moïse dénombra ⟨את⟩ eux, sur la bouche de YHWH, comme on ⟨lui⟩ avait commandé.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "dénombra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "on ⟨lui⟩ avait commandé"
+    }
+  ],
+  "timestamp": "2026-08-04T08:26:11.853891661Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car je n'ai pas résidé dans une maison depuis le jour où j'ai fait monter ⟨את⟩ les fils d'Israël d'Égypte jusqu'à ce jour-ci, et j'ai marché ⟨sous⟩ une tente et ⟨dans⟩ un mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'ai pas"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "résidé"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans une maison"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "depuis le jour"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "où j'ai fait monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ce jour"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "et j'ai marché"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "(ai marché)"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sous une tente"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "et dans un mishkan"
+    }
+  ],
+  "timestamp": "2026-08-04T13:00:43.905201505Z",
+  "model": "glm-4.5"
+}

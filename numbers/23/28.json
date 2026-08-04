@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Balak prit ⟨את⟩ Balaam vers la tête ⟨du⟩ Peor, celle qui surplombe la face ⟨du⟩ Yeshimon.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balaam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Balaam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tête"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "⟨du⟩ Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "celle qui surplombe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "⟨du⟩ Yeshimon"
+    }
+  ],
+  "timestamp": "2026-08-04T09:18:54.022109005Z",
+  "model": "glm-4.5"
+}

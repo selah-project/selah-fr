@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Mais Noé trouva faveur aux yeux de YHWH.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Mais Noé"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "trouva"
+    },
+    {
+      "surface": "חן",
+      "gloss": "faveur"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T05:05:03.259255141Z",
+  "model": "glm-4.5"
+}

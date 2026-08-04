@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "En plus de l'ola du matin, qui est l'ola continuelle, vous ferez ⟨את⟩ celles-ci.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "En plus de"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "l'ola"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "du matin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "l'ola"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "continuelle"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celles-ci"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "celles-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T09:28:35.649781161Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et le serviteur raconta à Isaac ⟨את⟩ toutes les choses qu'il avait faites",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "Et raconta"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "le serviteur"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "à Isaac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les choses"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "les choses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il avait faites"
+    }
+  ],
+  "timestamp": "2026-08-04T05:31:31.241158961Z",
+  "model": "glm-4.5"
+}

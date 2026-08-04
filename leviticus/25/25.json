@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Si ton frère s'appauvrit et vend sa possession, alors son goël proche de lui viendra et rachètera ⟨את⟩ ce que son frère a vendu",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "s'appauvrit"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ton frère"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "et vend"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "sa possession"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "alors viendra"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "son goël"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "proche"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "et rachètera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que son frère a vendu"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ce que a vendu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:56.078384986Z",
+  "model": "glm-4.5"
+}

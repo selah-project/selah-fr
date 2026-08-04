@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Toute vallée ⟨sera⟩ élevée, et toute montagne et colline ⟨seront⟩ abaissées ; et ⟨ce qui est⟩ tortueux ⟨deviendra⟩ un lieu plat, et les endroits raboteux une vallée large.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "vallée"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "sera élevée"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "הר",
+      "gloss": "montagne"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "et colline"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "seront abaissées"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et ⟨il deviendra⟩"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "le tortueux"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "⟨en⟩ lieu plat"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "et les endroits raboteux"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "⟨en⟩ vallée large"
+    }
+  ],
+  "timestamp": "2026-08-04T15:35:04.307602251Z",
+  "model": "glm-4.5"
+}

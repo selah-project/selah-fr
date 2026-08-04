@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Or les fils d'Eli ⟨étaient⟩ des fils de Belial ; ils ne connaissaient pas ⟨את⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Or les fils"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "d'Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "étaient des fils"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "de Belial"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "connaissaient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T12:07:06.372203757Z",
+  "model": "glm-4.5"
+}

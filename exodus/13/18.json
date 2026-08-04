@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Élohim fit faire un détour ⟨au⟩ peuple ⟨par⟩ la route du désert de la mer de Souf, et les fils d'Israël montèrent armés du pays d'Égypte.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Et fit faire un détour"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la route"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "du désert"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Souf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "et armés"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "montèrent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:30:19.735731770Z",
+  "model": "glm-4.5"
+}

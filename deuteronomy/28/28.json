@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH te frappera de démence, de cécité et de stupeur de cœur",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "frappera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "de démence"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "et de cécité"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "et de stupeur"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "de cœur"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:51.452736264Z",
+  "model": "glm-4.5"
+}

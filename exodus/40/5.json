@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et tu placeras ⟨את⟩ l'autel d'or pour l'encens devant l'arche du Témoignage, et tu placeras ⟨את⟩ le voile de l'entrée pour le mishkan",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּ֞ה",
+      "gloss": "et tu placeras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel d'or"
+    },
+    {
+      "surface": "מִזְבַּ֤ח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "הַזָּהָב֙",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "לִקְטֹ֔רֶת",
+      "gloss": "pour l'encens"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אֲר֣וֹן",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "הָעֵדֻ֑ת",
+      "gloss": "du Témoignage"
+    },
+    {
+      "surface": "וְשַׂמְתָּ֛ה",
+      "gloss": "et tu placeras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le voile de l'entrée"
+    },
+    {
+      "surface": "מָסַ֥ךְ",
+      "gloss": "le voile"
+    },
+    {
+      "surface": "הַפֶּ֖תַח",
+      "gloss": "de l'entrée"
+    },
+    {
+      "surface": "לַמִּשְׁכָּֽן",
+      "gloss": "pour le mishkan"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:51.786522826Z",
+  "model": "glm-4.5"
+}

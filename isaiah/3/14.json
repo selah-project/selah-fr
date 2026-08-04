@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH ⟨va⟩ entrer en jugement avec les anciens de son peuple et ses princes ; et vous, vous avez dévoré ⟨le⟩ vignoble, ⟨le⟩ butin du pauvre ⟨est⟩ dans vos maisons.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "en jugement"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "va entrer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "de son peuple"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "et ses princes"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "et vous"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "vous avez dévoré"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "le vignoble"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "le butin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "du pauvre"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "dans vos maisons"
+    }
+  ],
+  "timestamp": "2026-08-04T14:50:32.051724680Z",
+  "model": "glm-4.5"
+}

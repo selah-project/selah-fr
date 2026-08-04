@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 22:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Abraham dit : Élohim y ⟨a⟩ ⟨vu⟩ pour lui ⟨le⟩ mouton pour ⟨l'⟩ola, mon fils. Et ils allèrent tous les deux ensemble.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Abraham dit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "y ⟨a⟩ ⟨vu⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "השה",
+      "gloss": "⟨le⟩ mouton"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pour ⟨l'⟩ola"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Et ils allèrent"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tous les deux"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:08.598303612Z",
+  "model": "glm-4.5"
+}

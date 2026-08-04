@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et le roi envoya, et on rassembla auprès de lui tous les anciens de Juda et de Jérusalem",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "et on rassembla"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "auprès de lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "et de Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-04T14:41:32.407608427Z",
+  "model": "glm-4.5"
+}

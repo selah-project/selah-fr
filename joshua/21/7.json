@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "joshua 21:7",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Aux fils de Merari, ⟨leurs⟩ familles, ⟨de⟩ la tribu de Ruben, et ⟨de⟩ la tribu de Gad, et ⟨de⟩ la tribu de Zebulon, douze villes.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Aux fils de"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "⟨leurs⟩ familles"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "⟨de⟩ la tribu de"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "et ⟨de⟩ la tribu de"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "et ⟨de⟩ la tribu de"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulon"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "douze villes"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "douze"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dix"
+    }
+  ],
+  "timestamp": "2026-08-04T11:23:18.868743842Z",
+  "model": "glm-4.5"
+}

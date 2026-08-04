@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et toi, tu as dit : je traiterai bien avec toi, et je placerai ⟨את⟩ ta semence comme le sable de la mer, qui ne se comptera pas à cause de la multitude.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "tu as dit"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "je traiterai bien"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "je traiterai bien"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "et je placerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta semence"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ta semence"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "comme le sable"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "se comptera"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "à cause de la multitude"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:34.562834702Z",
+  "model": "glm-4.5"
+}

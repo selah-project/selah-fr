@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et Joseph dit à Paroh : le rêve de Paroh, ⟨est⟩ un ; ce qu'Élohim fait, il l'a déclaré à Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "le rêve"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qu'Élohim fait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fait"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "il a déclaré"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "à Paroh"
+    }
+  ],
+  "timestamp": "2026-08-04T05:53:57.246160940Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Toi, tu passes aujourd'hui ⟨את⟩ la frontière de Moab, ⟨את⟩ Ar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tu passes"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la frontière de Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "la frontière"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-04T09:51:15.263861609Z",
+  "model": "glm-4.5"
+}

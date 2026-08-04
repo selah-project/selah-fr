@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et ils te ⟨auront⟩ demandé pour ⟨la⟩ paix, et ils auront donné à toi deux ⟨pains⟩, et tu auras pris de leur main",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "et ils te ⟨auront⟩ demandé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pour ⟨la⟩ paix"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "et ils auront donné"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "deux"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨pains⟩"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "et tu auras pris"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "de leur main"
+    }
+  ],
+  "timestamp": "2026-08-04T12:16:09.382909071Z",
+  "model": "glm-4.5"
+}

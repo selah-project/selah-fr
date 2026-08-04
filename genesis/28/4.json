@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et qu'Il te donne ⟨את⟩ la bénédiction d'Abraham, à toi, et à ta descendance avec toi, pour que tu possèdes ⟨את⟩ la terre de tes séjours, qu'Élohim a donnée à Abraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et qu'Il donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bénédiction d'Abraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "la bénédiction de"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "et à ta descendance"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "pour que tu possèdes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre de tes séjours"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre de"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "tes séjours"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a donnée"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "à Abraham"
+    }
+  ],
+  "timestamp": "2026-08-04T05:36:20.644419739Z",
+  "model": "glm-4.5"
+}

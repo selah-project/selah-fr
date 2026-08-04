@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et David appela l'un des jeunes gens et dit : Approche, frappe-le. Et il le frappa et il mourut.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "des jeunes gens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Approche"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "frappe-le"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-le"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "Et il le frappa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et il mourut"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:54.876537093Z",
+  "model": "glm-4.5"
+}

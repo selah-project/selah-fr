@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Abram s'en alla, allant et s'avancant vers le Néguev.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Et s'en alla"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "allant"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "et s'avancant"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "vers le Néguev"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:15.179415784Z",
+  "model": "glm-4.5"
+}

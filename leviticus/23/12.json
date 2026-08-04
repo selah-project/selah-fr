@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "et vous ferez, au jour où ⟨את⟩ vous agiterez la gerbe, un bélier parfait, fils de son année, en montée pour YHWH",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "et vous ferez"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "où ⟨את⟩ vous agiterez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la gerbe"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "la gerbe"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "un bélier"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "parfait"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "de son année"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "en montée"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:11:22.260806834Z",
+  "model": "glm-4.5"
+}

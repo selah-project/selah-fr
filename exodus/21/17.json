@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et qui maudit son père et sa mère, ⟨mort⟩ il sera mis à mort",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Et qui maudit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "et sa mère"
+    },
+    {
+      "surface": "מות",
+      "gloss": "⟨mort⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "il sera mis à mort"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:21.215866734Z",
+  "model": "glm-4.5"
+}

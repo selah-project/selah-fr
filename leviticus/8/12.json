@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il versa de l'huile de l'onction sur la tête d'Aaron et l'oignit ⟨את⟩ pour le sanctifier",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "Et il versa"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "de l'huile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de l'onction"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "et l'oignit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "pour le sanctifier"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pour le sanctifier"
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:53.704907967Z",
+  "model": "glm-4.5"
+}

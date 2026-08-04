@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et le cohen ordonnera, et on égorgera ⟨את⟩ l'oiseau, l'un, dans un vase de terre sur des eaux vives",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "et il ordonnera"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "et on égorgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'oiseau, l'un"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "l'oiseau"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "un vase"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "de terre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vives"
+    }
+  ],
+  "timestamp": "2026-08-04T07:49:59.363659351Z",
+  "model": "glm-4.5"
+}

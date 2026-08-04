@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 9:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Sur ⟨la⟩ parole de YHWH ils campaient, et sur ⟨la⟩ parole de YHWH ils partaient, ⟨את⟩ la garde de YHWH ils gardaient, sur ⟨la⟩ parole de YHWH par ⟨la⟩ main de Moshé",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨la⟩ parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "ils campaient"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨la⟩ parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ils partaient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la garde de YHWH"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "la garde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ils gardaient"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨la⟩ parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par ⟨la⟩ main"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    }
+  ],
+  "timestamp": "2026-08-04T08:42:34.468078483Z",
+  "model": "glm-4.5"
+}

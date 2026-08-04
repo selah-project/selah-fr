@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "de concevoir ⟨des⟩ inventions pour faire ⟨en⟩ or, et ⟨en⟩ argent, et ⟨en⟩ cuivre",
+  "tokens": [
+    {
+      "surface": "לַחְשֹׁב",
+      "gloss": "de concevoir"
+    },
+    {
+      "surface": "מַחֲשָׁבֹת",
+      "gloss": "⟨des⟩ inventions"
+    },
+    {
+      "surface": "לַעֲשֹׂות",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "בַּזָּהָב",
+      "gloss": "⟨en⟩ or"
+    },
+    {
+      "surface": "וּבַכֶּסֶף",
+      "gloss": "et ⟨en⟩ argent"
+    },
+    {
+      "surface": "וּבַנְּחֹשֶׁת",
+      "gloss": "et ⟨en⟩ cuivre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:04:55.562556180Z",
+  "model": "glm-4.5"
+}

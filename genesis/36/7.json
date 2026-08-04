@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "car leur propriété ⟨était⟩ abondante pour ⟨demeurer⟩ ensemble, et la terre de leur séjour ne pouvait pas ⟨les porter⟩ ⟨à cause de⟩ leur bétail",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨était⟩"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "leur propriété"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abondante"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "pour ⟨demeurer⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "pouvait"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "de leur séjour"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "porter"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨les⟩",
+      "marks": "leur bétail"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨à cause de⟩"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "leur bétail"
+    }
+  ],
+  "timestamp": "2026-08-04T05:46:50.471197956Z",
+  "model": "glm-4.5"
+}

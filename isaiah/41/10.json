@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Ne crains point, car ⟨je suis⟩ avec toi ; ne sois pas effrayé, car je ⟨suis⟩ ton Élohim. Je t'affermis, oui, je t'aide, oui, je te soutiens de la main droite de ma justice.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "crains point"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨je suis⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "sois pas effrayé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "je t'affermis"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oui"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "je t'aide"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oui"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "je te soutiens"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "de la main droite"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "de ma justice"
+    }
+  ],
+  "timestamp": "2026-08-04T15:36:11.637724280Z",
+  "model": "glm-4.5"
+}

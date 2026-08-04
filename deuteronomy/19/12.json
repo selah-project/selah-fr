@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et les anciens de sa ville ⟨le⟩ feront sortir et le prendront de là et le livreront ⟨את⟩ en main du goël ⟨du⟩ sang et il mourra",
+  "tokens": [
+    {
+      "surface": "וְשָׁלְחוּ",
+      "gloss": "et ⟨le⟩ feront sortir"
+    },
+    {
+      "surface": "זִקְנֵי",
+      "gloss": "anciens"
+    },
+    {
+      "surface": "עִיר֔וֹ",
+      "gloss": "de sa ville"
+    },
+    {
+      "surface": "וְלָקְח֥וּ",
+      "gloss": "et prendront"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "משם (de là)"
+    },
+    {
+      "surface": "מִשָּׁ֑ם",
+      "gloss": "de là"
+    },
+    {
+      "surface": "וְנָתְנ֣וּ",
+      "gloss": "et livreront"
+    },
+    {
+      "surface": "אֹת֗וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ביד (en main)"
+    },
+    {
+      "surface": "בְּיַ֛ד",
+      "gloss": "en main"
+    },
+    {
+      "surface": "גֹּאֵ֥ל",
+      "gloss": "du goël"
+    },
+    {
+      "surface": "הַדָּ֖ם",
+      "gloss": "⟨du⟩ sang"
+    },
+    {
+      "surface": "וָמֵֽת",
+      "gloss": "et il mourra"
+    }
+  ],
+  "timestamp": "2026-08-04T10:23:03.470843473Z",
+  "model": "glm-4.5"
+}

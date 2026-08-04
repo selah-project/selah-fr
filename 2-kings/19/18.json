@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et ils ont mis ⟨את⟩ leurs dieux dans le feu, car ils ne sont pas des dieux, mais l'ouvrage des mains d'Adam, du bois et de la pierre, et ils les ont détruits",
+  "tokens": [
+    {
+      "surface": "וְנָתְנ֥וּ",
+      "gloss": "et ils ont mis"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs dieux"
+    },
+    {
+      "surface": "אֱלֹהֵיהֶ֖ם",
+      "gloss": "leurs dieux"
+    },
+    {
+      "surface": "בָּאֵ֑שׁ",
+      "gloss": "dans le feu"
+    },
+    {
+      "surface": "כִּי֩",
+      "gloss": "car"
+    },
+    {
+      "surface": "לֹ֨א",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אֱלֹהִ֜ים",
+      "gloss": "dieux"
+    },
+    {
+      "surface": "הֵ֗מָּה",
+      "gloss": "ils sont"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "mais"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "que"
+    },
+    {
+      "surface": "מַעֲשֵׂ֧ה",
+      "gloss": "l'ouvrage"
+    },
+    {
+      "surface": "יְדֵֽי",
+      "gloss": "des mains"
+    },
+    {
+      "surface": "אָדָ֛ם",
+      "gloss": "d'Adam"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "du bois"
+    },
+    {
+      "surface": "וָאֶ֖בֶן",
+      "gloss": "et de la pierre"
+    },
+    {
+      "surface": "וַֽיְאַבְּדֽוּם",
+      "gloss": "et ils les ont détruits"
+    }
+  ],
+  "timestamp": "2026-08-04T14:37:56.308695294Z",
+  "model": "glm-4.5"
+}

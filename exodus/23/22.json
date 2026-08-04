@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Car si tu écoutes bien ⟨en⟩ écoutant ⟨sa⟩ voix et que tu fasses tout ce que je parle, alors je serai un ennemi ⟨pour⟩ tes ennemis et un adversaire ⟨pour⟩ tes oppresseurs",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écoutes bien"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "écoutant"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "et fasses"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "je parle"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "je serai un ennemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes ennemis"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "et un adversaire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes oppresseurs"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "tes oppresseurs"
+    }
+  ],
+  "timestamp": "2026-08-04T06:47:55.325553232Z",
+  "model": "glm-4.5"
+}

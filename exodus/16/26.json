@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Six jours vous ⟨le⟩ ramasserez, et au jour ⟨le⟩ septième, shabbat, il n'y en aura point ⟨en lui⟩.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Six jours"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "vous ⟨le⟩ ramasserez"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "et au jour"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "⟨le⟩ septième"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'y en aura point"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨en lui⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:36:32.825137296Z",
+  "model": "glm-4.5"
+}

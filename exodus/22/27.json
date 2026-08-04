@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Élohim ⟨tu⟩ ne maudiras pas, et le chef de ton peuple, ⟨tu⟩ n'insulteras pas.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨tu⟩ ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "maudiras pas"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "et le chef"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "de ton peuple"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨tu⟩ ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "insulteras pas"
+    }
+  ],
+  "timestamp": "2026-08-04T06:45:10.545907487Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et si vous marchez ⟨avec⟩ moi en hostilité et que vous ne consentez pas à m'écouter, j'ajouterai sur vous ⟨la⟩ plaie sept fois selon vos offenses",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "vous marchez"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨avec⟩ moi"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "en hostilité"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et que ne"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "vous consentez pas"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "à écouter"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "j'ajouterai"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sur vous"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "⟨la⟩ plaie"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sept fois"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "selon vos offenses"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:43.322450883Z",
+  "model": "glm-4.5"
+}

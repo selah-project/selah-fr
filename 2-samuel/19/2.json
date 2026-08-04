@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et on l'a rapporté à Joab : voici, ⟨le⟩ roi pleure et prend le deuil sur Abshalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Et on l'a rapporté"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "à Joab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pleure"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "et prend le deuil"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:19:12.556066158Z",
+  "model": "glm-4.5"
+}

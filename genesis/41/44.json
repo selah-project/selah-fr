@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et Paroh dit à Joséph : moi, je suis Paroh ; et sans toi, nul homme ne lèvera ⟨את⟩ sa main ni ⟨את⟩ son pied dans tout le pays de Mitsraïm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joséph"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "je suis Paroh"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "et sans toi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nul"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "lèvera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "son pied"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "son pied"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraïm"
+    }
+  ],
+  "timestamp": "2026-08-04T05:54:42.980803715Z",
+  "model": "glm-4.5"
+}

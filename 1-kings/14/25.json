@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et il arriva ⟨dans⟩ la cinquième année ⟨du⟩ règne de Rechabam, ⟨que⟩ Shishak, roi de Mitsraïm, monta contre Jérushalaim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "⟨dans⟩ la cinquième année"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "cinquième"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨du⟩ règne"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monta"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraïm"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérushalaim"
+    }
+  ],
+  "timestamp": "2026-08-04T13:53:29.162913428Z",
+  "model": "glm-4.5"
+}

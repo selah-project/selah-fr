@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "J'ai entendu ⟨את⟩ les murmures des fils d'Israël, parle-leur en disant : entre les deux soirs vous mangerez de la viande, et le matin vous serez rassasiés de pain, et vous saurez que moi, YHWH, ⟨suis⟩ votre Élohim.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "J'ai entendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les murmures"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "les murmures"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "les deux soirs"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "de la viande"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "et le matin"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "vous serez rassasiés"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "et vous saurez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T06:36:26.200261541Z",
+  "model": "glm-4.5"
+}

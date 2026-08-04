@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et il parla trois mille paraboles, et ses chants furent cinq et ⟨את⟩ mille.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et il parla"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mille"
+    },
+    {
+      "surface": "משל",
+      "gloss": "paraboles"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et furent"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ses chants"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "et mille",
+      "marks": "cinq et mille"
+    }
+  ],
+  "timestamp": "2026-08-04T13:35:59.833981462Z",
+  "model": "glm-4.5"
+}

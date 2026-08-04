@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Seulement, toutes les villes qui se tiennent sur ⟨leur⟩ tertre, Israël ne les a pas brûlées, sauf ⟨את⟩ Hatsor, celle-là seule, Josué ⟨l'⟩a brûlée.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "qui se tiennent"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "⟨leur⟩ tertre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "les a brûlées"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "sauf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "celle-là seule"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "⟨l'⟩a brûlée"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josué"
+    }
+  ],
+  "timestamp": "2026-08-04T11:05:02.619737951Z",
+  "model": "glm-4.5"
+}

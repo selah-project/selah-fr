@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car avant la moisson, quand ⟨la⟩ fleur ⟨est⟩ parfaite, et ⟨que⟩ la fleur ⟨est⟩ un grain mûrissant, il coupera ⟨les⟩ rameaux avec des serpettes, et ⟨את⟩ les branches il les enlèvera et les retranchera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "avant"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "la moisson"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "parfaite"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "la fleur"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "et ⟨que⟩ la fleur"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "⟨est⟩ un grain mûrissant"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il coupera"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "les rameaux"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "avec des serpettes"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "et"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "les branches"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "הנטישות"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "il les enlèvera"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "et"
+    },
+    {
+      "surface": "התז",
+      "gloss": "les retranchera"
+    }
+  ],
+  "timestamp": "2026-08-04T15:08:57.652163054Z",
+  "model": "glm-4.5"
+}

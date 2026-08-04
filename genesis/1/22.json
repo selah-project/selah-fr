@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim les bénit, en disant : Fructifiez et multipliez, et remplissez ⟨את⟩ les eaux dans les mers, et ⟨את⟩ l'oiseau multipliera sur ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "et bénit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les [créatures précédentes]"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "fructifiez"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "et multipliez"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "et remplissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les eaux"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dans les mers"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "et l'oiseau"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "multipliera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur ⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:46.604165727Z",
+  "model": "glm-4.5"
+}

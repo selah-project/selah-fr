@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "YHWH, dans la détresse ils t'ont visité, ils ont répandu ⟨une⟩ prière ⟨muette⟩ quand ta correction était sur eux.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dans la détresse"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "ils t'ont visité"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "ils ont répandu"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "⟨une⟩ prière ⟨muette⟩"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "ta correction"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sur eux"
+    }
+  ],
+  "timestamp": "2026-08-04T15:20:19.455505484Z",
+  "model": "glm-4.5"
+}

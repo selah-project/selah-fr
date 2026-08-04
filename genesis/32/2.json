@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Yaakov marcha sur ⟨sa⟩ route, et des messagers d'Élohim le rencontrèrent.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Et Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "marcha"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sur ⟨sa⟩ route"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "et ... le rencontrèrent"
+    },
+    {
+      "surface": "בו",
+      "gloss": "le"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "des messengers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:05.722735785Z",
+  "model": "glm-4.5"
+}

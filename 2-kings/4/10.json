@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Faisons, je te prie, une petite chambre haute ⟨de⟩ mur et mettons-y pour lui un lit, une table, un siège et ⟨une⟩ lampe, et il sera, ⟨quand⟩ il viendra vers nous, ⟨qu'il⟩ se retirera là.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "Faisons"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "chambre haute"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "mur"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "petite"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "et mettons"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "y"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "un lit"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "une table"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "un siège"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "une lampe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et il sera"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "quand il viendra"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "vers nous"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se retirera"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-04T14:12:15.513704309Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "des dieux des peuples qui sont autour de toi, proches de toi ou lointains de toi, d'un bout de la terre et jusqu'à l'autre bout de la terre",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "des dieux"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "sont autour de toi"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "proches"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "lointains"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "d'un bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "l'autre bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T10:15:50.742345691Z",
+  "model": "glm-4.5"
+}

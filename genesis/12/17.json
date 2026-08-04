@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et YHWH frappa ⟨את⟩ Pharaon de grandes plaies et ⟨את⟩ sa maison à cause de la parole de Saraï, femme d’Abram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Et frappa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pharaon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "de plaies"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa maison"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole de"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraï"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femme d'"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:21.394553979Z",
+  "model": "glm-4.5"
+}

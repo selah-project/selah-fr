@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Ainsi Élohim a pris ⟨את⟩ le bétail de votre père et me l'a donné",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "a pris"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bétail de votre père"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "le bétail"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "de votre père"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et me l'a donné"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:06.049260048Z",
+  "model": "glm-4.5"
+}

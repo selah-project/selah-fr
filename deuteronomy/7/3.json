@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "et tu ne te marieras pas avec eux, ta fille, tu ne la donneras pas à son fils, et sa fille, tu ne la prendras pas pour ton fils",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "te marieras pas"
+    },
+    {
+      "surface": "בם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ta fille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne la"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "donneras pas"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "à son fils"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "et sa fille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne la"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prendras pas"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "pour ton fils"
+    }
+  ],
+  "timestamp": "2026-08-04T10:02:30.862717922Z",
+  "model": "glm-4.5"
+}

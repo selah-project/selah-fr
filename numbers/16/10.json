@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il ⟨a⟩ fait approcher ⟨את⟩ toi, et ⟨את⟩ tous tes frères, les fils de Lévi, avec toi, et vous cherchez ⟨le⟩ sacerdoce aussi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Et il ⟨a⟩ fait approcher"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "toi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tous tes frères"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tes frères"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "et vous cherchez"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "le sacerdoce"
+    }
+  ],
+  "timestamp": "2026-08-04T08:59:51.237522354Z",
+  "model": "glm-4.5"
+}

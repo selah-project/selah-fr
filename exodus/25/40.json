@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et vois, et fais d'après leur modèle, qui ⟨est⟩ montré à toi sur la montagne.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Et vois"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et fais"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "d'après leur modèle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "est montré"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    }
+  ],
+  "timestamp": "2026-08-04T06:50:34.063198287Z",
+  "model": "glm-4.5"
+}

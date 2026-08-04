@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et la terre ouvrit ⟨את⟩ sa bouche et avala ⟨את⟩ eux et ⟨את⟩ leurs maisons et ⟨את⟩ tous les hommes qui étaient pour Qorah et ⟨את⟩ tout le bien",
+  "tokens": [
+    {
+      "surface": "וַתִּפְתַּח",
+      "gloss": "et ouvrit"
+    },
+    {
+      "surface": "הָאָ֨רֶץ֙",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sa bouche"
+    },
+    {
+      "surface": "פִּ֔יהָ",
+      "gloss": "sa bouche"
+    },
+    {
+      "surface": "וַתִּבְלַ֥ע",
+      "gloss": "et avala"
+    },
+    {
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs maisons"
+    },
+    {
+      "surface": "בָּתֵּיהֶ֑ם",
+      "gloss": "leurs maisons"
+    },
+    {
+      "surface": "וְאֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "tous"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הָאָדָם֙",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לְקֹ֔רַח",
+      "gloss": "pour Qorah"
+    },
+    {
+      "surface": "וְאֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הָרֲכֽוּשׁ",
+      "gloss": "le bien"
+    }
+  ],
+  "timestamp": "2026-08-04T08:59:37.554369568Z",
+  "model": "glm-4.5"
+}

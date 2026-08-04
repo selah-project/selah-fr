@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et il érigea là un autel, et l'appela El-Élohé-Israël.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Et il érigea"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un autel"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et l'appela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "l'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T05:43:31.140193157Z",
+  "model": "glm-4.5"
+}

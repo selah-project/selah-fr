@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car il détournera ⟨את⟩ ton fils d'après moi et ils serviront des dieux étrangers et la colère de YHWH s'enflammera contre toi et te détruira promptement",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "il détournera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton fils"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ton fils"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "d'après moi"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "et ils serviront"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "autres"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "et s'enflammera"
+    },
+    {
+      "surface": "אף",
+      "gloss": "la colère"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contre vous"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "et te détruira"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "promptement"
+    }
+  ],
+  "timestamp": "2026-08-04T10:00:56.748661950Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Jonathan frappa ⟨את⟩ le préfet des Philistins qui ⟨était⟩ à Guéba, et les Philistins l'entendirent. Et Saül sonna du shophar dans toute ⟨la⟩ terre, en disant : Que les Hébreux entendent.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le préfet"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "le préfet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "à Guéba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "et entendirent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "et Saül"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "sonna"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "du shophar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "entendent"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "les Hébreux"
+    }
+  ],
+  "timestamp": "2026-08-04T12:22:20.930116990Z",
+  "model": "glm-4.5"
+}

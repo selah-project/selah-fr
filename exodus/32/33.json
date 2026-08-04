@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et YHWH dit à Moïse : Quiconque a péché contre moi, je l'effacerai de mon livre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Quiconque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a péché"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "je l'effacerai"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "de mon livre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:07:13.055861994Z",
+  "model": "glm-4.5"
+}

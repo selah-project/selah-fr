@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "des bêtes purifiées et des bêtes qui ne ⟨sont⟩ pas pures, et des oiseaux, et tout ce qui rampe sur ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bêtes"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "purifiées"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et des"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bêtes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "pas"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et des"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "oiseaux"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "rampe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:06:13.417233083Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "YHWH ton Elohim est vivant, s'il existe une nation et un royaume où mon maître n'a pas envoyé pour te chercher, et qu'ils aient dit : il n'y en a pas, et qu'il ait fait jurer ⟨את⟩ le royaume et ⟨את⟩ la nation que tu ne seras pas trouvé",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "YHWH est vivant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il existe"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "une nation"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "et un royaume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envoyé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mon maître"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "pour te chercher"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "et qu'ils aient dit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y en a pas"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "et qu'il ait fait jurer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le royaume"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "le royaume"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la nation"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "la nation"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "tu seras pas trouvé"
+    }
+  ],
+  "timestamp": "2026-08-04T13:58:04.049649162Z",
+  "model": "glm-4.5"
+}

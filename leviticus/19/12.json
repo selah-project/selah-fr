@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et ne jurez point par mon nom ⟨pour⟩ le mensonge, et tu ne profaneras point ⟨את⟩ le nom de ton Elohim ; moi, YHWH.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "jurez point"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "par mon nom"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "⟨pour⟩ le mensonge"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "et tu ne profaneras point"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "de ton Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:33.248881824Z",
+  "model": "glm-4.5"
+}

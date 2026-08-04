@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et tu garderas ⟨את⟩ cette règle pour sa date, de jours en jours.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמַרְתָּ֛",
+      "gloss": "Et tu garderas"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "cette règle"
+    },
+    {
+      "surface": "הַחֻקָּ֥ה",
+      "gloss": "cette règle"
+    },
+    {
+      "surface": "הַזֹּ֖את",
+      "gloss": "cette"
+    },
+    {
+      "surface": "לְמוֹעֲדָ֑הּ",
+      "gloss": "pour sa date"
+    },
+    {
+      "surface": "מִיָּמִ֖ים",
+      "gloss": "de jours"
+    },
+    {
+      "surface": "יָמִֽימָה",
+      "gloss": "en jours"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:38.650196475Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et ils prendront ⟨את⟩ l'or et ⟨את⟩ le tekhelet et ⟨את⟩ l'argaman et ⟨את⟩ le ver cramoisi et ⟨את⟩ le lin fin",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Et ils"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "prendront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'or"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'or"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le tekhelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "le tekhelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "l'argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le ver cramoisi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ver"
+    },
+    {
+      "surface": "השני",
+      "gloss": "cramoisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le lin fin"
+    },
+    {
+      "surface": "השש",
+      "gloss": "le lin fin"
+    }
+  ],
+  "timestamp": "2026-08-04T06:55:02.341458890Z",
+  "model": "glm-4.5"
+}

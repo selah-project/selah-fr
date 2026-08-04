@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il dit : Par quel chemin ⟨nous⟩ monterons ? Et il dit : Le chemin du désert d'Édom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Par quel"
+    },
+    {
+      "surface": "זה",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "[omis — intégré au gloss précédent]"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "⟨nous⟩ monterons"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Le chemin"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "du désert"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "d'Édom"
+    }
+  ],
+  "timestamp": "2026-08-04T14:08:58.101179784Z",
+  "model": "glm-4.5"
+}

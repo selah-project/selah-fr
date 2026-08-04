@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "toutes les villes de la plaine, et tout le Galaad, et tout le Basan, jusqu'à Salca et Édréi, villes du royaume de Og, en Basan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "de la plaine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "le Galaad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "le Basan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salca"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "et Édréi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "villes"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "du royaume"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "de Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "en Basan"
+    }
+  ],
+  "timestamp": "2026-08-04T09:53:15.018945949Z",
+  "model": "glm-4.5"
+}

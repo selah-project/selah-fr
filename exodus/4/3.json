@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Il dit : Jette-le ⟨vers⟩ la terre, et il le jeta ⟨vers⟩ la terre, et il fut ⟨pour⟩ un serpent, et Mosheh s'enfuit de devant sa face.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Il dit"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Jette-le"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨vers⟩ la terre"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "et il le jeta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨vers⟩ la terre"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il fut"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "⟨pour⟩ un serpent"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "et Mosheh s'enfuit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de devant sa face"
+    }
+  ],
+  "timestamp": "2026-08-04T06:16:31.194798048Z",
+  "model": "glm-4.5"
+}

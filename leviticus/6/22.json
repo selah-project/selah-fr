@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Tout mâle parmi les prêtres la mangera ; ⟨c'est⟩ chose très sainte.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "parmi les prêtres"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "la mangera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "la",
+      "marks": "offrande"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chose"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "très sainte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨c'est⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T07:33:49.374069504Z",
+  "model": "glm-4.5"
+}

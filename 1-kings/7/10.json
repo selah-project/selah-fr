@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et ⟨la⟩ fondation ⟨fut⟩ de pierres de prix, ⟨de⟩ grandes pierres, pierres de dix coudées et pierres de huit coudées",
+  "tokens": [
+    {
+      "surface": "וּמְיֻסָּ֕ד",
+      "gloss": "et fondé"
+    },
+    {
+      "surface": "אֲבָנִ֥ים",
+      "gloss": "pierres"
+    },
+    {
+      "surface": "יְקָר֖וֹת",
+      "gloss": "de prix"
+    },
+    {
+      "surface": "אֲבָנִ֣ים",
+      "gloss": "pierres"
+    },
+    {
+      "surface": "גְּדֹל֑וֹת",
+      "gloss": "grandes"
+    },
+    {
+      "surface": "אַבְנֵי֙",
+      "gloss": "pierres de"
+    },
+    {
+      "surface": "עֶ֣שֶׂר",
+      "gloss": "dix"
+    },
+    {
+      "surface": "אַמּ֔וֹת",
+      "gloss": "coudées"
+    },
+    {
+      "surface": "וְאַבְנֵ֖י",
+      "gloss": "et pierres de"
+    },
+    {
+      "surface": "שְׁמֹנֶ֥ה",
+      "gloss": "huit"
+    },
+    {
+      "surface": "אַמּֽוֹת",
+      "gloss": "coudées"
+    }
+  ],
+  "timestamp": "2026-08-04T13:38:41.240135045Z",
+  "model": "glm-4.5"
+}

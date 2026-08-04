@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et tu égorgeras ⟨את⟩ le taureau devant YHWH, ⟨à⟩ l'entrée de la tente d'assignation",
+  "tokens": [
+    {
+      "surface": "וְשָׁחַטְתָּ֥",
+      "gloss": "et tu égorgeras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "הַפָּ֖ר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פֶּ֖תַח",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T06:58:15.264623408Z",
+  "model": "glm-4.5"
+}

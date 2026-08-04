@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Et les fils de Shimon : Yemouel et Yamine et Ohad et Yakine et Zohar et Shaoul, fils de ⟨la⟩ Cananéenne.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Et les fils de"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemouel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "et Yamine"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "et Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "et Yakine"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "et Zohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "et Shaoul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "⟨la⟩ Cananéenne"
+    }
+  ],
+  "timestamp": "2026-08-04T06:03:33.974188356Z",
+  "model": "glm-4.5"
+}

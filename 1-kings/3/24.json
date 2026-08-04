@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le roi dit : Apportez-moi une épée. Et ils apportèrent ⟨את⟩ l'épée devant le roi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "apportez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "une épée"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et ils apportèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'épée"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:22.625409099Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et ⟨את⟩ l'autel de l'ola et ⟨את⟩ tous ses ustensiles, et ⟨את⟩ le bassin et ⟨את⟩ son socle",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'autel de l'ola"
+    },
+    {
+      "surface": "מִזְבַּ֥ח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "הָעֹלָ֖ה",
+      "gloss": "de l'ola"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tous ses ustensiles"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כֵּלָ֑יו",
+      "gloss": "ses ustensiles"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le bassin"
+    },
+    {
+      "surface": "הַכִּיּ֖וֹר",
+      "gloss": "le bassin"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son socle"
+    },
+    {
+      "surface": "כַּנּֽוֹ",
+      "gloss": "son socle"
+    }
+  ],
+  "timestamp": "2026-08-04T07:04:56.861857336Z",
+  "model": "glm-4.5"
+}

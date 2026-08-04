@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 44:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "et nous dîmes à Adonaï : il y a pour nous un père âgé et un enfant de sa vieillesse, un petit ; et son frère est mort et lui est resté seul de sa mère, et son père l'aime.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "et nous dîmes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "אב",
+      "gloss": "un père"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "âgé"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "et un enfant"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "de sa vieillesse"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "un petit"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "et son frère"
+    },
+    {
+      "surface": "מת",
+      "gloss": "est mort"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "et est resté"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seul"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "de sa mère"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "et son père"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "l'aime"
+    }
+  ],
+  "timestamp": "2026-08-04T06:00:23.181224994Z",
+  "model": "glm-4.5"
+}

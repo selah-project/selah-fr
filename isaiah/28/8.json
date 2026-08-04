@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Car toutes les tables sont pleines de vomi et d'excréments, sans place propre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "les tables"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sont pleines"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "de vomi"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "et d'excréments"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "place propre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:22:12.686395990Z",
+  "model": "glm-4.5"
+}

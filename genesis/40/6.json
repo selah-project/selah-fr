@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et Yosseph vint vers eux le matin et vit ⟨את⟩ eux et voici, ⟨ils étaient⟩ troublés",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et vint"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vers eux"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosseph"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "et voici,"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "troublés"
+    }
+  ],
+  "timestamp": "2026-08-04T05:52:39.895734090Z",
+  "model": "glm-4.5"
+}

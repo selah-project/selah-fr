@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH Élohim forma ⟨את⟩ l'humain poussière de ⟨la⟩ terre et souffla dans ses narines un souffle de vie et ⟨l'⟩humain fut une nefesh vivante",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Et forma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "poussière"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "et souffla"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "dans ses narines"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "un souffle de"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vie"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et fut"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "une nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "vivante"
+    }
+  ],
+  "timestamp": "2026-08-04T05:01:50.945584027Z",
+  "model": "glm-4.5"
+}

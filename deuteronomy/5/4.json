@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Face à face YHWH a parlé avec vous ⟨sur⟩ la montagne du milieu du feu",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Face"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "à face"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨sur⟩ la montagne"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "du milieu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "du feu"
+    }
+  ],
+  "timestamp": "2026-08-04T09:56:48.922245543Z",
+  "model": "glm-4.5"
+}

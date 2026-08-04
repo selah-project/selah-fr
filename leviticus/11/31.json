@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Celui-ci ⟨sont⟩ impurs pour vous, parmi tout ce qui rampe : quiconque touche ⟨את⟩ leur corps mort sera impur jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Celui-ci"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "⟨sont⟩ impurs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "parmi tout"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ce qui rampe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "quiconque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "touche"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨את⟩",
+      "marks": "leur corps mort"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "leur corps mort"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:44.535470144Z",
+  "model": "glm-4.5"
+}

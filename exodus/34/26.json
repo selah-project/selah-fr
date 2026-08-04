@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 34:26",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Le prémice des premiers-nés de ton sol tu apporteras ⟨à⟩ la maison de YHWH ton Élohim ; tu ne cuiras pas ⟨un⟩ chevreau dans le lait de sa mère.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Le prémice"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "des premiers-nés"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "de ton sol"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "tu apporteras"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "cuiras pas"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "⟨un⟩ chevreau",
+      "marks": "dans le lait de sa mère"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "dans le lait"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sa mère"
+    }
+  ],
+  "timestamp": "2026-08-04T07:09:53.232489832Z",
+  "model": "glm-4.5"
+}

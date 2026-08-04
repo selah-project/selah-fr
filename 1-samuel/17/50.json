@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et David ⟨est⟩ plus fort ⟨que⟩ le Philistin avec la fronde et ⟨avec⟩ la pierre, et frappe ⟨את⟩ le Philistin et le met à mort, et épée ⟨il y a⟩ aucune dans ⟨la⟩ main de David.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Et David ⟨est⟩ plus fort"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "le Philistin"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "avec la fronde"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "et ⟨avec⟩ la pierre"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et frappe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Philistin"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "le Philistin"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "et le met à mort"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "et épée"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨il y a⟩ aucune"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans ⟨la⟩ main"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-04T12:32:29.480102411Z",
+  "model": "glm-4.5"
+}

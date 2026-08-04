@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "le peuple qui me provoque ⟨à la colère⟩ continuellement devant ma face, sacrifiant dans les jardins et faisant fumer l'encens sur les briques",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "qui me provoque"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "me",
+      "marks": "על"
+    },
+    {
+      "surface": "על",
+      "gloss": "devant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ma face"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sacrifiant"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "dans les jardins"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "et faisant fumer"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "les briques"
+    }
+  ],
+  "timestamp": "2026-08-04T16:00:03.155265633Z",
+  "model": "glm-4.5"
+}

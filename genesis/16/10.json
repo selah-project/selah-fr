@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et le messager de YHWH lui dit : Multiplier, je multiplierai ⟨את⟩ ta semence, et elle ne se comptera pas à cause de l'abondance.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "le messager"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "multiplier"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "je multiplierai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta semence"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ta semence"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "se comptera"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "à cause de l'abondance"
+    }
+  ],
+  "timestamp": "2026-08-04T05:20:40.492852476Z",
+  "model": "glm-4.5"
+}

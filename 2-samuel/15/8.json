@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Car un voweau ⟨a⟩ fait ton serviteur en séjournant à Geshur, en Aram, en disant : Si YHWH me fait revenir ⟨à⟩ Jérusalem, alors je servirai ⟨את⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un voweau"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "⟨a⟩ fait"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "en séjournant"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "à Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "en Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "me fait revenir"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "me fait revenir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "⟨à⟩ Jérusalem"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "alors je servirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T13:12:59.687540916Z",
+  "model": "glm-4.5"
+}

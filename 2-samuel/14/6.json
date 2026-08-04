@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et ta servante ⟨avait⟩ deux fils, et ils se sont battus tous deux dans la campagne, et il n'y avait ⟨rien⟩ pour les délivrer entre eux, et l'un ⟨a⟩ frappé ⟨את⟩ l'autre et l'a mis à mort.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "Et ta servante"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fils"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "et ils se sont battus"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tous deux"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans la campagne"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y avait"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pour délivrer"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "entre eux"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et a frappé"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'autre"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'autre"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et l'a mis à mort"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T13:11:12.495202441Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et Abram dit : Voici, à moi tu n'as pas donné de semence, et voici, ⟨את⟩ le fils de ma maison est mon héritier.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu n'as pas"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "donné"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semence"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "de ma maison"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "⟨est héritier⟩"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "le fils de ma maison est mon héritier"
+    }
+  ],
+  "timestamp": "2026-08-04T05:19:46.149327254Z",
+  "model": "glm-4.5"
+}

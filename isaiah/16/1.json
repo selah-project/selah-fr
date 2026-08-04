@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Envoyez ⟨un⟩ bélier ⟨au⟩ gouverneur de ⟨la⟩ terre, depuis Sela, depuis le désert, vers la montagne de ⟨la⟩ fille de Sion.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Envoyez"
+    },
+    {
+      "surface": "כר",
+      "gloss": "bélier"
+    },
+    {
+      "surface": "משל",
+      "gloss": "gouverneur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "désert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הר",
+      "gloss": "montagne"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-08-04T15:05:06.325120175Z",
+  "model": "glm-4.5"
+}

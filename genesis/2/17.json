@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et de l'arbre de la connaissance du bon et du mauvais, tu n'en mangeras pas ; car, au jour où tu en mangeras, mourir tu mourras.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "et de l'arbre"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "de la connaissance"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "du bon"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "et du mauvais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangeras"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "où tu en mangeras"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "en"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mourir"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "tu mourras"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:31.866429163Z",
+  "model": "glm-4.5"
+}

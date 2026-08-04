@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Il n'y avait ⟨rien⟩ dans ⟨l'arche⟩ sinon les deux tablettes ⟨de pierre⟩ que Moïse avait déposées là, à Horeb, lorsque YHWH avait ⟨tranché⟩ une alliance avec les fils d'Israël à leur sortie du pays d'Égypte.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Il n'y avait ⟨rien⟩"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "dans ⟨l'arche⟩"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sinon"
+    },
+    {
+      "surface": "שני",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "tablettes"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "⟨de pierre⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "avait déposées"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "à Horeb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lorsque"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "avait ⟨tranché⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "à leur sortie de"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "le pays de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T13:41:49.179048896Z",
+  "model": "glm-4.5"
+}

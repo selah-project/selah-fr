@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Car je proclamerai le Nom de YHWH ; rendez la grandeur à notre Élohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le Nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je proclamerai"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "rendez"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "la grandeur"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "à notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T10:46:31.405563504Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et pour ⟨l'⟩entrée du Debir il fit des portes en bois d'olivier ; le linteau et les poteaux étaient ⟨un⟩ cinquième.",
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "et pour",
+      "marks": "l'entrée du Debir"
+    },
+    {
+      "surface": "פֶּתַח",
+      "gloss": "⟨l'⟩entrée"
+    },
+    {
+      "surface": "הַדְּבִיר",
+      "gloss": "du Debir"
+    },
+    {
+      "surface": "עָשָׂה",
+      "gloss": "il fit"
+    },
+    {
+      "surface": "דַּלְת֣וֹת",
+      "gloss": "des portes"
+    },
+    {
+      "surface": "עֲצֵי",
+      "gloss": "en bois"
+    },
+    {
+      "surface": "שָׁמֶן",
+      "gloss": "d'olivier"
+    },
+    {
+      "surface": "הָאַיִל",
+      "gloss": "le linteau"
+    },
+    {
+      "surface": "מְזוּז֖וֹת",
+      "gloss": "et les poteaux"
+    },
+    {
+      "surface": "חֲמִשִֽׁית",
+      "gloss": "⟨un⟩ cinquième"
+    }
+  ],
+  "timestamp": "2026-08-04T13:37:15.917086435Z",
+  "model": "glm-4.5"
+}

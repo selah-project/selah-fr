@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et ils répondirent à ⟨את⟩ Yoshoua en disant : Tout ce que tu nous as commandé, nous le ferons, et vers tout lieu où tu nous enverras, nous irons.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Et ils répondirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoshoua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yoshoua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "tu nous as commandé"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nous le ferons"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lieu où"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "tu nous enverras"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "nous irons"
+    }
+  ],
+  "timestamp": "2026-08-04T10:49:42.559569797Z",
+  "model": "glm-4.5"
+}

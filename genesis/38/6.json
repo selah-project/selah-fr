@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et Juda prit une femme pour Er son premier-né et son nom ⟨est⟩ Tamar",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "לער",
+      "gloss": "pour Er"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "son premier-né"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "et son nom"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    }
+  ],
+  "timestamp": "2026-08-04T05:50:07.192547237Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et quand vous ⟨êtes⟩ à la moisson de ⟨votre⟩ terre, vous ne finirez pas de moissonner le coin de ⟨votre⟩ champ, et la glanure de ⟨votre⟩ moisson, vous ne la glanerez pas",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Et quand vous ⟨êtes⟩ à la moisson"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moisson"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "de la moisson"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "de ⟨votre⟩ terre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "finirez pas"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "le coin"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "de ⟨votre⟩ champ"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "de moissonner"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "et la glanure"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "de ⟨votre⟩ moisson"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne la"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "glanerez pas"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:07.184848328Z",
+  "model": "glm-4.5"
+}

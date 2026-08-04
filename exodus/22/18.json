@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Tout couchant avec une bête, ⟨il⟩ sera mis à mort.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "couchant"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "une bête"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mis à mort"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sera"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:04.512719803Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et vous avez dénombré ⟨את⟩ les maisons de Jérusalem, et vous avez démoli ⟨les⟩ maisons pour fortifier ⟨la⟩ muraille",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩"
+    },
+    {
+      "surface": "בָּתֵּ֥י",
+      "gloss": "les maisons"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ֖ם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "סְפַרְתֶּ֑ם",
+      "gloss": "et vous avez dénombré"
+    },
+    {
+      "surface": "וַתִּתְֿצוּ֙",
+      "gloss": "et vous avez démoli"
+    },
+    {
+      "surface": "הַבָּ֣תִּ֔ים",
+      "gloss": "⟨les⟩ maisons"
+    },
+    {
+      "surface": "לְבַצֵּ֖ר",
+      "gloss": "pour fortifier"
+    },
+    {
+      "surface": "הַחוֹמָֽה",
+      "gloss": "⟨la⟩ muraille"
+    }
+  ],
+  "timestamp": "2026-08-04T15:16:09.256631866Z",
+  "model": "glm-4.5"
+}

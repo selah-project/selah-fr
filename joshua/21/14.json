@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et ⟨את⟩ Jattir et ⟨את⟩ son territoire et ⟨את⟩ Eshtemoa et ⟨את⟩ son territoire",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Jattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son territoire"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "son territoire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son territoire"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "son territoire"
+    }
+  ],
+  "timestamp": "2026-08-04T11:24:05.532259617Z",
+  "model": "glm-4.5"
+}

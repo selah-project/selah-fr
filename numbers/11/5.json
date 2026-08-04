@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Nous nous souvenons ⟨du⟩ poisson que nous mangions en Égypte, ⟨pour rien⟩, des concombres, et des melons, et des poireaux, et des oignons, et de l'ail :",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Nous nous souvenons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨du⟩",
+      "marks": "le poisson"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "le poisson"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nous mangions"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "⟨pour rien⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les concombres"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "les concombres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les melons"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "les melons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les poireaux"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "les poireaux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les oignons"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "les oignons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'ail"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "l'ail"
+    }
+  ],
+  "timestamp": "2026-08-04T08:47:38.791553699Z",
+  "model": "glm-4.5"
+}

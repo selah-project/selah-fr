@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et Shaul vit ⟨את⟩ le camp des Philistins, et il vit, et son cœur trembla beaucoup",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le camp des Philistins"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "le camp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et il vit"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "et son cœur trembla"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beaucoup"
+    }
+  ],
+  "timestamp": "2026-08-04T12:47:40.337462908Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et le prêtre sortira vers ⟨l'extérieur⟩ du camp, et le prêtre verra, et voici, a été guérie ⟨la⟩ plaie de la lèpre de ⟨celui qui a⟩ la lèpre",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "et sortira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "l'extérieur"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "du camp"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et verra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "a été guérie"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "de la lèpre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "celui qui a la lèpre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:49:58.101407158Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Moïse dit : Je me détournerai donc, et je verrai ⟨את⟩ cette grande vision, pourquoi le buisson ne brûle pas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "je me détournerai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "et je verrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette grande vision"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "la vision"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "la grande"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "brûle"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "le buisson"
+    }
+  ],
+  "timestamp": "2026-08-04T06:14:34.331999453Z",
+  "model": "glm-4.5"
+}

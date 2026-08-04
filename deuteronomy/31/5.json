@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et YHWH les mettra devant vous et vous ferez ⟨pour⟩ eux selon toute la mitzvah que je vous ai commandée",
+  "tokens": [
+    {
+      "surface": "וּנְתָנָם",
+      "gloss": "Et ⟨il⟩ mettra"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לִפְנֵיכֶם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "וַעֲשִׂיתֶם",
+      "gloss": "et vous ferez"
+    },
+    {
+      "surface": "לָהֶם",
+      "gloss": "⟨pour⟩ eux"
+    },
+    {
+      "surface": "כְּכָל",
+      "gloss": "selon toute"
+    },
+    {
+      "surface": "הַמִּצְוָה",
+      "gloss": "la mitzvah"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צִוִּיתִי",
+      "gloss": "j'ai commandée"
+    },
+    {
+      "surface": "אֶתְכֶֽם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:42:53.895594301Z",
+  "model": "glm-4.5"
+}

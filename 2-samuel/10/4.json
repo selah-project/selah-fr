@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Hanun prit ⟨את⟩ les serviteurs de David et rasa ⟨את⟩ la moitié de leur barbe et coupa ⟨את⟩ leurs vêtements par la moitié jusqu'aux fesses et les envoya",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les serviteurs"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "et rasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la moitié"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "la moitié"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "de leur barbe"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "et coupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs vêtements"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "leurs vêtements"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "par la moitié"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "leurs fesses"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "et les envoya"
+    }
+  ],
+  "timestamp": "2026-08-04T13:04:40.163154911Z",
+  "model": "glm-4.5"
+}

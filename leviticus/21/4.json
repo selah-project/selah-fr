@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Il ne se rendra pas impure ⟨la⟩ personne éminente parmi son peuple pour ⟨le⟩ profaner.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Il ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se rendra pas impure"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨la⟩ personne éminente"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "parmi son peuple"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "pour ⟨le⟩ profaner"
+    }
+  ],
+  "timestamp": "2026-08-04T08:06:26.822666387Z",
+  "model": "glm-4.5"
+}

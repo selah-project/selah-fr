@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Et il dit : même maintenant, selon vos paroles, il en ⟨est⟩ ainsi : celui chez qui ⟨le⟩ se trouvera sera mon serviteur, et vous, vous serez innocents.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "selon vos paroles"
+    },
+    {
+      "surface": "כן",
+      "gloss": "il en est ainsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celui que"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "se trouvera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "la coupe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mon"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "serviteur"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "et vous"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "vous serez"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "innocents"
+    }
+  ],
+  "timestamp": "2026-08-04T05:59:43.690501595Z",
+  "model": "glm-4.5"
+}

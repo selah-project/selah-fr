@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Un homme ⟨d'entre⟩ vous poursuivra mille, car YHWH votre Élohim, lui, ⟨est⟩ celui qui combat pour vous, comme il a parlé pour vous.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "⟨d'entre⟩ vous"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "poursuivra"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "celui qui combat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T11:29:39.728698921Z",
+  "model": "glm-4.5"
+}

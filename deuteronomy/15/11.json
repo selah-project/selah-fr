@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Car le pauvre ne cessera point ⟨du⟩ milieu du pays ; à cause de cela, je te commande, en disant : Ouvre, tu ouvriras ⟨את⟩ ta main vers ton frère, vers ton affligé et vers ton pauvre dans ton pays.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... point"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "cessera"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "le pauvre"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "⟨du⟩ milieu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "te commande"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Ouvre"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "tu ouvriras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "vers ton frère"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "vers ton affligé"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "et vers ton pauvre"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "dans ton pays"
+    }
+  ],
+  "timestamp": "2026-08-04T10:18:35.655754913Z",
+  "model": "glm-4.5"
+}

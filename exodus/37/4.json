@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et il fit les barres des bois de shittim et il plaqua ⟨את⟩-les d'or",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "les barres"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "des bois"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "de shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "et il plaqua"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les barres"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    }
+  ],
+  "timestamp": "2026-08-04T07:17:09.968820136Z",
+  "model": "glm-4.5"
+}

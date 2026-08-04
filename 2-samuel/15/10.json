@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et Absalom envoya des émissaires dans toutes les tribus d'Israël, disant : lorsque vous entendrez ⟨את⟩ le son du shophar, vous direz : Absalom règne à Hébron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "des émissaires"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toutes"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "les tribus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "lorsque vous entendrez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le son du shophar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "le son"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "du shophar"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "vous direz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "règne"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "à Hébron"
+    }
+  ],
+  "timestamp": "2026-08-04T13:13:11.371834369Z",
+  "model": "glm-4.5"
+}

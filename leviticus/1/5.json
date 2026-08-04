@@ -1,0 +1,104 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et il égorgera ⟨את⟩ le fils du bétail devant YHWH, et les fils d'Aaron, les cohanim, feront approcher ⟨את⟩ le sang et projeteront ⟨את⟩ le sang sur l'autel, tout autour, à l'entrée de ⟨את⟩ la tente d'assignation",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "et il égorgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le fils du bétail"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "du bétail"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "et feront approcher"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les cohanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "et projeteront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est à"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:25:25.675005088Z",
+  "model": "glm-4.5"
+}

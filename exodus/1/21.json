@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il advint, parce que les sages-femmes craignirent Élohim, qu'il fit pour elles des maisons.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "כי",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "craignirent"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "les sages-femmes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "qu'il fit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour elles"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "des maisons"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:44.714390130Z",
+  "model": "glm-4.5"
+}

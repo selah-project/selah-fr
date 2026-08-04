@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Tu n'égorgeras point sur du levain le sang de mon sacrifice, et le sacrifice de la fête de la Pâque ne passera point la nuit jusqu'au matin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu n'... point"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "égorgeras"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "du levain"
+    },
+    {
+      "surface": "דם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "de mon sacrifice"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... point"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "passera la nuit"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "jusqu'au matin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "le sacrifice"
+    },
+    {
+      "surface": "חג",
+      "gloss": "de la fête"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "de la Pâque"
+    }
+  ],
+  "timestamp": "2026-08-04T07:09:35.456687944Z",
+  "model": "glm-4.5"
+}

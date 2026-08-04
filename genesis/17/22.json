@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et ⟨il⟩ acheva de parler avec lui, et Élohim monta au-dessus d'Abraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Et ⟨il⟩ acheva"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "de parler"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "et monta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "au-dessus de"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    }
+  ],
+  "timestamp": "2026-08-04T05:21:30.231709440Z",
+  "model": "glm-4.5"
+}

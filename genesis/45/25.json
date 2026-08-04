@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Et ils montèrent ⟨de⟩ ⟨l'⟩Égypte et ils vinrent ⟨au⟩ pays de Canaan ⟨vers⟩ Jacob leur père",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Et ils montèrent"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "⟨de⟩ ⟨l'⟩Égypte"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et ils vinrent"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨au⟩ pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "leur père"
+    }
+  ],
+  "timestamp": "2026-08-04T06:01:44.097333577Z",
+  "model": "glm-4.5"
+}

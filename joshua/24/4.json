@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et je donnai à Isaac ⟨את⟩ Jacob et ⟨את⟩ Ésaü, et je donnai à Ésaü ⟨את⟩ la montagne de Séïr pour la posséder, mais Jacob et ses fils descendirent en Égypte.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "et je donnai"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "à Isaac"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jacob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ésaü"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "et je donnai"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "à Ésaü"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la montagne"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de Séïr"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "pour la posséder"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "la",
+      "marks": "Jacob"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mais Jacob"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "descendirent"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "en Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:25.345375721Z",
+  "model": "glm-4.5"
+}

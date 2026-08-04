@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et de la pauvre ⟨du⟩ pays il laissa des vignerons et des laboureurs",
+  "tokens": [
+    {
+      "surface": "וּמִדַּלַּ֣ת",
+      "gloss": "et de la"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "pays"
+    },
+    {
+      "surface": "הִשְׁאִ֖יר",
+      "gloss": "il laissa"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "des"
+    },
+    {
+      "surface": "טַבָּחִ֑ים",
+      "gloss": "vignerons"
+    },
+    {
+      "surface": "לְכֹֽרְמִ֖ים",
+      "gloss": "et des"
+    },
+    {
+      "surface": "וּלְיֹגְבִֽים",
+      "gloss": "laboureurs"
+    }
+  ],
+  "timestamp": "2026-08-04T14:46:57.989625274Z",
+  "model": "glm-4.5"
+}

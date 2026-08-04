@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et j'entendis ⟨את⟩ la voix d'Adonaï disant : ⟨את⟩ qui enverrai-je, et qui ira pour nous ? Et je dis : Me voici, envoie-moi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Et j'entendis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voix"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "d'Adonaï"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "envoi-je"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Me voici"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "envoie-moi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:53:24.533160103Z",
+  "model": "glm-4.5"
+}

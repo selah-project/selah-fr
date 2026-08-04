@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il écrivit là sur les pierres ⟨את⟩ une copie de la Torah de Moshé, laquelle il avait écrite devant les fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Et il écrivit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "les pierres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "une copie de la Torah de Moshé"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "une copie"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "de la Torah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "laquelle"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "il avait écrite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T11:00:31.367676820Z",
+  "model": "glm-4.5"
+}

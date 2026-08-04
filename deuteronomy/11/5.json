@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ce qu'il a fait ⟨pour⟩ vous dans ⟨le⟩ désert, jusqu'à votre venue jusqu'à ⟨ce⟩ lieu-ci",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "et ce qu'"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a fait"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨pour⟩ vous"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans ⟨le⟩ désert"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "votre venue"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨ce⟩ lieu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T10:12:40.932723480Z",
+  "model": "glm-4.5"
+}

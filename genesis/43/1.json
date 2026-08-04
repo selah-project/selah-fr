@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Et la famine ⟨était⟩ sévère dans le pays",
+  "tokens": [
+    {
+      "surface": "וְהָרָעָ֖ב",
+      "gloss": "Et la famine"
+    },
+    {
+      "surface": "כָּבֵ֥ד",
+      "gloss": "sévère"
+    },
+    {
+      "surface": "בָּאָֽרֶץ",
+      "gloss": "dans le pays"
+    }
+  ],
+  "timestamp": "2026-08-04T05:57:25.824794305Z",
+  "model": "glm-4.5"
+}

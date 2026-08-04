@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Il ploie le genou, il se couche comme un lion, et comme une lionne ; qui le fera lever ? ⟨Ceux⟩ qui te bénissent sont bénis, et ⟨ceux⟩ qui te maudissent sont maudits.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Il ploie le genou"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "il se couche"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "comme un lion"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "et comme une lionne"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "le fera lever"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "⟨Ceux⟩ qui te bénissent"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "sont bénis"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "et ⟨ceux⟩ qui te maudissent"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "sont maudits"
+    }
+  ],
+  "timestamp": "2026-08-04T09:20:10.531858319Z",
+  "model": "glm-4.5"
+}

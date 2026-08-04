@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "et ⟨את⟩ tout le gras de lui il fera approcher de lui-même ⟨את⟩ la queue grasse et ⟨את⟩ le gras qui couvre ⟨את⟩ les entrailles",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout le gras de lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "le gras de lui"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "il fera approcher"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui-même"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la queue grasse"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "la queue grasse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le gras"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "le gras"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "qui couvre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les entrailles"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "les entrailles"
+    }
+  ],
+  "timestamp": "2026-08-04T07:34:36.387863778Z",
+  "model": "glm-4.5"
+}

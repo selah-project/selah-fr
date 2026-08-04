@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et Noah ⟨est⟩ fils de six cents ans, et ⟨le⟩ déluge ⟨était⟩ des eaux sur ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Et Noah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "et ⟨le⟩ déluge"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨était⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:06:15.194402097Z",
+  "model": "glm-4.5"
+}

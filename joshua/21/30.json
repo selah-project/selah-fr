@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et de la tribu d'Aser ⟨את⟩ Mishal et ⟨את⟩ son territoire ⟨את⟩ Abdon et ⟨את⟩ son territoire",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "et de la tribu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "d'Aser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son territoire"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "son territoire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son territoire"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "son territoire"
+    }
+  ],
+  "timestamp": "2026-08-04T11:24:07.784366906Z",
+  "model": "glm-4.5"
+}

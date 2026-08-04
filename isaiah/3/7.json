@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Il élèvera en ce jour là pour dire : je ne serai pas un panseur et dans ma maison il n'y a ni pain ni vêtement ne me faites pas chef ⟨du⟩ peuple",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "élèvera"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "là"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "serai"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "panseur"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "et dans ma maison"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pain"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "vêtement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "me faites"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "chef"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨du⟩ peuple",
+      "marks": "du peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:59.406011355Z",
+  "model": "glm-4.5"
+}

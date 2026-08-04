@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et si il y a dans un homme un péché ⟨digne⟩ de jugement de mort et qu'il soit mis à mort, et que tu le pendent ⟨את⟩ sur un arbre",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "dans un homme"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "un péché"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨digne⟩ de jugement"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de mort"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "et qu'il soit mis à mort"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "et que tu le pendent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui (le corps)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "un arbre"
+    }
+  ],
+  "timestamp": "2026-08-04T10:25:30.771598326Z",
+  "model": "glm-4.5"
+}

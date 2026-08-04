@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "œil pour œil, dent pour dent, main pour main, pied pour pied",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dent"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dent"
+    },
+    {
+      "surface": "יד",
+      "gloss": "main"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "יד",
+      "gloss": "main"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pied"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pied"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:00.043793643Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Mes shabbats vous ⟨garderez⟩ et mon sanctuaire vous ⟨craindrez⟩ ; je ⟨suis⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes shabbats"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mes shabbats"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "vous ⟨garderez⟩"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "et mon sanctuaire"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vous ⟨craindrez⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je ⟨suis⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:35.685666362Z",
+  "model": "glm-4.5"
+}

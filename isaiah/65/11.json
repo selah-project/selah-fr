@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Et vous, délaisseurs de YHWH, oublieux de ma montagne sainte, disposant ⟨une⟩ table pour Gad et remplissant ⟨une⟩ mixture pour Meni",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Et vous"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "délaisseurs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "oublieux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma montagne sainte"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ma montagne"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sainte"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "disposant"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "pour Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "table"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "et remplissant"
+    },
+    {
+      "surface": "למני",
+      "gloss": "pour Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "mixture"
+    }
+  ],
+  "timestamp": "2026-08-04T16:00:15.631631895Z",
+  "model": "glm-4.5"
+}

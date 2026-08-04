@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Je demeurerai au milieu des fils d'Israël, et Je n'abandonnerai pas ⟨את⟩ mon peuple Israël.",
+  "tokens": [
+    {
+      "surface": "וְשָׁ֣כַנְתִּ֔י",
+      "gloss": "Et Je demeurerai"
+    },
+    {
+      "surface": "בְּת֖וֹךְ",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "et Je ne"
+    },
+    {
+      "surface": "אֶעֱזֹ֖ב",
+      "gloss": "abandonnerai pas"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mon peuple Israël"
+    },
+    {
+      "surface": "עַמִּ֥י",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T13:36:38.987280187Z",
+  "model": "glm-4.5"
+}

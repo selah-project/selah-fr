@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et il fit ⟨את⟩ l'huile de l'onction sainte, et ⟨את⟩ l'encens des aromates pur, ouvrage de parfumeur",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'huile de l'onction sainte"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "l'huile"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de l'onction"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sainte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'encens des aromates"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "l'encens"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "des aromates"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ouvrage"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "de parfumeur"
+    }
+  ],
+  "timestamp": "2026-08-04T07:17:52.281245975Z",
+  "model": "glm-4.5"
+}

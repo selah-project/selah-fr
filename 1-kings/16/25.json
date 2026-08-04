@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Omri fit ⟨le⟩ mal aux yeux de YHWH, et ⟨il⟩ agit plus mal que tous ⟨ceux⟩ qui furent avant lui.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "et ⟨il⟩ agit plus mal"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "que tous"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ceux⟩ qui"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "furent avant lui"
+    }
+  ],
+  "timestamp": "2026-08-04T13:55:39.688249783Z",
+  "model": "glm-4.5"
+}

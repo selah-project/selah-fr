@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et les Madianites le vendirent ⟨את⟩ en Égypte à Potiphar, eunuque de Pharaon, chef des bouchers.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "Et les Madianites"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "vendirent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Égypte"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "à Potiphar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunuque"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chef"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "des bouchers"
+    }
+  ],
+  "timestamp": "2026-08-04T05:49:49.327032110Z",
+  "model": "glm-4.5"
+}

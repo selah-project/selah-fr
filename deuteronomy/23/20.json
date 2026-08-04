@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Tu ne prêteras pas à intérêt à ton frère : intérêt d'argent, intérêt de nourriture, intérêt de toute chose ⟨qui⟩ se prête à intérêt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "prêteras pas"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "à ton frère"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "intérêt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "intérêt"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "de nourriture"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "intérêt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "se prête à intérêt"
+    }
+  ],
+  "timestamp": "2026-08-04T10:29:56.545941970Z",
+  "model": "glm-4.5"
+}

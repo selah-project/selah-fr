@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "la table et toute sa vaisselle, et ⟨את⟩ le pain de la Présence",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": ""
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la table"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute sa vaisselle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sa vaisselle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le pain de la Présence"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "de la Présence"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:01.395836009Z",
+  "model": "glm-4.5"
+}

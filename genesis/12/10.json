@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il y eut une famine dans ⟨le⟩ pays, et Abram descendit en Égypte pour séjourner là, car la famine était lourde dans ⟨le⟩ pays",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il y eut"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "une famine"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "et Abram descendit"
+    },
+    {
+      "surface": "אברם",
+      "gloss": ""
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "pour séjourner"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "était lourde"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "la famine"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:36.306627197Z",
+  "model": "glm-4.5"
+}

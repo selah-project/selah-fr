@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et le prêtre verra ⟨את⟩ la plaie et enfermera ⟨את⟩ la plaie sept jours",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Et verra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la plaie"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "et enfermera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la plaie"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    }
+  ],
+  "timestamp": "2026-08-04T07:46:51.109071488Z",
+  "model": "glm-4.5"
+}

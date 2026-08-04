@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et le Philistin regarda et vit ⟨את⟩ David et le méprisa car il était un jeune homme et roux avec un bel aspect",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "Et regarda"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "le Philistin"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "et le méprisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "היה",
+      "gloss": "il était"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un jeune homme"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "et roux"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bel"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "aspect"
+    }
+  ],
+  "timestamp": "2026-08-04T12:31:47.903716656Z",
+  "model": "glm-4.5"
+}

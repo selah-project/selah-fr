@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et si ⟨un⟩ homme sort de lui une émission de sperme, et qu'il lave dans l'eau ⟨את⟩ toute sa chair, il sera impur jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et si ⟨un⟩ homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sort"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "émission"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "de sperme"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "et qu'il lave"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute sa chair"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "il sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    }
+  ],
+  "timestamp": "2026-08-04T07:54:19.087865587Z",
+  "model": "glm-4.5"
+}

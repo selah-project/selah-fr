@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et si elle ne ⟨fait⟩ pas la paix avec toi, et ⟨qu'elle⟩ fasse la guerre avec toi, alors tu ⟨la⟩ assiègeras.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "⟨fait⟩ la paix"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "et ⟨qu'elle⟩ fasse"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "la guerre"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "alors tu ⟨la⟩ assiègeras"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contre elle"
+    }
+  ],
+  "timestamp": "2026-08-04T10:23:59.007513237Z",
+  "model": "glm-4.5"
+}

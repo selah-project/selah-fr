@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et la parole d'Abner fut avec les anciens d'Israël pour dire : déjà hier, déjà avant-hier, vous étiez ⟨en train de⟩ chercher ⟨את⟩ David pour ⟨qu'il soit⟩ roi sur vous.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "Et la parole de"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "היה",
+      "gloss": "fut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "גם",
+      "gloss": "déjà"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "hier"
+    },
+    {
+      "surface": "גם",
+      "gloss": "déjà"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "avant-hier"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "vous étiez"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "cherchant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pour roi \/ qu'il soit roi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sur vous"
+    }
+  ],
+  "timestamp": "2026-08-04T12:54:47.851053787Z",
+  "model": "glm-4.5"
+}

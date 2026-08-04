@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et Noa'h fit selon tout ce que YHWH lui avait commandé.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa'h"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "YHWH lui avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T05:06:24.536704139Z",
+  "model": "glm-4.5"
+}

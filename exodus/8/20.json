@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et YHWH fit ainsi et vint ⟨un⟩ arôb ⟨lourd⟩ dans la maison de Pharaon et dans la maison de ses serviteurs et dans toute la terre d'Égypte la terre se détruisait devant l'arôb",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et vint"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "arôb"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lourd"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "dans la maison de"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "et dans la maison de"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "et dans toute"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terre de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Égypte"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "se détruisait"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "l'arôb"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:09.094858005Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "numbers 15:32",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Or les fils d'Israël étaient dans le désert, et ils trouvèrent un homme qui ramassait du bois le jour ⟨du⟩ shabbat.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Or étaient"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "et ils trouvèrent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "qui ramassait"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "du bois"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨du⟩ shabbat"
+    }
+  ],
+  "timestamp": "2026-08-04T08:57:38.230742177Z",
+  "model": "glm-4.5"
+}

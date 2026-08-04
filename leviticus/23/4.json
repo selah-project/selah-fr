@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Ceux-ci ⟨sont⟩ les rendez-vous de YHWH, des convocations saintes, que vous proclamerez ⟨את⟩ dans leur temps.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ceux-ci"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "les rendez-vous de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "des convocations"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "saintes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "vous proclamerez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dans leur temps"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "dans leur temps"
+    }
+  ],
+  "timestamp": "2026-08-04T08:11:44.218467889Z",
+  "model": "glm-4.5"
+}

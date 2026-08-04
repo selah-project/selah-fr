@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et vers ⟨la⟩ femme de ton compagnon, tu ne donneras pas ta couchar pour ⟨la⟩ semence, pour te souiller en elle.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Et vers"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨la⟩ femme"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "de ton compagnon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne donneras pas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tu ne donneras pas"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ta couchar"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "pour ⟨la⟩ semence"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "pour te souiller"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    }
+  ],
+  "timestamp": "2026-08-04T08:01:29.473634696Z",
+  "model": "glm-4.5"
+}

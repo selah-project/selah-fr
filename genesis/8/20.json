@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Noa bâtit un autel ⟨à⟩ YHWH et prit de tout le bétail pur et de tout ⟨le⟩ volatile pur et fit monter des olot sur l'autel",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Et bâtit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un autel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨à⟩ YHWH"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "le bétail"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "pur"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "et de tout"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "⟨le⟩ volatile"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "pur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "et fit monter"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "des olot"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sur l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:24.055054419Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Carré il sera ⟨est⟩ doublé ⟨d⟩une empan ⟨est⟩ sa longueur et ⟨d⟩une empan sa largeur",
+  "tokens": [
+    {
+      "surface": "רָב֥וּעַ",
+      "gloss": "carré"
+    },
+    {
+      "surface": "יִֽהְיֶ֖ה",
+      "gloss": "il sera"
+    },
+    {
+      "surface": "כָּפ֑וּל",
+      "gloss": "doublé"
+    },
+    {
+      "surface": "זֶ֥רֶת",
+      "gloss": "empan"
+    },
+    {
+      "surface": "אָרְכּ֖וֹ",
+      "gloss": "sa longueur"
+    },
+    {
+      "surface": "וְזֶ֥רֶת",
+      "gloss": "et empan"
+    },
+    {
+      "surface": "רָחְבּֽוֹ",
+      "gloss": "sa largeur"
+    }
+  ],
+  "timestamp": "2026-08-04T06:55:05.422081621Z",
+  "model": "glm-4.5"
+}

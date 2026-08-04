@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et elle lui dit : fille de Bethouel, je suis, fils de Milcah, qu'elle ⟨a⟩ enfanté pour Nahor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Et elle dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille de"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Bethouel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milcah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "elle ⟨a⟩ enfanté"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "pour Nahor"
+    }
+  ],
+  "timestamp": "2026-08-04T05:30:09.029497162Z",
+  "model": "glm-4.5"
+}

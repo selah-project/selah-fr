@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et YHWH donna à Israël ⟨את⟩ toute la terre ⟨qu'⟩Il avait juré de donner à leurs pères ; et ils la possédèrent, et y habitèrent.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et donna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "à Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la terre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qu'⟩"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "Il avait juré"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "de donner"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "à leurs pères"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "et ils la possédèrent"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "et y habitèrent"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨y⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T11:25:08.235097883Z",
+  "model": "glm-4.5"
+}

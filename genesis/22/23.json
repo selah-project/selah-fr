@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et Bethuel engendra ⟨את⟩ Rivqa : ces huit Milca enfanta à Nahor, le frère d’Abraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "et Bethuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivqa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivqa"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ces huit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "-"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "enfanta"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milca"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "à Nahor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "le frère"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "d’Abraham"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:12.929084002Z",
+  "model": "glm-4.5"
+}

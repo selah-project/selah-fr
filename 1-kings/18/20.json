@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Achab envoya ⟨par⟩ tous les fils d'Israël et il rassembla ⟨את⟩ les prophètes sur la montagne du Carmel",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "et il envoya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨par⟩ tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "et il rassembla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les prophètes"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "les prophètes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "du Carmel"
+    }
+  ],
+  "timestamp": "2026-08-04T13:58:09.211378122Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Alors David et le peuple qui était avec lui élevèrent ⟨את⟩ leur voix et pleurèrent, jusqu'à ce qu'il n'y eût plus en eux de force pour pleurer.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "élevèrent"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "et le peuple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur voix"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "leur voix"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "et pleurèrent"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[pas de correspondance directe]"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y eût"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en eux"
+    },
+    {
+      "surface": "כח",
+      "gloss": "de force"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "pour pleurer"
+    }
+  ],
+  "timestamp": "2026-08-04T12:50:04.913763875Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "S'il prend pour lui une autre, sa nourriture, son vêtement et son droit conjugal, il ne les ⟨diminuera⟩ pas.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "une autre"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prend"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "sa nourriture"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "son vêtement"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "et son droit conjugal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "les ⟨diminuera⟩ pas"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:14.738526660Z",
+  "model": "glm-4.5"
+}

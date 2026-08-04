@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et YHWH parla à Moshe : Descends, car ton peuple ⟨a⟩ corrompu ⟨celui⟩ que tu as fait monter du pays d'Égypte.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Descends"
+    },
+    {
+      "surface": "רד",
+      "gloss": "⟨descends⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "a corrompu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨celui⟩"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "que tu as fait monter"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T07:06:23.451144104Z",
+  "model": "glm-4.5"
+}

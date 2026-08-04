@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et ils entendirent ⟨à⟩ son sujet, les habitants de Yabesh de Guiléad, ⟨את⟩ ce que les Philistins avaient fait à Shaül",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Et ils entendirent"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨à⟩ son sujet"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "de Yabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "de Guiléad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que les Philistins avaient fait à Shaül"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "avaient fait"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "à Shaül"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:06.000752511Z",
+  "model": "glm-4.5"
+}

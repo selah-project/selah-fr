@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et l'argent de ⟨ceux⟩ recensés de ⟨la⟩ congrégation ⟨était⟩ cent talents et mille et sept cents et soixante-dix-cinq sicles, ⟨au⟩ sicle du sanctuaire",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "Et l'argent"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "de ⟨ceux⟩ recensés"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "de ⟨la⟩ congrégation"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "cent"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talents"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "et mille"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "et sept"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "et soixante"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "et quinze"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sicles"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨au⟩ sicle"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "du sanctuaire"
+    }
+  ],
+  "timestamp": "2026-08-04T07:19:49.079823699Z",
+  "model": "glm-4.5"
+}

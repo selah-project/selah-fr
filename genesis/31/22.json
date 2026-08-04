@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et ⟨il fut⟩ rapporté à Laban, au jour ⟨le⟩ troisième, que Jacob s'était enfui.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Et ⟨il fut⟩ rapporté"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "à Laban"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨le⟩ troisième"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "s'était enfui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:25.009421322Z",
+  "model": "glm-4.5"
+}

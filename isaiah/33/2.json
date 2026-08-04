@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "YHWH, fais-nous grâce, vers toi nous avons espéré, sois ⟨leur⟩ bras chaque matin, notre salut aussi au temps de la détresse.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "fais-nous grâce"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "nous avons espéré"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sois"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "leur bras"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "chaque matin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "notre salut"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "au temps"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "de la détresse"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:30.914223347Z",
+  "model": "glm-4.5"
+}

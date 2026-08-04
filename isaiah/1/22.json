@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Ton argent ⟨est⟩ devenu du scorie, ton breuvage ⟨est⟩ dilué avec de l'eau.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "ton argent"
+    },
+    {
+      "surface": "היה",
+      "gloss": "est devenu"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "⟨en⟩ du scorie"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "ton breuvage"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "⟨est⟩ dilué"
+    },
+    {
+      "surface": "במים",
+      "gloss": "avec de l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:52.811564312Z",
+  "model": "glm-4.5"
+}

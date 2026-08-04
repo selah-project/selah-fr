@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et nous avons crié vers YHWH, l'Élohim de nos pères ; et YHWH a entendu ⟨את⟩ notre voix, et a vu ⟨את⟩ notre misère, et ⟨את⟩ notre labeur, et ⟨את⟩ notre oppression",
+  "tokens": [
+    {
+      "surface": "וַנִּצְעַק",
+      "gloss": "et nous avons crié"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "אֲבֹתֵינוּ",
+      "gloss": "de nos pères"
+    },
+    {
+      "surface": "וַיִּשְׁמַע",
+      "gloss": "et a entendu"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "notre voix"
+    },
+    {
+      "surface": "קֹלֵנוּ",
+      "gloss": "notre voix"
+    },
+    {
+      "surface": "וַיַּרְא",
+      "gloss": "et a vu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "notre misère"
+    },
+    {
+      "surface": "עָנְיֵנוּ",
+      "gloss": "notre misère"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "notre labeur"
+    },
+    {
+      "surface": "עֲמָלֵנוּ",
+      "gloss": "notre labeur"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "notre oppression"
+    },
+    {
+      "surface": "לַחֲצֵנוּ",
+      "gloss": "notre oppression"
+    }
+  ],
+  "timestamp": "2026-08-04T10:34:36.266049389Z",
+  "model": "glm-4.5"
+}

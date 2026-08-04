@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le roi répondit et dit : Donnez-lui ⟨את⟩ l'enfant ⟨le⟩ vivant, vous ne le ferez point mourir ; elle est sa mère.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Donnez"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'enfant le vivant"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "החי",
+      "gloss": "le vivant"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "et le mort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "[vous ne] point"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "le ferez mourir"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle est"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:41.464006233Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Parlez aux fils d'Israël, en disant : voici ⟨la⟩ créature vivante que vous mangerez de tout ⟨le⟩ bétail qui est sur ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Parlez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "voici"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "⟨la⟩ créature vivante"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "⟨le⟩ bétail"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "על",
+      "gloss": "est sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:40:26.150850505Z",
+  "model": "glm-4.5"
+}

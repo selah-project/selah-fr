@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il sortit un feu de devant YHWH et il dévora ⟨את⟩ eux et ils moururent devant YHWH",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֥צֵא",
+      "gloss": "Et il sortit"
+    },
+    {
+      "surface": "אֵ֛שׁ",
+      "gloss": "un feu"
+    },
+    {
+      "surface": "מִלִּפְנֵ֥י",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וַתֹּ֣אכַל",
+      "gloss": "et il dévora"
+    },
+    {
+      "surface": "אוֹתָ֑ם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "וַיָּמֻ֖תוּ",
+      "gloss": "et ils moururent"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:39:24.927135024Z",
+  "model": "glm-4.5"
+}

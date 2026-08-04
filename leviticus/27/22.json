@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et si ⟨il⟩ sanctifie ⟨את⟩ un champ de son acquisition, qui n'est pas d'un champ de sa possession, pour YHWH",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un champ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "un champ"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "de son acquisition"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "d'un champ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "de sa possession"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "sanctifie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:11.596876814Z",
+  "model": "glm-4.5"
+}

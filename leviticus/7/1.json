@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et ceci ⟨est⟩ la torah de l'offrande de délit : chose très sainte, il l'est.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la torah"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "de l'offrande de délit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sainte"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "très"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il l'est"
+    }
+  ],
+  "timestamp": "2026-08-04T07:34:30.436570819Z",
+  "model": "glm-4.5"
+}

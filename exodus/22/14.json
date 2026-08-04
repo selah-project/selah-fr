@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si son propriétaire ⟨est⟩ avec lui, il ne le ⟨fera⟩ pas bon ; si ⟨c'est⟩ un salarié, il est venu pour son salaire.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "son propriétaire"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne le"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fera pas bon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "un salarié"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "בא",
+      "gloss": "est venu"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "pour son salaire"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:59.847429681Z",
+  "model": "glm-4.5"
+}

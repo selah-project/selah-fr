@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et ce sera pour vous en garde jusqu'au quatorzième jour de ce mois-ci, et ⟨le⟩ massacreront ⟨את⟩ toute l'assemblée de la communauté d'Israël entre les deux soirs",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "et ce sera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "en garde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "et ⟨le⟩ massacreront"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'assemblée de la communauté d'Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "de la communauté"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "les deux soirs"
+    }
+  ],
+  "timestamp": "2026-08-04T06:27:33.067214811Z",
+  "model": "glm-4.5"
+}

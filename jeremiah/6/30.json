@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "De l'argent rejeté, on l'appellera pour eux, car YHWH a rejeté ⟨avec eux⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "rejeté"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "on l'appellera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "a rejeté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨avec eux⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T16:12:48.376960213Z",
+  "model": "glm-4.5"
+}

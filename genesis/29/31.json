@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et YHWH vit que Léa était haïe, et il ouvrit ⟨את⟩ son sein, et Rachel était stérile",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "était haïe"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Léa"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "et il ouvrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son sein"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "son sein"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "et Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "était stérile"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:52.365692685Z",
+  "model": "glm-4.5"
+}

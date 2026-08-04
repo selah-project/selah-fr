@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et tu feras approcher ⟨את⟩ le taureau devant la tente d'assignation, et Aaron et ses fils appuieront ⟨את⟩ leurs mains sur la tête du taureau",
+  "tokens": [
+    {
+      "surface": "וְהִקְרַבְתָּ֙",
+      "gloss": "et tu feras approcher"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "הַפָּ֔ר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "וְסָמַ֨ךְ",
+      "gloss": "et appuieront"
+    },
+    {
+      "surface": "אַהֲרֹ֧ן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "וּבָנָ֛יו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mains"
+    },
+    {
+      "surface": "יְדֵיהֶ֖ם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "רֹ֥אשׁ",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "הַפָּֽר",
+      "gloss": "du taureau"
+    }
+  ],
+  "timestamp": "2026-08-04T06:58:20.930493164Z",
+  "model": "glm-4.5"
+}

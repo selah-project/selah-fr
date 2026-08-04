@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et un pot-de-vin tu ne prendras pas car le pot-de-vin ⟨il⟩ aveugle ⟨les⟩ clairvoyants et ⟨il⟩ pervertit les paroles des justes",
+  "tokens": [
+    {
+      "surface": "וְשֹׁחַד",
+      "gloss": "Et un pot-de-vin"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "tu ne prendras pas"
+    },
+    {
+      "surface": "תִקָּ֑ח",
+      "gloss": "tu ne prendras pas"
+    },
+    {
+      "surface": "כִּ֤י",
+      "gloss": "car"
+    },
+    {
+      "surface": "הַשֹּׁ֨חַד֙",
+      "gloss": "le pot-de-vin"
+    },
+    {
+      "surface": "יְעַוֵּ֣ר",
+      "gloss": "⟨il⟩ aveugle"
+    },
+    {
+      "surface": "פִּקְחִ֔ים",
+      "gloss": "⟨les⟩ clairvoyants"
+    },
+    {
+      "surface": "וִֽיסַלֵּ֖ף",
+      "gloss": "et ⟨il⟩ pervertit"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "צַדִּיקִֽים",
+      "gloss": "des justes"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:59.598469869Z",
+  "model": "glm-4.5"
+}

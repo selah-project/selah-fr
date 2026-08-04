@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Tu ne livreras pas un serviteur à son maître, ⟨le⟩ serviteur qui s'est échappé ⟨vers⟩ toi de chez son maître.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne ... pas"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "livreras"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "un serviteur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "son maître"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "s'est échappé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨vers⟩ toi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de chez"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "son maître"
+    }
+  ],
+  "timestamp": "2026-08-04T10:28:30.605675084Z",
+  "model": "glm-4.5"
+}

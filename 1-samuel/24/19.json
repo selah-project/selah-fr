@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et tu as ⟨le⟩ fait savoir aujourd'hui ⟨את⟩ que tu as agi envers moi avec bienveillance, ⟨את⟩ que YHWH m'a livré dans ta main et que tu ne m'as pas tué.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Et"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "tu as fait savoir"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "que tu as agi envers moi avec bienveillance"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "tu as agi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "envers moi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "avec bienveillance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "que YHWH m'a livré dans ta main et que tu ne m'as pas tué"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "m'a livré"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "dans ta main"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et que ne"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "tu m'as pas tué"
+    }
+  ],
+  "timestamp": "2026-08-04T12:41:42.460847943Z",
+  "model": "glm-4.5"
+}

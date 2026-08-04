@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et le peuple répondit et dit : loin de nous ⟨d'⟩abandonner ⟨את⟩ YHWH pour servir des elohim autres",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "loin de nous"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨d'⟩"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "abandonner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pour servir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "des elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "autres"
+    }
+  ],
+  "timestamp": "2026-08-04T11:30:27.757859185Z",
+  "model": "glm-4.5"
+}

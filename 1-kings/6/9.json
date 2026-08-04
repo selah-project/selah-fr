@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il bâtit ⟨את⟩ la maison et l'acheva, et couvrit ⟨את⟩ la maison de poutres et de planches de cèdre",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Et il bâtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "et l'acheva"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "et couvrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "de poutres"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "et de planches"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "de cèdre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:36:39.675893549Z",
+  "model": "glm-4.5"
+}

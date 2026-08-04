@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et le roi d’Israël dit à Élisha, quand il vit ⟨את⟩ eux : frapperai-je, frapperai-je, mon père ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d’Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Élisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "quand il vit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "frapperai-je"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "frapperai-je"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    }
+  ],
+  "timestamp": "2026-08-04T14:14:49.909120657Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Achaz prit ⟨את⟩ l'argent et ⟨את⟩ l'or ⟨qui se trouvait⟩ dans la maison de YHWH et dans les trésors de la maison du roi, et l'envoya pour un cadeau au roi d'Assyrie.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'argent"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'or"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "l'or"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "⟨qui se trouvait⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "et dans les trésors"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et l'envoya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pour le roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assyrie"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "un cadeau \/ pot-de-vin"
+    }
+  ],
+  "timestamp": "2026-08-04T14:30:36.227251954Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "⟨את⟩ la récolte spontanée de ta moisson tu ne moissonneras pas, et ⟨את⟩ les raisins de ta vigne inculte tu ne vendangeras ; année de shabbaton, elle sera pour la terre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la récolte spontanée"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "la récolte spontanée"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "de ta moisson"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne … pas"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "tu moissonneras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les raisins"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "les raisins"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "de ta vigne inculte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne … pas"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "tu vendangeras"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "année"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "de shabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "elle sera"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pour la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:01.879241627Z",
+  "model": "glm-4.5"
+}

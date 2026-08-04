@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Écoute-moi, ⟨le⟩ Jacob et ⟨le⟩ Israël, mon appelé : moi, il est, moi, le premier, aussi moi, le dernier.",
+  "tokens": [
+    {
+      "surface": "שְׁמַע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יַֽעֲקֹ֔ב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "וְיִשְׂרָאֵ֖ל",
+      "gloss": "et Israël"
+    },
+    {
+      "surface": "מְקֹרָאִ֑י",
+      "gloss": "mon appelé"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "il est"
+    },
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "moi"
+    },
+    {
+      "surface": "רִאשׁ֔וֹן",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "אַ֖ף",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אַחֲרֽוֹן",
+      "gloss": "le dernier"
+    }
+  ],
+  "timestamp": "2026-08-04T15:44:07.770433678Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Aaron parla ⟨את⟩ toutes les paroles que YHWH avait dites à Moïse, et fit ⟨את⟩ les signes devant les yeux du peuple",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les paroles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "avait dites"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et fit"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "⟨את⟩",
+      "marks": "les signes"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "devant les yeux"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:17.931376017Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "On ne prendra pas en gage ⟨la meule⟩ ni ⟨son rouet⟩, car c'est la vie qu'il prendrait en gage.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "on ne"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "prendra pas en gage"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "⟨la meule⟩"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ni ⟨son rouet⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "prendrait en gage"
+    }
+  ],
+  "timestamp": "2026-08-04T10:30:39.254026746Z",
+  "model": "glm-4.5"
+}

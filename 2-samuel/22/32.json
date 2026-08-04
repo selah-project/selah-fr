@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car qui est El, hormis YHWH, et qui est un rocher, hormis notre Élohim ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "hormis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "צור",
+      "gloss": "un rocher"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "hormis"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:33.869714173Z",
+  "model": "glm-4.5"
+}

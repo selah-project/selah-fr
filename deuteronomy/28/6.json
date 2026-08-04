@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Béni ⟨es⟩-tu dans ton entrée, et béni ⟨es⟩-tu dans ta sortie",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "béni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "dans ton entrée"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "et béni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "dans ta sortie"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:00.116124055Z",
+  "model": "glm-4.5"
+}

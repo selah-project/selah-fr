@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "et quarante et une ans ⟨il⟩ régna à Jérusalem et le nom de sa mère Maaka fille d Avishalom",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "et quarante"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "et une"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨il⟩ régna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "et le nom"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sa mère"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "d Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:54:07.259036889Z",
+  "model": "glm-4.5"
+}

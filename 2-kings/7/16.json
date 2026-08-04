@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et le peuple sortit et pillèrent ⟨את⟩ le camp d'Aram, et il eut un séa de farine pour un sicle, et deux séas d'orge pour un sicle, selon la parole de YHWH.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "et sortit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "et pillèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le camp d'Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "le camp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "d'Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il eut"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "un séa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de farine"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pour un sicle"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "et deux séas"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "d'orge"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pour un sicle"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "selon la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T14:16:13.651383187Z",
+  "model": "glm-4.5"
+}

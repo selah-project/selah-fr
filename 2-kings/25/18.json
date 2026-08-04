@@ -1,0 +1,76 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et le chef des bouchers prit ⟨את⟩ Seraja le chef ⟨des⟩ prêtres et ⟨את⟩ Tsephan Yahou le prêtre second et ⟨את⟩ les trois gardiens ⟨du⟩ seuil",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "le chef"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "des bouchers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "chef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsephan Yahou"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsephan Yahou"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "second"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les trois gardiens"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "les trois"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "gardiens"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "du seuil"
+    }
+  ],
+  "timestamp": "2026-08-04T14:46:55.685798987Z",
+  "model": "glm-4.5"
+}

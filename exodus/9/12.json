@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et YHWH endurcit ⟨את⟩ le cœur de Pharaon et il n'écouta pas ⟨eux⟩ comme avait parlé YHWH à Moïse",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Et endurcit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cœur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il n'écouta pas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écouta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨eux⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "avait parlé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:47.283956775Z",
+  "model": "glm-4.5"
+}

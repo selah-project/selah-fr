@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Une Torah unique sera pour le natif et pour le ger qui séjourne au milieu de vous",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "unique"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "pour le natif"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "et pour le ger"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "qui séjourne"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "au milieu de vous"
+    }
+  ],
+  "timestamp": "2026-08-04T06:28:47.911332873Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et tu feras des vêtements de sainteté pour Aaron ton frère pour gloire et pour splendeur",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֥יתָ",
+      "gloss": "Et tu feras"
+    },
+    {
+      "surface": "בִגְדֵי",
+      "gloss": "des vêtements"
+    },
+    {
+      "surface": "קֹ֖דֶשׁ",
+      "gloss": "de sainteté"
+    },
+    {
+      "surface": "לְאַהֲרֹ֣ן",
+      "gloss": "pour Aaron"
+    },
+    {
+      "surface": "אָחִ֑יךָ",
+      "gloss": "ton frère"
+    },
+    {
+      "surface": "לְכָב֖וֹד",
+      "gloss": "pour gloire"
+    },
+    {
+      "surface": "וּלְתִפְאָֽרֶת",
+      "gloss": "et pour splendeur"
+    }
+  ],
+  "timestamp": "2026-08-04T06:54:49.868700437Z",
+  "model": "glm-4.5"
+}

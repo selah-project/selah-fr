@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Si vous abandonnez YHWH et servez des dieux étrangers, alors il reviendra et ⟨vous⟩ fera du mal et vous consumera après qu'il vous a fait du bien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "vous abandonnez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "et servez"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "des dieux"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "étrangers"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "alors il reviendra"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "et fera du mal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨vous⟩"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "et consumera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "après"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "il a fait du bien"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "à vous"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:52.548822717Z",
+  "model": "glm-4.5"
+}

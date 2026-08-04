@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Abraham ⟨est⟩ fils de cent ans dans ⟨la⟩ naissance pour lui ⟨את⟩ Yitsḥaq son fils.",
+  "tokens": [
+    {
+      "surface": "וְאַבְרָהָ֖ם",
+      "gloss": "Et Abraham"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "מְאַ֣ת",
+      "gloss": "de cent"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "בְּהִוָּ֣לֶד",
+      "gloss": "dans ⟨la⟩ naissance"
+    },
+    {
+      "surface": "ל֔וֹ",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsḥaq son fils"
+    },
+    {
+      "surface": "יִצְחָ֥ק",
+      "gloss": "Yitsḥaq"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "son fils"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:49.697683287Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et il dit à eux : « Connaissez-vous ⟨את⟩ Laban fils de Nachor ? » et ils dirent : « Nous le connaissons ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Connaissez-vous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laban"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "de Nachor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "et ils dirent"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Nous le connaissons"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:10.088463149Z",
+  "model": "glm-4.5"
+}

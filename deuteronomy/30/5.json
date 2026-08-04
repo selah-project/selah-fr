@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et YHWH, ton Élohim, te fera entrer dans ⟨la⟩ terre qu'ont possédée tes pères et que tu posséderas ; et il te fera du bien et te multipliera plus que tes pères",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "Et il te fera entrer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ont possédée"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tes pères"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "et que tu posséderas"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "et il te fera du bien"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "et te multipliera"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "plus que tes pères"
+    }
+  ],
+  "timestamp": "2026-08-04T10:41:14.270780309Z",
+  "model": "glm-4.5"
+}

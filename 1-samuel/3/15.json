@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Shemuël se coucha jusqu'au matin, et il ouvrit ⟨את⟩ les portes de la maison de YHWH, et Shemuël ⟨est⟩ craintif de raconter ⟨את⟩ la vision à Éli",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Et Shemuël se coucha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "et il ouvrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les portes"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "les portes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "et Shemuël"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "⟨est⟩ craintif"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "de raconter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vision"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "la vision"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:03.822334455Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et fit Élohim ⟨את⟩ l'étendue et sépara entre les eaux qui sont sous l'étendue et entre les eaux qui sont au-dessus de l'étendue et il en fut ainsi",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'étendue"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "l'étendue"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "et sépara"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sont sous"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "l'étendue"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sont au-dessus"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "de l'étendue"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il en fut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:19.316212366Z",
+  "model": "glm-4.5"
+}

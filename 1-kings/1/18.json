@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et maintenant, voici, Adoniya règne, et maintenant, Adonaï ⟨le⟩ roi, tu ne le sais pas.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "règne"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu le sais"
+    }
+  ],
+  "timestamp": "2026-08-04T13:28:42.420593778Z",
+  "model": "glm-4.5"
+}

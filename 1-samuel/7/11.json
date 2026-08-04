@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et les hommes d'Israël sortirent de Mitspé et poursuivirent ⟨את⟩ les Philistins et les frappèrent jusqu'en dessous de Beit-Kar",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "sortirent"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "les hommes de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspé"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "poursuivirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Philistins"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "et les frappèrent"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "en dessous de"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-04T12:12:05.673576287Z",
+  "model": "glm-4.5"
+}

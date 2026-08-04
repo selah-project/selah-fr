@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et s'il n'a pas de frères, alors vous donnerez ⟨את⟩ son héritage aux frères de son père.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "frères"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "alors vous donnerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son héritage"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "son héritage"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "aux frères"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    }
+  ],
+  "timestamp": "2026-08-04T09:26:16.825819649Z",
+  "model": "glm-4.5"
+}

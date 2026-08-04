@@ -1,0 +1,100 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 30:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et si, ⟨le⟩ jour ⟨où⟩ il entend, ⟨son⟩ mari la refuse et qu'il annule ⟨את⟩ son vœu ⟨qui est⟩ sur elle et ⟨את⟩ ⟨la⟩ parole de ses lèvres par laquelle ⟨elle⟩ a lié sa *nefesh*, YHWH lui pardonnera.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨le⟩ jour"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨où⟩ il entend"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "⟨son⟩ mari"
+    },
+    {
+      "surface": "יניא",
+      "gloss": "la refuse"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "annule"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "et qu'il annule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son vœu"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "son vœu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui est⟩"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "⟨la⟩ parole"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "⟨la⟩ parole"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "de ses lèvres"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "par laquelle"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "⟨elle⟩ a lié"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "sa *nefesh*"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסלח",
+      "gloss": "lui pardonnera"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T09:36:58.613866532Z",
+  "model": "glm-4.5"
+}

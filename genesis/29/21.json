@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et Jaakob dit à Laban : donne ⟨ma⟩ femme, car ⟨mes⟩ jours sont remplis et ⟨je⟩ viendrai vers elle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "donne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma femme"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ma femme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sont remplis"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mes jours"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "et ⟨je⟩ viendrai"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vers elle"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:27.125819683Z",
+  "model": "glm-4.5"
+}

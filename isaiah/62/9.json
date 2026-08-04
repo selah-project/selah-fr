@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Car ceux qui l'ont amassé le mangeront et loueront ⟨את⟩ YHWH, et ceux qui l'ont rassemblé le boiront dans les parvis de mon saint lieu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ceux qui l'ont amassé"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "le mangeront"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "et loueront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "et ceux qui l'ont rassemblé"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "le boiront"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "dans les parvis"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "de mon saint lieu"
+    }
+  ],
+  "timestamp": "2026-08-04T15:56:08.158088713Z",
+  "model": "glm-4.5"
+}

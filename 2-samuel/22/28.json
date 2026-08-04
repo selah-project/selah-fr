@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et ⟨את⟩ le peuple affligé tu sauveras, et tes yeux sont sur les hautains pour les abaisser",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "עני",
+      "gloss": "affligé"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "tu sauveras"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "et tes yeux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sont sur"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "les hautains"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "pour les abaisser"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:39.739517164Z",
+  "model": "glm-4.5"
+}

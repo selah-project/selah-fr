@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Parle aux fils d'Israël, et dis-leur : comme vous passez ⟨את⟩ le Jourdain vers la terre de Canaan",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "et dis-leur"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "passez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "vers la terre"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    }
+  ],
+  "timestamp": "2026-08-04T09:45:43.307617921Z",
+  "model": "glm-4.5"
+}

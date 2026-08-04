@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et tu oindras ⟨את⟩ le bassin et ⟨את⟩ son pied, et tu le sanctifieras",
+  "tokens": [
+    {
+      "surface": "וּמָשַׁחְתָּ֥",
+      "gloss": "et tu oindras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le bassin"
+    },
+    {
+      "surface": "הַכִּיֹּ֖ר",
+      "gloss": "le bassin"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son pied"
+    },
+    {
+      "surface": "כַּנּ֑וֹ",
+      "gloss": "son pied"
+    },
+    {
+      "surface": "וְקִדַּשְׁתָּ֖",
+      "gloss": "et tu sanctifieras"
+    },
+    {
+      "surface": "אֹתֽוֹ",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:38.745060104Z",
+  "model": "glm-4.5"
+}

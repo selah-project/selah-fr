@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et d'enseigner ⟨את⟩ les fils d'Israël ⟨את⟩ toutes les lois qu'a parlé YHWH vers eux par la main de Moshé",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "et d'enseigner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les lois"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "les lois"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vers eux"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    }
+  ],
+  "timestamp": "2026-08-04T07:39:42.597794667Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Oublierait-elle une femme ⟨son⟩ nourrisson, de ne pas avoir compassion ⟨pour le⟩ fils de ⟨son⟩ ventre ? Même ceux-ci pourraient oublier, mais moi, je ne t'oublierai pas.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Oublierait-elle"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "⟨son⟩ nourrisson"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "de ne pas avoir compassion"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨le⟩ fils"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "de ⟨son⟩ ventre"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ceux-ci"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "pourraient oublier"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mais moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "t'oublierai pas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:45:00.183797301Z",
+  "model": "glm-4.5"
+}

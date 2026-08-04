@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Entre dans le rocher et cache-toi dans la poussière, de devant la terreur de YHWH et de ⟨l'éclat⟩ de sa majesté.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "Entre"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "dans le rocher"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "et cache-toi"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "dans la poussière"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "la terreur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "et de ⟨l'éclat⟩"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "de sa majesté"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:33.505365221Z",
+  "model": "glm-4.5"
+}

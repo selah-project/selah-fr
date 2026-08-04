@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-samuel 13:10",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Amnon dit à Tamar : Fais entrer le mets dans ⟨la⟩ chambre, et je mangerai de ta main. Et Tamar prit ⟨את⟩ les gâteaux qu'elle avait faits et les fit entrer à Amnon son frère ⟨dans⟩ la chambre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "Fais entrer"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "le mets"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "⟨la⟩ chambre"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "et je mangerai"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "de ta main"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "Et [elle] prit"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les gâteaux"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "les gâteaux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "elle avait faits"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "et [elle] fit entrer"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "à Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "⟨dans⟩ la chambre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:09:40.987462521Z",
+  "model": "glm-4.5"
+}

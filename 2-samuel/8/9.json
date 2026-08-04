@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Toï, roi de Hamath, ouït ⟨que⟩ David avait frappé ⟨את⟩ toute ⟨l'⟩armée de Hadadézer",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et ... ouït"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toï"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi de"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamath"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "avait frappé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'armée"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "armée"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "de Hadadézer"
+    }
+  ],
+  "timestamp": "2026-08-04T13:02:15.135750824Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et les hommes prirent de leurs provisions, et ⟨את⟩ la bouche de YHWH ils ne consultèrent pas.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Et prirent"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "de leurs provisions"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la bouche de YHWH"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "consultèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T11:01:40.532457595Z",
+  "model": "glm-4.5"
+}

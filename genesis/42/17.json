@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et il mit ⟨את⟩ en garde trois jours",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Et il mit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "en garde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    }
+  ],
+  "timestamp": "2026-08-04T05:55:52.071357102Z",
+  "model": "glm-4.5"
+}

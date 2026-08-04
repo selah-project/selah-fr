@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et Mosheh vit ⟨את⟩ toute l'œuvre et voici ils l'avaient faite comme YHWH l'avait commandé ainsi ils avaient fait et Mosheh les bénit",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'œuvre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "l'œuvre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ils avaient faite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "l'avaient",
+      "marks": "comme YHWH l'avait commandé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ils avaient fait"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et bénit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh les bénit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:19.772342256Z",
+  "model": "glm-4.5"
+}

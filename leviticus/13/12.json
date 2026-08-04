@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et si la lèpre se répand ⟨est⟩ ⟨en⟩ fleurissant sur la peau et que la lèpre couvre ⟨את⟩ toute la peau de la lésion depuis sa tête et jusqu'à ses pieds, à toute vue des yeux du prêtre",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "se répand"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "⟨est⟩ ⟨en⟩ fleurissant"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "la lèpre"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "sur la peau"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "et que la lèpre couvre"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "la lèpre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la peau de la lésion"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "עור",
+      "gloss": "la peau"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "de la lésion"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "depuis sa tête"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ses pieds"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "à toute"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "vue"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "des yeux"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "du prêtre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:46.372591296Z",
+  "model": "glm-4.5"
+}

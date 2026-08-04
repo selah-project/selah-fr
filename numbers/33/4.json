@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "tandis que les Égyptiens enterraient ⟨את⟩ ceux que YHWH avait frappés parmi eux, tout premier-né, et sur leurs dieux YHWH fit des jugements",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "et les Égyptiens"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "enterraient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceux que YHWH avait frappés"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "avait frappés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "parmi eux"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premier-né"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "et sur leurs dieux"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "des jugements"
+    }
+  ],
+  "timestamp": "2026-08-04T09:42:24.555559112Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et ses entrailles et ses pattes il lavera dans l'eau, et le prêtre fera fumer ⟨את⟩ le tout sur l'autel, ola, offrande par feu, odeur de repos pour YHWH",
+  "tokens": [
+    {
+      "surface": "וְקִרְבּ֥וֹ",
+      "gloss": "et ses entrailles"
+    },
+    {
+      "surface": "וּכְרָעָ֖יו",
+      "gloss": "et ses pattes"
+    },
+    {
+      "surface": "יִרְחַ֣ץ",
+      "gloss": "il lavera"
+    },
+    {
+      "surface": "בַּמָּ֑יִם",
+      "gloss": "dans l'eau"
+    },
+    {
+      "surface": "וְהִקְטִ֨יר",
+      "gloss": "et fera fumer"
+    },
+    {
+      "surface": "הַכֹּהֵ֤ן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le tout"
+    },
+    {
+      "surface": "הַכֹּל֙",
+      "gloss": "le tout"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֔חָה",
+      "gloss": "sur l'autel"
+    },
+    {
+      "surface": "עֹלָ֛ה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "אִשֵּׁ֥ה",
+      "gloss": "offrande par feu"
+    },
+    {
+      "surface": "רֵֽיחַ",
+      "gloss": "odeur"
+    },
+    {
+      "surface": "נִיח֖וֹחַ",
+      "gloss": "de repos"
+    },
+    {
+      "surface": "לַֽיהוָֽה",
+      "gloss": "pour YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:25:15.565278274Z",
+  "model": "glm-4.5"
+}

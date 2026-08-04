@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et il fit entrer ⟨את⟩ les choses consacrées de son père et les choses consacrées de lui-même dans la maison de YHWH : de l'argent, et de l'or, et des ustensiles.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et il fit entrer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les choses consacrées de son père"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "les choses consacrées"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "et les choses consacrées de lui-même"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "et de l'or"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "et des ustensiles"
+    }
+  ],
+  "timestamp": "2026-08-04T13:54:21.017404092Z",
+  "model": "glm-4.5"
+}

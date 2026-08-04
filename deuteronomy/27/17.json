@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit celui qui déplace la borne de son prochain, et tout le peuple dira : amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "celui qui déplace"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "la borne"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "de son prochain"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:15.144133798Z",
+  "model": "glm-4.5"
+}

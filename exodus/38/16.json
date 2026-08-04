@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Tous les toiles ⟨du⟩ parvis, tout autour, étaient de lin retors.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "les toiles"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨du⟩ parvis",
+      "marks": "parvis"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "retors"
+    }
+  ],
+  "timestamp": "2026-08-04T07:19:42.127837297Z",
+  "model": "glm-4.5"
+}

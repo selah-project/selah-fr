@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "et garde ⟨את⟩ le commandement et ⟨את⟩ les statuts et ⟨את⟩ les jugements que moi je te commande le jour de les faire",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "et garde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le commandement"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "le commandement"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les statuts"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "les statuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les jugements"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "les jugements"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi je"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "te commande"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "de les faire"
+    }
+  ],
+  "timestamp": "2026-08-04T10:01:23.515758704Z",
+  "model": "glm-4.5"
+}

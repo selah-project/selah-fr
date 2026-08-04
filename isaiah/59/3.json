@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Car vos mains sont souillées de sang et vos doigts ⟨sont⟩ dans l'iniquité ; vos lèvres ont parlé le mensonge, votre langue murmure l'iniquité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "vos mains"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "sont souillées"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "et vos doigts"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "dans l'iniquité"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "vos lèvres"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ont parlé"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "le mensonge"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "votre langue"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "murmure"
+    }
+  ],
+  "timestamp": "2026-08-04T15:52:57.432596732Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Chacun sa mère et son père vous craindrez et ⟨את⟩ mes shabbats vous garderez moi YHWH votre Élohim",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Chacun"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "et son père"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vous craindrez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mes shabbats"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mes shabbats"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "vous garderez"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:46.699285868Z",
+  "model": "glm-4.5"
+}

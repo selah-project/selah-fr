@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et le roi d'Assour déporta ⟨את⟩ Israël en Assour et il les établit à Halaḥ et à Habor, fleuve de Gozan, et ⟨dans⟩ les villes de Maday",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Et déporta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "en Assour"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "et il les établit"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "à Halaḥ"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "et à Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "fleuve"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "de Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "et ⟨dans⟩ les villes"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "de Maday"
+    }
+  ],
+  "timestamp": "2026-08-04T14:35:14.887708443Z",
+  "model": "glm-4.5"
+}

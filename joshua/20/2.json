@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Parlez aux fils d'Israël, en disant : Donnez-vous ⟨את⟩ les villes de refuge dont je vous ai parlé par la main de Moshé",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parlez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Donnez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-vous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les villes de refuge"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "de refuge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "je vous ai parlé"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moshé"
+    }
+  ],
+  "timestamp": "2026-08-04T11:22:49.298404609Z",
+  "model": "glm-4.5"
+}

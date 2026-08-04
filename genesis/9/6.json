@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Celui qui verse ⟨את⟩ le sang de l'humain, par l'humain son sang sera versé, car dans l'image d'Élohim il a fait ⟨את⟩ l'humain",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Celui qui verse"
+    },
+    {
+      "surface": "דם",
+      "gloss": "⟨le⟩ sang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de l'humain"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "par l'humain"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "sera versé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dans l'image"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:53.817604520Z",
+  "model": "glm-4.5"
+}

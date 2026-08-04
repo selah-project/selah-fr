@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et ⟨את⟩ tous ces rois et ⟨את⟩ leur terre, Yehoshoua prit en une fois, car YHWH, l'Élohim d'Israël, combat pour Israël.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Et ⟨את⟩",
+      "marks": "tous ces rois"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ces rois"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leur terre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur terre"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "prit"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "fois"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "une"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "combat"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pour Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T11:04:04.022758483Z",
+  "model": "glm-4.5"
+}

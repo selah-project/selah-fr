@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "le roi d'Eglon, un ; le roi de Guézer, un",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "d'Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "de Guézer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    }
+  ],
+  "timestamp": "2026-08-04T11:05:48.075611393Z",
+  "model": "glm-4.5"
+}

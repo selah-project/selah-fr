@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Laisse-moi passer, je t'en prie, et voir ⟨את⟩ la bonne terre qui est au-delà du Jourdain, cette bonne montagne et le Liban",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Laisse-moi passer"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je t'en prie"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "et voir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bonne terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "au-delà de"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "cette montagne"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "cette"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "et le Liban"
+    }
+  ],
+  "timestamp": "2026-08-04T09:53:59.842220577Z",
+  "model": "glm-4.5"
+}

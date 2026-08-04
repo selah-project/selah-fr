@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et il arriva, lorsque Shelomoh eut fini de bâtir ⟨את⟩ la Maison de YHWH et ⟨את⟩ la Maison du roi, et ⟨את⟩ tout le désir de Shelomoh, qu'il avait plu de faire",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et il arriva"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "lorsque ... eut fini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "de bâtir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Maison"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la Maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la Maison"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la Maison"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "désir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "il avait plu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    }
+  ],
+  "timestamp": "2026-08-04T13:43:56.498650598Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si un homme prend une femme, et qu'il vient vers elle, et qu'il la déteste",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "et qu'il vient"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vers elle"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "et qu'il la déteste"
+    }
+  ],
+  "timestamp": "2026-08-04T10:27:28.026121266Z",
+  "model": "glm-4.5"
+}

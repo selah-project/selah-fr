@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car ⟨את⟩ le joug de son fardeau et ⟨את⟩ le bâton de son épaule, le sceptre de son oppresseur, tu as brisé comme au jour de Madian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le joug"
+    },
+    {
+      "surface": "על",
+      "gloss": "le joug"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "de son fardeau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le bâton"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "le bâton"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "de son épaule"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "le sceptre"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "de son oppresseur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "tu as brisé"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "comme au jour"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "de Madian"
+    }
+  ],
+  "timestamp": "2026-08-04T14:56:58.480598339Z",
+  "model": "glm-4.5"
+}

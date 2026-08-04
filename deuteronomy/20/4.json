@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "car YHWH, votre Élohim, ⟨est⟩ celui qui marche avec vous, pour livrer bataille pour vous avec vos ennemis, pour vous délivrer ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "celui qui marche"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "pour livrer bataille"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vos ennemis"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "pour délivrer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:23:57.656278850Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et il commanda aussi ⟨את⟩ le second, aussi ⟨את⟩ le troisième, aussi ⟨את⟩ tous ceux qui allaient derrière les troupeaux, disant : Selon la parole que voici, vous parlerez à Ésaü, en ⟨le⟩ trouvant.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et il commanda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le second"
+    },
+    {
+      "surface": "השני",
+      "gloss": "le second"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le troisième"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "le troisième"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ceux qui allaient"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "derrière"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "les troupeaux"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "Selon la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "que voici"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "vous parlerez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "en ⟨le⟩ trouvant"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "[pronom suffixe]"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:36.188763775Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Malheur à ceux qui se livent tôt ⟨le⟩ matin, l'alcool fort ils ⟨le⟩ poursuivent ; jusque dans la nuit ils s'attardent, le vin les enflamme !",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "à ceux qui se livent"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tôt ⟨le⟩ matin"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "l'alcool fort"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ils ⟨le⟩ poursuivent"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "jusque dans"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "יין",
+      "gloss": "le vin"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "les enflamme"
+    }
+  ],
+  "timestamp": "2026-08-04T14:51:59.541939014Z",
+  "model": "glm-4.5"
+}

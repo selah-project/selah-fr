@@ -1,0 +1,84 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "N'est-ce pas ⟨ce que⟩ Kemosh ton Élohim te fait posséder, ⟨את⟩ le possèdes-tu ? Et ⟨tout ce que⟩ YHWH notre Élohim a dépossédé devant nous, ⟨את⟩ le possédons-nous.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ce que⟩",
+      "marks": "אשר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "te fait posséder"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kemosh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨le⟩",
+      "marks": "תירש"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "possèdes-tu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a dépossédé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "devant nous"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨le⟩",
+      "marks": "נירש"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "possédons-nous"
+    }
+  ],
+  "timestamp": "2026-08-04T11:49:05.939113658Z",
+  "model": "glm-4.5"
+}

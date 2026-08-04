@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Mosheh dit : Ainsi a dit YHWH, vers le milieu de la nuit, je sors au milieu de ⟨l'⟩Égypte",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "vers le milieu de"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "sors"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:25:46.983689076Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Adam connut ⟨encore⟩ ⟨את⟩ sa femme, et elle enfanta un fils, et elle appela ⟨את⟩ son nom Shet : car Élohim m'a ⟨mis⟩ une semence autre à la place de Hébel, car Qaïn l'a ⟨tué⟩.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Et connut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨encore⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa femme"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "et elle enfanta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "et elle appela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שת",
+      "gloss": "⟨mis⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "m'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "une semence"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "autre"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "à la place de"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hébel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "l'a ⟨tué⟩"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qaïn"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:39.962450350Z",
+  "model": "glm-4.5"
+}

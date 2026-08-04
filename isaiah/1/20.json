@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et si vous refusez et que vous vous révoltez, par l'épée ⟨vous⟩ serez dévorés, car la bouche de YHWH a parlé.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "vous refusez"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "et que vous vous révoltez"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "par l'épée"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "⟨vous⟩ serez dévorés"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    }
+  ],
+  "timestamp": "2026-08-04T14:48:16.725381954Z",
+  "model": "glm-4.5"
+}

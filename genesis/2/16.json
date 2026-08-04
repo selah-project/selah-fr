@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH Élohim commanda ⟨à⟩ l'humain, disant : ⟨de⟩ tout arbre ⟨du⟩ jardin tu mangeras, manger.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et commanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨de⟩ tout"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "arbre"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "⟨du⟩ jardin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangeras"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "manger"
+    }
+  ],
+  "timestamp": "2026-08-04T05:01:14.416477833Z",
+  "model": "glm-4.5"
+}

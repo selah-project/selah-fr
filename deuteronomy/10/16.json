@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et circoncisez ⟨את⟩ le prépuce de votre cœur, et votre cou ne ⟨vous⟩ raidissez plus",
+  "tokens": [
+    {
+      "surface": "וּמַלְתֶּ֕ם",
+      "gloss": "Et circoncisez"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "le prépuce de votre cœur"
+    },
+    {
+      "surface": "עָרְלַ֣ת",
+      "gloss": "le prépuce"
+    },
+    {
+      "surface": "לְבַבְכֶ֑ם",
+      "gloss": "de votre cœur"
+    },
+    {
+      "surface": "וְעָ֨רְפְּכֶ֔ם",
+      "gloss": "et votre cou"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תַקְשׁ֖וּ",
+      "gloss": "⟨vous⟩ raidissez"
+    },
+    {
+      "surface": "עֽוֹד",
+      "gloss": "plus"
+    }
+  ],
+  "timestamp": "2026-08-04T10:11:21.152516558Z",
+  "model": "glm-4.5"
+}

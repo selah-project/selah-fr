@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et rassemble ⟨את⟩ toute la congrégation à l'entrée de ⟨את⟩ la tente d'assignation",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "toute la congrégation"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "la congrégation"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "rassemble"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'entrée"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:37.141304451Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "YHWH ton Élohim tu craindras, ⟨le⟩ servir, et à ⟨lui⟩ tu t'attacheras, et en son Nom tu prêteras serment.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH ton Élohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tu craindras"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "servir"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "servir"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "et à ⟨lui⟩"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "tu t'attacheras"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "et en son Nom"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tu prêteras serment"
+    }
+  ],
+  "timestamp": "2026-08-04T10:11:07.248114549Z",
+  "model": "glm-4.5"
+}

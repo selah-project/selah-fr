@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et le prêtre plongera son doigt dans le sang et aspergera du sang sept fois devant YHWH, ⟨את⟩ la face du voile du sanctuaire",
+  "tokens": [
+    {
+      "surface": "וְטָבַ֧ל",
+      "gloss": "et plongera"
+    },
+    {
+      "surface": "הַכֹּהֵ֛ן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son doigt"
+    },
+    {
+      "surface": "אֶצְבָּע֖וֹ",
+      "gloss": "son doigt"
+    },
+    {
+      "surface": "בַּדָּ֑ם",
+      "gloss": "dans le sang"
+    },
+    {
+      "surface": "וְהִזָּ֨ה",
+      "gloss": "et aspergera"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הַדָּ֜ם",
+      "gloss": "sang"
+    },
+    {
+      "surface": "שֶׁ֤בַע",
+      "gloss": "sept"
+    },
+    {
+      "surface": "פְּעָמִים֙",
+      "gloss": "fois"
+    },
+    {
+      "surface": "לִפְנֵ֣י",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la face du voile du sanctuaire"
+    },
+    {
+      "surface": "פְּנֵ֖י",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "פָּרֹ֥כֶת",
+      "gloss": "le voile"
+    },
+    {
+      "surface": "הַקֹּֽדֶשׁ",
+      "gloss": "du sanctuaire"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:25.165472750Z",
+  "model": "glm-4.5"
+}

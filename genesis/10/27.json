@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et Hadoram et Uzal et Diklah",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "Uzal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "Diklah"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklah"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:05.326341815Z",
+  "model": "glm-4.5"
+}

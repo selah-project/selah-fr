@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Six jours tu travailleras, et le jour septième tu te reposeras ; au labour et à la moisson tu te reposeras.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Six"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tu travailleras"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "et le jour"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septième"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "tu te reposeras"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "au labour"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "et à la moisson"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "tu te reposeras"
+    }
+  ],
+  "timestamp": "2026-08-04T07:09:27.760534123Z",
+  "model": "glm-4.5"
+}

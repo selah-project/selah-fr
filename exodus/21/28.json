@@ -1,0 +1,92 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et si un taureau corne ⟨את⟩ un homme ou ⟨את⟩ une femme et qu'il meure, ⟨le⟩ taureau sera lapidé et on ne mangera pas ⟨את⟩ sa chair, et le maître du taureau ⟨est⟩ innocent.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "corne"
+    },
+    {
+      "surface": "שור",
+      "gloss": "un taureau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un homme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "une femme"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "et qu'il meure"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "lapidé"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "sera lapidé"
+    },
+    {
+      "surface": "השור",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et on ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa chair"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "et le maître"
+    },
+    {
+      "surface": "השור",
+      "gloss": "du taureau"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocent"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:26.464771639Z",
+  "model": "glm-4.5"
+}

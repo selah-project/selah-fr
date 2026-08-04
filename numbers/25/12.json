@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "C'est pourquoi, dis : Voici, je lui donne ⟨את⟩ mon alliance de shalom.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Voici, je"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon alliance de shalom"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de shalom"
+    }
+  ],
+  "timestamp": "2026-08-04T09:22:36.439576491Z",
+  "model": "glm-4.5"
+}

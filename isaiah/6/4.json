@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et les montants ⟨des⟩ seuils s'agitèrent ⟨à⟩ la voix de celui qui criait, et la maison se remplit de fumée.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "s'agitèrent"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "les montants"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "⟨des⟩ seuils"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "⟨à⟩ la voix"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "de celui qui criait"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "et la maison"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "se remplit"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "de fumée"
+    }
+  ],
+  "timestamp": "2026-08-04T14:53:26.948342365Z",
+  "model": "glm-4.5"
+}

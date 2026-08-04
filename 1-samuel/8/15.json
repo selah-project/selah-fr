@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et vos semences et vos vignes il dîmera et donnera à ses eunuques et à ses serviteurs.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "et vos semences"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "et vos vignes"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "il dîmera"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "et donnera"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "à ses eunuques"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "et à ses serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T12:13:58.837512869Z",
+  "model": "glm-4.5"
+}

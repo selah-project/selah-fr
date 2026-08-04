@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Une parole ⟨est⟩ envoyée par Adonaï en Jacob, et elle est tombée en Israël.",
+  "tokens": [
+    {
+      "surface": "דָבָר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "שָׁלַח",
+      "gloss": "envoyée"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "par Adonaï"
+    },
+    {
+      "surface": "בְּיַעֲקֹב",
+      "gloss": "en Jacob"
+    },
+    {
+      "surface": "וְנָפַל",
+      "gloss": "et elle est tombée"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵל",
+      "gloss": "en Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:56:42.010726692Z",
+  "model": "glm-4.5"
+}

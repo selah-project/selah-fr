@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Mosheh ⟨fut⟩ rassemblé vers le camp, lui et les anciens d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "⟨fut⟩ rassemblé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "le camp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "et les anciens de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:49:00.955342924Z",
+  "model": "glm-4.5"
+}

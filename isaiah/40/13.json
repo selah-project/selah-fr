@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Qui ⟨a⟩ dirigé ⟨את⟩ la Rouah de YHWH, et ⟨comme⟩ homme ⟨de⟩ son conseil, lui ⟨a⟩ fait savoir ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "⟨a⟩ dirigé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la Rouah"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "la Rouah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et ⟨comme⟩ homme"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "⟨de⟩ son conseil"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "lui ⟨a⟩ fait savoir"
+    }
+  ],
+  "timestamp": "2026-08-04T15:34:55.130569235Z",
+  "model": "glm-4.5"
+}

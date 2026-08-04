@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Les familles des Guershonites ⟨⟩ camperont derrière ⟨le⟩ mishkan, ⟨vers⟩ l'ouest.",
+  "tokens": [
+    {
+      "surface": "מִשְׁפְּחֹ֖ת",
+      "gloss": "Les familles"
+    },
+    {
+      "surface": "הַגֵּרְשֻׁנִּ֑י",
+      "gloss": "des Guershonites"
+    },
+    {
+      "surface": "אַחֲרֵ֧י",
+      "gloss": "derrière"
+    },
+    {
+      "surface": "הַמִּשְׁכָּ֛ן",
+      "gloss": "⟨le⟩ mishkan"
+    },
+    {
+      "surface": "יַחֲנ֖וּ",
+      "gloss": "camperont"
+    },
+    {
+      "surface": "יָֽמָּה",
+      "gloss": "⟨vers⟩ l'ouest"
+    }
+  ],
+  "timestamp": "2026-08-04T08:25:52.900780229Z",
+  "model": "glm-4.5"
+}

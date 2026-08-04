@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "afin qu'ils sachent ⟨du⟩ levant du soleil et ⟨du⟩ couchant qu'il n'y a ⟨rien⟩ sans ⟨moi⟩, moi, YHWH, et il n'y a ⟨rien⟩ d'autre",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ils sachent"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "⟨du⟩ levant"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "du soleil"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "et ⟨du⟩ couchant"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "il n'y a ⟨rien⟩"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "sans ⟨moi⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a ⟨rien⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "d'autre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:41:47.102716663Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Ou si la chair vive retourne et change en blanc, alors il vient vers le prêtre",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "retourne"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "la chair vive"
+    },
+    {
+      "surface": "החי",
+      "gloss": "⟨la⟩ vive"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "et change"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "en blanc"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "alors il vient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:50.260965869Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et tout animal ⟨qui⟩ a ⟨le⟩ sabot fendu et ⟨le⟩ clivage fendu en deux ongles, et qui rumine, parmi les animaux, celui-là, vous le mangerez",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Et tout"
+    },
+    {
+      "surface": "בְּהֵמָה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "מַפְרֶ֣סֶת",
+      "gloss": "⟨qui⟩ a"
+    },
+    {
+      "surface": "פַּרְסָ֗ה",
+      "gloss": "⟨le⟩ sabot"
+    },
+    {
+      "surface": "וְשֹׁסַ֤עַת",
+      "gloss": "et ⟨le⟩ clivage"
+    },
+    {
+      "surface": "שֶׁ֨סַע",
+      "gloss": "fendu"
+    },
+    {
+      "surface": "שְׁתֵּ֣י",
+      "gloss": "en deux"
+    },
+    {
+      "surface": "פְרָס֔וֹת",
+      "gloss": "ongles"
+    },
+    {
+      "surface": "מַעֲלַ֥ת",
+      "gloss": "et qui rumine"
+    },
+    {
+      "surface": "גֵּרָ֖ה",
+      "gloss": "rumine"
+    },
+    {
+      "surface": "בַּבְּהֵמָ֑ה",
+      "gloss": "parmi les animaux"
+    },
+    {
+      "surface": "אֹתָ֖הּ",
+      "gloss": "celui-là",
+      "marks": "vous le mangerez"
+    },
+    {
+      "surface": "תֹּאכֵֽלוּ",
+      "gloss": "vous le mangerez"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:00.803748457Z",
+  "model": "glm-4.5"
+}

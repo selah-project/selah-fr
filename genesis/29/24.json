@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et Laban donna à Léa ⟨את⟩ Zilpah, sa servante, comme servante, sa fille.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "et donna"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpah"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "sa servante"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "à Léa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sa fille"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "comme servante"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:27.692826396Z",
+  "model": "glm-4.5"
+}

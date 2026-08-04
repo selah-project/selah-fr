@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et Yehoshoua le bénit, et donna ⟨את⟩ Hébron à Caleb fils de Jephunné pour héritage.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "et le bénit"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et donna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hébron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hébron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "à Caleb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "de Jephunné"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "pour héritage"
+    }
+  ],
+  "timestamp": "2026-08-04T11:09:03.487553252Z",
+  "model": "glm-4.5"
+}

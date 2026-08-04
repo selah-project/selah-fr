@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "et le cœur des précipités comprendra ⟨le⟩ savoir, et la langue des bègues ⟨se⟩ hâtera de parler clarté",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "et le cœur"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "des précipités"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "comprendra"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "⟨le⟩ savoir"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "et la langue"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "des bègues"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "⟨se⟩ hâtera"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "de parler"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "clarté"
+    }
+  ],
+  "timestamp": "2026-08-04T15:27:24.424900296Z",
+  "model": "glm-4.5"
+}

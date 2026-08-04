@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Mais parmi ceux-ci, il n'y avait pas ⟨un⟩ homme ⟨parmi⟩ les dénombrés de Moshè et d'Aharon, le prêtre, qui avaient dénombré ⟨את⟩ les fils d'Israël dans le désert de Sinaï.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "Mais parmi ceux-ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "il y avait"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨un⟩ homme"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "⟨parmi⟩ les dénombrés"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et d'Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "avaient dénombré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "de Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-04T09:25:50.598682126Z",
+  "model": "glm-4.5"
+}

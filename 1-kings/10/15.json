@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "à part ⟨ce qui venait⟩ des hommes des Tarshish et ⟨le⟩ commerce des marchands et tous les rois de l’Arabie et les gouverneurs du pays",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "à part"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "⟨ce qui venait⟩ des hommes"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "des Tarshish"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "et ⟨le⟩ commerce"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "des marchands"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "de l’Arabie"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "et les gouverneurs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    }
+  ],
+  "timestamp": "2026-08-04T13:46:03.533301Z",
+  "model": "glm-4.5"
+}

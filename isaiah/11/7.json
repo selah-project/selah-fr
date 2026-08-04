@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et la vache et l'ours paîtront ⟨ensemble⟩ se coucheront leurs petits et le lion comme le bœuf mangera de la paille",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "et la vache"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "et l'ours"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "paîtront"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨ensemble⟩"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "se coucheront"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "leurs petits"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "et le lion"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "comme le bœuf"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "de la paille"
+    }
+  ],
+  "timestamp": "2026-08-04T14:59:13.648743606Z",
+  "model": "glm-4.5"
+}

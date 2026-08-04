@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et tu garderas ⟨את⟩ les commandements de YHWH ton Élohim, pour marcher dans ses voies et pour le craindre",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Et tu garderas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les commandements"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "les commandements"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour marcher"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "dans ses voies"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "et pour le craindre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:04:45.850686287Z",
+  "model": "glm-4.5"
+}

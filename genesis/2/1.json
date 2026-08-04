@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et furent achevés les cieux et ⟨la⟩ terre et toute ⟨leur⟩ armée.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Et furent achevés"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "et ⟨la⟩ terre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "⟨leur⟩ armée"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:39.594984900Z",
+  "model": "glm-4.5"
+}

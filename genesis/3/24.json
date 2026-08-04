@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Il expulsa ⟨את⟩ l'humain et fit habiter à l'orient du jardin d'Éden ⟨את⟩ les chérubins et ⟨את⟩ la flamme de l'épée qui tourne pour garder ⟨את⟩ le chemin de l'arbre de vie",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Il expulsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "et fit habiter"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "à l'orient"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "du jardin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "d'Éden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les chérubins"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "les chérubins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la flamme"
+    },
+    {
+      "surface": "להט",
+      "gloss": "la flamme"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "de l'épée"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "qui tourne"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pour garder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le chemin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "le chemin"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "de l'arbre"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de vie"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:57.260711634Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et les fils d'Israël garderont ⟨את⟩ le shabbat pour faire ⟨את⟩ le shabbat, pour leurs générations, une alliance perpétuelle.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Et garderont"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "le shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "le shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pour leurs générations"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "alliance"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétuelle"
+    }
+  ],
+  "timestamp": "2026-08-04T07:05:07.865489982Z",
+  "model": "glm-4.5"
+}

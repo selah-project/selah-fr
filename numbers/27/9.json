@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "et s’il n’a ⟨pas⟩ de fille, alors vous donnerez ⟨את⟩ son héritage à ses frères",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'a ⟨pas⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "il"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de fille"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "alors vous donnerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son héritage"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "son héritage"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "à ses frères"
+    }
+  ],
+  "timestamp": "2026-08-04T09:26:26.494413051Z",
+  "model": "glm-4.5"
+}

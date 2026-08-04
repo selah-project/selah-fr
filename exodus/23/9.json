@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et le résident, tu ne l'opprimeras pas ; car vous, vous avez connu ⟨את⟩ la nefesh du résident, car résidents vous avez été dans le pays de Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Et le résident"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "tu n'opprimeras"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "car vous"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "avez connu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nefesh du résident"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "du résident"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "résidents"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "vous avez été"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-04T06:47:34.356186723Z",
+  "model": "glm-4.5"
+}

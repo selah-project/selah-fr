@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et YHWH fera pour eux comme il a fait pour Sihon et pour Og, rois des Amorites, et pour leur pays, ⟨qu'il⟩ a détruit ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Et fera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a fait"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "pour Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "et pour Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rois de"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "les Amorites"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "et pour leur pays"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "il a détruit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux (les rois et leur pays)"
+    }
+  ],
+  "timestamp": "2026-08-04T10:42:16.868695516Z",
+  "model": "glm-4.5"
+}

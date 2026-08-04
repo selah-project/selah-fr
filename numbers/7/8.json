@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "et ⟨את⟩ les quatre chars et ⟨את⟩ les huit bœufs, il donna aux fils de Merari selon leur service, sous la main d'Ithamar fils d'Aharon le prêtre",
+  "tokens": [
+    {
+      "surface": "וְאֵ֣ת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les quatre chars"
+    },
+    {
+      "surface": "אַרְבַּ֣ע",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "הָעֲגָלֹ֗ת",
+      "gloss": "chars"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "et ⟨את⟩",
+      "marks": "les huit bœufs"
+    },
+    {
+      "surface": "שְׁמֹנַ֣ת",
+      "gloss": "huit"
+    },
+    {
+      "surface": "הַבָּקָ֔ר",
+      "gloss": "bœufs"
+    },
+    {
+      "surface": "נָתַ֖ן",
+      "gloss": "il donna"
+    },
+    {
+      "surface": "לִבְנֵ֣י",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "מְרָרִ֑י",
+      "gloss": "de Merari"
+    },
+    {
+      "surface": "כְּפִי֙",
+      "gloss": "selon"
+    },
+    {
+      "surface": "עֲבֹ֣דָתָ֔ם",
+      "gloss": "leur service"
+    },
+    {
+      "surface": "בְּיַד֙",
+      "gloss": "sous la main"
+    },
+    {
+      "surface": "אִֽיתָמָ֔ר",
+      "gloss": "d'Ithamar"
+    },
+    {
+      "surface": "בֶּֽן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "d'Aharon"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "le prêtre"
+    }
+  ],
+  "timestamp": "2026-08-04T08:35:36.960080831Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et pourquoi ⟨nous⟩ avez-vous fait monter d'Égypte, pour nous faire venir dans ⟨ce⟩ mauvais lieu, ⟨ce n'est⟩ pas un lieu de semence, ni de figuier, ni de vigne, ni de grenadier ; et il n'y a point d'eau à boire",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "et pourquoi"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "avez-vous fait monter ⟨nous⟩"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "pour faire venir"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨nous⟩",
+      "marks": "אל המקום"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "le mauvais"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ce n'est⟩ pas"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "de semence"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ni de figuier"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ni de vigne"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ni de grenadier"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "et eau"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a point"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "à boire"
+    }
+  ],
+  "timestamp": "2026-08-04T09:07:38.343439819Z",
+  "model": "glm-4.5"
+}

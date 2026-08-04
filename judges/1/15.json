@@ -1,0 +1,103 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Elle lui dit : Donne-moi une bénédiction car tu m'as donné ⟨la⟩ terre du Négéb ; donne-moi aussi des sources d'eau ; et Caleb lui donna ⟨את⟩ les sources d'en haut et ⟨את⟩ les sources d'en bas.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "Elle dit"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "הָבָה",
+      "gloss": "donne"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "בְרָכָה",
+      "gloss": "bénédiction"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "הַנֶּגֶב",
+      "gloss": "du Négéb"
+    },
+    {
+      "surface": "נְתַתָּנִי",
+      "gloss": "tu m'as donné"
+    },
+    {
+      "surface": "וְנָתַתָּה",
+      "gloss": "et donne"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "גֻּלֹּת",
+      "gloss": "sources"
+    },
+    {
+      "surface": "מָיִם",
+      "gloss": "d'eau"
+    },
+    {
+      "surface": "וַיִּתֶּן",
+      "gloss": "et il donna"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "כָּלֵב",
+      "gloss": "Caleb"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "les sources d'en haut"
+    },
+    {
+      "surface": "גֻּלֹּת",
+      "gloss": "sources"
+    },
+    {
+      "surface": "עִלִּית",
+      "gloss": "d'en haut"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "les sources d'en bas"
+    },
+    {
+      "surface": "גֻּלֹּת",
+      "gloss": "sources"
+    },
+    {
+      "surface": "תַּחְתִּית",
+      "gloss": "d'en bas"
+    }
+  ],
+  "timestamp": "2026-08-04T11:33:05.759713113Z",
+  "model": "glm-4.5"
+}

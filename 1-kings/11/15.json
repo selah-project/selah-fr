@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et il arriva, lors de David étant en Édom, ⟨lors de⟩ la montée de Yoav, chef de ⟨l'armée⟩, pour ensevelir ⟨את⟩ les tués, et il frappa tout mâle en Édom",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "lors de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Édom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "⟨lors de⟩ la montée"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chef"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "de ⟨l'armée⟩"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pour ensevelir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les tués"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "les tués"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et il frappa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "en Édom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:47:11.842503289Z",
+  "model": "glm-4.5"
+}

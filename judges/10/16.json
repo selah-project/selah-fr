@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et ils écartèrent ⟨את⟩ les dieux de l'étranger du milieu d'eux et ils servirent ⟨את⟩ YHWH et son être fut las de la misère d'Israël",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "et ils écartèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les dieux de l'étranger"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "les dieux"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "de l'étranger"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "du milieu d'eux"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "et ils servirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "et fut las"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "son être"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "de la misère"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T11:47:50.589363085Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Les princes de Tsoan sont devenus fous, les princes de Noph sont égarés ; ils ont fait errer ⟨את⟩ l'Égypte, le pivot de ses tribus.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "sont devenus fous"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "les princes"
+    },
+    {
+      "surface": "צען",
+      "gloss": "de Tsoan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "sont égarés"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "les princes"
+    },
+    {
+      "surface": "נף",
+      "gloss": "de Noph"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "ils ont fait errer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Égypte"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "le pivot"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "de ses tribus"
+    }
+  ],
+  "timestamp": "2026-08-04T15:10:22.226598401Z",
+  "model": "glm-4.5"
+}

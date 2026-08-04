@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et il fit ⟨le⟩ mal aux yeux de YHWH, seulement pas comme les rois d'Israël qui ⟨étaient⟩ avant lui",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "comme les rois de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨étaient⟩"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "avant lui"
+    }
+  ],
+  "timestamp": "2026-08-04T14:31:37.552719732Z",
+  "model": "glm-4.5"
+}

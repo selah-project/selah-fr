@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et leurs dénombrés, selon ⟨le⟩ dénombrement de tout mâle, depuis ⟨un⟩ fils de mois et au-dessus, six mille et deux cents",
+  "tokens": [
+    {
+      "surface": "וּפְקֻדֵיהֶם֙",
+      "gloss": "Et leurs dénombrés"
+    },
+    {
+      "surface": "בְּמִסְפַּ֣ר",
+      "gloss": "selon ⟨le⟩ dénombrement"
+    },
+    {
+      "surface": "כָּל זָכָ֔ר",
+      "gloss": "de tout mâle"
+    },
+    {
+      "surface": "מִבֶּן חֹ֖דֶשׁ",
+      "gloss": "depuis ⟨un⟩ fils de mois"
+    },
+    {
+      "surface": "וָמָ֑עְלָה",
+      "gloss": "et au-dessus"
+    },
+    {
+      "surface": "שֵׁ֥שֶׁת",
+      "gloss": "six"
+    },
+    {
+      "surface": "אֲלָפִ֖ים",
+      "gloss": "mille"
+    },
+    {
+      "surface": "וּמָאתָֽיִם",
+      "gloss": "et deux cents"
+    }
+  ],
+  "timestamp": "2026-08-04T08:26:36.469224398Z",
+  "model": "glm-4.5"
+}

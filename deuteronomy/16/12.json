@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et tu te souviendras que tu fus serviteur en Égypte, et tu garderas et tu feras ⟨את⟩ ces statuts.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Et tu te souviendras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "serviteur"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu fus"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "et tu garderas"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ces statuts"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "les statuts"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    }
+  ],
+  "timestamp": "2026-08-04T10:20:09.500650798Z",
+  "model": "glm-4.5"
+}

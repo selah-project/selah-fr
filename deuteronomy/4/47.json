@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et ils possédèrent ⟨את⟩ son pays et ⟨את⟩ le pays de Og, roi de Bashan, les deux rois des Amoréens, qui ⟨étaient⟩ outre le Jourdain, ⟨au⟩ levant du soleil",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "et ils possédèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son pays"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "son pays"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le pays"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "de Bashan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rois"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "des Amoréens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "outre"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "⟨au⟩ levant"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "du soleil"
+    }
+  ],
+  "timestamp": "2026-08-04T09:56:19.596384336Z",
+  "model": "glm-4.5"
+}

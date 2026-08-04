@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et ce sont ici les noms des hommes qui se tiendront avec vous : pour Réuben, Élitsour, fils de Shedéour",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et ce sont"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "les noms"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "des hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "se tiendront"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "pour Réuben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Élitsour"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "de Shedéour"
+    }
+  ],
+  "timestamp": "2026-08-04T08:21:37.010329493Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si ⟨dans⟩ une effraction est trouvé ⟨le⟩ voleur et ⟨il⟩ est frappé et meurt, il n'y a pour lui pas de sang",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "⟨dans⟩ une effraction"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "est trouvé"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "⟨le⟩ voleur"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "et ⟨il⟩ est frappé"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "et meurt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "pas de sang"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:08.155936142Z",
+  "model": "glm-4.5"
+}

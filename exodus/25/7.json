@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "des pierres de shoham et des pierres de remplissage pour l'éphod et pour le hoshen",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "pierres"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "de shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "et des pierres"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "de remplissage"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "pour l'éphod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "et pour le hoshen"
+    }
+  ],
+  "timestamp": "2026-08-04T06:49:51.016714795Z",
+  "model": "glm-4.5"
+}

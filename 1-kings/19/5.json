@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il coucha et dormit sous un ⟨genêt⟩ un, et voici, un messager ⟨le⟩ touchait, et il lui ⟨dit⟩ : lève-toi, mange.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Et il coucha"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "et dormit"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "genêt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "זה",
+      "gloss": "un"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messager"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "⟨le⟩ touchait",
+      "marks": "messager"
+    },
+    {
+      "surface": "בו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il ⟨dit⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "קום",
+      "gloss": "lève-toi"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mange"
+    }
+  ],
+  "timestamp": "2026-08-04T13:59:35.140430202Z",
+  "model": "glm-4.5"
+}

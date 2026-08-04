@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il offrira ⟨de⟩ le sacrifice des offrandes de communion, un feu-offrande à YHWH : la graisse qui couvre ⟨את⟩ les entrailles, et ⟨את⟩ toute la graisse qui est sur les entrailles",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִיב",
+      "gloss": "Et il offrira"
+    },
+    {
+      "surface": "מִזֶּ֣בַח",
+      "gloss": "⟨de⟩ le sacrifice"
+    },
+    {
+      "surface": "הַשְּׁלָמִ֔ים",
+      "gloss": "des offrandes de communion"
+    },
+    {
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "un feu-offrande"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la graisse"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "הַֽמְכַסֶּ֣ה",
+      "gloss": "qui couvre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les entrailles"
+    },
+    {
+      "surface": "הַקֶּ֔רֶב",
+      "gloss": "les entrailles"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "et ⟨את⟩",
+      "marks": "toute"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הַחֵ֔לֶב",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "est sur"
+    },
+    {
+      "surface": "הַקֶּֽרֶב",
+      "gloss": "les entrailles"
+    }
+  ],
+  "timestamp": "2026-08-04T07:27:46.337096495Z",
+  "model": "glm-4.5"
+}

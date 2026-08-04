@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Celui qui sacrifie aux elohim, il sera voué ⟨à la destruction⟩, ⟨sauf⟩ à YHWH, ⟨seul⟩.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Celui qui sacrifie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aux elohim"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "il sera voué ⟨à la destruction⟩"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "⟨sauf⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "⟨seul⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:46:20.144786026Z",
+  "model": "glm-4.5"
+}

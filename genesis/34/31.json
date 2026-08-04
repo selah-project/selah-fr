@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Ils dirent : comme une prostituée, il a traité ⟨את⟩ notre sœur",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ils dirent"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "comme une prostituée"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "il a traité"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre sœur"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "notre sœur"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:47.073453567Z",
+  "model": "glm-4.5"
+}

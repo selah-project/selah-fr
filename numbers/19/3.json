@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et vous ⟨la⟩ donnerez à Éléazar ⟨le⟩ prêtre, et il la fera sortir ⟨à⟩ l'extérieur du camp, et on l'égorgera devant lui",
+  "tokens": [
+    {
+      "surface": "וּנְתַתֶּ֣ם",
+      "gloss": "et vous donnerez"
+    },
+    {
+      "surface": "אֹתָ֔הּ",
+      "gloss": "⟨la⟩",
+      "marks": "à Éléazar"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אֶלְעָזָ֖ר",
+      "gloss": "Éléazar"
+    },
+    {
+      "surface": "הַכֹּהֵ֑ן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "וְהוֹצִ֤יא",
+      "gloss": "et il fera sortir"
+    },
+    {
+      "surface": "אֹתָהּ֙",
+      "gloss": "⟨la⟩",
+      "marks": "l'extérieur"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "מִח֣וּץ",
+      "gloss": "l'extérieur"
+    },
+    {
+      "surface": "לַֽמַּחֲנֶ֔ה",
+      "gloss": "du camp"
+    },
+    {
+      "surface": "וְשָׁחַ֥ט",
+      "gloss": "et on égorgera"
+    },
+    {
+      "surface": "אֹתָ֖הּ",
+      "gloss": "⟨la⟩",
+      "marks": "devant lui"
+    },
+    {
+      "surface": "לְפָנָֽיו",
+      "gloss": "devant lui"
+    }
+  ],
+  "timestamp": "2026-08-04T09:05:01.988436273Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et toi, tu ⟨⟩ purifieras ⟨את⟩ le sang innocent de ton sein, car tu feras ⟨le⟩ droit aux yeux de YHWH",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "tu purifieras"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le sang",
+      "marks": "⟨את⟩ le sang innocent"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "de ton sein"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "le droit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T10:24:57.759834507Z",
+  "model": "glm-4.5"
+}

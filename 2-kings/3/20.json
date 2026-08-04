@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il fut, le matin, ⟨au⟩ moment de monter l'offrande, et voici des eaux venant par le chemin d'Édom, et la terre se remplit d'⟨את⟩ eaux.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il fut"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "⟨au⟩ moment de monter"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "l'offrande"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "באים",
+      "gloss": "venant"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "par le chemin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "d'Édom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "et se remplit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "המים"
+    },
+    {
+      "surface": "המים",
+      "gloss": "eaux"
+    }
+  ],
+  "timestamp": "2026-08-04T14:09:12.036374124Z",
+  "model": "glm-4.5"
+}

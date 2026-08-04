@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-kings 15:11",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et le reste des actes de Zacharie, les voilà ⟨écrits⟩ sur le livre des Chroniques des rois d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Et le reste"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "des actes"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "de Zacharie"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "les voilà"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "⟨écrits⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le livre"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "des Chroniques"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "des rois"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:28:43.319257313Z",
+  "model": "glm-4.5"
+}

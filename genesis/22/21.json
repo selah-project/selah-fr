@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "⟨את⟩ Outz son premier-né, et ⟨את⟩ Buz son frère, et ⟨את⟩ Kemouël père d'Aram",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Outz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Outz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "son premier-né"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Kemouël"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemouël"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "père"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "d'Aram"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:06.630590022Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et Er, le premier-né de Juda, ⟨était⟩ mauvais aux yeux de YHWH, et YHWH le fit mourir.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et ⟨était⟩"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "le premier-né"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvais"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "et YHWH le fit mourir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T05:50:16.919610617Z",
+  "model": "glm-4.5"
+}

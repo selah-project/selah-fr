@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et ils ne profaneront pas ⟨את⟩ les choses saintes des fils d'Israël, ⟨את⟩ ce qu'ils présentent à YHWH",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et ils ne"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "profaneront pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les choses saintes des fils d'Israël"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "les choses saintes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qu'ils présentent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ils présentent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:27.345521871Z",
+  "model": "glm-4.5"
+}

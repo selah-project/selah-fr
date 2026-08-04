@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et ⟨את⟩ le porc car ⟨il⟩ est diviseur de sabot et pas ⟨de⟩ rumination — impur ⟨il est⟩ pour vous — de leur chair vous ne mangerez pas et sur leur cadavre vous ne toucherez pas",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le porc"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "le porc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "diviseur"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "de sabot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨de⟩ rumination"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "impur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "de leur chair"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "et sur leur cadavre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "toucherez"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:02.412281301Z",
+  "model": "glm-4.5"
+}

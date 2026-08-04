@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si un homme ⟨fait brouter⟩ un champ ou un vignoble et qu'il envoie ⟨את⟩ son bétail et qu'il ⟨broute⟩ dans le champ d'un autre, ⟨du⟩ meilleur de son champ et ⟨du⟩ meilleur de son vignoble il ⟨paiera⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "⟨fait brouter⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "un champ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "un vignoble"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "et qu'il envoie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son bétail"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "son bétail"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "et qu'il ⟨broute⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "d'un autre"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "⟨du⟩ meilleur"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "de son champ"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "et ⟨du⟩ meilleur"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "de son vignoble"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il ⟨paiera⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:11.883896171Z",
+  "model": "glm-4.5"
+}

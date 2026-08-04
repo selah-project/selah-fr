@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et la ville vint ⟨dans⟩ le siège jusqu'à la onzième année du roi Sédécias",
+  "tokens": [
+    {
+      "surface": "וַתָּבֹא",
+      "gloss": "Et elle vint"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "בַּמָּצוֹר",
+      "gloss": "dans le siège"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "עַשְׁתֵּי",
+      "gloss": "onzième"
+    },
+    {
+      "surface": "עֶשְׂרֵה",
+      "gloss": "dix"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "année"
+    },
+    {
+      "surface": "לַמֶּלֶךְ",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "צִדְקִיָּהוּ",
+      "gloss": "Sédécias"
+    }
+  ],
+  "timestamp": "2026-08-04T14:46:38.113402361Z",
+  "model": "glm-4.5"
+}

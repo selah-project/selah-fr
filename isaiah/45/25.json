@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "En YHWH se justifieront et se glorifieront toute la descendance d’Israël.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "En YHWH"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "se justifieront"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "et se glorifieront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "la descendance"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d’Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T15:41:51.140805670Z",
+  "model": "glm-4.5"
+}

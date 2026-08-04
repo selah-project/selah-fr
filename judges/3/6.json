@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ils prirent pour eux ⟨את⟩ leurs filles pour femmes, et ⟨את⟩ leurs filles ils donnèrent à leurs fils, et ils servirent ⟨את⟩ leurs dieux",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Et ils prirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs filles"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "leurs filles"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "pour femmes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leurs filles"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "leurs filles"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ils donnèrent"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "à leurs fils"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "et ils servirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs dieux"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "leurs dieux"
+    }
+  ],
+  "timestamp": "2026-08-04T11:36:22.876428566Z",
+  "model": "glm-4.5"
+}

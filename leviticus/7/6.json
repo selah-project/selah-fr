@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Tout mâle ⟨parmi⟩ les prêtres le mangera ; dans ⟨un⟩ lieu saint, il sera mangé ; chose très sainte, il est",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "⟨parmi⟩ les prêtres"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "le mangera"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "dans ⟨un⟩ lieu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il sera mangé"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "chose"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "très sainte"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    }
+  ],
+  "timestamp": "2026-08-04T07:34:36.495007635Z",
+  "model": "glm-4.5"
+}

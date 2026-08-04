@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et alla le messager et vint et rapporta à David ⟨את⟩ tout ce que l'avait envoyé Yoav",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "le messager"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et vint"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et rapporta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "l'avait envoyé"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-04T13:06:08.762463499Z",
+  "model": "glm-4.5"
+}

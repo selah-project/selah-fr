@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et tout Israël ⟨entendit⟩ dire : ⟨Saül⟩ a frappé ⟨את⟩ le préfet des Philistins, et Israël s'est rendu odieux aux Philistins ; et le peuple ⟨fut⟩ convoqué après Saül à Guilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "entendit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dire"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a frappé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le préfet des Philistins"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "le préfet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "s'est rendu odieux"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "aux Philistins"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "fut convoqué"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saül"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "à Guilgal"
+    }
+  ],
+  "timestamp": "2026-08-04T12:22:18.417392369Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Paroh dit : Qui est YHWH, pour que ⟨je⟩ écoute sa voix ⟨pour⟩ envoyer ⟨את⟩ Israël ? Je n'ai pas connu ⟨את⟩ YHWH, et même ⟨את⟩ Israël, je n'enverrai pas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pour que"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "j'écoute"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "envoyer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "j'ai connu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et même"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "j'enverrai"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:53.021052609Z",
+  "model": "glm-4.5"
+}

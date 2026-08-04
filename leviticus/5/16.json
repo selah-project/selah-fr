@@ -1,0 +1,96 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et ⟨ce⟩ ⟨qu'⟩il a péché contre la chose sainte, il le restituera, et son cinquième, il l'ajoutera sur lui, et il le donnera au cohen, et le cohen fera expiation pour lui avec le bélier du délit, et il lui sera pardonné.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Et ⟨ce⟩",
+      "marks": "אשר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qu'⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "il a péché"
+    },
+    {
+      "surface": "מן",
+      "gloss": "contre"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "la chose sainte"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il le restituera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "חמישתו"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "son cinquième"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "il l'ajoutera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "et il donnera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le",
+      "marks": "לכהן"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "au cohen"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "et le cohen"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "fera expiation"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "avec le bélier"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "du délit"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "et il sera pardonné"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T07:32:12.043885448Z",
+  "model": "glm-4.5"
+}

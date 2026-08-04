@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Ceci ⟨nous⟩ ferons pour eux et ⟨nous⟩ les ferons vivre et ⟨il n'y aura⟩ point de colère sur nous à cause du serment que ⟨nous⟩ avons juré à eux",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ferons"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "et ⟨nous⟩ les ferons vivre"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨les⟩",
+      "marks": "קצף"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et point"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨il y aura⟩"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "colère"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "du serment"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "⟨nous⟩ avons juré"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    }
+  ],
+  "timestamp": "2026-08-04T11:01:30.886984114Z",
+  "model": "glm-4.5"
+}

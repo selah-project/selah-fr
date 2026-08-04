@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et le roi dit à la femme : Va à ⟨ta⟩ maison, et moi, je donnerai un ordre ⟨concernant⟩ toi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Va"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "à ta maison"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "je donnerai un ordre"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "concernant toi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:11:15.466935141Z",
+  "model": "glm-4.5"
+}

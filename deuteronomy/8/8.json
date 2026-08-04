@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "un pays de blé, d'orge, de vigne, de figuier, et de grenadier ; un pays d'olive à huile et de miel",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "un pays"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "de blé"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "d'orge"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "de vigne"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "de figuier"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "et de grenadier"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "un pays"
+    },
+    {
+      "surface": "זית",
+      "gloss": "d'olive"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "à huile"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "et de miel"
+    }
+  ],
+  "timestamp": "2026-08-04T10:04:47.450113523Z",
+  "model": "glm-4.5"
+}

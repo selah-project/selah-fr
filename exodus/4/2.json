@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et il dit vers lui, YHWH : qu'est-ce ⟨que⟩ ceci dans ta main ? Et il dit : un bâton.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "qu'est-ce ⟨que⟩ ceci"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "dans ta main"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "un bâton"
+    }
+  ],
+  "timestamp": "2026-08-04T06:16:24.354852081Z",
+  "model": "glm-4.5"
+}

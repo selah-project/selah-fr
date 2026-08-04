@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et son armée et ses recensés : cinquante-sept mille et quatre cents",
+  "tokens": [
+    {
+      "surface": "וּצְבָא֖וֹ",
+      "gloss": "et son armée"
+    },
+    {
+      "surface": "וּפְקֻדָ֑יו",
+      "gloss": "et ses recensés"
+    },
+    {
+      "surface": "שִׁבְעָ֧ה",
+      "gloss": "cinquante-sept"
+    },
+    {
+      "surface": "וַחֲמִשִּׁ֛ים",
+      "gloss": ""
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "וְאַרְבַּ֥ע",
+      "gloss": "et quatre"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "cents"
+    }
+  ],
+  "timestamp": "2026-08-04T08:24:03.002058191Z",
+  "model": "glm-4.5"
+}

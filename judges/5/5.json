@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Les montagnes ont fondu de devant YHWH, ceci, le Sinaï, de devant YHWH, le Elohim d'Israël.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Les montagnes"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "ont fondu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "le Sinaï"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "le Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T11:39:46.637444127Z",
+  "model": "glm-4.5"
+}

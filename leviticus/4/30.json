@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et le prêtre prendra de son sang à son doigt et ⟨le⟩ mettra sur les cornes de l'autel de l'ola et ⟨את⟩ tout ⟨son⟩ sang il ⟨le⟩ versera sur le fondement de l'autel",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Et le prêtre prendra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "de son sang"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "à son doigt"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "et ⟨le⟩ mettra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "les cornes"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "de l'ola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tout le sang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "il ⟨le⟩ versera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "le fondement"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:54.827830625Z",
+  "model": "glm-4.5"
+}

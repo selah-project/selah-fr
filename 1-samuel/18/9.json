@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Shaoul regarda avec malveillance ⟨את⟩ David à partir de ce jour-là et désormais.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "regarda avec malveillance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "à partir de ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "et désormais"
+    }
+  ],
+  "timestamp": "2026-08-04T12:34:01.329957290Z",
+  "model": "glm-4.5"
+}

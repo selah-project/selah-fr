@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et ne réponds pas contre ton compagnon ⟨un⟩ faux témoignage.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "réponds pas"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "contre ton compagnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "témoignage"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "faux"
+    }
+  ],
+  "timestamp": "2026-08-04T09:57:22.695866156Z",
+  "model": "glm-4.5"
+}

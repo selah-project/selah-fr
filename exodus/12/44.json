@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et tout serviteur, acquisition d'argent, et que tu l'aies circoncis, ⟨את⟩ lui, alors il en mangera ⟨en⟩ lui",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "serviteur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "acquisition"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "et que tu l'aies circoncis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "אז",
+      "gloss": "alors"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il mangera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨en⟩ lui"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:02.222266045Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Si tu dis dans ton cœur : « Ces nations ⟨sont⟩ plus nombreuses que moi ; comment pourrai-je ⟨les⟩ déposséder ? »",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tu dis"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dans ton cœur"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "plus nombreuses"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ces nations"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "que moi"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "comment"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "pourrai-je"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "⟨les⟩ déposséder",
+      "marks": "les nations"
+    }
+  ],
+  "timestamp": "2026-08-04T10:01:46.679298477Z",
+  "model": "glm-4.5"
+}

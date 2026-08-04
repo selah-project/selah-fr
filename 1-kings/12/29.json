@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il plaça ⟨את⟩ l'un à Beit-El et ⟨את⟩ l'autre à Dan",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Et il plaça"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'un"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "à Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'autre"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'autre"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il mit"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "à Dan"
+    }
+  ],
+  "timestamp": "2026-08-04T13:49:15.343656870Z",
+  "model": "glm-4.5"
+}

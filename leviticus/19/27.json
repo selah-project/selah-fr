@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Vous ne ⟨ne⟩ roundrez ⟨le⟩ coin de votre tête, et vous ne ⟨ne⟩ détruirez ⟨pas⟩ ⟨את⟩ ⟨le⟩ coin de votre barbe",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Vous ne ⟨ne⟩"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "roundrez"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨le⟩ coin"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "de votre tête"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne ⟨ne⟩"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "détruirez ⟨pas⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨le⟩ coin de votre barbe"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "⟨le⟩ coin"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "de votre barbe"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:08.776272895Z",
+  "model": "glm-4.5"
+}

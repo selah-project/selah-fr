@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et il fit venir ⟨le⟩ écriture au roi d'Israël, pour dire : Et maintenant, quand ⟨le⟩ écriture celle-ci viendra vers toi, voici, j'ai envoyé vers toi ⟨את⟩ Naaman mon serviteur, et tu le feras guérir de sa lèpre.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et il fit venir"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨le⟩ écriture"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "quand ... viendra"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨le⟩ écriture"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "j'ai envoyé"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman mon serviteur"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mon serviteur"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "et tu le feras guérir"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "de sa lèpre"
+    }
+  ],
+  "timestamp": "2026-08-04T14:13:27.989710126Z",
+  "model": "glm-4.5"
+}

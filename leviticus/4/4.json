@@ -1,0 +1,96 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et il fera venir ⟨את⟩ le taureau vers l'ouverture de la tente d'assignation devant YHWH et posera ⟨את⟩ sa main sur la tête du taureau et égorgera ⟨את⟩ le taureau devant YHWH",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "et il fera venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'ouverture"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "et posera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "du taureau"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "et égorgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:38.176877012Z",
+  "model": "glm-4.5"
+}

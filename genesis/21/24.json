@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Abraham dit : moi, je jurerai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Abraham dit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi, je"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "jurerai"
+    }
+  ],
+  "timestamp": "2026-08-04T05:27:20.537439599Z",
+  "model": "glm-4.5"
+}

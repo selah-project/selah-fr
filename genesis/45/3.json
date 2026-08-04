@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Et Joseph dit à ses frères : Moi, Joseph — mon père ⟨est⟩ encore ⟨en vie⟩ ? Et ses frères ne purent pas répondre ⟨את⟩ car ils étaient terrifiés de sa face.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "חי",
+      "gloss": "en vie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Et ne ... pas"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "purent"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "répondre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "car ils étaient terrifiés"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "étaient terrifiés"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de sa face"
+    }
+  ],
+  "timestamp": "2026-08-04T06:01:20.850690235Z",
+  "model": "glm-4.5"
+}

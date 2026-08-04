@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Mahalalel vécut soixante-cinq ans et engendra ⟨את⟩ Yéred",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "et soixante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yéred"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yéred"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:13.377488841Z",
+  "model": "glm-4.5"
+}

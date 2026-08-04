@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Tu ne convoiteras point la maison de ton prochain, tu ne convoiteras point la femme de ton prochain, ni son serviteur, ni sa servante, ni son bœuf, ni son âne, ni tout ce qui est ⟨à⟩ ton prochain.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne ... point"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "convoiteras"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "de ton prochain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... point"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "convoiteras"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "de ton prochain"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ni son serviteur"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ni sa servante"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "ni son bœuf"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "ni son âne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ni tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui est"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "⟨à⟩ ton prochain"
+    }
+  ],
+  "timestamp": "2026-08-04T06:42:04.209525250Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Une alliance est entre moi et toi, entre mon père et ton père; voici, j'ai envoyé à toi un présent, de l'argent et de l'or; va, romps ⟨את⟩ ton alliance ⟨את⟩ avec Baasha, roi d'Israël, et il montera d'auprès de moi.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "alliance"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "et entre toi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "j'ai envoyé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "présent"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "et or"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "romps"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton alliance"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "alliance"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avec Baasha"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "et il montera"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "d'auprès de moi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:54:57.613834446Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et le qaa et ⟨את⟩ le rahama et ⟨את⟩ le shalakh",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "et le qaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le rahama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "le rahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le shalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "le shalakh"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:08.473824430Z",
+  "model": "glm-4.5"
+}

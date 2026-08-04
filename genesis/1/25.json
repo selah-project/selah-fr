@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim fit ⟨את⟩ la vie de la terre selon son espèce, et ⟨את⟩ le bétail selon son espèce, et ⟨את⟩ tout ce qui rampe sur la terre selon son espèce ; et Élohim vit que c'était bon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vie de la terre"
+    },
+    {
+      "surface": "חית",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le bétail"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "le bétail"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout ce qui rampe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ce qui rampe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "c'était bon"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:53.114119010Z",
+  "model": "glm-4.5"
+}

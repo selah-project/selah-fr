@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et tu les écriras sur les poteaux de ta maison et sur tes portes",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "et tu les écriras"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "les poteaux"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "et sur tes portes"
+    }
+  ],
+  "timestamp": "2026-08-04T10:12:23.014501471Z",
+  "model": "glm-4.5"
+}

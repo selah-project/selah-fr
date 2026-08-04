@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Jehoachaz implora ⟨את⟩ la face de YHWH, et YHWH l'écouta, car il vit ⟨את⟩ l'oppression d'Israël, car le roi d'Aram les opprimait.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Et il implora"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "et il écouta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "il vit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'oppression"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "l'oppression"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "opprimait"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨les⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "d'Aram"
+    }
+  ],
+  "timestamp": "2026-08-04T14:26:26.659082498Z",
+  "model": "glm-4.5"
+}

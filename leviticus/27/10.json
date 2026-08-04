@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Il ne le changera pas et ne ⟨le⟩ substituera pas, un bon contre un mauvais, ou un mauvais contre un bon ; et si substituer il substitue une bête contre une bête, alors elle et sa substitution seront saintes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "le changera pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "substituera pas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "bon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "un bon"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "contre un mauvais"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "רע",
+      "gloss": "un mauvais"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "contre un bon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "המר",
+      "gloss": "substituer"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "il substitue"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "une bête"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "contre une bête"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "alors"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "et sa substitution"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "seront"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "saintes"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:36.051558663Z",
+  "model": "glm-4.5"
+}

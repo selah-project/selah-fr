@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "et la fête ⟨de⟩ la récolte, les prémices ⟨de⟩ tes œuvres, que tu sèmes dans le champ, et la fête ⟨de⟩ la récolte, au sortir ⟨de⟩ l'année, quand tu rassembles ⟨את⟩ tes œuvres du champ",
+  "tokens": [
+    {
+      "surface": "וְחַג",
+      "gloss": "et la fête"
+    },
+    {
+      "surface": "הַקָּצִיר",
+      "gloss": "⟨de⟩ la récolte"
+    },
+    {
+      "surface": "בִּכּוּרֵי",
+      "gloss": "les prémices"
+    },
+    {
+      "surface": "מַעֲשֶׂיךָ",
+      "gloss": "⟨de⟩ tes œuvres"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תִּזְרַע",
+      "gloss": "tu sèmes"
+    },
+    {
+      "surface": "בַּשָּׂדֶה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "וְחַג",
+      "gloss": "et la fête"
+    },
+    {
+      "surface": "הָֽאָסִף",
+      "gloss": "⟨de⟩ la récolte"
+    },
+    {
+      "surface": "בְּצֵאת",
+      "gloss": "au sortir ⟨de⟩"
+    },
+    {
+      "surface": "הַשָּׁנָה",
+      "gloss": "l'année"
+    },
+    {
+      "surface": "בְּאָסְפְּךָ",
+      "gloss": "quand tu rassembles"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tes œuvres"
+    },
+    {
+      "surface": "מַעֲשֶׂיךָ",
+      "gloss": "tes œuvres"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הַשָּׂדֶה",
+      "gloss": "champ"
+    }
+  ],
+  "timestamp": "2026-08-04T06:47:33.905897663Z",
+  "model": "glm-4.5"
+}

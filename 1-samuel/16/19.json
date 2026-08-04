@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Shaul envoya des messagers vers Yishaï et dit : envoie-moi ⟨את⟩ David ton fils qui ⟨est⟩ avec ⟨le⟩ troupeau.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "des messagers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishaï"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "envoie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ton fils"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "avec le troupeau"
+    }
+  ],
+  "timestamp": "2026-08-04T12:28:03.763375172Z",
+  "model": "glm-4.5"
+}

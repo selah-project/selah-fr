@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et ⟨la⟩ pluie fut sur ⟨la⟩ terre quarante jours et quarante nuits",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et fut"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "⟨la⟩ pluie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jours"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "et quarante"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nuits"
+    }
+  ],
+  "timestamp": "2026-08-04T05:06:26.553671240Z",
+  "model": "glm-4.5"
+}

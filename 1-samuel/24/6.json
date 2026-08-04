@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et il advint après cela, et le cœur de David le frappa, parce qu'il avait coupé ⟨את⟩ le pan qui ⟨était⟩ à Shaoul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et il advint"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et [il] frappa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le frappa"
+    },
+    {
+      "surface": "על",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "il avait coupé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pan"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "le pan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "⟨était⟩ à Shaoul"
+    }
+  ],
+  "timestamp": "2026-08-04T12:41:11.734421449Z",
+  "model": "glm-4.5"
+}

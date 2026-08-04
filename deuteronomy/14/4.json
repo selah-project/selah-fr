@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Voici la bête que vous mangerez : le bœuf, le mouton des brebis et le chevreau des chèvres.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "la bête"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    },
+    {
+      "surface": "שור",
+      "gloss": "le bœuf"
+    },
+    {
+      "surface": "שה",
+      "gloss": "le mouton"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "des brebis"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "et le chevreau"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "des chèvres"
+    }
+  ],
+  "timestamp": "2026-08-04T10:16:58.067881121Z",
+  "model": "glm-4.5"
+}

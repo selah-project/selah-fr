@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et la parole de YHWH fut ⟨vers⟩ lui, en disant :",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et fut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨vers⟩ lui",
+      "marks": "lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant :"
+    }
+  ],
+  "timestamp": "2026-08-04T13:56:40.851179264Z",
+  "model": "glm-4.5"
+}

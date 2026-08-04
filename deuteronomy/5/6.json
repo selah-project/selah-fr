@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Moi, YHWH, ⟨suis⟩ ton Élohim, qui t'ai fait sortir ⟨du⟩ pays d'Égypte, de ⟨la⟩ maison de serviteurs.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "t'ai fait sortir"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨du⟩ pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de ⟨la⟩ maison"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "de serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T09:56:55.056214633Z",
+  "model": "glm-4.5"
+}

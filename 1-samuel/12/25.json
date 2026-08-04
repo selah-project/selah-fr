@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et si vous agissez méchamment, vous aussi, ainsi que votre roi, vous serez balayés",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "agissez méchamment"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "agissez méchamment"
+    },
+    {
+      "surface": "גם",
+      "gloss": "vous aussi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ainsi que"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "votre roi"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "vous serez balayés"
+    }
+  ],
+  "timestamp": "2026-08-04T12:20:07.428398211Z",
+  "model": "glm-4.5"
+}

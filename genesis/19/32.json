@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Viens, faisons boire ⟨את⟩ notre père du vin et couchons avec lui et ferons vivre de notre père une postérité",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Viens"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "faisons boire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre père"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "notre père"
+    },
+    {
+      "surface": "יין",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "et couchons"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "et ferons vivre"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "de notre père"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "une postérité"
+    }
+  ],
+  "timestamp": "2026-08-04T05:25:19.570452007Z",
+  "model": "glm-4.5"
+}

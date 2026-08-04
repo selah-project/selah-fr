@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et David poursuivit, lui et quatre cents hommes; et deux cents hommes s'arrêtèrent, qui s'étaient épuisés de traverser ⟨את⟩ le torrent du Bessor",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "Et poursuivit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "et quatre"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hommes"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "et s'arrêtèrent"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "deux cents"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "s'étaient épuisés"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "de traverser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le torrent du Bessor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "le torrent"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "du Bessor"
+    }
+  ],
+  "timestamp": "2026-08-04T12:49:48.228623116Z",
+  "model": "glm-4.5"
+}

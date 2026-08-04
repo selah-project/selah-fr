@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et tous les anciens d'Israël entrèrent, et les prêtres portèrent ⟨את⟩ l'Arche",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "entrèrent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "et portèrent"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Arche"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "l'Arche"
+    }
+  ],
+  "timestamp": "2026-08-04T13:41:02.030466160Z",
+  "model": "glm-4.5"
+}

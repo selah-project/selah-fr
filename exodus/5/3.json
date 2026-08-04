@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "exodus 5:3",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Ils dirent : ⟨Le⟩ Élohim des Hébreux nous ⟨est⟩ rencontré ; allons donc, nous t'en prions, une route de trois jours dans le désert, et sacrifions à YHWH notre Élohim, de peur qu'il ne nous frappe de la peste ou par l'épée.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ils dirent"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "des Hébreux"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "nous ⟨est⟩ rencontré"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "allons"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc, nous t'en prions"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "une route"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "de trois"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "ונזבחה",
+      "gloss": "et sacrifions"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "יפגענו",
+      "gloss": "il ne nous frappe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "de la peste"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "par l'épée"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:09.978115520Z",
+  "model": "glm-4.5"
+}

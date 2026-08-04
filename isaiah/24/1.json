@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Voici, YHWH vide la terre et la dévaste, et défigure sa surface, et disperse ses habitants",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "vide"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "et la dévaste"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "et défigure"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sa surface"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "et disperse"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ses habitants"
+    }
+  ],
+  "timestamp": "2026-08-04T15:18:13.983818802Z",
+  "model": "glm-4.5"
+}

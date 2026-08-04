@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et ⟨un⟩ homme qui commet un adultère avec ⟨את⟩ ⟨la⟩ femme d'un homme, qui commet un adultère avec ⟨את⟩ ⟨la⟩ femme de son prochain, mouriront de mort l'adultère et la adultère.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et ⟨un⟩ homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "commet un adultère"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la femme d'un homme"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "commet un adultère"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la femme de son prochain"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femme"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "de son prochain"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mouriront de mort"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mourront"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "l'adultère"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "et la adultère"
+    }
+  ],
+  "timestamp": "2026-08-04T08:05:29.392743136Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Au jour de votre sacrifice il sera mangé et le lendemain, et ce qui reste jusqu'au troisième jour, dans le feu il sera brûlé.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Au jour"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "de votre sacrifice"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il sera mangé"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "et le lendemain"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "et ce qui reste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "יום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨le⟩ troisième"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dans le feu"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "il sera brûlé"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:27.752421690Z",
+  "model": "glm-4.5"
+}

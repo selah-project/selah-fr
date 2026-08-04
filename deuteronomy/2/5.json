@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Ne provoquez pas ⟨les⟩, car je ne ⟨vous⟩ donnerai pas de leur terre, pas même pour le marchepied d'un pied, car en possession à Ésaü j'ai donné ⟨את⟩ la montagne de Séir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "provoquez pas"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨les⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "donnerai pas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨vous⟩"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "de leur terre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pas même"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "pour le marchepied"
+    },
+    {
+      "surface": "כף",
+      "gloss": "d'un"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "pied"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "en possession"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "à Ésaü"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai donné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la montagne de Séir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de Séir"
+    }
+  ],
+  "timestamp": "2026-08-04T09:51:01.553477009Z",
+  "model": "glm-4.5"
+}

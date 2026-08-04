@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il dit à eux : allez encore trois jours et revenez à moi. Et le peuple s'en alla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "allez"
+    },
+    {
+      "surface": "עד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "et revenez"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Et ils s'en allèrent"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T13:48:37.996771598Z",
+  "model": "glm-4.5"
+}

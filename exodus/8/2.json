@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Aharon étendit ⟨את⟩ sa main sur les eaux d'Égypte, et ⟨la⟩ grenouille monta et couvrit ⟨את⟩ le pays d'Égypte.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "étendit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "monta"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "la grenouille"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "couvrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pays"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:21:24.391418136Z",
+  "model": "glm-4.5"
+}

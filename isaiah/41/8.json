@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et toi, Israël, mon serviteur, Jacob, que j'ai choisi, semence d'Abraham, mon ami",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mon serviteur"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "j'ai choisi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semence"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "d'Abraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "mon ami"
+    }
+  ],
+  "timestamp": "2026-08-04T15:36:16.359336574Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Jehu monta sur ⟨le⟩ char et ⟨il⟩ alla à Jizreel, car Joram y ⟨était⟩ couché, et Achazia, roi de Juda, était descendu pour voir ⟨את⟩ Joram.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "et monta sur"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et ⟨il⟩ alla"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "à Jizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "y ⟨était⟩ couché"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "y"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "et Achazia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "était descendu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joram"
+    }
+  ],
+  "timestamp": "2026-08-04T14:18:40.499346736Z",
+  "model": "glm-4.5"
+}

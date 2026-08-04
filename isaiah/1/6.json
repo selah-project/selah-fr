@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "De la plante du pied jusqu'à la tête, il n'y a ⟨en lui⟩ de saine partie ; blessure, contusion et plaie fraîche, elles ne sont pas pressées, ni bandées, ni adoucies avec l'huile.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "De la plante"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "du pied"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨en lui⟩",
+      "marks": "saine partie"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "de saine partie"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "blessure"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "contusion"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "et"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "plaie fraîche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "elles ne sont pas"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "pressées"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "bandées"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "adoucies"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "avec l'huile"
+    }
+  ],
+  "timestamp": "2026-08-04T14:48:18.568651176Z",
+  "model": "glm-4.5"
+}

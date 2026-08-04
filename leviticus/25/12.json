@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Car c'est un Yobel, sainteté sera pour vous, du champ vous mangerez ⟨את⟩ son produit",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "un Yobel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sainteté"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "champ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son produit"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "son produit"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:04.076043303Z",
+  "model": "glm-4.5"
+}

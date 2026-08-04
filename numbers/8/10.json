@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et tu feras approcher ⟨את⟩ les Lévites devant YHWH, et les fils d'Israël poseront ⟨את⟩ leurs mains sur les Lévites",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "et tu feras approcher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Lévites"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "les Lévites"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "et poseront"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mains"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "les Lévites"
+    }
+  ],
+  "timestamp": "2026-08-04T08:39:30.384997580Z",
+  "model": "glm-4.5"
+}

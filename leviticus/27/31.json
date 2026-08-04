@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "leviticus 27:31",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et si un homme veut ⟨racheter⟩ de ⟨sa⟩ dîme, il y ajoutera son cinquième.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "veut racheter"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "racheter"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ממעשרו",
+      "gloss": "de sa dîme"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "son cinquième"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "il ajoutera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "à lui"
+    }
+  ],
+  "timestamp": "2026-08-04T08:20:53.590300869Z",
+  "model": "glm-4.5"
+}

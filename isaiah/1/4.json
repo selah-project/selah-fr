@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Malheur, nation pécheresse, peuple lourd ⟨d⟩iniquité, semence ⟨de⟩malfaiteurs, fils corrupteurs ! Ils ont abandonné ⟨את⟩ YHWH, ils ont méprisé ⟨את⟩ le Saint d'Israël, ils se sont retirés en arrière.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nation"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "pécheresse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lourd"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquité"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semence"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "malfaiteurs"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fils"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "corrupteurs"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ils ont abandonné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ils ont méprisé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Saint d'Israël"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Saint"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ils se sont retirés"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "en arrière"
+    }
+  ],
+  "timestamp": "2026-08-04T14:48:49.682747760Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et la nourriture de Shelomoh ⟨était⟩ pour un jour trente kor de fleur de farine et soixante kor de farine",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et la nourriture... était"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nourriture"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pour un jour"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de fleur de farine"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "et soixante"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "de farine"
+    }
+  ],
+  "timestamp": "2026-08-04T13:35:23.461363235Z",
+  "model": "glm-4.5"
+}

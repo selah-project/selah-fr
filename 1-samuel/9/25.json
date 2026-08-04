@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et ils descendirent de la hauteur vers la ville, et il parla avec Shaul sur le toit.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Et ils descendirent"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "de la hauteur"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vers la ville"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "et il parla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "le toit"
+    }
+  ],
+  "timestamp": "2026-08-04T12:15:15.569934342Z",
+  "model": "glm-4.5"
+}

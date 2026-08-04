@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et YHWH dit à Moïse, à Midian : Va, retourne en Égypte, car sont morts tous les hommes qui recherchent ⟨את⟩ ta nefesh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "à Midian"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "שב",
+      "gloss": "retourne"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sont morts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "qui recherchent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ta nefesh"
+    }
+  ],
+  "timestamp": "2026-08-04T06:16:43.004305744Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élohim dit : qu'il y ait de la lumière ; et il y eut de la lumière.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qu'il y ait"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il y eut"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:09.979512755Z",
+  "model": "glm-4.5"
+}

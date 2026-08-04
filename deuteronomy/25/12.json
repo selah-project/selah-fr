@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "alors tu ⟨⟩ couperas ⟨את⟩ sa paume, ton œil ne ⟨⟩ l'épargnera pas",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "alors tu couperas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa paume"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "sa paume"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "l'épargnera"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ton œil"
+    }
+  ],
+  "timestamp": "2026-08-04T10:33:51.068318963Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et si vous sacrifiez un sacrifice de paix à YHWH, ⟨pour⟩ votre agrément, vous le sacrifierez",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "vous sacrifiez"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "un sacrifice"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "de paix"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "⟨pour⟩ votre agrément"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "vous le sacrifierez"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:50.766983668Z",
+  "model": "glm-4.5"
+}

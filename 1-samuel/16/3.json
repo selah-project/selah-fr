@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et appelle ⟨le⟩ Isaï ⟨au⟩ sacrifice, et moi je te ferai savoir ⟨ce⟩ que tu feras, et tu oindras pour moi ⟨celui⟩ dont je te parlerai.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Et appelle"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "⟨le⟩ Isaï"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "⟨au⟩ sacrifice"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "je te ferai savoir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "et tu oindras"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je te parlerai"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨à⟩ toi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:27:49.583800091Z",
+  "model": "glm-4.5"
+}

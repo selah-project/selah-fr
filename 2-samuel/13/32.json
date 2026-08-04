@@ -1,0 +1,139 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "2-samuel 13:32",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Yonadab, fils de Shimâ, frère de David, répondit et dit : Que ne dise point mon seigneur : ⟨ils ont mis à mort⟩ ⟨את⟩ tous les jeunes, les fils du roi ; car Amnon seul ⟨est⟩ mort, car sur la bouche d'Absalom cela ⟨était⟩ mis, du jour où il a humilié ⟨את⟩ Tamar, sa sœur.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "de Shimâ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frère"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dise"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mon seigneur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les jeunes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "les jeunes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "⟨ils ont mis à mort⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seul"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨est⟩ mort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "d'Absalom"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "cela ⟨était⟩"
+    },
+    {
+      "surface": "שומה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "du jour"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "où il a humilié"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sa sœur"
+    }
+  ],
+  "timestamp": "2026-08-04T13:10:39.673410332Z",
+  "model": "glm-4.5"
+}

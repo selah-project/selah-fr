@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Comme YHWH ⟨את⟩ avait commandé à Moshé, ainsi firent les fils d'Israël et ils partagèrent ⟨את⟩ le pays.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé à"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "firent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "et ils partagèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pays"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le pays"
+    }
+  ],
+  "timestamp": "2026-08-04T11:09:24.533178648Z",
+  "model": "glm-4.5"
+}

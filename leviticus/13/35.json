@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et si la teigne ⟨se⟩ répand ⟨très⟩ dans la peau après sa purification",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "la teigne"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "⟨se⟩ répand ⟨très⟩"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": ""
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dans la peau"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "sa purification"
+    }
+  ],
+  "timestamp": "2026-08-04T07:46:37.912162256Z",
+  "model": "glm-4.5"
+}

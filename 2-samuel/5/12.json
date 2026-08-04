@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et David ⟨savoir⟩ que YHWH ⟨avoir⟩ ⟨établi⟩ lui comme roi sur Israël et que ⟨avoir⟩ ⟨élevé⟩ son royaume à cause de son peuple Israël",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "et ⟨savoir⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "YHWH ⟨avoir⟩ ⟨établi⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lui"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "comme roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "et que"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨avoir⟩ ⟨élevé⟩"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "son royaume"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T12:57:24.331447664Z",
+  "model": "glm-4.5"
+}

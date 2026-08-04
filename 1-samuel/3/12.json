@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "En ce jour-là, je ferai venir sur ⟨Éli⟩ ⟨את⟩ tout ce que j'ai parlé contre sa maison, dès le commencement et jusqu'à la fin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "je ferai venir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce que"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "j'ai parlé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contre"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "החל",
+      "gloss": "dès le commencement"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "et jusqu'à la fin"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:04.540458614Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et tout le peuple monta ⟨après⟩ lui, et le peuple jouait ⟨des⟩ flûtes, et se réjouissait d'une grande joie, et la terre se fendit par leur bruit",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Et montèrent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨après⟩ lui"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "et le peuple"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "jouait"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "⟨des⟩ flûtes"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "et se réjouissait"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "d'une joie"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "et se fendit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "par leur bruit"
+    }
+  ],
+  "timestamp": "2026-08-04T13:30:07.939778240Z",
+  "model": "glm-4.5"
+}

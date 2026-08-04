@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "vers le lieu de l'autel qu'il ⟨avait⟩ fait là au commencement et ⟨il⟩ invoqua là Abram ⟨au⟩ nom de YHWH",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il ⟨avait⟩ fait"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "au commencement"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et ⟨il⟩ invoqua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨au⟩ nom de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:02.140627909Z",
+  "model": "glm-4.5"
+}

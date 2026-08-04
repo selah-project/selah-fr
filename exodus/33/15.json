@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et il lui dit : Si ta face ne ⟨est pas⟩ allant, ne ⟨nous⟩ fais pas monter d'ici.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "allant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "fais-nous monter"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "d'ici"
+    }
+  ],
+  "timestamp": "2026-08-04T07:08:15.870357791Z",
+  "model": "glm-4.5"
+}

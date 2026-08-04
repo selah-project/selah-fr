@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Et voici les générations d'Ésaü, père d'Édom, ⟨dans⟩ ⟨la⟩ montagne de Séïr.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et voici"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "les générations"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "d'Ésaü"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "père"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "d'Édom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨dans⟩ ⟨la⟩ montagne"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "de Séïr"
+    }
+  ],
+  "timestamp": "2026-08-04T05:46:41.331788527Z",
+  "model": "glm-4.5"
+}

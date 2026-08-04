@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH se tient ⟨pour⟩ plaider, et se tient ⟨pour⟩ juger les peuples.",
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "se tient"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "⟨pour⟩ plaider"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "et se tient"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "⟨pour⟩ juger"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "les peuples"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:48.798117880Z",
+  "model": "glm-4.5"
+}

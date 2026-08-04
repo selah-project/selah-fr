@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et si ton offrande est une offrande sur ⟨la⟩ poêle, de farine pétrie avec l'huile, elle sera sans levain",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ton offrande"
+    },
+    {
+      "surface": "על",
+      "gloss": "est une offrande sur"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "⟨la⟩ poêle"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ton offrande"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de farine"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "pétrie"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "avec l'huile"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "sans levain"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "elle sera"
+    }
+  ],
+  "timestamp": "2026-08-04T07:26:57.321190967Z",
+  "model": "glm-4.5"
+}

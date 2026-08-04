@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Paroh endurcit ⟨את⟩ son cœur aussi cette fois-là et ne renvoya pas ⟨את⟩ le peuple",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "et endurcit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son cœur"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "cette fois-là"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "renvoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T06:22:18.401049731Z",
+  "model": "glm-4.5"
+}

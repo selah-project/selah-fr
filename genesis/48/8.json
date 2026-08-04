@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Et Israël vit ⟨את⟩ les fils de Joseph et dit : Qui sont ⟨ceux-ci⟩ ?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils de Joseph"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sont ⟨ceux-ci⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:07:44.441726018Z",
+  "model": "glm-4.5"
+}

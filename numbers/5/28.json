@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 5:28",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et si ⟨la⟩ femme n'a pas été souillée, mais qu'elle ⟨est⟩ pure, elle sera absoute et concevra ⟨une⟩ semence.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "été souillée"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨la⟩ femme"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "mais qu'elle ⟨est⟩ pure"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "sera absoute"
+    },
+    {
+      "surface": "ונזרעה",
+      "gloss": "et concevra"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "⟨une⟩ semence"
+    }
+  ],
+  "timestamp": "2026-08-04T08:30:57.572602518Z",
+  "model": "glm-4.5"
+}

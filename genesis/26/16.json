@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et Abimélek dit à Yitsḥaq : Va-t'en d'auprès de nous, car tu es devenu bien plus puissant ⟨que⟩ nous.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimélek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsḥaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va-t'en"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "d'auprès de nous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "tu es devenu puissant"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "que"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bien"
+    }
+  ],
+  "timestamp": "2026-08-04T05:33:26.449989241Z",
+  "model": "glm-4.5"
+}

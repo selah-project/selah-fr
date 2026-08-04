@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Élohim ⟨se⟩ leva ⟨pour⟩ lui un satan, ⟨את⟩ Rezon fils d'Eliada, qui s'était enfui de Hadadézer, roi de Tsoba, son seigneur",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et ⟨se⟩ leva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pour⟩ lui"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "un satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "d'Eliada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "s'était enfui"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "de Tsoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "son seigneur"
+    }
+  ],
+  "timestamp": "2026-08-04T13:47:09.203102332Z",
+  "model": "glm-4.5"
+}

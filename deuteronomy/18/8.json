@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "une part comme part ils mangeront, outre ⟨ses⟩ ventes, avec les pères.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "part"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "comme part"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ils mangeront"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "outre"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ses ventes"
+    },
+    {
+      "surface": "על",
+      "gloss": "avec"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "les pères"
+    }
+  ],
+  "timestamp": "2026-08-04T10:22:00.705253915Z",
+  "model": "glm-4.5"
+}

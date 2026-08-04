@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et il entra et il rapporta à ⟨son⟩ Adonaï en disant : ainsi et ainsi a parlé la jeune fille qui ⟨est⟩ du pays d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et il entra"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et il rapporta"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "à ⟨son⟩ Adonaï"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "et ainsi"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "la jeune fille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:13:23.175129907Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "O mon aire foulée et le grain de mon aire : ce que j'ai entendu de ⟨la⟩ part de YHWH Tsevaot, ⟨le⟩ Élohim d'Israël, je l'ai annoncé à vous.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "mon aire foulée"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "et le grain"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "de mon aire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "j'ai entendu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de ⟨la⟩ part de",
+      "marks": "YHWH Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨le⟩ Élohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "je l'ai annoncé"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "à vous"
+    }
+  ],
+  "timestamp": "2026-08-04T15:12:44.519183360Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Cush engendra ⟨את⟩ Nimrod ; lui, il commença à être puissant sur la terre.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Et Cush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "החל",
+      "gloss": "il commença"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "à être"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "puissant"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:33.624547996Z",
+  "model": "glm-4.5"
+}

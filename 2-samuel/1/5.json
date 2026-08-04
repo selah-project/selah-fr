@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et David dit au jeune homme, celui ⟨qui⟩ le rapportait : Comment sais-tu que Shaül et Yehonathan son fils ⟨sont⟩ morts ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jeune homme"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "celui rapportant"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Comment"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sais-tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "⟨sont⟩ morts"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "et Yehonathan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:46.740570828Z",
+  "model": "glm-4.5"
+}

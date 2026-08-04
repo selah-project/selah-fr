@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "N'est-ce pas toi ⟨את⟩ celle qui a asséché la mer, les eaux du grand abîme, qui a fait des profondeurs de la mer un chemin pour le passage des rachetés ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celle"
+    },
+    {
+      "surface": "היא",
+      "gloss": "celle"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "qui a asséché"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "מי",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "du grand abîme"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grand"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "qui a fait"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "des profondeurs"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "un chemin"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "pour le passage"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "des rachetés"
+    }
+  ],
+  "timestamp": "2026-08-04T15:46:14.121019283Z",
+  "model": "glm-4.5"
+}

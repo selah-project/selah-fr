@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "car depuis que je suis venu vers Par'oh pour parler en ton nom, il a fait du mal à ce peuple, et tu n'as ⟨pas⟩ délivré ⟨את⟩ ton peuple",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "car depuis que"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "je suis venu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pour parler"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "en ton nom"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "il a fait du mal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "à"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ce peuple"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "et"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu n'as"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "délivré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton peuple"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:28.738605518Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il y eut soir, et il y eut matin — cinquième jour.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il y eut"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il y eut"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "cinquième"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:41.836585896Z",
+  "model": "glm-4.5"
+}

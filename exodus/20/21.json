@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et le peuple se tint ⟨à⟩ distance, et Moïse s'approcha de l'épaisseur de la nuée où ⟨était⟩ Élohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "et se tint"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "⟨à⟩ distance"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "et Moïse"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "s'approcha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "l'épaisseur de la nuée"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨était⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T06:41:46.889859740Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et David fit ainsi comme YHWH le lui avait commandé, et il frappa ⟨את⟩ les Philistins depuis Guéba jusqu'à ⟨ton arrivée⟩ à Guézer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "le lui avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et il frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Philistins"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "depuis Guéba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ton arrivée"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "à Guézer"
+    }
+  ],
+  "timestamp": "2026-08-04T12:57:40.502205163Z",
+  "model": "glm-4.5"
+}

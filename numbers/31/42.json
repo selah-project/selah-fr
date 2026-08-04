@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et de la moitié des fils d'Israël, que Mosheh a partagée d'avec les hommes de l'armée",
+  "tokens": [
+    {
+      "surface": "וּמִמַּחֲצִית",
+      "gloss": "et de la moitié"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חָצָה",
+      "gloss": "a partagée"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "d'avec"
+    },
+    {
+      "surface": "הָאֲנָשִׁים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "הַצֹּבְאִים",
+      "gloss": "de l'armée"
+    }
+  ],
+  "timestamp": "2026-08-04T09:38:40.091617039Z",
+  "model": "glm-4.5"
+}

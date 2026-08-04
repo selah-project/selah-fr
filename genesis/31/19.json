@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Or Laban était allé tondre ⟨את⟩ son troupeau, et Rachel vola ⟨את⟩ les théraphim qui étaient à son père",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Or Laban"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "était allé"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "tondre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son troupeau"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "son troupeau"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "et Rachel vola"
+    },
+    {
+      "surface": "רחל",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les théraphim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "les théraphim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "étaient à son père"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:32.648397179Z",
+  "model": "glm-4.5"
+}

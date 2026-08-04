@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "comme ⟨il⟩ est ⟨prélevé⟩ du bœuf ⟨du⟩ sacrifice de communion, et le prêtre les fera fumer sur l'autel de l'ola.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "⟨il⟩ est ⟨prélevé⟩"
+    },
+    {
+      "surface": "משור",
+      "gloss": "du bœuf"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "⟨du⟩ sacrifice"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "de communion"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "et le prêtre les fera fumer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "et le prêtre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "de l'ola"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:26.365234021Z",
+  "model": "glm-4.5"
+}

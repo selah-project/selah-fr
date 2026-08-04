@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Lève-toi, illumine, car ⟨ton⟩ lumière est venue, et la gloire de YHWH sur toi s'est levée",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "illumine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בא",
+      "gloss": "est venue"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "lumière"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "et la gloire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "s'est levée"
+    }
+  ],
+  "timestamp": "2026-08-04T15:53:35.331431430Z",
+  "model": "glm-4.5"
+}

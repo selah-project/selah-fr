@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Prends ⟨את⟩ le nombre des fils de Qehath du milieu des fils de Lévi selon leurs familles, ⟨selon⟩ la maison de leurs pères",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Prends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nombre des fils de Qehath"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "le nombre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "de Qehath"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "du milieu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "de Lévi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "selon leurs familles"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨selon⟩ la maison"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de leurs pères"
+    }
+  ],
+  "timestamp": "2026-08-04T08:27:45.239815699Z",
+  "model": "glm-4.5"
+}

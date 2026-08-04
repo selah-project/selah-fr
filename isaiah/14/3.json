@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et ⟨il sera⟩ au jour où YHWH donnera à toi du repos ⟨de⟩ ton angoisse et de ton trouble et de la dure servitude ⟨qui⟩ ⟨a été⟩ servie sur toi",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et ⟨il sera⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "⟨de⟩ ton angoisse"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "et de ton trouble"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et de"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "la servitude"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "dure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sur toi"
+    }
+  ],
+  "timestamp": "2026-08-04T15:03:08.245186690Z",
+  "model": "glm-4.5"
+}

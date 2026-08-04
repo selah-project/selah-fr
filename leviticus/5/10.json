@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et ⟨le⟩ second, il le fera ⟨une⟩ ola selon ⟨le⟩ jugement, et le cohen fera expiation pour lui ⟨de⟩ sa faute qu'il a commise, et il lui sera pardonné.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Et ⟨le⟩",
+      "marks": "second"
+    },
+    {
+      "surface": "השני",
+      "gloss": "second"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "il le fera"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "selon ⟨le⟩ jugement"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "et le cohen fera expiation"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cohen"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "⟨de⟩ sa faute"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "il a commise"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "et il lui sera pardonné"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T07:32:09.857983543Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et YHWH dit à Qaïn : Pourquoi ⟨es⟩-tu en colère, et pourquoi ton visage ⟨est⟩ tombé ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qaïn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "es-tu en colère"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "et pourquoi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "est tombé"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ton visage"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:09.966348894Z",
+  "model": "glm-4.5"
+}

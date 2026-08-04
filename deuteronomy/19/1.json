@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Quand YHWH ton Élohim aura retranché ⟨את⟩ les nations, que YHWH ton Élohim te donne ⟨את⟩ leur terre, et que tu les aies héritées, et que tu aies habité dans leurs villes et dans leurs maisons",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "aura retranché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les nations"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur terre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur terre"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "et que tu les aies héritées"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "et que tu aies habité"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "dans leurs villes"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "et dans leurs maisons"
+    }
+  ],
+  "timestamp": "2026-08-04T10:22:44.771397508Z",
+  "model": "glm-4.5"
+}

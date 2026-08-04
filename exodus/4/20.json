@@ -1,0 +1,88 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Mosheh prit ⟨את⟩ sa femme et ⟨את⟩ ses fils et les fit monter sur ⟨l'âne⟩ et il retourna au pays d'Égypte, et Mosheh prit ⟨את⟩ le bâton de l'Élohim dans sa main",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa femme"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "et les fit monter"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "⟨l'âne⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il retourna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "au pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bâton"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "le bâton"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de l'Élohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dans sa main"
+    }
+  ],
+  "timestamp": "2026-08-04T06:17:05.023534848Z",
+  "model": "glm-4.5"
+}

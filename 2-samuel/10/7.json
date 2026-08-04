@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et David ⟨entendit⟩, et il envoya ⟨את⟩ Joab et ⟨את⟩ toute l'armée des guerriers.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "et ⟨entendit⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et il envoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'armée"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "l'armée"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "des guerriers"
+    }
+  ],
+  "timestamp": "2026-08-04T13:04:20.092483481Z",
+  "model": "glm-4.5"
+}

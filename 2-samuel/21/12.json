@@ -1,0 +1,137 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-samuel 21:12",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et David alla et prit ⟨את⟩ les os de Shaoul et ⟨את⟩ les os de Yehonathan son fils de la part des maîtres de Yavesh-Guilead qui les avaient volés ⟨את⟩ de la place de Bet-Shan où les Philistins les avaient suspendus le jour où les Philistins frappèrent ⟨את⟩ Shaoul au Guilboa",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les os de Shaoul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "les os"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaoul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les os de Yehonathan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "les os"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "de Yehonathan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "de la part de"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "les maîtres"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "de Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guilead"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "avaient volés"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "les",
+      "marks": "place de Bet-Shan"
+    },
+    {
+      "surface": "מרחב",
+      "gloss": "place"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "תלום",
+      "gloss": "ils avaient suspendus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "[les]"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "où frappèrent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaoul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "au Guilboa"
+    }
+  ],
+  "timestamp": "2026-08-04T13:23:15.753297173Z",
+  "model": "glm-4.5"
+}

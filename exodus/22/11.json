@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et si voler on a volé d'auprès de lui, il payera à son maître",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "voler"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "on a volé"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "d'auprès de lui"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il payera"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "à son maître"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:08.374200723Z",
+  "model": "glm-4.5"
+}

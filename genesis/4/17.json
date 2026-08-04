@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Qaïn connut ⟨את⟩ sa femme et elle conçut et elle enfanta ⟨את⟩ Hanokh et il était ⟨en train de⟩ bâtir une ville et il appela le nom de la ville comme le nom de son fils Hanokh",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "connut"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qaïn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa femme"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "et elle conçut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "et elle enfanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il était"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bâtir"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "une ville"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et il appela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "comme le nom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "de son fils"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:43.825401484Z",
+  "model": "glm-4.5"
+}

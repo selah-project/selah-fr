@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et descendirent tous les Israélites chez les Philistins pour aiguiser, chaque homme, ⟨את⟩ sa soc et ⟨את⟩ son outil et ⟨את⟩ sa hache et ⟨את⟩ sa pioche",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "et descendirent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "les Israélites"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "chez les Philistins"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "pour aiguiser"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chaque homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa soc"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sa soc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "son outil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "son outil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa hache"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sa hache"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa pioche"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sa pioche"
+    }
+  ],
+  "timestamp": "2026-08-04T12:22:23.270535695Z",
+  "model": "glm-4.5"
+}

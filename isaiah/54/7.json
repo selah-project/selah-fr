@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 54,
+  "translation": "Pour un petit moment, je t'ai abandonnée, et avec de grandes compassions je te rassemblerai",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "Pour un moment"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "petit"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "je t'ai abandonnée"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "et avec des compassions"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grandes"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "je te rassemblerai"
+    }
+  ],
+  "timestamp": "2026-08-04T15:48:21.820633009Z",
+  "model": "glm-4.5"
+}

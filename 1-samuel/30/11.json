@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Ils trouvèrent un homme, un Mitsrite, dans le champ et le conduisirent ⟨את⟩ vers David, et lui donnèrent du pain, et il mangea, et lui firent boire de l'eau",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Ils trouvèrent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "un Mitsrite"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "et le conduisirent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vers David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "et lui donnèrent"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "et il mangea"
+    },
+    {
+      "surface": "ואישקהו",
+      "gloss": "et lui firent boire"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T12:49:42.313860263Z",
+  "model": "glm-4.5"
+}

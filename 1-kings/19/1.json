@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Achab raconta à Izebel ⟨את⟩ tout ce qu'Éliyahou avait fait, et ⟨את⟩ tout ce qu'il avait tué, ⟨את⟩ tous les prophètes par l'épée",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Et raconta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "à Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "avait fait"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Éliyahou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "avait tué"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les prophètes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "les prophètes"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "par l'épée"
+    }
+  ],
+  "timestamp": "2026-08-04T13:59:32.011124451Z",
+  "model": "glm-4.5"
+}

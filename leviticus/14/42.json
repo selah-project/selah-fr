@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et ils prendront ⟨d'autres⟩ pierres et les apporteront ⟨sous⟩ les pierres et il prendra ⟨de l'autre⟩ poussière et plâtrera ⟨את⟩ la maison",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "et ils prendront"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "pierres"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "⟨d'autres⟩"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "et les apporteront"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sous⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "les pierres"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "et poussière"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨de l'autre⟩"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "il prendra"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "et plâtrera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    }
+  ],
+  "timestamp": "2026-08-04T07:51:55.469457948Z",
+  "model": "glm-4.5"
+}

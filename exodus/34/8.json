@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Et Mosheh se hâta et se courba vers ⟨la⟩ terre et se prosterna",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Et se hâta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "et se courba"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "vers ⟨la⟩ terre"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "et se prosterna"
+    }
+  ],
+  "timestamp": "2026-08-04T07:08:52.245863121Z",
+  "model": "glm-4.5"
+}

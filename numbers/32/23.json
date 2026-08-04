@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "numbers 32:23",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et si vous ne faites pas ainsi, voici, vous avez péché contre YHWH, et sachez ⟨que⟩ votre péché vous trouvera",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "faites"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "avez péché"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "contre YHWH"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "sachez"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "votre péché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trouvera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vous",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T09:40:59.567581171Z",
+  "model": "glm-4.5"
+}

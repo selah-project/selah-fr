@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Adonaï YHWH ⟨a⟩ donné ⟨à⟩ moi ⟨une⟩ langue ⟨de⟩ ceux ⟨qui⟩ sont instruits, pour savoir soutenir ⟨par⟩ une parole ⟨celui⟩ ⟨qui⟩ est fatigué; ⟨il⟩ éveille le matin, le matin, ⟨il⟩ éveille pour moi une oreille pour écouter comme ceux ⟨qui⟩ sont instruits.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a donné"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨à⟩ moi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "langue"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "⟨de⟩ ceux instruits"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pour savoir"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "soutenir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui qui est fatigué"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "fatigué"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parole"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "éveille"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "éveille"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "oreille"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pour écouter"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "comme ceux instruits"
+    }
+  ],
+  "timestamp": "2026-08-04T15:45:39.796569038Z",
+  "model": "glm-4.5"
+}

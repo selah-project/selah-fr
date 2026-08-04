@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et ils prirent ⟨את⟩ ce que Moïse avait commandé ⟨le⟩ devant la tente d'assignation, et toute l'assemblée s'approcha et se tint devant YHWH",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Et ils prirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que Moïse avait commandé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨le⟩ devant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "et s'approcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "et se tint"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:32.459880151Z",
+  "model": "glm-4.5"
+}

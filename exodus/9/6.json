@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et YHWH fit ⟨את⟩ la parole celle-ci ⟨le⟩ lendemain et mourut tout ⟨le⟩ bétail d'Égypte et du bétail des fils d'Israël ne mourut pas un",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole celle-ci"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "⟨le⟩ lendemain"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et mourut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "⟨le⟩ bétail"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "et du bétail"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mourut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "pas un"
+    }
+  ],
+  "timestamp": "2026-08-04T06:23:06.304228214Z",
+  "model": "glm-4.5"
+}

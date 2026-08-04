@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et ils diront : parce qu'ils ont abandonné ⟨את⟩ l'alliance de YHWH, l'Élohim de leurs pères, qu'il a conclue avec eux en les faisant sortir du pays d'Égypte",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "et ils diront"
+    },
+    {
+      "surface": "על",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ils ont abandonné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'alliance de YHWH, l'Élohim de leurs pères"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "l'alliance"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "de leurs pères"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'il"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a conclue"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "en les faisant sortir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T10:40:58.933434864Z",
+  "model": "glm-4.5"
+}

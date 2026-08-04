@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "En ce temps-là montèrent ⟨les⟩ serviteurs de Neboukadnetsar roi de Babel contre Jérusalem, et ⟨la⟩ ville vint en siège.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "En ce temps-là"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "montèrent"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "⟨les⟩ serviteurs"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "de Neboukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "contre Jérusalem"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "et ⟨la⟩ ville vint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ville"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "en siège"
+    }
+  ],
+  "timestamp": "2026-08-04T14:43:30.075507085Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Abraham circoncit ⟨את⟩ Isaac son fils, ⟨un⟩ fils de huit jours, comme Élohim l'avait commandé",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Et circoncit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaac"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaac"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "de huit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "l'avait",
+      "marks": "commandé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T05:27:04.934619400Z",
+  "model": "glm-4.5"
+}

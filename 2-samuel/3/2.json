@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et des fils furent nés à David à Hébron, son premier-né ⟨était⟩ Amnon, de Ahinoam la Yizréélite.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "Et furent nés"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "à Hébron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et ⟨était⟩"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "son premier-né"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "de Ahinoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "la Yizréélite"
+    }
+  ],
+  "timestamp": "2026-08-04T12:54:27.472832558Z",
+  "model": "glm-4.5"
+}

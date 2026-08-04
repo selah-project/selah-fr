@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et maintenant, tu es maudit de la terre qui a ouvert sa bouche pour recevoir ⟨את⟩ le sang de ton frère de ta main",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "tu es maudit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "a ouvert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bouche"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sa bouche"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pour recevoir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "de ton frère"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "de ta main"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:12.410142178Z",
+  "model": "glm-4.5"
+}

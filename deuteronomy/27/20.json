@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit celui qui couche avec la femme de son père car il a découvert le pan de son père et tout le peuple dira amen",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "celui qui couche"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la femme de"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "il a découvert"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "le pan de"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:09.890141903Z",
+  "model": "glm-4.5"
+}

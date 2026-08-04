@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Alors Shlomo dit : YHWH a dit de résider dans ⟨la⟩ nuée épaisse.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "de résider"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "dans ⟨la⟩ nuée épaisse"
+    }
+  ],
+  "timestamp": "2026-08-04T13:41:46.940568799Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "J'ai donné ⟨את⟩ mon arc dans ⟨le⟩ nuage, et ⟨il sera⟩ pour signe d'alliance entre moi et ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon arc"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "mon arc"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "J'ai donné"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "dans ⟨le⟩ nuage"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "et ⟨il sera⟩"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "pour signe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "d'alliance"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:09:13.116851505Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et vous, qui vous êtes attachés à YHWH votre Élohim, vous êtes tous en vie aujourd'hui",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Et vous"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "qui vous êtes attachés"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vous êtes en vie"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tous"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    }
+  ],
+  "timestamp": "2026-08-04T09:54:57.265808548Z",
+  "model": "glm-4.5"
+}

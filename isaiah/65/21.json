@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Et ils bâtiront des maisons et ⟨ils⟩ y habiteront, et ils planteront des vignes et ⟨ils⟩ en mangeront ⟨le⟩ fruit.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Et ils bâtiront"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "des maisons"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "et ⟨ils⟩ y habiteront"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "et ils planteront"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "des vignes"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "et ⟨ils⟩ en mangeront"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "⟨le⟩ fruit"
+    }
+  ],
+  "timestamp": "2026-08-04T16:00:06.265028013Z",
+  "model": "glm-4.5"
+}

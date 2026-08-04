@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Peu s'en fallut que ton serviteur ⟨את⟩ le Jourdain ⟨את⟩ le king passe, et pourquoi le king me récompenserait-il par cette récompense-ci ?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "peu s'en fallut que"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "passe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le king"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le king"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "et pourquoi"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "me récompenserait-il"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le king"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "cette récompense-ci"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T13:20:27.838284147Z",
+  "model": "glm-4.5"
+}

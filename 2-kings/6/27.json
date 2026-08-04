@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il dit : non, YHWH ne ⟨te⟩ sauve pas ; d'où donc te sauverais-je ? De l'aire ou de la cuve ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "non"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "YHWH ne ⟨te⟩ sauve pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "d'où donc"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "te sauverais-je"
+    },
+    {
+      "surface": "המן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "l'aire"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "la cuve"
+    }
+  ],
+  "timestamp": "2026-08-04T14:14:52.238139260Z",
+  "model": "glm-4.5"
+}

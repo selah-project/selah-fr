@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et une vapeur montait de la terre et arrosa ⟨את⟩ toute la surface du sol",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "et une vapeur"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "montait"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "et arrosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la surface du sol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la surface"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "du sol"
+    }
+  ],
+  "timestamp": "2026-08-04T05:00:30.089170157Z",
+  "model": "glm-4.5"
+}

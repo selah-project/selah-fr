@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Dieux de fonte tu ne feras pas pour toi",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Dieux"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "de fonte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne feras pas"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "pas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    }
+  ],
+  "timestamp": "2026-08-04T07:09:47.712385027Z",
+  "model": "glm-4.5"
+}

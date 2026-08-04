@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et Shemuël jugea ⟨את⟩ Israël tous les jours de sa vie.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Et il jugea"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "de sa vie"
+    }
+  ],
+  "timestamp": "2026-08-04T12:12:24.404789992Z",
+  "model": "glm-4.5"
+}

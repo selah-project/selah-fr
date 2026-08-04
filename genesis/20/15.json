@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Abimélek dit : Voici, mon pays est devant toi, demeure dans le bon lieu à tes yeux.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimélek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mon pays"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dans le bon"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "à tes yeux"
+    },
+    {
+      "surface": "שב",
+      "gloss": "demeure"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:16.973512472Z",
+  "model": "glm-4.5"
+}

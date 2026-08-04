@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et Mosheh plaça ⟨את⟩ les bâtons devant YHWH dans la tente ⟨du⟩ Témoignage.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Et plaça"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les bâtons"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "les bâtons"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "dans la tente"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Témoignage"
+    }
+  ],
+  "timestamp": "2026-08-04T09:02:18.027329991Z",
+  "model": "glm-4.5"
+}

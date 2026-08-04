@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "N'est-ce pas toute la terre devant toi ? Sépare-toi, je te prie, de moi ; si ⟨tu prends⟩ la gauche, je prendrai la droite ; et si ⟨tu prends⟩ la droite, je prendrai la gauche.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "n'est-ce pas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "sépare-toi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "la gauche"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "je prendrai"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "la droite"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "je prendrai"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:25.658141162Z",
+  "model": "glm-4.5"
+}

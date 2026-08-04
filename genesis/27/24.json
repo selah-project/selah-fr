@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et il dit : Es-tu ⟨celui-ci⟩, mon fils Esau ? Et il dit : Je ⟨suis⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Es-tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨celui-ci⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Je ⟨suis⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T05:34:45.225101989Z",
+  "model": "glm-4.5"
+}

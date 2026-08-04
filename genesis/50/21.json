@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et maintenant, ne craignez pas, je vous nourrirai, vous et ⟨את⟩ vos petits enfants, et il les consola, et parla sur ⟨le⟩ cœur d'eux",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה֙",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תִּירָ֔אוּ",
+      "gloss": "craignez pas"
+    },
+    {
+      "surface": "אָנֹכִ֛י",
+      "gloss": "je"
+    },
+    {
+      "surface": "אֲכַלְכֵּ֥ל",
+      "gloss": "nourrirai"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "vous",
+      "marks": "vous"
+    },
+    {
+      "surface": "וְאֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "vos petits enfants"
+    },
+    {
+      "surface": "טַפְּכֶ֑ם",
+      "gloss": "vos petits enfants"
+    },
+    {
+      "surface": "וַיְנַחֵ֣ם",
+      "gloss": "et il les consola"
+    },
+    {
+      "surface": "אוֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "sur le cœur d'eux"
+    },
+    {
+      "surface": "וַיְדַבֵּ֖ר",
+      "gloss": "et parla"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "לִבָּֽם",
+      "gloss": "le cœur d'eux"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:27.220960943Z",
+  "model": "glm-4.5"
+}

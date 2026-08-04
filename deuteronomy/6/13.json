@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "⟨את⟩ YHWH ton Élohim tu craindras et ⟨le⟩ serviras, et par son nom tu jureras",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH ton Élohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tu craindras"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "et ⟨le⟩",
+      "marks": "serviras"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "serviras"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "et par son nom"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "tu jureras"
+    }
+  ],
+  "timestamp": "2026-08-04T10:00:28.970220001Z",
+  "model": "glm-4.5"
+}

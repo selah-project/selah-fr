@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et quiconque touche ⟨את⟩ sa couchera lavera ses vêtements et se lavera dans l'eau et sera impur jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et quiconque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "touche"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "⟨את⟩",
+      "marks": "sa couche"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lavera"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "et se lavera"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "et sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    }
+  ],
+  "timestamp": "2026-08-04T07:54:22.256110125Z",
+  "model": "glm-4.5"
+}

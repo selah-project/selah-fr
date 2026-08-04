@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et Aram vit qu'il ⟨était⟩ frappé devant Israël et ils se rassemblèrent ensemble",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "il était frappé"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "et ils se rassemblèrent"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-04T13:04:39.162190051Z",
+  "model": "glm-4.5"
+}

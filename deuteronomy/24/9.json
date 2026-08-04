@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Souviens-toi de ce que YHWH ton Élohim a fait à Miriam sur le chemin, lors de votre sortie d'Égypte.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que... Élohim a fait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "à Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur le chemin"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "lors de votre sortie"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T10:30:55.358600249Z",
+  "model": "glm-4.5"
+}

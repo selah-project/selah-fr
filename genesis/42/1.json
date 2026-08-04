@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et Jacob vit qu'il y a ⟨du⟩ blé en Égypte, et Jacob dit à ses fils : Pourquoi vous regardez-vous ⟨les uns les autres⟩ ?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "blé"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "à ses fils"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "vous regardez-vous"
+    }
+  ],
+  "timestamp": "2026-08-04T05:55:59.499181515Z",
+  "model": "glm-4.5"
+}

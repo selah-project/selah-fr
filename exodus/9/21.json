@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et celui qui n'a pas mis son cœur sur la parole de YHWH a laissé ⟨את⟩ ses serviteurs et ⟨את⟩ son bétail dans le champ.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Et celui qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "et a laissé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son bétail"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "son bétail"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    }
+  ],
+  "timestamp": "2026-08-04T06:23:04.886277681Z",
+  "model": "glm-4.5"
+}

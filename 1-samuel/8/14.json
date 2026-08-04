@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et ⟨את⟩ vos champs et ⟨את⟩ vos vignes et vos oliviers ⟨les⟩ bons il prendra et donnera à ses serviteurs",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "vos champs"
+    },
+    {
+      "surface": "שְׂדֽוֹתֵיכֶם",
+      "gloss": "vos champs"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "vos vignes"
+    },
+    {
+      "surface": "כַּרְמֵיכֶם",
+      "gloss": "vos vignes"
+    },
+    {
+      "surface": "וְזֵיתֵיכֶם",
+      "gloss": "et vos oliviers"
+    },
+    {
+      "surface": "הַטּוֹבִים",
+      "gloss": "⟨les⟩ bons"
+    },
+    {
+      "surface": "יִקָּח",
+      "gloss": "il prendra"
+    },
+    {
+      "surface": "וְנָתַן",
+      "gloss": "et donnera"
+    },
+    {
+      "surface": "לַעֲבָדָיו",
+      "gloss": "à ses serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T12:14:20.557496290Z",
+  "model": "glm-4.5"
+}

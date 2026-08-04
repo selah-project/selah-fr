@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Balak, fils de Tsippor, vit ⟨את⟩ tout ce qu'avait fait Israël à l'Amorite.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce qu'avait fait Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "avait fait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "à l'Amorite"
+    }
+  ],
+  "timestamp": "2026-08-04T09:14:28.447879360Z",
+  "model": "glm-4.5"
+}

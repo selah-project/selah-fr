@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et Israël ⟨et⟩ les Philistins ⟨se⟩ rangèrent ⟨en⟩ ordre ⟨de⟩ bataille ⟨contre⟩ ordre ⟨de⟩ bataille.",
+  "tokens": [
+    {
+      "surface": "וַתַּעֲרֹךְ",
+      "gloss": "et se rangèrent"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וּפְלִשְׁתִּים",
+      "gloss": "et les Philistins"
+    },
+    {
+      "surface": "מַעֲרָכָה",
+      "gloss": "ordre de bataille"
+    },
+    {
+      "surface": "לִקְרַאת",
+      "gloss": "contre"
+    },
+    {
+      "surface": "מַעֲרָכָה",
+      "gloss": "ordre de bataille"
+    }
+  ],
+  "timestamp": "2026-08-04T12:30:36.591009836Z",
+  "model": "glm-4.5"
+}

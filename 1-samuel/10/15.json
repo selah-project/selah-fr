@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et ⟨l'oncle⟩ de Shaül dit : Déclare-moi, ⟨s'il te plaît⟩, ce que Chemuël vous ⟨a⟩ dit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "⟨l'oncle⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaül"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Déclare"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨s'il te plaît⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Chemuël"
+    }
+  ],
+  "timestamp": "2026-08-04T12:16:59.650700347Z",
+  "model": "glm-4.5"
+}

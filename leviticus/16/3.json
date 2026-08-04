@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Ainsi Aaron entrera dans ⟨le⟩ sanctuaire, avec un taureau, fils ⟨du⟩ bétail, pour ⟨le⟩ hattat, et un bélier pour ⟨l'⟩ola.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "entrera"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨le⟩ sanctuaire"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "avec un taureau"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨du⟩ bétail"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pour ⟨le⟩ hattat"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "et un bélier"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "pour ⟨l'⟩ola"
+    }
+  ],
+  "timestamp": "2026-08-04T07:58:10.971631141Z",
+  "model": "glm-4.5"
+}

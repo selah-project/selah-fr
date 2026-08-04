@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "YHWH ⟨le⟩ seul ⟨le⟩ guidait et ⟨il n'y avait⟩ pas avec lui dieu étranger",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "seul"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "le guidait"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et [il n'y avait] pas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dieu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "étranger"
+    }
+  ],
+  "timestamp": "2026-08-04T10:46:05.823437173Z",
+  "model": "glm-4.5"
+}

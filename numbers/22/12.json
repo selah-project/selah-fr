@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Élohim dit à Bilam : ne va pas avec eux, ne maudis pas ⟨את⟩ le peuple, car il est béni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "va"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "maudis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "est béni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-08-04T09:14:58.557202755Z",
+  "model": "glm-4.5"
+}

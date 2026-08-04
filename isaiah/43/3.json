@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Car je suis YHWH ton Élohim, le Saint d'Israël, ton sauveur. J'ai donné ⟨l’Égypte comme⟩ ta rançon, l'Éthiopie et Seba à ta place.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "le Saint"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "ton sauveur"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "J'ai donné"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ta rançon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "l'Éthiopie"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "et Seba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "à ta place"
+    }
+  ],
+  "timestamp": "2026-08-04T15:38:03.095327700Z",
+  "model": "glm-4.5"
+}

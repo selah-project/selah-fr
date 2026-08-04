@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Pour Issachar, Nethanel fils de Tsuor",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Pour Issachar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Nethanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "de Tsuor"
+    }
+  ],
+  "timestamp": "2026-08-04T08:21:19.932009067Z",
+  "model": "glm-4.5"
+}

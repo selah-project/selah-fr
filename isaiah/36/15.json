@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "et que ⟨חזקיהו⟩ ne fasse pas confiance à YHWH en disant : Certainement YHWH ⟨nous⟩ délivrera, cette ville ne sera pas donnée dans la main du roi d'Ashour.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "et que"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ne fasse pas confiance"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "חזקיהו"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "⟨חזקיהו⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Certainement"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "YHWH ⟨nous⟩ délivrera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "sera donnée"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "cette ville"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Ashour"
+    }
+  ],
+  "timestamp": "2026-08-04T15:31:20.773555006Z",
+  "model": "glm-4.5"
+}

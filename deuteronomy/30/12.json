@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Elle n'est point dans les cieux, pour dire : Qui montera pour nous aux cieux et la prendra pour nous, et nous la fera entendre, et nous la ferons ?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "point"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Elle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "montera"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "aux cieux"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "et la prendra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "et nous la fera entendre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "et nous la ferons"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "et nous la ferons"
+    }
+  ],
+  "timestamp": "2026-08-04T10:41:36.649434174Z",
+  "model": "glm-4.5"
+}

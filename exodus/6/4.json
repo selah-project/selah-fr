@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et aussi J'ai ⟨établi⟩ mon alliance avec eux pour ⟨donner⟩ à eux ⟨את⟩ la terre de Canaan ⟨את⟩ la terre de leurs séjours où ils ont séjourné",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "J'ai ⟨établi⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon alliance"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour ⟨donner⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre de Canaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre de leurs séjours"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "de leurs séjours"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ils ont séjourné"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en ⟨elle⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:19:05.872262808Z",
+  "model": "glm-4.5"
+}

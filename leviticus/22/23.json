@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "so bœuf ou mouton allongé ou raccourci, offrande volontaire tu feras ⟨את⟩; mais pour un vœu, il ne sera pas agréé.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "so bœuf"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ou mouton"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "allongé"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ou raccourci"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "offrande volontaire"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande volontaire"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "mais pour un vœu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "sera pas agréé"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:20.354440166Z",
+  "model": "glm-4.5"
+}

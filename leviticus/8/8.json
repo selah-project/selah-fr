@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et il plaça sur lui ⟨את⟩ le pectoral, et il mit dans le pectoral ⟨את⟩ les Ourim et ⟨את⟩ les Toummim",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "et il plaça"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pectoral"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "le pectoral"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et il mit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "le pectoral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Ourim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "les Ourim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Toummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "les Toummim"
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:46.975634165Z",
+  "model": "glm-4.5"
+}

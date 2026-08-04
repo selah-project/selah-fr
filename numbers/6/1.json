@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et YHWH parla ⟨à⟩ Moïse, en disant :",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et ... parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ", en disant :"
+    }
+  ],
+  "timestamp": "2026-08-04T08:33:18.379597722Z",
+  "model": "glm-4.5"
+}

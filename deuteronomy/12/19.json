@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Prends garde à toi, de peur que tu n'abandonnes ⟨את⟩ le Lévite, tous tes jours, sur ⟨ta⟩ terre",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Prends garde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tu n'abandonnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Lévite"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "le Lévite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tes jours"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ta terre"
+    }
+  ],
+  "timestamp": "2026-08-04T10:13:31.197550278Z",
+  "model": "glm-4.5"
+}

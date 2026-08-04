@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et les eaux revinrent d'au-dessus de la terre, allant et revenant ; et les eaux diminuèrent à la fin de ⟨cinq⟩-cents et ⟨cinquante⟩ jours.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "revinrent"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "d'au-dessus de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "allant"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "et revenant"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "et diminuèrent"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "à la fin de"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cinquante"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "et cents"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jours"
+    }
+  ],
+  "timestamp": "2026-08-04T05:07:16.412671237Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Mikal, fille de Shaul, aima ⟨את⟩ David, et on le rapporta à Shaul, et la chose fut droite à ses yeux",
+  "tokens": [
+    {
+      "surface": "וַתֶּאֱהַ֛ב",
+      "gloss": "et elle aima"
+    },
+    {
+      "surface": "מִיכַ֥ל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "שָׁא֖וּל",
+      "gloss": "de Shaul"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דָּוִ֑ד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וַיַּגִּ֣דוּ",
+      "gloss": "et on rapporta"
+    },
+    {
+      "surface": "לְשָׁא֔וּל",
+      "gloss": "à Shaul"
+    },
+    {
+      "surface": "וַיִּשַׁ֥ר",
+      "gloss": "et fut droite"
+    },
+    {
+      "surface": "הַדָּבָ֖ר",
+      "gloss": "la chose"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "à ses yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T12:34:20.816043521Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ils entendirent ⟨את⟩ la voix de YHWH Élohim marchant dans le jardin vers le souffle du jour ; et l'humain et sa femme se cachèrent de la face de YHWH Élohim au milieu de l'arbre du jardin.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Et ils entendirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la voix"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "marchant"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "dans le jardin"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "vers le souffle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "du jour"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "et se cachèrent"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "et sa femme"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de la face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "de l'arbre"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "du jardin"
+    }
+  ],
+  "timestamp": "2026-08-04T05:02:12.461835868Z",
+  "model": "glm-4.5"
+}

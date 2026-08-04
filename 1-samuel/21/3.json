@@ -1,0 +1,123 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et David dit à Ahimélek le prêtre : Le Roi m'a ordonné une affaire et m'a dit : Qu'aucun homme ne sache ⟨une⟩ chose de ⟨l'⟩affaire dont je t'envoie, et ce que je t'ai commandé ; et ⟨les⟩ jeunes gens, je les ai dirigés vers un tel lieu, un tel autre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "à Ahimélek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Le Roi"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "m'a ordonné"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une affaire"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et a dit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sache"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "chose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨l'⟩affaire"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "l'affaire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "t'envoie"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et ce que"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "je t'ai commandé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨les⟩ jeunes gens"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "les jeunes gens"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "j'ai dirigé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "un tel"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "un tel autre"
+    }
+  ],
+  "timestamp": "2026-08-04T12:38:31.371278931Z",
+  "model": "glm-4.5"
+}

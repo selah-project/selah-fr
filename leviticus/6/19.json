@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Le prêtre qui ⟨a⟩ fait l'expiation ⟨la⟩ mangera, dans un lieu ⟨saint⟩ elle sera mangée, dans la parvis de la tente d'assignation.",
+  "tokens": [
+    {
+      "surface": "הַכֹּהֵ֛ן",
+      "gloss": "Le prêtre"
+    },
+    {
+      "surface": "הַֽמְחַטֵּ֥א",
+      "gloss": "qui ⟨a⟩ fait l'expiation"
+    },
+    {
+      "surface": "אֹתָ֖הּ",
+      "gloss": "⟨את⟩",
+      "marks": "la (l'offrande)"
+    },
+    {
+      "surface": "יֹאכֲלֶ֑נָּה",
+      "gloss": "mangera"
+    },
+    {
+      "surface": "בְּמָק֤וֹם",
+      "gloss": "dans un lieu"
+    },
+    {
+      "surface": "קָדֹשׁ֙",
+      "gloss": "⟨saint⟩"
+    },
+    {
+      "surface": "תֵּֽאָכֵ֔ל",
+      "gloss": "elle sera mangée"
+    },
+    {
+      "surface": "בַּחֲצַ֖ר",
+      "gloss": "dans la parvis"
+    },
+    {
+      "surface": "אֹ֥הֶל",
+      "gloss": "de la tente"
+    },
+    {
+      "surface": "מוֹעֵֽד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:34:00.655718060Z",
+  "model": "glm-4.5"
+}

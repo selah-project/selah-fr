@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Le venin ⟨des⟩ tanins ⟨est⟩ leur vin, et ⟨le⟩ venin cruel ⟨des⟩ péthens.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "venin"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "des tanins"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "leur vin"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "et le venin"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "des péthens"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "cruel"
+    }
+  ],
+  "timestamp": "2026-08-04T10:47:22.531431162Z",
+  "model": "glm-4.5"
+}

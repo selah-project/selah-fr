@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "En ce jour-là, on le mangera ; vous n'en ⟨laisserez⟩ rien jusqu'au matin ; moi, YHWH.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "en ce jour-là"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "on le mangera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "laisserez rien"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "en"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:40.454938557Z",
+  "model": "glm-4.5"
+}

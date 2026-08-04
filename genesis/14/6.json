@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et ⟨את⟩ les Horites dans leurs montagnes Séir jusqu'à ⟨את⟩ Paran qui est ⟨sur⟩ ⟨le⟩ désert",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Horites"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "les Horites"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "dans leurs montagnes"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Séir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "איל",
+      "gloss": "⟨את⟩",
+      "marks": "Paran"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "⟨le⟩ désert"
+    }
+  ],
+  "timestamp": "2026-08-04T05:18:49.499827365Z",
+  "model": "glm-4.5"
+}

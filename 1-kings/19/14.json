@@ -1,0 +1,116 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 19:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et il dit : j'ai été ⟨très⟩ jaloux pour YHWH, le Élohim ⟨des⟩ Tsevaot, car les fils d'Israël ont abandonné ton alliance, ⟨את⟩ tes autels ils ont détruits, et ⟨את⟩ tes prophètes ils ont tués par l'épée, et je suis resté, moi, seul, et ils cherchent ⟨את⟩ mon âme pour la prendre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "jaloux"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "j'ai été jaloux"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "le Élohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "⟨des⟩ Tsevaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ont abandonné"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ton alliance"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes autels"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "tes autels"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "ils ont détruits"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tes prophètes"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "tes prophètes"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ils ont tués"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "par l'épée"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "et je suis resté"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "seul"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "et ils cherchent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon âme"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "pour la prendre"
+    }
+  ],
+  "timestamp": "2026-08-04T14:00:06.739322658Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Je ne puis pas, moi seul, porter ⟨את⟩ tout ce peuple, car il est trop pesant pour moi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "puis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "seul"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "porter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce peuple"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ceci\/ce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pesant\/lourd"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pour moi\/de ma part"
+    }
+  ],
+  "timestamp": "2026-08-04T08:48:05.140341991Z",
+  "model": "glm-4.5"
+}

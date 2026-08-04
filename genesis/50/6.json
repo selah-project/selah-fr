@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et Paroh dit : Monte, et enterre ⟨את⟩ ton père, comme il te l'a fait jurer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Monte"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "et enterre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton père"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "il te l'a fait jurer"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:08.197109386Z",
+  "model": "glm-4.5"
+}

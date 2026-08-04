@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et David prit ⟨את⟩ tout le petit bétail et le gros bétail ; on les mena devant ce bétail, et ils dirent : « C'est ⟨le⟩ butin de David ».",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le petit bétail et le gros bétail"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "le petit bétail"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "et le gros bétail"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "on les mena"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ce bétail"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "et ils dirent"
+    },
+    {
+      "surface": "זה",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "le butin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-04T12:50:07.792731644Z",
+  "model": "glm-4.5"
+}

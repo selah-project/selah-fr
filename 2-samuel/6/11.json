@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et l'arche de YHWH séjourna dans la maison d'Obed-Édom le Guittite trois mois, et YHWH bénit ⟨את⟩ Obed-Édom et ⟨את⟩ toute sa maison",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "et séjourna"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "d'Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "le Guittite"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mois"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et bénit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed-Édom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toute sa maison"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    }
+  ],
+  "timestamp": "2026-08-04T12:58:19.970720735Z",
+  "model": "glm-4.5"
+}

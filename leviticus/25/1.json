@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et YHWH parla à Moïse sur ⟨le⟩ mont Sinaï, disant :",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur ⟨le⟩ mont"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant :"
+    }
+  ],
+  "timestamp": "2026-08-04T08:14:52.266734795Z",
+  "model": "glm-4.5"
+}

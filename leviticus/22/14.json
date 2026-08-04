@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et si un homme mange la chose sainte par erreur, il ajoutera son cinquième sur elle et donnera au prêtre ⟨את⟩ la chose sainte",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et si un homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mange"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "la chose sainte"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "par erreur"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "il ajoutera"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "son cinquième"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "et donnera"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "au prêtre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la chose sainte"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "la chose sainte"
+    }
+  ],
+  "timestamp": "2026-08-04T08:08:02.408755536Z",
+  "model": "glm-4.5"
+}

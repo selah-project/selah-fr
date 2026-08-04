@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et Yaakov baisa Rachel et leva ⟨את⟩ sa voix et pleura",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "et baisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "et leva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa voix"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "et pleura"
+    }
+  ],
+  "timestamp": "2026-08-04T05:37:09.792466797Z",
+  "model": "glm-4.5"
+}

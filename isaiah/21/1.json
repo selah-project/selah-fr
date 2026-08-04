@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Oracle du désert de la mer. Comme des tourbillons dans le Négueb pour passer, il vient du désert, d'un pays redoutable.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Oracle"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "du désert"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "Comme des tourbillons"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "dans le Néguev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "pour passer"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "du désert"
+    },
+    {
+      "surface": "בא",
+      "gloss": "il vient"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "d'un pays"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "redoutable"
+    }
+  ],
+  "timestamp": "2026-08-04T15:14:04.541804758Z",
+  "model": "glm-4.5"
+}

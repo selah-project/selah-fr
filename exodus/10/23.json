@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Ils ne virent pas ⟨את⟩ son frère, et ils ne se levèrent pas, un homme de dessous lui, trois jours ; et pour tous les fils d'Israël il y avait la lumière dans leurs habitations.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "virent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son frère"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "se levèrent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "de dessous lui"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "et pour tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "היה",
+      "gloss": "il y avait"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "dans leurs habitations"
+    }
+  ],
+  "timestamp": "2026-08-04T06:24:57.825216326Z",
+  "model": "glm-4.5"
+}

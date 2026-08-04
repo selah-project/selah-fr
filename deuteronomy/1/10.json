@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "YHWH, votre Élohim, vous a multipliés, et voici, vous êtes aujourd'hui comme les étoiles des cieux pour la multitude.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "a multipliés"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "et voici, vous"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "comme les étoiles"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "pour la multitude"
+    }
+  ],
+  "timestamp": "2026-08-04T09:49:05.058460435Z",
+  "model": "glm-4.5"
+}

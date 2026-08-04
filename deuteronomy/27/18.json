@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit soit celui qui fait errer ⟨l'⟩aveugle dans ⟨le⟩ chemin. Et tout ⟨le⟩ peuple dira : Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maudit"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "qui fait errer"
+    },
+    {
+      "surface": "עור",
+      "gloss": "aveugle"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans le chemin"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:09.138066646Z",
+  "model": "glm-4.5"
+}

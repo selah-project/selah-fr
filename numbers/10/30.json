@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il lui dit : je n'irai pas ; seulement vers ma terre et vers mon lieu de naissance j'irai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne ... pas"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "j'irai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ma terre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "mon lieu de naissance"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "j'irai"
+    }
+  ],
+  "timestamp": "2026-08-04T08:46:18.830813284Z",
+  "model": "glm-4.5"
+}

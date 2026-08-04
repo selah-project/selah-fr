@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "que YHWH parla vers moi, pour dire",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "que parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T09:51:12.153091155Z",
+  "model": "glm-4.5"
+}

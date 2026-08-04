@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et il dit : moi, je ⟨vais⟩ envoyer un chevreau ⟨de⟩ chèvres du troupeau. Et elle dit : si tu donnes un gage, jusqu'à ton envoi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "⟨vais⟩ envoyer"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "un chevreau"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨de⟩ chèvres"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "troupeau"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Et elle dit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tu donnes"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "un gage"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ton envoi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:50:31.926252437Z",
+  "model": "glm-4.5"
+}

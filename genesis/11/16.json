@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et Éber vécut trente-quatre ans et engendra ⟨את⟩ Péleg",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et vécut"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Éber"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "et trente"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "et engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Péleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Péleg"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:53.370943660Z",
+  "model": "glm-4.5"
+}

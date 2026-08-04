@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Ne ⟨faites⟩ point avec ⟨moi⟩ des dieux d'argent et des dieux d'or ; ne ⟨vous en⟩ faites point ⟨pour vous-mêmes⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "⟨faites⟩ point"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec ⟨moi⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "des dieux"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et des dieux"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "⟨vous en⟩ faites point"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨pour vous-mêmes⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T06:42:04.391788333Z",
+  "model": "glm-4.5"
+}

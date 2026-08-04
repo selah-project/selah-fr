@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "La nudité de la sœur de ton père tu ne découvriras pas ; c'est ⟨la⟩ chair de ton père",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "la nudité"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "de la sœur"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "découvriras"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-04T08:01:33.389914065Z",
+  "model": "glm-4.5"
+}

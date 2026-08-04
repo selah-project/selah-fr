@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "et ne te détourne pas de toutes les paroles que je vous commande ⟨את⟩ aujourd'hui, à droite ou à gauche, pour aller après des dieux autres pour les servir",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "te détourne pas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "commande"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vous",
+      "marks": "aujourd'hui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "à droite"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ou à gauche"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour aller"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dieux"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "autres"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "pour les servir"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:58.589239319Z",
+  "model": "glm-4.5"
+}

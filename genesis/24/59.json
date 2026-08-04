@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et ils envoyèrent ⟨את⟩ Rivka leur sœur et ⟨את⟩ sa nourrice et ⟨את⟩ ⟨le⟩ serviteur d’Abraham et ⟨את⟩ ses hommes",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Et ils envoyèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "leur sœur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa nourrice"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "sa nourrice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "⟨le⟩ serviteur d’Abraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "⟨le⟩ serviteur"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "d’Abraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses hommes"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ses hommes"
+    }
+  ],
+  "timestamp": "2026-08-04T05:31:25.450287934Z",
+  "model": "glm-4.5"
+}

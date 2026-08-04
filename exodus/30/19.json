@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "et ils laveront Aharon et ses fils avec ⟨celui-ci⟩ ⟨את⟩ leurs mains et ⟨את⟩ leurs pieds",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "et ils laveront"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avec ⟨celui-ci⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mains"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs pieds"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "leurs pieds"
+    }
+  ],
+  "timestamp": "2026-08-04T07:00:56.555857552Z",
+  "model": "glm-4.5"
+}

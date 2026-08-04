@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il fit approcher ⟨את⟩ le taureau du sacrifice pour le péché et Aaron et ses fils appuyèrent ⟨את⟩ leurs mains sur la tête du taureau du sacrifice pour le péché",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Et il fit approcher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau"
+    },
+    {
+      "surface": "פר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "du sacrifice pour le péché"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "et appuyèrent"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mains"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "פר",
+      "gloss": "du taureau"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "du sacrifice pour le péché"
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:54.503898664Z",
+  "model": "glm-4.5"
+}

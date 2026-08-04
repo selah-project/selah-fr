@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et le messager vint et le rapporta en disant : « On a apporté les têtes des fils du roi. » Et il dit : « Mettez-les ⟨את⟩ deux tas à l'entrée de la porte jusqu'au matin. »",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et le messager vint"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "le messager"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et le rapporta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "On a apporté"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "les têtes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Mettez-les"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "deux tas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "tas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "à l'entrée"
+    },
+    {
+      "surface": "השער",
+      "gloss": "de la porte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "matin"
+    }
+  ],
+  "timestamp": "2026-08-04T14:22:25.771457128Z",
+  "model": "glm-4.5"
+}

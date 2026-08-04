@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et les fils d'Israël firent ⟨le⟩ mal aux yeux de YHWH, et ils servirent ⟨את⟩ les Baals",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "et ils firent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "mal"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "et ils servirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Baals"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "les Baals"
+    }
+  ],
+  "timestamp": "2026-08-04T11:35:09.132640708Z",
+  "model": "glm-4.5"
+}

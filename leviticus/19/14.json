@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Tu ne maudiras ⟨pas⟩ le sourd, et devant ⟨l'⟩aveugle tu ne mettras ⟨pas⟩ de piège, et tu craindras ton Elohim : moi, YHWH.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "maudiras"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "le sourd"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "et devant"
+    },
+    {
+      "surface": "עור",
+      "gloss": "⟨l'⟩aveugle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mettras ⟨pas⟩"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "de piège"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "et tu craindras"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ton Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": ":"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "moi, YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:02:47.838260324Z",
+  "model": "glm-4.5"
+}

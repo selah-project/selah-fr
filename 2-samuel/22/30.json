@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car par ⟨toi⟩ je percute ⟨un⟩ groupe, par mon Élohim je franchis ⟨une⟩ muraille.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "par ⟨toi⟩"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "je percute"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "⟨un⟩ groupe"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "par mon Élohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "je franchis"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨une⟩ muraille"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:42.988140380Z",
+  "model": "glm-4.5"
+}

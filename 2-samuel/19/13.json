@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Mes frères, vous ⟨êtes⟩ mes os et ma chair, vous ; pourquoi ⟨êtes⟩-vous les derniers à faire revenir ⟨את⟩ le roi ?",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "mes frères"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mes os"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "et ma chair"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "et pourquoi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "serez"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "les derniers"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "pour faire revenir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:19:33.852828357Z",
+  "model": "glm-4.5"
+}

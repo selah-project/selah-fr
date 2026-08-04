@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "et tu mettras une limite ⟨את⟩ le peuple tout autour disant : gardez-vous de monter ⟨à⟩ la montagne ou d'en toucher l'extrémité quiconque touchera la montagne mourra ⟨par⟩ la mort",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "et tu mettras une limite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "gardez-vous"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "(réfl.)"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "de monter"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "⟨à⟩ la montagne"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ou d'en toucher"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "l'extrémité"
+    },
+    {
+      "surface": "כל",
+      "gloss": "quiconque"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "touchera"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "⟨par⟩ la mort"
+    }
+  ],
+  "timestamp": "2026-08-04T06:40:37.724971595Z",
+  "model": "glm-4.5"
+}

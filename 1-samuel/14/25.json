@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et tout ⟨le⟩ peuple du pays vint ⟨dans⟩ la forêt, et il y avait du miel sur ⟨la⟩ surface ⟨du⟩ champ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨le⟩ peuple du pays"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vint"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "⟨dans⟩ la forêt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il y avait"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "du miel"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ surface"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨du⟩ champ"
+    }
+  ],
+  "timestamp": "2026-08-04T12:24:24.905581985Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et les arbres dirent à la vigne : Viens, toi, et règne sur nous.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et dirent"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "les arbres"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "à la vigne"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Viens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toi"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "et règne"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    }
+  ],
+  "timestamp": "2026-08-04T11:45:49.112146673Z",
+  "model": "glm-4.5"
+}

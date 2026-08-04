@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et il dit : Appelle-la. Et il l'appela, et elle se tint à ⟨l'⟩entrée.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Appelle"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-la"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Et il appela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-la"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "et elle se tint"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "à l'entrée"
+    }
+  ],
+  "timestamp": "2026-08-04T14:11:30.247664171Z",
+  "model": "glm-4.5"
+}

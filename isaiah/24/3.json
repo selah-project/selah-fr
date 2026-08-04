@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "La terre ⟨est⟩ vidée, et ⟨est⟩ dépouillée, car YHWH a parlé ⟨את⟩ la parole, celle-ci.",
+  "tokens": [
+    {
+      "surface": "הִבּ֧וֹק",
+      "gloss": "vidée"
+    },
+    {
+      "surface": "תִּבּ֛וֹק",
+      "gloss": "vidée"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "וְהִבּ֣וֹז",
+      "gloss": "et dépouillée"
+    },
+    {
+      "surface": "תִּבּ֑וֹז",
+      "gloss": "dépouillée"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "car"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דִּבֶּ֖ר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la parole, celle-ci"
+    },
+    {
+      "surface": "הַדָּבָ֥ר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הַזֶּֽה",
+      "gloss": "celle-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T15:18:16.771304460Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et aux fils d’Aharon ⟨le⟩ prêtre ils donnèrent ⟨את⟩ ville de refuge ⟨le⟩ meurtrier ⟨את⟩ Hévron et ⟨את⟩ son territoire et ⟨את⟩ Libna et ⟨את⟩ son territoire",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Et aux fils de"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨le⟩ prêtre"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ils donnèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ville de refuge"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ville"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "de refuge"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "⟨le⟩ meurtrier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hévron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hévron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son territoire"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "son territoire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son territoire"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "son territoire"
+    }
+  ],
+  "timestamp": "2026-08-04T11:24:00.550137715Z",
+  "model": "glm-4.5"
+}

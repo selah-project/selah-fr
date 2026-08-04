@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Tout oiseau pur vous le mangerez.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "oiseau"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous le mangerez"
+    }
+  ],
+  "timestamp": "2026-08-04T10:16:57.859286950Z",
+  "model": "glm-4.5"
+}

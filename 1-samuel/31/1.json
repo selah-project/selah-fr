@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et les Philistins firent la guerre ⟨à⟩ Israël, et s'enfuirent les hommes d'Israël de devant les Philistins, et tombèrent ⟨des⟩ tués sur le mont Guilboa",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Et les Philistins"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "firent la guerre"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "⟨à⟩ Israël"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "et s'enfuirent"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "les hommes de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "et tombèrent"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "⟨des⟩ tués"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur le mont"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Guilboa"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:05.663143277Z",
+  "model": "glm-4.5"
+}

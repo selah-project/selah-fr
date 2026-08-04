@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et YHWH dit : Qui séduira ⟨את⟩ Achab, et ⟨il⟩ montera et tombera à Ramoth de Galaad ? Et celui-ci disait ainsi, et celui-là disait ainsi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "séduira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "et montera"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "et tombera"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "à Ramoth"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "de Galaad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et disait"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "et celui-là"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "disait"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ainsi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:04:08.887798117Z",
+  "model": "glm-4.5"
+}

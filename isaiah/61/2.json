@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 61,
+  "translation": "proclamer l'année de la faveur de YHWH et le jour de la vengeance de notre Élohim, pour consoler tous les endeuillés",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "proclamer"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "l'année"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "de la faveur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "et le jour"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "de la vengeance"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "de notre Élohim"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "pour consoler"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "les endeuillés"
+    }
+  ],
+  "timestamp": "2026-08-04T15:55:01.173630809Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "une coudée sa longueur et une coudée sa largeur, carré sera-t-il, et deux coudées sa hauteur, de-lui ses cornes",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "une coudée"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sa longueur"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "et une coudée"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sa largeur"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "carré"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera-t-il"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "et deux coudées"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sa hauteur"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de-lui"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ses cornes"
+    }
+  ],
+  "timestamp": "2026-08-04T07:01:00.622816255Z",
+  "model": "glm-4.5"
+}

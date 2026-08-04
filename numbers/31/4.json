@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Mille par tribu, mille par tribu, pour toutes ⟨les⟩ tribus d'Israël, vous enverrez à ⟨l'⟩armée.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "par tribu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "par tribu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour toutes"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "⟨les⟩ tribus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "vous enverrez"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "à ⟨l'⟩armée"
+    }
+  ],
+  "timestamp": "2026-08-04T09:37:19.652558926Z",
+  "model": "glm-4.5"
+}

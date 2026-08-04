@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Mosheh écouta ⟨la⟩ voix de son beau-père et fit tout ce qu'il ⟨avait⟩ dit",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et Mosheh écouta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨la⟩ voix de"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "son beau-père"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et fit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "il ⟨avait⟩ dit"
+    }
+  ],
+  "timestamp": "2026-08-04T06:38:53.145449752Z",
+  "model": "glm-4.5"
+}

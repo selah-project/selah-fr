@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Paroh commanda, ⟨en⟩ ce jour-là, ⟨את⟩ les commissaires ⟨sur⟩ le peuple, et ⟨את⟩ ses préposés, disant :",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et commanda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨en⟩ ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les commissaires ⟨sur⟩ le peuple"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "les commissaires"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "⟨sur⟩ le peuple"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses préposés"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "ses préposés"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:18.154075802Z",
+  "model": "glm-4.5"
+}

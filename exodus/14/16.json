@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et toi, lève ⟨את⟩ ton bâton et tends ⟨את⟩ ta main sur la mer et fends-la, et les fils d'Israël entreront au milieu de la mer sur ⟨le⟩ sec.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "lève"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton bâton"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ton bâton"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "et tends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "et fends-la"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et entreront"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sur ⟨le⟩ sec"
+    }
+  ],
+  "timestamp": "2026-08-04T06:31:35.249015629Z",
+  "model": "glm-4.5"
+}

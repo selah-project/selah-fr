@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et il égorgea ⟨l'⟩ola, et les fils d’Aaron ⟨le⟩ lui présentèrent ⟨le⟩ sang, et il le jeta sur l’autour, tout autour.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Et il égorgea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨l'⟩",
+      "marks": "ola (offrande d'élévation)"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "et les fils d’Aaron ⟨le⟩ lui présentèrent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils d’Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d’Aaron"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨le⟩ lui présentèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "sang"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "et il le jeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l’autel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:35.218100584Z",
+  "model": "glm-4.5"
+}

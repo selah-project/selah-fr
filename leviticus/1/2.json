@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Parle aux fils d'Israël et dis-leur : ⟨l'⟩homme ⟨d'⟩entre vous qui présentera une offrande à YHWH, du bétail, du gros bétail ou du petit bétail, vous présenterez ⟨את⟩ votre offrande.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "et dis-leur"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": ""
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨l'⟩homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "qui présentera"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "⟨d'⟩entre vous"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "une offrande"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "bétail"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "gros bétail"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ou du"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "petit bétail"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "vous présenterez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "votre offrande"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "votre offrande"
+    }
+  ],
+  "timestamp": "2026-08-04T07:25:15.375197807Z",
+  "model": "glm-4.5"
+}

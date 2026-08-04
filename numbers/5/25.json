@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et le prêtre prendra de la main de la femme ⟨את⟩ l'offrande de la jalousie et il agitera ⟨את⟩ l'offrande devant YHWH et la présentera ⟨את⟩ sur l'autel",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "et le prêtre prendra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main de"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande de la jalousie"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "l'offrande de"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "la jalousie"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "et il agitera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "l'offrande"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "et présentera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sur l'autel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T08:31:16.365727094Z",
+  "model": "glm-4.5"
+}

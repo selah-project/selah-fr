@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et les jours que David régna sur Israël ⟨sont⟩ quarante ans, à Hébron il régna sept ans et à Jérusalem il régna trente-trois ans",
+  "tokens": [
+    {
+      "surface": "וְהַיָּמִ֗ים",
+      "gloss": "Et les jours"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "מָלַ֤ךְ",
+      "gloss": "régna"
+    },
+    {
+      "surface": "דָּוִד֙",
+      "gloss": "David"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אַרְבָּעִ֖ים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "שָׁנָ֑ה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "בְּחֶבְר֤וֹן",
+      "gloss": "à Hébron"
+    },
+    {
+      "surface": "מָלַךְ֙",
+      "gloss": "il régna"
+    },
+    {
+      "surface": "שֶׁ֣בַע",
+      "gloss": "sept"
+    },
+    {
+      "surface": "שָׁנִ֔ים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "וּבִירוּשָׁלִַ֣ם",
+      "gloss": "et à Jérusalem"
+    },
+    {
+      "surface": "מָלַ֔ךְ",
+      "gloss": "il régna"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֥ים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "וְשָׁלֹ֖שׁ",
+      "gloss": "et trois"
+    },
+    {
+      "surface": "שָׁנִֽים",
+      "gloss": "ans"
+    }
+  ],
+  "timestamp": "2026-08-04T13:31:50.663618501Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Aaron fit ainsi, ⟨en⟩ face de la menora, il fit monter ses lampes, comme YHWH avait commandé ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et ... fit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "מול",
+      "gloss": "face de"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "de la menora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "il fit monter"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ses lampes"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-04T08:39:19.008317171Z",
+  "model": "glm-4.5"
+}

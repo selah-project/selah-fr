@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et je donnerai de l'herbe dans ton champ pour ton bétail, et tu mangeras et tu seras rassasié",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "et je donnerai"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "de l'herbe"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "dans ton champ"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "pour ton bétail"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "et tu mangeras"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "et tu seras rassasié"
+    }
+  ],
+  "timestamp": "2026-08-04T10:12:23.820419633Z",
+  "model": "glm-4.5"
+}

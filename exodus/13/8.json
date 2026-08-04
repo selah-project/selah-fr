@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et tu raconteras à ton fils, en ce jour-là, disant : à cause de cela, YHWH a fait ⟨pour⟩ moi, quand je suis sorti d'Égypte.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "Et tu raconteras"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "à ton fils"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pour⟩ moi"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "quand je suis sorti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:49.781157321Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et David envoya vers Yoab : envoie-moi ⟨את⟩ Urie le Hittite ; et Yoab envoya ⟨את⟩ Urie vers David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et ... envoya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envoie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "-moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urie le Hittite"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urie"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "le Hittite"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et ... envoya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urie"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-04T13:05:44.689687529Z",
+  "model": "glm-4.5"
+}

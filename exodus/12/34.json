@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et le peuple porta ⟨את⟩ sa pâte avant qu'elle ⟨ne⟩ soit levée, leurs pétrins liés dans leurs vêtements sur leurs épaules",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Et porta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pâte"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "sa pâte"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "avant que"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "elle ⟨ne⟩ soit levée"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "leurs pétrins"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "liés"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "dans leurs vêtements"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "leurs épaules"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:16.239722749Z",
+  "model": "glm-4.5"
+}

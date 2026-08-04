@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Élohim soumit en ce jour-là ⟨את⟩ Yabin, roi de Canaan, devant les fils d'Israël",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Et soumit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabin, roi de Canaan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": ", roi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": ", devant"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T11:39:01.123808991Z",
+  "model": "glm-4.5"
+}

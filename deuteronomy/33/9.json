@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Celui qui dit de son père et de sa mère : je ne l'ai pas vu ; et ⟨את⟩ ses frères, il ne les a pas reconnus ; et ⟨את⟩ ses fils, il ne les a pas connus ; car ils ont gardé ta parole et ton alliance ils observeront.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Celui qui dit"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "et de sa mère"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne l'ai pas"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "vu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses frères"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne les a pas"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "reconnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne les a pas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ils ont gardé"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "et ton alliance"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ils observeront"
+    }
+  ],
+  "timestamp": "2026-08-04T10:48:40.167043669Z",
+  "model": "glm-4.5"
+}

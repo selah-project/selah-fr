@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et il dit à ses filles : et où est-il ? Pourquoi avez-vous laissé ⟨את⟩ l'homme ? Appelez-le et qu'il mange du pain.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ses filles"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "et où est-il"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "c'est que"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "avez-vous laissé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'homme"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "appelez-le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui \/ qu'il"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "et qu'il mange"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:38.673504653Z",
+  "model": "glm-4.5"
+}

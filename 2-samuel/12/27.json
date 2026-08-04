@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Joab envoya des messagers à David et dit : J'ai combattu contre Rabba, même j'ai capturé ⟨את⟩ la ville des eaux.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "des messagers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "J'ai combattu"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "contre Rabba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "j'ai capturé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville des eaux"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "המים",
+      "gloss": "des eaux"
+    }
+  ],
+  "timestamp": "2026-08-04T13:08:51.718285951Z",
+  "model": "glm-4.5"
+}

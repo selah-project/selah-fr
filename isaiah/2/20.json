@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "En ce jour-là, l'homme jettera ⟨את⟩ les idoles de son argent et ⟨את⟩ les idoles de son or, qu'ils avaient faites pour se prosterner, aux taupes et aux chauves-souris",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "jettera"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les idoles de son argent"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "les idoles de"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "son argent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les idoles de son or"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "les idoles de"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "son or"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ils avaient faites"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "se prosterner"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "aux taupes"
+    },
+    {
+      "surface": "פרות",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "et aux chauves-souris"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:24.974607226Z",
+  "model": "glm-4.5"
+}

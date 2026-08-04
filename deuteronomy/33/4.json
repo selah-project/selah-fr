@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "La Torah, ⟨Moshé⟩ nous ⟨a⟩ commandée, possession de l'assemblée de Yaakov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "La Torah"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nous ⟨a⟩ commandée"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨Moshé⟩"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "possession"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "de l'assemblée"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-04T10:47:55.711190902Z",
+  "model": "glm-4.5"
+}

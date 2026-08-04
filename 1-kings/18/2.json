@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Éliyah alla pour ⟨se⟩ montrer à Achab, et ⟨la⟩ famine était sévère en Samarie.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Éliyah"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "pour ⟨se⟩ montrer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "et ⟨la⟩ famine"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "était sévère"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "en Samarie"
+    }
+  ],
+  "timestamp": "2026-08-04T13:57:39.340559255Z",
+  "model": "glm-4.5"
+}

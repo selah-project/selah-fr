@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "vous ⟨ferez⟩ savoir ⟨את⟩ vos fils en disant : sur ⟨le⟩ sec a passé Israël ⟨את⟩ le Jourdain, celui-ci",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "vous ⟨ferez⟩ savoir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos fils"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vos fils"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sur ⟨le⟩ sec"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a passé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le Jourdain"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T10:53:19.590059876Z",
+  "model": "glm-4.5"
+}

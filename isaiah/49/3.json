@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Et Il me dit : Mon serviteur, toi es, Israël, en qui Je me glorifierai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Il dit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Mon serviteur"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi es"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "en qui"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "Je me glorifierai"
+    }
+  ],
+  "timestamp": "2026-08-04T15:44:36.298294840Z",
+  "model": "glm-4.5"
+}

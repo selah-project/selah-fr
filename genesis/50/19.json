@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et Joseph leur dit : Ne craignez point, car ⟨suis⟩-je ⟨à la place⟩ d'Élohim ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "craignez point"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "⟨à la place⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨suis⟩-je"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:41.539772348Z",
+  "model": "glm-4.5"
+}

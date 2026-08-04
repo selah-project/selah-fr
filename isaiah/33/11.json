@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Concevez du chaume, enfantez de la paille, votre Rouah — un feu vous dévorera.",
+  "tokens": [
+    {
+      "surface": "תַּהֲר֥וּ",
+      "gloss": "Concevez"
+    },
+    {
+      "surface": "חֲשַׁ֖שׁ",
+      "gloss": "du chaume"
+    },
+    {
+      "surface": "תֵּ֣לְדוּ",
+      "gloss": "enfantez"
+    },
+    {
+      "surface": "קַ֑שׁ",
+      "gloss": "de la paille"
+    },
+    {
+      "surface": "רוּחֲכֶ֕ם",
+      "gloss": "votre Rouah"
+    },
+    {
+      "surface": "אֵ֖שׁ",
+      "gloss": "un feu"
+    },
+    {
+      "surface": "תֹּאכַלְכֶֽם",
+      "gloss": "vous dévorera"
+    }
+  ],
+  "timestamp": "2026-08-04T15:28:29.184364443Z",
+  "model": "glm-4.5"
+}

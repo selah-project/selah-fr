@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et il le coupera en ⟨ses⟩ morceaux, ⟨את⟩ sa tête et ⟨את⟩ sa graisse, et le prêtre les arrangera sur ⟨le⟩ bois, ⟨qui est⟩ sur ⟨le⟩ feu, ⟨qui est⟩ sur ⟨l'⟩autel",
+  "tokens": [
+    {
+      "surface": "וְנִתַּח",
+      "gloss": "et il coupera"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ses morceaux"
+    },
+    {
+      "surface": "לִנְתָחָיו",
+      "gloss": "en ses morceaux"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sa tête"
+    },
+    {
+      "surface": "רֹאשׁוֹ",
+      "gloss": "sa tête"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sa graisse"
+    },
+    {
+      "surface": "פִּדְרֽוֹ",
+      "gloss": "sa graisse"
+    },
+    {
+      "surface": "וְעָרַךְ",
+      "gloss": "et arrangera"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "sur le bois"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָעֵצִים",
+      "gloss": "le bois"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הָאֵשׁ",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הַמִּזְבֵּֽחַ",
+      "gloss": "l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T07:25:09.015051483Z",
+  "model": "glm-4.5"
+}

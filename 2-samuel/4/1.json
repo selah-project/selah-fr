@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et le fils de Shaul entendit qu'était mort Abner à Hébron, et ses mains s'affaiblirent, et tout Israël fut consterné.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Et ... entendit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "מת",
+      "gloss": "était mort"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "à Hébron"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "et ses mains s'affaiblirent"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "⟨ses mains⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "fut consterné"
+    }
+  ],
+  "timestamp": "2026-08-04T12:56:26.614222300Z",
+  "model": "glm-4.5"
+}

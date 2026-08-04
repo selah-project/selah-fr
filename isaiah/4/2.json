@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "En ce jour ⟨sera⟩ un germe de YHWH pour splendeur et pour gloire, et le fruit de la terre pour magnificence et pour parure, pour l'évasion d'Israël",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨sera⟩"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "un germe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "pour splendeur"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "et pour gloire"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "et le fruit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "pour magnificence"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "et pour parure"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "pour l'évasion"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:51:09.501962831Z",
+  "model": "glm-4.5"
+}

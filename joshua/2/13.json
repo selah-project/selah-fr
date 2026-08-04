@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et ⟨vous⟩ ferez vivre ⟨את⟩ mon père et ⟨את⟩ ma mère et ⟨את⟩ mes frères et ⟨את⟩ ma sœur et ⟨את⟩ tout ce qui ⟨est⟩ à eux, et ⟨vous⟩ délivrerez ⟨את⟩ nos vies de la mort",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "et ferez vivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon père"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ma mère"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ma mère"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "mes frères"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mes frères"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ma sœur"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "ma sœur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "et délivrerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nos vies"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "nos vies"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-04T10:50:55.606062613Z",
+  "model": "glm-4.5"
+}

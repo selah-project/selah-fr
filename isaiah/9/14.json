@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "l'ancien et l'homme de visage élevé, ⟨il est⟩ la tête ; et le prophète enseignant le mensonge, ⟨il est⟩ la queue.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "l'ancien"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "et l'homme de visage élevé"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "visage"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "et le prophète"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "enseignant"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "le mensonge"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "la queue"
+    }
+  ],
+  "timestamp": "2026-08-04T14:56:56.975064089Z",
+  "model": "glm-4.5"
+}

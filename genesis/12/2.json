@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et je ferai de toi ⟨une⟩ grande nation, et je te bénirai, et je rendrai grand ton nom, et sois ⟨une⟩ bénédiction",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Et je ferai de toi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨une⟩ nation"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "et je te bénirai"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "et je rendrai grand"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et sois"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "⟨une⟩ bénédiction"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:17.762294745Z",
+  "model": "glm-4.5"
+}

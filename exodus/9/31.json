@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et le lin et l'orge ⟨furent⟩ frappés, car l'orge ⟨était⟩ en épis et le lin ⟨en⟩ gaine.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "Et le lin"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "et l'orge"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "frappés"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "l'orge"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "épis"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "et le lin"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "gaine"
+    }
+  ],
+  "timestamp": "2026-08-04T06:23:32.216050462Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "car on ne leur comptait pas l'argent qu'on donnait à ceux qui faisaient l'ouvrage, car ils agissaient avec fidélité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "à ceux qui faisaient"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "l'ouvrage"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "on donnait"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "et agissaient"
+    },
+    {
+      "surface": "בו",
+      "gloss": "avec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'argent"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T14:25:37.527382315Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et tu frapperas ⟨את⟩ la maison d'Ahab ton seigneur, et je vengerai le sang de mes serviteurs les prophètes, et le sang de tous les serviteurs de YHWH, de la main d'Jézabel",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "Et tu frapperas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison d'Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "d'Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ton seigneur"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "et je vengerai"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "de mes serviteurs"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "les prophètes"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "et le sang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de tous"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "d'Jézabel"
+    }
+  ],
+  "timestamp": "2026-08-04T14:19:06.658493057Z",
+  "model": "glm-4.5"
+}

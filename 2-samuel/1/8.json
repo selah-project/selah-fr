@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il me dit : Qui es-tu ? Et je lui dis : Amalékite, je ⟨suis⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "es-tu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalékite"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:45.530667958Z",
+  "model": "glm-4.5"
+}

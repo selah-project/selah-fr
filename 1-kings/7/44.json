@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "et ⟨את⟩ la Mer unique, et ⟨את⟩ les douze bœufs sous la Mer",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la Mer"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "la Mer"
+    },
+    {
+      "surface": "הָאֶחָד",
+      "gloss": "unique"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les douze bœufs"
+    },
+    {
+      "surface": "הַבָּקָר",
+      "gloss": "les bœufs"
+    },
+    {
+      "surface": "שְׁנֵים",
+      "gloss": "douze"
+    },
+    {
+      "surface": "עָשָׂר",
+      "gloss": "douze"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "הַיָּם",
+      "gloss": "la Mer"
+    }
+  ],
+  "timestamp": "2026-08-04T13:39:51.766333378Z",
+  "model": "glm-4.5"
+}

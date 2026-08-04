@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et il jugea ⟨את⟩ Israël aux jours des Philistins vingt ans",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Et il jugea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "aux jours"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Philistins"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    }
+  ],
+  "timestamp": "2026-08-04T11:54:46.147332818Z",
+  "model": "glm-4.5"
+}

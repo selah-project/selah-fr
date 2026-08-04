@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et il arriva ⟨au⟩ commencement de leur séjour là, ils ne craignaient pas ⟨את⟩ YHWH, et YHWH envoya parmi eux ⟨את⟩ les lions, et ils furent tuant parmi eux.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "⟨au⟩ commencement"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "de leur séjour"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ils ne craignaient"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et YHWH envoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "parmi eux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les lions"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "les lions"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et ils furent"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "tuant"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "parmi eux"
+    }
+  ],
+  "timestamp": "2026-08-04T14:32:37.760511021Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et il dit : Maudit soit Kenaan, serviteur de serviteurs, il sera pour ses frères.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "serviteur"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "de serviteurs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il sera"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "pour ses frères"
+    }
+  ],
+  "timestamp": "2026-08-04T05:09:40.216069819Z",
+  "model": "glm-4.5"
+}

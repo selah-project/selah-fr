@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "deuteronomy 28:27",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH te frappera de la lèpre d'Égypte, d'hémorroïdes, de gale et de dartres, dont tu ne pourras guérir.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "frappera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "de la lèpre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ובעפלים",
+      "gloss": "d'hémorroïdes"
+    },
+    {
+      "surface": "ובגרב",
+      "gloss": "de gale"
+    },
+    {
+      "surface": "ובחרס",
+      "gloss": "et de dartres"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "pourras"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "guérir"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:55.525489896Z",
+  "model": "glm-4.5"
+}

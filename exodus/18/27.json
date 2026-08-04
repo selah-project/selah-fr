@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Moshé envoya ⟨את⟩ son beau-père, et il s'en alla pour lui vers ⟨sa⟩ terre.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son beau-père"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "son beau-père"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et il s'en alla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "⟨sa⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T06:38:57.204164633Z",
+  "model": "glm-4.5"
+}

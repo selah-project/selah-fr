@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Prêtez l'oreille et écoutez ma voix, soyez attentifs et écoutez mon propos",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Prêtez l'oreille"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "et écoutez"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "soyez attentifs"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "et écoutez"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mon propos"
+    }
+  ],
+  "timestamp": "2026-08-04T15:22:27.149182336Z",
+  "model": "glm-4.5"
+}

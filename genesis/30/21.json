@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et ensuite elle enfanta une fille et appela ⟨את⟩ son nom Dinah",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Et ensuite"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "elle enfanta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "une fille"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "et appela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-04T05:38:53.488905093Z",
+  "model": "glm-4.5"
+}

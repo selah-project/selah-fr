@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et Abraham ajouta et prit une femme et son nom ⟨est⟩ Qetourah",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ajouta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "et son nom"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Qetourah"
+    }
+  ],
+  "timestamp": "2026-08-04T05:31:52.879441584Z",
+  "model": "glm-4.5"
+}

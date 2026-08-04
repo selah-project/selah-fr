@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et El-Shaddaï te bénisse, et te fasse fructifier et te multiplie, et tu sois une assemblée de peuples.",
+  "tokens": [
+    {
+      "surface": "וְאֵ֤ל",
+      "gloss": "Et El"
+    },
+    {
+      "surface": "שַׁדַּי֙",
+      "gloss": "Shaddaï"
+    },
+    {
+      "surface": "יְבָרֵ֣ךְ",
+      "gloss": "te bénisse"
+    },
+    {
+      "surface": "אֹֽתְךָ֔",
+      "gloss": "⟨את⟩",
+      "marks": "te fasse fructifier"
+    },
+    {
+      "surface": "וְיַפְרְךָ֖",
+      "gloss": "et te fasse fructifier"
+    },
+    {
+      "surface": "וְיַרְבֶּ֑ךָ",
+      "gloss": "et te multiplie"
+    },
+    {
+      "surface": "וְהָיִ֖יתָ",
+      "gloss": "et tu sois"
+    },
+    {
+      "surface": "לִקְהַ֥ל",
+      "gloss": "une assemblée"
+    },
+    {
+      "surface": "עַמִּֽים",
+      "gloss": "de peuples"
+    }
+  ],
+  "timestamp": "2026-08-04T05:36:17.661190559Z",
+  "model": "glm-4.5"
+}

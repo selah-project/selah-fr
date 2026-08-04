@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et il dit : Voici, j'ai entendu qu'il y a du blé en Égypte, descendez là-bas et achetez pour nous de là-bas, et nous vivrons et nous ne mourrons pas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "j'ai entendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "du blé"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "descendez"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là-bas"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "et achetez"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "משם",
+      "gloss": "de là-bas"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "et nous vivrons"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et nous ne"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mourrons pas"
+    }
+  ],
+  "timestamp": "2026-08-04T05:55:52.627941299Z",
+  "model": "glm-4.5"
+}

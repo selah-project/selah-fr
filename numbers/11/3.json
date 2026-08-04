@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et il appela le nom du lieu ⟨ce⟩-ci Tabeéra, car le feu de YHWH ⟨avait⟩ brûlé au milieu d'eux.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et il appela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "du lieu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ce⟩-ci"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabeéra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "⟨avait⟩ brûlé"
+    },
+    {
+      "surface": "בם",
+      "gloss": "au milieu d'eux"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:47:28.963362652Z",
+  "model": "glm-4.5"
+}

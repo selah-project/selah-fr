@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et ⟨את⟩ Holon et ⟨את⟩ ses banlieues et ⟨את⟩ Debir et ⟨את⟩ ses banlieues",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Holon"
+    },
+    {
+      "surface": "חֹלֹן",
+      "gloss": "Holon"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses banlieues"
+    },
+    {
+      "surface": "מִגְרָשֶׁהָ",
+      "gloss": "ses banlieues"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דְּבִיר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses banlieues"
+    },
+    {
+      "surface": "מִגְרָשֶֽׁהָ",
+      "gloss": "ses banlieues"
+    }
+  ],
+  "timestamp": "2026-08-04T11:23:49.894082761Z",
+  "model": "glm-4.5"
+}

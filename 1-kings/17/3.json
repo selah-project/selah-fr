@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Va d'ici et tourne-toi vers l'orient et cache-toi au torrent de Kerith qui est en face du Jourdain",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "d'ici"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "et tourne-toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vers"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "l'orient"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "et cache-toi"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "au torrent"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "על",
+      "gloss": "est en face de"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    }
+  ],
+  "timestamp": "2026-08-04T13:56:31.963269706Z",
+  "model": "glm-4.5"
+}

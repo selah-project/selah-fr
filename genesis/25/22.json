@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et les fils se heurtèrent l'un l'autre en son sein et elle dit : si ⟨c'est⟩ ainsi, pourquoi ⟨suis⟩-je ⟨ainsi⟩ ? et elle alla chercher ⟨את⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "et se heurtèrent"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "en son sein"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et elle dit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "suis-je"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "et elle alla"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "chercher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T05:32:38.043248026Z",
+  "model": "glm-4.5"
+}

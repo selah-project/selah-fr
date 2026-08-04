@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et vit Élohim ⟨את⟩ tout ce qu'il avait fait, et voici, ⟨cela était⟩ très bon. Et il y eut soir et il y eut matin, jour le sixième.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce qu'il avait fait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il avait fait"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Et il y eut"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il y eut"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "le sixième"
+    }
+  ],
+  "timestamp": "2026-08-04T04:59:58.614330552Z",
+  "model": "glm-4.5"
+}

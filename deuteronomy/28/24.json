@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH donnera ⟨את⟩ la pluie de ta terre poussiére et terre, depuis les cieux elle descendra sur toi jusqu'à ta destruction.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la pluie de ta terre"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pluie"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "de ta terre"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "poussiére"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "et terre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "elle descendra"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ta destruction"
+    }
+  ],
+  "timestamp": "2026-08-04T10:37:09.843503405Z",
+  "model": "glm-4.5"
+}

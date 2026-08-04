@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Élohim bénit ⟨את⟩ Noé et ⟨את⟩ ses fils et il dit à eux : fructifiez et multipliez et remplissez ⟨את⟩ la terre",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Et bénit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noé"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "fructifiez"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "et multipliez"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "et remplissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:58.635233872Z",
+  "model": "glm-4.5"
+}

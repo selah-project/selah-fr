@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et si vous vendez une vente à votre compatriote, ou si vous achetez de ⟨la⟩ main de votre compatriote, n'opprimez pas un homme ⟨את⟩ son frère",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "vous vendez"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "une vente"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "à votre compatriote"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou si"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "vous achetez"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "la main de votre compatriote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "opprimez pas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son frère"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:23.911737768Z",
+  "model": "glm-4.5"
+}

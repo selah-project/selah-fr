@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et le roi couvrit ⟨את⟩ sa face et le roi cria une voix grande : Mon fils Avshalom, Avshalom, mon fils, mon fils !",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Et le roi"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "couvrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa face"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa face"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "et le roi cria"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "une voix"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Mon fils"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    }
+  ],
+  "timestamp": "2026-08-04T13:19:15.690214666Z",
+  "model": "glm-4.5"
+}

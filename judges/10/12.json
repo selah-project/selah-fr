@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et les Sidoniens, et Amalek, et Maon vous ont opprimés, et vous avez crié vers moi, et je vous ai sauvés ⟨את⟩ de leur main",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "et les Sidoniens"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "et Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "et Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "ont opprimés"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "et vous avez crié"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "et je vous ai sauvés"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "de leur main"
+    }
+  ],
+  "timestamp": "2026-08-04T11:47:45.112160488Z",
+  "model": "glm-4.5"
+}

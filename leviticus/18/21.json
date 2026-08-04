@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et de ta semence tu ne donneras pas pour faire passer ⟨au⟩ Moloch, et tu ne profaneras pas ⟨את⟩ le nom de ton Élohim : moi YHWH.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "et de ta semence"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne donneras pas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ne donneras pas"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "pour faire passer"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨au⟩ Moloch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "profaneras pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "de ton Élohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:01:53.691787927Z",
+  "model": "glm-4.5"
+}

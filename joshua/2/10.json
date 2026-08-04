@@ -1,0 +1,120 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joshua 2:10",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Car nous avons entendu ⟨ce que⟩ YHWH a fait sécher ⟨את⟩ les eaux de la mer de Souf devant vous, à votre sortie d'Égypte, et ⟨ce que⟩ vous avez fait aux deux rois de l'Amoré qui sont outre le Jourdain, à Sihon et à Og, que vous avez dévoués ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nous avons entendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ce que⟩",
+      "marks": "אשר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "a fait sécher"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les eaux"
+    },
+    {
+      "surface": "מי",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Souf"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "à votre sortie"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et ⟨ce que⟩"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "vous avez fait"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "aux deux"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rois de"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Amoré"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui sont"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "outre"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "à Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "et à Og"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "החרמתם",
+      "gloss": "vous avez dévoués"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-04T10:50:38.982514826Z",
+  "model": "glm-4.5"
+}

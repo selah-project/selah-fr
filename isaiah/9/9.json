@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Les briques ⟨sont⟩ tombées et ⟨nous⟩ construirons ⟨en⟩ pierre de taille, les sycomores ⟨sont⟩ coupés et nous les remplacerons par des cèdres.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "les briques"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sont tombées"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "et ⟨nous⟩ construirons ⟨en⟩ pierre de taille"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": ""
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "les sycomores"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "sont coupés"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "et nous les remplacerons par des cèdres"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T14:56:55.948888461Z",
+  "model": "glm-4.5"
+}

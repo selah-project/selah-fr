@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Préparez la table, guettez la guette, mangez, buvez, levez-vous ⟨vous⟩ les chefs, oignez ⟨le⟩ bouclier",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "Préparez"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "la table"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "guettez"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "la guette"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "mangez"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "buvez"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "levez-vous"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "les chefs"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "oignez"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bouclier"
+    }
+  ],
+  "timestamp": "2026-08-04T15:12:56.454346788Z",
+  "model": "glm-4.5"
+}

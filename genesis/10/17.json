@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et ⟨את⟩ le Hivite, et ⟨את⟩ l'Arkite, et ⟨את⟩ le Sinite",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le Hivite"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "le Hivite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'Arkite"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "l'Arkite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le Sinite"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "le Sinite"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:53.622470710Z",
+  "model": "glm-4.5"
+}

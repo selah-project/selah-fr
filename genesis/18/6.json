@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Abraham ⟨se hâta⟩ vers ⟨la⟩ tente, vers Sarah, et dit : ⟨Hâte-toi⟩, trois séas de fleur de farine, pétris et fais des galettes.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Et Abraham ⟨se hâta⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "vers ⟨la⟩ tente"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "⟨Hâte-toi⟩"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trois"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "séas"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "de farine"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "de fleur"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "pétris"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "et fais"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "des galettes"
+    }
+  ],
+  "timestamp": "2026-08-04T05:23:14.179679412Z",
+  "model": "glm-4.5"
+}

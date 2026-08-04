@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et Joseph fit jurer ⟨את⟩ les fils d'Israël en disant : certainement, Élohim פקד vous et vous ferez monter ⟨את⟩ mes os d'ici.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Et ... fit jurer"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils d'Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "certainement ... [paquod]"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "[paquod] vous"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous ferez monter"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "et vous ferez monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes os"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mes os"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "d'ici"
+    }
+  ],
+  "timestamp": "2026-08-04T06:10:58.085264969Z",
+  "model": "glm-4.5"
+}

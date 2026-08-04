@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car ⟨את⟩ toutes ⟨ces⟩ abominations ont faites les hommes du pays qui ⟨étaient⟩ avant vous et la terre s'est souillée",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes ces abominations"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "abominations"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ces"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ont faites"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "avant vous"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "et s'est souillée"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T08:01:53.125824881Z",
+  "model": "glm-4.5"
+}

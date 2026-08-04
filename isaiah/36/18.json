@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "de peur que 'Hizqiyyahou ne vous séduise, en disant : « YHWH nous délivrera ». Est-ce que les dieux des nations ⟨ont⟩ délivré chacun ⟨את⟩ sa terre de la main du roi d'Assour ?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "ne vous séduise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "'Hizqiyyahou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "nous délivrera"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "ont délivré"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "les dieux"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa terre"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sa terre"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assour"
+    }
+  ],
+  "timestamp": "2026-08-04T15:31:06.338136704Z",
+  "model": "glm-4.5"
+}

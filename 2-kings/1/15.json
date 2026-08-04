@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et le messager de YHWH parla à Éliyah : descends avec lui, ne crains pas ⟨sa⟩ présence ; et il se leva et descendit avec lui vers le roi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "le messager"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Éliyah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "descends"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "avec lui",
+      "marks": "avec lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "crains pas"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "⟨sa⟩ présence"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "et il se leva"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "et descendit"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "avec lui",
+      "marks": "avec lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-04T14:06:41.563620719Z",
+  "model": "glm-4.5"
+}

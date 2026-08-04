@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Envoyez l'un d'entre vous et qu'il prenne ⟨את⟩ votre frère, et vous, vous serez liés, et on éprouvera ⟨את⟩ vos paroles si ⟨la⟩ vérité ⟨est⟩ avec vous, et sinon, vive Paroh, car vous êtes des espions.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Envoyez"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "d'entre vous"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et qu'il prenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "votre frère"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "votre frère"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "et vous"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "vous serez liés"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "et on éprouvera"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "vos paroles"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "la vérité"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vive"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "des espions"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous êtes"
+    }
+  ],
+  "timestamp": "2026-08-04T05:56:30.583975151Z",
+  "model": "glm-4.5"
+}

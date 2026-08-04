@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Et Paroh parla à Joseph, en disant : « Ton père et tes frères ⟨sont⟩ venus vers toi »",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "et tes frères"
+    },
+    {
+      "surface": "באו",
+      "gloss": "⟨sont⟩ venus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:09.787452442Z",
+  "model": "glm-4.5"
+}

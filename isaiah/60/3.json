@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Et des nations marcheront vers ta lumière, et des rois vers ⟨le⟩ rayonnement de ton lever.",
+  "tokens": [
+    {
+      "surface": "וְהָלְכ֥וּ",
+      "gloss": "Et marcheront"
+    },
+    {
+      "surface": "גוֹיִ֖ם",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "לְאוֹרֵ֑ךְ",
+      "gloss": "vers ta lumière"
+    },
+    {
+      "surface": "וּמְלָכִ֖ים",
+      "gloss": "et des rois"
+    },
+    {
+      "surface": "לְנֹ֥גַה",
+      "gloss": "vers ⟨le⟩ rayonnement"
+    },
+    {
+      "surface": "זַרְחֵֽךְ",
+      "gloss": "de ton lever"
+    }
+  ],
+  "timestamp": "2026-08-04T15:53:36.867563514Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Absalom ⟨le⟩ pressa, et il envoya avec lui Amnon et tous les fils du roi.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "Et pressa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et il envoya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tous les fils du roi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-04T13:10:10.344100808Z",
+  "model": "glm-4.5"
+}

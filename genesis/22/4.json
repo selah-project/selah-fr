@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Le troisième jour, Abraham leva ⟨את⟩ ses yeux et vit ⟨את⟩ le lieu de loin.",
+  "tokens": [
+    {
+      "surface": "בַּיּ֣וֹם",
+      "gloss": "Le jour"
+    },
+    {
+      "surface": "הַשְּׁלִישִׁ֗י",
+      "gloss": "le troisième"
+    },
+    {
+      "surface": "וַיִּשָּׂ֨א",
+      "gloss": "leva"
+    },
+    {
+      "surface": "אַבְרָהָ֧ם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ses yeux"
+    },
+    {
+      "surface": "עֵינָ֛יו",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "וַיַּ֥רְא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le lieu"
+    },
+    {
+      "surface": "הַמָּק֖וֹם",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "מֵרָחֹֽק",
+      "gloss": "de loin"
+    }
+  ],
+  "timestamp": "2026-08-04T05:28:22.800459838Z",
+  "model": "glm-4.5"
+}

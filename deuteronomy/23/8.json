@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Tu ne détesteras pas l'Iduméen car il est ton frère ; tu ne détesteras pas l'Égyptien car tu as été résident dans son pays.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "détesteras pas"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "l'Iduméen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "il est ton frère"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "détesteras pas"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "l'Égyptien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גר",
+      "gloss": "tu as été résident"
+    },
+    {
+      "surface": "היית",
+      "gloss": ""
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "dans son pays"
+    }
+  ],
+  "timestamp": "2026-08-04T10:28:39.180969015Z",
+  "model": "glm-4.5"
+}

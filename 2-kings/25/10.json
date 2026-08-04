@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et ⟨את⟩ les murailles de Jérusalem tout autour détruisirent toute ⟨את⟩ l'armée des Chaldéens qui ⟨est⟩ avec le chef des tueurs",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les murailles"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "les murailles"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "détruisirent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨את⟩ l'armée",
+      "marks": "l'armée"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "des Chaldéens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "רב",
+      "gloss": "avec le chef"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "des tueurs"
+    }
+  ],
+  "timestamp": "2026-08-04T14:47:11.421715473Z",
+  "model": "glm-4.5"
+}

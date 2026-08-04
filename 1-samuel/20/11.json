@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Jonathan dit à David : Viens et sortons dans le champ. Et ils sortirent, tous les deux, dans le champ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "viens"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "et sortons"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "Et ils sortirent"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tous les deux"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dans le champ"
+    }
+  ],
+  "timestamp": "2026-08-04T12:36:00.551231873Z",
+  "model": "glm-4.5"
+}

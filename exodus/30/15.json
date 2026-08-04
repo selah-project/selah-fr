@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Le riche ne ⟨donnera⟩ pas plus et le pauvre ne ⟨donnera⟩ pas moins qu'un demi-sicle, pour donner ⟨את⟩ la contribution de YHWH, afin de faire expiation pour vos âmes.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "le riche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "donnera pas plus"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "et le pauvre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "donnera pas moins"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "qu'un demi"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sicle"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la contribution"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "contribution"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "afin de faire expiation"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "vos âmes"
+    }
+  ],
+  "timestamp": "2026-08-04T07:00:57.976322361Z",
+  "model": "glm-4.5"
+}

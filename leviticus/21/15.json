@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et il ne ⟨ne⟩ profanera ⟨pas⟩ sa semence parmi son peuple car je ⟨suis⟩ YHWH celui qui le sanctifie",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "profanera"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sa semence"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "parmi son peuple"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "celui qui le sanctifie"
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:03.519281722Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "la nefesh qui ⟨le⟩ touchera sera impure jusqu'au soir, et ⟨elle⟩ ne mangera pas des choses saintes, si ce n'est qu'il a lavé sa chair dans l'eau",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "touchera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "sera impure"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangera"
+    },
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "choses saintes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si ce n'est que"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "a lavé"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:41.782384123Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et aussi le fils de la servante, je le ferai ⟨את⟩ une nation, car c'est ta descendance.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le fils de la servante"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "de la servante"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "une nation"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "je le ferai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "c'est ta descendance"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "[il est]"
+    }
+  ],
+  "timestamp": "2026-08-04T05:27:00.324775831Z",
+  "model": "glm-4.5"
+}

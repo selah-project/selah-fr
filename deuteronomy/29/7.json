@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "et nous prîmes ⟨את⟩ leur terre et la donnâmes en possession aux Rubénites et aux Gadites et à la demi-tribu ⟨des⟩ Manassites",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "et nous prîmes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur terre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur terre"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "et nous la donnâmes"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "en possession"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "aux Rubénites"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "et aux Gadites"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "et à la demi-"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "des Manassites"
+    }
+  ],
+  "timestamp": "2026-08-04T10:40:24.490917687Z",
+  "model": "glm-4.5"
+}

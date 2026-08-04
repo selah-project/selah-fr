@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Tu ne haïras pas ⟨את⟩ ton frère dans ton cœur ; tu reprendras sûrement ⟨את⟩ ton prochain, et tu ne porteras pas de péché à cause de lui.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "haïras pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton frère"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ton frère"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dans ton cœur"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "tu reprendras"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "sûrement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton prochain"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ton prochain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "porteras pas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "à cause de lui"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "de péché"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:03.491570676Z",
+  "model": "glm-4.5"
+}

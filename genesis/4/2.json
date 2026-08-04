@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et elle enfanta encore ⟨את⟩ son frère ⟨את⟩ Abel ; et Abel était berger de petit bétail, et Caïn travaillait la terre.",
+  "tokens": [
+    {
+      "surface": "וַתֹּ֣סֶף",
+      "gloss": "Et elle ajouta"
+    },
+    {
+      "surface": "לָלֶ֔דֶת",
+      "gloss": "d'enfanter"
+    },
+    {
+      "surface": "אָחִ֖יו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son frère"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Abel"
+    },
+    {
+      "surface": "הָ֑בֶל",
+      "gloss": "Abel"
+    },
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "et il fut"
+    },
+    {
+      "surface": "הֶ֨בֶל֙",
+      "gloss": "Abel"
+    },
+    {
+      "surface": "רֹ֣עֵה",
+      "gloss": "berger"
+    },
+    {
+      "surface": "צֹ֔אן",
+      "gloss": "de petit bétail"
+    },
+    {
+      "surface": "וְקַ֕יִן",
+      "gloss": "et Caïn"
+    },
+    {
+      "surface": "הָיָ֖ה",
+      "gloss": "était"
+    },
+    {
+      "surface": "עֹבֵ֥ד",
+      "gloss": "travaillant"
+    },
+    {
+      "surface": "אֲדָמָֽה",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T05:03:41.484522994Z",
+  "model": "glm-4.5"
+}

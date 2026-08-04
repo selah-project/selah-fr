@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et j'envoyai ⟨את⟩ Moshé et ⟨את⟩ Aharon, et je frappai ⟨את⟩ Mitsraïm selon ce que je fis au milieu de lui, et après je vous fis sortir",
+  "tokens": [
+    {
+      "surface": "וָאֶשְׁלַח",
+      "gloss": "Et j'envoyai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וָאֶגֹּף",
+      "gloss": "et je frappai"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraïm"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsraïm"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "selon ce que"
+    },
+    {
+      "surface": "עָשִׂיתִי",
+      "gloss": "je fis"
+    },
+    {
+      "surface": "בְּקִרְבּוֹ",
+      "gloss": "au milieu de lui"
+    },
+    {
+      "surface": "וְאַחַר",
+      "gloss": "et après"
+    },
+    {
+      "surface": "הוֹצֵאתִי",
+      "gloss": "je fis sortir"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:25.815253105Z",
+  "model": "glm-4.5"
+}

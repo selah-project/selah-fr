@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Garde-toi de peur que tu n'oublies ⟨את⟩ YHWH, celui qui t'a fait sortir du pays d'Égypte, de la maison des serviteurs",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Garde-toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de peur"
+    },
+    {
+      "surface": "פן",
+      "gloss": "que"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "tu n'oublies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celui qui"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "t'a fait sortir"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "des serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T09:58:37.083760085Z",
+  "model": "glm-4.5"
+}

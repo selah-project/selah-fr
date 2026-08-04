@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Tout frappeur de nefesh ⟨par⟩ la bouche de témoins ⟨את⟩ le meurtrier fera mourir ; et un témoin unique ne répondra pas ⟨dans⟩ ⟨la⟩ nefesh ⟨pour⟩ mourir.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "frappeur"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "⟨par⟩ la bouche de"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "témoins"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "fera mourir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le meurtrier"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "le meurtrier"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et un témoin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unique"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "répondra pas"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨dans⟩ ⟨la⟩ nefesh"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨pour⟩ mourir"
+    }
+  ],
+  "timestamp": "2026-08-04T09:46:38.346377892Z",
+  "model": "glm-4.5"
+}

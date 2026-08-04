@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et vous vous êtes approchés et vous vous êtes tenus ⟨sous⟩ la montagne, et la montagne ⟨brûlait⟩ ⟨par⟩ le feu jusqu'au cœur des cieux : ténèbres, nuée et brouillard.",
+  "tokens": [
+    {
+      "surface": "וַתִּקְרְב֥וּן",
+      "gloss": "Et vous vous êtes approchés"
+    },
+    {
+      "surface": "וַתַּֽעַמְד֖וּן",
+      "gloss": "et vous vous êtes tenus"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "⟨sous⟩"
+    },
+    {
+      "surface": "הָהָ֑ר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "וְהָהָ֞ר",
+      "gloss": "et la montagne"
+    },
+    {
+      "surface": "בֹּעֵ֤ר",
+      "gloss": "⟨brûlait⟩"
+    },
+    {
+      "surface": "בָּאֵשׁ֙",
+      "gloss": "⟨par⟩ le feu"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "לֵ֣ב",
+      "gloss": "au cœur"
+    },
+    {
+      "surface": "הַשָּׁמַ֔יִם",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "חֹ֖שֶׁךְ",
+      "gloss": "ténèbres"
+    },
+    {
+      "surface": "עָנָ֥ן",
+      "gloss": "nuée"
+    },
+    {
+      "surface": "וַעֲרָפֶֽל",
+      "gloss": "et brouillard"
+    }
+  ],
+  "timestamp": "2026-08-04T09:55:08.207357330Z",
+  "model": "glm-4.5"
+}

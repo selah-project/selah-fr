@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "depuis vingt ans et plus, comme YHWH ⟨את⟩ l'avait commandé à Moshè et aux fils d'Israël sortis du pays d'Égypte",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "et plus"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "à Moshè"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshè"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "et aux fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "sortis"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T09:23:15.749386649Z",
+  "model": "glm-4.5"
+}

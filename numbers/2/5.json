@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et ceux qui campent auprès de lui ⟨sont⟩ la tribu de Issachar, et le chef des fils d'Issachar ⟨est⟩ Nethanel fils de Tsuar",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Et ceux qui campent"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "auprès de lui"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "la tribu de"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Issachar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "et le chef"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "des fils de"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Issachar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Nethanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuar"
+    }
+  ],
+  "timestamp": "2026-08-04T08:24:33.439372043Z",
+  "model": "glm-4.5"
+}

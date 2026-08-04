@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et ⟨את⟩ la graisse et ⟨את⟩ les rognons et ⟨את⟩ le lobe du foie de l'offrande pour le péché, il fit fumer sur l'autel comme YHWH avait commandé ⟨את⟩ Moshé",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la graisse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les rognons"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "les rognons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le lobe"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "le lobe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "foie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "l'offrande pour le péché"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "il fit fumer"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sur l'autel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "timestamp": "2026-08-04T07:38:36.886846900Z",
+  "model": "glm-4.5"
+}

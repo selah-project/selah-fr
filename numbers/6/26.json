@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "YHWH lève sa face vers toi et ⟨te⟩ donne la paix",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "lève"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa face"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la paix"
+    }
+  ],
+  "timestamp": "2026-08-04T08:33:44.664878886Z",
+  "model": "glm-4.5"
+}

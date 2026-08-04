@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "YHWH Tsevaot, Élohim d'Israël, siégeant ⟨sur⟩ les kérouvim, toi, il est, l'Élohim, toi seul, de tous les royaumes de la terre, toi as fait ⟨את⟩ les cieux et ⟨את⟩ la terre.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צְבָא֜וֹת",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אֱלֹהֵ֤י",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יִשְׂרָאֵל֙",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "יֹשֵׁ֣ב",
+      "gloss": "siégeant"
+    },
+    {
+      "surface": "הַכְּרֻבִ֔ים",
+      "gloss": "les kérouvim"
+    },
+    {
+      "surface": "אַתָּה֤",
+      "gloss": "toi"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "il est"
+    },
+    {
+      "surface": "הָֽאֱלֹהִים֙",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "לְבַדְּךָ֔",
+      "gloss": "toi seul"
+    },
+    {
+      "surface": "לְכֹ֖ל",
+      "gloss": "de tous"
+    },
+    {
+      "surface": "מַמְלְכ֣וֹת",
+      "gloss": "les royaumes"
+    },
+    {
+      "surface": "הָאָ֑רֶץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "אַתָּ֣ה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "עָשִׂ֔יתָ",
+      "gloss": "as fait"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les cieux"
+    },
+    {
+      "surface": "הַשָּׁמַ֖יִם",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T15:31:45.372387736Z",
+  "model": "glm-4.5"
+}

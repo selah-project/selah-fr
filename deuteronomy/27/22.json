@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Maudit ⟨celui⟩ qui couche avec sa sœur, la fille de son père ou la fille de sa mère, et dira tout le peuple : amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "⟨celui⟩ qui couche"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sa sœur"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sa mère"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:05.688365227Z",
+  "model": "glm-4.5"
+}

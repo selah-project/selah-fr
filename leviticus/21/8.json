@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et tu le sanctifieras, car c'est ⟨את⟩ le pain de ton Élohim qu'il offre ; il sera saint pour toi, car je suis saint, moi YHWH, qui vous sanctifie.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "et tu le sanctifieras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pain de ton Élohim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pain"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "de ton Élohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est ... qu'il"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "offre"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis ... moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "qui vous sanctifie"
+    }
+  ],
+  "timestamp": "2026-08-04T08:06:47.559263835Z",
+  "model": "glm-4.5"
+}

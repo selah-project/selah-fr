@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et YHWH descendit pour voir ⟨את⟩ la ville et ⟨את⟩ la tour que bâtirent les fils de ⟨l'humain⟩",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Et descendit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la tour"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "la tour"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bâtirent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨l'humain⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T05:11:17.520331894Z",
+  "model": "glm-4.5"
+}

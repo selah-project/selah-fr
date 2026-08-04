@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "En vérité, YHWH, les rois d'Assur ont ravagé ⟨את⟩ les nations et ⟨את⟩ leur terre",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "En vérité"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ont ravagé"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d'Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les nations"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leur terre"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur terre"
+    }
+  ],
+  "timestamp": "2026-08-04T14:37:39.647149812Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et ils placèrent ⟨את⟩ ses armes dans la maison d'Astaroth et ⟨את⟩ son corps ils clouèrent au mur de Beth-Shan",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "et ils placèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses armes"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ses armes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "d'Astaroth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son corps"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "son corps"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ils clouèrent"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "au mur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de Beth"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Shan"
+    }
+  ],
+  "timestamp": "2026-08-04T12:51:02.550428732Z",
+  "model": "glm-4.5"
+}

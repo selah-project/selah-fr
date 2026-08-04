@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Voici ⟨ceux⟩ que YHWH a commandés de donner ⟨את⟩ un héritage aux fils d'Israël dans le pays de Canaan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ceux⟩ que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a commandés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "de donner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un héritage"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    }
+  ],
+  "timestamp": "2026-08-04T09:45:14.607544383Z",
+  "model": "glm-4.5"
+}

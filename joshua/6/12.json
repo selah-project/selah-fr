@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Yehoshoua se leva ⟨le⟩ matin, et les prêtres portèrent ⟨את⟩ l'arche de YHWH",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Et se leva"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "et portèrent"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche de YHWH"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T10:57:04.749939912Z",
+  "model": "glm-4.5"
+}

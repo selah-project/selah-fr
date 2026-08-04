@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et il dit à elles : je vois ⟨את⟩ la face de votre père qu'il ⟨n'est⟩ pas ⟨envers⟩ moi comme hier et avant-hier, et ⟨le⟩ Élohim de mon père a été avec moi",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "להן",
+      "gloss": "à elles"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "je vois"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la face de votre père"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "de votre père"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "il ⟨n'est⟩ pas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨envers⟩ moi"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "comme hier"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "et avant-hier"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et ⟨le⟩ Élohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de mon père"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a été"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:40:13.407407168Z",
+  "model": "glm-4.5"
+}

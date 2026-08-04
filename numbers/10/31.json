@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il dit : « S'il te plaît, ne nous ⟨את⟩ abandonne pas ; car tu sais comment nous campons dans le désert, et tu seras pour nous des yeux. »",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "s'il te plaît"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "abandonne"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "על",
+      "gloss": "comment"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu sais"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "nous campons"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "et tu seras"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "des yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T08:46:19.760393670Z",
+  "model": "glm-4.5"
+}

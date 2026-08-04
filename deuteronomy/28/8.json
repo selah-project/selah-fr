@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH commandera ⟨pour toi⟩ ⟨את⟩ la bénédiction dans tes greniers et dans tout le labeur de ta main, et te bénira dans la terre que YHWH ton Élohim te donne.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "commandera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨pour toi⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bénédiction"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "la bénédiction"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "dans tes greniers"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "et dans tout"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "le labeur"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "de ta main"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "et te bénira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T10:36:53.900365469Z",
+  "model": "glm-4.5"
+}

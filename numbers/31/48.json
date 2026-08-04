@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "numbers 31:48",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et les officiers sur les milliers de ⟨l'⟩armée, les chefs de ⟨les⟩ milliers et ⟨les⟩ chefs de ⟨les⟩ centaines, s'approchèrent de Moïse",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "s'approchèrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "les officiers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sur"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "les milliers de"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨l'⟩armée",
+      "marks": "l'armée"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "les chefs de"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "⟨les⟩ milliers",
+      "marks": "les milliers"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "et ⟨les⟩ chefs de"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "⟨les⟩ centaines",
+      "marks": "les centaines"
+    }
+  ],
+  "timestamp": "2026-08-04T09:39:06.148795415Z",
+  "model": "glm-4.5"
+}

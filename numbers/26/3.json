@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et Mosheh et Eléazar ⟨le⟩ prêtre leur parlèrent dans les plaines de Moab, près du Jourdain, face à Jéricho, disant",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "parlèrent"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "et Eléazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨le⟩ prêtre"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "dans les plaines"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "près de"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "du Jourdain"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "face à Jéricho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    }
+  ],
+  "timestamp": "2026-08-04T09:23:28.566861557Z",
+  "model": "glm-4.5"
+}

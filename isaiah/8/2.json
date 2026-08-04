@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et je prendrai ⟨pour⟩ moi des témoins fidèles, ⟨את⟩ Ouriya le prêtre et ⟨את⟩ Zekaryahou fils de Yeberekyahou.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Et je prendrai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pour⟩ moi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "des témoins"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "fidèles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ouriya le prêtre"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Ouriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Zekaryahou fils de Yeberekyahou"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekaryahou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "de Yeberekyahou"
+    }
+  ],
+  "timestamp": "2026-08-04T14:55:22.049712364Z",
+  "model": "glm-4.5"
+}

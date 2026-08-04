@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Juda prit ⟨את⟩ Gaza et ⟨את⟩ sa frontière, et ⟨את⟩ Ashqelon et ⟨את⟩ sa frontière, et ⟨את⟩ Eqron et ⟨את⟩ sa frontière",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "prit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa frontière"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sa frontière"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ashqelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashqelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa frontière"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sa frontière"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Eqron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Eqron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa frontière"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sa frontière"
+    }
+  ],
+  "timestamp": "2026-08-04T11:33:04.398639020Z",
+  "model": "glm-4.5"
+}

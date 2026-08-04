@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "et il bâtit ⟨את⟩ les pierres ⟨un⟩ autel ⟨au⟩ nom de YHWH et il fit ⟨une⟩ tranchée comme ⟨de⟩ deux sāʿim de semence autour ⟨de⟩ l'autel",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "et il bâtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les pierres"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "les pierres"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨un⟩ autel"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨au⟩ nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "et il fit"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "⟨une⟩ tranchée"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "comme ⟨de⟩"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "deux sāʿim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "de semence"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "autour"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "⟨de⟩ l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T13:58:27.929384510Z",
+  "model": "glm-4.5"
+}

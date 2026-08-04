@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et il regarda çà et là, et il vit qu'il n'y avait ⟨pas⟩ d'homme, et il frappa ⟨את⟩ l'Égyptien, et le cacha dans le sable.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Et il regarda"
+    },
+    {
+      "surface": "כה",
+      "gloss": "çà"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "et là"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et il vit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y avait ⟨pas⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'homme"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et il frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'Égyptien"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "l'Égyptien"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "et le cacha"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "dans le sable"
+    }
+  ],
+  "timestamp": "2026-08-04T06:12:55.915398669Z",
+  "model": "glm-4.5"
+}

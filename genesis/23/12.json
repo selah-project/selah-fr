@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et Abraham se prosterna devant le peuple du pays",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "Et se prosterna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    }
+  ],
+  "timestamp": "2026-08-04T05:29:06.565767582Z",
+  "model": "glm-4.5"
+}

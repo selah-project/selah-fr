@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et la femme dit : Qui ⟨את⟩ ferai-je monter pour toi ? Et il dit : Shemouel ⟨את⟩ fais-moi monter.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ferai-je monter"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemouel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemouel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "fais-moi monter"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:47:37.793138881Z",
+  "model": "glm-4.5"
+}

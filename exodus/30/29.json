@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "et tu les sanctifieras ⟨את⟩ et ils seront sainteté des saintetés tout ⟨le⟩ touchant ⟨en⟩ eux se sanctifiera",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "et tu les sanctifieras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ils seront sainteté des saintetés"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "et ils seront"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sainteté"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "des saintetés"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "le touchant"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "se sanctifiera"
+    }
+  ],
+  "timestamp": "2026-08-04T07:01:55.097573460Z",
+  "model": "glm-4.5"
+}

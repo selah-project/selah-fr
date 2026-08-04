@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Fils de trente-deux ans ⟨était-il⟩ dans son règne, et huit ans ⟨il⟩ régna à Jérusalem.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Fils"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "deux"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨était-il⟩"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "dans son règne"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "et huit"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨il⟩ régna"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-04T14:16:53.633618299Z",
+  "model": "glm-4.5"
+}

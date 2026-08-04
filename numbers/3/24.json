@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "et ⟨le⟩ prince ⟨de⟩ la maison ⟨du⟩ père pour les Guershonites ⟨est⟩ Élyasaph fils ⟨de⟩ Laël",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "et ⟨le⟩ prince"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩ la maison"
+    },
+    {
+      "surface": "אב",
+      "gloss": "⟨du⟩ père"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "pour les Guershonites"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Élyasaph"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils ⟨de⟩"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Laël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:26:02.021899763Z",
+  "model": "glm-4.5"
+}

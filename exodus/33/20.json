@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et il dit : tu ne pourras pas voir ⟨את⟩ ma face, car l'humain ne me voit pas et ⟨il⟩ vit",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne pourras pas"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tu ne pourras pas"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "voir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma face"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ma face"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "me voit pas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "et ⟨il⟩ vit"
+    }
+  ],
+  "timestamp": "2026-08-04T07:07:42.912423962Z",
+  "model": "glm-4.5"
+}

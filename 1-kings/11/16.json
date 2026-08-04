@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Car six mois ⟨il⟩ resta là Joab et tout Israël jusqu'à ⟨ce qu'il⟩ ait exterminé tout mâle en Édom",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "six"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mois"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨il⟩ resta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "⟨ce qu'il⟩ ait exterminé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "en Édom"
+    }
+  ],
+  "timestamp": "2026-08-04T13:46:48.297270402Z",
+  "model": "glm-4.5"
+}

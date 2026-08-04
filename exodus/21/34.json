@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "⟨Le⟩ maître ⟨du⟩ puits payera de l'argent, il le rendra à son maître, et ⟨le⟩ mort sera à lui",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "maître"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "⟨du⟩ puits"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "payera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "il le rendra"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "à son maître"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "et ⟨le⟩ mort"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    }
+  ],
+  "timestamp": "2026-08-04T06:43:40.764695700Z",
+  "model": "glm-4.5"
+}

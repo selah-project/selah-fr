@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Juda et Israël habitaient en sécurité, chacun sous sa vigne et sous son figuier, depuis Dan jusqu'à Beer-Sheva, tous les jours de Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et Juda et Israël habitaient"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "et Israël"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "en sécurité"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "sa vigne"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "et sous"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "son figuier"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "depuis Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-04T13:36:22.857203707Z",
+  "model": "glm-4.5"
+}

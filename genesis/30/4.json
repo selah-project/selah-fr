@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et elle donna à lui ⟨את⟩ Bilhah sa servante pour femme, et Yaakov vint vers elle",
+  "tokens": [
+    {
+      "surface": "וַתִּתֶּן",
+      "gloss": "Et elle donna"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בִּלְהָ֥ה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שִׁפְחָתָ֖הּ",
+      "gloss": "sa servante"
+    },
+    {
+      "surface": "לְאִשָּׁ֑ה",
+      "gloss": "pour femme"
+    },
+    {
+      "surface": "וַיָּבֹ֥א",
+      "gloss": "et vint"
+    },
+    {
+      "surface": "אֵלֶ֖יהָ",
+      "gloss": "vers elle"
+    },
+    {
+      "surface": "יַעֲקֹֽב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-04T05:38:37.929747130Z",
+  "model": "glm-4.5"
+}

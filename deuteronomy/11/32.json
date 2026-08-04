@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et vous garderez pour faire ⟨את⟩ tous les statuts et ⟨את⟩ les jugements que moi, je mets devant vous aujourd'hui",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "et vous garderez"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les statuts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "les statuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les jugements"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "les jugements"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi, je"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mets"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    }
+  ],
+  "timestamp": "2026-08-04T10:13:02.877110786Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Alors ils se levèrent et s'enfuirent dans la pénombre, et ils laissèrent ⟨את⟩ leurs tentes et ⟨את⟩ leurs chevaux et ⟨את⟩ leurs ânes, le camp comme ⟨il est⟩, et ils s'enfuirent pour ⟨leur⟩ vie.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "alors ils se levèrent"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "et ils s'enfuirent"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "dans la pénombre"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "et ils laissèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs tentes"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "leurs tentes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs chevaux"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "leurs chevaux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs ânes"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "leurs ânes"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "le camp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "et ils s'enfuirent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pour"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "⟨leur⟩ vie"
+    }
+  ],
+  "timestamp": "2026-08-04T14:16:10.064445642Z",
+  "model": "glm-4.5"
+}

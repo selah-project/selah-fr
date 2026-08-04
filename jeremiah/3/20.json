@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 3:20",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Certes, une femme ⟨a⟩ trahi ⟨son⟩ compagnon, ainsi vous m'avez trahi, maison d'Israël, déclaration de YHWH",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Certes"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "a trahi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "son compagnon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "בגדתם",
+      "gloss": "vous m'avez trahi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "m'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T16:06:16.569909590Z",
+  "model": "glm-4.5"
+}

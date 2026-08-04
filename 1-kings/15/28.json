@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "1-kings 15:28",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et ⟨le⟩ Baasha le mit à mort, ⟨dans⟩ ⟨la⟩ troisième année de Asa, ⟨roi⟩ de Juda, et régna à sa place",
+  "tokens": [
+    {
+      "surface": "וימתהו",
+      "gloss": "Et ⟨le⟩ ... le mit à mort"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "⟨dans⟩ ⟨la⟩ année"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "troisième"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "de Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨roi⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "et régna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "à sa place"
+    }
+  ],
+  "timestamp": "2026-08-04T13:54:45.558395211Z",
+  "model": "glm-4.5"
+}

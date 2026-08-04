@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et il dit : pourquoi ⟨vas⟩-tu à lui aujourd'hui ? ce n'est ni nouvelle lune ni shabbat. Et elle dit : shalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨vas⟩-tu"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ce n'est"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouvelle lune"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Et elle dit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-04T14:11:51.940047268Z",
+  "model": "glm-4.5"
+}

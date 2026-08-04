@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Tout ce qui ⟨a⟩ en lui ⟨un⟩ défaut, ne l'approchez pas, car pour favor il ne sera pas pour vous.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨a⟩ en lui"
+    },
+    {
+      "surface": "מום",
+      "gloss": "⟨un⟩ défaut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "l'approchez pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "pour favor"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T08:07:38.275339554Z",
+  "model": "glm-4.5"
+}

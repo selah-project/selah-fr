@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Tant que dureront ⟨les⟩ jours de ⟨la⟩ terre, semence et moisson, froid et chaleur, été et hiver, jour et nuit ne cesseront pas.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tant que"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semence"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "et moisson"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "et froid"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "et chaleur"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "et été"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "et hiver"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "et jour"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et nuit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "cesseront"
+    }
+  ],
+  "timestamp": "2026-08-04T05:08:13.689055615Z",
+  "model": "glm-4.5"
+}

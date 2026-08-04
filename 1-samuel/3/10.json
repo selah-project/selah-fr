@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH vint et se tint, et appela comme ⟨aux⟩ temps précédents Samuel, Samuel ; et Samuel dit : parle, car ton serviteur ⟨est⟩ écoutant",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "vint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "et se tint"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et appela"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "comme"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "⟨aux⟩ temps"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et Samuel dit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écoutant"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    }
+  ],
+  "timestamp": "2026-08-04T12:08:32.671093697Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Parle aux fils d'Israël, et qu'ils prennent pour moi une offrande, ⟨de⟩ tout homme ⟨dont⟩ le cœur ⟨le⟩ pousse, vous prendrez ⟨את⟩ mon offrande.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "et qu'ils prennent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "une offrande"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨dont⟩"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "le cœur ⟨le⟩ pousse"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "[inclus dans le gloss précédent]"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon offrande"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "mon offrande"
+    }
+  ],
+  "timestamp": "2026-08-04T06:50:10.295157976Z",
+  "model": "glm-4.5"
+}

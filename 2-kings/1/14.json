@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Voici, est descendue un feu des cieux et a dévoré ⟨את⟩ les deux chefs des premières cinquantaines et ⟨את⟩ leurs cinquante, et maintenant ma vie sera précieuse à tes yeux",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "est descendue"
+    },
+    {
+      "surface": "אש",
+      "gloss": "un feu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "et a dévoré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les deux chefs"
+    },
+    {
+      "surface": "שני",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "chefs"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "des cinquantaines"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "premières"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs cinquante"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "leurs cinquante"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "sera précieuse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma vie"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "à tes yeux"
+    }
+  ],
+  "timestamp": "2026-08-04T14:06:59.100143221Z",
+  "model": "glm-4.5"
+}

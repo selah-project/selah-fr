@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "L'ola ⟨du⟩ shabbat en son shabbat, sur ⟨l'⟩ola ⟨du⟩ tamid et son nesekh.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "L'ola"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨du⟩ shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "en son shabbat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "⟨l'⟩ola"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "⟨du⟩ tamid"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "et son nesekh"
+    }
+  ],
+  "timestamp": "2026-08-04T09:28:39.294049802Z",
+  "model": "glm-4.5"
+}

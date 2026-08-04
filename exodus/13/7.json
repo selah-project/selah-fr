@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Des matsot ⟨se mangera⟩ ⟨את⟩ les sept jours et ⟨ne⟩ se ⟨verra⟩ pas pour toi du hamets et ⟨ne⟩ se ⟨verra⟩ pas pour toi du se'or dans toute ta frontière",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Des matsot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨se mangera⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les sept jours"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "les sept"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨ne⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se ⟨verra⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "du hamets"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨ne⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se ⟨verra⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "du se'or"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ta frontière"
+    }
+  ],
+  "timestamp": "2026-08-04T06:29:41.834126636Z",
+  "model": "glm-4.5"
+}

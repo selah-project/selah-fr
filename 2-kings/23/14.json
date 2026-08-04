@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et il brisa ⟨את⟩ les stèles et coupa ⟨את⟩ les Ashérim et remplit ⟨את⟩ leur lieu d'ossements d'homme",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Et il brisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les stèles"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "les stèles"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "et coupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Ashérim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "les Ashérim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "et remplit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur lieu"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "leur lieu"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "d'ossements"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'homme"
+    }
+  ],
+  "timestamp": "2026-08-04T14:42:08.458401692Z",
+  "model": "glm-4.5"
+}

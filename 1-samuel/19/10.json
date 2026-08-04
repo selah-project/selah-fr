@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et Shaoul chercha à frapper David au moyen de la javeline contre le mur, mais il se détourna de devant Shaoul, et il frappa ⟨את⟩ la javeline dans le mur, et David s'enfuit et il échappa cette nuit-là, lui.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Et chercha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "à frapper"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "au moyen de la javeline"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "et contre le mur"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "mais il se détourna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et il frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la javeline"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "la javeline"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dans le mur"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "et David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "s'enfuit"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "et il échappa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "cette nuit-là"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T12:35:08.618919251Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Garde pour toi ⟨ce⟩ que je te commande aujourd'hui : voici, je chasse de devant toi ⟨את⟩ l'Amorite, et ⟨את⟩ le Cananéen, et ⟨את⟩ le Hittite, et ⟨את⟩ le Pérezite, et ⟨את⟩ le Hivite, et ⟨את⟩ le Jébusite",
+  "tokens": [
+    {
+      "surface": "שְׁמָר",
+      "gloss": "Garde"
+    },
+    {
+      "surface": "לְךָ֔",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "אֵ֛ת",
+      "gloss": "⟨ce⟩",
+      "marks": "ce que je te commande aujourd'hui"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אָנֹכִ֖י",
+      "gloss": "je"
+    },
+    {
+      "surface": "מְצַוְּךָ֣",
+      "gloss": "commande"
+    },
+    {
+      "surface": "הַיּ֑וֹם",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "הִנְנִ֧י",
+      "gloss": "voici"
+    },
+    {
+      "surface": "גֹרֵ֣שׁ",
+      "gloss": "chasse"
+    },
+    {
+      "surface": "מִפָּנֶ֗יךָ",
+      "gloss": "de devant toi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "l'Amorite"
+    },
+    {
+      "surface": "הָאֱמֹרִי֙",
+      "gloss": "l'Amorite"
+    },
+    {
+      "surface": "וְהַֽכְּנַעֲנִ֔י",
+      "gloss": "et le Cananéen"
+    },
+    {
+      "surface": "וְהַחִתִּי֙",
+      "gloss": "et le Hittite"
+    },
+    {
+      "surface": "וְהַפְּרִזִּ֔י",
+      "gloss": "et le Pérezite"
+    },
+    {
+      "surface": "וְהַחִוִּ֖י",
+      "gloss": "et le Hivite"
+    },
+    {
+      "surface": "וְהַיְבוּסִֽי",
+      "gloss": "et le Jébusite"
+    }
+  ],
+  "timestamp": "2026-08-04T07:09:25.989617232Z",
+  "model": "glm-4.5"
+}

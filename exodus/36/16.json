@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "et il relia ⟨את⟩ les cinq tentures par elles-mêmes et ⟨את⟩ les six tentures par elles-mêmes",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "et il relia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les cinq tentures"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tentures"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "par elles-mêmes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les six tentures"
+    },
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tentures"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "par elles-mêmes"
+    }
+  ],
+  "timestamp": "2026-08-04T07:15:28.250744774Z",
+  "model": "glm-4.5"
+}

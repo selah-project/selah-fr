@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et ce sont les engendrements de Yitschaq, fils d'Abraham. Abraham a engendré ⟨את⟩ Yitschaq.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et ce sont"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "les engendrements"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "d'Abraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a engendré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    }
+  ],
+  "timestamp": "2026-08-04T05:32:22.894494543Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et si tu marches dans mes voies pour garder ⟨mes⟩ décrets et ⟨mes⟩ commandements, comme a marché David ton père, alors je prolongerai ⟨את⟩ tes jours.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu marches"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "dans mes voies"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pour garder"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "⟨mes⟩ décrets"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "et ⟨mes⟩ commandements"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a marché"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "alors je prolongerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes jours"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tes jours"
+    }
+  ],
+  "timestamp": "2026-08-04T13:33:10.820119178Z",
+  "model": "glm-4.5"
+}

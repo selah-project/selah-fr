@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et les vaches mauvaises d'apparence et maigres de chair mangèrent ⟨את⟩ les sept vaches belles d'apparence et grasses, et Pharaon s'éveilla.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאכַ֣לְנָה",
+      "gloss": "mangèrent"
+    },
+    {
+      "surface": "הַפָּר֗וֹת",
+      "gloss": "les vaches"
+    },
+    {
+      "surface": "רָע֤וֹת",
+      "gloss": "mauvaises"
+    },
+    {
+      "surface": "הַמַּרְאֶה֙",
+      "gloss": "d'apparence"
+    },
+    {
+      "surface": "וְדַקֹּ֣ת",
+      "gloss": "et maigres"
+    },
+    {
+      "surface": "הַבָּשָׂ֔ר",
+      "gloss": "de chair"
+    },
+    {
+      "surface": "אֵ֚ת",
+      "gloss": "⟨את⟩",
+      "marks": "les sept vaches"
+    },
+    {
+      "surface": "שֶׁ֣בַע",
+      "gloss": "sept"
+    },
+    {
+      "surface": "הַפָּר֔וֹת",
+      "gloss": "vaches"
+    },
+    {
+      "surface": "יְפֹ֥ת",
+      "gloss": "belles"
+    },
+    {
+      "surface": "הַמַּרְאֶ֖ה",
+      "gloss": "d'apparence"
+    },
+    {
+      "surface": "וְהַבְּרִיאֹ֑ת",
+      "gloss": "et grasses"
+    },
+    {
+      "surface": "וַיִּיקַ֖ץ",
+      "gloss": "et s'éveilla"
+    },
+    {
+      "surface": "פַּרְעֹֽה",
+      "gloss": "Pharaon"
+    }
+  ],
+  "timestamp": "2026-08-04T05:53:42.654954753Z",
+  "model": "glm-4.5"
+}

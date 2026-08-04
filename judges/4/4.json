@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Debora, une femme, une prophétesse, femme de Lappidote, elle ⟨est⟩ jugeant ⟨את⟩ Israël en ce temps-là.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "Et Debora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "une prophétesse"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femme de"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lappidote"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "jugeant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "en ce temps"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "-là"
+    }
+  ],
+  "timestamp": "2026-08-04T11:38:01.977896468Z",
+  "model": "glm-4.5"
+}

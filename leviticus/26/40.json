@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et ils confesseront ⟨את⟩ leur perversité et ⟨את⟩ la perversité de leurs pères dans leur trahison par laquelle ils ont agi traîtreusement contre moi, et aussi parce qu'ils ont marché ⟨contre⟩ moi en hostilité",
+  "tokens": [
+    {
+      "surface": "וְהִתְוַדּ֤וּ",
+      "gloss": "et ils confesseront"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leur perversité"
+    },
+    {
+      "surface": "עֲוֺנָם֙",
+      "gloss": "leur perversité"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la perversité"
+    },
+    {
+      "surface": "עֲוֺ֣ן",
+      "gloss": "la perversité"
+    },
+    {
+      "surface": "אֲבֹתָ֔ם",
+      "gloss": "de leurs pères"
+    },
+    {
+      "surface": "בְּמַעֲלָ֖ם",
+      "gloss": "dans leur trahison"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "par laquelle"
+    },
+    {
+      "surface": "מָֽעֲלוּ",
+      "gloss": "ils ont agi traîtreusement"
+    },
+    {
+      "surface": "בִ֑י",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "וְאַ֕ף",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "הָֽלְכ֥וּ",
+      "gloss": "ils ont marché"
+    },
+    {
+      "surface": "עִמִּ֖י",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "בְּקֶֽרִי",
+      "gloss": "en hostilité"
+    }
+  ],
+  "timestamp": "2026-08-04T08:19:15.701298867Z",
+  "model": "glm-4.5"
+}

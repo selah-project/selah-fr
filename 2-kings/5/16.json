@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-kings 5:16",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et il dit : YHWH est vivant, devant qui je me tiens, si je prends ⟨quelque chose⟩. Et il ⟨Naaman⟩ insista auprès de lui pour prendre, et il refusa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "חי",
+      "gloss": "est vivant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "devant qui"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "je me tiens"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "je prends"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "Et il insista"
+    },
+    {
+      "surface": "בו",
+      "gloss": "auprès de lui"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pour prendre"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "et il refusa"
+    }
+  ],
+  "timestamp": "2026-08-04T14:13:43.457281997Z",
+  "model": "glm-4.5"
+}

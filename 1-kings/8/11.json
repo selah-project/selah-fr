@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et ⟨les⟩ prêtres ne purent pas se tenir pour servir ⟨à cause⟩ de la nuée, car la gloire de YHWH avait rempli ⟨את⟩ la maison de YHWH",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "purent pas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "se tenir"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "pour servir"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nuée"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "avait rempli"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T13:41:56.336101240Z",
+  "model": "glm-4.5"
+}

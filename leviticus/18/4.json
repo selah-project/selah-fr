@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Mes jugements, vous ferez ⟨את⟩, et mes statuts, vous garderez ⟨את⟩, pour marcher en eux ; moi, YHWH, votre Élohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes jugements"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mes jugements"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mes statuts"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mes statuts"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "vous garderez"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour marcher"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en eux"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "votre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T08:01:27.591915273Z",
+  "model": "glm-4.5"
+}

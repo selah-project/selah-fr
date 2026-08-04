@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et sur ⟨le⟩ tsava de ⟨la⟩ tribu des fils de Issachar, Nethanel fils de Tsuar",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tsava"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Issachar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Nethanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuar"
+    }
+  ],
+  "timestamp": "2026-08-04T08:45:45.143279957Z",
+  "model": "glm-4.5"
+}

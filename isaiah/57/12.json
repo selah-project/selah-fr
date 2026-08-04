@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Je déclare ta justice et ⟨את⟩ tes œuvres, et elles ne te profiteront pas",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Je"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "déclare"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ta justice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tes œuvres"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tes œuvres"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "elles ne te profiteront pas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:51:25.155532546Z",
+  "model": "glm-4.5"
+}

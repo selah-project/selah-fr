@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et Moïse écrivit ⟨את⟩ leurs départs pour leurs étapes sur la bouche de YHWH, et voici leurs étapes pour leurs départs.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Et Moïse écrivit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs départs"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "leurs départs"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "pour leurs étapes"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "leurs étapes"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "pour leurs départs"
+    }
+  ],
+  "timestamp": "2026-08-04T09:42:13.817335276Z",
+  "model": "glm-4.5"
+}

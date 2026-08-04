@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "⟨את⟩ les deux chars et ⟨את⟩ les quatre bœufs, ⟨il⟩ donna aux fils de Guershon selon leur service",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les deux chars"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "deux"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "chars"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les quatre bœufs"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bœufs"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Guershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "selon"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "leur service"
+    }
+  ],
+  "timestamp": "2026-08-04T08:35:29.800711666Z",
+  "model": "glm-4.5"
+}

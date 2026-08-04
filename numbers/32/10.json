@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et la narine de YHWH s'embrasa en ce jour-là, et il jura, disant",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Et s'embrasa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "la narine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le serment"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    }
+  ],
+  "timestamp": "2026-08-04T09:40:42.305371201Z",
+  "model": "glm-4.5"
+}

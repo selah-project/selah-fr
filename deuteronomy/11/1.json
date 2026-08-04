@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et tu aimeras YHWH ton Élohim, et tu garderas sa charge, et ses statuts, et ses jugements, et ses commandements, tous les jours",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Et tu aimeras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "et tu garderas"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "sa charge"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "et ses statuts"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "et ses jugements"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "et ses commandements"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "les jours"
+    }
+  ],
+  "timestamp": "2026-08-04T10:12:04.821442903Z",
+  "model": "glm-4.5"
+}

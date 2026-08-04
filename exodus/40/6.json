@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et tu placeras ⟨את⟩ l'autel de l'ola devant l'ouverture du mishkan ⟨de⟩ la tente d'assignation",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "et tu placeras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel de l'ola"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "de l'ola"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "l'ouverture"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "du mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨de⟩ la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T07:22:45.977705771Z",
+  "model": "glm-4.5"
+}

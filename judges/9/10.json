@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et les arbres dirent au figuier : Viens, toi, règne sur nous.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et dirent"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "les arbres"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "au figuier"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Viens"
+    },
+    {
+      "surface": "את",
+      "gloss": "toi",
+      "marks": "règne"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "règne"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    }
+  ],
+  "timestamp": "2026-08-04T11:46:09.187476469Z",
+  "model": "glm-4.5"
+}

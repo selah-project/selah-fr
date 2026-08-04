@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Ainsi firent vos pères en mon envoyant ⟨את⟩ les uns depuis Qadesh-Barnéa pour voir ⟨את⟩ le pays.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "firent"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "en mon envoyant"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les uns"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "depuis Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnéa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pays"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "le pays"
+    }
+  ],
+  "timestamp": "2026-08-04T09:40:39.874865453Z",
+  "model": "glm-4.5"
+}

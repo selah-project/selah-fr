@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et vous garderez ⟨את⟩ mes statuts et vous ferez ⟨את⟩ eux ; moi, YHWH, ⟨je suis⟩ celui qui vous consacre.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Et vous garderez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes statuts"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mes statuts"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "et vous ferez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "celui qui vous consacre"
+    }
+  ],
+  "timestamp": "2026-08-04T08:04:57.291201279Z",
+  "model": "glm-4.5"
+}

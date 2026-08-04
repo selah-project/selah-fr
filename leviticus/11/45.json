@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Car je ⟨suis⟩ YHWH, celui qui ⟨a⟩ fait monter ⟨את⟩ vous du pays d'Égypte, pour être pour vous ⟨le⟩ Élohim ; et vous serez saints, car saint ⟨je suis⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "celui qui fait monter"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "להית",
+      "gloss": "pour être"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨le⟩ Élohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "et vous serez"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "saints"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-08-04T07:42:03.515204852Z",
+  "model": "glm-4.5"
+}

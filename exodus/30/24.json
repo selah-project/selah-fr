@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "et de cassia ⟨est⟩ cinq cents, ⟨selon⟩ le shekel ⟨du⟩ sanctuaire, et ⟨de⟩ l'huile d'olive ⟨est⟩ un hin",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "et de cassia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "⟨selon⟩ le shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨du⟩ sanctuaire"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "et ⟨de⟩ l'huile"
+    },
+    {
+      "surface": "זית",
+      "gloss": "d'olive"
+    },
+    {
+      "surface": "הין",
+      "gloss": "⟨est⟩ un hin"
+    }
+  ],
+  "timestamp": "2026-08-04T07:01:44.126564617Z",
+  "model": "glm-4.5"
+}

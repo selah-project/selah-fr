@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "YHWH notre Élohim nous a parlé à Horeb, en disant : vous avez assez demeuré sur cette montagne-ci",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "à nous"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "à Horeb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vous avez assez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨pour⟩ vous"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "demeuré"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur ⟨la⟩ montagne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T09:48:39.229290060Z",
+  "model": "glm-4.5"
+}

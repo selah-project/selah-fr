@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Aaron et ses fils firent ⟨את⟩ toutes les choses que YHWH avait commandées par la main de Moïse.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et firent"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les choses"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "les choses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandées"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main"
+    },
+    {
+      "surface": "משה",
+      "gloss": "de Moïse"
+    }
+  ],
+  "timestamp": "2026-08-04T07:37:47.619400007Z",
+  "model": "glm-4.5"
+}

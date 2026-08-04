@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il leur dit : Qu’YHWH ⟨soit⟩ ainsi avec vous, comme je vous renverrai, ⟨את⟩ vous et ⟨את⟩ vos petits : voyez, car le mal ⟨est⟩ devant vos faces.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qu’il soit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "avec vous"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "je renverrai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vos petits"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vos petits"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "voyez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "vos faces"
+    }
+  ],
+  "timestamp": "2026-08-04T06:25:04.974850606Z",
+  "model": "glm-4.5"
+}

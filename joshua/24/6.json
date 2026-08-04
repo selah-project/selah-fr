@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "et je fis sortir ⟨את⟩ vos pères d'Égypte, et vous vîntes ⟨à⟩ la mer, et les Égyptiens poursuivirent après vos pères avec ⟨des⟩ chars et ⟨des⟩ cavaliers jusqu'à la mer de Souf.",
+  "tokens": [
+    {
+      "surface": "וָֽאוֹצִ֤יא",
+      "gloss": "et je fis sortir"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vos pères"
+    },
+    {
+      "surface": "אֲבֽוֹתֵיכֶם֙",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "מִמִּצְרַ֔יִם",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "וַתָּבֹ֖אוּ",
+      "gloss": "et vous vîntes"
+    },
+    {
+      "surface": "הַיָּ֑מָּה",
+      "gloss": "⟨à⟩ la mer"
+    },
+    {
+      "surface": "וַיִּרְדְּפ֨וּ",
+      "gloss": "et poursuivirent"
+    },
+    {
+      "surface": "מִצְרַ֜יִם",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "אַחֲרֵ֧י",
+      "gloss": "après"
+    },
+    {
+      "surface": "אֲבוֹתֵיכֶ֛ם",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "בְּרֶ֥כֶב",
+      "gloss": "avec ⟨des⟩ chars"
+    },
+    {
+      "surface": "וּבְפָרָשִׁ֖ים",
+      "gloss": "et ⟨des⟩ cavaliers"
+    },
+    {
+      "surface": "יַם",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "סֽוּף",
+      "gloss": "de Souf"
+    }
+  ],
+  "timestamp": "2026-08-04T11:31:02.056856156Z",
+  "model": "glm-4.5"
+}

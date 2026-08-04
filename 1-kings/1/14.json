@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Voici, tu parles encore là avec le roi, et moi je viendrai après toi, et je complèterai ⟨את⟩ tes paroles",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "tu parles encore"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "je viendrai"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "après toi"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "et je complèterai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes paroles"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tes paroles"
+    }
+  ],
+  "timestamp": "2026-08-04T13:28:48.771375772Z",
+  "model": "glm-4.5"
+}

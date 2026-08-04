@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et le cohen ⟨le⟩ mashiah apportera du sang du taureau vers ⟨le⟩ ohel moed",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Et apportera"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le cohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "⟨le⟩ mashiah"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "du sang"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "du taureau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨le⟩ ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    }
+  ],
+  "timestamp": "2026-08-04T07:30:36.104673687Z",
+  "model": "glm-4.5"
+}

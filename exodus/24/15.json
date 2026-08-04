@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et Moïse monta sur la montagne, et la nuée couvrit ⟨את⟩ la montagne.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "et monta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "et couvrit"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nuée"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la montagne"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "la montagne"
+    }
+  ],
+  "timestamp": "2026-08-04T06:48:54.688453164Z",
+  "model": "glm-4.5"
+}

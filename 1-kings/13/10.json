@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et il alla par un autre chemin, et ne ⟨re⟩vint pas par le chemin dont il était venu à Béthel.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et il alla"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "par un chemin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "autre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "⟨re⟩vint"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "par le chemin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "בא",
+      "gloss": "il était venu"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Béthel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T13:51:13.282629075Z",
+  "model": "glm-4.5"
+}

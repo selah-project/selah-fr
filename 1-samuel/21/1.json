@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et il se leva et s'en alla, et Jonathan vint ⟨dans⟩ la ville.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et il se leva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et s'en alla"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "et Jonathan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vint"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨dans⟩ la ville"
+    }
+  ],
+  "timestamp": "2026-08-04T12:37:47.579232119Z",
+  "model": "glm-4.5"
+}

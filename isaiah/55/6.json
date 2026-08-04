@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Cherchez YHWH pendant qu'il se trouve, appelez-le pendant qu'il est proche",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Cherchez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "pendant qu'il se trouve"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "appelez-le"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "pendant qu'il"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "est proche"
+    }
+  ],
+  "timestamp": "2026-08-04T15:49:51.608300211Z",
+  "model": "glm-4.5"
+}

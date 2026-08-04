@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et le roi jura et dit : YHWH ⟨est⟩ vivant, qui a racheté ⟨את⟩ mon âme de toute détresse.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Et jura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "a racheté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon âme"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "détresse"
+    }
+  ],
+  "timestamp": "2026-08-04T13:29:21.640969494Z",
+  "model": "glm-4.5"
+}

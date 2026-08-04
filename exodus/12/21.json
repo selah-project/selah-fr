@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Mosheh appela tous les anciens d'Israël et leur dit : tirez et prenez pour vous du petit bétail pour vos familles et égorgez le Pessah",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et appela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "tirez"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "et prenez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "du petit bétail"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "pour vos familles"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "et égorgez"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "le Pessah"
+    }
+  ],
+  "timestamp": "2026-08-04T06:28:25.556849664Z",
+  "model": "glm-4.5"
+}

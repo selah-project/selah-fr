@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Amasa alla pour convoquer ⟨את⟩ Juda, mais il tarda au-delà du délai fixé qu'il lui avait assigné.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Et alla"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "pour convoquer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "mais il tarda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "au-delà de"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "le délai fixé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "il lui avait assigné"
+    }
+  ],
+  "timestamp": "2026-08-04T13:21:18.303095774Z",
+  "model": "glm-4.5"
+}

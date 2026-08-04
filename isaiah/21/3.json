@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "C'est pourquoi mes reins sont remplis d'angoisse, des convulsions m'ont saisi comme les convulsions d'une femme qui accouche ; je suis tordu à l'ouïe, je suis terrifié aux visions.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sont remplis"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "mes reins"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "d'angoisse"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "des convulsions"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "m'ont saisi"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "comme les convulsions"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "d'une femme qui accouche"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "je suis tordu"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "à l'ouïe"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "je suis terrifié"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "aux visions"
+    }
+  ],
+  "timestamp": "2026-08-04T15:15:24.442063083Z",
+  "model": "glm-4.5"
+}

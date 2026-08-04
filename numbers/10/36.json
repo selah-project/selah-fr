@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et quand ⟨elle⟩ se reposait, il disait : Reviens, YHWH, ⟨vers⟩ les dizaines de milliers, les milliers d'Israël.",
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "Et quand ⟨elle⟩ se reposait"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "il disait"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Reviens"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "les dizaines de milliers"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "les milliers"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T08:46:20.327112481Z",
+  "model": "glm-4.5"
+}

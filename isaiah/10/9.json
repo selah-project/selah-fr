@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "N'est-ce pas comme Qarqemish que Calné, comme Arpad que Hamath, comme Damas que Shomeron ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "comme Qarqemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "que Calné"
+    },
+    {
+      "surface": "אם",
+      "gloss": ","
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "comme Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "que Hamath"
+    },
+    {
+      "surface": "אם",
+      "gloss": ","
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "comme Damas"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "que Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-04T14:57:50.069653219Z",
+  "model": "glm-4.5"
+}

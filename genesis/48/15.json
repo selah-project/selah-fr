@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Et il bénit ⟨את⟩ Joseph et dit : l'Élohim devant qui ont marché mes pères Abraham et Isaac, l'Élohim qui a fait paître ⟨את⟩ moi depuis ma jeunesse jusqu'à ce jour-ci",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Et il bénit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joseph"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "devant qui"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "ont marché"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "mes pères"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "et Isaac"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "qui a fait paître"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "depuis ma jeunesse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ce jour"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T06:08:10.808184240Z",
+  "model": "glm-4.5"
+}

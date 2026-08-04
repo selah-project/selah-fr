@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Et il donna ⟨את⟩ sa voix dans des pleurs et les Égyptiens entendirent, et la maison de Par'oh entendit.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et il donna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa voix"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "dans des pleurs"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "et les Égyptiens entendirent"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "et la maison de Par'oh entendit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison de"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    }
+  ],
+  "timestamp": "2026-08-04T06:01:08.980849891Z",
+  "model": "glm-4.5"
+}

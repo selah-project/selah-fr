@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Tu frapperas certainement ⟨את⟩ les habitants de cette ville, par le tranchant de l'épée, vouant ⟨l'interdit⟩ à ⟨את⟩ elle-même et ⟨את⟩ tout ce qui est en elle, et ⟨את⟩ son bétail, par le tranchant de l'épée.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Tu frapperas certainement"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "frapperas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les habitants"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de cette ville"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "cette"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "par le tranchant"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "de l'épée"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "voyer à l'interdit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "la ville"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בה",
+      "gloss": "est en elle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "son bétail"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "son bétail"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "par le tranchant"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "de l'épée"
+    }
+  ],
+  "timestamp": "2026-08-04T10:16:06.608315546Z",
+  "model": "glm-4.5"
+}

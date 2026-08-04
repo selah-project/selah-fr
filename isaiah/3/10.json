@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Dites du juste que ⟨il lui⟩ ira bien car ils mangeront le fruit de leurs actes",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dites"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨il lui⟩ ira bien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "le fruit"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "de leurs actes"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ils mangeront"
+    }
+  ],
+  "timestamp": "2026-08-04T14:49:53.102675534Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et ses hommes qui étaient avec lui, David les fit monter, chaque homme avec ⟨sa⟩ maison, et ils habitèrent dans les villes de Hébron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Et ses hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fit monter"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chaque homme"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "et ⟨sa⟩ maison"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "et ils habitèrent"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "dans les villes de"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hébron"
+    }
+  ],
+  "timestamp": "2026-08-04T12:53:19.250331097Z",
+  "model": "glm-4.5"
+}

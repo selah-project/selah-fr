@@ -1,0 +1,106 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Ainsi dit YHWH : Où ⟨est⟩ ⟨le⟩ document de divorce de votre mère, que j'ai renvoyée ? Ou ⟨est⟩ qui de mes créanciers à qui je vous ai vendus ? Voici, pour vos iniquités vous avez été vendus, et pour vos transgressions votre mère a été renvoyée.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Où"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "⟨le⟩ document"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "de divorce"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "de votre mère"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "j'ai renvoyée"
+    },
+    {
+      "surface": "או",
+      "gloss": "Ou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨est⟩ qui"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "de mes créanciers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "à qui"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "je vous ai vendus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "pour vos iniquités"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "vous avez été vendus"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "et pour vos transgressions"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "a été renvoyée"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "votre mère"
+    }
+  ],
+  "timestamp": "2026-08-04T15:45:47.604399797Z",
+  "model": "glm-4.5"
+}

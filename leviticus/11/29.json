@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "leviticus 11:29",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et ceci ⟨est⟩ pour vous ⟨le⟩ impur parmi ⟨le⟩ fourmillement qui fourmille sur la terre : la belette, et la souris, et le lézard selon son espèce",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "⟨le⟩ impur"
+    },
+    {
+      "surface": "בשרץ",
+      "gloss": "parmi ⟨le⟩ fourmillement"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "qui fourmille"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "החלד",
+      "gloss": "la belette"
+    },
+    {
+      "surface": "והעכבר",
+      "gloss": "et la souris"
+    },
+    {
+      "surface": "והצב",
+      "gloss": "et le lézard"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T07:41:03.646910604Z",
+  "model": "glm-4.5"
+}

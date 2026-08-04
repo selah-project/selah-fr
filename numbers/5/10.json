@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et chaque homme ses choses sacrées ⟨את⟩ pour lui seront — tout homme ce qu'il donnera au prêtre pour lui sera",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "et chaque homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses choses sacrées"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ses choses sacrées"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "seront"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tout homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "il donnera"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "au prêtre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    }
+  ],
+  "timestamp": "2026-08-04T08:30:39.649259476Z",
+  "model": "glm-4.5"
+}

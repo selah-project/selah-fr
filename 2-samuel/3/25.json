@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Tu sais qu'Abner fils de Ner est venu pour te tromper, et pour savoir ⟨את⟩ ta sortie et ⟨את⟩ ton entrée, et pour savoir ⟨את⟩ tout ce que tu fais.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Tu sais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que \/ car"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "pour te tromper"
+    },
+    {
+      "surface": "בא",
+      "gloss": "est venu"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "et pour savoir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta sortie"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ta sortie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ton entrée"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ton entrée"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "et pour savoir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fais"
+    }
+  ],
+  "timestamp": "2026-08-04T12:55:23.512436748Z",
+  "model": "glm-4.5"
+}

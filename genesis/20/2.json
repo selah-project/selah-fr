@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Abraham dit à Sarah sa femme : « Ma sœur, elle est. » Et Abimelek, roi de Gerar, envoya et prit ⟨את⟩ Sarah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ma sœur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle est"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et envoya"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "de Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    }
+  ],
+  "timestamp": "2026-08-04T05:25:58.798774321Z",
+  "model": "glm-4.5"
+}

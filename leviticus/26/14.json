@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et si vous n'écoutez pas ⟨le⟩ moi et vous ne faites pas ⟨את⟩ tous ⟨les⟩ commandements ⟨celles-ci⟩",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "vous n'écoutez pas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨le⟩ moi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "vous ne faites pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les commandements"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "⟨les⟩ commandements"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨celles-ci⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:59.739399033Z",
+  "model": "glm-4.5"
+}

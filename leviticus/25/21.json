@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "alors Je commanderai ma bénédiction ⟨את⟩ pour vous dans la sixième année et elle fera ⟨את⟩ la récolte pour trois ans",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "alors Je commanderai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma bénédiction"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ma bénédiction"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "dans l'année"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "la sixième"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "et elle fera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la récolte"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "la récolte"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "pour trois"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ans"
+    }
+  ],
+  "timestamp": "2026-08-04T08:15:25.353411014Z",
+  "model": "glm-4.5"
+}

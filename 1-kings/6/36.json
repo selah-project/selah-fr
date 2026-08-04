@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il bâtit ⟨את⟩ la cour intérieure, trois rangs de pierre de taille et un rang de poutres de cèdre.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Et il bâtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la cour intérieure"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "la cour"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "intérieure"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rangs"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "de pierre de taille"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "et un rang"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "de poutres"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "de cèdre"
+    }
+  ],
+  "timestamp": "2026-08-04T13:38:06.147056585Z",
+  "model": "glm-4.5"
+}

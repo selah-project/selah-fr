@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Ceci est le service des familles des Guershonites, pour servir et pour porter.",
+  "tokens": [
+    {
+      "surface": "זֹ֣את",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "עֲבֹדַ֔ת",
+      "gloss": "est le service"
+    },
+    {
+      "surface": "מִשְׁפְּחֹ֖ת",
+      "gloss": "des familles"
+    },
+    {
+      "surface": "הַגֵּרְשֻׁנִּ֑י",
+      "gloss": "des Guershonites"
+    },
+    {
+      "surface": "לַעֲבֹ֖ד",
+      "gloss": "pour servir"
+    },
+    {
+      "surface": "וּלְמַשָּֽׂא",
+      "gloss": "et pour porter"
+    }
+  ],
+  "timestamp": "2026-08-04T08:28:19.287970602Z",
+  "model": "glm-4.5"
+}

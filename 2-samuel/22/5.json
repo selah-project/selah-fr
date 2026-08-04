@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car les brisants de la mort m'ont ceinturé, les torrents de Belial m'ont épouvanté",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "m'ont ceinturé"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "les brisants"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de la mort"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "les torrents"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "de Belial"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "m'ont épouvanté"
+    }
+  ],
+  "timestamp": "2026-08-04T13:24:13.608699756Z",
+  "model": "glm-4.5"
+}

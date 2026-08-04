@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "et il interrogea YHWH pour lui et ⟨des vivres⟩ donna à lui et ⟨את⟩ l'épée de Goliath le Philistin donna à lui",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "et il interrogea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "et ⟨des vivres⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "l'épée de Goliath le Philistin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "de Goliath"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "le Philistin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    }
+  ],
+  "timestamp": "2026-08-04T12:39:09.657889049Z",
+  "model": "glm-4.5"
+}

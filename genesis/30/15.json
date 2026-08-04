@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Elle lui dit : Est-ce un peu ce que tu as pris, ⟨mon⟩ mari, et de prendre aussi ⟨את⟩ les doudaï de mon fils ? Et Rachel dit : C'est pourquoi il couchera avec toi cette nuit, sous les doudaï de ton fils.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "Elle dit"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "הַמְעַט",
+      "gloss": "Est-ce un peu"
+    },
+    {
+      "surface": "קַחְתֵּ֣ךְ",
+      "gloss": "ce que tu as pris"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mon mari"
+    },
+    {
+      "surface": "אִישִׁ֔י",
+      "gloss": "mon mari"
+    },
+    {
+      "surface": "וְלָקַ֕חַת",
+      "gloss": "et de prendre"
+    },
+    {
+      "surface": "גַּ֥ם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les doudaï"
+    },
+    {
+      "surface": "דּוּדָאֵ֖י",
+      "gloss": "doudaï"
+    },
+    {
+      "surface": "בְּנִ֑י",
+      "gloss": "de mon fils"
+    },
+    {
+      "surface": "וַתֹּ֣אמֶר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "רָחֵ֗ל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "לָכֵן֙",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "יִשְׁכַּ֤ב",
+      "gloss": "il couchera"
+    },
+    {
+      "surface": "עִמָּךְ֙",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "הַלַּ֔יְלָה",
+      "gloss": "cette nuit"
+    },
+    {
+      "surface": "תַּ֖חַת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "דּוּדָאֵ֥י",
+      "gloss": "les doudaï"
+    },
+    {
+      "surface": "בְנֵֽךְ",
+      "gloss": "de ton fils"
+    }
+  ],
+  "timestamp": "2026-08-04T05:39:14.824541545Z",
+  "model": "glm-4.5"
+}

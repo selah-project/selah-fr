@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il arriva, quand Samuel vieillit, ⟨qu'il⟩ plaça ⟨את⟩ ses fils juges pour Israël",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quand"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vieillit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "⟨qu'il⟩ plaça"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "juges"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pour Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T12:13:16.247591137Z",
+  "model": "glm-4.5"
+}

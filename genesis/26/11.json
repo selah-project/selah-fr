@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et Abimelek commanda ⟨את⟩ tout le peuple, en disant : Celui qui touche ⟨את⟩ cet homme et sa femme, mourra, il mourra.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et commanda"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le peuple"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Celui qui touche"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨l'⟩ homme"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "et sa femme"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "il mourra"
+    }
+  ],
+  "timestamp": "2026-08-04T05:33:00.272492347Z",
+  "model": "glm-4.5"
+}

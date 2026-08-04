@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et pourquoi n'as-tu pas gardé ⟨את⟩ le serment de YHWH et ⟨את⟩ le commandement que je t'ai prescrit ?",
+  "tokens": [
+    {
+      "surface": "וּמַדּוּעַ",
+      "gloss": "Et pourquoi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "n'as-tu pas"
+    },
+    {
+      "surface": "שָׁמַרְתָּ",
+      "gloss": "gardé"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "le serment de YHWH"
+    },
+    {
+      "surface": "שְׁבוּעַת",
+      "gloss": "le serment de"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le commandement"
+    },
+    {
+      "surface": "הַמִּצְוָה",
+      "gloss": "le commandement"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צִוִּיתִי",
+      "gloss": "je t'ai prescrit"
+    },
+    {
+      "surface": "עָלֶיךָ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T13:32:30.071861387Z",
+  "model": "glm-4.5"
+}

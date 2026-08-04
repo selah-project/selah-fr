@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Le pain ⟨est⟩ broyé, car on ne le vannera pas pour toujours, on fait tourner la roue de ⟨son⟩ char et ses chevaux, mais on ne le broie pas.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "⟨est⟩ broyé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "on ne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vannera pas pour toujours"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "on fait tourner"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "⟨son⟩"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "et ⟨ses⟩"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "roue de"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "char"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "chevaux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mais on ne"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "broye pas"
+    }
+  ],
+  "timestamp": "2026-08-04T15:23:08.907397846Z",
+  "model": "glm-4.5"
+}

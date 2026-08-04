@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Dis donc, je te prie, tu es ma sœur, afin qu'il m'arrive du bien à cause de toi et que mon âme vive grâce à toi",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc, je te prie"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "tu es ma sœur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afin qu'il m'arrive du bien"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "qu'il m'arrive du bien"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "à cause de toi"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "et que vive"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "grâce à toi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:12:34.244397672Z",
+  "model": "glm-4.5"
+}

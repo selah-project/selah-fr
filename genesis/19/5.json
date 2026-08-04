@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et ils appelèrent Lot et lui dirent : « Où ⟨sont⟩ les hommes qui sont venus chez toi cette nuit ? Fais-les sortir vers nous, et nous les connaîtrons ».",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Et ils appelèrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "et dirent"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "איה",
+      "gloss": "où"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sont venus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "chez toi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "cette nuit"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "fais-les sortir"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "vers nous"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "et nous les connaîtrons"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les hommes"
+    }
+  ],
+  "timestamp": "2026-08-04T05:24:25.625967425Z",
+  "model": "glm-4.5"
+}

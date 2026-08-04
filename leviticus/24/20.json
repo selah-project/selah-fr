@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "brisure pour brisure, œil pour œil, dent pour dent ; comme il ⟨a⟩ donné ⟨une⟩ blessure ⟨chez⟩ un humain, ainsi il ⟨sera⟩ donné ⟨en⟩ lui",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "brisure"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "brisure"
+    },
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dent"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dent"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "il ⟨a⟩ donné"
+    },
+    {
+      "surface": "מום",
+      "gloss": "⟨une⟩ blessure"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "⟨chez⟩ un humain"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "il ⟨sera⟩ donné"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨en⟩ lui"
+    }
+  ],
+  "timestamp": "2026-08-04T08:13:34.876763701Z",
+  "model": "glm-4.5"
+}

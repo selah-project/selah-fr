@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et ton cœur s'élève et tu oublies ⟨את⟩ YHWH ton Élohim, celui qui te fait sortir du pays d'Égypte, de la maison des serviteurs",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "et s'élève"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ton cœur"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "et tu oublies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH ton Élohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "celui qui te fait sortir"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "des serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T10:08:28.943600881Z",
+  "model": "glm-4.5"
+}

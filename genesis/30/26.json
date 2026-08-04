@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Donne-moi mes femmes et mes enfants pour qui je t'ai servi et je m'en irai ; car tu sais mon service avec lequel je t'ai servi",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Donne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes femmes"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "mes femmes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "mes enfants"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "mes enfants"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pour qui"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "je t'ai servi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "par eux"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "par eux"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "et je m'en irai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon service"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mon service"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avec lequel"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "je t'ai servi"
+    }
+  ],
+  "timestamp": "2026-08-04T05:39:22.740603872Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "isaiah 40:19",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "L'image ⟨que⟩ un artisan ⟨a⟩ coulée, l'orfèvre ⟨la⟩ plaque ⟨de⟩ l'or, et des chaînes d'argent, le fondeur les affine.",
+  "tokens": [
+    {
+      "surface": "הפסל",
+      "gloss": "L'image"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "⟨que⟩ un artisan ⟨a⟩ coulée"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "artisan"
+    },
+    {
+      "surface": "וצרף",
+      "gloss": "et l'orfèvre"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "⟨de⟩ l'or"
+    },
+    {
+      "surface": "ירקענו",
+      "gloss": "⟨la⟩ plaque"
+    },
+    {
+      "surface": "ורתקות",
+      "gloss": "et des chaînes"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "le fondeur les affine"
+    }
+  ],
+  "timestamp": "2026-08-04T15:35:24.534231390Z",
+  "model": "glm-4.5"
+}

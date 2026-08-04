@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "⟨את⟩ l'arche et ⟨את⟩ ses barres, ⟨את⟩ le propitiatoire, et ⟨את⟩ le voile du rideau",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses barres"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ses barres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le propitiatoire"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "le propitiatoire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le voile"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "le voile"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "du rideau"
+    }
+  ],
+  "timestamp": "2026-08-04T07:11:08.515497352Z",
+  "model": "glm-4.5"
+}

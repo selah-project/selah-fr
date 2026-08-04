@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et ils abandonnèrent ⟨את⟩ YHWH et ils servirent Baal et les Ashtaroth",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "et ils abandonnèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "et ils servirent"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "et les Ashtaroth"
+    }
+  ],
+  "timestamp": "2026-08-04T11:35:20.810658126Z",
+  "model": "glm-4.5"
+}

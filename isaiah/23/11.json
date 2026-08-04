@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Il a étendu ⟨sa⟩ main sur la mer, il a fait trembler ⟨les⟩ royaumes. YHWH a ordonné contre Kenaan de détruire ⟨ses⟩ forteresses.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "main"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "a étendu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "a fait trembler"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "royaumes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a ordonné"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contre"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "de détruire"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "ses forteresses"
+    }
+  ],
+  "timestamp": "2026-08-04T15:17:11.262697436Z",
+  "model": "glm-4.5"
+}

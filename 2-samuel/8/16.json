@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Yoav fils de Tserouya ⟨est⟩ sur ⟨la⟩ milice, et Yehoshaphat fils d'Achilud ⟨est⟩ le mazkir.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Et Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserouya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "⟨la⟩ milice"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "et Yehoshaphat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils d'"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Achilud"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "⟨est⟩ le mazkir"
+    }
+  ],
+  "timestamp": "2026-08-04T13:02:03.526968651Z",
+  "model": "glm-4.5"
+}

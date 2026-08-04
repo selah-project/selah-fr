@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Hanok marcha ⟨avec⟩ Élohim, et il n'était ⟨plus⟩, car Élohim ⟨le⟩ prit.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "Et... marcha"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨avec⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "et il n'était ⟨plus⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "prit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "Hanok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T05:04:54.316815257Z",
+  "model": "glm-4.5"
+}

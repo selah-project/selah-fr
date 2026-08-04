@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "numbers 32:18",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Nous ne retournerons pas ⟨à⟩ nos maisons jusqu'à ce que les fils d'Israël aient pris possession, chaque homme ⟨de⟩ son héritage",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nous ne ... pas"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "retournerons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "nos maisons"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "aient pris possession"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chaque homme"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "son héritage"
+    }
+  ],
+  "timestamp": "2026-08-04T09:40:49.793048968Z",
+  "model": "glm-4.5"
+}

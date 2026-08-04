@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et vous garderez ⟨את⟩ toutes mes ordonnances et ⟨את⟩ tous mes jugements et vous les ferez : moi, YHWH.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Et vous garderez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes mes ordonnances"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mes ordonnances"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tous mes jugements"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mes jugements"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "et vous les ferez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T08:03:57.732268418Z",
+  "model": "glm-4.5"
+}

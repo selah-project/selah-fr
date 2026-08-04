@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "⟨את⟩ le premier agneau tu feras ⟨le⟩ matin, et ⟨את⟩ le second agneau tu feras ⟨entre⟩ les deux soirs",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le premier agneau"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "le premier agneau"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "premier"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le second agneau"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "le second agneau"
+    },
+    {
+      "surface": "השני",
+      "gloss": "second"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu feras"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨entre⟩"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "les deux soirs"
+    }
+  ],
+  "timestamp": "2026-08-04T06:59:49.506606120Z",
+  "model": "glm-4.5"
+}

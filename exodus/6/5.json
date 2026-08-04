@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et même Moi, J'ai entendu ⟨את⟩ le gémissement des fils d'Israël, que les Égyptiens font servir, et Je me suis souvenu de ⟨את⟩ mon alliance",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et même"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "J'ai entendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le gémissement des fils d'Israël"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "le gémissement"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "les Égyptiens"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "font servir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "les"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "et Je me suis souvenu de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon alliance"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mon alliance"
+    }
+  ],
+  "timestamp": "2026-08-04T06:19:08.683538983Z",
+  "model": "glm-4.5"
+}

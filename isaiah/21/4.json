@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Mon cœur s'égare, l'effroi m'épouvante : Il a fait pour moi de ⟨את⟩ la brume de mon désir une terreur",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "s'égare"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "l'effroi"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "m'épouvante"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la brume de mon désir"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "la brume"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "de mon désir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Il a fait"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "une terreur"
+    }
+  ],
+  "timestamp": "2026-08-04T15:12:38.780551449Z",
+  "model": "glm-4.5"
+}

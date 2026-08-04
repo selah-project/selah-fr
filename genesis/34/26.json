@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "et ils tuèrent ⟨את⟩ Hamor et ⟨את⟩ Shekem son fils par le tranchant de l'épée, et ils prirent ⟨את⟩ Dina de la maison de Shekem, et ils sortirent.",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "et",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חֲמוֹר",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שְׁכֶם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בְּנוֹ",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "הָרְגוּ",
+      "gloss": "tuèrent"
+    },
+    {
+      "surface": "לְפִי",
+      "gloss": "par le tranchant de"
+    },
+    {
+      "surface": "חָרֶב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "וַיִּקְחוּ",
+      "gloss": "et ils prirent"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דִּינָה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "מִבֵּית",
+      "gloss": "de la maison de"
+    },
+    {
+      "surface": "שְׁכֶם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "וַיֵּצֵאוּ",
+      "gloss": "et ils sortirent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:44:46.920592655Z",
+  "model": "glm-4.5"
+}

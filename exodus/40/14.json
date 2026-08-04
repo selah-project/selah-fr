@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "et ⟨את⟩ ses fils tu feras approcher et tu les revêtiras de tuniques",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tu feras approcher"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "et tu les revêtiras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "de",
+      "marks": "tuniques"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "tuniques"
+    }
+  ],
+  "timestamp": "2026-08-04T07:23:03.208065233Z",
+  "model": "glm-4.5"
+}

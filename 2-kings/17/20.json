@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et YHWH rejeta toute la semence d'Israël et les affligea et les livra en main de pillards jusqu'à ce qu'il les eût rejetés de devant sa face",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Et rejeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "la semance"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "et les affligea"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "et les livra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en main"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "de pillards"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨il⟩"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "les eût rejetés"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de devant sa face"
+    }
+  ],
+  "timestamp": "2026-08-04T14:32:29.847946384Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Israël est sauvé ⟨par⟩ YHWH, ⟨d'une⟩ délivrance éternelle ; ils ne seront pas honteux et ils ne seront pas humiliés, jusqu'aux siècles des siècles.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "est sauvé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "⟨par⟩ YHWH"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "délivrance"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "éternelle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "seront honteux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "seront humiliés"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'aux"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "siècles"
+    },
+    {
+      "surface": "עד",
+      "gloss": "des siècles"
+    }
+  ],
+  "timestamp": "2026-08-04T15:41:50.836892826Z",
+  "model": "glm-4.5"
+}

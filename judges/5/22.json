@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "judges 5:22",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Alors furent fracassés les talons des cheval ⟨à cause de⟩ ⟨את⟩ les galopades, les galopades de ses puissants.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "furent fracassés"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "les talons"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "du cheval"
+    },
+    {
+      "surface": "מדהרות",
+      "gloss": "⟨à cause de⟩"
+    },
+    {
+      "surface": "דהרות",
+      "gloss": "⟨את⟩",
+      "marks": "les galopades"
+    },
+    {
+      "surface": "אביריו",
+      "gloss": "de ses puissants"
+    }
+  ],
+  "timestamp": "2026-08-04T11:39:30.878584976Z",
+  "model": "glm-4.5"
+}

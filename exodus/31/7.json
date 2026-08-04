@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "⟨את⟩ la tente d'assignation, et ⟨את⟩ l'arche du témoignage, et ⟨את⟩ le propitiatoire qui ⟨est⟩ sur elle, et ⟨את⟩ tous les ustensiles de la tente",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tente d'assignation"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'arche du témoignage"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "du témoignage"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le propitiatoire"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "le propitiatoire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tous les ustensiles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "les ustensiles"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "de la tente"
+    }
+  ],
+  "timestamp": "2026-08-04T07:05:00.455517390Z",
+  "model": "glm-4.5"
+}

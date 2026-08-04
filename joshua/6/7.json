@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ils dirent au peuple : Passez, et faites le tour de ⟨la⟩ ville ; ⟨l⟩armé passera devant ⟨l⟩arche de YHWH.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "העם",
+      "gloss": "peuple"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Passez"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "et faites le tour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la ville"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ville"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "et ⟨l⟩armé"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "passera"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "⟨l⟩arche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T10:57:11.987285371Z",
+  "model": "glm-4.5"
+}

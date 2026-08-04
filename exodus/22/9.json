@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 22:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car un homme donnera ⟨à⟩ son associé ⟨un⟩ âne ou ⟨un⟩ bœuf ou ⟨une⟩ bête ⟨et⟩ tout animal ⟨à⟩ garder, et il mourra ou se brisera ou sera emmené, ⟨il n'y a⟩ pas de témoin",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son associé"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "⟨un⟩ âne"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨un⟩ bœuf"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שה",
+      "gloss": "⟨une⟩ bête"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "⟨et⟩ tout"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "animal"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨à⟩ garder"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "et il mourra"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "se brisera"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "sera emmené"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨il n'y a⟩ pas"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "de témoin"
+    }
+  ],
+  "timestamp": "2026-08-04T06:44:15.898198788Z",
+  "model": "glm-4.5"
+}

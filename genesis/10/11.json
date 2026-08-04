@@ -1,0 +1,68 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "De ce pays-là sortit Ashshour et il bâtit ⟨את⟩ Ninive et ⟨את⟩ les larges-places de la ville et ⟨את⟩ Kelach",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "De"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ce pays"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sortit"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshour"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "et il bâtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les larges-places"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "les larges-places"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Kelach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelach"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:42.059745034Z",
+  "model": "glm-4.5"
+}

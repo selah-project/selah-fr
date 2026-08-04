@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et Joseph rêva un rêve et il le raconta à ses frères, et ils ajoutèrent encore à haïr ⟨את⟩ lui.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "Et rêva"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un rêve"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et il le raconta"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "à ses frères"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "et ils ajoutèrent"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "à haïr"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T05:48:15.281022281Z",
+  "model": "glm-4.5"
+}

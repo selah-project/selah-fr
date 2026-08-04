@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "et votre force sera consumée pour le vide, et votre terre ne donnera pas ⟨את⟩ son produit, et l'arbre de la terre ne donnera pas son fruit",
+  "tokens": [
+    {
+      "surface": "וְתַם",
+      "gloss": "et sera consumée"
+    },
+    {
+      "surface": "לָרִיק",
+      "gloss": "pour le vide"
+    },
+    {
+      "surface": "כֹחֲכֶם",
+      "gloss": "votre force"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תִתֵּן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "אַרְצְכֶם",
+      "gloss": "votre terre"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son produit"
+    },
+    {
+      "surface": "יְבוּלָהּ",
+      "gloss": "son produit"
+    },
+    {
+      "surface": "וְעֵץ",
+      "gloss": "et l'arbre"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יִתֵּן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "פִּרְיֽוֹ",
+      "gloss": "son fruit"
+    }
+  ],
+  "timestamp": "2026-08-04T08:17:54.349803984Z",
+  "model": "glm-4.5"
+}

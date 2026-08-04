@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et ils prirent ⟨את⟩ tout le bien de Sedom et Amora et ⟨את⟩ toute leur nourriture et ils s'en allèrent",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Et ils prirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le bien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "de Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "et Amora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toute leur nourriture"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "leur nourriture"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "et ils s'en allèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T05:19:06.843368558Z",
+  "model": "glm-4.5"
+}

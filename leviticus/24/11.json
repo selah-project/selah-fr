@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "et le fils de la femme israélite blasphéma ⟨le⟩ Nom et maudit ; et ils le conduisirent vers Moïse ; et le nom de sa mère était Shelomith, fille de Dibri, de la tribu de Dan.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "et il blasphéma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "de la femme"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "israélite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "Nom"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Nom"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "et maudit"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "et ils conduisirent"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "vers Moïse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "et le nom"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sa mère"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "était Shelomith"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "de Dibri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "de la tribu"
+    },
+    {
+      "surface": "דן",
+      "gloss": "de Dan"
+    }
+  ],
+  "timestamp": "2026-08-04T08:13:29.646122080Z",
+  "model": "glm-4.5"
+}

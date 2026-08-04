@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Et Jaakob dit à Joseph : El Shaddaï s'est ⟨est⟩ révélé ⟨à⟩ moi à Louz, dans ⟨le⟩ pays de Kenaan, et il a béni ⟨את⟩ moi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaï"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "s'est révélé"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨à⟩ moi"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "à Louz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays de"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et il a béni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "moi"
+    }
+  ],
+  "timestamp": "2026-08-04T06:07:46.222121138Z",
+  "model": "glm-4.5"
+}

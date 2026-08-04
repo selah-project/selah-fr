@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et YHWH dit à Moïse : Dis à Aaron : Étends ⟨את⟩ ta verge et frappe ⟨את⟩ la poussière de la terre, et elle deviendra des poux dans tout le pays d'Égypte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "étends"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta verge"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ta verge"
+    },
+    {
+      "surface": "והך",
+      "gloss": "et frappe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la poussière"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la poussière"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et elle deviendra"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "des poux"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    }
+  ],
+  "timestamp": "2026-08-04T06:21:47.071984587Z",
+  "model": "glm-4.5"
+}

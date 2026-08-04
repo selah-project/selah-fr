@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Paroh ordonna à tout son peuple, en disant : Tout fils qui ⟨est⟩ né, ⟨le⟩ fleuve vous le jettera, et toute fille vous la ferez vivre.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et ordonna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "à tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "qui ⟨est⟩ né"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "⟨le⟩ fleuve"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "vous le jettera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "vous la ferez vivre"
+    }
+  ],
+  "timestamp": "2026-08-04T06:11:47.728345309Z",
+  "model": "glm-4.5"
+}

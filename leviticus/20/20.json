@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et un homme qui couchera avec ⟨את⟩ sa tante, ⟨la⟩ nudité de son oncle ⟨a⟩ découverte, leur péché ils porteront, sans enfants ils mourront",
+  "tokens": [
+    {
+      "surface": "וְאִ֗ישׁ",
+      "gloss": "Et un homme"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יִשְׁכַּב֙",
+      "gloss": "couchera"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sa tante"
+    },
+    {
+      "surface": "דֹּ֣דָת֔וֹ",
+      "gloss": "sa tante"
+    },
+    {
+      "surface": "עֶרְוַ֥ת",
+      "gloss": "⟨la⟩ nudité de"
+    },
+    {
+      "surface": "דֹּד֖וֹ",
+      "gloss": "son oncle"
+    },
+    {
+      "surface": "גִּלָּ֑ה",
+      "gloss": "⟨a⟩ découverte"
+    },
+    {
+      "surface": "חֶטְאָ֥ם",
+      "gloss": "leur péché"
+    },
+    {
+      "surface": "יִשָּׂ֖אוּ",
+      "gloss": "ils porteront"
+    },
+    {
+      "surface": "עֲרִירִ֥ים",
+      "gloss": "sans enfants"
+    },
+    {
+      "surface": "יָמֻֽתוּ",
+      "gloss": "ils mourront"
+    }
+  ],
+  "timestamp": "2026-08-04T08:05:43.709556347Z",
+  "model": "glm-4.5"
+}

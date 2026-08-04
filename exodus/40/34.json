@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et la nuée couvrit ⟨את⟩ la tente d'assignation, et la gloire de YHWH remplit ⟨את⟩ le tabernacle.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "et couvrit"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "la nuée"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tente d'assignation"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "et la gloire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "remplit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le tabernacle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "le tabernacle"
+    }
+  ],
+  "timestamp": "2026-08-04T07:24:12.681501015Z",
+  "model": "glm-4.5"
+}

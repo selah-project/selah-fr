@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et toi, si tu as dévié sous ⟨ton⟩ mari et si tu as ⟨été⟩ souillée et qu'un homme en toi ⟨a⟩ donné ⟨את⟩ sa couche outre ⟨ton⟩ mari",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "tu as dévié"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "ton mari"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "et si"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "tu as ⟨été⟩ souillée"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et qu'⟨un⟩ a donné"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa couche"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sa couche"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "outre"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "ton mari"
+    }
+  ],
+  "timestamp": "2026-08-04T08:31:01.327502161Z",
+  "model": "glm-4.5"
+}

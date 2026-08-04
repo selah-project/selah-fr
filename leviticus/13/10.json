@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et le cohen voit et voici, une tumeur blanche dans la peau et elle a tourné le poil blanc et la chair vive en vie dans la tumeur",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "et le cohen voit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "et le cohen voit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "une tumeur"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "blanche"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dans la peau"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "et elle"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "a tourné"
+    },
+    {
+      "surface": "שער",
+      "gloss": "le poil"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "blanc"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "et la chair vive"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "et la chair vive"
+    },
+    {
+      "surface": "חי",
+      "gloss": "en vie"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "dans la tumeur"
+    }
+  ],
+  "timestamp": "2026-08-04T07:45:16.816788847Z",
+  "model": "glm-4.5"
+}

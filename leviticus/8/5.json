@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Mosheh dit ⟨à⟩ l'assemblée : « Ceci est ⟨la⟩ chose que YHWH a commandé de faire ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Mosheh dit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ceci est"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨la⟩ chose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    }
+  ],
+  "timestamp": "2026-08-04T07:36:54.649821552Z",
+  "model": "glm-4.5"
+}

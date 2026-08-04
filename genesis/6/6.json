@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et YHWH se repentit d'avoir fait ⟨את⟩ l'humain sur la terre, et il s'attrista dans son cœur.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "et se repentit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de ce que \/ d'avoir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il avait fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'humain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "et il s'attrista"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    }
+  ],
+  "timestamp": "2026-08-04T05:05:16.279210488Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Alors il alla avec eux et ils vinrent ⟨au⟩ Jourdain et coupèrent ⟨les⟩ arbres",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Alors il alla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "et ils vinrent"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "⟨au⟩ Jourdain"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "et coupèrent"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "⟨les⟩ arbres"
+    }
+  ],
+  "timestamp": "2026-08-04T14:14:28.031455525Z",
+  "model": "glm-4.5"
+}

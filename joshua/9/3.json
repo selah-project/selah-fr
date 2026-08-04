@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et les habitants de Gabaon entendirent ⟨את⟩ ce que Yehoshoua avait fait à Yériho et à Ha-Aï",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Et les habitants de"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gabaon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "entendirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que Yehoshoua avait fait à Yériho et à Ha-Aï"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "avait fait"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "à Yériho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "et à Ha-Aï"
+    }
+  ],
+  "timestamp": "2026-08-04T11:01:07.768859477Z",
+  "model": "glm-4.5"
+}

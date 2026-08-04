@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "et ⟨את⟩ le peuple, il le fit passer ⟨את⟩ dans les villes, de l'extrémité de la frontière de Mitsraïm jusqu'à son extrémité.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "il fit passer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le",
+      "marks": "dans les villes"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "dans les villes"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "de l'extrémité"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "de la frontière"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraïm"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "son extrémité"
+    }
+  ],
+  "timestamp": "2026-08-04T06:05:46.233547526Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et périt ⟨la⟩ toute ⟨maison⟩ d'Achab, et je retrancherai à Achab ⟨celui⟩ qui urine ⟨contre⟩ le mur, et ⟨le⟩ lié et ⟨le⟩ laissé en Israël",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "et périt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨la⟩ toute"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨maison⟩"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "d'Achab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "et je retrancherai"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "à Achab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "⟨celui⟩ qui urine"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "⟨contre⟩ le mur"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "et ⟨le⟩ lié"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "et ⟨le⟩ laissé"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T14:18:16.780173475Z",
+  "model": "glm-4.5"
+}

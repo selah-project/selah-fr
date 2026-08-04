@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et le Liban ⟨est⟩ insuffisant pour le feu, et ses bêtes ⟨sont⟩ insuffisantes pour ⟨une⟩ ola.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "Et le Liban"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨est⟩ insuffisant"
+    },
+    {
+      "surface": "די",
+      "gloss": "insuffisant"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pour le feu"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "et ses bêtes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨sont⟩ insuffisantes"
+    },
+    {
+      "surface": "די",
+      "gloss": "insuffisantes"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "pour ⟨une⟩ ola"
+    }
+  ],
+  "timestamp": "2026-08-04T15:34:34.619096791Z",
+  "model": "glm-4.5"
+}

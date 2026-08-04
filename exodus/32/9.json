@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et YHWH dit à Moïse : J'ai vu ⟨את⟩ ce peuple, et voici, c'est un peuple à la nuque raide, ⟨il est⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ce peuple"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un peuple"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "raide"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nuque"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    }
+  ],
+  "timestamp": "2026-08-04T07:06:12.267869242Z",
+  "model": "glm-4.5"
+}

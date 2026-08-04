@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et je te rendrai fécond ⟨את⟩ avec beaucoup, beaucoup, et je te ferai devenir des nations, et ⟨את⟩ des rois sortiront de toi",
+  "tokens": [
+    {
+      "surface": "וְהִפְרֵתִ֤י",
+      "gloss": "Et je te rendrai fécond"
+    },
+    {
+      "surface": "אֹֽתְךָ֙",
+      "gloss": "⟨את⟩",
+      "marks": "avec beaucoup"
+    },
+    {
+      "surface": "בִּמְאֹ֣ד",
+      "gloss": "avec beaucoup"
+    },
+    {
+      "surface": "מְאֹ֔ד",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "וּנְתַתִּ֖יךָ",
+      "gloss": "et je te ferai devenir"
+    },
+    {
+      "surface": "לְגוֹיִ֑ם",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "וּמְלָכִ֖ים",
+      "gloss": "et ⟨את⟩ des rois"
+    },
+    {
+      "surface": "מִמְּךָ֥",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "יֵצֵֽאוּ",
+      "gloss": "sortiront"
+    }
+  ],
+  "timestamp": "2026-08-04T05:21:32.718707343Z",
+  "model": "glm-4.5"
+}

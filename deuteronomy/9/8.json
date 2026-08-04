@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Même à Horeb vous avez irrité YHWH ; YHWH s'est mis en colère contre vous pour ⟨vous détruire⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Même à Horeb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "vous avez irrité"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "YHWH s'est mis en colère"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "contre vous"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "pour détruire"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩",
+      "marks": "vous"
+    }
+  ],
+  "timestamp": "2026-08-04T10:08:46.542174931Z",
+  "model": "glm-4.5"
+}

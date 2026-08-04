@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et ils dirent : tu ne nous as pas oppressés et tu ne nous as pas écrasés et tu n'as pas pris ⟨de⟩ la main d'un homme rien",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "pas oppressés"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "pas écrasés"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu n'as"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "pas pris"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "rien"
+    }
+  ],
+  "timestamp": "2026-08-04T12:19:39.706169835Z",
+  "model": "glm-4.5"
+}

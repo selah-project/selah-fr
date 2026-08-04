@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et pourquoi endurcissez-vous ⟨את⟩ vos cœurs comme l'Égypte et Pharaon ont endurci ⟨את⟩ leur cœur ? N'est-ce pas quand il se joua d'eux qu'ils les envoyèrent et ils s'en allèrent ?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Et pourquoi"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "endurcissez-vous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos cœurs"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "vos cœurs"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ont endurci"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "l'Égypte"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "et Pharaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur cœur"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "leur cœur"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "quand"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "il se joua"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "ils les envoyèrent"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "et ils s'en allèrent"
+    }
+  ],
+  "timestamp": "2026-08-04T12:11:19.743966643Z",
+  "model": "glm-4.5"
+}

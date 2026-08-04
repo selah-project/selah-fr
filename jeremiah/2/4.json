@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Écoutez ⟨la⟩ parole de YHWH, maison de Yaakov, et toutes ⟨les⟩ familles de la maison d'Israël",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toutes"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "familles"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T16:04:46.892263218Z",
+  "model": "glm-4.5"
+}

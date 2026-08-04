@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Élisha mourut, et on l'enterra. Et les bandes de Moab entrèrent dans le pays, à l'entrée de l'année.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mourut"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Élisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "et on l'enterra"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "et les bandes"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "entrèrent"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "בא",
+      "gloss": "à l'entrée"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "de l'année"
+    }
+  ],
+  "timestamp": "2026-08-04T14:26:25.529078217Z",
+  "model": "glm-4.5"
+}

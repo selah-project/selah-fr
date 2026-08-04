@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Qui ⟨sont⟩ ceux-ci qui volent comme un nuage et comme des tourterelles vers leurs colombiers ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ceux-ci"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "comme un nuage"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "qui volent"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "et comme des tourterelles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "leurs colombiers"
+    }
+  ],
+  "timestamp": "2026-08-04T15:53:39.431727097Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Ce sont ⟨celles⟩ que Moçè a fait hériter dans les plaines de Moab, au-delà du Jourdain, ⟨vers⟩ Jéricho, ⟨vers⟩ l'orient.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ce sont"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨celles⟩ que"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "a fait hériter"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moçè"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "dans les plaines de"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab,"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "au-delà de"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "le Jourdain,"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "⟨vers⟩ Jéricho,"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "⟨vers⟩ l'orient"
+    }
+  ],
+  "timestamp": "2026-08-04T11:07:14.481262159Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et ⟨את⟩ le Jébusite, et ⟨את⟩ l'Amorite, et ⟨את⟩ le Guirgashite",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le Jébusite"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "le Jébusite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'Amorite"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "l'Amorite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le Guirgashite"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "le Guirgashite"
+    }
+  ],
+  "timestamp": "2026-08-04T05:10:05.703004865Z",
+  "model": "glm-4.5"
+}

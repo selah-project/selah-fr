@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "YHWH ⟨juge⟩ entre moi et toi, et YHWH ⟨se venge⟩ de toi ; mais ma main ⟨ne sera pas⟩ sur toi.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "juge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "et [se venge] de moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "et ma main"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sur toi"
+    }
+  ],
+  "timestamp": "2026-08-04T12:41:49.851026286Z",
+  "model": "glm-4.5"
+}

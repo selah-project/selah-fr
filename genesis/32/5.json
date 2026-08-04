@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et il leur ⟨commanda⟩, en disant : « Ainsi direz-vous à mon seigneur, à Ésaü : Ainsi a dit ton serviteur, Jacob : J'ai séjourné avec Laban, et j'ai tardé jusqu'à maintenant. »",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et il leur ⟨commanda⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "en disant : « Ainsi direz-vous à mon seigneur, à Ésaü"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "direz-vous"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "à mon seigneur"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "à Ésaü"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "J'ai séjourné"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "et j'ai tardé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    }
+  ],
+  "timestamp": "2026-08-04T05:42:14.042237595Z",
+  "model": "glm-4.5"
+}

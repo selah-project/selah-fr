@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "De la paille, il n'est pas donné à tes serviteurs, et des briques ils nous disent : Faites ! et voici, tes serviteurs sont frappés, et ⟨c'est⟩ un péché de ton peuple.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "De la paille"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'est pas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donné"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "à tes serviteurs"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "et des briques"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ils disent"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Faites"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "sont frappés"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "et ⟨c'est⟩ un péché"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "de ton peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T06:18:14.682246857Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Alors tes anciens et tes juges sortiront et mesureront ⟨vers⟩ les villes ⟨qui sont⟩ aux alentours du ⟨tué⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "sortiront"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "tes anciens"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "et tes juges"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "et mesureront"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui sont⟩"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "aux alentours"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "du ⟨tué⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T10:24:56.965008646Z",
+  "model": "glm-4.5"
+}

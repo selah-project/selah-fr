@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Sarah vit ⟨את⟩ le fils de Hagar l'Égyptienne, qu'elle avait enfanté à Abraham, se moquant.",
+  "tokens": [
+    {
+      "surface": "וַתֵּ֨רֶא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "שָׂרָ֜ה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "le fils de Hagar l'Égyptienne"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "הָגָ֧ר",
+      "gloss": "de Hagar"
+    },
+    {
+      "surface": "הַמִּצְרִ֛ית",
+      "gloss": "l'Égyptienne"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "qu'elle"
+    },
+    {
+      "surface": "יָלְדָ֥ה",
+      "gloss": "avait enfanté"
+    },
+    {
+      "surface": "לְאַבְרָהָ֖ם",
+      "gloss": "à Abraham"
+    },
+    {
+      "surface": "מְצַחֵֽק",
+      "gloss": "se moquant"
+    }
+  ],
+  "timestamp": "2026-08-04T05:26:49.957482207Z",
+  "model": "glm-4.5"
+}

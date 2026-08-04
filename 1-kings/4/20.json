@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Yehudah et Israël ⟨sont⟩ nombreux comme le sable qui ⟨est⟩ sur la mer pour ⟨le⟩ nombre, mangeant et buvant et se réjouissant",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "et Israël"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨sont⟩ nombreux"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "comme le sable"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "pour ⟨le⟩ nombre"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mangeant"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "et buvant"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "et se réjouissant"
+    }
+  ],
+  "timestamp": "2026-08-04T13:34:32.999793869Z",
+  "model": "glm-4.5"
+}

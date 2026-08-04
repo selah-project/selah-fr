@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "À qui me ferez-vous ressembler et ⟨vous⟩ égalerez, et me comparerez, pour que nous ressemblions ?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "À qui"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "me ferez-vous ressembler"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "et ⟨vous⟩ égalerez"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "et me comparerez"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "pour que nous ressemblions"
+    }
+  ],
+  "timestamp": "2026-08-04T15:42:39.428516342Z",
+  "model": "glm-4.5"
+}

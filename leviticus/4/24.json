@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et il posera sa main sur la tête du bouc et ⟨il⟩ égorgera ⟨את⟩ lui à l'endroit où l'on égorge ⟨את⟩ l'ola devant YHWH — c'est une offrande pour le péché.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "et il posera"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "du bouc"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "et ⟨il⟩ égorgera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "à l'endroit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "l'on égorge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "l'ola"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "offrande pour le péché"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-04T07:31:15.485456024Z",
+  "model": "glm-4.5"
+}

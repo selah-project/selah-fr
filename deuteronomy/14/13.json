@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "et le milan, et ⟨את⟩ l'aigle, et le vautour selon son espèce",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "et le milan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "l'aigle"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "l'aigle"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "et le vautour"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "selon son espèce"
+    }
+  ],
+  "timestamp": "2026-08-04T10:17:16.554850862Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Si le feu sort et trouve des épines et ⟨est⟩ consommé ⟨le⟩ tas de gerbes ou la moisson ou le champ, le responsable de l'incendie paiera ⟨את⟩ le préjudice de l'incendie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "le feu sort"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "et trouve"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "des épines"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "et ⟨est⟩ consommé"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "⟨le⟩ tas de gerbes"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "la moisson"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "le champ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "le responsable de l'incendie paiera"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "paiera"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "le responsable de l'incendie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "הבערה"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "le préjudice de l'incendie"
+    }
+  ],
+  "timestamp": "2026-08-04T06:45:18.694360295Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Shaul vit qu'il ⟨était⟩ très sage, et il eut peur de lui",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨était⟩ sage"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "et eut peur"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-04T12:33:54.710678321Z",
+  "model": "glm-4.5"
+}

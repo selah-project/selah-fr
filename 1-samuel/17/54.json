@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et David prit ⟨את⟩ la tête du Philistin et l'apporta à Jérusalem, et ⟨את⟩ ses armes il mit dans sa tente.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tête"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "du Philistin"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "et l'apporta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses armes"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ses armes"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il mit"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "dans sa tente"
+    }
+  ],
+  "timestamp": "2026-08-04T12:32:27.206480113Z",
+  "model": "glm-4.5"
+}
