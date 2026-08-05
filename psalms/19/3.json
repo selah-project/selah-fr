@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Jour après jour fait jaillir ⟨la⟩ parole, et nuit après nuit révèle ⟨la⟩ connaissance.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Jour"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "après jour"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "fait jaillir"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨la⟩ parole"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et nuit"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "après nuit"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "révèle"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨la⟩ connaissance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:53.950972082Z",
+  "model": "glm-4.5"
+}

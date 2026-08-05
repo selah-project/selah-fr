@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Qu'est-ce que ⟨un⟩ humain, que tu te souviennes de lui, et ⟨le⟩ fils de ⟨l'⟩adam, que tu le visites ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Qu'est-ce que"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "⟨un⟩ humain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "tu te souviennes de lui"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "et ⟨le⟩ fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de ⟨l'⟩adam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "tu le visites"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:02.308396520Z",
+  "model": "glm-4.5"
+}

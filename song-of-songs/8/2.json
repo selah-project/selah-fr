@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Je te conduirais, je t'amènerais dans la maison de ma mère, tu m'instruirais, je te ferais boire du vin aromatisé, du jus de ma grenade.",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "Je te conduirais"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "je t'amènerais"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "de ma mère"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "tu m'instruirais"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "je te ferais boire"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "aromatisé"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "du jus"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "de ma grenade"
+    }
+  ],
+  "timestamp": "2026-08-05T04:22:47.705372798Z",
+  "model": "glm-4.5"
+}

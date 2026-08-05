@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Les paroles de YHWH ⟨sont⟩ des paroles pures, de l'argent affiné, dans un creuset de terre, épuré sept fois.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Les paroles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "⟨sont⟩ des paroles"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "pures"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "affiné"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "dans un creuset"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "de terre"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "épuré"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sept fois"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:38.953372312Z",
+  "model": "glm-4.5"
+}

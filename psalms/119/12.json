@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Béni sois-tu, YHWH, enseigne-moi tes statuts.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni sois-tu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-moi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes statuts"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:02.621352095Z",
+  "model": "glm-4.5"
+}

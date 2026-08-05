@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 87,
+  "translation": "YHWH comptera dans l'écrit des peuples : celui-ci ⟨est⟩ né là. Séla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "comptera"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "dans l'écrit"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨est⟩ né"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:47.204124591Z",
+  "model": "glm-4.5"
+}

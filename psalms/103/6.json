@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Faisant des justices, YHWH, et des jugements pour tous les opprimés.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Faisant"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "des justices"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "et des jugements"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour tous"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "les opprimés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:34.837150278Z",
+  "model": "glm-4.5"
+}

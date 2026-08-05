@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 128,
+  "translation": "Tu mangeras le labeur de tes mains, heureux ⟨es-tu⟩, et il ⟨est⟩ bon pour toi.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "le labeur"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "de tes mains"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "tu mangeras"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "heureux ⟨es-tu⟩"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "et il ⟨est⟩ bon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:18.492202326Z",
+  "model": "glm-4.5"
+}

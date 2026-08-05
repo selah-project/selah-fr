@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "Venez, chantons avec allégresse pour YHWH, crions de joie vers le rocher de notre salut",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venez"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "chantons avec allégresse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "crions de joie"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "vers le rocher"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "de notre salut"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:14.573533357Z",
+  "model": "glm-4.5"
+}

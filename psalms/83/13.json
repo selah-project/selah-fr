@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Qui ont dit : Prenez possession pour nous ⟨את⟩ les habitations d’Élohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ont dit"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Prenez possession"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les habitations"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "les habitations"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d’Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:41.351761220Z",
+  "model": "glm-4.5"
+}

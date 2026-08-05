@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Tout ce que YHWH a fait ⟨est⟩ pour sa réponse, et ⟨même⟩ le méchant pour le jour de malheur.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ce que ... a fait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "pour sa réponse"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pour le jour"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "de malheur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:10.920043514Z",
+  "model": "glm-4.5"
+}

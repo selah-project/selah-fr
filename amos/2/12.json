@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et vous avez fait boire du vin aux naziréens, et aux prophètes vous avez commandé, en disant : ne prophétisez pas !",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Et vous avez fait boire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aux naziréens"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "aux naziréens"
+    },
+    {
+      "surface": "יין",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et aux"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "prophètes"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "vous avez commandé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "prophétisez pas"
+    }
+  ],
+  "timestamp": "2026-08-05T00:15:03.722425055Z",
+  "model": "glm-4.5"
+}

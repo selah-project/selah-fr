@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Pour ⟨le⟩ nom de toi, YHWH, fais-moi vivre, dans ta justice fais sortir ma nefesh de détresse.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pour"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "⟨le⟩ nom de toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "fais-moi vivre"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dans ta justice"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "fais sortir"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "de détresse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.420106650Z",
+  "model": "glm-4.5"
+}

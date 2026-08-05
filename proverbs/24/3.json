@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Par sagesse se bâtit ⟨une⟩ maison, et par intelligence elle s'établit",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "Par sagesse"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "se bâtit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨une⟩ maison"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "et par intelligence"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "elle s'établit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:43.540341966Z",
+  "model": "glm-4.5"
+}

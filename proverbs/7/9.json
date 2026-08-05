@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Dans le crépuscule, au soir du jour, dans l'obscurité de la nuit et la noirceur.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "Dans le crépuscule"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "au soir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "du jour"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "dans l'obscurité"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "de la nuit"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "et la noirceur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:07.510552014Z",
+  "model": "glm-4.5"
+}

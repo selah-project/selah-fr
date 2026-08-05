@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Et je pensais savoir ceci : c'est un labeur à mes yeux.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "et je pensais"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "savoir"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "un labeur"
+    },
+    {
+      "surface": "היא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "à mes yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:51.167856563Z",
+  "model": "glm-4.5"
+}

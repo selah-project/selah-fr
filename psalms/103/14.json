@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Car il sait notre formation, il se souvient que poussière nous sommes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "notre formation"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "il se souvient"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "poussière"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nous sommes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:36.778006367Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Quand je regarde tes cieux, l'œuvre de tes doigts, la lune et les étoiles que tu as établies,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "je regarde"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "tes cieux"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "l'œuvre de"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "tes doigts"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "la lune"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "et les étoiles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "tu as établies"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:58.885603557Z",
+  "model": "glm-4.5"
+}

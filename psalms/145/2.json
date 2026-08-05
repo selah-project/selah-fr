@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Chaque jour je te bénirai, et je louerai ton nom pour toujours et à perpétuité.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Chaque"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "je te bénirai"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "et je louerai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et à perpétuité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:46.546244066Z",
+  "model": "glm-4.5"
+}

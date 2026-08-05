@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Tout ⟨est⟩ arrivé sur Nebucadnetsar, ⟨le⟩ roi.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "arrivé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebucadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "roi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:10:09.076368758Z",
+  "model": "glm-4.5"
+}

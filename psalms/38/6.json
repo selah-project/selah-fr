@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Elles ⟨sont⟩ devenues fétides, elles ont coulé, mes meurtrissures, à cause de ma folie.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Elles ⟨sont⟩ devenues fétides"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "elles ont coulé"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "mes meurtrissures"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "ma folie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:35.926910083Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Mais toi, un homme comme mon égal, mon guide et mon familier",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mais toi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "comme mon égal"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "mon guide"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "et mon familier"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.488749856Z",
+  "model": "glm-4.5"
+}

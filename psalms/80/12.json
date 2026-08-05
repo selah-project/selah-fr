@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Elle envoie ses récoltes jusqu'à la mer, et jusqu'au fleuve ses jets",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Elle envoie"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ses récoltes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "au fleuve"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ses jets"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:05.935423979Z",
+  "model": "glm-4.5"
+}

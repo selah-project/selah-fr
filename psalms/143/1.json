@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Un psaume de David. YHWH, entends ma prière, prête l'oreille à mes supplications ; dans ta fidélité, réponds-moi, dans ta justice.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "entends"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma prière"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mes supplications"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "dans ta fidélité"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "réponds-moi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dans ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.285375744Z",
+  "model": "glm-4.5"
+}

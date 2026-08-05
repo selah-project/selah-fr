@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Tu as rejeté l'alliance de ton serviteur, tu as profané ⟨sa⟩ couronne vers ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "tu as rejeté"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "l'alliance"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "de ton serviteur"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "tu as profané"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "vers ⟨la⟩ terre"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "⟨sa⟩ couronne"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:23.114505198Z",
+  "model": "glm-4.5"
+}

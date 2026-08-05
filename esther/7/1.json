@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et le roi vint, ainsi qu’Haman, pour boire avec Esther la reine.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et vint"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "et Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "pour boire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "la reine"
+    }
+  ],
+  "timestamp": "2026-08-05T05:01:37.210935274Z",
+  "model": "glm-4.5"
+}

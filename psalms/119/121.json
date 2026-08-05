@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai pratiqué ⟨le⟩ jugement et ⟨la⟩ justice : ne me laisse pas à mes oppresseurs.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "J'ai pratiqué"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨le⟩ jugement"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "et ⟨la⟩ justice"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "me laisse pas"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "à mes oppresseurs"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:07.256955979Z",
+  "model": "glm-4.5"
+}

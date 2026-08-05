@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "J'ai annoncé la justice dans ⟨la⟩ grande assemblée, voici, je n'ai pas retenu mes lèvres, YHWH, toi tu sais.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "J'ai annoncé"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dans ⟨l'⟩assemblée"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mes lèvres"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'ai pas"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "retenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu sais"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:43.402876427Z",
+  "model": "glm-4.5"
+}

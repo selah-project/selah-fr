@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "La voix de YHWH fait tournoyer les biches, et dénude les forêts ; et dans son temple, tout ⟨le⟩ dit : gloire !",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voix de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "fait tournoyer"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "les biches"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "et dénude"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "les forêts"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "et dans son temple"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:41.137340191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Celui qui trébuche, tes paroles ⟨le⟩ relèvent, et ⟨des⟩ genoux fléchissants tu affermis",
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "Celui qui trébuche"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "tes paroles ⟨le⟩ relèvent"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "tes paroles"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "et ⟨des⟩ genoux"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "fléchissants"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "tu affermis"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:05.249718049Z",
+  "model": "glm-4.5"
+}

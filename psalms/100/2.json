@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 100,
+  "translation": "Servez ⟨את⟩ YHWH avec allégresse, venez devant sa face avec des chants joyeux.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Servez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "avec allégresse"
+    },
+    {
+      "surface": "באו",
+      "gloss": "venez"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant sa face"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "avec des chants joyieux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:14.390370492Z",
+  "model": "glm-4.5"
+}

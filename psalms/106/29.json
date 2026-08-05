@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils provoquèrent la colère par leurs œuvres, et une épidémie ⟨se⟩ fit ⟨parmi⟩ eux.",
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "Et ils provoquèrent la colère"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "par leurs œuvres"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "et une épidémie fit"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨parmi⟩ eux"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "épidémie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:08.416668008Z",
+  "model": "glm-4.5"
+}

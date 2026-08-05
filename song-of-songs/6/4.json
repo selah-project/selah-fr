@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Tu es belle, mon amie, comme Tirça ; agréable comme Jérusalem ; redoutable comme ⟨les⟩ troupes ⟨avec⟩ étendards.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Tu es belle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon amie"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mon amie"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "comme Tirça"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "agréable"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "comme Jérusalem"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "redoutable"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "comme les troupes avec étendards"
+    }
+  ],
+  "timestamp": "2026-08-05T04:21:11.461061625Z",
+  "model": "glm-4.5"
+}

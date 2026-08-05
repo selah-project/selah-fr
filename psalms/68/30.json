@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "⟨À cause de⟩ ton temple ⟨à⟩ Jérusalem, ⟨à⟩ toi les rois apporteront des présents.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "ton temple"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨À cause de⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨à⟩ toi"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "apporteront"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "שי",
+      "gloss": "des présents"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:11.170348281Z",
+  "model": "glm-4.5"
+}

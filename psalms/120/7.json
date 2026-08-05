@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 120,
+  "translation": "Moi, shalom — et quand je parle, ils sont pour la guerre.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "— et quand"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "je parle"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils sont"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "pour la guerre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:33.777780030Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Fais luire ta face sur ton serviteur, et enseigne-moi ⟨את⟩ tes décrets.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "האר",
+      "gloss": "fais luire"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "sur ton serviteur"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "et enseigne-moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes décrets"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes décrets"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:30.251355646Z",
+  "model": "glm-4.5"
+}

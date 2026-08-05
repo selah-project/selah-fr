@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Tu prépares devant moi une table ⟨en⟩ présence de mes adversaires ; tu as oint d'huile ma tête, ma coupe est comble.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Tu prépares"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "une table"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "⟨en⟩ présence"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "de mes adversaires"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "tu as oint"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "d'huile"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ma coupe"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "est comble"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:38.803014455Z",
+  "model": "glm-4.5"
+}

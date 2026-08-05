@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Justice et droit sont l'assise de ton trône ; hessed et vérité précèdent ta face.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Justice"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "et droit"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "sont l'assise"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "de ton trône"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hessed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "et vérité"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "précèdent"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:21.736374017Z",
+  "model": "glm-4.5"
+}

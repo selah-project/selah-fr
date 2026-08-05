@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Contre ton peuple ⟨ils⟩ trament un complot, et ⟨ils⟩ délibèrent contre tes protégés.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Contre"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "⟨ils⟩ trament"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "un complot,"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "et ⟨ils⟩ délibèrent"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "tes protégés."
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:40.614741214Z",
+  "model": "glm-4.5"
+}

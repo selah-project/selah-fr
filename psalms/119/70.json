@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Épais comme ⟨de la⟩ graisse ⟨est⟩ leur cœur, moi, ta Torah ⟨est⟩ mon délice.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "Épais"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "comme ⟨de la⟩ graisse"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "leur cœur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ta Torah"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "⟨est⟩ mon délice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.510418538Z",
+  "model": "glm-4.5"
+}

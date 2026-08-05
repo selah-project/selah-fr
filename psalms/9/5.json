@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car tu as fait ⟨mon⟩ jugement et ⟨ma⟩ cause ; tu t'es assis sur ⟨un⟩ trône, juge de justice.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu as fait"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨mon⟩ jugement"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "et ⟨ma⟩ cause"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "tu t'es assis"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sur ⟨un⟩ trône"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "juge"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "de justice"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:31.040542866Z",
+  "model": "glm-4.5"
+}

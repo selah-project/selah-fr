@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Tu as fait cesser ⟨son⟩ éclat et ⟨son⟩ trône ⟨à⟩ la terre tu l'as précipité",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "Tu as fait cesser"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "⟨son⟩ éclat"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "et ⟨son⟩ trône"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨à⟩ la terre"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "tu l'as précipité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:43.641945141Z",
+  "model": "glm-4.5"
+}

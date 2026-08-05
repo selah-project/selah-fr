@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et je louai les morts qui déjà sont morts, plus que les vivants qui sont vivants encore",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Et je louai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les morts"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "les morts"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "qui déjà"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "sont morts"
+    },
+    {
+      "surface": "מן",
+      "gloss": "plus que"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "les vivants"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sont"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivants"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "encore"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:30.711916512Z",
+  "model": "glm-4.5"
+}

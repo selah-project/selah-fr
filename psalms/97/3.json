@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Le feu va devant sa face et flambe autour de ses adversaires",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Le feu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "va devant sa face"
+    },
+    {
+      "surface": "תלך",
+      "gloss": ""
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "et flambe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "autour"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "de ses adversaires"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:51.304556510Z",
+  "model": "glm-4.5"
+}

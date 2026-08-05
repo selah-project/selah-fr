@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 61,
+  "translation": "Je séjournerai dans ⟨ton⟩ tente des siècles, je me réfugierai ⟨dans⟩ le cachet de ⟨tes⟩ ailes, Séla.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "je séjournerai"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "dans ton tente"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "des siècles"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "je me réfugierai"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dans le cachet"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "de tes ailes"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:50:39.889767113Z",
+  "model": "glm-4.5"
+}

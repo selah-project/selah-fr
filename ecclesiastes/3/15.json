@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Ce qui a été, déjà ⟨il⟩ est, et ce qui doit être, déjà ⟨il⟩ a été, et Élohim recherche ⟨את⟩ ce qui est poursuivi",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ce qui"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a été"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "déjà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il⟩ est"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et ce qui"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "doit être"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "déjà"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨il⟩ a été"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "et Élohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "recherche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qui est poursuivi"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ce qui est poursuivi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:47.532878244Z",
+  "model": "glm-4.5"
+}

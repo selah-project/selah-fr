@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et tu sauras que nombreux ⟨est⟩ ta semence et ta descendance comme l'herbe de la terre.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Et tu sauras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ta semence"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "et ta descendance"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "comme l'herbe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:05.306191816Z",
+  "model": "glm-4.5"
+}

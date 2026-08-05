@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Mais étends donc ta main et touche ⟨à⟩ tout ce qui est ⟨à⟩ lui : ⟨si⟩ il ne te bénit pas ⟨au⟩ visage !",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Mais"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "étends"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "et touche"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨à⟩ tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui est"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨à⟩ lui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨au⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "visage"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "il te bénit pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:41:57.423165607Z",
+  "model": "glm-4.5"
+}

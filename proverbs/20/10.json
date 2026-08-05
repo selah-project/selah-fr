@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Pierre et pierre, épha et épha, l'un et l'autre sont une abomination pour YHWH.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Pierre"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "et pierre"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "épha"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "et épha"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "l'un et l'autre"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sont"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:18.433149673Z",
+  "model": "glm-4.5"
+}

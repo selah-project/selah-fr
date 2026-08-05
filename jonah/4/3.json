@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et maintenant, YHWH, prends, s'il te plaît, ⟨את⟩ ma nefesh de moi, car bon est ma mort d'⟩⟨après⟨ ma vie",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קח",
+      "gloss": "prends"
+    },
+    {
+      "surface": "נא",
+      "gloss": "s'il te plaît"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma nefesh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon est"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ma mort"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "d'⟩⟨après⟨ ma vie"
+    }
+  ],
+  "timestamp": "2026-08-05T00:24:54.198597903Z",
+  "model": "glm-4.5"
+}

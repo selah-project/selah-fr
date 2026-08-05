@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Comme l'ombre quand ⟨elle⟩ s'étend, je m'en vais, je suis chassé comme la sauterelle.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Comme l'ombre"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "quand ⟨elle⟩ s'étend"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "je m'en vais"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "je suis chassé"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "comme la sauterelle"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:10.239272973Z",
+  "model": "glm-4.5"
+}

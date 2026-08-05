@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Que nous avons entendues et connues, et que nos pères nous ⟨ont⟩ racontées.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Que"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nous avons entendues"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "et connues"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "et que nos pères"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nous ⟨ont⟩ racontées"
+    },
+    {
+      "surface": "לנו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:29.236645287Z",
+  "model": "glm-4.5"
+}

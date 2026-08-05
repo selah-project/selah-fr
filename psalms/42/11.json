@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Comme un meurtre dans mes os, mes oppresseurs m'outragent, en disant ⟨à⟩ moi tout le jour : où ⟨est⟩ ton Élohim ?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "comme un meurtre"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "dans mes os"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mes oppresseurs m'outragent"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mes oppresseurs"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨à⟩ moi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "איה",
+      "gloss": "où"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨est⟩ ton Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:08.262587798Z",
+  "model": "glm-4.5"
+}

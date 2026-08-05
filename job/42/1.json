@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et Iyyob répondit ⟨à⟩ YHWH et dit",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:17.337655231Z",
+  "model": "glm-4.5"
+}

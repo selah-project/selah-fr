@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Le roi n'est pas sauvé par ⟨la⟩ multitude d'une armée, le puissant n'est pas délivré par ⟨la⟩ grandeur de la force.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "sauvé"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "par ⟨la⟩ multitude de"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "une armée"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "le puissant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "délivré"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "par ⟨la⟩ grandeur de"
+    },
+    {
+      "surface": "כח",
+      "gloss": "la force"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:34.283908545Z",
+  "model": "glm-4.5"
+}

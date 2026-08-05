@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Écoutez ceci, ⟨vous⟩ tous ⟨les⟩ peuples, prêtez l'oreille, ⟨vous⟩ tous habitants du hèled.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨les⟩ peuples"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "prêtez l'oreille"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "habitants du"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "hèled"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:02.928862052Z",
+  "model": "glm-4.5"
+}

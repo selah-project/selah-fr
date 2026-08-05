@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Je ne mourrai pas, car je vivrai, et ⟨je⟩ raconterai les actions de Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mourrai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "vivrai"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "et ⟨je⟩ raconterai"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "les actions"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:46.558227974Z",
+  "model": "glm-4.5"
+}

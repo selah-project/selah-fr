@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Car dans ⟨la⟩ multitude de la sagesse, ⟨il y a⟩ multitude de chagrin, et qui augmente ⟨la⟩ connaissance, augmente ⟨la⟩ douleur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dans la multitude"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "de la sagesse"
+    },
+    {
+      "surface": "רב",
+      "gloss": "multitude"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "de chagrin"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "et qui augmente"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "augmente"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "la douleur"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:22.763256401Z",
+  "model": "glm-4.5"
+}

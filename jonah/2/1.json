@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH désigna un grand poisson pour avaler ⟨את⟩ Yonah ; et Yonah fut ⟨dans⟩ les entrailles du poisson trois jours et trois nuits.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Et désigna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דג",
+      "gloss": "poisson"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "pour avaler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et fut"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "⟨dans les⟩ entrailles"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "du poisson"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trois"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "et trois"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nuits"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:22.069039371Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Prête l'oreille pour moi, YHWH, et ⟨écoute⟩ la voix de mes adversaires",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "et écoute"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "mes adversaires"
+    }
+  ],
+  "timestamp": "2026-08-04T16:25:42.200240323Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "M'ont entouré ⟨les⟩ cordes de la mort, et ⟨les⟩ torrents de Belial m'ont effrayé.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "M'ont entouré"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "⟨les⟩ cordes de"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "et ⟨les⟩ torrents de"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "m'ont effrayé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:00.504797050Z",
+  "model": "glm-4.5"
+}

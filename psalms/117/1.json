@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 117,
+  "translation": "Louez ⟨את⟩ YHWH, tous les peuples, glorifiez-le, toutes les nations.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "שבחוהו",
+      "glaver": "glorifiez-le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "les nations"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:17.473305458Z",
+  "model": "glm-4.5"
+}

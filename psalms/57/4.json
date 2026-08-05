@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Il enverra des cieux et me sauvera, ⟨Celui qui⟩ outrage celui qui ⟨aspire à⟩ moi. Séla. Élohim enverra son hessed et sa vérité.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Il enverra"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "et me sauvera"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "⟨Celui qui⟩ outrage"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "celui qui ⟨aspire à⟩ moi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "Élohim enverra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": ""
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "et sa vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:55.589502817Z",
+  "model": "glm-4.5"
+}

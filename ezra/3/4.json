@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ils célébrèrent ⟨את⟩ la fête des Soukkot, comme il est écrit, et l'offrande d'élévation de jour en jour en nombre, selon le rite, la parole d'un jour en son jour.",
+  "tokens": [
+    {
+      "surface": "וַֽיַּעֲשׂ֛וּ",
+      "gloss": "et ils célébrèrent"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la fête"
+    },
+    {
+      "surface": "חַ֥ג",
+      "gloss": "la fête"
+    },
+    {
+      "surface": "הַסֻּכּ֖וֹת",
+      "gloss": "des Soukkot"
+    },
+    {
+      "surface": "כַּכָּת֑וּב",
+      "gloss": "comme il est écrit"
+    },
+    {
+      "surface": "וְעֹלַ֨ת",
+      "gloss": "et l'offrande d'élévation"
+    },
+    {
+      "surface": "י֤וֹם",
+      "gloss": "de jour"
+    },
+    {
+      "surface": "בְּיוֹם֙",
+      "gloss": "en jour"
+    },
+    {
+      "surface": "בְּמִסְפָּ֔ר",
+      "gloss": "en nombre"
+    },
+    {
+      "surface": "כְּמִשְׁפַּ֖ט",
+      "gloss": "selon le rite"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "la parole de"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "un jour"
+    },
+    {
+      "surface": "בְּיוֹמֽוֹ",
+      "gloss": "en son jour"
+    }
+  ],
+  "timestamp": "2026-08-05T05:35:13.242215732Z",
+  "model": "glm-5.2"
+}

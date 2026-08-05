@@ -1,45 +1,45 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 17,
   "ref": "isaiah 40:17",
   "book": "isaiah",
   "lang": "fr",
   "chapter": 40,
-  "translation": "Toutes les nations sont comme néant ⟨לְפָנָיו⟩, elles sont comptées pour lui comme néant et vide.",
+  "translation": "Toutes les nations, comme un rien devant Lui ; comme ⟨le⟩ néant et le vide, elles lui sont comptées.",
   "tokens": [
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "Toutes"
     },
     {
-      "surface": "הגוים",
+      "surface": "הַגּוֹיִ֖ם",
       "gloss": "les nations"
     },
     {
-      "surface": "כאין",
-      "gloss": "comme néant"
+      "surface": "כְּאַ֣יִן",
+      "gloss": "comme un rien"
     },
     {
-      "surface": "נגדו",
-      "gloss": "⟨à sa face⟩"
+      "surface": "נֶגְדּ֑וֹ",
+      "gloss": "devant Lui"
     },
     {
-      "surface": "מאפס",
-      "gloss": "comme néant"
+      "surface": "מֵאֶ֥פֶס",
+      "gloss": "comme ⟨le⟩ néant"
     },
     {
-      "surface": "ותהו",
-      "gloss": "et vide"
+      "surface": "וָתֹ֖הוּ",
+      "gloss": "et le vide"
     },
     {
-      "surface": "נחשבו",
+      "surface": "נֶחְשְׁבוּ",
       "gloss": "elles sont comptées"
     },
     {
-      "surface": "לו",
-      "gloss": "pour lui"
+      "surface": "לֽוֹ",
+      "gloss": "lui"
     }
   ],
-  "timestamp": "2026-08-04T15:35:14.790136019Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:54:07.439306093Z",
+  "model": "glm-5.2"
 }

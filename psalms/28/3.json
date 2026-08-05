@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Ne m'entraîne pas avec les méchants, et avec les ouvriers d'iniquité, qui parlent paix avec leurs compagnons, ⟨mais⟩ le mal ⟨est⟩ dans leur cœur.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "m'entraîne pas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et avec"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les ouvriers"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "qui parlent"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paix"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "leurs compagnons"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "⟨mais⟩ le mal"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "⟨est⟩ dans leur cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:32.018634948Z",
+  "model": "glm-4.5"
+}

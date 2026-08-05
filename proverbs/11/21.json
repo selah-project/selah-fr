@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Main contre main, le méchant ⟨ne sera⟩ pas acquitté, et la semence des justes ⟨est⟩ délivrée.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "Main"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "contre main"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "sera pas acquitté"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "et la semence"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "est délivrée"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:10.818482939Z",
+  "model": "glm-4.5"
+}

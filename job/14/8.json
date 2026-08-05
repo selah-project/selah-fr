@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Si sa racine vieillit dans la terre et que son tronc meurt dans la poussière",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "vieillit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans la terre"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "sa racine"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "et dans la poussière"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meurt"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "son tronc"
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:28.141867402Z",
+  "model": "glm-4.5"
+}

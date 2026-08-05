@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Mets ⟨donc⟩ à l'épreuve, ⟨je te⟩ prie, ⟨את⟩ tes serviteurs, dix jours, et qu'ils nous donnent des légumes, et nous mangerons ; et de l'eau, et nous boirons",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Mets à l'épreuve"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨je te⟩ prie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes serviteurs"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dix"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "et qu'ils donnent"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "légumes"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "et nous mangerons"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "et de l'eau"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "et nous boirons"
+    }
+  ],
+  "timestamp": "2026-08-05T05:06:06.358768504Z",
+  "model": "glm-4.5"
+}

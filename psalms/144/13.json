@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Nos greniers ⟨sont⟩ remplis, fournissant toute sorte de provisions; nos brebis font sortir des milliers, des myriades dans nos rues:",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "nos greniers"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "remplis"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "fournissant"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "toute sorte"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "זן",
+      "gloss": "de provisions"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "nos brebis"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "font sortir"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "des milliers"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "dans nos rues"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:47.770514548Z",
+  "model": "glm-4.5"
+}

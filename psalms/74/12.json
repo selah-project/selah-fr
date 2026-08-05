@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Or Élohim, mon roi dès le début, opère des délivrances au milieu de la terre.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "or Élohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mon roi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dès le début"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "opère"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "des délivrances"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:31.594294739Z",
+  "model": "glm-4.5"
+}

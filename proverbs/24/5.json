@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Un homme fort ⟨est⟩ sage, et un homme de connaissance renforce la force.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "un homme fort"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et un homme"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "de connaissance"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "renforce"
+    },
+    {
+      "surface": "כח",
+      "gloss": "la force"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:39.569015875Z",
+  "model": "glm-4.5"
+}

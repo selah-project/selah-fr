@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Sa main gauche ⟨est⟩ sous ma tête, et sa main droite m'étreint.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "Sa main gauche"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "et sa main droite"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "m'étreint"
+    }
+  ],
+  "timestamp": "2026-08-05T04:22:47.705487754Z",
+  "model": "glm-4.5"
+}

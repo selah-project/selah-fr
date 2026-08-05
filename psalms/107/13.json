@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Et ils crièrent vers YHWH dans leur détresse ; ⟨de⟩ leurs angoisses il les sauva.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Et ils crièrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dans leur détresse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "⟨de⟩ leurs angoisses"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "il les sauva"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:25.786477397Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mon âme est collée à la poussière ; fais-moi vivre selon ta parole.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "est collée"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "à la poussière"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fais-moi vivre"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "selon ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:38.099530076Z",
+  "model": "glm-4.5"
+}

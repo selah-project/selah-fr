@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Tout ⟨cela⟩ ⟨est⟩ venu ⟨sur⟩ nous, et nous ne t'avons pas oublié, et nous n'avons pas menti dans ton alliance.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨cela⟩"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "⟨est⟩ venu ⟨sur⟩ nous"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et nous n'avons pas"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "oublié"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et nous n'avons pas"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "menti"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "dans ton alliance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:55.000292595Z",
+  "model": "glm-4.5"
+}

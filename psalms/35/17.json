@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Adonaï, jusqu'à quand ⟨regarderas⟩-tu ? Ramène ma nefesh de leurs ravages, ⟨la⟩ seule d'entre moi, des lions.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "jusqu'à quand"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "⟨regarderas⟩"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "ramène"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "de leurs ravages"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "des lions"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "⟨la⟩ seule d'entre moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:15.244650989Z",
+  "model": "glm-4.5"
+}

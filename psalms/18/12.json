@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Il mit les ténèbres comme sa cachette tout autour de lui, sa tente ⟨était⟩ l'obscurité des eaux, ⟨les⟩ nuages des cieux.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Il mit"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "comme sa cachette"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "tout autour de lui"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "sa tente"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "l'obscurité"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "⟨les⟩ nuages"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "des cieux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:48.980352450Z",
+  "model": "glm-4.5"
+}

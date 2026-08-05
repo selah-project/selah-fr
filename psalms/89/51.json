@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Souviens-toi, Adonaï, ⟨de⟩ l'insulte de tes serviteurs, que je porte dans mon sein, ⟨de⟩ la part des nombreux peuples.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "⟨de⟩ l'insulte"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "de tes serviteurs"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "que je porte"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "dans mon sein"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨de⟩ la part de tous"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "les nombreux"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:55.090927089Z",
+  "model": "glm-4.5"
+}

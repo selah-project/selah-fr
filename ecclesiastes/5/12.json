@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Il y a un mal grave que j'ai vu sous le soleil : des richesses gardées pour leurs maîtres pour ⟨leur⟩ malheur.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Il y a"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un mal"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "grave"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "que j'ai vu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "des richesses"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "gardées"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "pour leurs maîtres"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "pour leur malheur"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:16.025840701Z",
+  "model": "glm-4.5"
+}

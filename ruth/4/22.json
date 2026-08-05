@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et Obed engendra ⟨את⟩ Isaï, et Isaï engendra ⟨את⟩ David",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "et Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaï"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isaï"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "et Isaï"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:26.417658281Z",
+  "model": "glm-4.5"
+}

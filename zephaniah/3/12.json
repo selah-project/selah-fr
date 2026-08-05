@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et je laisserai au milieu de toi un peuple ⟨est⟩ affligé et pauvre, et ils chercheront refuge dans le nom de YHWH.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "Et je laisserai"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "au milieu de toi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un peuple"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨est⟩ affligé"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "et pauvre"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "et ils chercheront refuge"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "dans le nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T00:40:01.526289152Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "faisant ⟨des⟩ grandes choses jusqu’à ⟨ne pas pouvoir être⟩ sondé, et ⟨des⟩ prodiges jusqu’à ⟨n’avoir⟩ pas de nombre",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "faisant"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "⟨des⟩ grandes choses"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨ne pas pouvoir être⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "sondé"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "et ⟨des⟩ prodiges"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨n’avoir⟩ pas"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "de nombre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:54.235617393Z",
+  "model": "glm-4.5"
+}

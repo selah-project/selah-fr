@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "YHWH, que je ne sois pas honteux, car je t'ai appelé ; que les méchants soient honteux, qu'ils se taisent ⟨dans⟩ le Shéol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que [je] ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "sois pas honteux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "je t'ai appelé"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "que les méchants soient honteux"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": ""
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "qu'ils se taisent"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "⟨dans⟩ le Shéol"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:30.804026953Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 4:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "L'humain sera-t-il juste ⟨par rapport à⟩ Éloah ? Un homme sera-t-il pur ⟨par rapport à⟩ son ouvrage ?",
+  "tokens": [
+    {
+      "surface": "האנוש",
+      "gloss": "L'humain"
+    },
+    {
+      "surface": "מאלוה",
+      "gloss": "⟨par rapport à⟩ Éloah"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "sera-t-il juste"
+    },
+    {
+      "surface": "אם",
+      "gloss": "un"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "son ouvrage"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "sera-t-il pur"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "homme"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:30.462877100Z",
+  "model": "glm-4.5"
+}

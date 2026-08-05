@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Je crierai à Élohim le Très-Haut, à El qui agit ⟨pour⟩ moi.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Je crierai"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "à Élohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "le Très-Haut"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "à El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "qui agit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨pour⟩ moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:55.589424163Z",
+  "model": "glm-4.5"
+}

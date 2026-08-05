@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Venez, mangez de mon pain, et buvez du vin que j'ai mélangé.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venez"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mangez"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "de mon pain"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "et buvez"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "que j'ai mélangé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:43.611142281Z",
+  "model": "glm-4.5"
+}

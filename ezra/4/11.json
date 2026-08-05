@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 4:11",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Ceci ⟨est⟩ la copie de la lettre qu'ils envoyèrent concernant lui, à Artaxerxès le roi : « Tes serviteurs, les hommes d'au-delà du Fleuve — et ainsi de suite.",
+  "tokens": [
+    {
+      "surface": "דְּנָה֙",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "פַּרְשֶׁ֣גֶן",
+      "gloss": "⟨est⟩ la copie"
+    },
+    {
+      "surface": "אִגַּרְתָּ֔א",
+      "gloss": "de la lettre"
+    },
+    {
+      "surface": "דִּ֚י",
+      "gloss": "que"
+    },
+    {
+      "surface": "שְׁלַ֣חוּ",
+      "gloss": "ils envoyèrent"
+    },
+    {
+      "surface": "עֲל֔וֹהִי",
+      "gloss": "concernant lui"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אַרְתַּחְשַׁ֖שְׂתְּא",
+      "gloss": "Artaxerxès"
+    },
+    {
+      "surface": "מַלְכָּ֑א",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "עַבְדָ֛יךְ",
+      "gloss": "Tes serviteurs"
+    },
+    {
+      "surface": "אֱנָ֥שׁ",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "עֲבַֽר",
+      "gloss": "d'au-delà"
+    },
+    {
+      "surface": "נַהֲרָ֖ה",
+      "gloss": "du Fleuve"
+    },
+    {
+      "surface": "וּכְעֶֽנֶת",
+      "gloss": "et ainsi de suite"
+    }
+  ],
+  "timestamp": "2026-08-05T05:35:22.493010416Z",
+  "model": "glm-5.2"
+}

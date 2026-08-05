@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "ceux d'entre eux ⟨qui furent⟩ recensés pour la tribu d'Éphraïm : quarante mille cinq cents.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ceux d'entre eux ⟨qui furent⟩ recensés"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pour la tribu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "d'Éphraïm"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    }
+  ],
+  "timestamp": "2026-08-04T21:38:47.599458747Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Jusques à quand ⟨allez-vous⟩ comploter contre un homme ⟨pour⟩ le tuer ⟨vous tous⟩, comme un mur incliné, une clôture renversée ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jusques à quand"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "comploter"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "tuer"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "vous tous"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "comme un mur"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "incliné"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "une clôture"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "renversée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:40.179484058Z",
+  "model": "glm-4.5"
+}

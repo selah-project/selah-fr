@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Il se moque de ⟨le⟩ tumulte de ⟨la⟩ ville, les clameurs de ⟨l'⟩exacteur, il n'entendra pas.",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "Il se moque"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "de ⟨le⟩ tumulte"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "de ⟨la⟩ ville"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "les clameurs"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "de ⟨l'⟩exacteur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "entendra pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:07.451810890Z",
+  "model": "glm-4.5"
+}

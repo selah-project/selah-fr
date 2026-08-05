@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Moi aussi, j'ai un cœur comme vous ; je ne suis pas inférieur à vous ; et ⟨qui⟩ ne connaît pas de pareilles choses ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Moi aussi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "j'ai"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "un cœur"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "comme vous"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne suis pas"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "inférieur"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "de pareilles"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "choses"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:58.949501813Z",
+  "model": "glm-4.5"
+}

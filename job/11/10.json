@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "S'il ⟨Il⟩ passe, et qu'il enferme, ou qu'il convoque, qui le fera retourner ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "il passe"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "et qu'il enferme"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "ou qu'il convoque"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "le fera retourner"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:22.175339681Z",
+  "model": "glm-4.5"
+}

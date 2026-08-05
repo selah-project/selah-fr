@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Abraham plaça ⟨את⟩ sept brebis ⟨du⟩ troupeau à part",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Et plaça"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sept brebis du troupeau"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sept"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "brebis"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨du⟩ troupeau"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "à part"
+    }
+  ],
+  "timestamp": "2026-08-04T18:45:58.415935585Z",
+  "model": "glm-4.5"
+}

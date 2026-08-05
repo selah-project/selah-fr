@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "À toi ⟨je⟩ sacrifierai un sacrifice de louange, et au nom de YHWH ⟨je⟩ crierai.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "⟨je⟩ sacrifierai"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "un sacrifice"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "de louange"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "et au nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "⟨je⟩ crierai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:56.862367573Z",
+  "model": "glm-4.5"
+}

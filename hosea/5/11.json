@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Opprimé, Éphraïm, brisé dans le jugement, car il a voulu marcher après le commandement.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "Opprimé"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "brisé"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dans le jugement"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "il a voulu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "marcher"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "צו",
+      "gloss": "le commandement"
+    }
+  ],
+  "timestamp": "2026-08-05T00:00:27.756012684Z",
+  "model": "glm-4.5"
+}

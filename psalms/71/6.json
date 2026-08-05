@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Sur toi je me suis appuyé dès le ventre, depuis les entrailles de ma mère ; tu es celui qui m'a tiré, en toi ⟨est⟩ ma louange toujours.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Sur toi"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "je me suis appuyé"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dès le ventre"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "depuis les entrailles"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "de ma mère"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "celui qui m'a tiré"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ma louange"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:42.955473850Z",
+  "model": "glm-4.5"
+}

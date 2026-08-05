@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Ne sois pas juste beaucoup, et ne sois pas sage outre mesure : pourquoi ⟨te⟩ détruiras-tu ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "sois"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "juste"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "sois pas sage"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "outre mesure"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "⟨te⟩ détruiras-tu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:46.534952994Z",
+  "model": "glm-4.5"
+}

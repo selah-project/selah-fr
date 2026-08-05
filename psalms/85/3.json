@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Tu as porté ⟨l'⟩iniquité de ton peuple, tu as couvert toute leur faute, Séla.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Tu as porté"
+    },
+    {
+      "surface": "עון",
+      "gloss": "⟨l'⟩iniquité"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "de ton peuple"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "tu as couvert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "leur faute"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:06.984857758Z",
+  "model": "glm-4.5"
+}

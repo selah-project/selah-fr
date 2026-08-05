@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 113,
+  "translation": "Du levant du soleil jusqu'à son coucher, loué ⟨est⟩ le nom de YHWH.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "du levant"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "du soleil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "son coucher"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "loué ⟨est⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:00.001437812Z",
+  "model": "glm-4.5"
+}

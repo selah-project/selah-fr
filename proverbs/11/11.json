@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Par la bénédiction des droits, ⟨la⟩ ville est élevée, mais par la bouche des méchants, ⟨elle est⟩ renversée.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "Par la bénédiction"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "des droits"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "⟨la⟩ ville est élevée"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ville"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "mais par la bouche"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "⟨elle est⟩ renversée"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:17.300558448Z",
+  "model": "glm-4.5"
+}

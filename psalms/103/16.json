@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Car un vent ⟨le⟩ a passé sur lui, et il n'est plus, et son lieu ne le connaîtra plus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un vent"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "a passé sur lui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "et il n'est plus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "son lieu ne le connaîtra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "son lieu"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:36.778228101Z",
+  "model": "glm-4.5"
+}

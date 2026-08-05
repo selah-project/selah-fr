@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Père des orphelins et juge des veuves, ⟨est⟩ Élohim dans son lieu saint.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Père"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "des orphelins"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "et juge"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "des veuves"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "dans son lieu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "saint"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:24.620848719Z",
+  "model": "glm-4.5"
+}

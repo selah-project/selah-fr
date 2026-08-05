@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Vanité des vanités, ⟨a⟩ dit Qohélet, vanité des vanités : tout ⟨est⟩ vanité.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Vanité"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "des vanités"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨a⟩ dit"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohélet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanité"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "des vanités"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨est⟩ vanité"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:40.100243072Z",
+  "model": "glm-4.5"
+}

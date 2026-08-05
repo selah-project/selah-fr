@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Maudire sa bouche est pleine, et tromperies, et fraude ; sous sa langue sont malheur et iniquité.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Maudire"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa bouche"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "est pleine"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "et tromperies"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "et fraude"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "sa langue"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "malheur"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "et iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:27.150325240Z",
+  "model": "glm-4.5"
+}

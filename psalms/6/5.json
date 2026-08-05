@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Reviens, YHWH, délivre mon nefesh, sauve-moi à cause de ton hessed.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Reviens"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "délivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon nefesh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sauve-moi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:40.774986134Z",
+  "model": "glm-4.5"
+}

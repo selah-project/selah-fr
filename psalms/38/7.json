@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Je ⟨me suis⟩ tordu, je ⟨suis⟩ courbé jusqu'à ⟨l'excès⟩, tout le jour j'ai marché ⟨dans⟩ le deuil.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Je ⟨me suis⟩ tordu"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "je ⟨suis⟩ courbé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨l'excès⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "dans le deuil"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "j'ai marché"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:35.927019247Z",
+  "model": "glm-4.5"
+}

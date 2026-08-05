@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tu ⟨as⟩ commandé ⟨la⟩ justice, ⟨tes⟩ témoignages, et la fidélité, extrêmement.",
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "Tu ⟨as⟩ commandé"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨la⟩ justice"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "⟨tes⟩ témoignages"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "et la fidélité"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "extrêmement"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:40.262139901Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Plus que tous mes enseignants j'ai de l'intelligence, car tes témoignages sont mon entretien",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Plus que tous"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "mes enseignants"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "j'ai de l'intelligence"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "tes témoignages"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sont mon entretien"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:49.291301727Z",
+  "model": "glm-4.5"
+}

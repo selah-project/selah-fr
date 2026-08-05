@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Les paroles des sages sont comme des aiguillons, et comme des clous plantés par les maîtres des collections, donnés par un seul berger.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Les paroles"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "des sages"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "sont comme des aiguillons"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "et comme des clous"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "plantés"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "par les maîtres"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "des collections"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "donnés"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "par un berger"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un seul"
+    }
+  ],
+  "timestamp": "2026-08-05T04:52:08.217852035Z",
+  "model": "glm-4.5"
+}

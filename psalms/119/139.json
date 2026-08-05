@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "M'a consumé ma jalousie, car ils ont oublié tes paroles, mes adversaires.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "M'a consumé"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ma jalousie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ils ont oublié"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tes paroles"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mes adversaires"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:40.262313716Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 126,
+  "translation": "Allant il va et pleure, portant ⟨la⟩ semence ; il viendra certes avec un chant de joie, portant ses gerbes",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Allant"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "il va"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "et pleure"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "portant"
+    },
+    {
+      "surface": "משך",
+      "gloss": "⟨la⟩ semence"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "⟨de⟩ semailles"
+    },
+    {
+      "surface": "בא",
+      "gloss": "il viendra"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "certes"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "avec un chant de joie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "portant"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "ses gerbes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:50:08.314807147Z",
+  "model": "glm-4.5"
+}

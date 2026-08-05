@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Car YHWH a choisi Sion, il l'a désirée pour demeure à Lui",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a choisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "il l'a désirée"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "pour demeure"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à Lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:03.585435217Z",
+  "model": "glm-4.5"
+}

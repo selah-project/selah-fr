@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Sois garant de ton serviteur pour ⟨le⟩ bien : que les arrogants ne m'oppriment pas.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Sois garant"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "de ton serviteur"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "pour ⟨le⟩ bien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "ne m'oppriment pas"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "les arrogants"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:07.257204587Z",
+  "model": "glm-4.5"
+}

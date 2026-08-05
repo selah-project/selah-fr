@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mon âme coule de chagrin ; affermis-moi selon ta parole.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "coule"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "de chagrin"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "affermis-moi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "selon ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:38.099912821Z",
+  "model": "glm-4.5"
+}

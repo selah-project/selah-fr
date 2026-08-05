@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Jusqu'à ce que je trouve un lieu pour YHWH, des habitations pour le Puissant de Jacob.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "je trouve"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "un lieu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "des habitations"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "pour le Puissant"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:06.680417574Z",
+  "model": "glm-4.5"
+}

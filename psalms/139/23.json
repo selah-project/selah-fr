@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Sonde-moi, El, et connais mon cœur ; éprouve-moi et connais mes pensées.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Sonde-moi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "et connais"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "éprouve-moi"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "et connais"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mes pensées"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.386958916Z",
+  "model": "glm-4.5"
+}

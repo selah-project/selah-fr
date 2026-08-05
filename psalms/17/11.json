@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Nos pas, maintenant, ⟨ils⟩ ont encerclés, leurs yeux ils posent pour abattre ⟨dans⟩ la terre.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "Nos pas"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "⟨ils⟩ ont encerclés"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "leurs yeux"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "ils posent"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "pour abattre"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨dans⟩ la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:03.059695485Z",
+  "model": "glm-4.5"
+}

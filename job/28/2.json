@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Le fer est pris ⟨de⟩ la poussière, et la pierre coulée est du cuivre.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Le fer"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "⟨de⟩ la poussière"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "est pris"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "et la pierre"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "coulée"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "est du cuivre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:02.969462515Z",
+  "model": "glm-4.5"
+}

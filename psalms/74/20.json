@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Regarde ⟨vers⟩ ⟨l'⟩alliance : car les ténèbres de ⟨la⟩ terre sont pleines des demeures de violence.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "⟨vers⟩ ⟨l'⟩alliance"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "sont pleines"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de ⟨la⟩ terre"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "des demeures"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violence"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:27.447441900Z",
+  "model": "glm-4.5"
+}

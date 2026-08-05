@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Même un homme, mon allié, en qui j'ai confiance, ⟨qui⟩ mange de mon pain, a fait grand le talon contre moi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mon allié"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "en qui"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "j'ai confiance"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mange"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "de mon pain"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "a fait grand"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "le talon"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:33.190573984Z",
+  "model": "glm-4.5"
+}

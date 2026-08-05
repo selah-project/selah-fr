@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 122,
+  "translation": "Un chant des montées. De David. J'ai été dans la joie ⟨en⟩ ceux qui me disaient : ⟨allons⟩ à la maison de YHWH.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Un chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "J'ai été dans la joie"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "⟨en⟩ ceux qui me disaient"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "à la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "⟨allons⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:42.520101702Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 18:34",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Il fait mes pieds ⟨comme ceux⟩ des biches, et sur ⟨mes⟩ hauts lieux il me fait tenir",
+  "tokens": [
+    {
+      "surface": "משוה",
+      "gloss": "Il fait"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mes pieds"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "⟨comme ceux⟩ des biches"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "⟨mes⟩ hauts lieux"
+    },
+    {
+      "surface": "יעמידני",
+      "gloss": "il me fait tenir"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:50.100652949Z",
+  "model": "glm-4.5"
+}

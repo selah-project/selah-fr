@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un lion a rugi, qui ne craindrait ? Adonaï YHWH a parlé, qui ne prophétiserait ?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "Un lion"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "a rugi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "craindrait"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "prophétiserait"
+    }
+  ],
+  "timestamp": "2026-08-05T00:15:55.726797518Z",
+  "model": "glm-4.5"
+}

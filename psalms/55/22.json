@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Plus douces ⟨sont⟩ les paroles de sa bouche ⟨que⟩ le beurre, ⟨mais⟩ la guerre ⟨est⟩ dans son cœur ; plus douces ⟨que⟩ l'huile ⟨sont⟩ ses paroles, ⟨mais⟩ ce sont des épées dégainées.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "plus douces ⟨sont⟩"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "⟨que⟩ le beurre"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "de sa bouche"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "⟨mais⟩ la guerre ⟨est⟩"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "dans son cœur"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "plus douces"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "⟨que⟩ l'huile ⟨sont⟩ ses paroles"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "⟨que⟩ l'huile"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "⟨mais⟩ ce sont"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "des épées dégainées"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:29.469403268Z",
+  "model": "glm-4.5"
+}

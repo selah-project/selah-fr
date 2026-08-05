@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Tous les fleuves vont vers la mer, et la mer n'est pas pleine ; vers le lieu où vont les fleuves, là ils retournent pour aller.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "les fleuves"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "vont"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "והים",
+      "gloss": "et la mer"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pleine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "où vont les fleuves"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "vont"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ils"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "retournent"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour aller"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:50.760740385Z",
+  "model": "glm-4.5"
+}

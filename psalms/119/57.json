@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ma part ⟨est⟩ YHWH, j'ai dit de garder tes paroles.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Ma part"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "de garder"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tes paroles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:17.648519802Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Et ils disent : « Yah ne ⟨le⟩ verra pas, et le Dieu de Jacob ne ⟨le⟩ comprendra pas »",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils disent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "verra pas"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "comprendra pas"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "le Dieu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:24.734388829Z",
+  "model": "glm-4.5"
+}

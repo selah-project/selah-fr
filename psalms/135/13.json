@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "YHWH ton nom ⟨est⟩ pour toujours, YHWH ton mémorial ⟨est⟩ de génération en génération.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ton mémorial"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.974267710Z",
+  "model": "glm-4.5"
+}

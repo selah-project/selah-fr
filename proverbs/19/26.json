@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Celui qui ravit ⟨son⟩ père fait fuir ⟨sa⟩ mère : un fils qui fait honte et apporte le déshonneur.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "celui qui ravit"
+    },
+    {
+      "surface": "אב",
+      "gloss": "⟨son⟩ père"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "fait fuir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨sa⟩ mère"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "qui fait honte"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "et apporte le déshonneur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:20.364471991Z",
+  "model": "glm-4.5"
+}

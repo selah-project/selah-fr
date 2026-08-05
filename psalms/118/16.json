@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "La droite de YHWH est exaltée, la droite de YHWH fait ⟨des⟩ exploits.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "La droite de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "est exaltée"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la droite de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fait"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨des⟩ exploits"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:59.873326658Z",
+  "model": "glm-4.5"
+}

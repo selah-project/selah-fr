@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et à Suse la capitale, les Juifs tuèrent et détruisirent cinq cents hommes",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Et à Suse"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "la capitale"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "tuèrent"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "les Juifs"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "et détruisirent"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cents"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hommes"
+    }
+  ],
+  "timestamp": "2026-08-05T05:03:32.214603443Z",
+  "model": "glm-4.5"
+}

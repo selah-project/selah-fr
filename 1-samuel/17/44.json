@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et le Philistin dit à David : Viens à moi, et je donnerai ⟨את⟩ ta chair aux volatiles des cieux et aux bêtes des champs.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "le Philistin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Viens"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "et je donnerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta chair"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ta chair"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "aux volatiles"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "et aux bêtes"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des champs"
+    }
+  ],
+  "timestamp": "2026-08-04T22:06:23.032298925Z",
+  "model": "glm-4.5"
+}

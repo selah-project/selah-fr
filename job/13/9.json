@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Est-ce bon qu'il ⟨il⟩ sonde ⟨את⟩ vous ? Si comme on se moque d'un homme, vous vous moquez de lui",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Est-ce bon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "sonde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "comme on se moque"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "vous vous moquez"
+    },
+    {
+      "surface": "בו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:47.898220640Z",
+  "model": "glm-4.5"
+}

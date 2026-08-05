@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 111,
+  "translation": "Un mémorial il a fait ⟨de⟩ ses merveilles, YHWH est disposé à la faveur et plein de compassion.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Un mémorial"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a fait"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "⟨de⟩ ses merveilles"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "disposé à la faveur"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "et plein de compassion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:36:31.363526609Z",
+  "model": "glm-4.5"
+}

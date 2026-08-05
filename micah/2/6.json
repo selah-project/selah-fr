@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Ne prophétisez pas, ⟨disent-ils⟩ ; ils prophétisent. Ils ne prophétiseront pas ⟨de⟩ ces choses ; la honte ne se retirera pas.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "prophétisez pas"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "ils prophétisent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils ne"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "prophétiseront pas"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "⟨de⟩ ces choses"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "se retirera"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "la honte"
+    }
+  ],
+  "timestamp": "2026-08-05T00:26:20.797647748Z",
+  "model": "glm-4.5"
+}

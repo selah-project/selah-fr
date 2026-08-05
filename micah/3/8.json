@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Mais moi, je suis rempli de force, ⟨le⟩ Rouah de YHWH, et de jugement et de puissance, pour faire savoir à Jacob sa révolte, et à Israël son péché",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Mais"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "je suis rempli"
+    },
+    {
+      "surface": "כח",
+      "gloss": "de force"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "Rouah de YHWH"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Rouah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "et de jugement"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "et de puissance"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "pour faire savoir"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "à Jacob"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "sa révolte"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "et à Israël"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "son péché"
+    }
+  ],
+  "timestamp": "2026-08-05T00:27:21.934806036Z",
+  "model": "glm-4.5"
+}

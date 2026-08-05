@@ -1,11 +1,11 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "2-samuel 13:13",
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Et moi, où emporterai-je ⟨את⟩ ma honte ? Et toi, tu seras comme un des ⟨נְבָלִים⟩ en Israël. Et maintenant, parle, je te prie, au roi, car il ne me refusera pas à toi.",
+  "translation": "Et moi, où emporterai-je ⟨את⟩ ma honte ? Et toi, tu seras comme un des nébals en Israël. Et maintenant, parle donc au roi, car il ne me refusera pas à toi.",
   "tokens": [
     {
       "surface": "ואני",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "כאחד",
-      "gloss": "comme un"
+      "gloss": "comme un de"
     },
     {
       "surface": "הנבלים",
-      "gloss": "des ⟨נְבָלִים⟩"
+      "gloss": "les nébals"
     },
     {
       "surface": "בישראל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "je te prie"
+      "gloss": "donc"
     },
     {
       "surface": "אל",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "il ne"
+      "gloss": "ne"
     },
     {
       "surface": "ימנעני",
-      "gloss": "me refusera pas"
+      "gloss": "refusera"
     },
     {
       "surface": "ממך",
       "gloss": "à toi"
     }
   ],
-  "timestamp": "2026-08-04T13:09:57.259697099Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:42:38.491777943Z",
+  "model": "glm-5.2"
 }

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Ne te souviens pas des fautes de ma jeunesse ni de mes rébellions ; selon ton hessed, souviens-toi de moi, à cause de ta bonté, YHWH.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "des fautes"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "de ma jeunesse"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ni de mes rébellions"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "te souviens pas"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "selon ton hessed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "souviens-toi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨tu⟩"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ta bonté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:23.461335193Z",
+  "model": "glm-4.5"
+}

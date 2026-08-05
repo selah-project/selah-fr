@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et il les donna dans la main des nations et ceux ⟨qui les⟩ haïssent régnèrent sur eux",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "Et il les donna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "et régnèrent"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "ceux qui les haïssent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:10.610738326Z",
+  "model": "glm-4.5"
+}

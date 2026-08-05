@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Qu'ils craignent YHWH, toute la terre ; devant lui, qu'ils tremblent, tous les habitants de la terre habitée.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Qu'ils craignent"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "qu'ils tremblent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "de la terre habitée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:23.704353346Z",
+  "model": "glm-4.5"
+}

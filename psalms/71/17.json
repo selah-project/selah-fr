@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Élohim, tu m'as instruit dès ma jeunesse, et jusqu'à ici je raconte tes merveilles.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "tu m'as instruit"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "dès ma jeunesse"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "je raconte"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tes merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:39.901490597Z",
+  "model": "glm-4.5"
+}

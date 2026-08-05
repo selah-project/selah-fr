@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "La voix de YHWH brise les cèdres, et YHWH brise ⟨את⟩ les cèdres du Liban",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "brise"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "les cèdres"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "et YHWH brise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les cèdres du Liban"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "les cèdres"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "du Liban"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:59.661288072Z",
+  "model": "glm-4.5"
+}

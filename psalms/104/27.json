@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Tous ⟨eux⟩ vers toi t'attendent, pour donner leur nourriture en ⟨son⟩ temps.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "t'attendent"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "leur nourriture"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "en ⟨son⟩ temps"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:13.934419548Z",
+  "model": "glm-4.5"
+}

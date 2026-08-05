@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "La femme adultère prend ⟨את⟩ des étrangers à la place de son mari.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "La femme"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "adultère"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "à la place"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "son mari"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "prend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "des étrangers"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "des étrangers"
+    }
+  ],
+  "timestamp": "2026-08-04T23:25:24.661087143Z",
+  "model": "glm-4.5"
+}

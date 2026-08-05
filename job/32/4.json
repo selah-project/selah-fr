@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Élihou attendit ⟨את⟩ Iyyob en paroles, car ils étaient plus âgés que lui de jours.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Et Élihou"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "attendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "en paroles"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ils étaient plus âgés"
+    },
+    {
+      "surface": "המה",
+      "gloss": ""
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "que lui"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "de jours"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:19.327557235Z",
+  "model": "glm-4.5"
+}

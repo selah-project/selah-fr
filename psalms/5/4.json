@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "YHWH, ⟨le⟩ matin tu entendras ma voix ; ⟨le⟩ matin je disposerai ⟨ma prière⟩ devant toi et j'attendrai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tu entendras"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "⟨le⟩ matin"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "je disposerai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "et j'attendrai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:46.454911571Z",
+  "model": "glm-4.5"
+}

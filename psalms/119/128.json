@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "C'est pourquoi tous ⟨tes⟩ préceptes, sur tout, je les tiens pour droits, tout sentier de mensonge je hais.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "⟨tes⟩ préceptes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sur tout"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "je les tiens pour droits"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sentier"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "je hais"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:10.912198049Z",
+  "model": "glm-4.5"
+}

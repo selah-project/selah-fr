@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "l'oiseau des cieux et le poisson de la mer, passant par les sentiers des mers",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "l'oiseau"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "et le poisson"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "passant"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "par les sentiers"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des mers"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:44.436279021Z",
+  "model": "glm-4.5"
+}

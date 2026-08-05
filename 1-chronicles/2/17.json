@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et Avigaïl enfanta ⟨את⟩ Amatsa, et le père d'Amatsa ⟨fut⟩ Yéther l'Yishmaélite.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Et Avigaïl"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "enfanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amatsa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amatsa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "et le père de"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amatsa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yéther"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "l'Yishmaélite"
+    }
+  ],
+  "timestamp": "2026-08-05T05:45:15.351545455Z",
+  "model": "glm-5.2"
+}

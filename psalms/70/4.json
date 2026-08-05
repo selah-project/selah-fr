@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 70,
+  "translation": "Qu'ils retournent sur leurs talons à cause de leur honte, ceux qui disent : « Aha ! Aha ! ».",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Qu'ils retournent"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "leurs talons"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "à cause de leur honte"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ceux qui disent"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha !"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha !"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:01.617600673Z",
+  "model": "glm-4.5"
+}

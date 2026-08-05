@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Tu m'as jeté ⟨dans⟩ l'abîme, au cœur des mers, et le courant m'a entouré ; toutes tes lames et tes vagues ont passé sur moi.",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "Tu m'as jeté"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "⟨dans⟩ l'abîme"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "au cœur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des mers"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "et le courant"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "m'a entouré"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "tes lames"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "et tes vagues"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ont passé"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:22.069398133Z",
+  "model": "glm-4.5"
+}

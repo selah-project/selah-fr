@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et Elasa engendra ⟨את⟩ Sismaï, et Sismaï engendra ⟨את⟩ Shalloum.",
+  "tokens": [
+    {
+      "surface": "וְאֶלְעָשָׂה",
+      "gloss": "Et Elasa"
+    },
+    {
+      "surface": "הֹלִיד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Sismaï"
+    },
+    {
+      "surface": "סִסְמָי",
+      "gloss": "Sismaï"
+    },
+    {
+      "surface": "וְסִסְמַי",
+      "gloss": "et Sismaï"
+    },
+    {
+      "surface": "הֹלִיד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Shalloum"
+    },
+    {
+      "surface": "שַׁלּוּם",
+      "gloss": "Shalloum"
+    }
+  ],
+  "timestamp": "2026-08-05T05:45:26.062501596Z",
+  "model": "glm-5.2"
+}

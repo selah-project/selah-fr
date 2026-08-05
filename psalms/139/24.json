@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Vois s'il y a en moi une voie d'idolâtrie, et conduis-moi dans la voie d'éternité.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Vois"
+    },
+    {
+      "surface": "אם",
+      "gloss": "s'il y a"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "une voie"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "d'idolâtrie"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "et conduis-moi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la voie"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "d'éternité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.387040285Z",
+  "model": "glm-4.5"
+}

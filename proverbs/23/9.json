@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Dans les oreilles d'un sot ne parle pas, car il méprisera ⟨les⟩ paroles de ton sens",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "dans les oreilles"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "d'un sot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "parle pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "il méprisera"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "⟨les⟩ paroles"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "de ton sens"
+    }
+  ],
+  "timestamp": "2026-08-05T03:32:42.385705807Z",
+  "model": "glm-4.5"
+}

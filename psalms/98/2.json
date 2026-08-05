@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "YHWH a fait connaître ⟨sa⟩ délivrance, aux yeux des nations, il a révélé ⟨sa⟩ justice.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "a fait connaître"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "⟨sa⟩ délivrance"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "aux yeux"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "il a révélé"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "⟨sa⟩ justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:40.304138068Z",
+  "model": "glm-4.5"
+}

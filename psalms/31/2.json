@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "En toi, YHWH, je me réfugie ; que je ne sois pas confus à jamais ; dans ta justice délivre-moi",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "je me réfugie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que ne pas"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "je sois confus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "à jamais"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dans ta justice"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "délivre-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:35.104533232Z",
+  "model": "glm-4.5"
+}

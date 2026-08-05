@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Ils n'habiteront pas dans ⟨la⟩ terre de YHWH, et Éphraïm reviendra en Égypte, et en Assyrie ils mangeront ⟨ce qui est⟩ impur.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ils n'"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habiteront pas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨la⟩ terre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "et"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éphraïm reviendra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "et en Assyrie"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "⟨ce qui est⟩ impur"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ils mangeront"
+    }
+  ],
+  "timestamp": "2026-08-05T00:04:03.992419398Z",
+  "model": "glm-4.5"
+}

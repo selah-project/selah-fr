@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 111,
+  "translation": "Splendeur et magnificence son œuvre, et sa justice se tient pour toujours.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Splendeur"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "et magnificence"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "son œuvre"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "et sa justice"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "se tient"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:36:31.363406083Z",
+  "model": "glm-4.5"
+}

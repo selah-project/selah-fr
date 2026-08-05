@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Ils seront saturés ⟨de⟩ l'abondance de ta maison, et ⟨avec⟩ le fleuve de tes délices tu les abreuveras.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "Ils seront saturés"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "⟨de⟩ l'abondance"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "et ⟨avec⟩ le fleuve"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "de tes délices"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "tu les abreuveras"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:01.746106726Z",
+  "model": "glm-4.5"
+}

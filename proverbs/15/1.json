@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Une réponse douce écarte la colère, mais une parole douloureuse ⟨fait⟩ monter ⟨le⟩ courroux.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "une réponse"
+    },
+    {
+      "surface": "רך",
+      "gloss": "douce"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "écarte"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "la colère"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mais une parole"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "douloureuse"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "⟨fait⟩ monter"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨le⟩ courroux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:34.596151378Z",
+  "model": "glm-4.5"
+}

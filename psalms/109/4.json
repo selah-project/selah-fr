@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "À la place de mon amour ils ⟨sont⟩ mes adversaires, et moi, prière.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "À la place de"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mon amour"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ils ⟨sont⟩ mes adversaires"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "prière"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:18.748040642Z",
+  "model": "glm-4.5"
+}

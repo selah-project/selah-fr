@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Je marche dans le chemin de ⟨la⟩ justice, au milieu des sentiers du droit.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "dans le chemin"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "de ⟨la⟩ justice"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "Je marche"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "des sentiers"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "du droit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:54.610116060Z",
+  "model": "glm-4.5"
+}

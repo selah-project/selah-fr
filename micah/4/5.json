@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car tous les peuples marcheront, chacun au nom de son dieu, et nous, nous marcherons au nom de YHWH notre Élohim, pour toujours et à perpétuité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "marcheront"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "au nom"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "de son dieu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "et nous"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "nous marcherons"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "au nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et à perpétuité"
+    }
+  ],
+  "timestamp": "2026-08-05T00:28:46.813821640Z",
+  "model": "glm-4.5"
+}

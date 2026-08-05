@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Pour Salomon. O Élohin, tes jugements au roi ⟨donne⟩, et ta justice au fils du roi.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Pour Salomon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Élohin"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "au roi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "⟨donne⟩"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "et ta justice"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "au fils"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:24.578122439Z",
+  "model": "glm-4.5"
+}

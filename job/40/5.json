@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Une fois j'ai parlé, et je ne répondrai pas; et deux fois, et je n'ajouterai pas.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "une fois"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "j'ai parlé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et je ne"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "répondrai pas"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "et deux fois"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et je ne"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "n'ajouterai pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:53.087777996Z",
+  "model": "glm-4.5"
+}

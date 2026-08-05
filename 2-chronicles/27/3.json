@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "C'est lui qui bâtit ⟨את⟩ la porte de la maison de YHWH, la supérieure, et sur le mur du Ophel il bâtit abondamment.",
+  "tokens": [
+    {
+      "surface": "ה֗וּא",
+      "gloss": "C'est lui"
+    },
+    {
+      "surface": "בָּנָ֛ה",
+      "gloss": "qui bâtit"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la porte"
+    },
+    {
+      "surface": "שַׁ֥עַר",
+      "gloss": "la porte"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הָעֶלְי֑וֹן",
+      "gloss": "la supérieure"
+    },
+    {
+      "surface": "וּבְחוֹמַ֥ת",
+      "gloss": "et sur le mur"
+    },
+    {
+      "surface": "הָעֹ֛פֶל",
+      "gloss": "du Ophel"
+    },
+    {
+      "surface": "בָּנָ֖ה",
+      "gloss": "il bâtit"
+    },
+    {
+      "surface": "לָרֹֽב",
+      "gloss": "abondamment"
+    }
+  ],
+  "timestamp": "2026-08-05T06:10:52.032311979Z",
+  "model": "glm-5.2"
+}

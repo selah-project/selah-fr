@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 100,
+  "translation": "Entrez dans ses portails avec action de grâce, dans ses parvis avec louange ; rendez-lui grâce, bénissez son nom.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Entrez"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "dans ses portails"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "avec action de grâce"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "dans ses parvis"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "avec louange"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "rendez-lui grâce"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lui"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:14.390627254Z",
+  "model": "glm-4.5"
+}

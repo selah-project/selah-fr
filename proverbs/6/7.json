@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Qui n'a ⟨ni⟩ chef, ⟨ni⟩ surveillant, ⟨ni⟩ gouverneur,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'a"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "chef"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "⟨ni⟩ surveillant"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "⟨ni⟩ gouverneur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:15.870128672Z",
+  "model": "glm-4.5"
+}

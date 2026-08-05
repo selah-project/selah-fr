@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Un homme dans ⟨la⟩ gloire, et ⟨il⟩ ne comprend pas, est comparé aux bêtes qui périssent.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "dans ⟨la⟩ gloire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "⟨il⟩ ne comprend pas"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "est comparé"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "aux bêtes"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "qui périssent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:53.915150524Z",
+  "model": "glm-4.5"
+}

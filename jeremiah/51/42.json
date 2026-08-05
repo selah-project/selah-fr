@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "La mer est montée sur Babylone, elle a été couverte par la multitude de ses vagues.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "est montée"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylone"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "par la multitude"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "de ses vagues"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "elle a été couverte"
+    }
+  ],
+  "timestamp": "2026-08-04T23:09:20.289749718Z",
+  "model": "glm-4.5"
+}

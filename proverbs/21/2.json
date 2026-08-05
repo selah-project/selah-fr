@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Toute voie d'un homme ⟨est⟩ droite à ses yeux, et ⟨celui qui⟩ pèse les cœurs, c'est YHWH.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toute"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "voie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨est⟩ droite"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses yeux"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "et ⟨celui qui⟩ pèse"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "les cœurs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ", c'est YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:10.523579129Z",
+  "model": "glm-4.5"
+}

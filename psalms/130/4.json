@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "Car auprès de toi est le pardon, afin que tu sois craint.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "auprès de toi"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "le pardon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "tu sois craint"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:31.724612185Z",
+  "model": "glm-4.5"
+}

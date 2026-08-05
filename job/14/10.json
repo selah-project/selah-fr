@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Mais l'homme meurt et dépérit, et l'homme expire, et où ⟨est⟩-il ?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "Mais l'homme"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meurt"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "et dépérit"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "et l'homme expire"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "et l'homme"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "et où ⟨est⟩-il"
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:28.458363164Z",
+  "model": "glm-4.5"
+}

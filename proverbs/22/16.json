@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Opprimer le pauvre pour augmenter ⟨son gain⟩, donner au riche, ⟨mène⟩ seulement à la perte.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "Opprimer"
+    },
+    {
+      "surface": "דל",
+      "gloss": "le pauvre"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "pour augmenter"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨son gain⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donner"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "au riche"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "à la perte"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:51.128286716Z",
+  "model": "glm-4.5"
+}

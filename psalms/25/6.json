@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Souviens-toi, YHWH, de tes compassions et de ton hessed ; car ⟨ils sont⟩ de toujours.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "de tes compassions"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "et de ton hessed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "de toujours"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ils sont⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:23.461233684Z",
+  "model": "glm-4.5"
+}

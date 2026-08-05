@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Là ⟨où⟩ les oiseaux font leurs nids, la cigogne a sa maison dans les cyprès",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Là ⟨où⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨y⟩"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "les oiseaux"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "font leurs nids"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "la cigogne"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "dans les cyprès"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "a sa maison"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:19.057501358Z",
+  "model": "glm-4.5"
+}

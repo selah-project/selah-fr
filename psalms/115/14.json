@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "YHWH vous ajoutera, à vous, et à vos fils.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ajoutera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vos fils"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:08.952368891Z",
+  "model": "glm-4.5"
+}

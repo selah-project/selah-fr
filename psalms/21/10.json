@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Tu les placeras comme ⟨un⟩ fourneau ⟨de⟩ feu au temps de ta face, YHWH, dans sa colère les avalera, et le feu les dévorera.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "tu les placeras"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "comme ⟨un⟩ fourneau"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨de⟩ feu"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "au temps de"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dans sa colère"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "les avalera"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "et les dévorera"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:28.751219400Z",
+  "model": "glm-4.5"
+}

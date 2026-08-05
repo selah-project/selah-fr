@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un temps pour enfanter et un temps pour mourir, un temps pour planter et un temps pour arracher le planté.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Un temps"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "pour enfanter"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "למות",
+      "gloss": "pour mourir"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "pour planter"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "pour arracher"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "le planté"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:31.131169769Z",
+  "model": "glm-4.5"
+}

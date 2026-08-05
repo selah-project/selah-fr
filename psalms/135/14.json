@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Car YHWH jugera son peuple et se repentira au sujet de ses serviteurs.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "jugera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et au sujet de"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "se repentira"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.974496646Z",
+  "model": "glm-4.5"
+}

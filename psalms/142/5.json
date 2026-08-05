@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 142,
+  "translation": "Regarde à droite et vois : il n'y a pour moi qui me connaisse ; la fuite a péri loin de moi ; nul ne s'enquiert de ma nefesh.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "à droite"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et vois"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "qui me connaisse"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "a péri"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "la fuite"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "loin de moi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nul"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ne s'enquiert"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "de ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T03:04:35.194860745Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 127,
+  "translation": "Chant des montées de Shelomo : Si YHWH ne bâtit pas la maison, en vain ⟨ses⟩ bâtisseurs y peinent ; si YHWH ne garde pas la ville, en vain le guetteur veille.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "de Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bâtit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "en vain"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "⟨ses⟩ bâtisseurs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "y"
+    },
+    {
+      "surface": "אם",
+      "gloss": "peinent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "pas la ville"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "en vain"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "le guetteur veille"
+    }
+  ],
+  "timestamp": "2026-08-05T02:51:25.558343700Z",
+  "model": "glm-4.5"
+}

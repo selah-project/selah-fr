@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Sur moi ont passé tes fureurs, par tes terreurs tu m'as ⟨את⟩ retranché.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ont passé"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "tes fureurs"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "par tes terreurs"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "tu m'as ⟨את⟩ retranché",
+      "marks": "me"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:14.064517101Z",
+  "model": "glm-4.5"
+}

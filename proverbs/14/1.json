@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "La sagesse des femmes a bâti ⟨sa⟩ maison, et la sottise de ses mains la détruit.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "La sagesse"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "des femmes"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "a bâti"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨sa⟩ maison"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "et la sottise"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "de ses mains"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "la détruit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:45.986556989Z",
+  "model": "glm-4.5"
+}

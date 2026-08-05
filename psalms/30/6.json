@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car ⟨il y a⟩ qu'un moment dans sa colère, ⟨il y a⟩ la vie dans sa faveur, le soir ⟨on⟩ peut passer la nuit ⟨à⟩ pleurer, et le matin un chant de joie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "⟨il y a⟩ qu'un moment"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dans sa colère"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "⟨il y a⟩ la vie"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "dans sa faveur"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "le soir"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "⟨on⟩ peut passer la nuit"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "⟨à⟩ pleurer"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "et le matin"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "un chant de joie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:53.020710156Z",
+  "model": "glm-4.5"
+}

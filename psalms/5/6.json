@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Les insensés ne se tiendront pas devant tes yeux, tu hais tous les ouvriers d'iniquité.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "se tiendront"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "Les insensés"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tes yeux"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "tu hais"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les ouvriers"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:40.603409409Z",
+  "model": "glm-4.5"
+}

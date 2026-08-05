@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Te voilà belle, mon amie, te voilà belle, tes yeux sont ⟨comme des⟩ colombes.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "te voilà"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "belle"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mon amie"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "te voilà"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "belle"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tes yeux"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "sont ⟨comme des⟩ colombes"
+    }
+  ],
+  "timestamp": "2026-08-05T04:17:15.720469895Z",
+  "model": "glm-4.5"
+}

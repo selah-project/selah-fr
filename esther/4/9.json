@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Hatach vint et rapporta à Esther les paroles de Mardochée.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Et vint"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et rapporta"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "à Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les paroles de Mardochée"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles de"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardochée"
+    }
+  ],
+  "timestamp": "2026-08-05T04:58:09.339986298Z",
+  "model": "glm-4.5"
+}

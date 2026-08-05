@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Des cieux Tu fis entendre le jugement, la terre craignit et ⟨fut⟩ ⟨en⟩ silence.",
+  "tokens": [
+    {
+      "surface": "מִשָּׁמַיִם",
+      "gloss": "Des cieux"
+    },
+    {
+      "surface": "הִשְׁמַעְתָּ",
+      "gloss": "Tu fis entendre"
+    },
+    {
+      "surface": "דִּין",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "יָרְאָה",
+      "gloss": "craignit"
+    },
+    {
+      "surface": "וְשָׁקָטָה",
+      "gloss": "et ⟨fut⟩ ⟨en⟩ silence"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:15.570287842Z",
+  "model": "glm-4.5"
+}

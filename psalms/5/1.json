@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Au chef des chœurs sur les flûtes. Mizmor de David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chœurs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "les flûtes"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:46.454517719Z",
+  "model": "glm-4.5"
+}

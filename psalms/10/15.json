@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Brise le bras du méchant et du mauvais ; tu rechercheras sa méchanceté, tu ne la trouveras pas.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Brise"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "le bras"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "et du mauvais"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "tu rechercheras"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "sa méchanceté"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trouveras pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:25.903052094Z",
+  "model": "glm-4.5"
+}

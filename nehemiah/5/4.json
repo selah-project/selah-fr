@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et il y en a qui disent : « Nous avons emprunté de l'argent, pour l'impôt du roi, sur nos champs et nos vignes. »",
+  "tokens": [
+    {
+      "surface": "וש",
+      "gloss": "et il y en a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "disent"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "nous avons emprunté"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "pour l'impôt de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "sur nos champs"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "et nos vignes"
+    }
+  ],
+  "timestamp": "2026-08-05T05:40:05.035648220Z",
+  "model": "glm-5.2"
+}

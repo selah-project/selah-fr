@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Par leur malice ils réjouissent le roi, et par leurs tromperies, les princes.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "Par leur malice"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ils réjouissent"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "et par leurs tromperies"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "les princes"
+    }
+  ],
+  "timestamp": "2026-08-05T00:02:27.837514874Z",
+  "model": "glm-4.5"
+}

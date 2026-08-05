@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et celui qui les brûle lavera ses vêtements et baignera ⟨את⟩ sa chair dans l'eau, et après cela il entrera dans le camp.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Et celui qui les brûle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "les"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lavera"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "et baignera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa chair"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans l'eau"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "et après"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "il entrera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "le camp"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:15.517910129Z",
+  "model": "glm-4.5"
+}

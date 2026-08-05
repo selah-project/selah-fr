@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Malheur à toi, terre, dont le roi ⟨est⟩ un garçon et dont les princes mangent le matin.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "dont le roi ⟨est⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un garçon"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "et dont les princes"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mangent le matin"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mangent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:15.743548052Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 23:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Sur son pas j'ai saisi ⟨mon⟩ pied, sa route j'ai gardé et je n'ai pas dévié",
+  "tokens": [
+    {
+      "surface": "באשרו",
+      "gloss": "Sur son pas"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "j'ai saisi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "⟨mon⟩ pied"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa route"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "j'ai gardé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et je n'ai pas"
+    },
+    {
+      "surface": "אט",
+      "gloss": "dévié"
+    }
+  ],
+  "timestamp": "2026-08-05T04:01:41.400269514Z",
+  "model": "glm-4.5"
+}

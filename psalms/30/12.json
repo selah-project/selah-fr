@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Tu as changé mon deuil en danse pour moi ; tu as délié mon sac et m'as ceint de joie.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "Tu as changé"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "mon deuil"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "en danse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "tu as délié"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "mon sac"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "et m'as ceint"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "de joie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:50.472180881Z",
+  "model": "glm-4.5"
+}

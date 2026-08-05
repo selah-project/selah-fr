@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Car c'est un statut pour Israël, une ordonnance pour l'Élohim de Jacob.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חק",
+      "gloss": "un statut"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pour Israël"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨c'est⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "une ordonnance"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pour l'Élohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:20.856816783Z",
+  "model": "glm-4.5"
+}

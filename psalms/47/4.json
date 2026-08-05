@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Il fait parler des peuples sous nous, et des nations sous nos pieds.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Il fait parler"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sous nous"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "et des nations"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "nos pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:53.595836589Z",
+  "model": "glm-4.5"
+}

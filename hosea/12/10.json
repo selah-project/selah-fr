@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et moi, YHWH, ton Élohim, ⟨de⟩ ⟨la⟩ terre d'Égypte, encore je te ferai habiter dans ⟨des⟩ tentes, comme ⟨aux⟩ jours de fête.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨de⟩ ⟨la⟩ terre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "je te ferai habiter"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "dans ⟨des⟩ tentes"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "comme ⟨aux⟩ jours"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "de fête"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:55.025043324Z",
+  "model": "glm-4.5"
+}

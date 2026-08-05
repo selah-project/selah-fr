@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Pour faire entendre ⟨avec⟩ la voix de louange et raconter toutes tes merveilles",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Pour faire entendre"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨avec⟩ la voix"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "de louange"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "et raconter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tes merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:54.795910319Z",
+  "model": "glm-4.5"
+}

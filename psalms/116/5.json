@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Gracieux, YHWH, et juste, et notre Dieu est compatissant.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Gracieux"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "et juste"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "et notre Dieu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "est compatissant"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:48.187888826Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Qu disent donc la maison d'Aaron car pour toujours ⟨est⟩ son hessed",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Qu disent"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:50.199176620Z",
+  "model": "glm-4.5"
+}

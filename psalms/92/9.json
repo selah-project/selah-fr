@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Et toi, ⟨tu es⟩ haut pour toujours, YHWH.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "haut"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:12.398003971Z",
+  "model": "glm-4.5"
+}

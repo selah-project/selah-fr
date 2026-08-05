@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "La nudité de la femme de ton père, tu ne la découvriras pas : c'est ⟨la⟩ nudité de ton père.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nudité"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "femme"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "découvriras pas"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nudité"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:50.467181503Z",
+  "model": "glm-4.5"
+}

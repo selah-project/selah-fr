@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "YHWH Élohim Tsevaot, jusques à quand fumeras-tu contre la prière de ton peuple ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusques à quand"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "fumeras-tu"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "contre la prière"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "de ton peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:13.205110960Z",
+  "model": "glm-4.5"
+}

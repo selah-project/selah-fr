@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Il rassemble comme une butte les eaux de la mer, il met dans des réservoirs les abîmes.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Il rassemble"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "comme une butte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il met"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "dans des réservoirs"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "les abîmes"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:23.704239263Z",
+  "model": "glm-4.5"
+}

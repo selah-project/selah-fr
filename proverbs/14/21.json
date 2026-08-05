@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Mépriser son prochain, ⟨c'est⟩ péché, et favoriser les malheureux, heureux ⟨est⟩ ⟨il⟩",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "mépriser"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "son prochain"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "péché"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "et favoriser"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "les malheureux"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "heureux est-il"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:48.160392372Z",
+  "model": "glm-4.5"
+}

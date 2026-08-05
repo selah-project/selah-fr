@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Il donne la neige comme de la laine, il disperse le givre comme de la cendre",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Il donne"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "la neige"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "comme de la laine"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "le givre"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "comme de la cendre"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "il disperse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:03.182210298Z",
+  "model": "glm-4.5"
+}

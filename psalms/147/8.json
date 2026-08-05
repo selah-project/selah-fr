@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Celui qui couvre les cieux de nuages, qui prépare la pluie pour la terre, qui fait germer de l'herbe sur les montagnes.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Celui qui couvre"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "de nuages"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "qui prépare"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "pour la terre"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "la pluie"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "qui fait germer"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "de l'herbe"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:01.236348138Z",
+  "model": "glm-4.5"
+}

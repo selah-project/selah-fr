@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Est-ce pour toujours que Adonaï rejettera, et ne continuera-t-il plus à vouloir ⟨le bien⟩ ?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Est-ce pour toujours"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "que Adonaï rejettera"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "continuera-t-il plus"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "à vouloir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:51.304484036Z",
+  "model": "glm-4.5"
+}

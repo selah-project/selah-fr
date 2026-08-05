@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Je prends les ailes de l'aube, je séjourne à l'extrémité de la mer",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "je prends"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "les ailes"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "de l'aube"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "je séjourne"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "à l'extrémité"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de la mer"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:39.926675972Z",
+  "model": "glm-4.5"
+}

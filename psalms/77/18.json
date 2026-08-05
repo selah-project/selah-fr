@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Les nuées ⟨ont⟩ déversé des eaux, les cieux ⟨ont⟩ fait retentir un bruit, même tes flèches ⟨allaient⟩ de-ci de-là.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "déversé"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "les nuées"
+    },
+    {
+      "surface": "קול",
+      "gloss": "un bruit"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ont fait retentir"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "אף",
+      "gloss": "même"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "tes flèches"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "allaient de-ci de-là"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:00.326914607Z",
+  "model": "glm-4.5"
+}

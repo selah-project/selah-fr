@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Maudit soit l'homme qui a annoncé ⟨את⟩ la bonne nouvelle à mon père, en disant : « Un fils t'est né », et qui l'a réjoui grandement.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Maudit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "soit l'homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a annoncé ⟨la bonne nouvelle⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bonne nouvelle à mon père"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "à mon père"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "t'est né"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mâle"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "et l'a réjoui"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "grandement"
+    }
+  ],
+  "timestamp": "2026-08-04T16:27:47.933328618Z",
+  "model": "glm-4.5"
+}

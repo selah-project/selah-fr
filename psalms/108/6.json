@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Élève-toi sur les cieux, ô Élohim, et sur toute la terre ta gloire.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "élève-toi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ta gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:20.743589854Z",
+  "model": "glm-4.5"
+}

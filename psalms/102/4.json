@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Car ⟨mes⟩ jours sont consumés en fumée et mes os comme un foyer sont brûlés.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨mes⟩ jours sont consumés"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "en fumée"
+    },
+    {
+      "surface": "ימי",
+      "gloss": ""
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "et mes os"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "קד",
+      "gloss": "un foyer"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "sont brûlés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:41.319429858Z",
+  "model": "glm-4.5"
+}

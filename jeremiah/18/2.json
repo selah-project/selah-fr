@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Lève-toi et descends ⟨à⟩ la maison du potier, et là je te ferai entendre ⟨את⟩ mes paroles.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "et descends"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "du potier"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "et là"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "je te ferai entendre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes paroles"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mes paroles"
+    }
+  ],
+  "timestamp": "2026-08-04T16:25:26.954452906Z",
+  "model": "glm-4.5"
+}

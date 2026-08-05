@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 24:18",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "de peur que YHWH ne le voie et ⟨que ce soit⟩ mauvais à ses yeux et qu'il retourne sa fureur de sur lui",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "il ne voie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "et ⟨que ce soit⟩ mauvais"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses yeux"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "et qu'il retourne"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "de sur lui"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sa fureur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:43.820336658Z",
+  "model": "glm-4.5"
+}

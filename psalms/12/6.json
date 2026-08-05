@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "À cause ⟨de⟩ la rapine des faibles, du soupir des indigents, maintenant je ⟨me⟩ lèverai, dit YHWH ; je ⟨le⟩ placerai ⟨dans⟩ le salut, il soufflera pour lui.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "À cause ⟨de⟩ la rapine"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "des faibles"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "du soupir"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "des indigents"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "je ⟨me⟩ lèverai"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "je ⟨le⟩ placerai"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "⟨dans⟩ le salut"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "il soufflera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:38.953258510Z",
+  "model": "glm-4.5"
+}

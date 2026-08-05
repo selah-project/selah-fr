@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Ses colonnes fit ⟨en⟩ argent, son dallage ⟨en⟩ or, son siège ⟨de⟩ pourpre, son dedans pavé d'amour, ⟨par⟩ les filles de Jérusalem.",
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "ses colonnes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨en⟩ argent"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "son dallage"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "⟨en⟩ or"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "son siège"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "⟨de⟩ pourpre"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "son dedans"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "pavé"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "d'amour"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "⟨par⟩ les filles"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:49.878144325Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et David vieillit et fut rassasié de jours, et il fit régner ⟨את⟩ Shelomo son fils sur Israël.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Et David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vieillit"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "et fut rassasié"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de jours"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "et il fit régner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T05:53:59.315953374Z",
+  "model": "glm-5.2"
+}

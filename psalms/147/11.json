@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "YHWH prend plaisir ⟨את⟩ en ceux qui Le craignent, ⟨את⟩ en ceux qui espèrent en son hessed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "prend plaisir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en ceux qui Le craignent"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "en ceux qui Le craignent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "en ceux qui espèrent en son hessed"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "en ceux qui espèrent"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "en son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:06.674030381Z",
+  "model": "glm-4.5"
+}

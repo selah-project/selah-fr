@@ -1,82 +1,82 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 18,
   "ref": "2-samuel 13:18",
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 13,
-  "translation": "et sur elle une tunique de palmes car ainsi se vêtent ⟨les⟩ filles ⟨du⟩ roi ⟨les⟩ vierges de robes et fit sortir ⟨את⟩ מְשָֽׁרְתוֹ le serviteur ⟨sa⟩ hors et verrouilla ⟨la⟩ porte après elle",
+  "translation": "Et sur elle ⟨était⟩ une tunique de *pasim*, car ainsi revêtaient les filles du roi, les vierges, des *meilim* ; et son serviteur la fit sortir ⟨את⟩ au-dehors, et il verrouilla la porte derrière elle.",
   "tokens": [
     {
       "surface": "וְעָלֶ֨יהָ֙",
       "gloss": "et sur elle"
     },
     {
-      "surface": "כְּתֹ֣נֶת",
+      "surface": "כְּתֹ֣נֶת",
       "gloss": "une tunique"
     },
     {
-      "surface": "פַּסִּ֔ים",
-      "gloss": "de palmes"
+      "surface": "פַּסִּ֔ים",
+      "gloss": "de *pasim*"
     },
     {
-      "surface": "כִּי֩",
+      "surface": "כִּ֣י",
       "gloss": "car"
     },
     {
-      "surface": "כֵ֨ן",
+      "surface": "כֵּ֔ן",
       "gloss": "ainsi"
     },
     {
-      "surface": "תִּלְבַּ֧שְׁןָ",
-      "gloss": "se vêtent"
+      "surface": "תִּלְבַּ֥שְׁנָה",
+      "gloss": "revêtaient"
     },
     {
-      "surface": "בְנוֹת",
-      "gloss": "⟨les⟩ filles"
+      "surface": "בְּנ֖וֹת",
+      "gloss": "les filles"
     },
     {
-      "surface": "הַמֶּ֛לֶךְ",
-      "gloss": "⟨du⟩ roi"
+      "surface": "הַמֶּ֥לֶךְ",
+      "gloss": "du roi"
     },
     {
-      "surface": "הַבְּתוּלֹ֖ת",
-      "gloss": "⟨les⟩ vierges"
+      "surface": "הַבְּתוּלֹ֖ת",
+      "gloss": "les vierges"
     },
     {
       "surface": "מְעִילִ֑ים",
-      "gloss": "de robes"
+      "gloss": "des *meilim*"
     },
     {
-      "surface": "וַיֹּצֵ֨א",
+      "surface": "וַיֹּצֵ֨א",
       "gloss": "et fit sortir"
     },
     {
       "surface": "אוֹתָ֤הּ",
       "gloss": "⟨את⟩",
-      "marks": "מְשָֽׁרְתוֹ le serviteur"
+      "marks": "elle"
     },
     {
-      "surface": "מְשָֽׁרְתוֹ֙",
-      "gloss": "le serviteur"
+      "surface": "מְשָֽׁרְתוֹ֙",
+      "gloss": "son serviteur"
     },
     {
       "surface": "הַח֔וּץ",
-      "gloss": "⟨sa⟩ hors"
+      "gloss": "au-dehors"
     },
     {
       "surface": "וְנָעַ֥ל",
       "gloss": "et verrouilla"
     },
     {
-      "surface": "הַדֶּ֖לֶת",
-      "gloss": "⟨la⟩ porte"
+      "surface": "הַדֶּ֖לֶת",
+      "gloss": "la porte"
     },
     {
       "surface": "אַחֲרֶֽיהָ",
-      "gloss": "après elle"
+      "gloss": "derrière elle"
     }
   ],
-  "timestamp": "2026-08-04T13:10:09.526421050Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:22.151697537Z",
+  "model": "glm-5.2"
 }

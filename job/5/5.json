@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "dont la récolte, ⟨le⟩ affamé la mange, et il la prendra même depuis les épines, et les assoiffés avaleront ⟨את⟩ leur richesse",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "la récolte"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "⟨le⟩ affamé"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "la mange"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "les épines"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "il la prendra"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "et les assoiffés avaleront"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "les assoiffés"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur richesse"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "leur richesse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:01.460782095Z",
+  "model": "glm-4.5"
+}

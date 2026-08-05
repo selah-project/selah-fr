@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 7:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Comme un serviteur il soupire après ⟨l'⟩ombre, et comme un salarié il espère son travail",
+  "tokens": [
+    {
+      "surface": "כעבד",
+      "gloss": "Comme un serviteur"
+    },
+    {
+      "surface": "ישאף",
+      "gloss": "il soupire"
+    },
+    {
+      "surface": "צל",
+      "gloss": "après ⟨l'⟩ombre"
+    },
+    {
+      "surface": "וכשכיר",
+      "gloss": "et comme un salarié"
+    },
+    {
+      "surface": "יקוה",
+      "gloss": "il espère"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "son travail"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:26.276194090Z",
+  "model": "glm-4.5"
+}

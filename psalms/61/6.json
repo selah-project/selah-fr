@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 61,
+  "translation": "Car toi, ⟨tu es⟩ Élohim, tu as écouté ⟨mes⟩ vœux, tu as donné ⟨l⟩héritage de ceux qui craignent ton nom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu as écouté"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "⟨mes⟩ vœux"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "tu as donné"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "⟨l⟩héritage"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "de ceux qui craignent"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    }
+  ],
+  "timestamp": "2026-08-05T01:50:39.890013075Z",
+  "model": "glm-4.5"
+}

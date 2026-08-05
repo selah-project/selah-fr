@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et Paroh dit à Joseph : un rêve j'ai rêvé et pour l'interpréter il n'y a personne, et moi j'ai entendu dire sur toi : tu entends un rêve pour l'interpréter.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un rêve"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "j'ai rêvé"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "et pour l'interpréter"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "personne",
+      "marks": "personne"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "j'ai entendu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dire sur toi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tu entends"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un rêve"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "pour l'interpréter"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le rêve"
+    }
+  ],
+  "timestamp": "2026-08-04T18:50:41.816063928Z",
+  "model": "glm-4.5"
+}

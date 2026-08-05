@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et moi, j'ai oint ⟨mon⟩ roi sur Sion, la montagne de ⟨ma⟩ sainteté",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "j'ai oint"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨mon⟩ roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "de ⟨ma⟩ sainteté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:23.986340493Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "L'explication de tes paroles illumine, ⟨elle donne⟩ de l'intelligence aux simples.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "L'explication"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "de tes paroles"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "illumine"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "⟨elle donne⟩ de l'intelligence"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "aux simples"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:24.068578405Z",
+  "model": "glm-4.5"
+}

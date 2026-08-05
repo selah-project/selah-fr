@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et à ce peuple tu diras : Ainsi a dit YHWH : Voici, je place devant vous ⟨את⟩ le chemin de la vie et ⟨את⟩ le chemin de la mort.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Et à"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tu diras"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Voici, je"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "place"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "devant vous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le chemin de la vie"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "le chemin"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "de la vie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le chemin de la mort"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "le chemin"
+    },
+    {
+      "surface": "המות",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-04T16:28:10.464010474Z",
+  "model": "glm-4.5"
+}

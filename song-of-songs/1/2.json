@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Qu'il ⟨me⟩ baise des baisers de sa bouche ! Car ⟨tes⟩ amours sont meilleures que le vin.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Qu'il ⟨me⟩ baise"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "des baisers"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "de sa bouche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "sont meilleures"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "⟨tes⟩ amours"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "que le vin"
+    }
+  ],
+  "timestamp": "2026-08-05T04:17:23.548972292Z",
+  "model": "glm-4.5"
+}

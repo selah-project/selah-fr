@@ -1,70 +1,70 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 30,
   "ref": "isaiah 37:30",
   "book": "isaiah",
   "lang": "fr",
   "chapter": 37,
-  "translation": "Et ceci ⟨est⟩ pour toi, ⟨le⟩ signe : mangez cette année du自发, et la seconde année, de l'after-growth, et la troisième année, semez, et moissonnez, et plantez des vignes, et mangez leur fruit.",
+  "translation": "Et ceci sera pour toi le signe : on mangera cette année ⟨את⟩ la pousse spontanée, et la deuxième année ⟨את⟩ le repousse ; et la troisième année, semez, et moissonnez, et plantez des vignes, et mangez ⟨את⟩ le fruit.",
   "tokens": [
     {
-      "surface": "וזה",
-      "gloss": "Et ceci"
+      "surface": "וְזֶה",
+      "gloss": "et ceci"
     },
     {
-      "surface": "לך",
+      "surface": "לְּךָ֣",
       "gloss": "pour toi"
     },
     {
-      "surface": "האות",
-      "gloss": "⟨le⟩ signe"
+      "surface": "הָא֔וֹת",
+      "gloss": "le signe"
     },
     {
-      "surface": "אכול",
-      "gloss": "mangez"
+      "surface": "אָכ֤וֹל",
+      "gloss": "on mangera"
     },
     {
-      "surface": "השנה",
+      "surface": "הַשָּׁנָה֙",
       "gloss": "cette année"
     },
     {
-      "surface": "ספיח",
-      "gloss": "du自发"
+      "surface": "סָפִ֔יחַ",
+      "gloss": "la pousse spontanée"
     },
     {
-      "surface": "ובשנה",
-      "gloss": "et la seconde année"
+      "surface": "וּבַשָּׁנָ֥ה",
+      "gloss": "et la deuxième année"
     },
     {
-      "surface": "השנית",
-      "gloss": ""
+      "surface": "הַשֵּׁנִ֖ית",
+      "gloss": "deuxième"
     },
     {
-      "surface": "שחיס",
-      "gloss": "de l'after-growth"
+      "surface": "שָׁחִ֑יס",
+      "gloss": "le repousse"
     },
     {
-      "surface": "ובשנה",
+      "surface": "וּבַשָּׁנָ֣ה",
       "gloss": "et la troisième année"
     },
     {
-      "surface": "השלישית",
-      "gloss": ""
+      "surface": "הַשְּׁלִישִׁ֗ית",
+      "gloss": "troisième"
     },
     {
-      "surface": "זרעו",
+      "surface": "זִרְע֧וּ",
       "gloss": "semez"
     },
     {
-      "surface": "וקצרו",
+      "surface": "וְקִצְר֛וּ",
       "gloss": "et moissonnez"
     },
     {
-      "surface": "ונטעו",
+      "surface": "וְנִטְע֥וּ",
       "gloss": "et plantez"
     },
     {
-      "surface": "כרמים",
+      "surface": "כְּרָמִ֖ים",
       "gloss": "des vignes"
     },
     {
@@ -72,10 +72,10 @@
       "gloss": "et mangez"
     },
     {
-      "surface": "פרים",
-      "gloss": "leur fruit"
+      "surface": "פִרְיָֽם",
+      "gloss": "le fruit"
     }
   ],
-  "timestamp": "2026-08-04T15:32:31.706597486Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:14.806443872Z",
+  "model": "glm-5.2"
 }

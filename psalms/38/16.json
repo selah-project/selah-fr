@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Car sur toi, YHWH, j'ai espéré, tu répondras, Adonaï mon Élohim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "j'ai espéré"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "répondras"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:24.593615286Z",
+  "model": "glm-4.5"
+}

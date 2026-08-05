@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Élohim, dans ⟨le⟩ lieu saint, est ⟨ta⟩ voie : quel ⟨El⟩ est grand comme Élohim ?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "dans ⟨le⟩ lieu saint"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "est ⟨ta⟩ voie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "quel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨El⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "est grand"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "comme Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:57.801027775Z",
+  "model": "glm-4.5"
+}

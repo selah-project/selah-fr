@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Car il a incliné son oreille vers moi, et ⟨en⟩ mes jours je crierai",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "il a incliné"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "son oreille"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "et ⟨en⟩ mes jours"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crierai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:55.291276098Z",
+  "model": "glm-4.5"
+}

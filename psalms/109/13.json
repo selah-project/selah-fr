@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Que ⟨sa⟩ postérité ⟨soit⟩ pour ⟨être⟩ retranchée ; dans ⟨la⟩ génération suivante que ⟨leur⟩ nom ⟨soit⟩ effacé.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Que"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "⟨sa⟩ postérité"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "pour ⟨être⟩ retranchée"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dans ⟨la⟩ génération"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "suivante"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "que ⟨leur⟩ nom ⟨soit⟩ effacé"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.688388087Z",
+  "model": "glm-4.5"
+}

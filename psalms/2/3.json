@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Brisons ⟨donc⟩ leurs liens, et jetons loin de nous leurs cordes !",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Brisons ⟨donc⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs liens"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "leurs liens"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "et jetons"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "loin de nous"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "leurs cordes"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:16.110593315Z",
+  "model": "glm-4.5"
+}

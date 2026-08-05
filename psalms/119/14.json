@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Sur ⟨la⟩ voie de tes témoignages ⟨je me⟩ réjouis comme sur tous ⟨les⟩ biens.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "Sur ⟨la⟩ voie"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "de tes témoignages"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "⟨je me⟩ réjouis"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "comme sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הון",
+      "gloss": "⟨les⟩ biens"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:49.987793955Z",
+  "model": "glm-4.5"
+}

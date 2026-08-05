@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": " venez fils, écoutez-moi, la crainte de YHWH je vous l'enseignerai",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "venez"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "écoutez-moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "la crainte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "je vous l'enseignerai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:22.031077473Z",
+  "model": "glm-4.5"
+}

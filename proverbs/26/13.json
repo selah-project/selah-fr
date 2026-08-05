@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "L'indolent dit : ⟨Un⟩ lion ⟨est⟩ dans le chemin, un lion ⟨est⟩ entre ⟨les⟩ places.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "l'indolent"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "un lion"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans le chemin"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "un lion"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "les places"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:18.895672717Z",
+  "model": "glm-4.5"
+}

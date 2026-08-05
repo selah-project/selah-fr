@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "La l'a enveloppé ⟨את⟩ le vent dans ses ailes, et ils rougiront de leurs sacrifices.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "a enveloppé"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "le vent"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "la"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "dans ses ailes"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "et ils rougiront"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "de leurs sacrifices"
+    }
+  ],
+  "timestamp": "2026-08-04T23:59:27.527274696Z",
+  "model": "glm-4.5"
+}

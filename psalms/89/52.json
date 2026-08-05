@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Dont tes ennemis ont insulté, YHWH, dont ils ont insulté les talons de ton Mashiah.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Dont"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ont insulté"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ils ont insulté"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "les talons"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "de ton Mashiah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:55.091039318Z",
+  "model": "glm-4.5"
+}

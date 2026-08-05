@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et moi aussi, mon œil n'épargnera pas, et je n'aurai pas compassion ; leur chemin, sur leur tête, je l'ai donné.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "[je] n'épargnerai pas"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mon œil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "[je] n'aurai pas compassion"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "leur chemin"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "sur leur tête"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai donné"
+    }
+  ],
+  "timestamp": "2026-08-04T23:19:30.055763785Z",
+  "model": "glm-4.5"
+}

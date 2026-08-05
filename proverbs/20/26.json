@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Un roi sage vannera ⟨les⟩ méchants, et fera tourner la roue sur eux.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "vannera"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨les⟩ méchants"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Un roi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et fera tourner"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "la roue"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:24.750596605Z",
+  "model": "glm-4.5"
+}

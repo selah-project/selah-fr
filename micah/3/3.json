@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et qui mangent la chair de mon peuple, et leur peau sur eux ⟨ils⟩ dépouillent, et ⟨את⟩ leurs os ⟨ils⟩ brisent, et ⟨les⟩ étendent comme ⟨ce qui est dans⟩ la marmite, et comme la chair au milieu de la chaudière",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Et qui"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mangent"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "de mon peuple"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "et leur peau"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "⟨ils⟩ dépouillent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs os"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "leurs os"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "⟨ils⟩ brisent"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "et ⟨les⟩ étendent"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "⟨ce qui est dans⟩ la marmite"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "et comme la chair"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "de la chaudière"
+    }
+  ],
+  "timestamp": "2026-08-05T00:27:06.164143937Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et Shaharaïm engendra ⟨des fils⟩ dans les champs de Moab — après qu'il eût renvoyé ⟨d'entre⟩ elles — Houshim et Baara, ses épouses.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "et Shaharaïm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans les champs de"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "d'entre"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "il eût renvoyé"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Houshim"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Houshim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ses épouses"
+    }
+  ],
+  "timestamp": "2026-08-05T05:48:43.868956779Z",
+  "model": "glm-5.2"
+}

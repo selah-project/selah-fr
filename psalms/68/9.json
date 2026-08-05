@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "La terre trembla, ⟨aussi⟩ les cieux distillèrent ⟨des eaux⟩ devant Élohim — ce Sinaï devant Élohim, l'Élohim d'Israël.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "trembla"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨aussi⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "distillèrent ⟨des eaux⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ce"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:10.295542468Z",
+  "model": "glm-4.5"
+}

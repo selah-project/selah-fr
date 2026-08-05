@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Au chef des chantres « Ne détruis pas » — michtam de David, lorsqu'il fuyait de devant Shaül dans la grotte.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "« Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "détruis pas »"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "michtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "lorsqu'il fuyait"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "dans la grotte"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:55.589157050Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Que se réjouisse ton père et ta mère, et qu’⟨elle⟩ triomphe, celle qui t’a enfanté.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "que se réjouisse"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "et ta mère"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "et qu’⟨elle⟩ triomphe"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "celle qui t’a enfanté"
+    }
+  ],
+  "timestamp": "2026-08-05T03:32:56.117005567Z",
+  "model": "glm-4.5"
+}

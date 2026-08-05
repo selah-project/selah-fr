@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et ma nefesh se réjouira en YHWH, elle exultera en son salut.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Et ma nefesh"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "se réjouira"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "elle exultera"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "en son salut"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:03.254099298Z",
+  "model": "glm-4.5"
+}

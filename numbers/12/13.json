@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Mosheh cria vers YHWH en disant : El, ⟨je te prie⟩, guéris-la, ⟨je te prie⟩.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Et cria"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨je te prie⟩"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "guéris-la"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨je te prie⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T21:42:22.004850609Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Car sans raison ils ont caché pour moi la fosse, leur filet, sans raison ils ont creusé pour ma nefesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sans raison"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ils ont caché"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "la fosse"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "leur filet"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sans raison"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ils ont creusé"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pour ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:09.251628678Z",
+  "model": "glm-4.5"
+}

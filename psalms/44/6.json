@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "En toi, nos adversaires, nous les frapperons ; en ton nom, nous piétinerons ceux qui se dressent contre nous.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "En toi"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "nos adversaires"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "nous les frapperons"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "en ton nom"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "nous piétinerons"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "ceux qui se dressent contre nous"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:40.348691538Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Car courbée vers ⟨la⟩ poussière ⟨est⟩ notre nefesh, collée à ⟨la⟩ terre ⟨est⟩ notre ventre",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "courbée"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "vers ⟨la⟩ poussière"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "notre nefesh"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "collée"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "à ⟨la⟩ terre"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "notre ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:52.677292278Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "À tes préceptes je ⟨m'attarde⟩ et je fixe ⟨mes regards sur⟩ tes sentiers.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "À tes préceptes"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "je ⟨m'attarde⟩"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "et je fixe"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "⟨mes regards sur⟩ tes sentiers"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:49.987916280Z",
+  "model": "glm-4.5"
+}

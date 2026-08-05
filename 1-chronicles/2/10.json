@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et Ram engendra ⟨את⟩ Amminadab, et Amminadab engendra ⟨את⟩ Nahshon, prince des fils de Yehouda.",
+  "tokens": [
+    {
+      "surface": "וְרָ֖ם",
+      "gloss": "Et Ram"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadab"
+    },
+    {
+      "surface": "עַמִּינָדָ֑ב",
+      "gloss": "Amminadab"
+    },
+    {
+      "surface": "וְעַמִּינָדָ֖ב",
+      "gloss": "et Amminadab"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshon"
+    },
+    {
+      "surface": "נַחְשֹׁ֔ן",
+      "gloss": "Nahshon"
+    },
+    {
+      "surface": "נְשִׂ֥יא",
+      "gloss": "prince"
+    },
+    {
+      "surface": "בְּנֵֽי",
+      "gloss": "des fils de"
+    },
+    {
+      "surface": "יְהוּדָֽה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-08-05T06:46:27.836383357Z",
+  "model": "glm-5.2"
+}

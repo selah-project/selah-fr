@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Guéris-moi, YHWH, et je serai guéri ; sauve-moi, et je serai sauvé, car tu es ma louange.",
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "guéris-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "et je serai guéri"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sauve-moi"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "et je serai sauvé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ma louange"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    }
+  ],
+  "timestamp": "2026-08-04T16:24:41.702581563Z",
+  "model": "glm-4.5"
+}

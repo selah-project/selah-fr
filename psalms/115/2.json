@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Pourquoi diraient les nations : Où est donc leur Élohim ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "diraient"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Où est"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "leur Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:19.726432020Z",
+  "model": "glm-4.5"
+}

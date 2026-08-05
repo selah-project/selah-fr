@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 87,
+  "translation": "Et de Sion il ⟨est⟩ dit : homme et homme ⟨est⟩ né en elle, et lui, le Elyon, la fondera.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "Et de Sion"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "il ⟨est⟩ dit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et homme"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨est⟩ né"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et lui"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "la fondera"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "le Elyon"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:47.203829284Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Comme l'oiseau pour s'enfuir, comme l'hirondelle pour voler, ainsi la malédiction sans cause ⟨n'arrivera⟩ pas.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Comme l'oiseau"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "pour s'enfuir"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "comme l'hirondelle"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "pour voler"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "la malédiction"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sans cause"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "arrivera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:18.721038953Z",
+  "model": "glm-4.5"
+}

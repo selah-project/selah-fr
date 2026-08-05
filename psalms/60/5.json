@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Tu as fait voir ⟨à⟩ ton peuple dur ⟨à⟩ supporter tu nous as abreuvés un vin de vertige",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Tu as fait voir"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "dur"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "tu nous as abreuvés"
+    },
+    {
+      "surface": "יין",
+      "gloss": "un vin"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "de vertige"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:57.716227039Z",
+  "model": "glm-4.5"
+}

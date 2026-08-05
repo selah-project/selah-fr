@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "YHWH, dans ta force le roi se réjouit, et dans ton salut, comme il exulte avec grandeur !",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "dans ta force"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "⟨le roi⟩ se réjouit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "et dans ton salut"
+    },
+    {
+      "surface": "מה",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "il exulte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "avec grandeur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:25.172370658Z",
+  "model": "glm-4.5"
+}

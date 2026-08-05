@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Tefila de David. Incline, YHWH, ton oreille, réponds-moi, car ⟨je suis⟩ pauvre et ⟨je suis⟩ misérable.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tefila"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Incline"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "réponds-moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pauvre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et misérable"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨je suis⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:05.669612314Z",
+  "model": "glm-4.5"
+}

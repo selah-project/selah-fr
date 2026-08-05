@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et il leur commanda, en disant : « C'est ⟨la⟩ chose que vous ferez : le tiers de vous, ceux qui entrent ⟨le⟩ shabbat, et les gardes ⟨de⟩ la garde ⟨de⟩ la maison du roi. »",
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "Et il leur commanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "זה",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨la⟩ chose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "vous ferez"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "le tiers"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "de vous"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ceux qui entrent"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨le⟩ shabbat"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "et les gardes"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "⟨de⟩ la garde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨de⟩ la maison"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-04T22:21:26.967748302Z",
+  "model": "glm-4.5"
+}

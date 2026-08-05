@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Car qui dans les nuées ⟨se⟩ compare à YHWH ⟨est⟩ semblable à YHWH parmi les fils des Elim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "dans les nuées"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "⟨se⟩ compare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "⟨est⟩ semblable"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "parmi les fils"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "des Elim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:25.870578736Z",
+  "model": "glm-4.5"
+}

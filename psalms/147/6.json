@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Il redresse les humbles, YHWH ; il abaisse les méchants jusqu'à la terre.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "Il redresse"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "les humbles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "il abaisse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:01.236188908Z",
+  "model": "glm-4.5"
+}

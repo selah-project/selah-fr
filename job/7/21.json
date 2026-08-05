@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et pourquoi ne pardonnes-tu pas ma rébellion et fais-tu passer ⟨את⟩ mon iniquité ? car maintenant sur la poussière je coucherai et tu me chercheras et je ne serai plus.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Et pourquoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "pardonnes-tu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ma rébellion"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "et fais-tu passer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon iniquité"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mon iniquité"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sur la poussière"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "je coucherai"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "et tu me chercheras"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "et je ne serai plus"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:06.794596494Z",
+  "model": "glm-4.5"
+}

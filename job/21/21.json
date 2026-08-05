@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 21:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Car ⟨quel⟩ est ⟨le⟩ désir ⟨dans⟩ sa maison après lui, quand le nombre de ses mois ⟨est⟩ retranché ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨quel⟩"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "désir"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "⟨dans⟩ sa maison"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "après lui"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "et le nombre"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "de ses mois"
+    },
+    {
+      "surface": "חצצו",
+      "gloss": "⟨est⟩ retranché"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:10.141503775Z",
+  "model": "glm-4.5"
+}

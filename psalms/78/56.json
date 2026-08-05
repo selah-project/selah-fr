@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et ils mirent à l'épreuve et irritèrent ⟨את⟩ Élohim le Très-Haut et ses témoignages ils ne gardèrent pas",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Et ils mirent à l'épreuve"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "et irritèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "le Très-Haut"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "et ses témoignages"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gardèrent pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:11.553163103Z",
+  "model": "glm-4.5"
+}

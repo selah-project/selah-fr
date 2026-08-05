@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Sachez donc que YHWH a mis à part ⟨le⟩ fidèle pour lui ; YHWH écoutera quand je crierai vers lui.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Sachez donc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "a mis à part"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "le fidèle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "écoutera"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "quand je crierai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:05.339015217Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "De YHWH ⟨sont⟩ les pas d'un homme, et sa route il la désire",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "De YHWH"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "⟨sont⟩ les pas"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "et sa route"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "il la"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "désire"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:46.439240713Z",
+  "model": "glm-4.5"
+}

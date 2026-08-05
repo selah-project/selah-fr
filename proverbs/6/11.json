@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ⟨ta⟩ pauvreté viendra comme un marcheur, et ⟨ton⟩ manque comme un homme ⟨avec⟩ bouclier",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Et viendra"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "comme un marcheur"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ta pauvreté"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "et ton manque"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "comme un homme"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "avec bouclier"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:15.421223313Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 113,
+  "translation": "Qui est comme YHWH notre Élohim, ⟨le⟩ exalté pour siéger ⟨en haut⟩",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "est comme YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "⟨le⟩ exalté"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pour siéger ⟨en haut⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:10.732894857Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "YHWH Tsevaot, heureux ⟨l'⟩homme ⟨qui⟩ se fie ⟨en⟩ toi",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "heureux"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "se fie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:00.706964315Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 142,
+  "translation": "Je répands devant lui ma plainte, ma détresse devant moi je ⟨la⟩ déclare.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Je répands"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ma plainte"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ma détresse"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "je ⟨la⟩ déclare"
+    }
+  ],
+  "timestamp": "2026-08-05T03:04:30.345400545Z",
+  "model": "glm-4.5"
+}

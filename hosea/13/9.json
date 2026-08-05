@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Tu ⟨as⟩ détruit, Israël, car en moi ⟨est⟩ ton aide.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "Tu as détruit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "ton aide"
+    }
+  ],
+  "timestamp": "2026-08-05T00:08:40.406948122Z",
+  "model": "glm-4.5"
+}

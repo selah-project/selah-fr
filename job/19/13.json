@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 19:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Il a mis mes frères loin de moi, et mes connaissances ont vraiment ⟨été⟩ ⟨des⟩ étrangers pour moi.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "mes frères"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "loin de moi"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "Il a mis"
+    },
+    {
+      "surface": "וידעי",
+      "gloss": "et mes connaissances"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vraiment"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ont été étrangers"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:58:40.020881983Z",
+  "model": "glm-4.5"
+}

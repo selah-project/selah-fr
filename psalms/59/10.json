@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Sa force, ⟨est⟩ vers toi, je la garderai, car Élohim ⟨est⟩ mon refuge.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Sa force"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "je la garderai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mon refuge"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:14.044568094Z",
+  "model": "glm-4.5"
+}

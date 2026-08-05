@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Si je suis juste, ma bouche me condamne; intègre je suis, et elle me déclare pervers",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "je suis juste"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ma bouche"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "me condamne"
+    },
+    {
+      "surface": "תם",
+      "gloss": "intègre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "et elle me déclare pervers"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:50.286496128Z",
+  "model": "glm-4.5"
+}

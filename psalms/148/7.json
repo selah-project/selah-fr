@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Louez YHWH depuis ⟨la⟩ terre dragons et tous les abîmes",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨YHWH⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "dragons"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "les abîmes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:13.808589406Z",
+  "model": "glm-4.5"
+}

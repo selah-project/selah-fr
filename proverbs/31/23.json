@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Son époux ⟨est⟩ connu aux portes, quand il siège avec les anciens du pays.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "⟨est⟩ connu"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "aux portes"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "son époux"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "quand il siège"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "du pays"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:42.392384567Z",
+  "model": "glm-4.5"
+}

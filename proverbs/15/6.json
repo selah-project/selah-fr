@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Dans la maison du juste ⟨il y a⟩ un grand trésor, et dans le revenu du méchant ⟨il y a⟩ du trouble.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Dans la maison"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "un grand trésor"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "et dans le revenu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "du trouble"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:29.841662920Z",
+  "model": "glm-4.5"
+}

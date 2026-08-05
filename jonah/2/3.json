@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et il dit : J'ai appelé ⟨du⟩ fond de ma détresse ⟨vers⟩ YHWH, et il m'a répondu ; du ventre du Shéol j'ai crié, tu as entendu ma voix.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "J'ai appelé"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "⟨du fond de ma⟩ détresse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨qui m'est⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "et il m'a répondu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "du ventre"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "du Shéol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "j'ai crié"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu as entendu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:22.069304991Z",
+  "model": "glm-4.5"
+}

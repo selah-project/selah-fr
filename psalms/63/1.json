@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Un Mizmor, de David, quand il était dans le désert de Yehoudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "quand il était"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehoudah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:16.960818207Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "La crainte de YHWH tend vers la vie, et ⟨celui qui est⟩ rassasié y passera la nuit sans qu'on le visite de mal.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "la crainte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "vers la vie"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "et celui qui est rassasié"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "y passera la nuit"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sans"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "qu'on le visite"
+    },
+    {
+      "surface": "רע",
+      "gloss": "de mal"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:32.759780042Z",
+  "model": "glm-4.5"
+}

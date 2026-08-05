@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "De tous mes oppresseurs je ⟨suis devenu⟩ un opprobre, et extrêmement pour mes voisins ; et une frayeur pour mes connaissances, ceux me voyant dehors ont fui loin de moi",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "De tous"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mes oppresseurs"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "je ⟨suis devenu⟩"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "un opprobre"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "et pour mes voisins"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "extrêmement"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "et une frayeur"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "pour mes connaissances"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ceux me voyant"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "dehors"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ont fui"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "loin de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:55.078205657Z",
+  "model": "glm-4.5"
+}

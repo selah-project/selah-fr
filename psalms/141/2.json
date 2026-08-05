@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Que ma prière se dresse devant Toi comme l'encens, l'élévation de mes mains comme l'offrande du soir.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "⟨qu'elle se dresse⟩"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma prière"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "comme l'encens"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant Toi"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "l'élévation"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "de mes mains"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "comme l'offrande"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "du soir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:54.337315284Z",
+  "model": "glm-4.5"
+}

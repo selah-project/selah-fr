@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "De Sion, la perfection de la beauté, Élohim a resplendi.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "De Sion"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "la perfection"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "de la beauté"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "a resplendi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:51.152915036Z",
+  "model": "glm-4.5"
+}

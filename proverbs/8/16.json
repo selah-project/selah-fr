@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Par moi ⟨les⟩chefs dirigent, et ⟨les⟩nobles, tous les juges de justice.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Par moi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "⟨les⟩chefs"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "dirigent"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "et ⟨les⟩nobles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "les juges"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "de justice"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:02.895391931Z",
+  "model": "glm-4.5"
+}

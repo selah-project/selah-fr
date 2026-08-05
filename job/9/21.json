@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Parfait, je ne connais ⟨pas⟩ ma propre nefesh, je méprise ma vie.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "parfait"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "connais"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma propre nefesh"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "je méprise"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ma vie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:59.092264220Z",
+  "model": "glm-4.5"
+}

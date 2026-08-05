@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il choisit ⟨את⟩ la tribu de Juda, ⟨את⟩ la montagne de Sion qu'il avait aimée.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Et il choisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la tribu de Juda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "la tribu de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la montagne de Sion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne de"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "il avait aimée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:25.697217166Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Que ma main s'établisse avec lui, ⟨que⟩ mon bras le fortifie.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Que"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "s'établisse"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "mon bras"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "le fortifie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:11.736894706Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "C'est pourquoi, bergers, écoutez ⟨את⟩ la parole de YHWH.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bergers"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "écoutez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T23:42:45.536739063Z",
+  "model": "glm-4.5"
+}

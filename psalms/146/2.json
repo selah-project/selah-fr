@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "Je louerai YHWH dans ma vie, je psalmodierai à mon Elohim tant que je suis",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Je louerai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "dans ma vie"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je psalmodierai"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "à mon Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "tant que je suis"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:24.481475649Z",
+  "model": "glm-4.5"
+}

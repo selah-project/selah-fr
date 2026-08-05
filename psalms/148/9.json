@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Les montagnes et toutes les collines, les arbres fruitiers et tous les cèdres",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toutes"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "les collines"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "les arbres"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruitiers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "les cèdres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:05.891378413Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Il se tint là et je ne discerne pas son apparence, une forme ⟨est⟩ devant mes yeux, silence, et une voix j'entends",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "Il se tint là"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et je ne"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "discerne"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "pas son apparence"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "une forme"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "⟨est⟩ devant"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "silence"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "et une voix"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "j'entends"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:10.258952397Z",
+  "model": "glm-4.5"
+}

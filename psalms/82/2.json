@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Jusques à quand jugerez-vous ⟨le⟩ mal, et ⟨la⟩ face des méchants porterez-vous ? Sélah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jusques à quand"
+    },
+    {
+      "surface": "מתי",
+      "gloss": ""
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "jugerez-vous"
+    },
+    {
+      "surface": "עול",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "et ⟨la⟩ face"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "porterez-vous"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:11.685019719Z",
+  "model": "glm-4.5"
+}

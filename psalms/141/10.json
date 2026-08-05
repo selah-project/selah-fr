@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Qu'ils tombent dans leurs filets les méchants, ensemble, tandis que moi, je passerai.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Qu'ils tombent"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "dans leurs filets"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tandis que"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "je passerai"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:44.271012492Z",
+  "model": "glm-4.5"
+}

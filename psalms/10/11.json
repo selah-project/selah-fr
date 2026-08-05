@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Il a dit en son cœur : El a oublié, il a caché sa face, il ne verra jamais.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Il a dit"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "en son cœur"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "a oublié"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "il a caché"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa face"
+    },
+    {
+      "surface": "בל",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "verra"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "jamais"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:31.862583009Z",
+  "model": "glm-4.5"
+}

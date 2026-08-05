@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Comme un homme que sa mère console, ainsi moi je vous consolerai, et à Jérusalem vous serez consolés.",
+  "tokens": [
+    {
+      "surface": "כְּאִ֕ישׁ",
+      "gloss": "Comme un homme"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אִמּ֖וֹ",
+      "gloss": "sa mère"
+    },
+    {
+      "surface": "תְּנַחֲמֶ֑נּוּ",
+      "gloss": "console"
+    },
+    {
+      "surface": "כֵּ֤ן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אָֽנֹכִי֙",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אֲנַ֣חֶמְכֶ֔ם",
+      "gloss": "je vous consolerai"
+    },
+    {
+      "surface": "וּבִירֽוּשָׁלִַ֖ם",
+      "gloss": "et à Jérusalem"
+    },
+    {
+      "surface": "תְּנֻחָֽמוּ",
+      "gloss": "vous serez consolés"
+    }
+  ],
+  "timestamp": "2026-08-05T05:22:13.063124188Z",
+  "model": "glm-5.2"
+}

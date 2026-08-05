@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Koush engendra ⟨את⟩ Nimrod ; c'est lui qui commença à être un puissant sur la terre.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "et Koush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est lui"
+    },
+    {
+      "surface": "החל",
+      "gloss": "qui commença"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "à être"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "un puissant"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T05:44:38.938594286Z",
+  "model": "glm-5.2"
+}

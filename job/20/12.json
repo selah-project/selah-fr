@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Si il adoucit le mal dans sa bouche, il le dissimulera sous sa langue",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "il adoucit"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dans sa bouche"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "il le dissimulera"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "sa langue"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:29.721938328Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Voici, jusqu'à ⟨la⟩ lune, et elle ne brille pas, et les étoiles ne sont pas pures à ses yeux",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "⟨la⟩ lune"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et elle ne"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "brille pas"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "et les étoiles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne sont pas"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "pures"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T04:03:05.079188327Z",
+  "model": "glm-4.5"
+}

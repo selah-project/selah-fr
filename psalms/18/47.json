@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Vivant est YHWH, et béni soit mon rocher, et exalté soit l'Elohim de mon salut.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Vivant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "et béni"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "et exalté"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "l'Elohim de"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mon salut"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:28.178340505Z",
+  "model": "glm-4.5"
+}

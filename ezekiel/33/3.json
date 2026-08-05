@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "et qu'il voie ⟨את⟩ l'épée venant sur la terre, et sonne du shofar, et avertisse ⟨את⟩ le peuple",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "et qu'il voie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'épée"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "באה",
+      "gloss": "venant"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "et sonne"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "du shofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "et avertisse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T23:41:37.952276984Z",
+  "model": "glm-4.5"
+}

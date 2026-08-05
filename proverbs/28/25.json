@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Une nefesh large ⟨est⟩ celle qui excite ⟨un⟩ conflit, mais qui se fie à YHWH sera engraissée.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "large"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "excite"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "conflit"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "mais qui se fie"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "sera engraissée"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:13.991508708Z",
+  "model": "glm-4.5"
+}

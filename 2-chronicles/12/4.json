@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il captura ⟨את⟩ les villes des forteresses qui étaient à Juda, et il vint jusqu'à Jérusalem.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "et il captura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les villes des forteresses"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "des forteresses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "étaient à Juda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il vint"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T06:16:57.009430390Z",
+  "model": "glm-5.2"
+}

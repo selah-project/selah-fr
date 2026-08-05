@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Car ils ont tendu contre toi ⟨le⟩ mal, ⟨ils⟩ ont médité ⟨un⟩ stratagème, ils ne pourront pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ils ont tendu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "⟨ils⟩ ont médité"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "⟨un⟩ stratagème"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ils pourront"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:28.751431085Z",
+  "model": "glm-4.5"
+}

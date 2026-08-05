@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Tu as éprouvé mon cœur, tu l'as visité la nuit; tu m'as fondu, tu ne trouveras rien : mes pensées ne passeront pas ⟨ma⟩ bouche.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Tu as éprouvé"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "tu as visité"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "tu m'as fondu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trouveras"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "rien"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "passeront"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨ma⟩ bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:04.408819791Z",
+  "model": "glm-4.5"
+}

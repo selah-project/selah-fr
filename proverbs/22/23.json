@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car YHWH plaidera leur cause, et dépouillera l'âme de leurs dépouilleurs.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "plaidera"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "leur cause"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "et dépouillera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'âme"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "de leurs dépouilleurs"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "l'âme"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:51.432238091Z",
+  "model": "glm-4.5"
+}

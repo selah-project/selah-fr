@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "joel 4:5",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car ⟨vous avez pris⟩ mon argent et mon or, et ⟨vous avez apporté⟩ ⟨les⟩ biens précieux ⟨qui sont⟩ bons dans vos palais",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "car"
+    },
+    {
+      "surface": "כספי",
+      "gloss": "mon argent"
+    },
+    {
+      "surface": "וזהבי",
+      "gloss": "et mon or"
+    },
+    {
+      "surface": "לקחתם",
+      "gloss": "⟨vous avez pris⟩"
+    },
+    {
+      "surface": "ומחמדי",
+      "gloss": "et ⟨les⟩ biens précieux"
+    },
+    {
+      "surface": "הטבים",
+      "gloss": "⟨qui sont⟩ bons"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "⟨vous avez apporté⟩"
+    },
+    {
+      "surface": "להיכליכם",
+      "gloss": "dans vos palais"
+    }
+  ],
+  "timestamp": "2026-08-05T00:13:17.790300019Z",
+  "model": "glm-4.5"
+}

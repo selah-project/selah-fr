@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Fais-nous revenir, Élohim de notre salut, et annule ta colère contre nous.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Fais-nous revenir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim de"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "notre salut"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "et annule"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "ta colère"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "contre nous"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:27.065142057Z",
+  "model": "glm-4.5"
+}

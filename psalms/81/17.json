@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Et il le nourrirait de la graisse du blé, et du miel du rocher je te rassasierais.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "Et il le nourrirait"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "de la graisse"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "du blé"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "et du rocher"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "du miel"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "je te rassasierais"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:51.870907862Z",
+  "model": "glm-4.5"
+}

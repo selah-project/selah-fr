@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Car ce n'est pas de l'orient et de l'occident, et ce n'est pas du désert des montagnes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ce n'est pas"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "de l'orient"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "et de l'occident"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ce n'est pas"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "du désert"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "des montagnes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:14.825102720Z",
+  "model": "glm-4.5"
+}

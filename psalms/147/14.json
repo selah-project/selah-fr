@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Il met en paix ta frontière, il te rassasie de la fleur du froment",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Il met"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "en paix ta frontière"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paix"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "de la fleur"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "du froment"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "il te rassasie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:03.182034085Z",
+  "model": "glm-4.5"
+}

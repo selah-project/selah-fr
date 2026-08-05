@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 16:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Y a-t-il une fin aux propos de vent, ou ⟨quoi⟩ t'irrite que tu répondes ?",
+  "tokens": [
+    {
+      "surface": "הקץ",
+      "gloss": "Y a-t-il une fin"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "aux propos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de vent"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨quoi⟩"
+    },
+    {
+      "surface": "ימריצך",
+      "gloss": "t'irrite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tu répondes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:56:08.574471417Z",
+  "model": "glm-4.5"
+}

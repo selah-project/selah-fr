@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et tire ⟨la⟩ lance et barre ⟨la⟩ route contre ⟨les⟩ qui me poursuivent, dis à mon âme : 'Ta délivrance, je ⟨suis⟩'",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Et tire"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "⟨la⟩ lance"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "et barre"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "⟨la⟩ route contre"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "qui me poursuivent"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dis"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "à mon âme"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "Ta délivrance"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je ⟨suis⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:13.543314020Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Dévore, Adonaï, divise leurs langues, car j'ai vu ⟨la⟩ violence et ⟨la⟩ querelle dans ⟨la⟩ ville.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Dévore"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "divise"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leurs langues"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "et querelle"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.676994844Z",
+  "model": "glm-4.5"
+}

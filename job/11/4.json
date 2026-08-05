@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 11:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et tu as dit : Pur ⟨est⟩ mon discours, et pur ⟨je⟩ suis à tes yeux",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Et tu as dit"
+    },
+    {
+      "surface": "זך",
+      "gloss": "Pur ⟨est⟩"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "mon discours"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "et pur"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨je⟩ suis"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "à tes yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:18.675535433Z",
+  "model": "glm-4.5"
+}

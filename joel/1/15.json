@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Ah, pour le jour ! car proche est le jour de YHWH, et comme une destruction du Tout-Puissant il viendra.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pour le jour"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "proche est"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "et comme une destruction du"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Tout-Puissant"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "il viendra"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:26.302072896Z",
+  "model": "glm-4.5"
+}

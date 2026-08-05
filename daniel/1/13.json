@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "daniel 1:13",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et qu’on voie devant toi notre apparence et l’apparence des jeunes qui mangent ⟨את⟩ les mets du roi et comme tu ⟨le⟩ verras agis avec tes serviteurs",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "et qu’on voie"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "מראינו",
+      "gloss": "notre apparence"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "et l’apparence"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "des jeunes"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "qui mangent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les mets du roi"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "les mets"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "et comme"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu ⟨le⟩ verras"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-05T05:05:51.307764178Z",
+  "model": "glm-4.5"
+}

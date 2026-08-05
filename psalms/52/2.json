@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "au ⟨venir⟩ de Doeg l'Édomite, et il ⟨le⟩ rapporta à Saül, et il lui dit : ⟨est⟩ venu David vers la maison d'Achimélec",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "au ⟨venir⟩"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "l'Édomite"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et il rapporta"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "à Saül"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "בא",
+      "gloss": "est venu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "d'Achimélec"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:16.176715438Z",
+  "model": "glm-4.5"
+}

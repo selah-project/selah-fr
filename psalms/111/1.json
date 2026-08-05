@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 111,
+  "translation": "Louez Yah, je remercierai YHWH de tout cœur, dans le cercle des hommes droits et ⟨de⟩ la congrégation.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "je remercierai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "cœur"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "dans le cercle"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "des hommes droits"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "et ⟨de⟩ la congrégation"
+    }
+  ],
+  "timestamp": "2026-08-05T02:36:31.362885284Z",
+  "model": "glm-4.5"
+}

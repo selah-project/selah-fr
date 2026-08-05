@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Tu m'as poussé fort pour que je tombe, mais YHWH m'a secouru.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "Tu as poussé"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "fort"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "pour que je tombe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mais YHWH"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "m'a secouru"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:59.872811931Z",
+  "model": "glm-4.5"
+}

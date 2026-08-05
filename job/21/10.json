@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Leur taureau s'accouple et ne rejette pas, leur vache délivre et ne fait pas d'avortement.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "Leur taureau"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "s'accouple"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "rejette pas"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "délivre"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "leur vache"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "fait pas d'avortement"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:14.036420931Z",
+  "model": "glm-4.5"
+}

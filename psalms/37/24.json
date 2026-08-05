@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Quand il tombe, il ne sera pas jeté ⟨bas⟩, car YHWH soutient sa main",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "il tombe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne sera pas"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "jeté ⟨bas⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "soutient"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:46.439346370Z",
+  "model": "glm-4.5"
+}

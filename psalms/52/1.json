@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Au chef des chantres, maskil de David",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "au chef des chantres"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:16.176534864Z",
+  "model": "glm-4.5"
+}

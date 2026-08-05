@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Je marcherai devant YHWH dans ⟨les⟩ terres des vivants.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "je marcherai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "dans ⟨les⟩ terres"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "des vivants"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:41.319242202Z",
+  "model": "glm-4.5"
+}

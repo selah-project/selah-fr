@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Je dirai ⟨à⟩ YHWH : mon refuge et ma forteresse, mon Élohim ; en lui je me confierai.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Je dirai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨à⟩ YHWH"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mon refuge"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "et ma forteresse"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "je me confierai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:15.186511835Z",
+  "model": "glm-4.5"
+}

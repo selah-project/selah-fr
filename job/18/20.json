@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 18:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Sur son jour, ⟨les⟩ derniers ⟨sont⟩ stupéfaits, et ⟨les⟩ premiers saisis d'effroi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "son jour"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "⟨les⟩ derniers ⟨sont⟩ stupéfaits"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "⟨les⟩ derniers"
+    },
+    {
+      "surface": "וקדמנים",
+      "gloss": "et ⟨les⟩ premiers"
+    },
+    {
+      "surface": "אחזו",
+      "gloss": "saisis d'effroi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "effroi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:57:33.113071711Z",
+  "model": "glm-4.5"
+}

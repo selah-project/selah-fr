@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et pendirent ⟨את⟩ Haman sur l'arbre qu'il avait préparé pour Mardochée ; et la colère du roi s'apaisa.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Et pendirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "l'arbre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "il avait préparé"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "pour Mardochée"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "et la colère"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "s'apaisa"
+    }
+  ],
+  "timestamp": "2026-08-05T05:01:17.915909346Z",
+  "model": "glm-4.5"
+}

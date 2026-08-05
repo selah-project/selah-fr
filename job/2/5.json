@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Mais envoie donc maintenant ta main, et touche à ⟨son⟩ os et à ⟨sa⟩ chair, ⟨s'il n'est pas vrai qu'⟩ à ta face il ⟨te⟩ bénira",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "mais"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envoie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "et touche"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "⟨son⟩ os"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "⟨sa⟩ chair"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨s'il n'est pas vrai qu'⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨s'il n'est pas vrai qu'⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "il ⟨te⟩ bénira"
+    }
+  ],
+  "timestamp": "2026-08-05T03:42:47.461586478Z",
+  "model": "glm-4.5"
+}

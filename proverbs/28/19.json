@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Qui travaille sa terre sera rassasié de pain, et qui poursuit des choses vides sera rassasié de pauvreté.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "qui travaille"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sa terre"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "sera rassasié"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "et qui poursuit"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "des choses vides"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "sera rassasié"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "de pauvreté"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:05.629036664Z",
+  "model": "glm-4.5"
+}

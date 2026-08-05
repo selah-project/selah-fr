@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 41:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Ses éternuements ⟨font⟩ briller la lumière, et ses yeux ⟨sont⟩ comme les paupières de ⟨l'⟩aube.",
+  "tokens": [
+    {
+      "surface": "עטישתיו",
+      "gloss": "ses éternuements"
+    },
+    {
+      "surface": "תהל",
+      "gloss": "font briller"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "et ses yeux"
+    },
+    {
+      "surface": "כעפעפי",
+      "gloss": "comme les paupières de"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "l'aube"
+    }
+  ],
+  "timestamp": "2026-08-05T04:15:41.020074667Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Tourne vers moi et fais grâce car solitaire et affligé je suis",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Tourne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "et fais grâce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "solitaire"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "et affligé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:10.895115744Z",
+  "model": "glm-4.5"
+}

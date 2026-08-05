@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Goûtez et voyez car ⟨il est⟩ bon YHWH, heureux ⟨est⟩ ⟨le⟩ homme qui se réfugie en lui",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "goûtez"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "et voyez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "heureux"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "se réfugie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:22.030606480Z",
+  "model": "glm-4.5"
+}

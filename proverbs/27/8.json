@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Comme un oiseau qui erre loin de son nid, ainsi est un homme qui erre loin de son lieu",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "comme un oiseau"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "qui erre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "loin de"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "son nid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi est"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "qui erre"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "de son lieu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:20.217318535Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Garde, mon fils, le commandement de ton père, et n'abandonne ⟨pas⟩ la Torah de ta mère",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Garde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "le commandement"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et n'"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "abandonne"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "de ta mère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:28.544461156Z",
+  "model": "glm-4.5"
+}

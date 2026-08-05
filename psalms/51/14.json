@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Fais-moi revenir ⟨à⟩ la joie de ton salut, et un esprit noble me soutiendra",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "fais-moi revenir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "la joie"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "de ton salut"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "et un esprit"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "noble"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "me soutiendra"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:40.567996939Z",
+  "model": "glm-4.5"
+}

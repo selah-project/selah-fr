@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 126,
+  "translation": "Fais revenir, YHWH, ⟨את⟩ nos captifs, comme les torrents dans le Néguev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Fais revenir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nos captifs"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "nos captifs"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "comme les torrents"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "dans le Néguev"
+    }
+  ],
+  "timestamp": "2026-08-05T02:50:33.468588583Z",
+  "model": "glm-4.5"
+}

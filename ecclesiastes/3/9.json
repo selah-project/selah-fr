@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Quel profit ⟨a⟩ celui qui agit dans ce dont il peine ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Quel"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "profit"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "celui qui agit"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "dans ce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dont"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "il peine"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:37.063144559Z",
+  "model": "glm-4.5"
+}

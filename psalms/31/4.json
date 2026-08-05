@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Car tu es mon rocher et ma forteresse ; et à cause de ton nom, conduis-moi et dirige-moi",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "tu es mon rocher"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "et ma forteresse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "et à cause de"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "conduis-moi"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "et dirige-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:35.104797059Z",
+  "model": "glm-4.5"
+}

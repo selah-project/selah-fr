@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 142,
+  "translation": "J'ai crié vers toi, YHWH, j'ai dit : Tu es mon refuge, mon lot dans le pays des vivants.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "J'ai crié"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu es"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mon refuge"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "mon lot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "des vivants"
+    }
+  ],
+  "timestamp": "2026-08-05T03:04:35.195087487Z",
+  "model": "glm-4.5"
+}

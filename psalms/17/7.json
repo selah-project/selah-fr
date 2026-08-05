@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Fais distinguer tes hessed, ⟨ toi ⟩ qui sauves ceux qui cherchent refuge, ⟨ par ⟩ ta droite, contre ceux ⟨ qui ⟩ se dressent.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Fais distinguer"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tes hessed"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "⟨ toi ⟩ qui sauves"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "ceux qui cherchent refuge"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "contre ceux ⟨ qui ⟩ se dressent"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "⟨ par ⟩ ta droite"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:04.460566008Z",
+  "model": "glm-4.5"
+}

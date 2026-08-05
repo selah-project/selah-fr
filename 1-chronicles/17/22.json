@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et tu as donné ⟨את⟩ ton peuple Israël pour toi en peuple jusqu'à perpétuité ; et toi, YHWH, tu ⟨as⟩ été pour eux en Élohim.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "et tu as donné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton peuple Israël"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "en peuple"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétuité"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu as été"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "en Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T05:52:54.047763457Z",
+  "model": "glm-5.2"
+}

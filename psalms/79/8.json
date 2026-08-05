@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Ne te souviens pas pour nous des fautes des premiers, hâte-toi, que tes compassions nous préviennent, car nous sommes ⟨très⟩ abaissés.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "te souviens pas"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "des fautes"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "des premiers"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hâte-toi"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "qu'elles nous préviennent"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tes compassions"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "nous sommes abaissés"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨très⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:22.189648589Z",
+  "model": "glm-4.5"
+}

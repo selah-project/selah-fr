@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "Espère, Israël, en YHWH, car avec YHWH ⟨est⟩ le hessed, et abondante avec lui ⟨est⟩ la délivrance.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Espère"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "et abondante"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "la délivrance"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:49.332035607Z",
+  "model": "glm-4.5"
+}

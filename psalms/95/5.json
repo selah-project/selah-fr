@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "À lui ⟨la⟩ mer, et lui l'a faite, et ⟨la⟩ terre sèche ses mains l'ont formée.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "À lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨la⟩ mer"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et lui"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "l'a faite"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "et ⟨la⟩ terre sèche"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "l'ont formée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:14.296873057Z",
+  "model": "glm-4.5"
+}

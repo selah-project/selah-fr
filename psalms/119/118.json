@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tu as méprisé tous les égarés loin de tes statuts, car mensonge est leur tromperie.",
+  "tokens": [
+    {
+      "surface": "סָ֭לִיתָ",
+      "gloss": "tu as méprisé"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "שׁוֹגִ֣ים",
+      "gloss": "les égarés"
+    },
+    {
+      "surface": "מֵחֻקֶּ֑יךָ",
+      "gloss": "loin de tes statuts"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שֶׁ֝֗קֶר",
+      "gloss": "mensonge"
+    },
+    {
+      "surface": "תַּרְמִיתָֽם",
+      "gloss": "leur tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:34.085232014Z",
+  "model": "glm-5.2"
+}

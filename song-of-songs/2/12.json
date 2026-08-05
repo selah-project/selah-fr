@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Les fleurs apparaissent sur la terre, le temps du chant est arrivé, et la voix de la tourterelle s'entend dans notre pays.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "les fleurs"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "apparaissent"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "עת",
+      "gloss": "le temps"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "du chant"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "est arrivé"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "et la voix"
+    },
+    {
+      "surface": "התור",
+      "gloss": "de la tourterelle"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "s'entend"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "dans notre pays"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:14.243230437Z",
+  "model": "glm-4.5"
+}

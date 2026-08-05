@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 142,
+  "translation": "Ma voix vers YHWH je crie, ma voix vers YHWH je supplie.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ma voix"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "je supplie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:04:30.345304368Z",
+  "model": "glm-4.5"
+}

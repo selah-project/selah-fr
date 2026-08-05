@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 122,
+  "translation": "Jérusalem, bâtie comme une ville qui est unie à elle-même ensemble.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "bâtie"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "comme une ville"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "qui est unie"
+    },
+    {
+      "surface": "לה",
+      "gloss": "à elle-même"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:42.520365622Z",
+  "model": "glm-4.5"
+}

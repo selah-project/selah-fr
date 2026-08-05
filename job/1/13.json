@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il arriva ⟨un⟩ jour, et ses fils et ses filles mangeaient et buvaient du vin dans la maison de leur frère, le premier-né",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨un⟩ jour"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "et ses filles"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mangeaient"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "et buvaient"
+    },
+    {
+      "surface": "יין",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "de leur frère"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "le premier-né"
+    }
+  ],
+  "timestamp": "2026-08-05T03:42:00.787701501Z",
+  "model": "glm-4.5"
+}

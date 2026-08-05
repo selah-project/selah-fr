@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Une pluie ⟨de⟩ dons ⟨libres⟩ tu secoues, ô Élohim ; ton héritage, ⟨quand il fut⟩ las, tu l'as établi.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "une pluie"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "⟨de⟩ dons ⟨libres⟩"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "tu secoues"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ton héritage"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "⟨quand il fut⟩ las"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "l'as établi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:10.295772398Z",
+  "model": "glm-4.5"
+}

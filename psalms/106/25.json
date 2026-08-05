@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "et ils murmurèrent dans leurs tentes, ⟨ils⟩ n'écoutèrent pas ⟨la⟩ voix de YHWH",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "et ils murmurèrent"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "dans leurs tentes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "écoutèrent"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:11.787391527Z",
+  "model": "glm-4.5"
+}

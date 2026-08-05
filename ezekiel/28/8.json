@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Ils te feront descendre vers ⟨la⟩ fosse, et tu mourras ⟨des⟩ morts des percés au cœur des mers",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "vers ⟨la⟩ fosse"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "ils te feront descendre"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "et tu mourras"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "⟨des⟩ morts"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "des percés"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "au cœur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des mers"
+    }
+  ],
+  "timestamp": "2026-08-04T23:37:02.607486378Z",
+  "model": "glm-4.5"
+}

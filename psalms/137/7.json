@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 137,
+  "translation": "Souviens-toi, YHWH, des fils d'Édom ⟨את⟩ le jour de Jérusalem, ceux disant : dévaste, dévaste, jusqu'à ⟨את⟩ la fondation en elle!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "des fils de"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le jour"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour de"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ceux disant"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dévaste"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "dévaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "la fondation"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:58.153347121Z",
+  "model": "glm-4.5"
+}

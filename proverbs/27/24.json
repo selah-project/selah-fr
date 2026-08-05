@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Car la richesse n'⟨est⟩ pas pour le siècle, et ⟨la⟩ couronne ⟨est-elle⟩ pour de génération en génération ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'⟨est⟩ pas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour le siècle"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "la richesse"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et ⟨la⟩ couronne ⟨est-elle⟩"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "couronne"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pour de génération"
+    },
+    {
+      "surface": "דור",
+      "gloss": "en génération"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:32.826542915Z",
+  "model": "glm-4.5"
+}

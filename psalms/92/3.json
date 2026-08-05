@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Pour raconter le matin ⟨ton⟩ hessed, et ⟨ta⟩ fidélité dans les nuits,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Pour raconter"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "⟨ton⟩ hessed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "et ⟨ta⟩ fidélité"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "dans les nuits"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:19.973250661Z",
+  "model": "glm-4.5"
+}

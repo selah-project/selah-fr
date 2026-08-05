@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "YHWH, ne me reprends pas dans ta fureur et ne me châtie pas dans ⟨ta⟩ colère.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "dans ta fureur"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "me reprends"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "et dans ta colère"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ne me châtie pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:11.101158075Z",
+  "model": "glm-4.5"
+}

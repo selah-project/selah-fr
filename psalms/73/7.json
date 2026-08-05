@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Leurs yeux sortent de graisse, les imaginations de leur cœur dépassent.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "sortent"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "de graisse"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "leurs yeux"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "dépassent"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "les imaginations"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "de leur cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:21.809875038Z",
+  "model": "glm-4.5"
+}

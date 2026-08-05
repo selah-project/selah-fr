@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 134,
+  "translation": "YHWH te bénira de Sion, ⟨lui⟩ qui fait les cieux et la terre.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "YHWH te bénira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨lui⟩ qui fait"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:56:47.906778741Z",
+  "model": "glm-4.5"
+}

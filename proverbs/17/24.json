@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "La sagesse est ⟨aux⟩ regards de ⟨celui qui⟩ comprend, et les yeux du sot sont ⟨au⟩ bout de la terre.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "La sagesse"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aux regards"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "de celui qui comprend"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "La sagesse"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "et les yeux"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "du sot"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "au bout"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:01.930762086Z",
+  "model": "glm-4.5"
+}

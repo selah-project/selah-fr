@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "J’ai placé YHWH devant moi continuellement, car de ma droite, non, je ne chancellerai pas",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "j’ai placé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "de ma droite"
+    },
+    {
+      "surface": "בל",
+      "gloss": "non"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "je ne chancellerai pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:20.821613674Z",
+  "model": "glm-4.5"
+}

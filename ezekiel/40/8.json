@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et il mesura ⟨את⟩ le vestibule de la porte depuis la Maison, un roseau",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Et il mesura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le vestibule"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "le vestibule"
+    },
+    {
+      "surface": "השער",
+      "gloss": "de la porte"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "depuis la Maison"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "un roseau"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    }
+  ],
+  "timestamp": "2026-08-04T23:48:45.628917366Z",
+  "model": "glm-4.5"
+}

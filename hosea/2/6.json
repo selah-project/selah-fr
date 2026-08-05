@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et ⟨את⟩ ses fils, je ne les aurai pas en pitié, car ils sont des fils de prostitutions.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Et ⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne les aurai pas"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "en pitié"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "de prostitutions"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils sont"
+    }
+  ],
+  "timestamp": "2026-08-04T23:58:05.644075080Z",
+  "model": "glm-4.5"
+}

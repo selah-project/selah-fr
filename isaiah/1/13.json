@@ -1,81 +1,81 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "isaiah 1:13",
   "book": "isaiah",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Ne continuez pas à apporter l'offrande de vanité, ⟨le⟩ qétoret est ⟨une⟩ to‘évah pour moi, ⟨le⟩ nouveau ⟨lune⟩ et ⟨le⟩ shabbat, ⟨la⟩ convocation ⟨מִקְרָא⟩, je ne peux pas ⟨supporter⟩ l’iniquité et ⟨la⟩ assemblée solennelle",
+  "translation": "Ne continuez pas à apporter ⟨un⟩ don de mensonge, l'encens — une abomination il ⟨est⟩ pour moi. Nouvelle lune et shabbat, proclamation de convocation — je ne puis ⟨supporter⟩ l'iniquité ⟨ni⟩ la solennité.",
   "tokens": [
     {
-      "surface": "לא",
-      "gloss": "Ne"
+      "surface": "לֹ֣א",
+      "gloss": "ne … pas"
     },
     {
-      "surface": "תוסיפו",
-      "gloss": "continuez pas"
+      "surface": "תוֹסִ֗יפוּ",
+      "gloss": "continuez à"
     },
     {
-      "surface": "הביא",
-      "gloss": "à apporter"
+      "surface": "הָבִיא֙",
+      "gloss": "apporter"
     },
     {
-      "surface": "מנחת",
-      "gloss": "l'offrande de"
+      "surface": "מִנְחַת",
+      "gloss": "don de"
     },
     {
-      "surface": "שוא",
-      "gloss": "vanité"
+      "surface": "שָׁ֔וְא",
+      "gloss": "mensonge"
     },
     {
-      "surface": "קטרת",
-      "gloss": "⟨le⟩ qétoret"
+      "surface": "קְטֹ֧רֶת",
+      "gloss": "l'encens"
     },
     {
-      "surface": "תועבה",
-      "gloss": "est ⟨une⟩ to‘évah"
+      "surface": "תּוֹעֵבָ֛ה",
+      "gloss": "une abomination"
     },
     {
-      "surface": "היא",
-      "gloss": "elle"
+      "surface": "הִ֖יא",
+      "gloss": "il ⟨est⟩"
     },
     {
-      "surface": "לי",
+      "surface": "לִ֑י",
       "gloss": "pour moi"
     },
     {
-      "surface": "חדש",
-      "gloss": "⟨le⟩ nouveau ⟨lune⟩"
+      "surface": "חֹ֤דֶשׁ",
+      "gloss": "nouvelle lune"
     },
     {
-      "surface": "ושבת",
-      "gloss": "et ⟨le⟩ shabbat"
+      "surface": "וְשַׁבָּת֙",
+      "gloss": "et shabbat"
     },
     {
-      "surface": "קרא",
-      "gloss": "⟨la⟩ convocation"
+      "surface": "קְרֹ֣א",
+      "gloss": "proclamation de"
     },
     {
-      "surface": "מקרא",
-      "gloss": "⟨מִקְרָא⟩"
+      "surface": "מִקְרָ֔א",
+      "gloss": "convocation"
     },
     {
-      "surface": "לא",
-      "gloss": "je ne"
+      "surface": "לֹ֥א",
+      "gloss": "ne … pas"
     },
     {
-      "surface": "אוכל",
-      "gloss": "peux pas"
+      "surface": "אוּכַ֥ל",
+      "gloss": "je puis"
     },
     {
-      "surface": "און",
-      "gloss": "⟨supporter⟩ l’iniquité"
+      "surface": "אָ֖וֶן",
+      "gloss": "l'iniquité"
     },
     {
-      "surface": "ועצרה",
-      "gloss": "et ⟨la⟩ assemblée solennelle"
+      "surface": "וַעֲצָרָֽה",
+      "gloss": "et la solennité"
     }
   ],
-  "timestamp": "2026-08-04T14:48:22.239249449Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:57:21.381312288Z",
+  "model": "glm-5.2"
 }

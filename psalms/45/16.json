@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Elles sont conduites avec des joies et de l'allégresse elles entrent ⟨dans⟩ le palais du roi",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "Elles sont conduites"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "avec des joies"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "et de l'allégresse"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "elles entrent"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "⟨dans⟩ le palais"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:36.521623658Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Les paroles des sages ⟨sont⟩ écoutées dans le calme plus que le cri d'un dirigeant parmi les fous.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "paroles"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "des sages"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "dans le calme"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "écoutées"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "plus que le cri"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "d'un dirigeant"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "parmi les fous"
+    }
+  ],
+  "timestamp": "2026-08-05T04:41:24.494380261Z",
+  "model": "glm-4.5"
+}

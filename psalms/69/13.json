@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Ceux qui ⟨sont⟩ assis à la porte méditent sur moi, et les chansons des buveurs de boisson forte.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "méditent"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ceux qui ⟨sont⟩ assis"
+    },
+    {
+      "surface": "שער",
+      "gloss": "à la porte"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "et les chansons"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "des buveurs"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "de boisson forte"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:04.641281414Z",
+  "model": "glm-4.5"
+}

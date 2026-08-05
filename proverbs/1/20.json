@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "La Hokhma crie au-dehors, dans les places ⟨elle⟩ fait entendre sa voix",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "La Hokhma"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "au-dehors"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "crie"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "dans les places"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "⟨elle⟩ fait entendre"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sa voix"
+    }
+  ],
+  "timestamp": "2026-08-05T03:11:01.512876338Z",
+  "model": "glm-4.5"
+}

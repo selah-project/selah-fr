@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "et dirent les serviteurs du roi qui ⟨étaient⟩ à la porte du roi à Mordecai pourquoi ⟨tu⟩ transgresses ⟨את⟩ le commandement du roi",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "et dirent"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "à la porte de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "à Mordecai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "transgresses"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le commandement"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "le commandement"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:55:29.795292163Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Nuée et brume ⟨sont⟩ autour de lui, justice et jugement ⟨sont⟩ la fondation de son trône",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Nuée"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "et brume"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "autour de lui"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "et jugement"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "la fondation"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "de son trône"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:51.304457757Z",
+  "model": "glm-4.5"
+}

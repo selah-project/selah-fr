@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Car comment pourrai-je et verrai-je ⟨le⟩ mal qui trouvera ⟨את⟩ mon peuple et comment pourrai-je et verrai-je ⟨dans⟩ la destruction de mon lignage",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "comment"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "pourrai-je"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "et verrai-je"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "trouvera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon peuple"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "et comment"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "pourrai-je"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "et verrai-je"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "⟨dans⟩ la destruction"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "de mon lignage"
+    }
+  ],
+  "timestamp": "2026-08-05T05:02:58.605512503Z",
+  "model": "glm-4.5"
+}

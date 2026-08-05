@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Tu as ⟨vu⟩, YHWH : ne te tais pas ; Adonaï, ne t'éloigne pas de moi.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Tu as ⟨vu⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "te tais pas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "t'éloigne pas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:12.771778644Z",
+  "model": "glm-4.5"
+}

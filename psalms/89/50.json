@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Où ⟨sont⟩ tes hessed ⟨les⟩ premiers, Adonaï, que tu as jurés à David dans ta fidélité.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Où"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tes hessed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "⟨les⟩ premiers"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "que tu as jurés"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "dans ta fidélité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:55.090809098Z",
+  "model": "glm-4.5"
+}

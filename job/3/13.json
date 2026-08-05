@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car maintenant je serai couché et je serai tranquille, je dormirais, alors il y aurait du repos pour moi",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "je serai couché"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "et je serai tranquille"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "je dormirais"
+    },
+    {
+      "surface": "אז",
+      "gloss": "alors"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "il y aurait du repos"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:19.663188699Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Dans tes statuts je fais mes délices, je n'oublierai pas ta parole.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Dans tes statuts"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "je fais mes délices"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "j'oublierai"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:49.988047432Z",
+  "model": "glm-4.5"
+}

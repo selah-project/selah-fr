@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Celui qui cherche le bon recherche la faveur, et celui qui recherche le mal, cela viendra sur lui.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "cherche"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bon"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "recherche"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "la faveur"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "et celui qui recherche"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "cela viendra sur lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:05.699495540Z",
+  "model": "glm-4.5"
+}

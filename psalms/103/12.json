@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Comme l’est l’orient ⟨du⟩ couchant, Il a mis loin de nous ⟨את⟩ nos révoltes.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Comme la distance"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "de l’orient"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "du couchant"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "Il a mis loin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de nous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nos révoltes"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "nos révoltes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:39.279514511Z",
+  "model": "glm-4.5"
+}

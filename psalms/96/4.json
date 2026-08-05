@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Car grand est YHWH et très loué, il est redoutable au-dessus de tous les Élohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "est YHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "et très loué"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "redoutable"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "על",
+      "gloss": "au-dessus de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "les Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:05.412611496Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 70,
+  "translation": "Qu'ils hontent et qu'ils rougissent, ceux qui cherchent ma nefesh ; qu'ils reculent en arrière et qu'ils soient confondus, ceux qui désirent mon mal.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Qu'ils hontent"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "et qu'ils rougissent"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ceux qui cherchent"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "qu'ils reculent"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "en arrière"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "et qu'ils soient confondus"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ceux qui désirent"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mon mal"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:01.617470488Z",
+  "model": "glm-4.5"
+}

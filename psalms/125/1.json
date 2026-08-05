@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 125,
+  "translation": "Chant des montées. Ceux qui se fient à YHWH ⟨sont⟩ comme la montagne de Sion : ⟨elle⟩ ne chancellera pas, elle siège pour toujours.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Ceux qui se fient"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "comme la montagne"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "chancellera"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "elle siège"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:49.720315219Z",
+  "model": "glm-4.5"
+}

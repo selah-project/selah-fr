@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Je louerai grandement YHWH par ma bouche, et au milieu de la multitude je ⟨le⟩ louerai.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Je louerai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grandement"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "par ma bouche"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "et au milieu de"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "la multitude"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "je ⟨le⟩ louerai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:21.843884764Z",
+  "model": "glm-4.5"
+}

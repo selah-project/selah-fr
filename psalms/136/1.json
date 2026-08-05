@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "Célebrez YHWH car ⟨il est⟩ bon car pour toujours ⟨est⟩ son hessed",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Célebrez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:14.145576135Z",
+  "model": "glm-4.5"
+}

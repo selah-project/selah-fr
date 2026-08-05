@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Qui se lèvera pour moi avec les malfaiteurs ? Qui se tiendra debout pour moi avec les ouvriers d'iniquité ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se lèvera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "les malfaiteurs"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "se tiendra debout"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les ouvriers"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:19.647641269Z",
+  "model": "glm-4.5"
+}

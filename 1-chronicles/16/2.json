@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et David acheva de faire monter l'ola et les shelamim, et il bénit ⟨את⟩ le peuple au nom de YHWH.",
+  "tokens": [
+    {
+      "surface": "וַיְכַ֣ל",
+      "gloss": "et il acheva"
+    },
+    {
+      "surface": "דָּוִ֔יד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מֵהַעֲל֥וֹת",
+      "gloss": "de faire monter"
+    },
+    {
+      "surface": "הָעֹלָ֖ה",
+      "gloss": "l'ola"
+    },
+    {
+      "surface": "וְהַשְּׁלָמִ֑ים",
+      "gloss": "et les shelamim"
+    },
+    {
+      "surface": "וַיְבָ֥רֶךְ",
+      "gloss": "et il bénit"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "הָעָ֖ם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "בְּשֵׁ֥ם",
+      "gloss": "au nom de"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T05:52:04.297825458Z",
+  "model": "glm-5.2"
+}

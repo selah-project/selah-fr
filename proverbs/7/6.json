@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car à la fenêtre de ma maison, par mon treillis, j'ai regardé",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "à la fenêtre"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "de ma maison"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "par"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "mon treillis"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "j'ai regardé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:04.265698670Z",
+  "model": "glm-4.5"
+}

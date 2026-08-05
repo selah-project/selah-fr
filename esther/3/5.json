@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Haman vit que Mardochée ne pliait pas le genou ni ne se prosternait devant lui, et Haman fut rempli de colère.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne... pas"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardochée"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "pliait le genou"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "ni ne se prosternait"
+    },
+    {
+      "surface": "לו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "et fut rempli"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "de colère"
+    }
+  ],
+  "timestamp": "2026-08-05T04:55:47.458179126Z",
+  "model": "glm-4.5"
+}

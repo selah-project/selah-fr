@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Qu’il te donne selon ton cœur et qu’il accomplisse tout ton conseil",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Qu’il donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "selon ton cœur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ton conseil"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "qu’il accomplisse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:56.606642222Z",
+  "model": "glm-4.5"
+}

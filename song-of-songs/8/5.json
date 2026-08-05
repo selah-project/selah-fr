@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Qui est celle qui monte du désert, s'appuyant sur ⟨son⟩ ami ? Sous le pommier je t'ai réveillée, là ta mère t'a enfantée, là elle a enfanté celle qui t'a mis au monde.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "celle"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "désert"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "s'appuyant"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "ami"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Sous"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "pommier"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "je t'ai réveillée"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "ta mère t'a enfantée"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ta mère"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "elle a enfanté"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "celle qui t'a mis au monde"
+    }
+  ],
+  "timestamp": "2026-08-05T04:22:54.014337454Z",
+  "model": "glm-4.5"
+}

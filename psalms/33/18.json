@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Voici, l'œil de YHWH ⟨est⟩ sur ceux qui le craignent, sur ceux qui espèrent en son hessed.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'œil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ceux qui le craignent"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "sur ceux qui espèrent"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "en son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:14.844608515Z",
+  "model": "glm-4.5"
+}

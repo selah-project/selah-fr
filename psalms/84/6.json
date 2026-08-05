@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Heureux l'homme ⟨qui a⟩ en lui sa force, et en son cœur des chemins.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "⟨qui a⟩ en lui sa force"
+    },
+    {
+      "surface": "לו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "בך",
+      "gloss": "(dans toi)"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "des chemins"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "en son cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:38.254666867Z",
+  "model": "glm-4.5"
+}

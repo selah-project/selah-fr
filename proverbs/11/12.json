@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Mépriser son prochain, ⟨c'est⟩ manquer de cœur, mais un homme d'intelligences se tait.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "Mépriser"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "son prochain"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "⟨c'est⟩ manquer"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mais un homme"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "d'intelligences"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "se tait"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:17.300666108Z",
+  "model": "glm-4.5"
+}

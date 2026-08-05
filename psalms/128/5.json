@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 128,
+  "translation": "YHWH te bénira de Sion et tu verras ⟨le⟩ bien de Jérusalem tous les jours de ta vie",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "te bénira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et tu verras"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨le⟩ bien"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "de ta vie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:51:43.681709165Z",
+  "model": "glm-4.5"
+}

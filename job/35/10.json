@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et personne ne dit : où est Éloah, mon créateur, ⟨qui⟩ donne des chants dans la nuit ?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et personne ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "איה",
+      "gloss": "où est"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Éloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "mon créateur"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "des chants"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dans la nuit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:39.612462109Z",
+  "model": "glm-4.5"
+}

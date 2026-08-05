@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Que mon nefesh vive et il te louera, et tes jugements ⟨me⟩ aideront.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "Que vive"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon nefesh"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "et il te louera"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "et tes jugements"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "aideront"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:58.980637483Z",
+  "model": "glm-4.5"
+}

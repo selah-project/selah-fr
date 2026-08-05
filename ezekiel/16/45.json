@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Fille de ta mère, toi, tu rejettes ⟨את⟩ ton mari et ses fils, et sœur de tes sœurs, toi, qui rejetèrent ⟨את⟩ leurs maris et leurs fils, votre mère est une Hittite, et votre père un Amorite.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "de ta mère"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton mari et ses fils"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "tu rejettes"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ton mari"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "et ses fils"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "et sœur"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "de tes sœurs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs maris"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "rejetèrent"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "leurs maris"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "et leurs fils"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "votre mère"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "est une Hittite"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "et votre père"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "est un Amorite"
+    }
+  ],
+  "timestamp": "2026-08-04T23:26:03.829008002Z",
+  "model": "glm-4.5"
+}

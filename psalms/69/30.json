@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Et moi, affligé et souffrant, ta délivrance, ô Élohim, ⟨me⟩ élèvera",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "affligé"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "et souffrant"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ta délivrance"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "élèvera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:46.689326996Z",
+  "model": "glm-4.5"
+}

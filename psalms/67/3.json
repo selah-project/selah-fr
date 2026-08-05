@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 67,
+  "translation": "Pour que ⟨soient connus⟩ sur ⟨la⟩ terre ta voie, et ta délivrance parmi toutes ⟨les⟩ nations.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Pour que ⟨soient connus⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur ⟨la⟩ terre"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ta voie"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "parmi toutes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨les⟩ nations"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ta délivrance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:55:07.080066499Z",
+  "model": "glm-4.5"
+}

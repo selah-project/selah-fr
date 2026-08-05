@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Un peu de sommeil, un peu d'assoupissement, un peu de croisement des mains pour dormir",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Un peu de"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "sommeil"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un peu d'"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "assoupissement"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un peu de"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "croisement"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "des mains"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "pour dormir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:15.421073992Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "À toi le bras avec puissance ; forte est ta main, élevée ta droite.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "À toi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "le bras"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "puissance"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "forte est"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "élevée est"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta droite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:21.736214355Z",
+  "model": "glm-4.5"
+}

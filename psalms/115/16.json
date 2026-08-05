@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Les cieux, les cieux sont à YHWH, et la terre, Il l'a donnée aux fils de l'homme.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Les cieux"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sont à YHWH"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "et la terre"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Il l'a donnée"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:08.952601607Z",
+  "model": "glm-4.5"
+}

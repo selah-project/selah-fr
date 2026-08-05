@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et ils se confieront en toi, ceux qui connaissent ton nom, car tu n'as pas abandonné, YHWH, ceux qui te cherchent",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "Et ils se confieront"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ceux qui connaissent"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu n'as pas"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "abandonné"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ceux qui te cherchent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:25.940971052Z",
+  "model": "glm-4.5"
+}

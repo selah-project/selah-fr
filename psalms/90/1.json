@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Téfila de Moïse, l’homme de l’Élohim. Adonaï, refuge tu as été pour nous, de génération et génération.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Téfila"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "de Moïse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l’homme"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "de l’Élohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "refuge"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "as été"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "et génération"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:39.301073394Z",
+  "model": "glm-4.5"
+}

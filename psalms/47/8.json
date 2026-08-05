@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Car Élohim ⟨est⟩ roi de toute la terre, chantez ⟨un⟩ psaume avec intelligence.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "avec intelligence"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:01.224689884Z",
+  "model": "glm-4.5"
+}

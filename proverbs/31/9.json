@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Ouvre ta bouche, juge la justice, et ⟨le⟩ droit du pauvre et de l'indigent.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ouvre"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ta bouche"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "juge"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "et ⟨le⟩ droit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "du pauvre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et de l'indigent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:38.430129864Z",
+  "model": "glm-4.5"
+}

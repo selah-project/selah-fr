@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "L'homme sort ⟨pour⟩ son ouvrage, et pour son service jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "sort"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "L'homme"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "⟨pour⟩ son ouvrage"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "et pour son service"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "soir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:13.512304183Z",
+  "model": "glm-4.5"
+}

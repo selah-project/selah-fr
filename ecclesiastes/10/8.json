@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Celui qui creuse une fosse y tombera, et celui qui perce une clôture, un serpent le mordra",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Celui qui creuse"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "une fosse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "y"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tombera"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "et celui qui perce"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "une clôture"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "un serpent le mordra"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "un serpent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:09.279408652Z",
+  "model": "glm-4.5"
+}

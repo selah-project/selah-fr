@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Sur moi s'est appesantie ta fureur, et avec tous tes brisants tu m'as affligé Séla",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Sur moi"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "s'est appesantie"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ta fureur"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et avec tous"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "tes brisants"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "tu m'as affligé"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:38.241829786Z",
+  "model": "glm-4.5"
+}

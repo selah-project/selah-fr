@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Dans des pâturages d'herbe ⟨il⟩ me fait coucher, sur des eaux de repos ⟨il⟩ me conduit.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Dans des pâturages"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "d'herbe"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "⟨il⟩ me fait coucher"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מי",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "de repos"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "⟨il⟩ me conduit"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:58.929690090Z",
+  "model": "glm-4.5"
+}

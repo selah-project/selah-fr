@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Oracle de Ninive ; le séfer ⟨de⟩ la vision de Nahoum ⟨l⟩Elqoshi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Oracle"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "de Ninive"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le séfer"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "⟨de⟩ la vision"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "de Nahoum"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "⟨l⟩Elqoshi"
+    }
+  ],
+  "timestamp": "2026-08-05T00:33:29.460011124Z",
+  "model": "glm-4.5"
+}

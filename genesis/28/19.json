@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et il appela ⟨le⟩ nom ⟨du⟩ lieu-là Beit-El, or Luz ⟨était⟩ ⟨le⟩ nom ⟨de⟩ la ville ⟨au⟩ premier.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et il appela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "or"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Luz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ville"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "au premier"
+    }
+  ],
+  "timestamp": "2026-08-04T18:47:49.502552169Z",
+  "model": "glm-4.5"
+}

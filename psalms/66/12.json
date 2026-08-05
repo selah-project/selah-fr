@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Tu ⟨as⟩ fait chevaucher un humain sur notre tête, nous sommes entrés dans le feu et dans l'eau, et tu ⟨as⟩ fait sortir ⟨nous⟩ vers l'abondance",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Tu ⟨as⟩ fait chevaucher"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un humain"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "sur notre tête"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "nous sommes entrés"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dans le feu"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "et dans l'eau"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "et tu ⟨as⟩ fait sortir ⟨nous⟩"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "vers l'abondance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:34.797640376Z",
+  "model": "glm-4.5"
+}

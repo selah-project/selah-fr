@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Celui qui marche dans l'intégrité marchera en sécurité, et celui qui pervertit ses voies sera connu.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Celui qui marche"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "dans l'intégrité"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "marchera"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "en sécurité"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "et celui qui pervertit"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ses voies"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sera connu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:33.296780529Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "job 31:33",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Si j'ai couvert mes transgressions comme Adam, pour cacher ⟨mon⟩ iniquité dans ⟨mon⟩ sein",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "j'ai couvert"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "comme Adam"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mes transgressions"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "pour cacher"
+    },
+    {
+      "surface": "בחבי",
+      "gloss": "dans ⟨mon⟩ sein",
+      "marks": "dans ⟨mon⟩ sein"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "⟨mon⟩ iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T04:07:07.911478954Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "La nudité ⟨de⟩ la femme ⟨de⟩ ton frère tu ne découvriras pas ; c'est la nudité ⟨de⟩ ton frère.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "La nudité"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "⟨de⟩ la femme"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "⟨de⟩ ton frère"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "découvriras"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudité"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "⟨de⟩ ton frère"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:52.484818361Z",
+  "model": "glm-4.5"
+}

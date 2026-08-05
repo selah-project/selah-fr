@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Desolations sur eux, qu'ils descendent vivants au Shéol, car ⟨il y a⟩ des méfaits dans leur demeure, au milieu d'eux",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Desolations"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "qu'ils descendent"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "au Shéol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vivants"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "des méfaits"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "dans leur demeure"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "au milieu d'eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.488983514Z",
+  "model": "glm-4.5"
+}

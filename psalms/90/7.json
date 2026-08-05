@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Car nous sommes consumés par ta colère, et par ton courroux nous sommes épouvantés.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nous sommes consumés"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "par ta colère"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "et par ton courroux"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "nous sommes épouvantés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:28.157938027Z",
+  "model": "glm-4.5"
+}

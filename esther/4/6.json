@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et sortit Hathach vers Mardochée, vers la place de la ville, qui ⟨est⟩ devant la porte du roi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et sortit"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardochée"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "la place"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la porte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:58:16.269217467Z",
+  "model": "glm-4.5"
+}

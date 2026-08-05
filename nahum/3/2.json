@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Bruit de fouet, et bruit de tumulte ⟨de⟩ roue, et cheval galopant, et chariot bondissant.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Bruit"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "de fouet"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "et bruit"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "de tumulte"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "roue"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "et cheval"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "galopant"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "et chariot"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "bondissant"
+    }
+  ],
+  "timestamp": "2026-08-05T00:34:57.023366384Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Mitsrayim engendra ⟨את⟩ les Loudim, et ⟨את⟩ les Anamim, et ⟨את⟩ les Lehabim, et ⟨את⟩ les Naphtoukhim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "et Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Loudim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "les Loudim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "les Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "les Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Naphtoukhim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "les Naphtoukhim"
+    }
+  ],
+  "timestamp": "2026-08-05T05:44:38.938700895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Ta justice est comme les montagnes d'El, tes jugements ⟨sont⟩ ⟨un⟩ abîme profond, humain et bête ⟨tu⟩ sauves, YHWH",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ta justice"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "comme les montagnes de"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "⟨un⟩ abîme"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "profond"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "humain"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "et bête"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "⟨tu⟩ sauves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:21.144963514Z",
+  "model": "glm-4.5"
+}

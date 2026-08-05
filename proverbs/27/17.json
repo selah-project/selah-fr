@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Le fer aiguise le fer, et l'homme aiguise la face de son ami.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "le fer"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "aiguise le fer"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "aiguise"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et l'homme"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "aiguise"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "de son ami"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:18.751536660Z",
+  "model": "glm-4.5"
+}

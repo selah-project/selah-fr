@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Sion a entendu et s'est réjouie, et les filles de Juda se sont réjouies, à cause de tes jugements, YHWH.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Sion a entendu"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "et s'est réjouie"
+    },
+    {
+      "surface": "ציון",
+      "gloss": ""
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "et les filles de Juda se sont réjouies"
+    },
+    {
+      "surface": "בנות",
+      "gloss": ""
+    },
+    {
+      "surface": "יהודה",
+      "gloss": ""
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:56.837465008Z",
+  "model": "glm-4.5"
+}

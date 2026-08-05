@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "YHWH est loin des méchants, ⟨et⟩ la prière des justes, il l'entend.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "loin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "⟨et⟩ la prière"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "il l'entend"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:23.281791418Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Qui se tiennent dans la maison de YHWH, dans les parvis de la maison de notre Élohim.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "Qui se tiennent"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "dans les parvis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "de notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:14.637270551Z",
+  "model": "glm-4.5"
+}

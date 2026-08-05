@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Bon ⟨est⟩ pour moi la Torah de ta bouche, plus que des milliers d'or et d'argent.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "de ta bouche"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "plus que des milliers"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "et d'argent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.510664040Z",
+  "model": "glm-4.5"
+}

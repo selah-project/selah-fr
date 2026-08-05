@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Éprouve-moi, YHWH, sonde-moi, fais fondre ⟨mes⟩ reins et mon cœur.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "éprouve-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "sonde-moi"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "fais fondre"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "⟨mes⟩ reins"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "et mon cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:56.185559219Z",
+  "model": "glm-4.5"
+}

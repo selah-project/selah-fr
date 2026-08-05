@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Est-ce ⟨que⟩ ta méchanceté ⟨est⟩ abondante et ⟨il y a⟩ pas de fin ⟨à⟩ tes iniquités ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Est-ce ⟨que⟩"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ta méchanceté"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "abondante"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il y a⟩ pas"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "fin"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "⟨à⟩ tes iniquités"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:55.930513065Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Écoutez ⟨את⟩ les paroles de cette alliance et parlez-en ⟨à⟩ l'homme de Juda et aux habitants de Jérusalem",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les paroles de cette alliance"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "de cette alliance"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "et parlez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "aux habitants"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-04T16:17:23.701518673Z",
+  "model": "glm-4.5"
+}

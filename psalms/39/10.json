@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "J'étais muet, je n'ouvrais pas la bouche, car c'est Toi qui ⟨l'as⟩ fait.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "j'étais muet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'⟨ai pas⟩"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ouvert"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "c'est Toi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qui ⟨l'as⟩ fait"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:40.564863940Z",
+  "model": "glm-4.5"
+}

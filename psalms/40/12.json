@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Toi, YHWH, ne retiendra pas tes compassions de moi, ton hessed et ta vérité ⟨me⟩ garderont continuellement.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "retiendra"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tes compassions"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "et ta vérité"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "⟨me⟩ garderont"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:43.403187977Z",
+  "model": "glm-4.5"
+}

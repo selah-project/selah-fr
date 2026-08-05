@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Celui aux mains innocentes et au cœur pur, qui n'a pas élevé son nefesh vers la vanité, et n'a pas juré pour tromper.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "Celui innocent"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "aux mains"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "et ⟨au⟩ pur"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "cœur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "élevé"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "vers la vanité"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "son nefesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'a pas"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "juré"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "pour tromper"
+    }
+  ],
+  "timestamp": "2026-08-05T01:19:43.493836664Z",
+  "model": "glm-4.5"
+}

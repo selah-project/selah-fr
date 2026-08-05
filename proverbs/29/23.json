@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "L'orgueil d'un homme ⟨le⟩ rabaisse, mais humble d'esprit ⟨il⟩ soutient l'honneur.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "L'orgueil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "⟨le⟩ rabaisse"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "mais humble"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "d'esprit"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "⟨il⟩ soutient"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "l'honneur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:19.465969586Z",
+  "model": "glm-4.5"
+}

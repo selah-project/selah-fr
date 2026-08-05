@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 121,
+  "translation": "Un cantique des montées. Je lève mes yeux vers les montagnes : d'où ⟨viendra⟩ mon secours ?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Un cantique"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Je lève"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "d'où"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "⟨viendra⟩"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "mon secours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:59.622871510Z",
+  "model": "glm-4.5"
+}

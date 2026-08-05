@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Tes adversaires rugissent au milieu de ⟨tes⟩ assemblées, ils ont mis leurs signes comme signes.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "rugissent"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "Tes adversaires"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "⟨tes⟩ assemblées"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ils ont mis"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "leurs signes"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "comme signes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.981499909Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Par un vent d'est, tu brises ⟨את⟩ les navires de Tarsis.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Par un vent"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "d'est"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "tu brises"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les navires de Tarsis"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "les navires"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "de Tarsis"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:27.376394970Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Sur ⟨elle⟩, ⟨dites-la⟩ à vos fils, et vos fils ⟨la disent⟩ à leurs fils, et leurs fils ⟨la disent⟩ à la génération suivante.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Sur ⟨elle⟩"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "⟨dites-la⟩ à vos fils"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": ""
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "et vos fils"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "⟨la disent⟩ à leurs fils"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "et leurs fils"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "⟨la disent⟩ à la génération"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "suivante"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:19.472427973Z",
+  "model": "glm-4.5"
+}

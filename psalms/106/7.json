@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Nos pères en Égypte n'ont pas été prudents ⟨concernant⟩ tes merveilles, ils n'ont pas rappelé ⟨le⟩ multiple de ton hessed, et ils se rebellèrent sur ⟨la⟩ mer, sur ⟨la⟩ mer de Souf",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Nos pères"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'ont pas"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "été prudents"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "⟨concernant⟩ tes merveilles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'ont pas"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "rappelé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨le⟩ multiple de ton hessed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "⟨le⟩ multiple de"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "et ils se rebellèrent"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨la⟩ mer"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sur ⟨la⟩ mer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Souf"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:50.695468605Z",
+  "model": "glm-4.5"
+}

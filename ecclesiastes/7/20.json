@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car un homme, il n'y a pas de juste sur la terre qui fasse le bien et ne pèche pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "de juste"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fasse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "pèche pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:38.220115320Z",
+  "model": "glm-4.5"
+}

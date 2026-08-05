@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car celui que YHWH aime, il le reprend, et comme un père le fils en qui il prend plaisir",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "את",
+      "gloss": "celui que",
+      "marks": "אשר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "aime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "il le reprend"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "et comme un père"
+    },
+    {
+      "surface": "את",
+      "gloss": "le fils",
+      "marks": "בן"
+    },
+    {
+      "surface": "בן",
+      "gloss": ""
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "en qui il prend plaisir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:29.451094434Z",
+  "model": "glm-4.5"
+}

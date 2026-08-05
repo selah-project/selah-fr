@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Venez et voyez les œuvres d'Élohim, ⟨il est⟩ redoutable dans ⟨ses⟩ exploits envers les fils d'humain.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venez"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "et voyez"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "les œuvres"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "redoutable"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "⟨ses⟩ exploits"
+    },
+    {
+      "surface": "על",
+      "gloss": "envers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:37.712340122Z",
+  "model": "glm-4.5"
+}

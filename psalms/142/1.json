@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 142,
+  "translation": "Instruction de David, une prière ⟨lorsqu'il⟩ est dans la caverne.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Instruction"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "⟨lorsqu'il⟩"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "est dans la caverne"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "une prière"
+    }
+  ],
+  "timestamp": "2026-08-05T03:04:30.344893237Z",
+  "model": "glm-4.5"
+}

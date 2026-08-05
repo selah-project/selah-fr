@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car ainsi a dit YHWH : un son de tremblement nous avons entendu, de la terreur, et il n'y a ⟨pas⟩ de shalom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "un son"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "de tremblement"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nous avons entendu"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "de la terreur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de shalom"
+    }
+  ],
+  "timestamp": "2026-08-04T16:57:02.720828103Z",
+  "model": "glm-4.5"
+}

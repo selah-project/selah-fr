@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Qu'ils soient stupéfaits à cause de leur honte, ceux qui me disent : Hé ! Hé !",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Qu'ils soient stupéfaits"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "leur"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "honte"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ceux qui me disent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé !"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé !"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:46.474625396Z",
+  "model": "glm-4.5"
+}

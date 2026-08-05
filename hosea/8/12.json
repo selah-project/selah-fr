@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "J'écrirai pour lui les milliers de ma Torah, comme une chose étrange ils ont été comptés.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "j'écrirai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "les milliers"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "de ma Torah"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "זר",
+      "gloss": "une chose étrange"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ils ont été comptés"
+    }
+  ],
+  "timestamp": "2026-08-05T00:03:03.123612398Z",
+  "model": "glm-4.5"
+}

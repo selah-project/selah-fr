@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Elle a envoyé ses jeunes filles, elle crie sur les sommets de la ville.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "Elle a envoyé"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "ses jeunes filles"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "elle crie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "les sommets"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "de la hauteur"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "de la ville"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:46.468572931Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "J'ai haï l'assemblée des malfaiteurs et avec les méchants je ne ⟨siégerai⟩ pas",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "J'ai haï"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "des malfaiteurs"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et avec"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "je ⟨siégerai⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:54.795654167Z",
+  "model": "glm-4.5"
+}

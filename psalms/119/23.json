@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Même des princes s'assoient et parlent contre moi, mais ton serviteur médite sur tes statuts.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "s'assoient"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "des princes"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "parlent"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "médite"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sur tes statuts"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:10.290179774Z",
+  "model": "glm-4.5"
+}

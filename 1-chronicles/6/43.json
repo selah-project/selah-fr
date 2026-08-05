@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ⟨את⟩ Hilen et ⟨את⟩ ses pâturages, ⟨את⟩ Debir et ⟨את⟩ ses pâturages.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Hilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses pâturages"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ses pâturages"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses pâturages"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ses pâturages"
+    }
+  ],
+  "timestamp": "2026-08-05T05:47:01.548172631Z",
+  "model": "glm-5.2"
+}

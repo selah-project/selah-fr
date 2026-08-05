@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 19:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Mon souffle ⟨est⟩ étranger à ⟨ma⟩ femme, et mes supplications ⟨sont⟩ pour les fils de ⟨mon⟩ ventre.",
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "Mon souffle"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "⟨est⟩ étranger à"
+    },
+    {
+      "surface": "לאשתי",
+      "gloss": "⟨ma⟩ femme"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "et mes supplications"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pour les fils de"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "⟨mon⟩ ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:58:39.481791621Z",
+  "model": "glm-4.5"
+}

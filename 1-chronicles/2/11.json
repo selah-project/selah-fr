@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et Naḥshon engendra ⟨את⟩ Salma, et Salma engendra ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "וְנַחְשׁוֹן֙",
+      "gloss": "et Naḥshon"
+    },
+    {
+      "surface": "הוֹלִ֣יד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שַׂלְמָ֔א",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "וְשַׂלְמָ֖א",
+      "gloss": "et Salma"
+    },
+    {
+      "surface": "הוֹלִ֥יד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בֹּֽעַז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-05T06:46:40.185135549Z",
+  "model": "glm-5.2"
+}

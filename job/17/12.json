@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "La nuit ⟨pour⟩ jour, ils ⟨la⟩ placent, la lumière est proche devant les ténèbres.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "La nuit"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨pour⟩ jour"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ils ⟨la⟩ placent"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "est proche"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:56:46.968541896Z",
+  "model": "glm-4.5"
+}

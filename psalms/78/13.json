@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Il fendit ⟨la⟩ mer et ⟨les⟩ fit passer ⟨את⟩ ; et il fit tenir ⟨les⟩ eaux comme une vague.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "fendit"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨la⟩ mer"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "et ⟨les⟩ fit passer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨les⟩"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "et il fit tenir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨les⟩ eaux"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "נד",
+      "gloss": "une vague"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:26.360096320Z",
+  "model": "glm-4.5"
+}

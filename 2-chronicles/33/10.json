@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et YHWH parla à Menashsheh et à son peuple, et ils ne prêtèrent pas l'oreille.",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֧ר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "à"
+    },
+    {
+      "surface": "מְנַשֶּׁ֥ה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "עַמּ֖וֹ",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "הִקְשִֽׁיבוּ",
+      "gloss": "prêtèrent pas l'oreille"
+    }
+  ],
+  "timestamp": "2026-08-05T06:13:34.171824335Z",
+  "model": "glm-5.2"
+}

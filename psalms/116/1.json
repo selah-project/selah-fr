@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "J'aime, car YHWH entend ma voix, mes supplications",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "J'aime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "entend"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma voix"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mes supplications"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:55.291098240Z",
+  "model": "glm-4.5"
+}

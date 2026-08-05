@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et toi, tu hais la discipline, et tu jettes mes paroles derrière toi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "tu hais"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "la discipline"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "et tu jettes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mes paroles"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "derrière toi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:57.433391824Z",
+  "model": "glm-5.2"
+}

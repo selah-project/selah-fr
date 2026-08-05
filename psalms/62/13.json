@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "et à toi, Adonaï, le hessed, car toi, tu ⟨puises⟩ rendre à l'homme selon son œuvre.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "et à toi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "tu ⟨puises⟩ rendre"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à l'homme"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "selon son œuvre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:24.536040622Z",
+  "model": "glm-4.5"
+}

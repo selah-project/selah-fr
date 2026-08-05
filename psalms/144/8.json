@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Dont la bouche a parlé vanité, et leur droite, une droite de mensonge",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "la bouche"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "vanité"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "et leur droite"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "une droite"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:54.872072289Z",
+  "model": "glm-4.5"
+}

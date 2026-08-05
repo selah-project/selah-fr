@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Malheur à ceux qui disent au mal bon, et au bon mal, ⟨qui⟩ mettent les ténèbres pour la lumière et la lumière pour les ténèbres, ⟨qui⟩ mettent l'amer pour le doux et le doux pour l'amer.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "à ceux qui disent"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "au mal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "et au bon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨qui⟩ mettent"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "pour la lumière"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "et la lumière"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "pour les ténèbres"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨qui⟩ mettent"
+    },
+    {
+      "surface": "מר",
+      "gloss": "l'amer"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "pour le doux"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "et le doux"
+    },
+    {
+      "surface": "למר",
+      "gloss": "pour l'amer"
+    }
+  ],
+  "timestamp": "2026-08-04T22:24:20.576002454Z",
+  "model": "glm-4.5"
+}

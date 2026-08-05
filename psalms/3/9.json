@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "À YHWH ⟨le⟩ salut et sur ton peuple ta bénédiction Séla",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "À YHWH"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "⟨le⟩ salut"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ta bénédiction"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:59.575243443Z",
+  "model": "glm-4.5"
+}

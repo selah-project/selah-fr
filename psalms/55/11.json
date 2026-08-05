@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Jour et nuit ⟨ils⟩ font le tour sur ses murs, et ⟨la⟩ malice et ⟨le⟩ trouble en son sein.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Jour"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et nuit"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "font le tour"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "ses murs"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "et la malice"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "et le trouble"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "en son sein"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.677132814Z",
+  "model": "glm-4.5"
+}

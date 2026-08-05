@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "As-tu vu un homme sage à ses propres yeux ? Il y a plus d'espoir pour un sot que pour lui.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "As-tu vu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses propres yeux"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "espoir"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "pour un sot"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "que pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:23.317687212Z",
+  "model": "glm-4.5"
+}

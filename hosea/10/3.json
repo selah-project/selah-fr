@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Car maintenant ils diront : Point de roi pour nous, car nous n'avons pas craint ⟨את⟩ YHWH, et le roi, que ferait-il pour nous ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ils diront"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Point"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "de roi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nous n'avons pas"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "craint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "et le roi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ferait-il"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    }
+  ],
+  "timestamp": "2026-08-05T00:05:04.560108250Z",
+  "model": "glm-4.5"
+}

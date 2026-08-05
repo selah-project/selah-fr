@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Et ils sauront que c'est ⟨ta⟩ main, ⟨que⟩ toi, YHWH, tu l'as faite.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Et ils sauront"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "c'est ⟨ta⟩ main"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨que⟩ toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "tu l'as faite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:18.747943722Z",
+  "model": "glm-4.5"
+}

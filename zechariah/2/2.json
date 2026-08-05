@@ -1,0 +1,87 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et je dis au messager qui parlait en moi : que sont ceux-ci ? et il me dit : ce sont les cornes qui ont dispersé ⟨את⟩ Juda, ⟨את⟩ Israël et Jérusalem",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "et je dis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "le messager"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "parlant"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que sont"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ceux-ci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ce sont"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "les cornes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ont dispersé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "et Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T00:43:52.537820713Z",
+  "model": "glm-4.5"
+}

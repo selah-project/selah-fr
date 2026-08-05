@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et Yossef vit ⟨את⟩ ses frères et il les reconnut, et il se fit étranger auprès d'eux, et il leur parla avec dureté, et il leur dit : D'où venez-vous ? Et ils dirent : Du pays de Canaan pour acheter de la nourriture.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses frères"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ses frères"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "et il les reconnut"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "et il se fit étranger"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "auprès d'eux"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "et il parla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "avec dureté"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "D'où"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "venez-vous"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Du pays"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pour acheter"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "de la nourriture"
+    }
+  ],
+  "timestamp": "2026-08-04T18:51:00.265393369Z",
+  "model": "glm-4.5"
+}

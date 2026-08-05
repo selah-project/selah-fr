@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Qui ont pensé des maux dans le cœur, tout le jour ils ourdissent des guerres",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ont pensé"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "des maux"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dans le cœur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ils ourdissent"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "des guerres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:57.541945191Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Pour entendre le gémissement du prisonnier, pour délier ⟨les⟩ fils de la mort",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "pour entendre"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "le gémissement"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "du prisonnier"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "pour délier"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨les⟩ fils"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:25.835515281Z",
+  "model": "glm-4.5"
+}

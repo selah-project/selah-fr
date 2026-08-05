@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "La parole de YHWH qui ⟨est⟩ venue à Yoël fils de Petouel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "La parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨est⟩ venue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "de Petouel"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:19.472117416Z",
+  "model": "glm-4.5"
+}

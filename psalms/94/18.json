@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Si je dis : mon pied glisse, ton hessed, YHWH, me soutient.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "je dis"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mon pied glisse"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mon pied"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "me soutient"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:34.878067400Z",
+  "model": "glm-4.5"
+}

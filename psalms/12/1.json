@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Au chef de chant sur la huitième. Un psaume de David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chant"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "la huitième"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:30.794541289Z",
+  "model": "glm-4.5"
+}

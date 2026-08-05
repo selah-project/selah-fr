@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Heureux l'homme qui a fait de YHWH son refuge, et qui ne s'est pas tourné vers les arrogants, ni vers ceux qui se détournent vers le mensonge",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "son refuge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et qui ne"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "s'est tourné"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "les arrogants"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ni vers ceux qui se détournent"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "vers le mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:32.337316729Z",
+  "model": "glm-4.5"
+}

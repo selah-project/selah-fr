@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Il y a un mal que j'ai vu sous le soleil, comme une erreur ⟨qui⟩ sort de devant le dirigeant",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Il y a"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un mal"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "que j'ai vu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "comme une erreur"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "qui sort"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "le dirigeant"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:09.279038905Z",
+  "model": "glm-4.5"
+}

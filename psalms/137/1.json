@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 137,
+  "translation": "Sur les rivières de Babel, là nous ⟨nous⟩ sommes assis, ⟨aussi⟩ nous avons pleuré en nous souvenant de ⟨את⟩ Sion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "les rivières"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nous ⟨nous⟩ sommes assis"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨aussi⟩"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "nous avons pleuré"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "en nous souvenant de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:52.399719474Z",
+  "model": "glm-4.5"
+}

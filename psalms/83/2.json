@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Élohim, ne garde pas le silence pour toi ; ne te tais pas, et ne te repose pas, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim,"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "garde pas le silence"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi ;"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "te tais pas,"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "te repose pas,"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El."
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:40.614496266Z",
+  "model": "glm-4.5"
+}

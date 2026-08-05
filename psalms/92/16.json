@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Pour déclarer que YHWH est droit, mon rocher, et ⟨qu'il n'y a⟩ pas d'iniquité en lui.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Pour déclarer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "est droit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨qu'il n'y a⟩ pas"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "d'iniquité"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:07.042981575Z",
+  "model": "glm-4.5"
+}

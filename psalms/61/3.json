@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 61,
+  "translation": "Du bout de la terre je crie vers toi ⟨quand⟩ mon cœur est défaillant ; mène-moi sur le rocher qui est plus haut que moi",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Du bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "⟨quand⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sur le rocher"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "qui est plus haut"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "que moi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "mène-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:50:31.566050701Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tourne-toi vers moi et use de grâce envers moi, selon le jugement ⟨envers ceux qui⟩ aiment ton Nom.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Tourne-toi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "et use de grâce envers moi"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "selon le jugement"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "⟨envers ceux qui⟩ aiment"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton Nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:24.068904122Z",
+  "model": "glm-4.5"
+}

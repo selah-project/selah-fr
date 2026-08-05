@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Le méchant désire le filet des méchants, mais la racine des justes donne.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "désire"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨Le⟩ méchant"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "le filet"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "mais la racine"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donne"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:19.010630996Z",
+  "model": "glm-4.5"
+}

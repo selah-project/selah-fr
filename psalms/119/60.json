@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Je me suis hâté et n'ai pas hésité à garder tes commandements.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "Je me suis hâté"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'ai pas"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "hésité"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "garder"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tes commandements"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:17.648898971Z",
+  "model": "glm-4.5"
+}

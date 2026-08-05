@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Notre héritage s'est tourné ⟨vers⟩ des étrangers, nos maisons ⟨vers⟩ des inconnus.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "Notre héritage"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "s'est tourné"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "vers des étrangers"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "nos maisons"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "vers des inconnus"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:55.490611112Z",
+  "model": "glm-4.5"
+}

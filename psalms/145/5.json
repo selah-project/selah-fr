@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "La splendeur de la gloire de ta majesté, et les paroles de tes merveilles, je méditerai.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "splendeur"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloire"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "de ta majesté"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "et les paroles de"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tes merveilles"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "je méditerai"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:49.494303995Z",
+  "model": "glm-4.5"
+}

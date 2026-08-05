@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 67,
+  "translation": "Au chef des chantres, avec instruments à cordes, un psaume, un chant.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "avec instruments à cordes"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    }
+  ],
+  "timestamp": "2026-08-05T01:55:07.079697186Z",
+  "model": "glm-4.5"
+}

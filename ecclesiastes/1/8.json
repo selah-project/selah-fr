@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Toutes les paroles sont fatiguantes ; un homme ne peut pas parler ; l'œil ne se rassasie pas de voir, et l'oreille ne se remplit pas d'entendre.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "sont fatiguantes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "peut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "parler"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "se rassasie"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'œil"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "de voir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "se remplit"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'oreille"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "d'entendre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:50.760840411Z",
+  "model": "glm-4.5"
+}

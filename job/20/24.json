@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Il fuira devant ⟨une⟩ arme de fer, ⟨un⟩ arc de bronze le transpercera.",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "Il fuira"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "devant ⟨une⟩ arme"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fer"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "⟨un⟩ arc"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "de bronze"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "le transpercera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:40.180287519Z",
+  "model": "glm-4.5"
+}

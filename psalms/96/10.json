@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Dites parmi les nations : YHWH ⟨est⟩ Roi, aussi ⟨le⟩ monde est fermement établi, il ne chancellera pas, Il juge les peuples avec droiture",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dites"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨est⟩ Roi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨le⟩ monde est fermement établi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "monde"
+    },
+    {
+      "surface": "בל",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "chancellera pas"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "Il juge"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "avec droiture"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:16.215095267Z",
+  "model": "glm-4.5"
+}

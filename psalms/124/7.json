@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 124,
+  "translation": "Notre nefesh s'est échappée comme un oiseau ⟨du⟩ piège des oiseleurs ; le piège s'est brisé, et nous nous sommes échappés",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "notre nefesh"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "comme un oiseau"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "s'est échappée"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "⟨du⟩ piège"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "des oiseleurs"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "le piège"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "s'est brisé"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "et nous"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "nous sommes échappés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:00.335430912Z",
+  "model": "glm-4.5"
+}

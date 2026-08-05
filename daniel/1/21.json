@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Daniel ⟨fut⟩ jusqu'à la première année de ⟨le⟩ roi Cyrus",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et ⟨fut⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "la ... année"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "première"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "de Cyrus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:05:16.117505561Z",
+  "model": "glm-4.5"
+}

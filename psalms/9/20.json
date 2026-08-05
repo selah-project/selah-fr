@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Lève-toi, YHWH, que l'homme ne s'assure pas, que les nations soient jugées devant ta face.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que ne"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "s'assure"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "soient jugées"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "על",
+      "gloss": "devant"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:38.347255744Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 110,
+  "translation": "Le sceptre de ta force, YHWH l'enverra de Sion : Domine au milieu de tes ennemis.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "Le sceptre"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "de ta force"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "YHWH l'enverra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Domine"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "de tes ennemis"
+    }
+  ],
+  "timestamp": "2026-08-05T02:35:54.084788321Z",
+  "model": "glm-4.5"
+}

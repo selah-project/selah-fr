@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "En ses jours Édom s'est rebellé de sous la main de Juda et ⟨ils⟩ ont fait régner sur eux un roi",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "En ses jours"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "s'est rebellé"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "de sous"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la main"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "et ⟨ils⟩ ont fait régner"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un roi"
+    }
+  ],
+  "timestamp": "2026-08-04T22:20:39.392333235Z",
+  "model": "glm-4.5"
+}

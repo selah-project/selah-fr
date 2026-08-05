@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "En tout temps que tes vêtements soient blancs, et que l'huile ne manque pas sur ta tête.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "En tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "temps"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "que"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "soient"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "blancs tes vêtements"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "et que l'huile"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ta tête"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "manque pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:41:54.731916701Z",
+  "model": "glm-4.5"
+}

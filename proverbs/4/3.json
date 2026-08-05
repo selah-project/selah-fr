@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car j'étais fils pour mon père, tendre et unique devant ma mère",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'étais"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "pour mon père"
+    },
+    {
+      "surface": "רך",
+      "gloss": "tendre"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "et unique"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ma mère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:15:08.654061872Z",
+  "model": "glm-4.5"
+}

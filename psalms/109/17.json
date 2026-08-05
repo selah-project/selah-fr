@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Et il aima ⟨la⟩ malédiction, et elle lui est arrivée ; et il n’a pas pris plaisir ⟨à⟩ ⟨la⟩ bénédiction, et elle s’est tenue loin de lui.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Et il aima"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "malédiction"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "et elle lui est arrivée"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il n’a pas"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "pris plaisir"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "bénédiction"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "et elle s’est tenue loin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:38.916312814Z",
+  "model": "glm-4.5"
+}

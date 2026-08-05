@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "Adonaï, écoute ma voix, que tes oreilles soient attentives à la voix de ma supplication.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "qu'elles soient"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "tes oreilles"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "attentives"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "à la voix"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "de ma supplication"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:31.724417337Z",
+  "model": "glm-4.5"
+}

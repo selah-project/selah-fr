@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "YHWH garde ⟨את⟩ tous ceux qui l'aiment, et ⟨את⟩ tous les méchants, il les détruira.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous ceux qui l'aiment"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ceux qui l'aiment"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tous les méchants"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "il les détruira"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:53.057595672Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Plus que les anciens je discerne, car tes ordonnances j'ai gardées",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Plus que les anciens"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "je discerne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tes ordonnances"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "j'ai gardées"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:49.291414114Z",
+  "model": "glm-4.5"
+}

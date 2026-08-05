@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Après cela Iyov ouvrit ⟨את⟩ sa bouche et maudit ⟨את⟩ son jour.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Après cela"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ouvrit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bouche"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa bouche"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "et maudit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son jour"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "son jour"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:20.136684803Z",
+  "model": "glm-4.5"
+}

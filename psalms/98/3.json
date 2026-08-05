@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "Il s'est souvenu de son hessed et de sa fidélité envers la maison d'Israël ; toutes les extrémités de la terre ont vu ⟨את⟩ la délivrance de notre Élohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Il s'est souvenu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "de son hessed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "et de sa fidélité"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "envers la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ont vu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "les extrémités"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la délivrance de notre Élohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "la délivrance"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "de notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:40.304239276Z",
+  "model": "glm-4.5"
+}

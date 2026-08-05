@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et il les sauva de la main de celui qui les détestait, et il les racheta de la main de l'ennemi.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Et il les sauva"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "de celui qui les détestait"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "et il les racheta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de l'ennemi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:04.676666508Z",
+  "model": "glm-4.5"
+}

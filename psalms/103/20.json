@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Bénissez YHWH, ses messagers, les forts en vigueur, exécutants de sa parole, pour écouter à la voix de sa parole",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bénissez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ses messagers"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "les forts"
+    },
+    {
+      "surface": "כח",
+      "gloss": "en vigueur"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "exécutants"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "de sa parole"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pour écouter"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "à la voix"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "de sa parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:40.881288637Z",
+  "model": "glm-4.5"
+}

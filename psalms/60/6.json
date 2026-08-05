@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Tu as donné ⟨un⟩ étendard ⟨à⟩ tes craintifs pour s'élever en signe de vérité Sélah",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Tu as donné"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "⟨à⟩ tes craintifs"
+    },
+    {
+      "surface": "נס",
+      "gloss": "⟨un⟩ étendard"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "pour s'élever"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "en signe de"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "vérité"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:57.716420799Z",
+  "model": "glm-4.5"
+}

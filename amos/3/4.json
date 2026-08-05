@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un lion rugira-t-il dans la forêt quand il n'a pas de proie ? Un lionceau donnera-t-il sa voix de sa tanière sans avoir rien capturé ?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "rugira-t-il"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "un lion"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "dans la forêt"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "et"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "il"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "donnera-t-il"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "un lionceau"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "de sa tanière"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "avoir capturé"
+    }
+  ],
+  "timestamp": "2026-08-05T00:15:51.992972554Z",
+  "model": "glm-4.5"
+}

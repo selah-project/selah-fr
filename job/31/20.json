@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "si ses reins ne m'ont pas béni, s'il ne s'est pas réchauffé de la toison de mes moutons",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... ⟨pas⟩"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "ont béni"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "ses reins"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "et de la toison"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "de mes moutons"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "s'est réchauffé"
+    }
+  ],
+  "timestamp": "2026-08-05T04:07:17.714559916Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Moi, ⟨le⟩ homme, ⟨qui a⟩ vu la misère dans ⟨le⟩ bâton de sa fureur",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨le⟩ homme"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "⟨qui a⟩ vu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "la misère"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "dans ⟨le⟩ bâton"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "de sa fureur"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:46.460147724Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un oiseau tombera-t-il ⟨dans⟩ un piège sur la terre, ⟨alors⟩ qu'il n'y a ⟨pas⟩ de filet pour lui ? Un piège s'élèvera-t-il du sol, et n'aura rien pris ?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "tombera-t-il"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "un oiseau"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פח",
+      "gloss": "un piège"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "et filet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "s'élèvera-t-il"
+    },
+    {
+      "surface": "פח",
+      "gloss": "un piège"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sol"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "et pris"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'aura"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "rien"
+    }
+  ],
+  "timestamp": "2026-08-05T00:15:55.726376875Z",
+  "model": "glm-4.5"
+}

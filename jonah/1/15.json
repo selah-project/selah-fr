@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et ils soulevèrent ⟨את⟩ Yonah et le jetèrent vers la mer, et la mer s'arrêta de sa fureur.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Et soulevèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "et le jetèrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "et s'arrêta"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "de sa fureur"
+    }
+  ],
+  "timestamp": "2026-08-05T00:22:29.526854369Z",
+  "model": "glm-4.5"
+}

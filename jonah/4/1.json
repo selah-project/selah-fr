@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et il ⟨fut⟩ mauvais pour Jonas ⟨un⟩ mal ⟨très⟩ grand et il ⟨s'⟩irrita pour lui",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "et il fut mauvais"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pour"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un mal"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "très grand"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "et il s'irrita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T00:24:54.198225123Z",
+  "model": "glm-4.5"
+}

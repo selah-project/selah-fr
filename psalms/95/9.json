@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "où vos pères m'ont tenté, m'ont éprouvé, ⟨et ont⟩ vu ⟨mes⟩ œuvres.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "m'ont tenté"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "m'ont éprouvé"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨et ont⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "⟨mes⟩ œuvres"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:10.161622155Z",
+  "model": "glm-4.5"
+}

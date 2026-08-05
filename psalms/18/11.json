@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il chevaucha sur un keroub, et vola, et il plana sur les ailes du Rouah.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Et il chevaucha"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "un keroub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "et vola"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "et il plana"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "les ailes"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "du Rouah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:48.980249358Z",
+  "model": "glm-4.5"
+}

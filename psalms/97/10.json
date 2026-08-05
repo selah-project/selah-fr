@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Vous qui aimez YHWH, haïssez ⟨le⟩ mal, gardien des nefesh de ses fidèles, il les délivre de la main des méchants.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "vous qui aimez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "haïssez"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gardien"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "des nefesh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "de ses fidèles"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "il les délivre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:47.331285223Z",
+  "model": "glm-4.5"
+}

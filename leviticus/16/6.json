@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Aaron fera approcher ⟨את⟩ le taureau du sacrifice pour le péché qui est ⟨le⟩ sien, et il expiera pour lui, et pour sa maison",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "et fera approcher"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau du sacrifice pour le péché"
+    },
+    {
+      "surface": "פר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "du sacrifice pour le péché"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨le⟩ sien"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "et il expiera"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "et pour"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:32.727258408Z",
+  "model": "glm-4.5"
+}

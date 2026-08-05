@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Qui disent ⟨de⟩ toi pour méchanceté, ⟨tes⟩ ennemis le prennent pour vanité.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "disent"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "pour méchanceté"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "le prennent"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "pour vanité"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "⟨tes⟩ ennemis"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:43.562818854Z",
+  "model": "glm-4.5"
+}

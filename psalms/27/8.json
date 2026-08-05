@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "À toi mon cœur a dit : « Cherchez ma face », ⟨את⟩ ta face, YHWH, je chercherai",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "À toi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Cherchez"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ma face"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta face"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "je chercherai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:42.075086512Z",
+  "model": "glm-4.5"
+}

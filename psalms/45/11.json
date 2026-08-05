@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Écoute, fille, et regarde, et incline ton oreille ; oublie ton peuple et la maison de ton père.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "et regarde"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "et incline"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "oublie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "et la maison"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "de ton père"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:25.631062427Z",
+  "model": "glm-4.5"
+}

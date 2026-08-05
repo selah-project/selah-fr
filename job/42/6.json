@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "C'est pourquoi je me déteste et je me console sur la poussière et la cendre.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "je me déteste"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "et je me console"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la poussière"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "et la cendre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:44.916915892Z",
+  "model": "glm-4.5"
+}

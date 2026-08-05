@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Plus que mes ennemis tu me rends sage par tes mitzvot, car elles sont toujours avec moi",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Plus que mes ennemis"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "tu me rends sage"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "par tes mitzvot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "toujours"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elles"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sont avec moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:49.291178500Z",
+  "model": "glm-4.5"
+}

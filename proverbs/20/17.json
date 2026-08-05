@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Doux est pour l'homme ⟨un⟩ pain de mensonge, et ensuite sa bouche sera remplie de gravier.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "doux"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pour l'homme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨un⟩ pain"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "et ensuite"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "sera remplie"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa bouche"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "de gravier"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:26.722412996Z",
+  "model": "glm-4.5"
+}

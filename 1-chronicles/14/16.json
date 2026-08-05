@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et David fit comme lui avait commandé Élohim, et ils frappèrent ⟨את⟩ le camp des Pelishtim, de Givôn jusqu'à Gézer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "lui avait commandé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et ils frappèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le camp"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "le camp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Pelishtim"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "de Givôn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gézer"
+    }
+  ],
+  "timestamp": "2026-08-05T05:51:10.542156244Z",
+  "model": "glm-5.2"
+}

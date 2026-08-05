@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Car leurs pieds courent vers le mal, et ils se hâtent de verser le sang",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "leurs pieds"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "vers le mal"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "courent"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "et ils se hâtent"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "de verser"
+    },
+    {
+      "surface": "דם",
+      "gloss": "le sang"
+    }
+  ],
+  "timestamp": "2026-08-05T03:11:01.871832270Z",
+  "model": "glm-4.5"
+}

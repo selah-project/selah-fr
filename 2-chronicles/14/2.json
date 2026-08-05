@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et il ôta ⟨את⟩ les autels de l'étranger et ⟨את⟩ les hauts lieux ; et il brisa ⟨את⟩ les stèles et il coupa ⟨את⟩ les Ashérim.",
+  "tokens": [
+    {
+      "surface": "וַיָּסַר",
+      "gloss": "et il ôta"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "les autels"
+    },
+    {
+      "surface": "מִזְבְּחֹת",
+      "gloss": "les autels"
+    },
+    {
+      "surface": "הַנֵּכָר",
+      "gloss": "de l'étranger"
+    },
+    {
+      "surface": "וְהַבָּמוֹת",
+      "gloss": "et les hauts lieux"
+    },
+    {
+      "surface": "וַיְשַׁבֵּר",
+      "gloss": "et il brisa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les stèles"
+    },
+    {
+      "surface": "הַמַּצֵּבוֹת",
+      "gloss": "les stèles"
+    },
+    {
+      "surface": "וַיְגַדַּע",
+      "gloss": "et il coupa"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "les Ashérim"
+    },
+    {
+      "surface": "הָאֲשֵׁרִים",
+      "gloss": "les Ashérim"
+    }
+  ],
+  "timestamp": "2026-08-05T06:04:38.364402997Z",
+  "model": "glm-5.2"
+}

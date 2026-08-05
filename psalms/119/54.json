@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tes statuts ont été mes chants ⟨dans⟩ la maison de mon séjour.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "chants"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ont été"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mes"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes statuts"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨dans⟩ la maison"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "de mon séjour"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:14.941995035Z",
+  "model": "glm-4.5"
+}

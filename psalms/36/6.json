@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "YHWH, dans les cieux, est ton hessed, ta fidélité ⟨jusqu'⟩ aux nuées",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "est ton hessed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ta fidélité"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨jusqu'⟩"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "aux nuées"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:21.144862065Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Les idoles des nations ⟨sont⟩ argent et or, ouvrage des mains de l'humain.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "les idoles"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "or"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ouvrage"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "des mains"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.974606619Z",
+  "model": "glm-4.5"
+}

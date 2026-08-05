@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Je suis un résident-étranger dans ⟨le⟩ pays, ne me cache pas tes commandements.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "résident-étranger"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "cache"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tes commandements"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:46.950104716Z",
+  "model": "glm-4.5"
+}

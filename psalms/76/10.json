@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Au lever ⟨de⟩ l'Élohim ⟨pour⟩ le jugement, pour sauver tous les humbles du pays, Séla.",
+  "tokens": [
+    {
+      "surface": "בְּקוּם",
+      "gloss": "Au lever"
+    },
+    {
+      "surface": "לַמִּשְׁפָּט",
+      "gloss": "⟨pour⟩ le jugement"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "לְהוֹשִׁיעַ",
+      "gloss": "pour sauver"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עַנְוֵי",
+      "gloss": "les humbles"
+    },
+    {
+      "surface": "אֶרֶץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "סֶלָה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:15.570495418Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et tu l'as fait manquer un peu de Élohim, et de gloire et de splendeur tu l'as couronné.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Et tu l'as fait manquer"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un peu"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "de Élohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "et de gloire"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "et de splendeur"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "tu l'as couronné"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:02.308601171Z",
+  "model": "glm-4.5"
+}

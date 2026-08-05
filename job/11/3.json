@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Tes vaines paroles feront taire ⟨les⟩ hommes, et tu te moques, et ⟨il n'y a⟩ personne qui ⟨te⟩ fasse honte",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "Tes vaines paroles"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "feront taire ⟨les⟩ hommes"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "feront taire"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "et tu te moques"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il n'y a⟩"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "personne qui ⟨te⟩ fasse honte"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:18.675453416Z",
+  "model": "glm-4.5"
+}

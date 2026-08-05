@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Celui qui réside dans le secret du Très-Haut lodgera ⟨à⟩ l'ombre de Shaddaï.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Celui qui réside"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dans le secret"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "du Très-Haut"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "lodgera ⟨à⟩ l'ombre"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "de Shaddaï"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "lodgera"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:15.186298939Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Jusqu'à quand y a-t-il ⟨est-ce⟩ dans le cœur des prophètes, prophétisant ⟨את⟩ le mensonge, et prophètes de la tromperie de leur cœur ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jusqu'à quand"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jusqu'à quand"
+    },
+    {
+      "surface": "היש",
+      "gloss": "y a-t-il ⟨est-ce⟩"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dans le cœur"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "des prophètes"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "prophétisant"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "⟨את⟩",
+      "marks": "le mensonge"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "et prophètes"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "de la tromperie"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "de leur cœur"
+    }
+  ],
+  "timestamp": "2026-08-04T16:30:59.093280455Z",
+  "model": "glm-4.5"
+}

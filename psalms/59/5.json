@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Sans ⟨une⟩ faute ils courent et se préparent, réveille-toi pour me rencontrer et regarde.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "Sans"
+    },
+    {
+      "surface": "עון",
+      "gloss": "⟨une⟩ faute"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ils courent"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "et se préparent"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "réveille-toi"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "pour me rencontrer"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et regarde"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:24.520390595Z",
+  "model": "glm-4.5"
+}

@@ -1,31 +1,31 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 33,
   "ref": "genesis 21:33",
   "book": "genesis",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et il planta un tamaris à Beer-Sheva, et il invoqua là le nom de YHWH, El l'Éternel.",
+  "translation": "Et ⟨il⟩ planta un tamarisk à Beer-Shéva, et invoqua là le Nom de YHWH, El Olam.",
   "tokens": [
     {
       "surface": "ויטע",
-      "gloss": "et il planta"
+      "gloss": "et planta"
     },
     {
       "surface": "אשל",
-      "gloss": "un tamaris"
+      "gloss": "un tamarisk"
     },
     {
       "surface": "בבאר",
-      "gloss": "à Beer"
+      "gloss": "à Beer-"
     },
     {
       "surface": "שבע",
-      "gloss": "Sheva"
+      "gloss": "Shéva"
     },
     {
       "surface": "ויקרא",
-      "gloss": "et il invoqua"
+      "gloss": "et invoqua"
     },
     {
       "surface": "שם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בשם",
-      "gloss": "le nom de"
+      "gloss": "le Nom de"
     },
     {
       "surface": "יהוה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "l'Éternel"
+      "gloss": "Olam"
     }
   ],
-  "timestamp": "2026-08-04T05:27:39.776410861Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:11.462253094Z",
+  "model": "glm-5.2"
 }

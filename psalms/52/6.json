@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Tu as aimé ⟨toutes⟩ les paroles de dévoration, langue de tromperie.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Tu as aimé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨toutes⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles de"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "dévoration"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "langue"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "de tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:06.984142356Z",
+  "model": "glm-4.5"
+}

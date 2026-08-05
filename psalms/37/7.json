@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Tais-toi ⟨devant⟩ YHWH et espère ⟨en⟩ Lui ne t'irrite pas ⟨à cause de⟩ celui qui réussit sa route ⟨à cause de⟩ l'homme ⟨qui fait⟩ des machinations",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "tais-toi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "devant YHWH"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "et espère"
+    },
+    {
+      "surface": "לו",
+      "gloss": "en Lui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "t'irrite pas"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "à cause de celui qui réussit"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa route"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "à cause de l'homme"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qui fait"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "des machinations"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:48.542776189Z",
+  "model": "glm-4.5"
+}

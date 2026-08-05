@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Or il advint, eux étant sur ⟨la⟩ route, et ⟨le⟩ rapport vint à David, disant : Absalom a frappé ⟨את⟩ tous les fils du roi, et il n'est pas resté d'eux un seul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Or il advint"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eux"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur ⟨la⟩ route"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "et ⟨le⟩ rapport"
+    },
+    {
+      "surface": "באה",
+      "gloss": "vint"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a frappé"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les fils du roi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il n'est pas"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "resté"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un seul"
+    }
+  ],
+  "timestamp": "2026-08-04T22:11:09.946257698Z",
+  "model": "glm-4.5"
+}

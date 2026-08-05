@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Et toi, YHWH, pour l'éternité ⟨tu⟩ sièges, et ton mémoire, de génération en génération.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour l'éternité"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "⟨tu⟩ sièges"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "et ton mémoire"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:51.823423918Z",
+  "model": "glm-4.5"
+}

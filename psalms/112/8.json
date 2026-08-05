@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "Soutenu est son cœur, il ne craindra pas, jusqu'à ce qu'il voie ⟨son désir⟩ sur ses adversaires.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "Soutenu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne ... pas"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "craindra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "il"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "voie"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "sur ses adversaires"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:44.849696737Z",
+  "model": "glm-4.5"
+}

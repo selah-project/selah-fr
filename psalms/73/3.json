@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Car j’ai été jaloux des insensés, voyant la paix des méchants.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "j’ai été jaloux"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "des insensés"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la paix"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "voyant"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:10.349664608Z",
+  "model": "glm-4.5"
+}

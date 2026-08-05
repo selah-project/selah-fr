@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Oui, la tsedeqah est pour la vie ; et poursuivre le mal ⟨est⟩ pour sa mort.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Oui"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "la tsedeqah"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "est pour la vie"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "et poursuivre"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "⟨est⟩ pour sa mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:25.894467092Z",
+  "model": "glm-4.5"
+}

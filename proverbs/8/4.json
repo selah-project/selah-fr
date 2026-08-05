@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "C'est vous, ô hommes, que j'appelle, et ma voix s'adresse aux fils d'Adam.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "C'est vous"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ô hommes"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "que j'appelle"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "et ma voix"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s'adresse à"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aux fils de"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:44.238158477Z",
+  "model": "glm-4.5"
+}

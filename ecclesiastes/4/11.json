@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Aussi, s'ils couchent ⟨deux⟩, ils auront chaud ; mais comment aura chaud ⟨le seul⟩ ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ils couchent"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "deux"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "et il y aura de la chaleur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "mais pour le seul"
+    },
+    {
+      "surface": "איך",
+      "gloss": "comment"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "aura-t-il chaud"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:28.427757328Z",
+  "model": "glm-4.5"
+}

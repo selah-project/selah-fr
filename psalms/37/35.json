@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "J'ai vu le méchant violent, et il se déployait comme un arbre indigène verdoyant.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "J'ai vu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "violent"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "et il se déployait"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "comme un arbre indigène"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "verdoyant"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:02.935837612Z",
+  "model": "glm-5.2"
+}

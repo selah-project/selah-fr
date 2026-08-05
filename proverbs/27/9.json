@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "L'huile et ⟨le⟩ parfum réjouissent le cœur, et la douceur de son ami ⟨vient⟩ du conseil de la nefesh.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "L'huile"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "et ⟨le⟩ parfum"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "réjouissent"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "et la douceur"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "de son ami"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "du conseil"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "de la nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:23.129347582Z",
+  "model": "glm-4.5"
+}

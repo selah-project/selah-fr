@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Que le mont de Sion se réjouisse, que les filles de Yehoudah exultent, à cause de tes jugements.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Que ... se réjouisse"
+    },
+    {
+      "surface": "הר",
+      "gloss": "le mont"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "que ... exultent"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "les filles"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehoudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:39.143652260Z",
+  "model": "glm-4.5"
+}

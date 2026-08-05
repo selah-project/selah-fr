@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Il y a une génération qui maudit son père, et qui ne bénit pas ⟨sa⟩ mère.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "une génération"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "qui maudit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa mère"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bénit pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:16.370023150Z",
+  "model": "glm-4.5"
+}

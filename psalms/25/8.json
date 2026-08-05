@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Bon et droit ⟨est⟩ YHWH ; c'est pourquoi il instruit les pécheurs dans la voie.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "et droit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨alors⟩"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "il instruit"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "les pécheurs"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la voie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:23.461453735Z",
+  "model": "glm-4.5"
+}

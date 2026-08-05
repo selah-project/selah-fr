@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Élimélek, le mari de Naomi, mourut ; et elle resta, elle et ses deux fils.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Élimélek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "le mari"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "de Naomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "et elle resta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "et ses deux"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fils"
+    }
+  ],
+  "timestamp": "2026-08-05T04:24:07.747328951Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Nos signes, nous ne ⟨les⟩ voyons ⟨pas⟩ ; il n'y a plus de prophète, et personne parmi nous ne sait jusqu'à quand.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "nos signes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nous ne ⟨les⟩ voyons"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "de prophète"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et personne"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "parmi nous"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ne sait"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quand"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:31.593815601Z",
+  "model": "glm-4.5"
+}

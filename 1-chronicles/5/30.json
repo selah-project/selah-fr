@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Eléazar engendra ⟨את⟩ Pinéhas, Pinéhas engendra ⟨את⟩ Avichoua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Eléazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinéhas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinéhas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinéhas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avichoua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avichoua"
+    }
+  ],
+  "timestamp": "2026-08-05T05:46:18.367826880Z",
+  "model": "glm-5.2"
+}

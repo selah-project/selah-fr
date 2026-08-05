@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Celui qui déploie les cieux ⟨tout⟩ seul, et qui marche sur les hauteurs de la mer.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Celui qui déploie"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "seul"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "et qui marche"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "les hauteurs de"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:44.912948534Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Qu'il en soit ainsi de ta main pour ⟨m'aider⟩, car j'ai choisi tes préceptes.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Qu'il en soit ainsi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "pour ⟨m'aider⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tes préceptes"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "j'ai choisi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:58.980286626Z",
+  "model": "glm-4.5"
+}

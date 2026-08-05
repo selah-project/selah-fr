@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Pourquoi as-tu brisé ses clôtures, et la ravagent tous les passants de la route",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "as-tu brisé"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ses clôtures"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "et la ravagent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "les passants"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de la route"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:05.461211037Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "Ils se rassemblent, ils se cachent, ils observent mes talons pendant qu'ils ⟨attendent⟩ ma nefesh.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "ils se rassemblent"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "ils se cachent"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mes talons"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "observent"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pendant que"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "⟨attendent⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:07.635788230Z",
+  "model": "glm-4.5"
+}

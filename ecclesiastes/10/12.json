@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Les paroles de la bouche du sage sont grâce, mais les lèvres du sot l'engloutiront.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Les paroles"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de la bouche"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "du sage"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sont grâce"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "mais les lèvres"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "du sot"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "l'engloutiront"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:10.642746134Z",
+  "model": "glm-4.5"
+}

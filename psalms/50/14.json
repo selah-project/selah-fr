@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Sacrifie à Élohim ⟨la⟩ louange, et acquitte ⟨ton⟩ vœu ⟨au⟩ Elyon.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Sacrifie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "à Élohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "⟨la⟩ louange"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "et acquitte"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "⟨au⟩ Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "⟨ton⟩ vœu"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:03.528681151Z",
+  "model": "glm-4.5"
+}

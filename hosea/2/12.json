@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et maintenant je dévoilerai ⟨את⟩ son infamie aux yeux de ses amants, et nul homme ne la délivrera de ma main.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "je dévoilerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son infamie"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "son infamie"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "aux yeux de"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "ses amants"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et nul homme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "la délivrera"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "de ma main"
+    }
+  ],
+  "timestamp": "2026-08-05T05:31:47.225490461Z",
+  "model": "glm-5.2"
+}

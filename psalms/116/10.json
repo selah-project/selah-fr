@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "J'ai eu foi, car ⟨je⟩ parlerai, moi, j'ai été très affligé.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "j'ai eu foi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "⟨je⟩ parlerai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "j'ai été affligé"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:41.319486280Z",
+  "model": "glm-4.5"
+}

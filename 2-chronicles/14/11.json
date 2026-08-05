@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et YHWH frappa ⟨את⟩ les Koushites devant Asa et devant Juda, et les Koushites s'enfuirent.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Koushites"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "les Koushites"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "et devant"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "et s'enfuirent"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "les Koushites"
+    }
+  ],
+  "timestamp": "2026-08-05T06:05:21.204806971Z",
+  "model": "glm-5.2"
+}

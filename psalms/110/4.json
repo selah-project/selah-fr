@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 110,
+  "translation": "YHWH a juré et ne ⟨le⟩ regrettera pas : Tu es prêtre pour l'éternité, selon l'ordre de Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "YHWH a juré"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "⟨le⟩ regrettera pas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu es"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour l'éternité"
+    },
+    {
+      "surface": "על",
+      "gloss": "selon"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "l'ordre"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-05T02:35:54.085056686Z",
+  "model": "glm-4.5"
+}

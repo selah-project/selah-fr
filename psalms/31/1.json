@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Au chef des chantres, un psaume de David",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "au chef des chantres"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:35.104299284Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 54,
+  "translation": "Élohim, écoute ma prière, prête l'oreille aux paroles de ma bouche.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma prière"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "aux paroles de"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ma bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:21.054006086Z",
+  "model": "glm-4.5"
+}

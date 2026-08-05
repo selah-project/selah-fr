@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "À l'Égypte ⟨nous⟩ avons donné ⟨la⟩ main, ⟨à⟩ l'Assyrie, pour être rassasiés de pain.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "à l'Égypte"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "⟨nous⟩ avons donné"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨la⟩ main"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "⟨à⟩ l'Assyrie"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "pour être rassasiés"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:55.363914621Z",
+  "model": "glm-4.5"
+}

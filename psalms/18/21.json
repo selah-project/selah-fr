@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "YHWH me rétribue selon ma justice, selon la pureté de mes mains me rend-il",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "me rétribue"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "selon ma justice"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "selon la pureté"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de mes mains"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "me rend-il"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:53.750160958Z",
+  "model": "glm-4.5"
+}

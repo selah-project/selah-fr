@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Du matin ⟨au⟩ soir ils sont broyés ; sans que personne y prenne garde, ils périssent pour toujours.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "Du matin"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "⟨au⟩ soir"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "ils sont broyés"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sans que"
+    },
+    {
+      "surface": "משים",
+      "gloss": "personne y prenne garde"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ils périssent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:30.463269205Z",
+  "model": "glm-4.5"
+}

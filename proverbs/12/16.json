@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "L'insensé, au jour ⟨où⟩ sa colère est connue, mais le prudent couvre l'insulte.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "L'insensé"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "⟨où⟩ sa colère est connue"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "colère"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "mais le prudent couvre"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "l'insulte"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "prudent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:21.787497094Z",
+  "model": "glm-4.5"
+}

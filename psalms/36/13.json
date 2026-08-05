@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Là sont tombés les ouvriers d'iniquité, ils sont repoussés et ne ⟨peuvent⟩ pas se relever",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Là"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sont tombés"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les ouvriers"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "ils sont repoussés"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "⟨peuvent⟩"
+    },
+    {
+      "surface": "קום",
+      "gloss": "pas se relever"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:49.726097459Z",
+  "model": "glm-4.5"
+}

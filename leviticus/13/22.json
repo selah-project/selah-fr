@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et si elle s'étend ⟨s'étend⟩ dans la peau, le prêtre le déclarera impur : c'est une plaie",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "elle s'étend"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "⟨s'étend⟩"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "dans la peau"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "le prêtre le déclarera impur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "impur"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "une plaie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-04T19:02:05.250575684Z",
+  "model": "glm-4.5"
+}

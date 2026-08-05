@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car une abomination pour YHWH est tout quiconque fait ces choses, et à cause de ces abominations YHWH ton Élohim les dépossède de devant toi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "une abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "quiconque fait"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ces choses"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "et à cause de"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ces abominations"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "les dépossède"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "les",
+      "marks": "les"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de devant toi"
+    }
+  ],
+  "timestamp": "2026-08-04T21:52:08.804632726Z",
+  "model": "glm-4.5"
+}

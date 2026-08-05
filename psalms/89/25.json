@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Et ma fidélité et mon hessed ⟨sont⟩ avec lui, et en mon nom ⟨tu⟩ élèveras sa corne",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "et ma fidélité"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "et mon hessed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "et en mon nom"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "élèveras"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "sa corne"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:08.731710929Z",
+  "model": "glm-4.5"
+}

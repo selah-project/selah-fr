@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 137,
+  "translation": "Si je t'oublie, Jérusalem, que ma droite oublie!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "je t'oublie"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "que ⟨elle⟩ oublie"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ma droite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:58.153085983Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Au chef de chant pour Yedoutoun · psaume de David",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chant"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "pour Yedoutoun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:13.021532333Z",
+  "model": "glm-4.5"
+}

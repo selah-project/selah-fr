@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Approche-toi de mon nefesh, rachète-le, à cause de mes ennemis, rachète-moi.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Approche-toi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon nefesh"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "rachète-le"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "rachète-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:25.317864993Z",
+  "model": "glm-4.5"
+}

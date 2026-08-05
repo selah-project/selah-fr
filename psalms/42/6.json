@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Pourquoi t'abats-tu, ma nefesh, et ⟨es-tu⟩ agitée sur moi ? Espère en Élohim, car je le louerai encore, ⟨les⟩ délivrances de sa face.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "t'abats-tu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "et ⟨es-tu⟩ agitée"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Espère"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "en Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "je le louerai"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "⟨les⟩ délivrances"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "de sa face"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:15.805989733Z",
+  "model": "glm-4.5"
+}

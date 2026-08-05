@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Qui apaise le tumulte des mers, le tumulte de leurs vagues, et le tumulte des peuples.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Qui apaise"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "le tumulte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des mers"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "le tumulte"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "de leurs vagues"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "et le tumulte"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "des peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:56.230777696Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et la colère de YHWH s'enflamma contre son peuple, et il eut en abomination ⟨את⟩ son héritage",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Et la colère s'enflamma"
+    },
+    {
+      "surface": "אף",
+      "gloss": "la colère"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "contre son peuple"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "et il eut en abomination"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son héritage"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "son héritage"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:15.426798723Z",
+  "model": "glm-4.5"
+}

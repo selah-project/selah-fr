@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Et il fera retomber sur eux ⟨את⟩ leur iniquité, et dans ⟨leur⟩ malice il les exterminera, il les exterminera, YHWH notre Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et il fera retomber"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur iniquité"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "leur iniquité"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "et dans ⟨leur⟩ malice"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "il les exterminera"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "il les exterminera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:29.557468456Z",
+  "model": "glm-4.5"
+}

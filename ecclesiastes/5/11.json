@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Douce est la sommeil du travailleur, qu'il mange peu ou beaucoup ; mais la satiété du riche ne lui permet pas de dormir.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "Douce est"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "la sommeil"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "du travailleur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "peu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ou si"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il mange"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "mais la satiété"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "du riche"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne lui permet pas"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "de"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "dormir"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:16.025755484Z",
+  "model": "glm-4.5"
+}

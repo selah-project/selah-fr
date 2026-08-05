@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Je pencherai mon oreille ⟨vers⟩ une parabole, j'ouvrirai mon énigme avec la harpe.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "je pencherai"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "⟨vers⟩ une parabole"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mon oreille"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "j'ouvrirai"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "avec la harpe"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "mon énigme"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:22.068916884Z",
+  "model": "glm-4.5"
+}

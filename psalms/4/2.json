@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Quand je crie, réponds-moi, Élohim de ma justice ; dans la détresse, tu m'as mis au large ; fais-moi grâce et écoute ma prière.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Quand je crie"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "réponds-moi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "de ma justice"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dans la détresse"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "tu m'as mis au large"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fais-moi grâce"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "et écoute"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma prière"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:05.338780026Z",
+  "model": "glm-4.5"
+}

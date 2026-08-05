@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "alors tu entendras depuis les cieux ⟨את⟩ leur prière et ⟨את⟩ leur supplication, et tu feras leur droit.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "alors tu entendras"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur prière"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "leur prière"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leur supplication"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "leur supplication"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "et tu feras"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "leur droit"
+    }
+  ],
+  "timestamp": "2026-08-05T06:01:51.282774524Z",
+  "model": "glm-5.2"
+}

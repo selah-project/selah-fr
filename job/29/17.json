@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 29:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et je brisai les mâchoires de l'inique, et de ses dents ⟨את⟩ la proie je jetai.",
+  "tokens": [
+    {
+      "surface": "ואשברה",
+      "gloss": "Et je brisai"
+    },
+    {
+      "surface": "מתלעות",
+      "gloss": "les mâchoires"
+    },
+    {
+      "surface": "עול",
+      "gloss": "de l'inique"
+    },
+    {
+      "surface": "ומשניו",
+      "gloss": "et de ses dents"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "je jetai"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "⟨את⟩ la proie",
+      "marks": "la proie"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:37.302906025Z",
+  "model": "glm-4.5"
+}

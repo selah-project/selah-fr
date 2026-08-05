@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Alors ⟨il⟩ parlera à eux dans ⟨sa⟩ colère et dans ⟨sa⟩ fureur ⟨il⟩ les troublera",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parlera"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dans ⟨sa⟩ colère"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "et dans ⟨sa⟩ fureur"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "les troublera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:23.986168706Z",
+  "model": "glm-4.5"
+}

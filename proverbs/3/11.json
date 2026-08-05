@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 3:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "La discipline de YHWH, mon fils, ne la rejette pas, et ne te lasse pas de ⟨sa⟩ correction",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "La discipline"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "rejette pas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תקץ",
+      "gloss": "te lasse pas"
+    },
+    {
+      "surface": "בתוכחתו",
+      "gloss": "de ⟨sa⟩ correction"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:29.451002184Z",
+  "model": "glm-4.5"
+}

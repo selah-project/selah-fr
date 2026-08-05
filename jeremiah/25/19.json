@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paroh, roi de Mitsraïm, et ⟨את⟩ ses serviteurs et ⟨את⟩ ses chefs et ⟨את⟩ tout son peuple",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "de Mitsraïm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses chefs"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ses chefs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T22:41:36.130298693Z",
+  "model": "glm-4.5"
+}

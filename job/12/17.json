@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 12:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Il mène les conseillers ⟨dépossédés⟩, et les juges, il les rend fous.",
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "Il mène"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "les conseillers"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "⟨dépossédés⟩"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "et les juges"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "il les rend fous"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:00.125498825Z",
+  "model": "glm-4.5"
+}

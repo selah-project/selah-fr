@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Qu'ils soient honteux, les arrogants, car ils m'ont perverti ⟨avec⟩ un mensonge, moi, je m'entretiens de tes préceptes",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Qu'ils soient honteux"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "les arrogants"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "un mensonge"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "ils m'ont perverti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "je m'entretiens"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "de tes préceptes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.565907968Z",
+  "model": "glm-4.5"
+}

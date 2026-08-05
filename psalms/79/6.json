@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Déverse ta fureur sur les nations qui ne t'ont pas connu, et sur les royaumes qui ⟨en⟩ ton nom n'ont pas appelé.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "déverse"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ta fureur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "t'ont pas connu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "les royaumes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "⟨en⟩ ton nom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'ont pas"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "appelé"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:22.189380915Z",
+  "model": "glm-4.5"
+}

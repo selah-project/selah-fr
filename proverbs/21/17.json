@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "L'homme de manque aime la joie, aimant le vin et l'huile, il ne s'enrichira pas.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "de manque"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aime"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "la joie"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aimant"
+    },
+    {
+      "surface": "יין",
+      "gloss": "le vin"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "et l'huile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "s'enrichira pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:07.760424220Z",
+  "model": "glm-4.5"
+}

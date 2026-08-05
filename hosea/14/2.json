@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Reviens, Israël, vers YHWH ton Élohim, car tu as trébuché dans ⟨ton⟩ iniquité.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Reviens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "tu as trébuché"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "dans ⟨ton⟩ iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T00:09:41.212120804Z",
+  "model": "glm-4.5"
+}

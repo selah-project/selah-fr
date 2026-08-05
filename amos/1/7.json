@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et j'ai envoyé du feu dans ⟨le⟩ mur de Gaza, et il a dévoré ses palais",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "et j'ai envoyé"
+    },
+    {
+      "surface": "אש",
+      "gloss": "du feu"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "dans ⟨le⟩ mur"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "et il a dévoré"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "ses palais"
+    }
+  ],
+  "timestamp": "2026-08-05T00:13:58.577697187Z",
+  "model": "glm-4.5"
+}

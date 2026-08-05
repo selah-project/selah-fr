@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Au chef des chantres un chant un psaume poussez des cris de joie vers Élohim toute la terre",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "poussez des cris de joie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "vers Élohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:32.468860035Z",
+  "model": "glm-4.5"
+}

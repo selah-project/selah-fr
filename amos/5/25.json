@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "amos 5:25",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Est-ce ⟨les⟩ sacrifices et ⟨l⟩offrande que vous m'avez approchés dans ⟨le⟩ désert, quarante ans, maison d'Israël ?",
+  "tokens": [
+    {
+      "surface": "הזבחים",
+      "gloss": "⟨les⟩ sacrifices"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "et ⟨l⟩offrande"
+    },
+    {
+      "surface": "הגשתם",
+      "gloss": "que vous m'avez approchés"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans ⟨le⟩ désert"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T00:17:20.692824781Z",
+  "model": "glm-4.5"
+}

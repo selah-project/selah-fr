@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Qu'ils ⟨soient⟩ honteux et effrayés à perpétuité ⟨qu'ils⟩ soient confondus et périssent",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Qu'ils honteux"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "et effrayés"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "à perpétuité"
+    },
+    {
+      "surface": "עד",
+      "gloss": "à perpétuité"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "soient confondus"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "et périssent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:52.985961697Z",
+  "model": "glm-4.5"
+}

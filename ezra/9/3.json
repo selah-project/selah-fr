@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et dès que j'entendis ⟨את⟩ cette parole, je déchirai ⟨את⟩ mon vêtement et mon manteau, et je m'arrachai ⟨des cheveux⟩ du poil de ma tête et de ma barbe, et je m'assis, stupéfait.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "et dès que j'entendis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette parole"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "je déchirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon vêtement et mon manteau"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mon vêtement"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "et mon manteau"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "et je m'arrachai"
+    },
+    {
+      "surface": "משער",
+      "gloss": "du poil"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "de ma tête"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "et de ma barbe"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "et je m'assis"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "stupéfait"
+    }
+  ],
+  "timestamp": "2026-08-05T05:37:09.768517272Z",
+  "model": "glm-5.2"
+}

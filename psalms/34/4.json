@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Grandissez YHWH avec moi, et exaltons son nom ensemble.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Grandissez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "et exaltons"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:07.036352640Z",
+  "model": "glm-4.5"
+}

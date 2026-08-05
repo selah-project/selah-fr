@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Élohim ⟨est⟩ pour nous un refuge et une force, un secours ⟨trouvé⟩ dans les détresses, abondamment.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "un refuge"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "et une force"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "un secours"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "dans les détresses"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "⟨trouvé⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "abondamment"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:18.931475141Z",
+  "model": "glm-4.5"
+}

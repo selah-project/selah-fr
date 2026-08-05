@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "C'est pourquoi, voici, je ferai une haie sur ⟨את⟩ ta route avec des épines, et j'élèverai ⟨את⟩ une clôture, et elle ne trouvera pas ses sentiers.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "voici"
+    },
+    {
+      "surface": "שך",
+      "gloss": "je ferai une haie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta route"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ta route"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "avec des épines"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "et j'élèverai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "une clôture"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "une clôture"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "et elle ne trouvera pas ses sentiers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trouvera pas"
+    }
+  ],
+  "timestamp": "2026-08-04T23:58:05.644307733Z",
+  "model": "glm-4.5"
+}

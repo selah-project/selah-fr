@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 21:14",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Voici, YHWH frappera d'une grande plaie ⟨ton⟩ peuple, et tes fils, et tes femmes, et tout ce qui t'appartient.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נֹגֵף",
+      "gloss": "frappera"
+    },
+    {
+      "surface": "מַגֵּפָה",
+      "gloss": "d'une plaie"
+    },
+    {
+      "surface": "גְדוֹלָה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "בְּעַמְּךָ",
+      "gloss": "⟨ton⟩ peuple"
+    },
+    {
+      "surface": "וּבְבָנֶיךָ",
+      "gloss": "et tes fils"
+    },
+    {
+      "surface": "וּבְנָשֶׁיךָ",
+      "gloss": "et tes femmes"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "רְכוּשֶׁךָ",
+      "gloss": "ce qui t'appartient"
+    }
+  ],
+  "timestamp": "2026-08-05T06:08:10.611657299Z",
+  "model": "glm-5.2"
+}

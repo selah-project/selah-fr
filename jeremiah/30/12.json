@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car ainsi a dit YHWH : ⟨ton⟩ fracture est incurable, ⟨ta⟩ blessure est grave.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "est incurable"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "⟨ton⟩ fracture"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "est"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "grave"
+    }
+  ],
+  "timestamp": "2026-08-04T16:57:07.572010691Z",
+  "model": "glm-4.5"
+}

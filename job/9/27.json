@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "job 9:27",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Si je dis : j'oublierai ma plainte, je laisserai mon visage, et ⟨j'ai⟩ souri.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "je dis"
+    },
+    {
+      "surface": "אשכחה",
+      "gloss": "j'oublierai"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ma plainte"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "je laisserai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mon visage"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "et j'ai souri"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:46.764408056Z",
+  "model": "glm-4.5"
+}

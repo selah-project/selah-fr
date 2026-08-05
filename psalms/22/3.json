@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Mon Elohim, je crie le jour, et tu ne réponds pas ; et la nuit, et pas de silence pour moi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mon Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne réponds pas"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "et tu ne réponds pas"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et la nuit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "de silence"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.323614950Z",
+  "model": "glm-4.5"
+}

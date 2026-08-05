@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Du miel tu as trouvé : mange ce qui ⟨te⟩ suffit, de peur que tu n'en sois rassasié et ne le vomisses.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "Du miel"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "tu as trouvé"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mange"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "ce qui suffit"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "tu n'en sois rassasié"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "et ne le vomisses"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:45.813704638Z",
+  "model": "glm-4.5"
+}

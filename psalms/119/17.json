@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Traite avec bonté ⟨le⟩ serviteur, afin que je vive et garde ta parole.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Traite avec bonté"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨le⟩ serviteur"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "afin que je vive"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "et garde"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:46.949708164Z",
+  "model": "glm-4.5"
+}

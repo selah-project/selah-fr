@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Je me lèverai donc et ⟨je⟩ tournerai dans la ville, dans les rues et les places, je rechercherai ⟨את⟩ celui qu'aime ma nefesh, je l'ai recherché et ne l'ai pas trouvé.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "je me lèverai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "et ⟨je⟩ tournerai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "dans les rues"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "et les places"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "je rechercherai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui qu'aime ma nefesh"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "celui qu'aime"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "je l'ai recherché"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "l'ai pas trouvé"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:56.251528204Z",
+  "model": "glm-4.5"
+}

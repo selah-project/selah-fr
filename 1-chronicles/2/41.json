@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et Shallum engendra ⟨את⟩ Yeqamya, et Yeqamya engendra ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "et Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeqamya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yeqamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "et Yeqamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-05T05:45:03.584608446Z",
+  "model": "glm-5.2"
+}

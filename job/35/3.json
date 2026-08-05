@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Car tu dis : 'Quoi, ⟨cela⟩ profite-t-il ⟨pour⟩ toi ? Et quoi, je profite de mon péché ?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tu dis"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quoi"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "profite-t-il"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pour⟩ toi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "et quoi"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "je profite"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "de mon péché"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:26.002932503Z",
+  "model": "glm-4.5"
+}

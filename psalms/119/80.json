@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Que mon cœur soit intact dans tes statuts, afin que je ne sois pas honteux",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Que"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "soit intact"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "dans tes statuts"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "sois pas honteux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.566137590Z",
+  "model": "glm-4.5"
+}

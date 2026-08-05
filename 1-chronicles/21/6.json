@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Lévi et Benjamin, il ne les dénombra pas au milieu d'eux, car la parole du roi ⟨était⟩ abominable à Yoav.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "et Lévi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "et Benjamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "dénombra"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "au milieu d'eux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "abominable"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-05T05:54:47.892413845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Tu as saisi les veilles de mes yeux, je suis bouleversé et ⟨je⟩ ne parle pas.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Tu as saisi"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "les veilles"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "de mes yeux"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "je suis bouleversé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "parle pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:51.304054334Z",
+  "model": "glm-4.5"
+}

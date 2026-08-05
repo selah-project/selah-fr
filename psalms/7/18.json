@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Je louerai YHWH selon ⟨sa⟩ justice, et je chanterai le nom de YHWH Elyon.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "louerai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "selon ⟨sa⟩ justice"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "et je chanterai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:00.204485798Z",
+  "model": "glm-4.5"
+}

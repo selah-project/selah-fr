@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "À la lumière le meurtrier se lève, il tue le malheureux et l'indigent, et la nuit il ⟨est⟩ comme un voleur.",
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "à la lumière"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se lève"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "le meurtrier"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "il tue"
+    },
+    {
+      "surface": "עני",
+      "gloss": "le malheureux"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et l'indigent"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "et la nuit"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "il est"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "comme un voleur"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:19.927394022Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Parce que vous avez dit : YHWH a suscité pour nous des prophètes à Babylone",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Parce que"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "vous avez dit"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "a suscité"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "des prophètes"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "à Babylone"
+    }
+  ],
+  "timestamp": "2026-08-04T22:45:36.023039277Z",
+  "model": "glm-4.5"
+}

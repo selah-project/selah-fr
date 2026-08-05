@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Et je dis : seule la obscurité ⟨me⟩ broiera, et la nuit, ⟨son⟩ lumière ⟨est⟩ autour de moi",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "et je dis"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seule la"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "obscurité"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "⟨me⟩ broiera"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et la nuit"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨son⟩ lumière"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "⟨est⟩ autour de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:39.927037616Z",
+  "model": "glm-4.5"
+}

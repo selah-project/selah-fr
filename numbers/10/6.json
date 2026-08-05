@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 10:6",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et quand ⟨vous⟩ sonnerez ⟨un⟩ alarme une seconde fois, elles partiront, les camps ⟨qui⟩ campent au midi ; une alarme, ils sonneront pour leurs départs",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "et quand ⟨vous⟩ sonnerez"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "⟨un⟩ alarme"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "une seconde fois"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "elles partiront"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "les camps"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "⟨qui⟩ campent"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "au midi"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "une alarme"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "ils sonneront"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "pour leurs départs"
+    }
+  ],
+  "timestamp": "2026-08-04T21:42:05.129033786Z",
+  "model": "glm-4.5"
+}

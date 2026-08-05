@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Seulement vers Élohim ⟨est⟩ silencieuse ma nefesh, de lui ⟨vient⟩ ma délivrance.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "silencieuse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ma délivrance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:40.179292493Z",
+  "model": "glm-4.5"
+}

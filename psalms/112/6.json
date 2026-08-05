@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "Car pour toujours il ne sera pas ébranlé, le juste sera en mémoire perpétuelle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne ... pas"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sera ébranlé"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "en mémoire"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "perpétuelle"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:44.849516324Z",
+  "model": "glm-4.5"
+}

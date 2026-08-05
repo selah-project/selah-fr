@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "La langue des sages rend la connaissance bonne, mais la bouche des sots éructe ⟨de la⟩ bêtise.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "La langue"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "des sages"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "rend bonne"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mais la bouche"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des sots"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "éructe"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "⟨de la⟩ bêtise"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:34.596372430Z",
+  "model": "glm-4.5"
+}

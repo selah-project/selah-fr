@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "amos 6:11",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car voici, YHWH commande, et ⟨il⟩ frappe la grande maison de brisures, et la petite maison de crevasses.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "commande"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "et ⟨il⟩ frappe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "רסיסים",
+      "gloss": "de brisures"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "et la maison"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "petite"
+    },
+    {
+      "surface": "בקעים",
+      "gloss": "de crevasses"
+    }
+  ],
+  "timestamp": "2026-08-05T00:18:29.220194370Z",
+  "model": "glm-4.5"
+}

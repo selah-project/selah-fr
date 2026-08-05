@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Que mes lèvres fassent jaillir ⟨de la⟩ louange, car tu m'enseignes ⟨tes⟩ statuts.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "qu'elles fassent jaillir"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mes lèvres"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "louange"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "tu m'enseignes"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "⟨tes⟩ statuts"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:01.595026775Z",
+  "model": "glm-4.5"
+}

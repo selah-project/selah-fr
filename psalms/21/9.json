@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Ta main ⟨a⟩ trouvé tous tes ennemis, ta droite ⟨a⟩ trouvé ceux qui te haïssent.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "trouvera"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta droite"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "trouvera"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ceux qui te haïssent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:28.751019038Z",
+  "model": "glm-4.5"
+}

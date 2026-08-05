@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "J'espère en YHWH, mon nefesh espère, et en sa parole j'attends.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "J'espère"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "mon nefesh espère"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "et en sa parole"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "j'attends"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:49.331713692Z",
+  "model": "glm-4.5"
+}

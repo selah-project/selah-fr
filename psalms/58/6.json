@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "qui n'entend pas la voix des enchanteurs, un magicien liant des sorts avec sagesse.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'entend pas"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "entendre"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "des enchanteurs"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "un magicien liant"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "des sorts"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "avec sagesse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:39.887020504Z",
+  "model": "glm-4.5"
+}

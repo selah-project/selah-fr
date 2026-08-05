@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et YHWH répondit ⟨את⟩ Iyyob depuis l'ouragan, et dit:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "l'ouragan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:53.087986246Z",
+  "model": "glm-4.5"
+}

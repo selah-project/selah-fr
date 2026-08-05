@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "qu'il y ait une abondance de grain dans le pays, sur le sommet des montagnes, son fruit bruinera comme ⟨le⟩ Liban, et de la ville ils fleuriront comme l'herbe de la terre",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "qu'il y ait"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "une abondance"
+    },
+    {
+      "surface": "בר",
+      "gloss": "de grain"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sur le sommet"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "des montagnes"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "bruinera"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "comme ⟨le⟩ Liban"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "son fruit"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "et ils fleuriront"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "comme l'herbe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:29.795753943Z",
+  "model": "glm-4.5"
+}

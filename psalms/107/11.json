@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Parce qu'ils se ⟨sont⟩ révoltés contre les paroles d'El, et le conseil d'Elyon ils ont méprisé",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Parce que"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ils se ⟨sont⟩ révoltés"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "contre les paroles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "et le conseil"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "d'Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ils ont méprisé"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:51.233209212Z",
+  "model": "glm-4.5"
+}

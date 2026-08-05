@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "La pierre qu'ont rejetée les bâtisseurs est devenue tête ⟨de⟩ l'angle",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "La pierre"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "qu'ont rejetée"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "les bâtisseurs"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "est devenue"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "tête"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "⟨de⟩ l'angle"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:04.985308645Z",
+  "model": "glm-4.5"
+}

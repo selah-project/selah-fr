@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et ils ont soigné ⟨את⟩ la fracture de la fille de mon peuple légèrement, disant : « Shalom, shalom » et il n'y a pas de shalom.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "Et ils ont soigné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fracture"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "la fracture"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de la fille"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "de mon peuple"
+    },
+    {
+      "surface": "על",
+      "gloss": "légèrement"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "« Shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom »"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de shalom"
+    }
+  ],
+  "timestamp": "2026-08-04T16:15:03.220521777Z",
+  "model": "glm-4.5"
+}

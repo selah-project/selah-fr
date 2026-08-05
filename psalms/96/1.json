@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Chantez à YHWH ⟨un⟩ chant nouveau, chantez à YHWH, toute la terre.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "⟨un⟩ chant"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:05.412146717Z",
+  "model": "glm-4.5"
+}

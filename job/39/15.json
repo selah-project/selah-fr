@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 39:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et elle oublie qu'un pied peut les écraser, ou la bête ⟨du⟩ champ les piétiner",
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "Et elle oublie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "un pied"
+    },
+    {
+      "surface": "תזורה",
+      "gloss": "peut les écraser"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "ou la bête"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨du⟩ champ"
+    },
+    {
+      "surface": "תדושה",
+      "gloss": "les piétiner"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:09.804515976Z",
+  "model": "glm-4.5"
+}

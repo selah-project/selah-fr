@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Répondez à YHWH par la louange, chantez pour notre Élohim avec la harpe.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Répondez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "par la louange"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pour notre Élohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "avec la harpe"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:01.236270507Z",
+  "model": "glm-4.5"
+}

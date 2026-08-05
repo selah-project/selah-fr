@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 40:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Voici donc le Behémot, que j'ai fait avec toi; il mange du herbe comme le bœuf.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "בְ֭הֵמוֹת",
+      "gloss": "le Behémot"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "j'ai fait"
+    },
+    {
+      "surface": "עִמָּ֑ךְ",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "חָ֝צִ֗יר",
+      "gloss": "du herbe"
+    },
+    {
+      "surface": "כַּבָּקָ֥ר",
+      "gloss": "comme le bœuf"
+    },
+    {
+      "surface": "יֹאכֵֽל",
+      "gloss": "il mange"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:56.705716187Z",
+  "model": "glm-4.5"
+}

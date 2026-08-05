@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Il ⟨appelle⟩ aux cieux d'en haut, et à la terre, pour juger son peuple.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Il"
+    },
+    {
+      "surface": "אל",
+      "gloss": "appelle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "aux cieux"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "d'en haut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "pour juger"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:51.153202530Z",
+  "model": "glm-4.5"
+}

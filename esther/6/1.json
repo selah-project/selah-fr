@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Cette nuit-là ⟨le⟩ sommeil du roi s'enfuya et il dit de faire venir ⟨את⟩ le livre des mémoires, ⟨les⟩ chroniques, et ils furent lus devant le roi",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Cette nuit-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "s'enfuya"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "⟨le⟩ sommeil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "de faire venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le livre des mémoires"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le livre"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "des mémoires"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨les⟩ chroniques"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et ils furent"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "lus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:00:31.529172410Z",
+  "model": "glm-4.5"
+}

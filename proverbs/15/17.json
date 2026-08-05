@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Mieux vaut un repas de légumes là où est l'amour ⟨את⟩ qu'un bœuf engraissé et la haine avec lui.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux vaut"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "un repas de"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "légumes"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "et l'amour"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là où est"
+    },
+    {
+      "surface": "משור",
+      "gloss": "⟨את⟩",
+      "marks": "qu'un bœuf engraissé"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "engraissé"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "et la haine"
+    },
+    {
+      "surface": "בו",
+      "gloss": "avec lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:26.738061971Z",
+  "model": "glm-4.5"
+}

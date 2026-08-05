@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "De devant ton reproche ils s'enfuient, de devant le bruit de ton tonnerre ils se hâtent.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "De devant"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "ton reproche"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ils s'enfuient"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "קול",
+      "gloss": "le bruit"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "de ton tonnerre"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "ils se hâtent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:17.326985355Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et par ⟨un⟩ prophète YHWH ⟨a⟩ fait monter ⟨את⟩ Israël d'Égypte, et par ⟨un⟩ prophète ⟨il⟩ ⟨fut⟩ gardé.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "Et par ⟨un⟩ prophète"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "YHWH ⟨a⟩ fait monter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": ""
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "et par ⟨un⟩ prophète"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "⟨il⟩ ⟨fut⟩ gardé"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:56.686726243Z",
+  "model": "glm-4.5"
+}

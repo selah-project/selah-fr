@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Enseigne-moi, YHWH, la voie de ⟨tes⟩ décrets, et je la garderai jusqu'à la fin.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Enseigne-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "de ⟨tes⟩ décrets"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "et je la garderai"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "jusqu'à la fin"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:44.267446757Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "nous avons péché, et nous avons commis l'iniquité, et nous avons agi méchamment, et nous nous sommes rebellés, et nous avons détourné de tes commandements et de tes jugements",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nous avons péché"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "et nous avons commis l'iniquité"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "et nous avons agi méchamment"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "et nous nous sommes rebellés"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "et nous avons détourné"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "de tes commandements"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "et de tes jugements"
+    }
+  ],
+  "timestamp": "2026-08-05T05:17:07.299212300Z",
+  "model": "glm-4.5"
+}

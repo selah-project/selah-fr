@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Élohim a parlé dans sa sainteté : je me réjouirai, je partagerai Sichem et mesurerai la vallée de Succoth.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dans sa sainteté"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "je me réjouirai"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "je partagerai"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sichem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "et la vallée de"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Succoth"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "je mesurerai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:20.743815806Z",
+  "model": "glm-4.5"
+}

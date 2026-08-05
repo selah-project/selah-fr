@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Et mon souffle s'est consterné sur moi, au-dedans de moi mon cœur est stupéfait.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "Et mon souffle s'est consterné"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mon souffle"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "au-dedans de moi"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "est stupéfait"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.285885758Z",
+  "model": "glm-4.5"
+}

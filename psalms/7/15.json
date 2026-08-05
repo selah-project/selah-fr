@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Voici, il a enfanté l'iniquité, et conçu la misère, et a enfanté le mensonge",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "il a enfanté"
+    },
+    {
+      "surface": "און",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "et conçu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "la misère"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "et a enfanté"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "le mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:11.099615981Z",
+  "model": "glm-4.5"
+}

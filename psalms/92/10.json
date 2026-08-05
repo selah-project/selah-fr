@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Car voici tes ennemis, YHWH, car voici tes ennemis, ils périront, tous les ouvriers d'iniquité seront dispersés.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ils périront"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "seront dispersés"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les ouvriers"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:12.398255493Z",
+  "model": "glm-4.5"
+}

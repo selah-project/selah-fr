@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Mon fils, n'oublie ⟨pas⟩ ma Torah, et que ton cœur garde ⟨ce sont⟩ mes commandements",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mon fils"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ma Torah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'oublie ⟨pas⟩"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "n'oublie ⟨pas⟩"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "et que ⟨ce sont⟩ mes commandements"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ton cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:34.295841845Z",
+  "model": "glm-4.5"
+}

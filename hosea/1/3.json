@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Il alla et prit ⟨את⟩ Gomer, fille de Diblaïm ; elle conçut et lui enfanta un fils.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Il alla"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "de Diblaïm"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "elle conçut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "et enfanta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    }
+  ],
+  "timestamp": "2026-08-04T23:57:23.477328711Z",
+  "model": "glm-4.5"
+}

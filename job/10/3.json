@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 10:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Est-ce bon pour toi que tu opprimes, que tu méprises l'ouvrage de tes mains, et que tu brilles sur le conseil des méchants ?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "est-ce bon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "tu opprimes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "tu méprises"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "l'ouvrage"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "de tes mains"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "le conseil"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "הופעת",
+      "gloss": "tu brilles"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:45.628221532Z",
+  "model": "glm-4.5"
+}

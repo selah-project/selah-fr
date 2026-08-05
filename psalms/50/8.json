@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Non pas sur tes sacrifices je te reprendrai, et tes offrandes d'élévation sont devant moi continuellement",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "tes sacrifices"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "je te reprendrai"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "et tes offrandes d'élévation"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:48.239742025Z",
+  "model": "glm-4.5"
+}

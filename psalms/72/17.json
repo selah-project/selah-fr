@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Que son Nom soit pour toujours, avant le soleil son nom se perpétue, et se bénissent en lui, tous les peuples, le proclament heureux.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Que ... soit"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son Nom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "avant"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "se perpétue"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "et se bénissent"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "le proclament heureux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:27.057837246Z",
+  "model": "glm-4.5"
+}

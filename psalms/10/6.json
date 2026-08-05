@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Il dit en son cœur : je ne serai pas ébranlé, de génération en génération sans malheur.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "en son cœur"
+    },
+    {
+      "surface": "בל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "serai ébranlé"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui est⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sans"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "malheur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:27.150190106Z",
+  "model": "glm-4.5"
+}

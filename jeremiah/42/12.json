@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et je vous accorderai des compassions et il aura pitié de vous et il vous fera retourner vers votre terre",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Et je donnerai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "à vous"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "des compassions"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "et il aura pitié"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "de vous"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "et il fera retourner"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "votre terre"
+    }
+  ],
+  "timestamp": "2026-08-04T22:58:17.009860057Z",
+  "model": "glm-4.5"
+}

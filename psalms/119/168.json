@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai gardé tes ordonnances et tes témoignages, car toutes mes voies ⟨sont⟩ devant toi.",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֣רְתִּי",
+      "gloss": "J'ai gardé"
+    },
+    {
+      "surface": "פִ֭קּוּדֶיךָ",
+      "gloss": "tes ordonnances"
+    },
+    {
+      "surface": "וְעֵדֹתֶ֑יךָ",
+      "gloss": "et tes témoignages"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "car"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "דְּרָכַ֣י",
+      "gloss": "mes voies"
+    },
+    {
+      "surface": "נֶגְדֶּֽךָ",
+      "gloss": "devant toi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:32.347753767Z",
+  "model": "glm-5.2"
+}

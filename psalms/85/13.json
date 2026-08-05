@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Oui, YHWH donnera ⟨le⟩ bien et notre terre donnera son produit",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Oui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨le⟩ bien"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "et notre terre"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "son produit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:57.528475429Z",
+  "model": "glm-4.5"
+}

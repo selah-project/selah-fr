@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 137,
+  "translation": "Sur des saules en son milieu nous avons suspendu nos harpes.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "des saules"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "en son milieu"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "nous avons suspendu"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "nos harpes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:52.399944031Z",
+  "model": "glm-4.5"
+}

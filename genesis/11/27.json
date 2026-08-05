@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et voici les générations de Térah, Térah engendra ⟨את⟩ Abram, ⟨את⟩ Nahor et ⟨את⟩ Haran, et Haran engendra ⟨את⟩ Lot",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Et voici"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "les générations"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "de Térah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Térah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "et Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-08-04T18:42:53.291823238Z",
+  "model": "glm-4.5"
+}

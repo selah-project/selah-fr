@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Ne m'abandonne pas, YHWH, mon Élohim, ne t'éloigne pas de moi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "m'abandonne pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "t'éloigne pas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:22.225108445Z",
+  "model": "glm-4.5"
+}

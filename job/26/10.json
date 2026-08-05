@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Il a tracé un cercle ⟨sur⟩ la face des eaux, jusqu'à la limite de la lumière avec les ténèbres.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "Il a tracé un cercle"
+    },
+    {
+      "surface": "חג",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "פני",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "la limite"
+    },
+    {
+      "surface": "אור",
+      "gloss": "de la lumière"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-05T04:03:41.775040260Z",
+  "model": "glm-4.5"
+}

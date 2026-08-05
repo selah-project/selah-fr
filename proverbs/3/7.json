@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Ne sois pas sage à tes propres yeux, crains ⟨את⟩ YHWH et détourne-toi du mal",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "sois pas"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "à tes propres yeux"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "crains"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "et détourne-toi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "du mal"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:18.780086948Z",
+  "model": "glm-4.5"
+}

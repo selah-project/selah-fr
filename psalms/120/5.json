@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 120,
+  "translation": "Malheur à moi, car je séjourné ⟨à⟩ Méshek, j'ai habité ⟨avec⟩ les tentes de Qédar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Malheur à moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "je séjourné"
+    },
+    {
+      "surface": "משך",
+      "gloss": "⟨à⟩ Méshek",
+      "marks": "Méshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "j'ai habité"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨avec⟩"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "les tentes"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "de Qédar"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:33.777521411Z",
+  "model": "glm-4.5"
+}

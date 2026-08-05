@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il tourna en sang leurs fleuves, et leurs courants, ⟨ils ne⟩ pouvaient ⟨les⟩ boire",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Et il tourna"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "leurs fleuves"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "et leurs courants"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ils ne⟩"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "pouvaient ⟨les⟩ boire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:46.105821835Z",
+  "model": "glm-4.5"
+}

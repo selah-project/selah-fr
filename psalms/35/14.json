@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Je marchais comme pour un ami, comme pour mon frère, je me courbais, en deuil comme ⟨pour⟩ une mère, je m'abaissais.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Je marchais"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "comme pour un ami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "comme pour mon frère"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "Je marchais"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "en deuil"
+    },
+    {
+      "surface": "אם",
+      "gloss": "comme ⟨pour⟩ une mère"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "je me courbais"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "je m'abaissais"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:06.070526300Z",
+  "model": "glm-4.5"
+}

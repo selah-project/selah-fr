@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Qui creuse une fosse y tombera, et qui roule une pierre, elle reviendra sur lui",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "creuse"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "une fosse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "y"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tombera"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "et roule"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "une pierre"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "elle reviendra"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:26.411448320Z",
+  "model": "glm-4.5"
+}

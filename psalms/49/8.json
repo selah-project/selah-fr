@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Un frère ne rachètera ⟨pas⟩ un homme, il ne donnera ⟨pas⟩ à Élohim son rançon.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "un frère"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "rachètera"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "rachètera"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "il donnera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "à Élohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "son rançon"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:22.069333730Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Ils cueillent la mauve auprès des buissons, et la racine du genêt est leur pain.",
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "Ils cueillent"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "la mauve"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "auprès de"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "les buissons"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "et la racine"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "du genêt"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "est leur pain"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:16.102867621Z",
+  "model": "glm-4.5"
+}

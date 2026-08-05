@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "Un psaume. Chantez à YHWH un chant nouveau, car ⟨des⟩ merveilles il a faites ; ⟨la⟩ délivrance, ⟨sa⟩ main droite et ⟨le⟩ bras de sa sainteté ⟨la lui⟩ ont donnée.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "⟨des⟩ merveilles"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a faites"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "⟨la⟩ délivrance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨la lui⟩"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "⟨sa⟩ main droite"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "et ⟨le⟩ bras"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "de sa sainteté"
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:40.303901065Z",
+  "model": "glm-4.5"
+}

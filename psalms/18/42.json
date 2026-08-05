@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Ils crient, et il n'y a pas de sauveur, vers YHWH, mais il ne leur répond pas.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Ils crient"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "de sauveur"
+    },
+    {
+      "surface": "על",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne ... pas"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "répond"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:20.446743121Z",
+  "model": "glm-4.5"
+}

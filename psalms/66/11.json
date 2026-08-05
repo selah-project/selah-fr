@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Tu ⟨as⟩ fait entrer ⟨nous⟩ dans le filet, tu ⟨as⟩ mis une détresse sur nos reins",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Tu ⟨as⟩ fait entrer ⟨nous⟩"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "dans le filet"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tu ⟨as⟩ mis"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "une détresse"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "sur nos reins"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:34.797534268Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Une fosse il a creusée et il l'a approfondie, et il est tombé dans la fosse qu'il a faite",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Une fosse"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "il a creusée"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "et il l'a approfondie"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "et il est tombé"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "dans la fosse"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "qu'il a faite"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:11.099705135Z",
+  "model": "glm-4.5"
+}

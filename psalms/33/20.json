@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Notre nefesh s'est attendue à YHWH; notre secours et notre bouclier, c'est Lui.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "notre nefesh"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "s'est attendue"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "notre secours"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "et notre bouclier"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est Lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:14.844803677Z",
+  "model": "glm-4.5"
+}

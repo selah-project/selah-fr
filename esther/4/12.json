@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et ils rapportèrent à Mardochée les paroles d'Esther.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Et rapportèrent"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "à Mardochée"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les paroles d'Esther"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles de"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    }
+  ],
+  "timestamp": "2026-08-05T04:58:09.340427270Z",
+  "model": "glm-4.5"
+}

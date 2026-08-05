@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Noach fit selon tout ce que ⟨את⟩ Élohim lui avait commandé, ainsi fit-il.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "lui",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fit-il"
+    }
+  ],
+  "timestamp": "2026-08-04T18:42:09.117850629Z",
+  "model": "glm-4.5"
+}

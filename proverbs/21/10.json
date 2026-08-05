@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "La nefesh du méchant désire le mal, son prochain ne trouve pas grâce à ses yeux.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "La nefesh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "désire"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "trouve grâce"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses yeux"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son prochain"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:12.863433463Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Pourquoi t'abats-tu, ma nefesh, et pourquoi mugis-tu sur moi ? Espère en Élohim, car encore je le louerai, ⟨le⟩ salut de ma face, et mon Élohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "t'abats-tu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et pourquoi"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "mugis-tu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "espère"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "en Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "je le louerai"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "⟨le⟩ salut"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de ma face"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et mon Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:08.262692363Z",
+  "model": "glm-4.5"
+}

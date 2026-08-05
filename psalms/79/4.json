@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Nous sommes devenus un opprobre pour nos voisins, la moquerie et la raillerie pour ceux qui nous entourent",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Nous sommes devenus"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "un opprobre"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "pour nos voisins"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "la moquerie"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "et la raillerie"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "pour ceux qui nous entourent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:11.868333883Z",
+  "model": "glm-4.5"
+}

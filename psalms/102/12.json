@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Mes jours sont comme une ombre inclinée, et moi, comme l'herbe, je sèche.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "mes jours"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "comme une ombre"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "inclinée"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "comme l'herbe"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "je sèche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:34.939652292Z",
+  "model": "glm-4.5"
+}

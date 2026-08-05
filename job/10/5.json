@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Tes jours sont-ils comme les jours d'un mortel, et tes années comme les jours d'un homme?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "sont-ils comme"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "d'un mortel"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tes jours"
+    },
+    {
+      "surface": "אם",
+      "gloss": "et"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "tes années"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "comme les jours de"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "un homme"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:37.635250390Z",
+  "model": "glm-4.5"
+}

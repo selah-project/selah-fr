@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "job 30:31",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et ma harpe ⟨est⟩ ⟨devenue⟩ pour le deuil, et mon flute pour la voix de ceux qui pleurent.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et est devenue"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "pour le deuil"
+    },
+    {
+      "surface": "כנרי",
+      "gloss": "ma harpe"
+    },
+    {
+      "surface": "ועגבי",
+      "gloss": "et mon flute"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "pour la voix"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "de ceux qui pleurent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:11.457086211Z",
+  "model": "glm-4.5"
+}

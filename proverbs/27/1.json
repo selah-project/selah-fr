@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Ne te glorifie pas du jour de demain, car tu ne sais pas ce que ⟨le⟩ jour enfantera.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "te glorifie pas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "du jour"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "de demain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sais"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "enfantera"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:17.394724686Z",
+  "model": "glm-4.5"
+}

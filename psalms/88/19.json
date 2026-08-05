@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Tu as mis loin de moi l'ami et le compagnon, mes connaissances ⟨sont⟩ les ténèbres.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "Tu as mis loin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "l'ami"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "et le compagnon"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "mes connaissances"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "les ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:14.064843359Z",
+  "model": "glm-4.5"
+}

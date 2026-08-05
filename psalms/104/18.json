@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Les hautes montagnes ⟨sont⟩ pour les bouquetins, les rochers ⟨sont⟩ un refuge pour les damans",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Les montagnes"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "hautes"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "⟨sont⟩ pour les bouquetins"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "les rochers"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "⟨sont⟩ un refuge"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "pour les damans"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:19.057702111Z",
+  "model": "glm-4.5"
+}

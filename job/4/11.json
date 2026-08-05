@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Le vieux lion périt faute de proie, et les petits de la lionne se dispersent",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Le vieux lion"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "périt"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "faute de"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "proie"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "et les petits de"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "la lionne"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "se dispersent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:14.405851455Z",
+  "model": "glm-4.5"
+}

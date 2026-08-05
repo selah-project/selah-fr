@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 99,
+  "translation": "Exaltez YHWH notre Élohim, et prosternez-vous devant ⟨sa⟩ montagne sainte, car ⟨YHWH notre Élohim est⟩ saint.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Exaltez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "et prosternez-vous"
+    },
+    {
+      "surface": "להר",
+      "gloss": "devant ⟨sa⟩ montagne"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sainte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨YHWH notre Élohim est⟩ saint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:56.451428094Z",
+  "model": "glm-4.5"
+}

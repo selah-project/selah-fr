@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car la colère tue l'insensé, et la passion fait mourir le simple.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "l'insensé"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "tue"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "la colère"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "et"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "fait mourir"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "la passion"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:13.112521736Z",
+  "model": "glm-4.5"
+}

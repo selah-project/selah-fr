@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Je sais, YHWH, que ⟨sont⟩ justes tes jugements et en fidélité tu m'as affligé.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Je sais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justes"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "et en fidélité"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "tu m'as affligé"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:40.700760550Z",
+  "model": "glm-4.5"
+}

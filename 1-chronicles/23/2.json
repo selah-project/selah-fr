@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et il assembla ⟨את⟩ tous les chefs d'Israël, et les cohanim et les Leviim.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Et il assembla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les chefs d'Israël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "les chefs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "et les cohanim"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "et les Leviim"
+    }
+  ],
+  "timestamp": "2026-08-05T05:53:59.316198112Z",
+  "model": "glm-5.2"
+}

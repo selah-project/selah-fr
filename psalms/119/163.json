@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Le mensonge, je l'ai haï et je l'ai en horreur ; ⟨mais⟩ ta Torah, je l'ai aimée.",
+  "tokens": [
+    {
+      "surface": "שֶׁ֣קֶר",
+      "gloss": "Le mensonge"
+    },
+    {
+      "surface": "שָׂ֭נֵאתִי",
+      "gloss": "je l'ai haï"
+    },
+    {
+      "surface": "וַאֲתַעֵ֑בָה",
+      "gloss": "et je l'ai en horreur"
+    },
+    {
+      "surface": "תּוֹרָתְךָ֥",
+      "gloss": "⟨mais⟩ ta Torah"
+    },
+    {
+      "surface": "אָהָֽבְתִּי",
+      "gloss": "je l'ai aimée"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:35.746355308Z",
+  "model": "glm-5.2"
+}

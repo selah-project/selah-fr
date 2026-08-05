@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Aide-moi, YHWH mon Élohim ; sauve-moi selon ton hessed.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "Aide-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sauve-moi"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "selon ton hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:18.747785152Z",
+  "model": "glm-4.5"
+}

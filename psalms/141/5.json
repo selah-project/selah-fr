@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Qu'un juste me frappe ⟨un⟩ hessed, et me reprenne, huile de tête que ma tête ne refuse pas, car encore ma prière ⟨est⟩ dans leurs calamités.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "me frappe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "un juste"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hessed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "et me reprenne"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "huile"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de tête"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יני",
+      "gloss": "refuse"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "et ma prière"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "dans leurs calamités"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:48.832284168Z",
+  "model": "glm-4.5"
+}

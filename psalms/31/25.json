@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Soyez forts, et qu'il se fortifie votre cœur, tous ceux qui espèrent en YHWH",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Soyez forts"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "et qu'il se fortifie"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "votre cœur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "ceux qui espèrent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "en YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:08.030685624Z",
+  "model": "glm-4.5"
+}

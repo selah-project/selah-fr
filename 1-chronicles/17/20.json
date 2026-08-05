@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "YHWH, il n'y en a pas comme toi, et il n'y a pas d'Élohim en dehors de toi, dans tout ce que nous avons entendu de nos oreilles.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y en a pas"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "comme toi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "en dehors de toi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nous avons entendu"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "de nos oreilles"
+    }
+  ],
+  "timestamp": "2026-08-05T05:53:00.825072593Z",
+  "model": "glm-5.2"
+}

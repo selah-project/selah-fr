@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "J'ai attendu, j'ai attendu ⟨avec patience⟩ YHWH, et il s'est penché vers moi, et a entendu mon appel.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "J'ai attendu"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "j'ai attendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "et il s'est penché"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "et a entendu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mon appel"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:21.525965282Z",
+  "model": "glm-4.5"
+}

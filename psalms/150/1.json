@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 150,
+  "translation": "Louez Yah louez El dans son sanctuaire louez-le dans l'étendue de sa force",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dans son sanctuaire"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "louez-le"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "dans l'étendue"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "de sa force"
+    }
+  ],
+  "timestamp": "2026-08-05T03:10:23.169861824Z",
+  "model": "glm-4.5"
+}

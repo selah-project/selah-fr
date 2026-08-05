@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Quand je me souviens de toi sur ma couche, dans les gardes je médite sur toi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "je me souviens de toi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ma couche"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "dans les gardes"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "je médite"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sur toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:30.865009066Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Élohim Tsevaot, reviens, je te prie, regarde des cieux et vois, et visite cette vigne",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "reviens"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et vois"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "et visite"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "cette vigne"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cette"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:05.461491066Z",
+  "model": "glm-4.5"
+}

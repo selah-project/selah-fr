@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Malheur aux pasteurs ⟨qui⟩ détruisent et dispersent ⟨את⟩ le troupeau de mon pâturage — déclaration de YHWH.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pasteurs"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "détruisent"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "et dispersent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le troupeau"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "le troupeau"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "de mon pâturage"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T16:29:47.435679333Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Toi, par ta main, tu as dépossédé des nations, et tu les as plantées ; tu as affligé des peuples, et tu les as chassés.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "par ta main"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "tu as dépossédé"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "et tu les as plantées"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "tu as affligé"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "et tu les as chassés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:46.416239553Z",
+  "model": "glm-4.5"
+}

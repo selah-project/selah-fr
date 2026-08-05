@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Son élévation ne vous effraie-t-elle pas ? Et sa terreur tombera sur vous",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ne... pas"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "son élévation"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "effraie"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "et sa terreur"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tombera"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sur vous"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:47.898522910Z",
+  "model": "glm-4.5"
+}

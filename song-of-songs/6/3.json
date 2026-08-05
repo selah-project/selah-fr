@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Moi, je suis à mon bien-aimé, et mon bien-aimé est à moi ; ⟨celui⟩ qui paît parmi les lys.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi, je"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "suis à mon bien-aimé"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "et mon bien-aimé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "est à moi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "celui qui paît"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "parmi les lys"
+    }
+  ],
+  "timestamp": "2026-08-05T04:21:11.460953272Z",
+  "model": "glm-4.5"
+}

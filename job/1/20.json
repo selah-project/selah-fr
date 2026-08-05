@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Alors Iyyov se leva, et déchira ⟨את⟩ son manteau, et rasa ⟨את⟩ sa tête, et tomba à terre, et se prosterna.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "se leva, et déchira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son manteau"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "son manteau"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "et rasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tête"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sa tête"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "et tomba"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "à terre"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "et se prosterna"
+    }
+  ],
+  "timestamp": "2026-08-05T03:42:01.199956145Z",
+  "model": "glm-4.5"
+}

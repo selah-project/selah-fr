@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Comme la compassion d'un père ⟨est⟩ sur les fils, ainsi YHWH a compassion ⟨sur⟩ ceux qui le craignent.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Comme la compassion"
+    },
+    {
+      "surface": "אב",
+      "gloss": "d'un père"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "a compassion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ceux qui le craignent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:36.777788140Z",
+  "model": "glm-4.5"
+}

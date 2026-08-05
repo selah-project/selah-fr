@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Au chef de chant, de David, en YHWH je me suis confié, comment dites-vous à mon âme : envolez-vous ⟨comme⟩ un oiseau vers votre montagne ?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chant"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "je me suis confié"
+    },
+    {
+      "surface": "איך",
+      "gloss": "comment"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "dites-vous"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "à mon âme"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "envolez-vous"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "vers votre montagne"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "⟨comme⟩ un oiseau"
+    }
+  ],
+  "timestamp": "2026-08-05T01:08:18.778535450Z",
+  "model": "glm-4.5"
+}

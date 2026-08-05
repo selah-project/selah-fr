@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il l'égorga et Moïse aspergea ⟨את⟩ le sang sur ⟨le⟩ mizbéach tout autour",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Et il l'égorga"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "et Moïse aspergea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sang"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "le sang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨le⟩ mizbéach"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    }
+  ],
+  "timestamp": "2026-08-04T19:01:03.506015760Z",
+  "model": "glm-4.5"
+}

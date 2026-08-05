@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Il n'y aura point chez toi ⟨un⟩ El étranger, et tu ne te prosterneras point devant ⟨un⟩ El étranger.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il y aura"
+    },
+    {
+      "surface": "בך",
+      "gloss": "chez toi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "étranger"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne ⟨pas⟩"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "te prosterneras"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "devant El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "étranger"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:33.777825350Z",
+  "model": "glm-4.5"
+}

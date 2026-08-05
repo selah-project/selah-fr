@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Ou bien as-tu un bras comme El, et d'une voix comme Lui fais-tu tonner ?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ou bien"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "un bras"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "comme El"
+    },
+    {
+      "surface": "לך",
+      "gloss": "as-tu"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "et d'une voix"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "comme Lui"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "fais-tu tonner"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:48.043061410Z",
+  "model": "glm-4.5"
+}

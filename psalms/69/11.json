@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "et je pleure dans le jeûne de ma nefesh, et cela devient pour moi des outrages",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "et je pleure"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "dans le jeûne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "de ma nefesh"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et cela devient"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "pour des outrages"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:58.002679380Z",
+  "model": "glm-4.5"
+}

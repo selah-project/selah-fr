@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 100,
+  "translation": "Car YHWH ⟨est⟩ bon, pour toujours son hessed, et jusqu'à la génération et la génération sa fidélité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "דר",
+      "gloss": "la génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "et la génération"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "sa fidélité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:25:41.695445463Z",
+  "model": "glm-4.5"
+}

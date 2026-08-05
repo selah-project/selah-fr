@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Élohim juge le juste, et El s'indigne tous les jours.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "juge"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "s'indigne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "יום",
+      "gloss": "les jours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:11.166506292Z",
+  "model": "glm-4.5"
+}

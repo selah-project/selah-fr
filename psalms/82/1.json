@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Mizmor d'Asaph : Élohim se tient dans ⟨l'⟩assemblée d'El, au milieu d'Élohim il juge.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "d'Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "se tient"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "dans ⟨l'⟩assemblée"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "il juge"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:11.684759642Z",
+  "model": "glm-4.5"
+}

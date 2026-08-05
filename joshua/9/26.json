@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et il fit ainsi pour eux, et ⟨les⟩ délivra de ⟨la⟩ main des fils d'Israël, et ne les tuèrent pas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et il fit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "et délivra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨les⟩",
+      "marks": "de la main des fils d'Israël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "les tuèrent pas"
+    }
+  ],
+  "timestamp": "2026-08-04T21:57:42.907753880Z",
+  "model": "glm-4.5"
+}

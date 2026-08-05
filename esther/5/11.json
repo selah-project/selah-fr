@@ -1,0 +1,96 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "et Haman leur raconta ⟨את⟩ la gloire de sa richesse et ⟨le⟩ grand nombre de ses fils, et ⟨את⟩ tout ce dont le roi l'avait grandi, et ⟨את⟩ ce qu'il l'avait élevé sur les princes et les serviteurs du roi.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "et raconta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la gloire"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "de sa richesse"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et l'abondance"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "de ses fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "avait grandi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "avait élevé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "les princes"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "et les serviteurs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:59:43.772730260Z",
+  "model": "glm-4.5"
+}

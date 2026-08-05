@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Mes ennemis disent du mal de moi : quand mourra-t-il, et son nom périra-t-il ?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Mes ennemis"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "disent"
+    },
+    {
+      "surface": "רע",
+      "gloss": "du mal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mourra-t-il"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "et"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom périra-t-il"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:29.388062089Z",
+  "model": "glm-4.5"
+}

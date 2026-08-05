@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et je vis, moi, ⟨את⟩ toute la peine et ⟨את⟩ tout le succès de l'œuvre, car elle ⟨est⟩ jalousie d'un homme auprès de son prochain ; cela aussi est vanité et poursuite de vent",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Et je vis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute la peine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "la peine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout le succès"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "le succès"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "de l'œuvre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle ⟨est⟩"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "jalousie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "auprès de son prochain"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "est vanité"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "et poursuite"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de vent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:30.712143247Z",
+  "model": "glm-4.5"
+}

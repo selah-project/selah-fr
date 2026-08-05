@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Au chef de chant. Ne détruis pas. De David. Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "détruis pas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:32.696669901Z",
+  "model": "glm-4.5"
+}

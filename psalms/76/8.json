@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Toi, redoutable, toi, et qui se tiendra devant toi depuis [le temps où] s'est embrasée ta colère ?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "redoutable"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "se tiendra"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "s'est embrasée ta colère"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:09.035257988Z",
+  "model": "glm-4.5"
+}

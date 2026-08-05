@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Un jardin fermé, ma sœur, ⟨la⟩ fiancée ; une source fermée, une fontaine scellée.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "Un jardin"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "fermé"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ma sœur"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨la⟩ fiancée"
+    },
+    {
+      "surface": "גל",
+      "gloss": "une source"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "fermée"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "une fontaine"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "scellée"
+    }
+  ],
+  "timestamp": "2026-08-05T04:19:45.623610555Z",
+  "model": "glm-4.5"
+}

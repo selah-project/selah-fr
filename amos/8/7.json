@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "a juré YHWH par ⟨la⟩ fierté de Jacob : si j'oublie pour toujours toutes leurs actions",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "a juré"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "par ⟨la⟩ fierté"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "j'oublie"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "leurs actions"
+    }
+  ],
+  "timestamp": "2026-08-05T00:20:13.381765386Z",
+  "model": "glm-4.5"
+}

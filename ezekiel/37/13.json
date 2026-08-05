@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et vous saurez que je suis YHWH, quand j'ouvrirai ⟨את⟩ vos sépulcres et que je vous ferai monter de vos sépulcres, mon peuple.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Et vous saurez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "quand j'ouvrirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos sépulcres"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "vos sépulcres"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "et que je vous ferai monter"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "de vos sépulcres"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "de vos sépulcres"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    }
+  ],
+  "timestamp": "2026-08-04T23:45:42.761595511Z",
+  "model": "glm-4.5"
+}

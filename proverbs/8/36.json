@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Mais celui qui pèche contre moi fait tort à sa propre âme ; tous ceux qui me haïssent aiment la mort.",
+  "tokens": [
+    {
+      "surface": "וְֽ֭חֹטְאִי",
+      "gloss": "mais celui qui pèche"
+    },
+    {
+      "surface": "חֹמֵ֣ס",
+      "gloss": "fait tort"
+    },
+    {
+      "surface": "נַפְשׁ֑וֹ",
+      "gloss": "à sa propre âme"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מְ֝שַׂנְאַ֗י",
+      "gloss": "ceux qui me haïssent"
+    },
+    {
+      "surface": "אָ֣הֲבוּ",
+      "gloss": "aiment"
+    },
+    {
+      "surface": "מָֽוֶת",
+      "gloss": "la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:06.083506330Z",
+  "model": "glm-4.5"
+}

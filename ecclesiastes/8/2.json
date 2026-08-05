@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Moi, le commandement du roi garde, et à cause du serment d'Élohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "le commandement"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "garde"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et à cause de"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨l'obligation du⟩ serment"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "serment"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T04:38:18.069671829Z",
+  "model": "glm-4.5"
+}

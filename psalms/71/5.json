@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Car toi, ⟨tu es⟩ mon espérance, Adonaï YHWH, ma confiance depuis ma jeunesse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "⟨tu es⟩ mon espérance"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ma confiance"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "depuis ma jeunesse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:42.955219722Z",
+  "model": "glm-4.5"
+}

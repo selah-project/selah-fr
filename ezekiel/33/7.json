@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et toi, fils d'humain, guetteur je t'ai donné ⟨à⟩ la maison d'Israël, et tu entendras de ma bouche une parole, et tu les avertiras de ma part.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'humain"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "guetteur"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "je t'ai donné"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨à⟩ la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "et tu entendras"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "de ma bouche"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "et tu les avertiras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "de ma part",
+      "marks": "ממני"
+    },
+    {
+      "surface": "ממני",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T23:41:36.914353066Z",
+  "model": "glm-4.5"
+}

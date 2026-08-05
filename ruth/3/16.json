@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Elle vint vers sa belle-mère, et elle dit : Qui ⟨es⟩-tu, ma fille ? Et elle lui raconta tout ce que l'homme avait fait ⟨pour⟩ elle.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Elle vint"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "sa belle-mère"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et elle dit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨es⟩-tu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ma fille"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Et elle lui raconta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce que"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "avait fait"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨pour⟩ elle"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:15.579226005Z",
+  "model": "glm-4.5"
+}

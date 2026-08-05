@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "J'ai dit : mon Él, ne me fais pas monter au milieu de mes jours ; ⟨dans⟩ la génération des générations ⟨sont⟩ tes années.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "J'ai dit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mon Él"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "me fais pas monter"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mes jours"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dans la génération"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "des générations"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "tes années"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:47.062332209Z",
+  "model": "glm-4.5"
+}

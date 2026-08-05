@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Même tu as retourné le tranchant de son épée, et tu ne l'as pas fait se tenir dans la bataille.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Même"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "tu as retourné"
+    },
+    {
+      "surface": "צור",
+      "gloss": "le tranchant"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "de son épée"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne l'as pas"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "fait se tenir"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dans la bataille"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:41.687205284Z",
+  "model": "glm-4.5"
+}

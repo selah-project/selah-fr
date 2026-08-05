@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "J'étais un jeune homme, même je suis devenu vieux, et je n'ai pas vu ⟨le⟩ juste abandonné, ni sa descendance cherchant du pain.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "J'étais un jeune homme"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'étais"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "je suis devenu vieux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et je n'ai pas"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "vu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨le⟩ juste"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "abandonné"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ni sa descendance"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "cherchant"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    }
+  ],
+  "timestamp": "2026-08-05T01:31:18.056275664Z",
+  "model": "glm-4.5"
+}

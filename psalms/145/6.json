@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Et la puissance de ⟨tes⟩ choses redoutables, ils diront, et ta grandeur, je ⟨la⟩ raconterai.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "et la puissance"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "de tes choses redoutables"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ils diront"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "et ta grandeur"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "je ⟨la⟩ raconterai"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:49.494542981Z",
+  "model": "glm-4.5"
+}

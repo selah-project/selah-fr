@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Car tes serviteurs se plaisent en ses pierres, et ⟨ils⟩ ont pitié de sa poussière.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "se plaisent"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses pierres"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ses pierres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "sa poussière"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "sa poussière"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "⟨ils⟩ ont pitié"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:51.823757260Z",
+  "model": "glm-4.5"
+}

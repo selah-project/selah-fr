@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Car est rassasiée de maux ma nefesh, et ma vie ⟨est⟩ arrivée au Shéol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "est rassasiée"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "de maux"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "et ma vie"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "au Shéol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "est arrivée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:13.758243321Z",
+  "model": "glm-4.5"
+}

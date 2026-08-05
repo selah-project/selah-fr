@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et toi, YHWH, fais-moi grâce et relève-moi, et je leur rendrai.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fais-moi grâce"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "et relève-moi"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "et je rendrai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:33.190688388Z",
+  "model": "glm-4.5"
+}

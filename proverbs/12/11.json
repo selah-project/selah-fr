@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Celui qui travaille sa terre sera rassasié de pain, mais celui qui poursuit des vides manque de cœur.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "Celui qui travaille"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sa terre"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "sera rassasié"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "mais celui qui poursuit"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "des vides"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "manque"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:19.010549948Z",
+  "model": "glm-4.5"
+}

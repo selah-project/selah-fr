@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Les cieux racontent ⟨la⟩ gloire d'El, et l'ouvrage de ses mains, le firmament ⟨le⟩ déclare.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Les cieux"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "racontent"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨la⟩ gloire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "et l'ouvrage"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "de ses mains"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "⟨le⟩ déclare"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "le firmament"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:53.950849763Z",
+  "model": "glm-4.5"
+}

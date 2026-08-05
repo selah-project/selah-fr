@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 138,
+  "translation": "De David. Je te loue de tout mon cœur, devant les Élohim je te chante.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "je te loue"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "les Élohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "je te chante"
+    }
+  ],
+  "timestamp": "2026-08-05T02:59:43.009273044Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "car leur Goël est fort, il plaidera leur cause avec toi",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "leur Goël"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "est fort"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "plaidera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur cause"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "leur cause"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avec toi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:32:42.386074567Z",
+  "model": "glm-4.5"
+}

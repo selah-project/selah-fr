@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il fit sortir son peuple comme un troupeau, et les conduisit comme un troupeau dans le désert.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Et il fit sortir"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "comme un troupeau"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "et les conduisit"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "comme un troupeau"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:13.602978837Z",
+  "model": "glm-4.5"
+}

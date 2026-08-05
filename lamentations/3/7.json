@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Il ⟨a⟩ muré autour de moi pour que je ne sorte pas, il ⟨a⟩ alourdi mon bronze.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Il ⟨a⟩ muré"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "autour de moi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pour que ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "je sorte"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "il ⟨a⟩ alourdi"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "mon bronze"
+    }
+  ],
+  "timestamp": "2026-08-05T04:30:06.962655711Z",
+  "model": "glm-4.5"
+}

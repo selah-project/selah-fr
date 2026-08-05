@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "YHWH est bon pour tous et ses miséricordes sont sur toutes ses œuvres.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour tous"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "et ses miséricordes"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ses œuvres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:49.792148658Z",
+  "model": "glm-4.5"
+}

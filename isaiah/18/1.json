@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Hoï ⟨le⟩ pays ⟨au⟩ bourdonnement d'ailes, qui ⟨est⟩ au-delà des rivières de Cush",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoï"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨le⟩ pays"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "⟨au⟩ bourdonnement"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "d'ailes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "au-delà"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "des rivières"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "de Cush"
+    }
+  ],
+  "timestamp": "2026-08-04T22:26:02.115231854Z",
+  "model": "glm-4.5"
+}

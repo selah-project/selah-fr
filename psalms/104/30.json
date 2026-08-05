@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Tu envoie ton Rouah, ils sont créés ; et tu renouvelles ⟨la⟩ face de ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "tu envoies"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ton Rouah"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ils sont créés"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "et tu renouvelles"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ face"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "de ⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:12.541395708Z",
+  "model": "glm-4.5"
+}

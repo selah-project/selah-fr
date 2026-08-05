@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "L'homme bienveillant obtient la faveur de YHWH, mais l'homme de machinations, il le condamne.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "L'homme bienveillant"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "obtient"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "la faveur"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mais l'homme"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "de machinations"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "il le condamne"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:27.236107251Z",
+  "model": "glm-4.5"
+}

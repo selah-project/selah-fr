@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Toutes les voies de YHWH sont hessed et vérité pour ceux qui gardent son alliance et ses témoignages",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toutes"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "les voies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hessed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "et vérité"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "pour ceux qui gardent"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "son alliance"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "et ses témoignages"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:19.542789165Z",
+  "model": "glm-4.5"
+}

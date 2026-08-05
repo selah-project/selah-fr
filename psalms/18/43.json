@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "psalms 18:43",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Je les broierai comme la poussière sur la face du vent, comme la boue des rues, je les répandrai.",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "Je les broierai"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "comme la poussière"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face de"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vent"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "comme la boue"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "des rues"
+    },
+    {
+      "surface": "אריקם",
+      "gloss": "je les répandrai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:20.446847907Z",
+  "model": "glm-4.5"
+}

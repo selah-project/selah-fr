@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 55,
+  "ref": "jeremiah 51:55",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Car YHWH dévaste ⟨את⟩ Babylone et détruit d'elle la grande voix ; leurs vagues mugissent comme beaucoup ⟨d'⟩eaux, ⟨est⟩ donné un tumulte de leur voix.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dévaste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babylone"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylone"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "et détruit"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "d'elle"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la grande voix"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "והמו",
+      "gloss": "leurs vagues mugissent"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "leurs vagues"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "comme beaucoup ⟨d'⟩eaux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨est⟩ donné"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "un tumulte"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "de leur voix"
+    }
+  ],
+  "timestamp": "2026-08-04T23:09:13.031880368Z",
+  "model": "glm-4.5"
+}

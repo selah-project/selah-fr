@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Tous les peuples, battez des mains, éclatez en cris de joie vers Élohim d'une voix ⟨de⟩ cri d'allégresse.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "battez des mains"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨la⟩ paume"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "éclatez en cris de joie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "vers Élohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "d'une voix"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "⟨de⟩ cri d'allégresse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:53.595627249Z",
+  "model": "glm-4.5"
+}

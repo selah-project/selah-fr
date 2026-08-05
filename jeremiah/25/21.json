@@ -1,0 +1,44 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Édom, et Moab, et les fils d’Ammon",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Édom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "les fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "d’Ammon"
+    }
+  ],
+  "timestamp": "2026-08-04T22:41:28.266266924Z",
+  "model": "glm-4.5"
+}

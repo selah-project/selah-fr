@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "⟨Le⟩ vingt-quatrième ⟨jour⟩ du mois, ⟨le⟩ sixième, ⟨en⟩ la deuxième année de Darius, le roi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "⟨Le⟩ ... ⟨jour⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vingt"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "et quatre"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "⟨le⟩ sixième"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "⟨en⟩ l'année"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "deuxième"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "de Darius"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-05T00:41:06.299014617Z",
+  "model": "glm-4.5"
+}

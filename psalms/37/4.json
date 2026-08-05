@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et prends plaisir en YHWH, et il te donnera les demandes de ton cœur.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "et prends plaisir"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et il te donnera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "les demandes"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "de ton cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:50.075915358Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Mon face est rouge de pleurs, et sur mes paupières est l'ombre de mort.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "mon face"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "est rouge"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "pleurs"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "mes paupières"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "l'ombre de mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:56:01.107787032Z",
+  "model": "glm-4.5"
+}

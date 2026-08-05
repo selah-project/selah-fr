@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "C’est ⟨là⟩ l’œuvre de mes accusateurs ⟨de la part de⟩ YHWH, et de ceux qui parlent ⟨du⟩ mal contre ma nefesh.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "C’est"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "l’œuvre"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "de mes accusateurs"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨de la part de⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "et de ceux qui parlent"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:38.916822421Z",
+  "model": "glm-4.5"
+}

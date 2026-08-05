@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Elle guette les allées de sa maison, et le pain de la paresse elle ne mange pas.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "Elle guette"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "les allées"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "de sa maison"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "et le pain"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "de la paresse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mange pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:40.308549344Z",
+  "model": "glm-4.5"
+}

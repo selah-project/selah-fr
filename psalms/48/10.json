@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Nous avons réfléchi, Élohim, à ton hessed, au milieu de ton palais.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Nous avons réfléchi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "à ton hessed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ton palais"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:39.143427770Z",
+  "model": "glm-4.5"
+}

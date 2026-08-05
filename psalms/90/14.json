@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Rassasie-nous le matin de ton hessed, et nous chanterons et nous nous réjouirons tous nos jours.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Rassasie-nous"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "de ton hessed"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "et nous chanterons"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "et nous nous réjouirons"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "nos jours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:35.875447578Z",
+  "model": "glm-4.5"
+}

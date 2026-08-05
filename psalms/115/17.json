@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Les morts ne louent pas Yah, et non, tous ⟨ceux qui⟩ descendent ⟨au⟩ silence.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "les morts"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "louent"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "descendants"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "silence"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:59.395779304Z",
+  "model": "glm-4.5"
+}

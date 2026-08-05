@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Qui maudit son père et sa mère, sa lampe s'éteindra dans les ténèbres les plus épaisses.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "qui maudit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "et sa mère"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "s'éteindra"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "sa lampe"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "dans les ténèbres les plus épaisses"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:26.722778088Z",
+  "model": "glm-4.5"
+}

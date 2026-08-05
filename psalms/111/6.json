@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 111,
+  "translation": "La puissance de ses œuvres, il l'a déclarée à son peuple, pour donner ⟨aux⟩ eux l'héritage des nations",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "la puissance"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "de ses œuvres"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "il l'a déclarée"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "à son peuple"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨aux⟩ eux"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "l'héritage"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    }
+  ],
+  "timestamp": "2026-08-05T02:36:24.807422651Z",
+  "model": "glm-4.5"
+}

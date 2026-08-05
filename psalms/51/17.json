@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Adonaï, ouvre mes lèvres, et ma bouche ⟨dira⟩ ta louange.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mes lèvres"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ouvre"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "et ma bouche"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "⟨dira⟩"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ta louange"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:39.601351821Z",
+  "model": "glm-4.5"
+}

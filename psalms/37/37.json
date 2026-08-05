@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Garde l'intègre et regarde le droit car ⟨la⟩ fin de l'homme est shalom",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Garde"
+    },
+    {
+      "surface": "תם",
+      "gloss": "l'intègre"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et regarde"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "le droit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "⟨la⟩ fin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:41.951407169Z",
+  "model": "glm-4.5"
+}

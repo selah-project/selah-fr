@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Le messager de YHWH campe autour de ceux qui le craignent, et il les délivre",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "campe"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Le messager"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "autour"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "de ceux qui le craignent"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "et il les délivre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:26.328550519Z",
+  "model": "glm-4.5"
+}

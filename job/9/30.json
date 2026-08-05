@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Si je me lave avec de la neige et que je purifie ⟨mes⟩ mains avec de la potasse",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "je me lave"
+    },
+    {
+      "surface": "במו",
+      "gloss": "avec"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "de la neige"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "et que je purifie"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "avec de la potasse"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "⟨mes⟩ mains"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:53.894751637Z",
+  "model": "glm-4.5"
+}

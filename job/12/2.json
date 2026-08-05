@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Certes, vous êtes le peuple, et avec vous mourra la sagesse.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Certes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous êtes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "et avec vous"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:58.949383283Z",
+  "model": "glm-4.5"
+}

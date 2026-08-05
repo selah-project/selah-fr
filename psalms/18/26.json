@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Avec le pieux tu te montres pieux, avec l'homme intègre tu te montres intègre",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Avec"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "le pieux"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "tu te montres pieux"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "intègre"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "tu te montres intègre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:41.323804709Z",
+  "model": "glm-4.5"
+}

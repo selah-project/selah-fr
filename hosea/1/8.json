@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et elle sevra ⟨את⟩ Lo-Rouhamah, et elle conçut, et enfanta un fils.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "Et elle sevra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rouhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rouhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "et elle conçut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "et enfanta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    }
+  ],
+  "timestamp": "2026-08-04T23:57:09.617472843Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Un malfaisant prête l'oreille à des lèvres d'iniquité, le mensonge ⟨donne⟩ l'oreille à une langue destructrice.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "Un malfaisant"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "des lèvres"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "le mensonge"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "⟨donne⟩ l'oreille"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "une langue"
+    },
+    {
+      "surface": "הות",
+      "gloss": "destructrice"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:10.872739456Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Son malheur retournera sur sa tête, et sa violence descendra sur son sommet.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "retournera"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "son malheur"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sur sa tête"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "son sommet"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "sa violence"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "descendra"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:00.204241389Z",
+  "model": "glm-4.5"
+}

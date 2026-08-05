@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Je suis noire et belle, filles de Jérusalem, comme les tentes de Qédar, comme les tentures de Shelomo.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "noire"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "et belle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filles"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "comme les tentes"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "de Qédar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "comme les tentures"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-05T04:17:35.530519774Z",
+  "model": "glm-4.5"
+}

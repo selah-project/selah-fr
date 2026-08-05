@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et je dis : Adonaï YHWH, cesse, ⟨je te prie⟩ ; qui se lèvera, Jacob, car il est petit ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "cesse"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨je te prie⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se lèvera"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "il est petit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il est⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T00:19:19.913350914Z",
+  "model": "glm-4.5"
+}

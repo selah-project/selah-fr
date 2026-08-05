@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": " Donne au ⟨sage⟩ et il deviendra sage encore ; fais savoir au ⟨juste⟩ et il augmentera l'instruction.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Donne"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "au ⟨sage⟩"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "et il deviendra sage encore"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "fais savoir"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "au ⟨juste⟩"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "et il augmentera"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "l'instruction"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:51.383341010Z",
+  "model": "glm-4.5"
+}

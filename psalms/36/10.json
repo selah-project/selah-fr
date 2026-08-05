@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Car auprès de toi est la source de la vie, dans ta lumière nous voyons ⟨la⟩ lumière.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "auprès de toi"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "est la source"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "de la vie"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "dans ta lumière"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nous voyons ⟨la⟩"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumière"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:01.746300916Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Alors ils crient vers YHWH dans leur détresse, et de leurs angoisses il les fait sortir.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Alors ils crient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dans leur détresse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "et de leurs angoisses"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "il les fait sortir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:49.281469199Z",
+  "model": "glm-4.5"
+}

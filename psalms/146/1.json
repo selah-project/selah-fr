@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "Louez Yah Louez, ô ma nefesh, ⟨את⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ô ma nefesh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:24.481276721Z",
+  "model": "glm-4.5"
+}

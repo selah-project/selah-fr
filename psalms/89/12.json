@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "À toi ⟨sont⟩ les cieux, à toi aussi la terre, le monde et sa plénitude, toi, tu les as fondés",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "À toi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨sont⟩ les cieux"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "et sa plénitude"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "tu les as fondés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:14.599201156Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car toi, tu béniras le juste, YHWH ; comme avec un bouclier, le bon plaisir tu le couronnes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "tu béniras"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "comme avec un bouclier"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "le bon plaisir"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "tu le couronnes"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:20.235748859Z",
+  "model": "glm-4.5"
+}

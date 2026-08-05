@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Comme de l'eau je ⟨suis⟩ répandu, et tous mes os ⟨se sont⟩ disjoints ; mon cœur est comme de la cire, il est fondu au ⟨milieu⟩ de mes entrailles.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "Comme de l'eau"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "je ⟨suis⟩ répandu"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "et tous mes os ⟨se sont⟩ disjoints"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mes os"
+    },
+    {
+      "surface": "היה",
+      "gloss": "est"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "comme de la cire"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "il est fondu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au ⟨milieu⟩ de"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mes entrailles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:06.117042945Z",
+  "model": "glm-4.5"
+}

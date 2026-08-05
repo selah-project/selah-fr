@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car qui est El, hormis YHWH, et qui est un rocher, sinon notre Élohim ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "est El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "hormis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "צור",
+      "gloss": "est un rocher"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "sinon"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:03.725474720Z",
+  "model": "glm-4.5"
+}

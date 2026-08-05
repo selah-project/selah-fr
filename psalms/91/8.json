@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Seulement de tes yeux tu regarderas, et ⟨la⟩ rétribution des méchants tu verras.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "de tes yeux"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "tu regarderas"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "et ⟨la⟩ rétribution"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu verras"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:09.517371555Z",
+  "model": "glm-4.5"
+}

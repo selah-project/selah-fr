@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Saisis ⟨le⟩ bouclier et ⟨le⟩ petit bouclier, et lève-toi pour mon aide",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Saisis"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨le⟩ bouclier"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "et ⟨le⟩ petit bouclier"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "et lève-toi"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "pour mon aide"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:13.543209746Z",
+  "model": "glm-4.5"
+}

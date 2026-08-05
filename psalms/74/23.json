@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "N'oublie pas la voix de tes adversaires, le tumulte de ceux qui se lèvent contre toi monte sans cesse",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "oublie pas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "de tes adversaires"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "le tumulte"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "de ceux qui se lèvent contre toi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sans cesse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:25.561002409Z",
+  "model": "glm-4.5"
+}

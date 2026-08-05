@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et le steward prenait ⟨את⟩ leurs mets et le vin de leur boisson et il ⟨leur⟩ donnait des légumes",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "le steward"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "prenait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs mets"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "leurs mets"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "et le vin"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "de leur boisson"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "et il ⟨leur⟩ donnait"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨leur⟩"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "des légumes"
+    }
+  ],
+  "timestamp": "2026-08-05T05:05:51.308315366Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 111,
+  "translation": "Grandes sont les œuvres de YHWH, recherchées par tous ⟨ceux qui⟩ y prennent plaisir.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Grandes"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "les œuvres"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "recherchées"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "par tous"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "⟨ceux qui⟩ y prennent plaisir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:36:31.363274776Z",
+  "model": "glm-4.5"
+}

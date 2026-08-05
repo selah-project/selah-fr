@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "song-of-songs 5:14",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Ses mains sont des cylindres d'or, remplis de tarshish, son ventre est une ouvrage d'ivoire, incrusté de saphirs.",
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "sont des cylindres"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "ממלאים",
+      "gloss": "remplis"
+    },
+    {
+      "surface": "בתרשיש",
+      "gloss": "de tarshish"
+    },
+    {
+      "surface": "מעיו",
+      "gloss": "son ventre"
+    },
+    {
+      "surface": "עשת",
+      "gloss": "une ouvrage"
+    },
+    {
+      "surface": "שן",
+      "gloss": "d'ivoire"
+    },
+    {
+      "surface": "מעלפת",
+      "gloss": "incrusté"
+    },
+    {
+      "surface": "ספירים",
+      "gloss": "de saphirs"
+    }
+  ],
+  "timestamp": "2026-08-05T04:20:38.842407288Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Là je ferai germer ⟨une⟩ corne pour David, j'ai disposé ⟨une⟩ lampe pour mon Oint.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Là"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "je ferai germer"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "⟨une⟩ corne"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pour David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "j'ai disposé"
+    },
+    {
+      "surface": "נר",
+      "gloss": "⟨une⟩ lampe"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "pour mon Oint"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:04.154874625Z",
+  "model": "glm-4.5"
+}

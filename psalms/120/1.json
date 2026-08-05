@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 120,
+  "translation": "Chant des montées. Vers YHWH, dans ma détresse, j'ai appelé, et il m'a répondu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "dans ma détresse"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "j'ai appelé"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "et il m'a répondu"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:31.046237625Z",
+  "model": "glm-4.5"
+}

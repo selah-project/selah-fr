@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Ne crains ⟨pas⟩ la soudaine frayeur, ni la ruine des méchants quand elle vient.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "crains"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "la soudaine frayeur"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "soudaine"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ni la ruine"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "elle vient"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:29.637727487Z",
+  "model": "glm-4.5"
+}

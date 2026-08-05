@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Car qu'est-ce qui revient à l'homme de tout son labeur et ⟨du⟩ tourment de son cœur ⟨par lequel⟩ il a peiné sous le soleil ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qu'est-ce qui"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "revient"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "à l'homme"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "son labeur"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "et ⟨du⟩ tourment"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "de son cœur"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "⟨par lequel⟩"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "il a peiné"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T04:33:49.125595578Z",
+  "model": "glm-4.5"
+}

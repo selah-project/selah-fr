@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 36:20",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Et ils entrèrent vers le roi dans la cour, et ⟨ils⟩ déposèrent ⟨את⟩ le scroll dans la chambre d'Elishama le scribe, et ils rapportèrent aux oreilles du roi ⟨את⟩ toutes les paroles.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Et"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ils entrèrent"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vers le roi"
+    },
+    {
+      "surface": "חצרה",
+      "gloss": "dans la cour"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨ils⟩"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "déposèrent"
+    },
+    {
+      "surface": "הפקדו",
+      "gloss": "⟨את⟩",
+      "marks": "le scroll"
+    },
+    {
+      "surface": "בלשכת",
+      "gloss": "le scroll"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "dans la chambre"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "d'Elishama"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "le scribe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "et ils rapportèrent"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "aux oreilles"
+    },
+    {
+      "surface": "את",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩",
+      "marks": "toutes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "toutes les paroles"
+    }
+  ],
+  "timestamp": "2026-08-04T22:52:10.168980443Z",
+  "model": "glm-4.5"
+}

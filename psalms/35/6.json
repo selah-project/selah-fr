@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Que leur chemin soit ténèbres et sentiers glissants, et le messager de YHWH les poursuit.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Que"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "leur chemin"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "soit ténèbres"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "et sentiers glissants"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "et le messager"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "les poursuit"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:09.251513142Z",
+  "model": "glm-4.5"
+}

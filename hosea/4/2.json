@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Malédiction, mensonge, meurtre, vol, adultère, ils font irruption, et le sangs touchent le sangs.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Malédiction"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "mensonge"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "meurtre"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "vol"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "adultère"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ils font irruption"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "et le sangs"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "sur sangs"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "touchent"
+    }
+  ],
+  "timestamp": "2026-08-04T23:59:53.382362799Z",
+  "model": "glm-4.5"
+}

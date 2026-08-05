@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 14:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Scellé ⟨est⟩ ⟨את⟩ mon péché dans un paquet, et ⟨tu⟩ caches sur mon iniquité",
+  "tokens": [
+    {
+      "surface": "חתם",
+      "gloss": "Scellé"
+    },
+    {
+      "surface": "בצרור",
+      "gloss": "dans un paquet"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "⟨את⟩ mon péché",
+      "marks": "mon péché"
+    },
+    {
+      "surface": "ותטפל",
+      "gloss": "et ⟨tu⟩ caches"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mon iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:41.191909254Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 122,
+  "translation": "Demandez la shalom de Jérusalem, ceux qui t'aiment seront dans la prospérité.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "demandez"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "seront dans la prospérité"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ceux qui t'aiment"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:41.638360713Z",
+  "model": "glm-4.5"
+}

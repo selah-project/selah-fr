@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "J'ai su qu'il n'y a ⟨rien⟩ de bon pour eux, sinon de se réjouir et de faire du bien dans leur vie.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "J'ai su"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨rien⟩ de bon"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "sinon"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "de se réjouir"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "et de faire"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "du bien"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "dans leur vie"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:37.063577079Z",
+  "model": "glm-4.5"
+}

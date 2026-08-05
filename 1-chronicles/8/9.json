@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il engendra de Hodesh sa femme ⟨את⟩ Yovav et ⟨את⟩ Tsivya et ⟨את⟩ Meisha et ⟨את⟩ Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa femme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Meisha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meisha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-08-05T05:48:13.812282557Z",
+  "model": "glm-5.2"
+}

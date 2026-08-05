@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Mauvais, mauvais, dit l'acheteur, et quand il s'en va, alors il se glorifie.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "mauvais"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvais"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "l'acheteur"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "et quand il s'en va"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pour lui⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "alors"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "il se glorifie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:20.874452030Z",
+  "model": "glm-4.5"
+}

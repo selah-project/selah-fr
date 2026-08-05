@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "en ces jours-là, ⟨quand⟩ le roi Assuérus siégeait sur ⟨le⟩ trône de son règne, qui est à Suse la citadelle,",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "aux jours"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ceux-là"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "au-siège de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Assuérus"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "le trône"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "de son règne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui est"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "à Suse"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "la citadelle"
+    }
+  ],
+  "timestamp": "2026-08-05T04:53:11.336747426Z",
+  "model": "glm-4.5"
+}

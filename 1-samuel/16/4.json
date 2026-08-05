@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Samuel fit ⟨ce⟩ que YHWH avait dit, et il vint à Bethléhem, et les anciens de la ville tremblèrent ⟨à⟩ sa rencontre, et ils dirent : ⟨Est⟩ ta venue ⟨en⟩ shalom ?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ce⟩",
+      "marks": "ce que YHWH avait dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "avait dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il vint"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "léhem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "et tremblèrent"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "⟨à⟩ sa rencontre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et ils dirent"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ta venue"
+    }
+  ],
+  "timestamp": "2026-08-04T22:06:12.250266526Z",
+  "model": "glm-4.5"
+}

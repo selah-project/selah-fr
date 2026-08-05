@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH est juste au milieu d'elle, il ne fera pas d'injustice ; chaque matin il donne son jugement à la lumière, il ne manque pas, et l'injuste ne connaît pas la honte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "est juste"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "au milieu d'elle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fera"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "injustice"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "chaque matin"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "son jugement"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "il donne"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "à la lumière"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne manque pas"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "manquer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "עול",
+      "gloss": "injuste"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "honte"
+    }
+  ],
+  "timestamp": "2026-08-05T00:40:25.529474178Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Dans le mois second, le quatorzième jour, entre les deux soirs ils le feront ; sur des matsot et des herbes amères ils le mangeront",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Dans le mois"
+    },
+    {
+      "surface": "השני",
+      "gloss": "second"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "le quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "les deux soirs"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ils le feront"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le",
+      "marks": "la Pâque (Pesah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "des matsot"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "et des herbes amères"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ils le mangeront"
+    }
+  ],
+  "timestamp": "2026-08-04T21:41:46.043238916Z",
+  "model": "glm-4.5"
+}

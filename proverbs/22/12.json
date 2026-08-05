@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Les yeux de YHWH gardent la connaissance, et il renverse les paroles du traître.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Les yeux"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "gardent"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "et il renverse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "du traître"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:36.842982430Z",
+  "model": "glm-4.5"
+}

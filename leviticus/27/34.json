@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Voici les commandements que YHWH a commandés ⟨את⟩ Moïse aux fils d'Israël, sur le mont Sinaï.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "les commandements"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a commandés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moïse"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur le mont"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaï"
+    }
+  ],
+  "timestamp": "2026-08-04T21:38:31.946588434Z",
+  "model": "glm-4.5"
+}

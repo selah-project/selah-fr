@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Est-ce ⟨את⟩ moi ⟨את⟩ ils irritent ? — oracle de YHWH. N'est-ce pas ⟨את⟩ eux-mêmes, pour la honte de leurs propres faces ?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "Est-ce ⟨את⟩ moi",
+      "marks": "הם"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨את⟩ ils"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "irritent"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ eux-mêmes",
+      "marks": "למען"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pour"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "la honte"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "de leurs propres faces"
+    }
+  ],
+  "timestamp": "2026-08-04T16:13:30.751968859Z",
+  "model": "glm-4.5"
+}

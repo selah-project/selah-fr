@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et YHWH répondit ⟨את⟩ Iyyov de la tempête et dit",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "de"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "la tempête"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:12:43.064127775Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Ne crains point quand un homme s'enrichit, quand augmente la splendeur de sa maison",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "crains point"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "s'enrichit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "augmente"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la splendeur"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "de sa maison"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:18.500401598Z",
+  "model": "glm-4.5"
+}

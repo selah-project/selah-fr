@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "⟨L'⟩ennemi est fini, ⟨ses⟩ ruines à perpétuité, et ⟨les⟩ villes tu as rasées, leur souvenir a péri avec eux.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "⟨L'⟩ennemi"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "est fini"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "⟨ses⟩ ruines"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "à perpétuité"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "et ⟨les⟩ villes"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "tu as rasées"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "a péri"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "leur souvenir"
+    },
+    {
+      "surface": "המה",
+      "gloss": "avec eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:31.041068607Z",
+  "model": "glm-4.5"
+}

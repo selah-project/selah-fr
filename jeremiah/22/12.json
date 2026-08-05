@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car ⟨dans⟩ le lieu où ils l'ont exilé, là il mourra, et ⟨la⟩ terre, celle-ci, il ne la verra plus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "dans le lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ils l'ont exilé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "il mourra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne... pas"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "il verra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    }
+  ],
+  "timestamp": "2026-08-04T22:40:41.776313335Z",
+  "model": "glm-4.5"
+}

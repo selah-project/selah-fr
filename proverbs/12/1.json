@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Celui qui aime la discipline aime la connaissance, et celui qui hait la réprimande est un stupide.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Celui qui aime"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "la discipline"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aime"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "et celui qui hait"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "la réprimande"
+    },
+    {
+      "surface": "בער",
+      "gloss": "est un stupide"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:27.235905698Z",
+  "model": "glm-4.5"
+}

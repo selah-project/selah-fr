@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Où est la parole d'un roi, là est la domination, et qui lui dira : que fais-tu ?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Où est"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "d'un roi"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "là est la domination"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "fais-tu ?"
+    }
+  ],
+  "timestamp": "2026-08-05T04:38:18.069898294Z",
+  "model": "glm-4.5"
+}

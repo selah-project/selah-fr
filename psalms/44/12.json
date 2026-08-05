@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Tu nous as donnés comme des brebis à manger, et among les nations Tu nous as dispersés.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Tu nous as donnés"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "comme des brebis"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "à manger"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "et among les nations"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Tu nous as dispersés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:51.248103572Z",
+  "model": "glm-4.5"
+}

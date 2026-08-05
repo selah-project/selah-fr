@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et Yehouda s'assembla pour demander ⟨à⟩ YHWH ; même de toutes les villes de Yehouda ils vinrent pour chercher ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "et s'assembla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pour demander"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "⟨à⟩ YHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toutes"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "les villes de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ils vinrent"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pour chercher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T06:07:13.325861682Z",
+  "model": "glm-5.2"
+}

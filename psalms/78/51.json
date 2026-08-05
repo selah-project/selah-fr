@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il frappa tout premier-né en Égypte, les prémices ⟨de⟩ leur force dans les tentes de Ham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Et il frappa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premier-né"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "les prémices"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "⟨de⟩ leur force"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "dans les tentes"
+    },
+    {
+      "surface": "חם",
+      "gloss": "de Ham"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:13.602863241Z",
+  "model": "glm-4.5"
+}

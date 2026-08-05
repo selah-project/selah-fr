@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Le ger n'a pas passé la nuit dehors, j'ouvrais mes portes ⟨au⟩ voyageur",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "dehors"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "passé la nuit"
+    },
+    {
+      "surface": "גר",
+      "gloss": "Le ger"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "mes portes"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "⟨au⟩ voyageur"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "j'ouvrais"
+    }
+  ],
+  "timestamp": "2026-08-05T04:07:02.238320520Z",
+  "model": "glm-4.5"
+}

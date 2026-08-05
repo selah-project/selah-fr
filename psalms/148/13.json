@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Qu'ils louent ⟨le⟩ nom de YHWH, car il est exalté, son nom, tout seul ; sa splendeur est au-dessus de la terre et des cieux.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "qu'ils louent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "il est exalté"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tout seul"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "sa splendeur"
+    },
+    {
+      "surface": "על",
+      "gloss": "au-dessus de"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "et des cieux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:03.186146495Z",
+  "model": "glm-4.5"
+}

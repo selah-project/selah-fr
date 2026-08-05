@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et leurs oppresseurs les opprimèrent et ils furent humiliés sous leur main",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "Et leurs oppresseurs les opprimèrent"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "leurs oppresseurs"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "et ils furent humiliés"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leur main"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:10.610943458Z",
+  "model": "glm-4.5"
+}

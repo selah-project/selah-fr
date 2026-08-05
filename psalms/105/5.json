@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Rappelez-vous ses merveilles qu'il a faites, ses prodiges et les jugements de sa bouche",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Rappelez-vous"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ses merveilles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a faites"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ses prodiges"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "et les jugements"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "de sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:14.644517774Z",
+  "model": "glm-4.5"
+}

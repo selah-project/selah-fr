@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "J'ai dit à YHWH : « Tu es mon Adonaï, tu es ⟨le⟩ bien qui est ⟨pour⟩ moi. »",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "J'ai dit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mon Adonaï"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "mon bien"
+    },
+    {
+      "surface": "בל",
+      "gloss": ""
+    },
+    {
+      "surface": "עליך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:28.333530676Z",
+  "model": "glm-4.5"
+}

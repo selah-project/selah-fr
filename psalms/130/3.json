@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "Si tu gardes les iniquités, Yah, Adonaï, qui ⟨pourra⟩ se tenir ⟨debout⟩ ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "les iniquités"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "tu gardes"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "se tenir debout"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:31.724517872Z",
+  "model": "glm-4.5"
+}

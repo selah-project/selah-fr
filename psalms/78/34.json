@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "S'Il les frappait ils ⟨le⟩ cherchaient et ils revenaient et ⟨ils⟩ cherchaient Él avec ardeur",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "S'Il"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "les frappait"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ils ⟨le⟩ cherchaient"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "et ils revenaient"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "et ⟨ils⟩ cherchaient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Él"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:31.493935756Z",
+  "model": "glm-4.5"
+}

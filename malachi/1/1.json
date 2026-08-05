@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Un oracle, la parole de YHWH à Israël, par la main de Malki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "un oracle"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "par la main"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "de Malki"
+    }
+  ],
+  "timestamp": "2026-08-05T00:57:18.927524546Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Il dispute avec des paroles qui ne profitent pas et des discours dont ⟨on⟩ ne tire aucun bien",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Il dispute"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "avec des paroles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qui ne profitent pas"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "profitent"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "et des discours"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dont"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ne tire aucun bien"
+    },
+    {
+      "surface": "בם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T03:55:10.669747867Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Est-ce vraiment en silence que vous parlez justice, ⟨vous les⟩ fils d'Adam, jugez-vous avec droiture ?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Est-ce vraiment"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "en silence"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "que vous parlez"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "droiture"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "jugez-vous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:32.696915121Z",
+  "model": "glm-4.5"
+}

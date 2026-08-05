@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Aminadab engendra ⟨את⟩ Nahshôn, et Nahshôn engendra ⟨את⟩ Salmon.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Et Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshôn"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshôn"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "et Nahshôn"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmon"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:55.550274526Z",
+  "model": "glm-4.5"
+}

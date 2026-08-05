@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 101,
+  "translation": "Un cœur tordu se détournera de moi ; le mal, je ne le connaîtrai pas.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Un cœur"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "tordu"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se détournera"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne le"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "connaîtrai pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:50.452601804Z",
+  "model": "glm-4.5"
+}

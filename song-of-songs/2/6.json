@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Sa main gauche ⟨est⟩ sous ma tête, et sa droite m'étreint.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "Sa main gauche"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "et sa droite"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "m'étreint"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:11.768378649Z",
+  "model": "glm-4.5"
+}

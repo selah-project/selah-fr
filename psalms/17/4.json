@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Quant aux œuvres de l'homme, par la parole de ⟨tes⟩ lèvres, moi, j'ai gardé les chemins du violent.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Quant aux œuvres"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "par la parole"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "de ⟨tes⟩ lèvres"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "j'ai gardé"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "les chemins"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "du violent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:04.408948403Z",
+  "model": "glm-4.5"
+}

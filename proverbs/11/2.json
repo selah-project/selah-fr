@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Quand ⟨vient⟩ l'arrogance, ⟨vient⟩ aussi le déshonneur, mais avec les modestes ⟨est⟩ la sagesse.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Quand vient"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "l'arrogance"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "vient aussi"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "le déshonneur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "avec",
+      "marks": "les modestes"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "les modestes"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:14.251047007Z",
+  "model": "glm-4.5"
+}

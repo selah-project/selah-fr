@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Shigaïon de David, qu'il chanta à YHWH sur les paroles de Cush, le Benjaminite.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaïon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'il"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chanta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "de Cush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "de Benjamin"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:22.057267423Z",
+  "model": "glm-4.5"
+}

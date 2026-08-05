@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car des chiens m'ont entouré une assemblée de malfaiteurs m'a encerclé comme un lion ⟨את⟩ mes mains et ⟨את⟩ mes pieds.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "m'ont entouré"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "des chiens"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "une assemblée"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "de malfaiteurs"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "m'a encerclé"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "comme un lion"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨את⟩",
+      "marks": "mes mains"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "et ⟨את⟩",
+      "marks": "mes pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:19.135939602Z",
+  "model": "glm-4.5"
+}

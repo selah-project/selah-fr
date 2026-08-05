@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Que rendrai-je à YHWH pour tous ⟨ses⟩ bienfaits sur moi ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "rendrai-je"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "⟨ses⟩ bienfaits"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:41.319705278Z",
+  "model": "glm-4.5"
+}

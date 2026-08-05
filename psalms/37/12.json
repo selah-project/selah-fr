@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Le méchant complote ⟨contre⟩ le juste, et grince ⟨ses⟩ dents contre lui.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "complote"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨contre⟩ le méchant"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "et grince"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨ses⟩ dents contre lui"
+    },
+    {
+      "surface": "שניו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T01:31:05.518548876Z",
+  "model": "glm-4.5"
+}

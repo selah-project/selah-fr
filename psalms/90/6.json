@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Au matin il fleurit et passe, au soir il est fauché et se dessèche.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Au matin"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "il fleurit"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "et passe"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "au soir"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "il est fauché"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "et se dessèche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:28.157814987Z",
+  "model": "glm-4.5"
+}

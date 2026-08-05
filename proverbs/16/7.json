@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Quand les voies d'un homme plaisent à YHWH, il fait même que ses ennemis fassent la paix avec lui.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Quand plaisent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "les voies"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ses ennemis"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il fait ... fassent la paix"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:18.766565699Z",
+  "model": "glm-4.5"
+}

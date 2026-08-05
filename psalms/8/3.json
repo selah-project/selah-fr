@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "De ⟨la⟩ bouche des nourrissons et de ceux qui tètent, tu as fondé ⟨la⟩ force à cause de tes adversaires, pour faire cesser l'ennemi et ⟨le⟩ vengeur.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "De ⟨la⟩ bouche"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "des nourrissons"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "et de ceux qui tètent"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "tu as fondé"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨la⟩ force"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "tes adversaires"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "pour faire cesser"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "l'ennemi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "et ⟨le⟩ vengeur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:58.885500996Z",
+  "model": "glm-4.5"
+}

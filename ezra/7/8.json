@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et ⟨il⟩ arriva à Jérusalem au cinquième mois ; c'était l'année septième du roi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et arriva"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "au mois"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "cinquième"
+    },
+    {
+      "surface": "היא",
+      "gloss": "c'était"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "l'année"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "septième"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:36:28.569666386Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Je laverai en pureté mes mains et je ferai le tour de ⟨את⟩ ton autel, YHWH",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Je laverai"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "en pureté"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mes mains"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "et je ferai le tour"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton autel"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "ton autel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:54.795826495Z",
+  "model": "glm-4.5"
+}

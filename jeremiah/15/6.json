@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Toi tu m'as abandonné — déclaration de YHWH ; tu ⟨es⟩ partie ⟨vers⟩ l'arrière et j'ai étendu ⟨את⟩ ma main sur toi et je t'ai détruite ; j'ai ⟨été⟩ las de ⟨me⟩ repentir.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "Toi",
+      "marks": "נטשת"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "tu m'as abandonné"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "— déclaration de",
+      "marks": "נאם"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ";"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tu ⟨es⟩ partie ⟨vers⟩ l'arrière"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "et"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "j'ai étendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ידי"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "et je t'ai détruite"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "j'ai ⟨été⟩ las de"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "⟨me⟩ repentir"
+    }
+  ],
+  "timestamp": "2026-08-04T16:23:12.183505658Z",
+  "model": "glm-4.5"
+}

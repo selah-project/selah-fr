@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et il advient : YHWH ⟨est⟩ pour juge, et il juge entre moi et toi, et il voit, et il plaide ⟨את⟩ ma cause, et me juge de ta main.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et il advient"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "pour juge"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "et il juge"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "et entre toi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et il voit"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "et il plaide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma cause"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ma cause"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "et me juge"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "de ta main"
+    }
+  ],
+  "timestamp": "2026-08-04T22:07:41.766661749Z",
+  "model": "glm-4.5"
+}

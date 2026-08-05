@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Tu ne verras pas ⟨את⟩ l'âne de ton frère ou son bœuf tombés dans la route, et tu te déroberas ⟨à⟩ eux ; tu l'aideras à les relever.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tu ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "verras pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'âne"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "l'âne"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "de ton frère"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "son bœuf"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "tombés"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la route"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "et tu te déroberas"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "⟨à⟩ eux"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "l'aideras"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "à les relever"
+    }
+  ],
+  "timestamp": "2026-08-04T21:52:42.147583012Z",
+  "model": "glm-4.5"
+}

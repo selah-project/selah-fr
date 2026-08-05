@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Ne levez pas votre corne ⟨vers⟩ les hauteurs ; ne parlez pas avec un cou impudent.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "levez pas"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "⟨vers⟩ les hauteurs"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "votre corne"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ne parlez pas"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "avec un cou"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "impudent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:14.824896917Z",
+  "model": "glm-4.5"
+}

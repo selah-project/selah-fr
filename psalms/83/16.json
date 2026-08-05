@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Ainsi poursuis-les par ta tempête, et par ton ouragan épouvante-les.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "poursuis-les"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "par ta tempête"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "et par ton ouragan"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "épouvante-les"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:41.352250786Z",
+  "model": "glm-4.5"
+}

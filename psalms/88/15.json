@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Pourquoi, YHWH, rejettes-tu mon âme ? ⟨et⟩ caches-tu ta face loin de moi ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "rejettes-tu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "caches-tu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "loin de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:32.281294788Z",
+  "model": "glm-4.5"
+}

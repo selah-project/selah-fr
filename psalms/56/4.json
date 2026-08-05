@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "Le jour où je craindra, moi, je me confierai en Toi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Le jour"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "où je craindra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "en Toi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "je me confierai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:01.484900318Z",
+  "model": "glm-4.5"
+}

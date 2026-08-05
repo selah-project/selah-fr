@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Car Job ⟨a⟩ dit : Je suis juste, et Élohim ⟨a⟩ tourné mon jugement.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Job"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "Je suis juste"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et Élohim"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "tourné"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mon jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T04:09:37.316436885Z",
+  "model": "glm-4.5"
+}

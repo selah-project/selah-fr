@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Quel avantage ⟨a⟩ l'humain dans tout son labeur, ⟨qu'il⟩ travaille sous le soleil ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Quel"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "avantage"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "⟨a⟩ l'humain"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "son labeur"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "⟨qu'il⟩ travaille"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:40.100342528Z",
+  "model": "glm-4.5"
+}

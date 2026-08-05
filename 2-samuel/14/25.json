@@ -1,51 +1,51 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 25,
   "ref": "2-samuel 14:25",
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Or, il n'y avait ⟨pas⟩ un homme aussi beau que וְכַאֲבִישָׁלֹם dans tout Israël, ⟨à⟩ louer extrêmement : depuis la plante de son pied ⟨et⟩ jusqu'au sommet de sa tête, il n'y avait ⟨pas⟩ en lui de défaut.",
+  "translation": "Et quant à Avshalom, il n'y avait pas ⟨d'⟩homme beau dans tout Israël pour ⟨le⟩ louanger grandement ; de la plante de son pied jusqu'au sommet de sa tête, il n'y avait pas en lui de défaut.",
   "tokens": [
     {
-      "surface": "וּכְאַבְשָׁל֗וֹם",
-      "gloss": "Or, ... וְכַאֲבִישָׁלֹם"
+      "surface": "וּכְאַבְשָׁל֗וֹם",
+      "gloss": "Et quant à Avshalom"
     },
     {
       "surface": "לֹא",
-      "gloss": "⟨pas⟩"
+      "gloss": "pas"
     },
     {
       "surface": "הָיָ֧ה",
-      "gloss": "il n'y avait"
+      "gloss": "il y avait"
     },
     {
       "surface": "אִישׁ",
-      "gloss": "un homme"
+      "gloss": "homme"
     },
     {
       "surface": "יָפֶ֛ה",
-      "gloss": "aussi beau que"
+      "gloss": "beau"
     },
     {
-      "surface": "בְּכָל",
+      "surface": "בְּכָל",
       "gloss": "dans tout"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "יִשְׂרָאֵ֖ל",
       "gloss": "Israël"
     },
     {
-      "surface": "לְהַלֵּ֣ל",
-      "gloss": "⟨à⟩ louer"
+      "surface": "לְהַלֵּ֣ל",
+      "gloss": "pour louanger"
     },
     {
       "surface": "מְאֹ֑ד",
-      "gloss": "extrêmement"
+      "gloss": "grandement"
     },
     {
-      "surface": "מִכַּ֤ף",
-      "gloss": "depuis la plante de"
+      "surface": "מִכַּ֤ף",
+      "gloss": "de la plante de"
     },
     {
       "surface": "רַגְלוֹ֙",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "וְעַ֣ד",
-      "gloss": "⟨et⟩ jusqu'à"
+      "gloss": "jusqu'à"
     },
     {
       "surface": "קָדְקֳד֔וֹ",
-      "gloss": "le sommet de sa tête"
+      "gloss": "au sommet de sa tête"
     },
     {
       "surface": "לֹא",
-      "gloss": "⟨pas⟩"
+      "gloss": "pas"
     },
     {
-      "surface": "הָ֥יָה",
-      "gloss": "il n'y avait"
+      "surface": "הָיָ֥ה",
+      "gloss": "il y avait"
     },
     {
       "surface": "ב֖וֹ",
@@ -76,6 +76,6 @@
       "gloss": "de défaut"
     }
   ],
-  "timestamp": "2026-08-04T13:11:58.155641344Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:42:19.483405180Z",
+  "model": "glm-5.2"
 }

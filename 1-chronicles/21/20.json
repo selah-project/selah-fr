@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et Ornan se retourna et vit ⟨את⟩ le malak, et ses quatre fils avec lui se cachaient ; et Ornan foulait le froment.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et se retourna"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et vit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le malak"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "le malak"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "et ses quatre"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fils"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "se cachaient"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "et Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "foulait"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "le froment"
+    }
+  ],
+  "timestamp": "2026-08-05T05:54:14.641433799Z",
+  "model": "glm-5.2"
+}

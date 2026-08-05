@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Comme la neige en ⟨été⟩ et comme la pluie à la moisson, ainsi la gloire ne convient pas à un sot.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "Comme la neige"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "en ⟨été⟩"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "et comme la pluie"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "à la moisson"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "convient pas"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "à un sot"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:18.720415437Z",
+  "model": "glm-4.5"
+}

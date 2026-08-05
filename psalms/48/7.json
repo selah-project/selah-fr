@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Un tremblement ⟨les⟩ a saisis là, une angoisse comme d'une femme qui accouche.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Un tremblement"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "⟨les⟩ a saisis",
+      "marks": "les rois"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "une angoisse"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "comme d'une femme qui accouche"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:27.376287409Z",
+  "model": "glm-4.5"
+}

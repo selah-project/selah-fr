@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Des cieux ⟨a⟩ regardé YHWH, ⟨a⟩ vu ⟨את⟩ tous les fils de l'humain.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "⟨a⟩ regardé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "⟨a⟩ vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les fils de l'humain"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:34.283543610Z",
+  "model": "glm-4.5"
+}

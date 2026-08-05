@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Lave-toi, oins-toi, mets ton manteau sur toi, et descends à l'aire. Ne te fais pas connaître à l'homme jusqu'à ce qu'il achève de manger et de boire. »",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "lave-toi"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "oins-toi"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "mets"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "ton manteau"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "et descends"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "à l'aire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne…pas"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "te fais connaître"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "à l'homme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "il achève"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "de manger"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "et de boire"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:56.143438182Z",
+  "model": "glm-5.2"
+}

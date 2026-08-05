@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Que ⟨sont⟩ grandes ⟨tes⟩ œuvres, YHWH, très profondes ⟨sont⟩ ⟨tes⟩ pensées.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "grandes"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "⟨tes⟩ œuvres"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "profondes"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "⟨tes⟩ pensées"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:09.726451533Z",
+  "model": "glm-4.5"
+}

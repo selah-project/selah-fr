@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 138,
+  "translation": "Car haut ⟨est⟩ YHWH, et le bas Il voit ; et le haut de loin Il connaît.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "car"
+    },
+    {
+      "surface": "רָ֭ם",
+      "gloss": "haut"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וְשָׁפָ֣ל",
+      "gloss": "et le bas"
+    },
+    {
+      "surface": "יִרְאֶ֑ה",
+      "gloss": "Il voit"
+    },
+    {
+      "surface": "וְגָבֹ֗הַּ",
+      "gloss": "et le haut"
+    },
+    {
+      "surface": "מִמֶּרְחָ֥ק",
+      "gloss": "de loin"
+    },
+    {
+      "surface": "יֵידָֽע",
+      "gloss": "Il connaît"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:11.260557180Z",
+  "model": "glm-5.2"
+}

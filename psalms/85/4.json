@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Tu as retiré tout ton courroux, tu es revenu de ⟨la⟩ chaleur de ta colère.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Tu as retiré"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ton courroux"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "tu es revenu"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "de ⟨la⟩ chaleur"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "de ta colère"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:06.984969527Z",
+  "model": "glm-4.5"
+}

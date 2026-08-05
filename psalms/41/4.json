@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "YHWH le soutiendra sur son lit de souffrance, tu as retourné tout son couché dans sa maladie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "le soutiendra"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "son lit"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "de souffrance"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "son couché"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "tu as retourné"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "dans sa maladie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:22.896497292Z",
+  "model": "glm-4.5"
+}

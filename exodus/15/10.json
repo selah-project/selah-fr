@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Tu as soufflé avec ton souffle, la mer les a couverts, ils ont coulé comme le plomb ⟨dans⟩ les eaux puissantes.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Tu as soufflé avec"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ton souffle"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "la mer les a couverts"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "ils ont coulé"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "comme le plomb"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans les eaux"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "puissantes"
+    }
+  ],
+  "timestamp": "2026-08-04T18:55:49.392691564Z",
+  "model": "glm-4.5"
+}

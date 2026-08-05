@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Pour toujours je prépare ⟨la⟩ descendance et je bâtis ⟨de⟩ génération en génération ⟨le⟩ trône Sela",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Pour"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "toujours"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "je prépare"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "⟨la⟩ descendance"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "et je bâtis"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "⟨de⟩ génération"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en génération"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "⟨le⟩ trône"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:25.870229423Z",
+  "model": "glm-4.5"
+}

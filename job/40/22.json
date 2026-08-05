@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 40:22",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Les lotus le couvrent de leur ombre les saules ⟨du⟩ torrent l'entourent",
+  "tokens": [
+    {
+      "surface": "יסכהו",
+      "gloss": "les lotus le couvrent"
+    },
+    {
+      "surface": "צאלים",
+      "gloss": "les lotus"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "de leur ombre"
+    },
+    {
+      "surface": "יסבוהו",
+      "gloss": "les saules l'entourent"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "les saules"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "⟨du⟩ torrent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:49.870814517Z",
+  "model": "glm-4.5"
+}

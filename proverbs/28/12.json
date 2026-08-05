@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Quand les justes triomphent, grande ⟨est⟩ la gloire, et quand les méchants se lèvent, l'homme se cache.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "triomphent"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "les justes"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "gloire"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "et quand se lèvent"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "se cache"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:15.499847825Z",
+  "model": "glm-4.5"
+}

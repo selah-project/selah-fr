@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Fais tenir ta promesse à ton serviteur, ⟨celle qui est⟩ pour ta crainte.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "fais tenir"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "à ton serviteur"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ta promesse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celle qui est"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "pour ta crainte"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:42.141753431Z",
+  "model": "glm-4.5"
+}

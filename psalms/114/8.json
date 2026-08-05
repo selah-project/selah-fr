@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 114,
+  "translation": "Qui change le roc en étang d'eaux, le silex en source d'eaux.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Qui change"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "le roc"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "étang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eaux"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "le silex"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "en source"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eaux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:40.401560505Z",
+  "model": "glm-4.5"
+}

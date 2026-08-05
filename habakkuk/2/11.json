@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Car la pierre du mur criera, et la poutre du bois lui répondra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "la pierre"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "du mur"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "criera"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "et la poutre"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "du bois"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "lui répondra"
+    }
+  ],
+  "timestamp": "2026-08-05T00:36:18.575306630Z",
+  "model": "glm-4.5"
+}

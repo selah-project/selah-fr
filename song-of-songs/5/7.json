@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Les gardes qui font la ronde dans la ville me trouvèrent, ils me frappèrent, ils me blessèrent ; les gardes des murs ont retiré mon voile de dessus moi.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "me trouvèrent"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "Les gardes"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "qui font la ronde"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "ils me frappèrent"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "ils me blessèrent"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ont retiré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon voile"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "mon voile"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de dessus moi"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "les gardes"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "des murs"
+    }
+  ],
+  "timestamp": "2026-08-05T04:20:39.376404018Z",
+  "model": "glm-4.5"
+}

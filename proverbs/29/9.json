@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Un homme sage ⟨est⟩ jugé ⟨par⟩ ⟨את⟩ un homme stupide, il s'emporte et rit, et il n'y a pas de repos.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "⟨est⟩ jugé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "un homme stupide"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "stupide"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "il s'emporte"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "et rit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "de repos"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:25.358202529Z",
+  "model": "glm-4.5"
+}

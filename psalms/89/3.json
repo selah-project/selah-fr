@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Car j'ai dit : pour toujours le hessed est bâti ; dans les cieux ⟨est⟩ établie ta fidélité",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "est bâti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "est établie"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ta fidélité"
+    },
+    {
+      "surface": "בהם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:15.349264585Z",
+  "model": "glm-4.5"
+}

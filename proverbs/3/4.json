@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et tu trouveras grâce et bon discernement aux yeux d'Élohim et de l'humain",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Et tu trouveras"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grâce"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "et bon discernement"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "aux yeux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "et de l'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:34.296210584Z",
+  "model": "glm-4.5"
+}

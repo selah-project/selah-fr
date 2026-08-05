@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "J'ai vu ⟨את⟩ toutes les actions qui sont faites sous le soleil, et voici, tout est hével et poursuite de vent.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toutes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "les actions"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "qui sont faites"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hével"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "et poursuite de"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:59.604282744Z",
+  "model": "glm-4.5"
+}

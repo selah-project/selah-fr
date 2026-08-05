@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Car maintenant tu comptes mes pas, tu ne ⟨gardes⟩ pas ⟨sur⟩ mon péché",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "tu comptes mes pas"
+    },
+    {
+      "surface": "תספור",
+      "gloss": "tu comptes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "⟨gardes⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mon péché"
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:43.344344624Z",
+  "model": "glm-4.5"
+}

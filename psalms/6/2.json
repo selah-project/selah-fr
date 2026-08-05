@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "YHWH ne ⟨me⟩ reprends pas dans ta fureur et ne ⟨me⟩ châtie pas dans ta colère",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dans ta fureur"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "⟨me⟩ reprends"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "dans ta colère"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "⟨me⟩ châtie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:22.868956427Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "joel 1:20",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Même les bêtes du champ soupirent vers toi, car ont séché les cours d'eau, et le feu a dévoré les pâtures du désert",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "les bêtes"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "du champ"
+    },
+    {
+      "surface": "תערוג",
+      "gloss": "soupirent"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ont séché"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "les cours d'eau"
+    },
+    {
+      "surface": "מים",
+      "gloss": "<eau>"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "et le feu"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "a dévoré"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "les pâtures"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "du désert"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:23.785888497Z",
+  "model": "glm-4.5"
+}

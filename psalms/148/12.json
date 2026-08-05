@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Les jeunes hommes et aussi les jeunes filles, les anciens avec les enfants",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Les jeunes hommes"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "les jeunes filles"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "les enfants"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:05.891777220Z",
+  "model": "glm-4.5"
+}

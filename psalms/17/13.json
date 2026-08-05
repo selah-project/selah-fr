@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Lève-toi, YHWH, précede ⟨sa⟩ face, fais-le plier, délivre ma nefesh du méchant, [par] ton épée",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "précede"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨sa⟩ face",
+      "marks": "sa face"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "fais-le plier"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "délivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "[par] ton épée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:58.890906799Z",
+  "model": "glm-4.5"
+}

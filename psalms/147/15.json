@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Il envoie sa parole sur la terre, sa parole court très vite",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Il envoie"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "sa parole"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "très vite"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "court"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa parole"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:03.182130042Z",
+  "model": "glm-4.5"
+}

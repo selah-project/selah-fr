@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Ils n'⟨ont⟩ pas gardé ⟨l'⟩alliance d'Élohim, et dans sa loi ils ont refusé ⟨de⟩ marcher.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ils n'⟨ont⟩ pas"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gardé"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨l'⟩alliance"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "et dans sa loi"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ils ont refusé"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "⟨de⟩ marcher"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:31.545047467Z",
+  "model": "glm-4.5"
+}

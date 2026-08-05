@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "La paresse fait tomber une torpeur, et la nefesh lâche aura faim",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "La paresse"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "fait tomber"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "une torpeur"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "et la nefesh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lâche"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "aura faim"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:38.899135646Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Les contusions de la blessure purifient le mal, et les coups les parties intérieures du ventre.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "Les contusions"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "de la blessure"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "purifient"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "et les coups"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "les parties intérieures"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "du ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:08.830773746Z",
+  "model": "glm-4.5"
+}

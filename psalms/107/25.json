@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Il parle et fait se lever ⟨un⟩ vent de tempête, et il soulève ses vagues.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Il parle"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "et fait se lever"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vent"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "de tempête"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "et il soulève"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ses vagues"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:49.281002856Z",
+  "model": "glm-4.5"
+}

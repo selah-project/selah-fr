@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et se tint Satan contre Israël, et il incita ⟨את⟩ David à compter ⟨את⟩ Israël.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Et se tint"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "et il incita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "à compter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T05:54:53.489415300Z",
+  "model": "glm-5.2"
+}

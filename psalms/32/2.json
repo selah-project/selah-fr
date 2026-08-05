@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Heureux ⟨l'⟩homme à qui YHWH ne compte pas ⟨de⟩ faute, et ⟨dans⟩ qui il n'y a pas de tromperie dans son souffle.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨l'⟩homme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "compte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à qui"
+    },
+    {
+      "surface": "עון",
+      "gloss": "⟨de⟩ faute"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ... il n'y a pas"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "dans son souffle"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:25:39.926565626Z",
+  "model": "glm-4.5"
+}

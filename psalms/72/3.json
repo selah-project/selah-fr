@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Les montagnes porteront la shalom pour le peuple, et les collines, par justice.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "porteront"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la shalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pour le peuple"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "et les collines"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "par justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:24.578460592Z",
+  "model": "glm-4.5"
+}

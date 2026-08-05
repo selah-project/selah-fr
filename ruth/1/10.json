@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et elles lui dirent : Non, avec toi nous retournerons vers ton peuple.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Et elles dirent"
+    },
+    {
+      "surface": "לה",
+      "gloss": "à elle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Non"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "nous retournerons"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "vers ton peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T04:23:56.223540201Z",
+  "model": "glm-4.5"
+}

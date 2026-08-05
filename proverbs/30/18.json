@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Trois choses me sont merveilleuses, et quatre que je ne connais pas.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Trois"
+    },
+    {
+      "surface": "המה",
+      "gloss": "choses"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "me sont merveilleuses"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨de⟩ moi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "et quatre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "connais pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:36.860016936Z",
+  "model": "glm-4.5"
+}

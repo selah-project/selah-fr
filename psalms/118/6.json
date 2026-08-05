@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "YHWH est pour moi, je ne craindrai pas ; que me fera ⟨un⟩ homme ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "est pour moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "craindrai pas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "homme"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:56.653382009Z",
+  "model": "glm-4.5"
+}

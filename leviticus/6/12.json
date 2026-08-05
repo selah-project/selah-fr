@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et il parla, YHWH, vers Moïse, pour dire :",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et il parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T19:00:26.627250020Z",
+  "model": "glm-4.5"
+}

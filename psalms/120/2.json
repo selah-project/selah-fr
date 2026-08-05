@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 120,
+  "translation": "YHWH, délivre ma nefesh des lèvres du mensonge, de la langue trompeuse.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "délivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "des lèvres"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "du mensonge"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "de la langue"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "trompeuse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:31.046471326Z",
+  "model": "glm-4.5"
+}

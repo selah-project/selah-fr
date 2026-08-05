@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "De mes lèvres j'ai ⟨énuméré⟩ tous ⟨les⟩ jugements de ta bouche.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "De mes lèvres"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "j'ai ⟨énuméré⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨les⟩ jugements"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "de ta bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:49.987595934Z",
+  "model": "glm-4.5"
+}

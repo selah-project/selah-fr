@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Voici, j'ai désiré tes préceptes; par ta justice fais-moi vivre.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "j'ai désiré"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "tes préceptes"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "par ta justice"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fais-moi vivre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:42.141991508Z",
+  "model": "glm-4.5"
+}

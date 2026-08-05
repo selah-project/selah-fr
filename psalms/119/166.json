@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai espéré ton salut, YHWH, et tes commandements j'ai faits.",
+  "tokens": [
+    {
+      "surface": "שִׂבַּ֣רְתִּי",
+      "gloss": "J'ai espéré"
+    },
+    {
+      "surface": "לִֽישׁוּעָתְךָ֣",
+      "gloss": "ton salut"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וּֽמִצְוֺתֶ֥יךָ",
+      "gloss": "et tes commandements"
+    },
+    {
+      "surface": "עָשִֽׂיתִי",
+      "gloss": "j'ai faits"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:32.347395987Z",
+  "model": "glm-5.2"
+}

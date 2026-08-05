@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Béni soit YHWH, car il a entendu la voix de ma supplication.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "béni soit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "il a entendu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "de ma supplication"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:08.900625824Z",
+  "model": "glm-4.5"
+}

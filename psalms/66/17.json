@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Lui, mon ⟨a⟩ crié, et haut sous ma langue.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Lui"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mon ⟨a⟩"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "crié"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "et haut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ma langue"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:41.680685776Z",
+  "model": "glm-4.5"
+}

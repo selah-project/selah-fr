@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Tu le fais régir sur ⟨les⟩ œuvres de tes mains, tout tu as mis sous ses pieds.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Tu le fais régir"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "sur ⟨les⟩ œuvres"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "de tes mains"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "tu as mis"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ses pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:02.308699724Z",
+  "model": "glm-4.5"
+}

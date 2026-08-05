@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Car il n'est pas de parole sur ma langue, voici, YHWH, tu la connais toute.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'est pas"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "de parole"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "sur ma langue"
+    },
+    {
+      "surface": "הן",
+      "gloss": "voici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu connais"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "toute"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:48.500293841Z",
+  "model": "glm-4.5"
+}

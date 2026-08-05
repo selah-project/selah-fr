@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Car ⟨il⟩ dit à la neige : sois sur la terre ; et ⟨à⟩ la pluie, et aux pluies de sa force.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "à la neige"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "il dit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sois"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "et à la pluie"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "pluie"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "et aux pluies"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "de"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "sa force"
+    }
+  ],
+  "timestamp": "2026-08-05T04:12:06.436254987Z",
+  "model": "glm-4.5"
+}

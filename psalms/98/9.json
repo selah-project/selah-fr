@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "Devant YHWH, car il est venu pour juger ⟨את⟩ la terre, il jugera ⟨את⟩ le monde avec justice et les peuples avec droiture.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בא",
+      "gloss": "il est venu"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "pour juger"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre",
+      "marks": "⟨את⟩ la terre"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "il jugera"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "le monde",
+      "marks": "⟨את⟩ le monde"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "avec justice"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "et les peuples"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "avec droiture"
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:08.952911267Z",
+  "model": "glm-4.5"
+}

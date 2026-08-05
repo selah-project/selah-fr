@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "De David. Un enseignement. Heureux ⟨celui dont⟩ la révolte est portée, ⟨dont⟩ la faute est couverte.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un enseignement"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "⟨celui dont⟩ ... est portée"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "la révolte"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "⟨dont⟩ ... est couverte"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "la faute"
+    }
+  ],
+  "timestamp": "2026-08-05T01:25:39.926354923Z",
+  "model": "glm-4.5"
+}

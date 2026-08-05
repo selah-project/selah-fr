@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Jusqu'à ce que j'entre ⟨dans⟩ les sanctuaires d'El, alors je comprends leur fin.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jusqu'à ce que"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "j'entre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dans⟩"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "les sanctuaires"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "alors je comprends"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "leur fin"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:59.584062665Z",
+  "model": "glm-4.5"
+}

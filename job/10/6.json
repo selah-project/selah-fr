@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Car tu cherches mon iniquité, et pour mon péché tu ⟨fouilles⟩ ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "tu cherches"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "mon iniquité"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "et pour mon péché"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "tu ⟨fouilles⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:37.635451910Z",
+  "model": "glm-4.5"
+}

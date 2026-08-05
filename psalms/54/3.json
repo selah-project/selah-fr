@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 54,
+  "translation": "Élohim, par ton nom sauve-moi, et par ta puissance juge-moi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "par ton nom"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sauve-moi"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "et par ta puissance"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "juge-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:21.053874538Z",
+  "model": "glm-4.5"
+}

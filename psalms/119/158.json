@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai vu les traîtres et j'étais affligé, car ta parole ils n'ont pas gardée.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "les traîtres"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "et j'étais affligé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ils n'ont pas gardée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:56.733379146Z",
+  "model": "glm-4.5"
+}

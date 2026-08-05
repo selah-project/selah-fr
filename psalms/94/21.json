@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Ils se liguèrent contre ⟨la⟩ nefesh du juste et ⟨le⟩ sang innocent, ils le condamnèrent.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "Ils se liguèrent"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨la⟩ nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "et ⟨le⟩ sang"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "ils le condamnèrent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:29.557185753Z",
+  "model": "glm-4.5"
+}

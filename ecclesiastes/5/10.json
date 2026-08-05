@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "L'abondance du bien, ceux ⟨qui⟩ le mangent ⟨sont⟩ nombreux, et quel avantage ⟨y a-t-il⟩ pour ses maîtres, sinon ⟨le⟩ spectacle ⟨de⟩ leurs yeux ?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "L'abondance"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "du bien"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ceux qui le mangent sont nombreux"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "le mangent"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et quel"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "avantage"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "pour ses maîtres"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sinon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si ce n'est"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "le spectacle"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "de leurs yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:16.025649185Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Abraham étendit ⟨sa⟩ main et prit ⟨le⟩ couteau pour égorger ⟨son⟩ fils",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et étendit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa main"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le couteau"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "le couteau"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "pour égorger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son fils"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    }
+  ],
+  "timestamp": "2026-08-04T18:46:15.651530388Z",
+  "model": "glm-4.5"
+}

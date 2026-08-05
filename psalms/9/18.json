@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Les méchants ⟨retournent⟩ au Shéol, toutes les nations qui ⟨oublient⟩ Élohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "retournent"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "au Shéol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "qui oublient"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:38.347027918Z",
+  "model": "glm-4.5"
+}

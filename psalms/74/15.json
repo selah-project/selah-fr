@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Toi, tu as fendu la source et le torrent, toi, tu as asséché ⟨des⟩ rivières perpétuelles.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "tu as fendu"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "la source"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "et le torrent"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "tu as asséché"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "rivières"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "perpétuelles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.118258613Z",
+  "model": "glm-4.5"
+}

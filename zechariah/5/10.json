@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et je dis au messager qui parlait avec moi : où ⟨mènent-elles⟩ ⟨את⟩ l'épha ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "messager"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "qui parlait"
+    },
+    {
+      "surface": "בי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "où"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨mènent-elles⟩"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "⟨mènent-elles⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'épha"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "l'épha"
+    }
+  ],
+  "timestamp": "2026-08-05T00:46:40.557445857Z",
+  "model": "glm-4.5"
+}

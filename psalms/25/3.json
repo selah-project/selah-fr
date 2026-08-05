@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Oui, tous ceux qui t'attendent ne seront pas honteux, honteux seront les traîtres, en vain.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Oui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ceux qui t'attendent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne seront pas"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "honteux"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "honteux seront"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "les traîtres"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "en vain"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:20.519831004Z",
+  "model": "glm-4.5"
+}

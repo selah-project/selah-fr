@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "De tout chemin mauvais j'ai retenu ⟨mes⟩ pieds afin que je garde ta parole.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "De tout"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvais"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "j'ai retenu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "⟨mes⟩ pieds"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "je garde"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:52.282012780Z",
+  "model": "glm-4.5"
+}

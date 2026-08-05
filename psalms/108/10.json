@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Moab ⟨est⟩ le bassin de mon lavage ; sur Édom je jetterai ma sandale ; sur Philistie je pousserai des cris",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "le bassin"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "de mon lavage"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "je jetterai"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ma sandale"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Philistie"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "je pousserai des cris"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:45.555249296Z",
+  "model": "glm-4.5"
+}

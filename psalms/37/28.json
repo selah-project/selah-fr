@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Car YHWH aime le jugement, et n'abandonne pas ⟨את⟩ ses fidèles, pour toujours ils sont gardés, et la descendance des méchants est retranchée.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aime"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "abandonne pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses fidèles"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ses fidèles"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ils sont gardés"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "et la descendance"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "est retranchée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:31:18.056689294Z",
+  "model": "glm-4.5"
+}

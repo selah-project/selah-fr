@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Seulement, Élohim écrasera la tête de ses ennemis, le vertex chevelu de celui qui marche dans ses culpabilités.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "écrasera"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "de ses ennemis"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "le vertex"
+    },
+    {
+      "surface": "שער",
+      "gloss": "chevelu"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "de celui qui marche"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "dans ses culpabilités"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:18.807756525Z",
+  "model": "glm-4.5"
+}

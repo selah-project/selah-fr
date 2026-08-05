@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Écoute, mon peuple, et je témoignerai auprès de toi ; Israël, si tu écoutes vers moi,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "et je témoignerai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "auprès de toi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tu écoutes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vers moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:33.777581524Z",
+  "model": "glm-4.5"
+}

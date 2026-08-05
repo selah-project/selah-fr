@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Ils ont versé leur sang comme de l'eau autour de Jérusalem, et il n'y a personne pour enterrer",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Ils ont versé"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "leur sang"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "comme de l'eau"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "autour"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "personne pour enterrer"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:11.868218697Z",
+  "model": "glm-4.5"
+}

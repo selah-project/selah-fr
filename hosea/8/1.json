@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "À ta bouche ⟨le⟩ shofar, comme un aigle sur ⟨la⟩ maison de YHWH, parce qu'ils ont transgressé mon alliance, et contre ma torah ils ont rebelé.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ta bouche"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "comme un aigle"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יען",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ils ont transgressé"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et contre"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ma torah"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ils ont rebelé"
+    }
+  ],
+  "timestamp": "2026-08-05T00:03:00.654485483Z",
+  "model": "glm-4.5"
+}

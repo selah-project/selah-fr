@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Soixante sont les reines, et quatre-vingts les concubines, et les jeunes filles sans nombre.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "soixante"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sont"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "les reines"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "et quatre-vingts"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "les concubines"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "et les jeunes filles"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nombre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:21:10.848420375Z",
+  "model": "glm-4.5"
+}

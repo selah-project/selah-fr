@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Mon fils, à ma sagesse sois attentif, à mon intelligence incline ton oreille",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mon fils"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "à ma sagesse"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "sois attentif"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "à mon intelligence"
+    },
+    {
+      "surface": "הט",
+      "gloss": "incline"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    }
+  ],
+  "timestamp": "2026-08-05T03:16:44.355200778Z",
+  "model": "glm-4.5"
+}

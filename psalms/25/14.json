@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Le secret de YHWH ⟨⟩ est pour ceux qui le craignent et son alliance ⟨⟩ pour la leur faire connaître",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "Le secret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "est pour ceux qui le craignent"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "et son alliance"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "pour la leur faire connaître"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:10.894881104Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Avishaï, fils de Tserouyah, frappa ⟨את⟩ Édom dans la vallée du Sel : dix-huit mille.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "et Avishaï"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "de Tserouyah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Édom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "dans la vallée"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "du Sel"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "huit"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dix"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    }
+  ],
+  "timestamp": "2026-08-05T05:52:41.240889788Z",
+  "model": "glm-5.2"
+}

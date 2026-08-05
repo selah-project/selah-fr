@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Il y a des bavardages comme des coups d'épée, mais la langue des sages est une guérison.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Il y a"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "des bavardages"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "comme des coups"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "d'épée"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "mais la langue"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "des sages"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "est une guérison"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:17.075834421Z",
+  "model": "glm-4.5"
+}

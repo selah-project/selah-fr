@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Son souvenir ⟨est⟩ perdu de la terre, et il n'a pas de nom sur ⟨la⟩ face du dehors.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "son souvenir"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "⟨est⟩ perdu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il n'a pas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ face"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "du dehors"
+    }
+  ],
+  "timestamp": "2026-08-05T03:57:33.112688576Z",
+  "model": "glm-4.5"
+}

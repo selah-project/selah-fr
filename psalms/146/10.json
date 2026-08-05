@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "Régnera YHWH pour toujours, ton Élohim, Ô Tsiyyon, de génération en génération. Hallelou-Yah.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Régnera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ô Tsiyyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelou"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:23.644064938Z",
+  "model": "glm-4.5"
+}

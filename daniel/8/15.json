@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il arriva lorsque moi, Daniel, je vis ⟨את⟩ la vision, et je cherchai ⟨la⟩ compréhension, et voici debout devant moi comme ⟨l⟩apparence d'un homme.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "lorsque je vis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vision"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "la vision"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "et je cherchais"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "la compréhension"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "debout"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "comme l'apparence"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "d'un homme"
+    }
+  ],
+  "timestamp": "2026-08-05T05:16:15.732315977Z",
+  "model": "glm-4.5"
+}

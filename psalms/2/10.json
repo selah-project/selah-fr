@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et maintenant, rois, soyez intelligents ; juges de la terre, recevez l'instruction.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "rois"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "soyez intelligents"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "recevez l'instruction"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "juges"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:20.738553668Z",
+  "model": "glm-4.5"
+}

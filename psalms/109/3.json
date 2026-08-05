@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Et des paroles de haine ⟨m'⟩ont encerclé, et ils ont fait la guerre à moi sans cause.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Et des paroles"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "de haine"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "⟨m'⟩ont encerclé"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "et ils ont fait la guerre à moi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sans cause"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:18.747901490Z",
+  "model": "glm-4.5"
+}

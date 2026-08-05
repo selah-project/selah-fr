@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car dans le havel il vient, et dans les ténèbres il s'en va, et dans les ténèbres son nom est couvert.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "dans le havel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "il vient"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "et dans les ténèbres"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "il s'en va"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "et dans les ténèbres"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "est couvert"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:06.349173155Z",
+  "model": "glm-4.5"
+}

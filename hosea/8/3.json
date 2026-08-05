@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Israël a rejeté ⟨le⟩ bon, l'ennemi le poursuivra.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "a rejeté"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bon"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "l'ennemi"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "le poursuivra"
+    }
+  ],
+  "timestamp": "2026-08-05T00:03:00.654805127Z",
+  "model": "glm-4.5"
+}

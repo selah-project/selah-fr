@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et vous me chercherez et vous me trouverez, car vous me rechercherez de tout votre cœur",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "Et vous me chercherez"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "et vous me trouverez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "vous me rechercherez"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "votre cœur"
+    }
+  ],
+  "timestamp": "2026-08-04T22:45:36.022644434Z",
+  "model": "glm-4.5"
+}

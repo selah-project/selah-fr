@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Une génération s'en va, et une génération vient, et la terre pour toujours ⟨demeure⟩.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Une génération"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "s'en va"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "et une génération"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vient"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "et la terre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "⟨demeure⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:40.100423837Z",
+  "model": "glm-4.5"
+}

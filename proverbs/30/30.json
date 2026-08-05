@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Un lion, ⟨le⟩ puissant parmi les bêtes, et il ne revient pas de devant tout",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Un lion"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "⟨le⟩ puissant"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "parmi les bêtes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "revient pas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:12.090454480Z",
+  "model": "glm-4.5"
+}

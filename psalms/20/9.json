@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Eux, ils ⟨se sont⟩ courbés et sont tombés, mais nous, nous nous sommes levés et nous tenons debout.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Eux"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ils ⟨se sont⟩ courbés"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "et sont tombés"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mais nous"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "nous nous sommes levés"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "et nous tenons debout"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:44.036995441Z",
+  "model": "glm-4.5"
+}

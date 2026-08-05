@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Son image ⟨est⟩ comme un lion, il désire déchirer, et comme un lionceau ⟨il⟩ est assis dans des lieux cachés.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Son image"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "comme un lion"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "il désire"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "déchirer"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "et comme un lionceau"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨il⟩ est assis"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "dans des lieux cachés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:03.059774269Z",
+  "model": "glm-4.5"
+}

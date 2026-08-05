@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un temps pour chercher, et un temps pour perdre ; un temps pour garder, et un temps pour jeter",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "pour chercher"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "pour perdre"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "pour garder"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "pour jeter"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:28.149069748Z",
+  "model": "glm-4.5"
+}

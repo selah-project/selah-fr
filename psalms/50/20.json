@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Tu t'assieds, contre ton frère tu parles ; au fils de ta mère tu donnes ⟨le⟩ déshonneur.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "tu t'assieds"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "contre ton frère"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tu parles"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "au fils"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "de ta mère"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tu donnes"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "le déshonneur"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:57.433737029Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 110,
+  "translation": "De David. Un psaume. Oracle de YHWH à mon Adonaï : Assieds-toi à ma droite, jusqu'à ce que je fasse de tes ennemis ⟨un marchepied⟩ pour tes pieds.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "à mon Adonaï"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Assieds-toi"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "à ma droite"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "je fasse"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "de tes ennemis"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨un marchepied⟩"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "pour tes pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T02:35:54.084521028Z",
+  "model": "glm-4.5"
+}

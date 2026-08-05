@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "L'aire et ⟨le⟩ pressoir ne les nourriront pas, et le moisson manquera en elle.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "l'aire"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "et ⟨le⟩ pressoir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "les nourriront pas"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "et le moisson"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "manquera"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    }
+  ],
+  "timestamp": "2026-08-05T00:04:03.992318712Z",
+  "model": "glm-4.5"
+}

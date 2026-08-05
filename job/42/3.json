@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Qui est celui cachant ⟨du⟩ conseil sans connaissance ? donc j'ai parlé et je ne comprends pas ⟨des⟩ merveilles de moi et je ne sais pas",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "cachant"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨du⟩ conseil"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "connaissance"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "donc"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "j'ai parlé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et je ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "comprends pas"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "⟨des⟩ merveilles"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et je ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sais pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:17.337960672Z",
+  "model": "glm-4.5"
+}

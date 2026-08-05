@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "L'humain, ses jours ⟨sont comme⟩ l'herbe, comme la fleur des champs, ainsi il fleurit.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "L'humain"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ses jours ⟨sont comme⟩ l'herbe"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ses jours"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "comme la fleur"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "des champs"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "il fleurit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:36.778120030Z",
+  "model": "glm-4.5"
+}

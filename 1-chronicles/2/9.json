@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et les fils de Hetsron qui lui naquirent ⟨furent⟩ ⟨את⟩ Yerahme'el et ⟨את⟩ Ram et ⟨את⟩ Keloubaï.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "et les fils de"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "naquirent"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerahme'el"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerahme'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Keloubaï"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Keloubaï"
+    }
+  ],
+  "timestamp": "2026-08-05T05:44:59.698232541Z",
+  "model": "glm-5.2"
+}

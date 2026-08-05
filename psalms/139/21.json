@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "N'est-ce pas ceux qui te haïssent, YHWH, que je hais, et ⟨je⟩ me déchire contre ⟨ceux⟩ qui s'élèvent contre toi ?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "ceux qui te haïssent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "je hais"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "et ⟨contre ceux⟩ qui s'élèvent contre toi"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "je me déchire"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.386688179Z",
+  "model": "glm-4.5"
+}

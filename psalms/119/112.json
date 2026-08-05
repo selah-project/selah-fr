@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai incliné mon cœur à faire tes statuts, ⟨pour⟩ toujours, ⟨jusqu'au⟩ bout.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "J'ai incliné"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "à faire"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes statuts"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "au bout"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:03.468496724Z",
+  "model": "glm-4.5"
+}

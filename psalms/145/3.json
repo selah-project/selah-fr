@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Grand est YHWH et très louable, et sa grandeur est sans recherche.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Grand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "et très louable"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "et sa grandeur"
+    },
+    {
+      "surface": "אין",
+      "gloss": "est sans"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "recherche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:46.546418666Z",
+  "model": "glm-4.5"
+}

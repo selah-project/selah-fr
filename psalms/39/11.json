@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Détourne de moi ton soufflet, je suis consumé par ⟨les⟩ effractions de ta main.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "détourne"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ton soufflet"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "par ⟨les⟩ effractions"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "de ta main"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "consumé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:40.564996048Z",
+  "model": "glm-4.5"
+}

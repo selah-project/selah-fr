@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Mon âme a soif d'Élohim, du El vivant : quand viendrai-je et paraîtrai-je devant la face d'Élohim ?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "a soif"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Mon âme"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "du El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "viendrai-je"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "et paraîtrai-je"
+    },
+    {
+      "surface": "פני",
+      "gloss": "devant la face de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:09.253373922Z",
+  "model": "glm-4.5"
+}

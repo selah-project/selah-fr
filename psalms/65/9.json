@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Et ils craignent, les habitants des extrémités, ⟨à cause de⟩ tes signes; les issues du matin et du soir, tu les feras chanter.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Et ils craignent"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "des extrémités"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "⟨à cause de⟩ tes signes"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "les issues"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "du matin"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "et du soir"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "tu les feras chanter"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:40.580453105Z",
+  "model": "glm-4.5"
+}

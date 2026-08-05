@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Car tu nous as délivrés de nos adversaires, et ceux qui nous haïssent, tu les as couverts de honte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "tu nous as délivrés"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "de nos adversaires"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "et ceux qui nous haïssent"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "tu les as couverts de honte"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:40.348879186Z",
+  "model": "glm-4.5"
+}

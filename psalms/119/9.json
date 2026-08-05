@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Par quoi ⟨un⟩ jeune homme purifiera-t-il ⟨son⟩ chemin ? En le gardant selon ta parole.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Par quoi"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "purifiera-t-il"
+    },
+    {
+      "surface": "נער",
+      "gloss": "⟨un⟩ jeune homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨son⟩ chemin"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "En le gardant"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "selon ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:02.620968257Z",
+  "model": "glm-4.5"
+}

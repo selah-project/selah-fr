@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "De David. Béni soit YHWH, mon rocher, qui forme mes mains au combat, mes doigts ⟨pour⟩ la guerre.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "béni soit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "qui forme"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mes mains"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "au combat"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "mes doigts"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨pour⟩ la guerre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:12.596550664Z",
+  "model": "glm-4.5"
+}

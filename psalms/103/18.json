@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "pour les gardiens de son alliance, et pour ceux qui se souviennent de ses préceptes pour les faire",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "pour les gardiens"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "de son alliance"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "et pour ceux qui se souviennent"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "de ses préceptes"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "pour les faire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:40.881117492Z",
+  "model": "glm-4.5"
+}

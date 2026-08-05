@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Un homme portera-t-il du feu dans son sein, et ses vêtements ne brûleront-ils pas ?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "portera-t-il"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "אש",
+      "gloss": "du feu"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "dans son sein"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "et ses vêtements"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "brûleront-ils pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:26.766247257Z",
+  "model": "glm-4.5"
+}

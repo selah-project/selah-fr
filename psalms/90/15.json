@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Réjouis-nous selon les jours où tu nous as affligés, les années où nous avons vu le mal.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Réjouis-nous"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "selon les jours"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "où tu nous as affligés"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "les années"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "où nous avons vu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:35.875548745Z",
+  "model": "glm-4.5"
+}

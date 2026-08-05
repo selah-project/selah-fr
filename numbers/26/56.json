@@ -1,45 +1,45 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 56,
   "ref": "numbers 26:56",
   "book": "numbers",
   "lang": "fr",
   "chapter": 26,
-  "translation": "Selon le lot ⟨הַגּוֹרָל⟩ se partagera ⟨תֵּחָלֵ֖ק⟩ ⟨את⟩ sa possession ⟨נַחֲלָתוֹ⟩ entre le nombreux et le peu",
+  "translation": "Selon la bouche du sort son héritage sera réparti, entre le grand et le petit.",
   "tokens": [
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "selon"
     },
     {
-      "surface": "פי",
-      "gloss": "la parole de"
+      "surface": "פִּי",
+      "gloss": "la bouche"
     },
     {
-      "surface": "הגורל",
-      "gloss": "le lot"
+      "surface": "הַגּוֹרָל",
+      "gloss": "du sort"
     },
     {
-      "surface": "תחלק",
-      "gloss": "se partagera"
+      "surface": "תֵּחָלֵק",
+      "gloss": "sera réparti"
     },
     {
-      "surface": "נחלתו",
-      "gloss": "sa possession"
+      "surface": "נַחֲלָת֑וֹ",
+      "gloss": "son héritage"
     },
     {
-      "surface": "בין",
+      "surface": "בֵּין",
       "gloss": "entre"
     },
     {
-      "surface": "רב",
-      "gloss": "le nombreux"
+      "surface": "רַב",
+      "gloss": "le grand"
     },
     {
-      "surface": "למעט",
-      "gloss": "le peu"
+      "surface": "לִמְעָֽט",
+      "gloss": "et le petit"
     }
   ],
-  "timestamp": "2026-08-04T09:25:32.871249563Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T07:00:33.917561854Z",
+  "model": "glm-5.2"
 }

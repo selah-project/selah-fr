@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et ils sauront que je suis YHWH, quand je les aurai dispersés parmi les nations et que je les aurai semés dans les pays.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Et ils sauront"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "quand je les aurai dispersés"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "parmi les nations"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "et que je les aurai semés"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dans les pays"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "dans les pays"
+    }
+  ],
+  "timestamp": "2026-08-04T23:22:14.676990826Z",
+  "model": "glm-4.5"
+}

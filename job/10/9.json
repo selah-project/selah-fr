@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Souviens-toi, je te prie, que comme de l'argile tu m'as façonné, et ⟨vers⟩ la poussière tu me feras retourner.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "comme de l'argile"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "tu m'as façonné"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ⟨vers⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la poussière"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "tu me feras retourner"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:39.157343493Z",
+  "model": "glm-4.5"
+}

@@ -1,98 +1,98 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "exodus 29:13",
   "book": "exodus",
   "lang": "fr",
   "chapter": 29,
-  "translation": "et tu prendras ⟨את⟩ toute la graisse couvrant ⟨את⟩ les entrailles, et ⟨את⟩ le lobe sur le foie, et ⟨את⟩ les deux reins, et ⟨את⟩ la graisse qui est sur eux, et tu feras fumer ⟨le⟩ מִזְבֵּחַ",
+  "translation": "Et tu prendras ⟨את⟩ toute la graisse qui couvre ⟨את⟩ les entrailles, et ⟨את⟩ le lobe sur le foie, et ⟨את⟩ les deux rognons, et ⟨את⟩ la graisse qui ⟨est⟩ sur eux, et tu les feras fumer sur l'autel.",
   "tokens": [
     {
-      "surface": "ולקחת",
-      "gloss": "et tu prendras"
+      "surface": "וְלָֽקַחְתָּ֗",
+      "gloss": "Et tu prendras"
     },
     {
-      "surface": "את",
+      "surface": "אֶֽת",
       "gloss": "⟨את⟩",
       "marks": "toute la graisse"
     },
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "toute"
     },
     {
-      "surface": "החלב",
+      "surface": "הַחֵלֶב֮",
       "gloss": "la graisse"
     },
     {
-      "surface": "המכסה",
-      "gloss": "couvrant"
+      "surface": "הַֽמְכַסֶּ֣ה",
+      "gloss": "qui couvre"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "les entrailles"
     },
     {
-      "surface": "הקרב",
+      "surface": "הַקֶּרֶב֒",
       "gloss": "les entrailles"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֵ֗ת",
       "gloss": "et ⟨את⟩",
       "marks": "le lobe"
     },
     {
-      "surface": "היתרת",
+      "surface": "הַיֹּתֶ֨רֶת֙",
       "gloss": "le lobe"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "sur"
     },
     {
-      "surface": "הכבד",
+      "surface": "הַכָּבֵ֔ד",
       "gloss": "le foie"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֵת֙",
       "gloss": "et ⟨את⟩",
-      "marks": "les deux reins"
+      "marks": "les deux rognons"
     },
     {
-      "surface": "שתי",
+      "surface": "שְׁתֵּ֣י",
       "gloss": "les deux"
     },
     {
-      "surface": "הכלית",
-      "gloss": "reins"
+      "surface": "הַכְּלָיֹ֔ת",
+      "gloss": "rognons"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "et ⟨את⟩",
       "marks": "la graisse"
     },
     {
-      "surface": "החלב",
+      "surface": "הַחֵ֖לֶב",
       "gloss": "la graisse"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֣ר",
       "gloss": "qui"
     },
     {
-      "surface": "עליהן",
-      "gloss": "est sur eux"
+      "surface": "עֲלֵיהֶ֑ן",
+      "gloss": "sur eux"
     },
     {
-      "surface": "והקטרת",
-      "gloss": "et tu feras fumer"
+      "surface": "וְהִקְטַרְתָּ֖",
+      "gloss": "et tu les feras fumer"
     },
     {
-      "surface": "המזבחה",
-      "gloss": "⟨le⟩ מִזְבֵּחַ"
+      "surface": "הַמִּזְבֵּֽחָה",
+      "gloss": "sur l'autel"
     }
   ],
-  "timestamp": "2026-08-04T06:58:41.817988279Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:45:36.685285262Z",
+  "model": "glm-5.2"
 }

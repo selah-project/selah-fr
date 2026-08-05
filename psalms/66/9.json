@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Celui qui met notre nefesh dans la vie ⟨et⟩ ⟨qui⟩ n'a pas donné à ⟨trébucher⟩ notre pied",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Celui qui met"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "notre nefesh"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "dans la vie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨et⟩ ⟨qui⟩ n'a pas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donné"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "à ⟨trébucher⟩"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "notre pied"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:34.797219682Z",
+  "model": "glm-4.5"
+}

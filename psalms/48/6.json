@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Ils ⟨l'⟩ont vu, alors ils furent stupéfaits ; ils furent effrayés, ils se hâtèrent.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ils"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "⟨l'⟩ont vu",
+      "marks": "les rois \/ la ville"
+    },
+    {
+      "surface": "כן",
+      "gloss": "alors"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ils furent stupéfaits"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ils furent effrayés"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "ils se hâtèrent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:27.376168647Z",
+  "model": "glm-4.5"
+}

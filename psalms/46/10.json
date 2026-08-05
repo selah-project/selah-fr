@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Faisant cesser ⟨les⟩ guerres jusqu'au bout de ⟨la⟩ terre, ⟨il⟩ brise ⟨l'⟩arc et coupe ⟨la⟩ lance, ⟨les⟩ chars ⟨il⟩ brûle au feu.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Faisant cesser"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "⟨les⟩ guerres"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "bout"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de ⟨la⟩ terre"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨l'⟩arc"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "⟨il⟩ brise"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "et coupe"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "⟨la⟩ lance"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "⟨les⟩ chars"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "⟨il⟩ brûle"
+    },
+    {
+      "surface": "באש",
+      "gloss": "au feu"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:22.439533265Z",
+  "model": "glm-4.5"
+}

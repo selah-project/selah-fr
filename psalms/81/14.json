@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Ah, si mon peuple m'écoutait, Israël ⟨irait⟩ dans mes voies.",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ah, si"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "m'écoutait"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "dans mes voies"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "⟨irait⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:18.990649567Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "et il les a établis pour toujours à perpétuité une limite ⟨qu'il⟩ a fixée et elle ne passera pas",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "et il les a établis"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "à perpétuité"
+    },
+    {
+      "surface": "חק",
+      "gloss": "une limite"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨qu'il⟩ a fixée"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et elle ne"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "passera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:13.808493008Z",
+  "model": "glm-4.5"
+}

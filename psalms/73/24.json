@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Par ton conseil tu me guideras, et ⟨après⟩ la gloir⟨e⟩ tu me prendras",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Par ton conseil"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tu me guideras"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "et ⟨après⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloir⟨e⟩"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "tu me prendras"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:05.757575162Z",
+  "model": "glm-4.5"
+}

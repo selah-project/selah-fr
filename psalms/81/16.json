@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Ceux qui haïssent YHWH lui ⟨feindraient⟩ obéissance, et leur temps durerait pour toujours.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Ceux qui haïssent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "lui ⟨feindraient⟩ obéissance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et ⟨serait⟩"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "leur temps"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:18.990841131Z",
+  "model": "glm-4.5"
+}

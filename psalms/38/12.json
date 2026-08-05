@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Ceux qui m'aiment et mes compagnons se tiennent à distance de ⟨ma⟩ plaie, et mes proches se tiennent loin.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Ceux qui m'aiment"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "et mes compagnons"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "à distance"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "de ⟨ma⟩ plaie"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "se tiennent"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "et mes proches"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "loin"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "se tiennent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:30.204333894Z",
+  "model": "glm-4.5"
+}

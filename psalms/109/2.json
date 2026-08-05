@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Car la bouche ⟨du⟩ méchant et la bouche ⟨de la⟩ tromperie ⟨sont⟩ ouvertes contre moi ; ils ont parlé avec moi ⟨en⟩ langue de mensonge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la bouche ⟨du⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "méchant"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "et la bouche ⟨de la⟩"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tromperie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "⟨sont⟩ ouvertes"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ils ont parlé"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "⟨en⟩ langue"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:18.747762868Z",
+  "model": "glm-4.5"
+}

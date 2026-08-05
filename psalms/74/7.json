@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Ils ont lancé ⟨dans⟩ le feu ton sanctuaire, ⟨jusqu'au⟩ sol ils ont profané ⟨le⟩ mishkan de ton nom.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Ils ont lancé"
+    },
+    {
+      "surface": "באש",
+      "gloss": "⟨dans⟩ le feu"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "ton sanctuaire"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨jusqu'au⟩ sol"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ils ont profané"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "⟨le⟩ mishkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "de ton nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:25.641295135Z",
+  "model": "glm-4.5"
+}

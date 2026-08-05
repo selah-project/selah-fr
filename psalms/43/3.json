@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Envoie ta lumière et ta vérité ; qu'elles me guident, qu'elles me fassent venir vers la montagne de ta sainteté et vers tes demeures.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Envoie"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ta lumière"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "et ta vérité"
+    },
+    {
+      "surface": "המה",
+      "gloss": "qu'elles"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "me guident"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "qu'elles me fassent venir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "de ta sainteté"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tes demeures"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:58.696172490Z",
+  "model": "glm-4.5"
+}

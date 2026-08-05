@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 114,
+  "translation": "Les montagnes bondirent comme des béliers, les collines comme des agneaux",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Les montagnes"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "bondirent"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "comme des béliers"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "les collines"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "comme"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "des agneaux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:32.448478230Z",
+  "model": "glm-4.5"
+}

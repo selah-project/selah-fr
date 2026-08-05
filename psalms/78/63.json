@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Ses jeunes hommes, le feu les dévora, et ses jeunes filles ne ⟨furent⟩ pas chantées.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "Ses jeunes hommes"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "le feu les dévora"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "et ses jeunes filles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "⟨furent⟩ pas chantées"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:14.168371501Z",
+  "model": "glm-4.5"
+}

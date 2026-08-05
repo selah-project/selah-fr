@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Que vienne devant toi le gémissement du prisonnier, selon la grandeur de ton bras, libère les fils de la mort.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Que vienne"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "le gémissement"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "du prisonnier"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "selon la grandeur"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "de ton bras"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "libère"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:28.595963728Z",
+  "model": "glm-4.5"
+}

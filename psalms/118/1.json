@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Célébrez YHWH car ⟨il est⟩ bon car pour toujours ⟨est⟩ son hessed",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Célébrez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨il est⟩ bon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:50.198825847Z",
+  "model": "glm-4.5"
+}

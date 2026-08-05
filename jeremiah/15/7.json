@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 15:7",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et je les ai vannés au van aux portes du pays, j'ai rendu stérile, j'ai détruit ⟨את⟩ mon peuple, ils ne sont pas revenus de leurs chemins.",
+  "tokens": [
+    {
+      "surface": "ואזרם",
+      "gloss": "Et je les ai vannés"
+    },
+    {
+      "surface": "במזרה",
+      "gloss": "au van"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "aux portes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "j'ai rendu stérile"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "j'ai détruit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon peuple"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "מדרכיהם",
+      "gloss": "de leurs chemins"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "sont revenus"
+    }
+  ],
+  "timestamp": "2026-08-04T16:23:07.244192850Z",
+  "model": "glm-4.5"
+}

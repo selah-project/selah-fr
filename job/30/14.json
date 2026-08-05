@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 30:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Comme une large brèche ils ⟨sont venus⟩, sous ⟨la⟩ dévastation ils se roulent.",
+  "tokens": [
+    {
+      "surface": "כפרץ",
+      "gloss": "Comme une large brèche"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "large"
+    },
+    {
+      "surface": "יאתיו",
+      "gloss": "ils ⟨sont venus⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "⟨la⟩ dévastation"
+    },
+    {
+      "surface": "התגלגלו",
+      "gloss": "ils se roulent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:24.756002279Z",
+  "model": "glm-4.5"
+}

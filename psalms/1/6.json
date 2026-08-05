@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Car YHWH connaît la voie des justes, et la voie des méchants périra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "et la voie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "périra"
+    }
+  ],
+  "timestamp": "2026-08-05T01:00:06.795517919Z",
+  "model": "glm-4.5"
+}

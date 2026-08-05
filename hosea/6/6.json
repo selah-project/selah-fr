@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car le hessed, je l'ai désiré, et non le sacrifice, et la connaissance d'Élohim, plus que les offrandes d'élévation.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "je l'ai désiré"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "le sacrifice"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "et la connaissance"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "plus que les offrandes d'élévation"
+    }
+  ],
+  "timestamp": "2026-08-05T00:01:28.190225512Z",
+  "model": "glm-4.5"
+}

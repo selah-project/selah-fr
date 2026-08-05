@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 20:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "son pain dans ses entrailles se change, ⟨des⟩ amertumes de vipères dans son ventre",
+  "tokens": [
+    {
+      "surface": "לחמו",
+      "gloss": "son pain"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "dans ses entrailles"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se change"
+    },
+    {
+      "surface": "מרורת",
+      "gloss": "⟨des⟩ amertumes"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "de vipères"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "dans son ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:38.250425706Z",
+  "model": "glm-4.5"
+}

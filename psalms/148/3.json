@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Louez-le soleil et lune louez-le tous ⟨les⟩ étoiles de lumière",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Louez-le"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "soleil"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "et lune"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "louez-le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "étoiles"
+    },
+    {
+      "surface": "אור",
+      "gloss": "de lumière"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:08.707958676Z",
+  "model": "glm-4.5"
+}

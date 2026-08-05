@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Lui aussi sera porté à Assur ⟨en⟩ offrande ⟨pour⟩ le roi Yareb ; Éphraïm recevra ⟨la⟩ honte, et Israël aura honte de son propre conseil.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Lui aussi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "sera porté"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "⟨en⟩ offrande"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "⟨pour⟩"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "honte"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "recevra"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "aura honte"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "de son propre conseil"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T00:05:03.709409882Z",
+  "model": "glm-4.5"
+}

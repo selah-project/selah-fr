@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "Venez, prosternons-nous et courbons-nous, mettons-nous à genoux devant YHWH qui nous a faits.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Venez"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "prosternons-nous"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "et courbons-nous"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "mettons-nous à genoux"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "qui nous a faits"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:14.297137334Z",
+  "model": "glm-4.5"
+}

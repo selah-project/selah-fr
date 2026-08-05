@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Car il s'est fait lisse à ses propres yeux, pour trouver son iniquité ⟨à⟩ haïr",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "il s'est fait lisse"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "à ses"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "propres yeux"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "pour trouver"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "son iniquité"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "⟨à⟩ haïr"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:15.047510673Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "De David. Vers toi, YHWH, je crie, mon rocher, ne te tais pas ⟨à⟩ mon sujet, de peur que tu ne te taises ⟨à⟩ mon sujet, et que je devienne comme ceux qui descendent dans la fosse.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "te tais"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨à⟩ mon sujet"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "tu ne te taises"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨à⟩ mon sujet"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "et que je devienne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ceux qui descendent"
+    },
+    {
+      "surface": "בור",
+      "gloss": "dans la fosse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:32.018303439Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "leur intérieur, leurs maisons sont pour toujours, leurs demeures de génération en génération, ils appellent par leurs noms ⟨sur⟩ les terres",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "leur intérieur"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "leurs maisons"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sont pour toujours"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "leurs demeures"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ils appellent"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "par leurs noms"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "les terres"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:14.374434583Z",
+  "model": "glm-4.5"
+}

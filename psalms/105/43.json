@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et il fit sortir son peuple avec allégresse, avec chant de triomphe ⟨את⟩ ses élus.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Et il fit sortir"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "avec allégresse"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "avec chant de triomphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses élus"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ses élus"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:26.915935953Z",
+  "model": "glm-4.5"
+}

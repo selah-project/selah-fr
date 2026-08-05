@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 150,
+  "translation": "Louez-le ⟨pour⟩ les actes de sa force louez-le selon la grandeur de sa majesté",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Louez-le"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "⟨pour⟩ les actes de sa force"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "louez-le"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "selon"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "la grandeur de sa majesté"
+    }
+  ],
+  "timestamp": "2026-08-05T03:10:23.170084348Z",
+  "model": "glm-4.5"
+}

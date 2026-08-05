@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Parmi les morts, exempt, comme des percés gisant ⟨dans⟩ la tombe, dont tu ne te souviens plus, et ils sont retranchés de ta main",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "Parmi les morts"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "exempt"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "des percés"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "gisant"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "la tombe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "tu te souviens"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "et ils"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "sont retranchés de ta main"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "sont retranchés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:38.241651798Z",
+  "model": "glm-4.5"
+}

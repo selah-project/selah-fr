@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 110,
+  "translation": "Adonaï est à ta droite; il frappe des rois au jour de son colère.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "על",
+      "gloss": "est à"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta droite"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "il frappe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "de son colère"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "des rois"
+    }
+  ],
+  "timestamp": "2026-08-05T02:35:18.356054067Z",
+  "model": "glm-4.5"
+}

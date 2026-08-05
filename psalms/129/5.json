@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 129,
+  "translation": "Qu'ils ⟨soient⟩ honteux et reculent en arrière, tous les haineux de Sion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "qu'ils soient honteux"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "et reculent"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "en arrière"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "les haineux"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:00.314653627Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 77:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Je me souviens de mon chant dans la nuit, avec mon cœur je médite et mon esprit cherche diligemment.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Je me souviens"
+    },
+    {
+      "surface": "נגינתי",
+      "gloss": "de mon chant"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dans la nuit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "je médite"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "et cherche"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mon esprit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:51.304369882Z",
+  "model": "glm-4.5"
+}

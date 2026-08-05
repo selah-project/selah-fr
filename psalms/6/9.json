@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Détournez-vous de moi, tous les artisans d'iniquité, car YHWH a entendu la voix de mon pleur.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Détournez-vous"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les artisans"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a entendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "de mon pleur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:25.942209682Z",
+  "model": "glm-4.5"
+}

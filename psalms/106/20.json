@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils échangèrent ⟨את⟩ leur gloire contre ⟨la⟩ forme d'un bœuf mangeant de l'herbe",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Et ils échangèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur gloire"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "leur gloire"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "contre ⟨la⟩ forme"
+    },
+    {
+      "surface": "שור",
+      "gloss": "d'un bœuf"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangeant"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "de l'herbe"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:14.641613803Z",
+  "model": "glm-4.5"
+}

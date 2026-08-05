@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Sais-tu pas ⟨ceci⟩ depuis longtemps, depuis que l'humain ⟨est⟩ placé sur la terre",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "⟨ceci⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sais-tu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "longtemps"
+    },
+    {
+      "surface": "מני",
+      "gloss": "depuis que"
+    },
+    {
+      "surface": "שים",
+      "gloss": "⟨est⟩ placé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:29.569164720Z",
+  "model": "glm-4.5"
+}

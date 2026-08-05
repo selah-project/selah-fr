@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 29:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "La justice je ⟨l⟩ai mise, et elle m'a vêtu comme un manteau, et mon tribunal ⟨comme⟩ un turban.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "La justice"
+    },
+    {
+      "surface": "לבשתי",
+      "gloss": "je ⟨l⟩ai mise"
+    },
+    {
+      "surface": "וילבשני",
+      "gloss": "et elle m'a vêtu"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "comme un manteau"
+    },
+    {
+      "surface": "וצניף",
+      "gloss": "et ⟨comme⟩ un turban"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mon tribunal"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:46.298629497Z",
+  "model": "glm-4.5"
+}

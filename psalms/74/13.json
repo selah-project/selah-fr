@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Toi, tu as brisé la mer par ta force, tu as fracassé ⟨les⟩ têtes des dragons sur ⟨les⟩ eaux.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "tu as brisé"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "par ta force"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "tu as fracassé"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "têtes"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "des dragons"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "eaux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.117950259Z",
+  "model": "glm-4.5"
+}

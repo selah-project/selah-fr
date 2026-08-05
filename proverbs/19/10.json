@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Le luxe ne convient pas ⟨à⟩ un sot, encore moins ⟨pour⟩ un serviteur de dominer sur des princes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "convient pas"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "⟨à⟩ un sot"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "le luxe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "encore moins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨pour⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "un serviteur"
+    },
+    {
+      "surface": "משל",
+      "gloss": "de dominer"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "sur des princes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:30.824869101Z",
+  "model": "glm-4.5"
+}

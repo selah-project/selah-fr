@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "et donna leur terre en héritage, en héritage à Israël son peuple.",
+  "tokens": [
+    {
+      "surface": "וְנָתַ֣ן",
+      "gloss": "et donna"
+    },
+    {
+      "surface": "אַרְצָ֣ם",
+      "gloss": "leur terre"
+    },
+    {
+      "surface": "נַחֲלָ֑ה",
+      "gloss": "en héritage"
+    },
+    {
+      "surface": "נַ֝חֲלָ֗ה",
+      "gloss": "en héritage"
+    },
+    {
+      "surface": "לְיִשְׂרָאֵ֥ל",
+      "gloss": "à Israël"
+    },
+    {
+      "surface": "עַמּֽוֹ",
+      "gloss": "son peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:15.902434228Z",
+  "model": "glm-5.2"
+}

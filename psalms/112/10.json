@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "Le méchant ⟨le⟩ voit et s'irrite ; ses dents grincent et il se dissout ; le désir des méchants périt.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Le méchant"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨le⟩ voit"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "et s'irrite"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ses dents"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "grincent"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "et il se dissout"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "le désir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "périt"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:43.853697263Z",
+  "model": "glm-4.5"
+}

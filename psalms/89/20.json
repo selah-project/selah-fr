@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Alors tu as parlé dans une vision à tes fidèles, et tu as dit : j'ai placé ⟨את⟩ l'aide sur un héros, j'ai exalté ⟨את⟩ un jeune choisi du peuple",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu as parlé"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "dans une vision"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "à tes fidèles"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et tu as dit"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "j'ai placé"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "⟨את⟩ l'aide",
+      "marks": "l'aide"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "un héros"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "j'ai exalté"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "⟨את⟩ un jeune",
+      "marks": "un jeune choisi du peuple"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "choisi du peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:21.391436507Z",
+  "model": "glm-4.5"
+}

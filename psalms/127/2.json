@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 127,
+  "translation": "En vain ⟨vous⟩ vous levez tôt, vous vous attardez, mangeant le pain des souffrances ; ainsi il donne à son bien-aimé le sommeil.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "En vain"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨vous⟩"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "vous levez tôt"
+    },
+    {
+      "surface": "קום",
+      "gloss": "vous"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "attardez"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "vous"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mangeant"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "des souffrances"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "il donne"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "à son bien-aimé"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "le sommeil"
+    }
+  ],
+  "timestamp": "2026-08-05T02:51:25.558544610Z",
+  "model": "glm-4.5"
+}

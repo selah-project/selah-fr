@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Longueur de jours est dans sa main droite, et dans sa gauche, richesse et honneur.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Longueur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de jours"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "dans sa main droite"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "et dans sa gauche"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "richesse"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "et honneur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:29.193059288Z",
+  "model": "glm-4.5"
+}

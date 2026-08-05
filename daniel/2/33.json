@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "ses jambes ⟨sont⟩ de fer, ses pieds ⟨sont⟩ en partie de fer et en partie d'argile",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "ses jambes"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨sont⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "de fer"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "ses pieds"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "en partie"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "fer"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "et en partie"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "argile"
+    }
+  ],
+  "timestamp": "2026-08-05T05:07:06.314443863Z",
+  "model": "glm-4.5"
+}

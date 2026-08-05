@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Si tes fils ont péché contre lui et qu'il les a livrés en main de leur rébellion",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tes fils"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ont péché"
+    },
+    {
+      "surface": "לו",
+      "gloss": "contre lui"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "et qu'il les a livrés"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en main"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "de leur rébellion"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:51.220250416Z",
+  "model": "glm-4.5"
+}

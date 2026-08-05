@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Au chef des chantres sur la Guitith pour Asaph",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "la Guitith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pour Asaph"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:12.201611600Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Les prés se vêtissent ⟨de⟩ ⟨le⟩ troupeau, et les vallées se couvrent de grain ; ils poussent des cris de joie, oui, ils chantent.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "se vêtissent"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "les prés"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨de⟩ ⟨le⟩ troupeau"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "et les vallées"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "se couvrent"
+    },
+    {
+      "surface": "בר",
+      "gloss": "de grain"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "ils poussent des cris"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oui"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ils chantent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:28.766200555Z",
+  "model": "glm-4.5"
+}

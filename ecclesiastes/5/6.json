@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car dans le ⟨grand⟩ nombre de songes et ⟨de⟩ vanités, aussi beaucoup de paroles ; mais crains Élohim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dans le ⟨grand⟩ nombre"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "de songes"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "et ⟨de⟩ vanités"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "et ⟨de⟩ paroles"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "crains"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:15.444397897Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Celui qui abreuve les montagnes depuis ⟨ses⟩ chambres hautes, du fruit de ⟨tes⟩ œuvres ⟨la⟩ terre se rassasie.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Celui qui abreuve"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "depuis ⟨ses⟩ chambres hautes"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "du fruit"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "de ⟨tes⟩ œuvres"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "se rassasie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:42.249637091Z",
+  "model": "glm-4.5"
+}

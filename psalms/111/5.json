@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 111,
+  "translation": "Une proie il a donnée à ceux qui le craignent, il se souviendra pour toujours de son alliance",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "une proie"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il a donnée"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "à ceux qui le craignent"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "il se souviendra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "de son alliance"
+    }
+  ],
+  "timestamp": "2026-08-05T02:36:24.807216728Z",
+  "model": "glm-4.5"
+}

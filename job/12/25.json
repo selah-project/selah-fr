@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Ils tâtonnent ⟨dans⟩ les ténèbres et ⟨pas⟩ ⟨de⟩ lumière, et il les fait errer comme ⟨un⟩ ivrogne.",
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "Ils tâtonnent"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "אור",
+      "gloss": "de lumière"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "et il les fait errer"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "comme un ivrogne"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:47.570505481Z",
+  "model": "glm-4.5"
+}

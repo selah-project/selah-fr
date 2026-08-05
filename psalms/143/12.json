@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Et dans ton hessed coupe mes ennemis, et fais périr tous ceux qui serrent ma nefesh, car moi, je suis ton serviteur.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "et dans ton hessed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "coupe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "et fais périr"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ceux qui serrent"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "je suis ton serviteur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.420211344Z",
+  "model": "glm-4.5"
+}

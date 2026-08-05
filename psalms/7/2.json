@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "YHWH, mon Élohim, en toi j'ai cherché refuge, sauve-moi de tous mes persécuteurs, et délivre-moi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "j'ai cherché refuge"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sauve-moi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tous"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mes persécuteurs"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "et délivre-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:22.057443859Z",
+  "model": "glm-4.5"
+}

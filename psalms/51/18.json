@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Car ⟨tu⟩ ne prends pas plaisir au sacrifice, et je ⟨le donnerais⟩ ; ⟨tu⟩ ne veux pas d'offrande d'élévation.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨tu⟩ ne prends pas"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "plaisir"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "au sacrifice"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "et je ⟨le donnerais⟩"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "⟨tu⟩ ne veux pas d'offrande d'élévation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨tu⟩ ne veux pas"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "d'offrande d'élévation"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:39.601568164Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Sacrifiant la louange, ⟨il⟩ me glorifiera, et ⟨celui qui⟩ règle sa voie, je lui ferai voir le salut d'Élohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Sacrifiant"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "la louange"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "me glorifiera"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "et celui qui"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "règle"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "voie, je lui ferai voir"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "le salut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:58.506374998Z",
+  "model": "glm-4.5"
+}

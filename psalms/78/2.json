@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "J'ouvrirai ⟨ma⟩ bouche en parabole ; je ferai jaillir des énigmes ⟨dès⟩ le commencement.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "J'ouvrirai"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "en parabole"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨ma⟩ bouche"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "je ferai jaillir"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "des énigmes"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨dès⟩"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "le commencement"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:29.236521975Z",
+  "model": "glm-4.5"
+}

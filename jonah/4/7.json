@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et désigna ⟨le⟩ Élohim un ver, au lever de l'aube le lendemain, et frappa ⟨את⟩ le qiqayon, et il sécha.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Et désigna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨le⟩ Élohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "un ver"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "au lever"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "de l'aube"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "le lendemain"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "et frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le qiqayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "le qiqayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "et il sécha"
+    }
+  ],
+  "timestamp": "2026-08-05T00:24:54.828803497Z",
+  "model": "glm-4.5"
+}

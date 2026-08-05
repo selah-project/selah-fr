@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Celui qui aime l'argent ne se rassasie pas d'argent, et qui aime l'abondance ⟨n'⟩en est pas rassasié ⟨de⟩ revenu ; cela aussi est hebel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "aimant"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se rassasie"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aime"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "l'abondance"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "de revenu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-08-05T06:43:17.707841521Z",
+  "model": "glm-5.2"
+}

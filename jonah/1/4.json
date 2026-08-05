@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH lança un grand vent sur la mer, et il y eut un grand ouragan sur la mer, et le navire pensait se briser.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Et YHWH"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "lança \/ jeta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vent \/ Rouah"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur \/ vers"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il y eut"
+    },
+    {
+      "surface": "סער",
+      "gloss": "ouragan \/ tempête"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sur la mer"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "et le navire"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "pensait \/ était estimé"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "pour se briser"
+    }
+  ],
+  "timestamp": "2026-08-05T00:22:27.084261711Z",
+  "model": "glm-4.5"
+}

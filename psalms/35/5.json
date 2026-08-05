@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Qu'ils soient comme de la balle devant ⟨le⟩ vent, et le messager de YHWH les repousse.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Qu'ils soient"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "comme de la balle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨le⟩ vent"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "et le messager"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "les repousse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:09.251265528Z",
+  "model": "glm-4.5"
+}

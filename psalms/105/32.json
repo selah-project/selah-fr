@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il donna leurs pluies en grêle, du feu ⟨de⟩ flammes dans leur pays.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Il donna"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "leurs pluies"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "en grêle"
+    },
+    {
+      "surface": "אש",
+      "gloss": "du feu"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "⟨de⟩ flammes"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "dans leur pays"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:19.592935538Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et tu briseras la cruche ⟨את⟩ aux yeux des hommes marchant avec toi",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "Et tu briseras"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "la cruche"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "aux yeux"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "des hommes"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "marchant"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "avec toi"
+    }
+  ],
+  "timestamp": "2026-08-04T16:26:48.642474291Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Il coupera le souffle des chefs, ⟨il est⟩ redoutable pour les rois de la terre.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "Il coupera"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "le souffle"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "des chefs"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "redoutable"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "pour les rois"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:43.785502064Z",
+  "model": "glm-4.5"
+}

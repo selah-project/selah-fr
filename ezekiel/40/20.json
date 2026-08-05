@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et la porte dont la face ⟨est⟩ le chemin du nord, ⟨vers⟩ la cour extérieure, il mesura sa longueur et sa largeur.",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "Et la porte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "la face"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "le chemin"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "du nord"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "vers la cour"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "extérieure"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "il mesura"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sa longueur"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "et sa largeur"
+    }
+  ],
+  "timestamp": "2026-08-04T23:48:34.377316881Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Il les fit sortir des ténèbres et ⟨de⟩ l'ombre de la mort, et leurs liens il brisa.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Il les fit sortir"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "des ténèbres"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "et ⟨de⟩ l'ombre de la mort"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "et leurs liens"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "il brisa"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:25.786681597Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "YHWH, notre Adonaï, ⟨est⟩ majestueux ton nom dans toute la terre",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "notre Adonaï"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "majestueux"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:44.436525224Z",
+  "model": "glm-4.5"
+}

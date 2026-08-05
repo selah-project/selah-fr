@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 33:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Il met mes pieds dans les ceps, il surveille tous mes chemins.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "il met"
+    },
+    {
+      "surface": "בסד",
+      "gloss": "dans les ceps"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mes pieds"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "il surveille"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ארחתי",
+      "gloss": "mes chemins"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:58.460836608Z",
+  "model": "glm-4.5"
+}

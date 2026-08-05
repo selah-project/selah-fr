@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Ils profèrent, ils parlent avec insolence, tous les ouvriers d'iniquité ⟨se⟩ glorifient.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Ils profèrent"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ils parlent"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "avec insolence"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "⟨se⟩ glorifient"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les ouvriers"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:20.303812600Z",
+  "model": "glm-4.5"
+}

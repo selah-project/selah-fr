@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Place sur lui un méchant, et qu'un satan se tienne à sa droite.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Place"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "un méchant"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "et qu'un satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "se tienne"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sa droite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.286568686Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Une abomination pour YHWH ⟨est⟩ la voie du méchant, et qui poursuit la justice sera aimé.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "voie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "méchant"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "et qui poursuit"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "justice"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "sera aimé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:32.216869544Z",
+  "model": "glm-4.5"
+}

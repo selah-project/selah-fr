@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Lointain est ce qui a été, et profond, profond — qui le trouvera ?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "lointain"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a été"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "et"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "profond"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "le trouvera"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:35.985695222Z",
+  "model": "glm-4.5"
+}

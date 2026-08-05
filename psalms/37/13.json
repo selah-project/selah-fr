@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Adonaï se ⟨rit⟩ de lui, car il a vu que son jour vient.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "se ⟨rit⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "il a vu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vient"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "son jour"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:55.944733686Z",
+  "model": "glm-4.5"
+}

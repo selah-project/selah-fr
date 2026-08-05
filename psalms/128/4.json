@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 128,
+  "translation": "Voici, car ainsi sera béni l'homme ⟨celui qui⟩ craint YHWH.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sera béni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "⟨celui qui⟩ craint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:18.492369640Z",
+  "model": "glm-4.5"
+}

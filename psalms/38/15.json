@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et je suis comme un homme qui n'entend pas, et ⟨il n'y a⟩ pas dans sa bouche de réprimandes",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Et je suis"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "comme un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "entend pas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il n'y a⟩ pas"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dans sa bouche"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "de réprimandes"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:24.593515691Z",
+  "model": "glm-4.5"
+}

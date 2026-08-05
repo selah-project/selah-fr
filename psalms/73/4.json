@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Car il n’y a pas de liens dans leur mort, et leur corps ⟨est⟩ robuste.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n’y a pas"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "de liens"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "dans leur mort"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "et leur corps"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "⟨est⟩ robuste"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:10.349771988Z",
+  "model": "glm-4.5"
+}

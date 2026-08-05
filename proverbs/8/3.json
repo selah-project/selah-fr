@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Près ⟨des⟩ portes, à l'entrée ⟨de⟩ la ville, à l'accès ⟨des⟩ portes, elle crie.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "Près ⟨des⟩"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "portes"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "à l'entrée ⟨de⟩"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "à l'accès ⟨des⟩"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "portes"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "elle crie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:44.238047190Z",
+  "model": "glm-4.5"
+}

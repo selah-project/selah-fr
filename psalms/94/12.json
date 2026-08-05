@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Heureux l'homme que tu corriges, Yah, et que tu enseignes par ta Torah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "tu corriges"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "et par ta Torah"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "tu enseignes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:32.898087746Z",
+  "model": "glm-4.5"
+}

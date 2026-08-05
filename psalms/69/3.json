@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "J'ai coulé dans la boue du gouffre, sans point d'appui ; je suis entré dans les profondeurs des eaux, et le courant m'a submergé",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "J'ai coulé"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "dans la boue"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "du gouffre"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "point d'appui"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "je suis entré"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "dans les profondeurs"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "et le courant"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "m'a submergé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:46.321666671Z",
+  "model": "glm-4.5"
+}

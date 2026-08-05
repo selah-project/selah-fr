@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 27:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Le vent d'est le porte et il s'en va, et il le hurlote de son lieu.",
+  "tokens": [
+    {
+      "surface": "ישאהו",
+      "gloss": "le porte"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "vent d'est"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et il s'en va"
+    },
+    {
+      "surface": "וישערהו",
+      "gloss": "et il le hurlote"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "de son lieu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:04:19.307805336Z",
+  "model": "glm-4.5"
+}

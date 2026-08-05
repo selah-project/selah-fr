@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Rois ⟨des⟩ armées, ils fuiront, ils fuiront, et celle qui demeure ⟨dans la⟩ maison partagera ⟨le⟩ butin",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Rois"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "⟨des⟩ armées"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ils fuiront"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ils fuiront"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "et celle qui demeure"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨dans la⟩ maison"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "partagera"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "⟨le⟩ butin"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:01.093052471Z",
+  "model": "glm-4.5"
+}

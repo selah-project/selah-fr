@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Tu as menacé ⟨les⟩ nations, tu as détruit ⟨le⟩ méchant, tu as effacé leur nom pour toujours et à perpétuité.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "tu as menacé"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨les⟩ nations"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "tu as détruit"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨le⟩ méchant"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "leur nom"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "tu as effacé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et à perpétuité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:31.040938923Z",
+  "model": "glm-4.5"
+}

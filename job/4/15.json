@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et un Rouah passa sur mon visage, ⟨et⟩ fit dresser les cheveux de ma chair",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "Et un Rouah"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mon visage"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "passa"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "⟨et⟩ fit dresser"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "les cheveux"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "de ma chair"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:10.258844737Z",
+  "model": "glm-4.5"
+}

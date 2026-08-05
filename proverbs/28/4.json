@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Ceux qui abandonnent la Torah louent ⟨le⟩ méchant, mais ceux qui gardent la Torah luttent contre eux.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "Ceux qui abandonnent"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "louent"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "méchant"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "mais ceux qui gardent"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "la Torah"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "luttent"
+    },
+    {
+      "surface": "בם",
+      "gloss": "contre eux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:13.217700879Z",
+  "model": "glm-4.5"
+}

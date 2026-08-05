@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 12:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Je suis un sujet de risée pour mon ami, moi qui ⟨invoquais⟩ Elohim et ⟨qui⟩ répondait : le juste, l'homme intègre ⟨est⟩ un sujet de risée.",
+  "tokens": [
+    {
+      "surface": "שחק",
+      "gloss": "sujet de risée"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "pour mon ami"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "⟨invoquais⟩"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "⟨qui⟩ répondait"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "sujet de risée"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "l'homme intègre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:58.949616395Z",
+  "model": "glm-4.5"
+}

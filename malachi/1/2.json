@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Je vous ai aimés, dit YHWH, et vous dites : « En quoi nous as-tu aimés ? » ⟨N'est-ce pas⟩ Ésaü, frère de Jacob ? déclaration de YHWH, et j'ai aimé ⟨את⟩ Jacob.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Je vous ai aimés"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vous",
+      "marks": "אמר"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "et vous dites"
+    },
+    {
+      "surface": "במה",
+      "gloss": "en quoi"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "tu nous as aimés"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "⟨N'est-ce pas⟩"
+    },
+    {
+      "surface": "אח",
+      "gloss": "frère"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "et j'ai aimé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jacob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T00:57:18.927741010Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Louez Yah, louez ⟨את⟩ le nom de YHWH, louez, serviteurs de YHWH.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "serviteurs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:14.637072936Z",
+  "model": "glm-4.5"
+}

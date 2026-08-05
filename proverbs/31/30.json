@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "La grâce ⟨est⟩ trompeuse et la beauté ⟨est⟩ vaine, une femme craignant YHWH, elle est à louer.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "trompeuse"
+    },
+    {
+      "surface": "החן",
+      "gloss": "La grâce"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "et la beauté"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "vaine"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "craignant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "est à louer"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:30.381418340Z",
+  "model": "glm-4.5"
+}

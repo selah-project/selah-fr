@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Même le soleil, il ne ⟨l'⟩a pas vu, et il n'a rien connu — plus de repos a ceci que cela.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "même"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "il a vu"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "et il n'a pas"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "connu"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "repos"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "a ceci"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "que cela"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:23.345293291Z",
+  "model": "glm-5.2"
+}

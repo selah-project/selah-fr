@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et moi, j'ai dit dans ma prospérité : Je ne serai pas ébranlé pour toujours.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "dans ma prospérité"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Je ne... pas"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "serai ébranlé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:53.020818669Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "J'ai été oublié comme un mort ⟨hors de⟩ pensée; j'ai été comme un vase ⟨qui⟩ périt.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "j'ai été oublié"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "comme un mort"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "⟨hors de⟩ pensée"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'ai été"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "comme un vase"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "⟨qui⟩ périt"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:31.939318848Z",
+  "model": "glm-4.5"
+}

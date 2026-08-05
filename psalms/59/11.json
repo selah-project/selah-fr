@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Élohim ⟨de⟩ sa bonté me devancera, Élohim me fera voir ⟨mon désir⟩ sur mes adversaires.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sa bonté"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "me devancera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "me fera voir"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "sur mes adversaires"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:14.044677658Z",
+  "model": "glm-4.5"
+}

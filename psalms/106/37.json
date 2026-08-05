@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils sacrifièrent ⟨את⟩ leurs fils et ⟨את⟩ leurs filles aux démons",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Et ils sacrifièrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs fils"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "leurs fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "leurs filles"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "leurs filles"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "aux démons"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:15.426243417Z",
+  "model": "glm-4.5"
+}

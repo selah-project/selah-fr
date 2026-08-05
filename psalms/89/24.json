@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Et je fracasse devant lui ses adversaires, et ceux qui le haïssent, je les frappe.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Et je fracasse"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ses adversaires"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "et ceux qui le haïssent"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "je les frappe"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:11.737078586Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et moi, sur toi j'ai confié, YHWH, j'ai dit : mon Élohim, tu ⟨es⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "j'ai confié"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ⟨es⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:31.939627072Z",
+  "model": "glm-4.5"
+}

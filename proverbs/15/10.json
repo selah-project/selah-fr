@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Une discipline mauvaise ⟨est⟩ pour celui qui quitte le chemin, celui qui hait la réprimande mourra.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "discipline"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvaise"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "pour celui qui quitte"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "celui qui hait"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "réprimande"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mourra"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:32.217098321Z",
+  "model": "glm-4.5"
+}

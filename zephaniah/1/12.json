@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "zephaniah 1:12",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "En ce temps-là, je fouillerai ⟨את⟩ Jérusalem avec des lampes, et je punirai les hommes qui sont reposés sur leurs lies, qui disent en leur cœur : YHWH ne fera pas de bien, et ne fera pas de mal.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En ce temps-là"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "⟨à ce⟩ temps-là"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "celle-là"
+    },
+    {
+      "surface": "אחפש",
+      "gloss": "je fouillerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jérusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "בנרות",
+      "gloss": "avec des lampes"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "et je punirai"
+    },
+    {
+      "surface": "על",
+      "gloss": "les"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "hommes"
+    },
+    {
+      "surface": "הקפאים",
+      "gloss": "qui sont reposés"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שמריהם",
+      "gloss": "leurs lies"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "qui disent"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "en leur cœur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "fera pas de bien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "fera pas de mal"
+    }
+  ],
+  "timestamp": "2026-08-05T00:38:21.464588180Z",
+  "model": "glm-4.5"
+}

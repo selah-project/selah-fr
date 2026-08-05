@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 150,
+  "translation": "Louez-le avec les cymbales sonores, louez-le avec les cymbales de triomphe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Louez-le"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "avec les cymbales"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sonores"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "louez-le"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "avec les cymbales"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "de triomphe"
+    }
+  ],
+  "timestamp": "2026-08-05T03:10:14.905354237Z",
+  "model": "glm-4.5"
+}

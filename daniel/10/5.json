@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et je levai ⟨את⟩ mes yeux et je regardai, et voici un homme unique vêtu de lin, et ses reins étaient ceints d'or pur d'Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Et je levai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes yeux"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "et je regardai"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "unique"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "vêtu"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "de lin"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "et ses reins"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "étaient ceints"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "d'or pur"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "d'Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:23.660635607Z",
+  "model": "glm-4.5"
+}

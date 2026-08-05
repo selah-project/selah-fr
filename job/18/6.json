@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 18:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "La lumière s'assombrit dans sa tente, et sa lampe au-dessus de lui s'éteint",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "La lumière"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "s'assombrit"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "dans sa tente"
+    },
+    {
+      "surface": "ונרו",
+      "gloss": "et sa lampe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "au-dessus de lui"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "s'éteint"
+    }
+  ],
+  "timestamp": "2026-08-05T03:57:25.320565177Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et il étendra ⟨sa⟩ main contre le nord, et détruira ⟨את⟩ Assour, et fera ⟨de⟩ Ninive une désolation, ⟨une⟩ sécheresse comme le désert",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Et il étendra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "⟨sa⟩ main"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "le nord"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "et détruira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assour"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assour"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et fera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "une désolation"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "⟨une⟩ sécheresse"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "comme le désert"
+    }
+  ],
+  "timestamp": "2026-08-05T00:39:12.957846881Z",
+  "model": "glm-4.5"
+}

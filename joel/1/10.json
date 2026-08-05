@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Est dévasté le champ, a gémi la terre, car est dévasté le grain, a séché le moût, est languissant l'huile",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "Est dévasté"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "le champ"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "a gémi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "est dévasté"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "le grain"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "a séché"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "le moût"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "est languissant"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "l'huile"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:27.135125012Z",
+  "model": "glm-4.5"
+}

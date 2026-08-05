@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Je rappellerai les actes de Yah, car je me souviendrai de tes prodiges d'autrefois.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Je rappellerai"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "les actes"
+    },
+    {
+      "surface": "יה",
+      "gloss": "de Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "je me souviendrai"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "de tes prodiges d'autrefois"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "prodiges"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:01.945969210Z",
+  "model": "glm-4.5"
+}

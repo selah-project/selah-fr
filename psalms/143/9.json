@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Délivre-moi de mes ennemis, YHWH, auprès de toi je me suis caché.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "de mes ennemis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "auprès de toi"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "je me suis caché"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.419699556Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Car je ne me fierai pas à mon arc, et mon épée ne me sauvera pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "je me fierai"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "pas"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "et mon épée"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "me sauvera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:40.348787937Z",
+  "model": "glm-4.5"
+}

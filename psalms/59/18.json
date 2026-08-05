@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Ma force, vers toi je chanterai, car Élohim est ⟨mon⟩ lieu haut, l'Élohim de mon hessed",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Ma force"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "⟨mon⟩ lieu haut"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "de mon hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:13.338895731Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "S’est levé ⟨dans⟩ les ténèbres la lumière pour les droits, compatissant et miséricordieux et juste.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "S’est levé"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "⟨dans⟩ les ténèbres"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "pour les droits"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "compatissant"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "et miséricordieux"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "et juste"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:41.347169720Z",
+  "model": "glm-4.5"
+}

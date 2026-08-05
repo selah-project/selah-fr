@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Mon embryon ⟨a⟩ vu tes yeux, et sur ton livre ⟨ils⟩ étaient tous écrits, les jours furent formés et pas un en eux.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "Mon embryon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "⟨a⟩ vu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tes yeux"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "ton livre"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tous"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "étaient écrits"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "furent formés"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et pas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en eux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.918457678Z",
+  "model": "glm-4.5"
+}

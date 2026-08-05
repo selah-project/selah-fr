@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Elle a abattu ⟨sa⟩ bête, mélangé son vin, oui, elle a dressé ⟨sa⟩ table.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Elle a abattu"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "⟨sa⟩ bête"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "mélangé"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "son vin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oui"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "elle a dressé"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "⟨sa⟩ table"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:46.468457796Z",
+  "model": "glm-4.5"
+}

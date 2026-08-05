@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "À l'ouïe de l'oreille ils m'obéissent, les fils de l'étranger me cajolent.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "À l'ouïe de"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'oreille"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ils m'obéissent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "l'étranger"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "me cajolent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:28.178002022Z",
+  "model": "glm-4.5"
+}

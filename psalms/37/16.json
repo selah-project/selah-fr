@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Mieux vaut le peu du juste que l'abondance de nombreux méchants.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux vaut"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "le peu"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "que l'abondance"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "de nombreux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "méchants"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:55.945274394Z",
+  "model": "glm-4.5"
+}

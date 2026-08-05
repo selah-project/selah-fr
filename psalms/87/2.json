@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 87,
+  "translation": "YHWH aime les portes de Sion plus que toutes les mishkanot de Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "aime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "les portes de"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "plus que"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mishkanot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:49.968061609Z",
+  "model": "glm-4.5"
+}

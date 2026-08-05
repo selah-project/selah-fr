@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Ne me rejette pas loin de ta face, et ton esprit saint, ne le retire pas de moi",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "me rejette"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "loin de ta face"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "et ton esprit"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "saint"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "le retire"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:40.567817708Z",
+  "model": "glm-4.5"
+}

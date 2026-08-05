@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et fit tomber au milieu de son camp, tout autour de ses habitations.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "et fit tomber"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "de son camp"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "de ses habitations"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:32.925368061Z",
+  "model": "glm-4.5"
+}

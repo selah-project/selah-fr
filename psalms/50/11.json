@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Je connais tout oiseau des montagnes, et le ziz du champ est avec moi",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Je connais"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "oiseau"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "des montagnes"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "et le ziz"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "du champ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "est avec moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:58.648336638Z",
+  "model": "glm-4.5"
+}

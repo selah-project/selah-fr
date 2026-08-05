@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "daniel 7:10",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Un fleuve de feu coulait et sortait de devant lui ; mille milliers le servaient, et une myriade de myriades se tenaient devant lui ; le jugement s'assit, et les livres furent ouverts.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "un fleuve"
+    },
+    {
+      "surface": "די",
+      "gloss": "de"
+    },
+    {
+      "surface": "נור",
+      "gloss": "feu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "coulait et sortait"
+    },
+    {
+      "surface": "ונפק",
+      "gloss": "sortait"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "milliers"
+    },
+    {
+      "surface": "ישמשונה",
+      "gloss": "le servaient"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "et"
+    },
+    {
+      "surface": "רבון",
+      "gloss": "une myriade de myriades"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "se tenaient"
+    },
+    {
+      "surface": "דינא",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "יתב",
+      "gloss": "s'assit"
+    },
+    {
+      "surface": "וספרין",
+      "gloss": "et les livres"
+    },
+    {
+      "surface": "פתיחו",
+      "gloss": "furent ouverts"
+    }
+  ],
+  "timestamp": "2026-08-05T05:15:03.305678671Z",
+  "model": "glm-4.5"
+}

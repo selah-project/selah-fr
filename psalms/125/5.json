@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 125,
+  "translation": "Mais quant à ceux qui ⟨sont⟩ tordus dans ⟨leurs⟩ voies sinueuses, YHWH les mènera avec ⟨את⟩ les ouvriers de l'iniquité. Shalom sur Israël.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Mais quant à ceux qui"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "⟨sont⟩ tordus dans ⟨leurs⟩ voies sinueuses"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "YHWH les mènera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les ouvriers de l'iniquité"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "les ouvriers"
+    },
+    {
+      "surface": "האון",
+      "gloss": "de l'iniquité"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:22.313560422Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 124,
+  "translation": "Alors les eaux violentes auraient passé sur notre nefesh",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "alors"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "auraient passé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "notre nefesh"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "violentes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:00.335095403Z",
+  "model": "glm-4.5"
+}

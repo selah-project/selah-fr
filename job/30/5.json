@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "De ⟨l'intérieur⟩ du ⟨corps⟩ ils sont chassés, ils ⟨leur⟩ crient après comme après un voleur.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "De"
+    },
+    {
+      "surface": "גו",
+      "gloss": "⟨l'intérieur⟩"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "ils sont chassés"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "ils ⟨leur⟩ crient après"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "comme après"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "un voleur"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:24.345992298Z",
+  "model": "glm-4.5"
+}

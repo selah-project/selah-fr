@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "De peau et de chair tu m'as revêtu, et d'os et de nerfs tu m'as tissé.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "De peau"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "et de chair"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "tu m'as revêtu"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "et d'os"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "et de nerfs"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "tu m'as tissé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:39.157666069Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Regarde ⟨mon⟩ affliction et ⟨mon⟩ labeur, et porte-toi vers tous mes péchés.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "⟨mon⟩ affliction"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "et ⟨mon⟩ labeur"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "et porte-toi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vers tous"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "mes péchés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:14.990507720Z",
+  "model": "glm-4.5"
+}

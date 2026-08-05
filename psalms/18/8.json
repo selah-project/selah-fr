@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Alors la terre trembla et frémit, et ⟨les⟩ fondements des montagnes furent ébranlés, et ils s'agitèrent, car il s'était embrasé contre lui.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "Alors la terre trembla"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "et frémit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "et ⟨les⟩ fondements des"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "montagnes"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "furent ébranlés"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "et ils s'agitèrent"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "il s'était embrasé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "contre lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:00.505230158Z",
+  "model": "glm-4.5"
+}

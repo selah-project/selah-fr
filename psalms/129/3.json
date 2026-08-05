@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 129,
+  "translation": "Sur ⟨mon⟩ dos ont labouré ⟨les⟩ laboureurs, ils ont prolongé leurs sillons.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "⟨mon⟩ dos"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ont labouré"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "⟨les⟩ laboureurs"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ils ont prolongé"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "leurs sillons"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:43.730961470Z",
+  "model": "glm-4.5"
+}

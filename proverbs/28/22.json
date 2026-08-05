@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Un homme ⟨au⟩ mauvais œil est pressé ⟨d'avoir⟩ la richesse, et il ne sait pas que la pauvreté viendra sur lui.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "est pressé"
+    },
+    {
+      "surface": "להון",
+      "gloss": "⟨d'avoir⟩ la richesse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "רע",
+      "gloss": "au mauvais"
+    },
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "la pauvreté"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "viendra sur lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:19.620966712Z",
+  "model": "glm-4.5"
+}

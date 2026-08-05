@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Et David entendit, et il envoya ⟨את⟩ Yoav et ⟨את⟩ toute l'armée des vaillants.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַע",
+      "gloss": "et il entendit"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וַיִּשְׁלַח",
+      "gloss": "et il envoya"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יוֹאָב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'armée"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "צָבָא",
+      "gloss": "l'armée"
+    },
+    {
+      "surface": "הַגִּבּוֹרִים",
+      "gloss": "des vaillants"
+    }
+  ],
+  "timestamp": "2026-08-05T05:55:25.962091837Z",
+  "model": "glm-5.2"
+}

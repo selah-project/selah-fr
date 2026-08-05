@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Toi, tu domines sur l'orgueil de la mer, quand ses vagues se soulèvent, toi, tu les apaises",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "tu domines"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "sur l'orgueil"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "quand"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ses vagues se soulèvent"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "tu les apaises"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:14.598980965Z",
+  "model": "glm-4.5"
+}

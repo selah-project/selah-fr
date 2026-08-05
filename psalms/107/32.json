@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Et qu'ils l'élèvent dans l'assemblée du peuple, et dans le siège des anciens, ils le célèbrent.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Et qu'ils l'élèvent"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dans l'assemblée"
+    },
+    {
+      "surface": "עם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "et dans le siège"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "des anciens"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ils le célèbrent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:18.939365252Z",
+  "model": "glm-4.5"
+}

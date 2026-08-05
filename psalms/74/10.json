@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Jusques à quand, ô Élohim, l'adversaire ⟨va-t-il⟩ insulter ? L'ennemi va-t-il mépriser ton nom pour toujours ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jusques à"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "⟨va-t-il⟩ insulter"
+    },
+    {
+      "surface": "צר",
+      "gloss": "l'adversaire"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "va-t-il mépriser"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "l'ennemi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:31.594048707Z",
+  "model": "glm-4.5"
+}

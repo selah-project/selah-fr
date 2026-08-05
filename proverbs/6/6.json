@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Va vers la fourmi, paresseux, regarde ses sentiers et deviens sage.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "la fourmi"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "paresseux"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "ses sentiers"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "et deviens sage"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:15.870019389Z",
+  "model": "glm-4.5"
+}

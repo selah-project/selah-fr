@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "En YHWH se glorifiera ma néfesh, les humbles l'entendront ⟨et⟩ se réjouiront.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "En YHWH"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "se glorifiera"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma néfesh"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "l'entendront"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "les humbles"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "⟨et⟩ se réjouiront"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:07.036257464Z",
+  "model": "glm-4.5"
+}

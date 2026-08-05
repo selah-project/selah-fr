@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Fausseté, chacun parle ⟨avec⟩ son prochain ; ⟨des⟩ lèvres ⟨de⟩ flatterie, d'un cœur et d'un autre cœur ils parlent.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Fausseté"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "chacun parle"
+    },
+    {
+      "surface": "איש",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son prochain"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son prochain"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "⟨des⟩ lèvres"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "⟨de⟩ flatterie"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "d'un cœur"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "et d'un autre cœur"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ils parlent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:30.794839964Z",
+  "model": "glm-4.5"
+}

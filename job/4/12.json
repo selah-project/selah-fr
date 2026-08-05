@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et à moi une parole ⟨fut⟩ dérobée, et mon oreille perçut un murmure ⟨de cela⟩",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Et à moi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "⟨fut⟩ dérobée"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "et mon oreille perçut"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mon oreille"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "un murmure"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "⟨de cela⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:14.405945238Z",
+  "model": "glm-4.5"
+}

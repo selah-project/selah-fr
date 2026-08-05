@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Mieux ⟨est⟩ d'écouter ⟨la⟩ réprimande du sage que d'écouter ⟨la⟩ chanson des sots",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "d'écouter"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "⟨la⟩ réprimande"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "du sage"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "que d'écouter"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "d'écouter"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "⟨la⟩ chanson"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des sots"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:44.714592540Z",
+  "model": "glm-4.5"
+}

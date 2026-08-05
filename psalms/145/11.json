@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Ils diront la gloire de ton règne et ils parleront de ta puissance.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "de ton règne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "Ils diront"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "et ta puissance"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ils parleront"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:49.792572454Z",
+  "model": "glm-4.5"
+}

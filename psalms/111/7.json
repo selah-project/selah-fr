@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 111,
+  "translation": "Les œuvres de ses mains ⟨sont⟩ vérité et jugement, fiables ⟨sont⟩ tous ses ordonnances",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Les œuvres"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "de ses mains"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨sont⟩ vérité"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "et jugement"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "fiables"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "⟨sont⟩ ses ordonnances"
+    }
+  ],
+  "timestamp": "2026-08-05T02:36:24.807538778Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 6:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car maintenant elle ⟨serait⟩ plus lourde que le sable des mers, c'est pourquoi mes paroles sont ⟨téméraires⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "que le sable"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des mers"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "elle ⟨serait⟩ lourde"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oui"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mes paroles"
+    },
+    {
+      "surface": "לעו",
+      "gloss": "sont ⟨téméraires⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T03:47:14.013276891Z",
+  "model": "glm-4.5"
+}

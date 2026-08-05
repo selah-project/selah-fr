@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 23:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "À gauche dans ⟨sa⟩ œuvre et je ne le perçois pas, il enveloppe ⟨la⟩ droite et je ne vois pas",
+  "tokens": [
+    {
+      "surface": "שמאול",
+      "gloss": "À gauche"
+    },
+    {
+      "surface": "בעשתו",
+      "gloss": "dans ⟨sa⟩ œuvre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "perçois pas"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "il enveloppe"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "⟨la⟩ droite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "vois pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:01:41.400007183Z",
+  "model": "glm-4.5"
+}

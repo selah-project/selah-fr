@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Maison de Lévi, bénissez ⟨את⟩ YHWH, ceux qui craignent YHWH, bénissez ⟨את⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Maison"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "de Lévi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ceux qui craignent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.473296286Z",
+  "model": "glm-4.5"
+}

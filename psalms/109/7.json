@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Lors de son jugement, qu'il sorte coupable, et sa prière soit ⟨pour⟩ une faute.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Lors de son jugement"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "qu'il sorte"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "coupable"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "et sa prière"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "soit"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "⟨pour⟩ une faute"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.286666027Z",
+  "model": "glm-4.5"
+}

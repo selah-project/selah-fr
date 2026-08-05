@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Même sur la route, quand l'insensé marche, son cœur lui manque, et il dit à tout le monde : il est insensé.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur la route"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "quand l'insensé"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "marche"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "lui manque"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "à tout le monde"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "il est insensé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:20.451826268Z",
+  "model": "glm-4.5"
+}

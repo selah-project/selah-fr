@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 114,
+  "translation": "Au sortir d'Israël d'Égypte, de la maison de Jacob d'un peuple de langue étrange",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Au sortir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "d'un peuple"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "de langue étrange"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:32.448065622Z",
+  "model": "glm-4.5"
+}

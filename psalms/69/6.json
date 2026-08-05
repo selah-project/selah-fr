@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Élohim toi tu as connu ⟨ma⟩ folie et mes fautes de toi n'ont pas été cachées",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu as connu"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "⟨ma⟩ folie"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "et mes fautes"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'ont pas"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "été cachées"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:19.316736991Z",
+  "model": "glm-4.5"
+}

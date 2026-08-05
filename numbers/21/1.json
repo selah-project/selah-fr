@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 21:1",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et ⟨le⟩ Cananéen, roi d'Arad, habitant ⟨le⟩ Néguev, entendit qu'Israël venait ⟨par⟩ la route d'Atharim, et il fit la guerre contre Israël, et il prit d'eux un captif.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "et entendit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨le⟩ Cananéen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "d'Arad"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "habitant"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "⟨le⟩ Néguev"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "בא",
+      "gloss": "venait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨par⟩ la route"
+    },
+    {
+      "surface": "האתרים",
+      "gloss": "d'Atharim"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "et il fit la guerre"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contre Israël"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et il prit"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "un captif"
+    }
+  ],
+  "timestamp": "2026-08-04T21:45:17.321275034Z",
+  "model": "glm-4.5"
+}

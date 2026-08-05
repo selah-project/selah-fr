@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Car mes ennemis parlent contre moi, et ceux qui guettent ma nefesh se concertent ⟨ensemble⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mes ennemis parlent"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ennemis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "et ceux qui guettent"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "se concertent"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨ensemble⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:36.793128022Z",
+  "model": "glm-4.5"
+}

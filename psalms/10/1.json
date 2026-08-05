@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Pourquoi, YHWH, te tiens-tu ⟨à⟩ distance, te caches-tu ⟨aux⟩ temps de détresse ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "te tiens-tu"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "⟨à⟩ distance"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "te caches-tu"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "⟨aux⟩ temps"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "de détresse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:28.329899888Z",
+  "model": "glm-4.5"
+}

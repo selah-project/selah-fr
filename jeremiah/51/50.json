@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "jeremiah 51:50",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Réfugiés de l'épée, allez, ne vous arrêtez pas, souvenez-vous de loin de ⟨את⟩ YHWH, et que Jérusalem monte sur votre cœur.",
+  "tokens": [
+    {
+      "surface": "פלטים",
+      "gloss": "Réfugiés"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de l'épée"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "allez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "vous arrêtez pas"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "souvenez-vous"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de loin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "et Jérusalem"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "votre cœur"
+    }
+  ],
+  "timestamp": "2026-08-04T23:09:12.103083373Z",
+  "model": "glm-4.5"
+}

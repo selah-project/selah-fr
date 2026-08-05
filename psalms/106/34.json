@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Ils n'ont pas détruit ⟨את⟩ les peuples, dont YHWH leur avait parlé.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ils n'ont pas"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "détruit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les peuples"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "avait parlé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:11.893815514Z",
+  "model": "glm-4.5"
+}

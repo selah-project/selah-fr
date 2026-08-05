@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Ainsi m'a montré Adonaï YHWH, et voici ⟨un⟩ panier ⟨de⟩ fruits d'été.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "m'a montré"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "⟨un⟩ panier"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "⟨de⟩ fruits d'été"
+    }
+  ],
+  "timestamp": "2026-08-05T00:19:59.469458866Z",
+  "model": "glm-4.5"
+}

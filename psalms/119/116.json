@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Soutiens-moi selon ta parole, et je vivrai, et ne me fais pas honte ⟨à cause de⟩ mon espoir.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Soutiens-moi"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "selon ta parole"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "et je vivrai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "me fais pas honte"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "⟨à cause de⟩ mon espoir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:01.728023510Z",
+  "model": "glm-4.5"
+}

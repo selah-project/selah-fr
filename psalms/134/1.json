@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 134,
+  "translation": "Chant des montées. Voici, bénissez ⟨את⟩ YHWH, tous les serviteurs de YHWH, qui se tiennent dans la maison de YHWH, les nuits.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "qui se tiennent"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "les nuits"
+    }
+  ],
+  "timestamp": "2026-08-05T02:56:47.906488637Z",
+  "model": "glm-4.5"
+}

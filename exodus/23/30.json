@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Peu à peu, je ⟨le⟩ chasserai de devant toi, jusqu'à ce que tu sois fécond et que tu hérites ⟨את⟩ la terre.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Peu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "à peu"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "je ⟨le⟩ chasserai"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de devant toi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "tu sois fécond"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "et que tu hérites"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-04T18:56:44.614363951Z",
+  "model": "glm-4.5"
+}

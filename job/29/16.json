@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Père j'ai été ⟨aux⟩ indigents, et la cause que je ne connaissais pas, je l'ai recherchée.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "Père"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "j'ai été"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "⟨aux⟩ indigents"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et la cause"
+    },
+    {
+      "surface": "לא",
+      "gloss": "que je ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "connaissais pas"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "je l'ai recherchée"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:46.298842879Z",
+  "model": "glm-4.5"
+}

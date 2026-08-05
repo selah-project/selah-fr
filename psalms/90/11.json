@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Qui connaît la force de ta colère, et comme ta crainte, ta fureur ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la force"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "de ta colère"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "et comme ta crainte"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ta fureur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:34.200657337Z",
+  "model": "glm-4.5"
+}

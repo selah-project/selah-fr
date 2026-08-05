@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Prêt ⟨est⟩ mon cœur, Élohim; je chanterai, et je ferai de la musique — même avec ma gloire.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Prêt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "et je ferai de la musique"
+    },
+    {
+      "surface": "אף",
+      "gloss": "— même"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "avec ma gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:15.932172829Z",
+  "model": "glm-4.5"
+}

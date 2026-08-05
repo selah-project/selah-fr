@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Et ils serviront ⟨את⟩ YHWH leur Élohim et ⟨את⟩ David leur roi, que je susciterai pour eux.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Et ils serviront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "leur Élohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "leur roi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "je susciterai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-04T16:57:07.571583545Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ils leur donnèrent ⟨את⟩ Hévron, au pays de Yehouda, et ⟨את⟩ ses pâturages aux alentours.",
+  "tokens": [
+    {
+      "surface": "וַֽיִּתְּנ֥וּ",
+      "gloss": "Et ils donnèrent"
+    },
+    {
+      "surface": "לָהֶ֛ם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Hévron"
+    },
+    {
+      "surface": "חֶבְר֖וֹן",
+      "gloss": "Hévron"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "au pays de"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses pâturages"
+    },
+    {
+      "surface": "מִגְרָשֶׁ֖יהָ",
+      "gloss": "ses pâturages"
+    },
+    {
+      "surface": "סְבִיבֹתֶֽיהָ",
+      "gloss": "aux alentours"
+    }
+  ],
+  "timestamp": "2026-08-05T05:47:08.552369640Z",
+  "model": "glm-5.2"
+}

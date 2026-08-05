@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "La justice de l'intègre ⟨est⟩ aplanie dans sa route, et par sa méchanceté le méchant tombera.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "La justice"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "de l'intègre"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "⟨est⟩ aplanie"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "dans sa route"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "et par sa méchanceté"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tombera"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:24.928545298Z",
+  "model": "glm-4.5"
+}

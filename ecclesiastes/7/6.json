@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car comme le bruit des ronces sous ⟨le⟩ pot, tel ⟨est⟩ le rire du sot, et ceci aussi ⟨est⟩ havel",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "comme le bruit"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "des ronces"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "⟨le⟩ pot"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tel"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "⟨est⟩ le rire"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "du sot"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et ceci"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨est⟩ havel"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:44.714787302Z",
+  "model": "glm-4.5"
+}

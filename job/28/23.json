@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Élohim comprend son chemin, et lui il sait ⟨את⟩ son lieu",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "comprend"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "son chemin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et lui"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son lieu"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "son lieu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:04:54.077666311Z",
+  "model": "glm-4.5"
+}

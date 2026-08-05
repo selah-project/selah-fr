@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Tu donnes à eux, ils ramassent ; tu ouvres ta main, ils sont rassasiés de bien.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "tu donnes"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "ils ramassent"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "tu ouvres"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "ils sont rassasiés"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "de bien"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:13.934502239Z",
+  "model": "glm-4.5"
+}

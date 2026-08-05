@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "Faisant le droit aux opprimés, donnant du pain aux affamés, YHWH relâchant les prisonniers",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Faisant"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le droit"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "aux opprimés"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donnant"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "aux affamés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "relâchant"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "les prisonniers"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:29.800295518Z",
+  "model": "glm-4.5"
+}

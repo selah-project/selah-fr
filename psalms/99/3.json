@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 99,
+  "translation": "Ils célèbrent ton nom, grand et redoutable, saint ⟨est⟩-il.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ils célèbrent"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "et redoutable"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "saint"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨est⟩-il"
+    }
+  ],
+  "timestamp": "2026-08-05T02:25:20.744375906Z",
+  "model": "glm-4.5"
+}

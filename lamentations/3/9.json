@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Il a muré mes chemins avec des pierres de taille, il a tordu mes sentiers.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Il a muré"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mes chemins"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "avec des pierres de taille"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "mes sentiers"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "il a tordu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:47.294329701Z",
+  "model": "glm-4.5"
+}

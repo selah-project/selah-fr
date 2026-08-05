@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 13:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Retire ta main de dessus moi, et que ta terreur ne me ⟨fait⟩ pas peur",
+  "tokens": [
+    {
+      "surface": "כפך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de dessus moi"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "retire"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "et que ta terreur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "me fasse peur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:41.501614312Z",
+  "model": "glm-4.5"
+}

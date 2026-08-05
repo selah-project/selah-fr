@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Fais-moi grâce, YHWH, car ⟨il est⟩ dans la détresse pour moi ; se sont consumés dans la colère mon œil, ma nefesh et mes entrailles",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fais-moi grâce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "צר",
+      "gloss": "⟨il est⟩ dans la détresse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "se sont consumés"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "dans la colère"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mon œil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "et mes entrailles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:55.077916731Z",
+  "model": "glm-4.5"
+}

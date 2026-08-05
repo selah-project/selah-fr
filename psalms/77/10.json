@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Dieu a-t-Il oublié le grâce ? Ou bien a-t-Il resserré ses compassions dans la colère ? Séla.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Dieu a-t-Il oublié"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "le grâce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Dieu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ou bien"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "a-t-Il resserré"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dans la colère"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ses compassions"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:01.945669132Z",
+  "model": "glm-4.5"
+}

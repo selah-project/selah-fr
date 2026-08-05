@@ -1,15 +1,15 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "deuteronomy 14:7",
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Seulement, ⟨את⟩ ceci vous ne mangerez pas, d'entre les ruminants et d'entre les разделяurs du sabot fendu : ⟨את⟩ le chameau, et ⟨את⟩ le lièvre, et ⟨את⟩ le daman, car ⟨ils⟩ ruminent, mais le sabot ils n'ont pas partagé ; impurs ils sont pour vous.",
+  "translation": "Mais ⟨את⟩ ceci, ne le mangez pas — parmi ceux qui remontent la rumination et parmi ceux qui fendent le sabot fendu : ⟨את⟩ le chameau, et ⟨את⟩ le lièvre, et ⟨את⟩ le shaphan ; car ils sont remontants de rumination, mais le sabot, ils ne l'ont pas fendu — impurs, ils sont pour vous.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Seulement"
+      "gloss": "Mais"
     },
     {
       "surface": "את",
@@ -26,27 +26,27 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "mangerez"
+      "gloss": "mangez"
     },
     {
       "surface": "ממעלי",
-      "gloss": "d'entre"
+      "gloss": "parmi ceux qui remontent"
     },
     {
       "surface": "הגרה",
-      "gloss": "les ruminants"
+      "gloss": "la rumination"
     },
     {
       "surface": "וממפריסי",
-      "gloss": "et d'entre"
+      "gloss": "et parmi ceux qui fendent"
     },
     {
       "surface": "הפרסה",
-      "gloss": "les разделяurs"
+      "gloss": "le sabot"
     },
     {
       "surface": "השסועה",
-      "gloss": "du sabot fendu"
+      "gloss": "fendu"
     },
     {
       "surface": "את",
@@ -69,11 +69,11 @@
     {
       "surface": "ואת",
       "gloss": "et ⟨את⟩",
-      "marks": "le daman"
+      "marks": "le shaphan"
     },
     {
       "surface": "השפן",
-      "gloss": "le daman"
+      "gloss": "le shaphan"
     },
     {
       "surface": "כי",
@@ -81,27 +81,27 @@
     },
     {
       "surface": "מעלה",
-      "gloss": "ruminent"
+      "gloss": "remontants"
     },
     {
       "surface": "גרה",
-      "gloss": "[la rumination]"
+      "gloss": "de rumination"
     },
     {
       "surface": "המה",
-      "gloss": "⟨ils⟩"
+      "gloss": "ils"
     },
     {
       "surface": "ופרסה",
-      "gloss": "et le sabot"
+      "gloss": "mais le sabot"
     },
     {
       "surface": "לא",
-      "gloss": "[ils] n'ont pas"
+      "gloss": "ne"
     },
     {
       "surface": "הפריסו",
-      "gloss": "partagé"
+      "gloss": "ont pas fendu"
     },
     {
       "surface": "טמאים",
@@ -109,13 +109,13 @@
     },
     {
       "surface": "הם",
-      "gloss": "[ils] sont"
+      "gloss": "ils sont"
     },
     {
       "surface": "לכם",
       "gloss": "pour vous"
     }
   ],
-  "timestamp": "2026-08-04T10:17:42.543659203Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:34.287572919Z",
+  "model": "glm-5.2"
 }

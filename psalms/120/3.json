@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 120,
+  "translation": "Que te sera-t-il donné, et que t'ajoutera-t-on, langue trompeuse ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "te sera-t-il donné"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et que"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "t'ajoutera-t-on"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "לשון",
+      "gloss": "langue"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "trompeuse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:31.046569205Z",
+  "model": "glm-4.5"
+}

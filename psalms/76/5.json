@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Tu es lumineux, majestueux ⟨plus que⟩ les montagnes de ⟨proie⟩.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "lumineux"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "majestueux"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "⟨plus que⟩ les montagnes"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "de ⟨proie⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:09.034757017Z",
+  "model": "glm-4.5"
+}

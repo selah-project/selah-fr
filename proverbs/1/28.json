@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "alors ils m'appelleront et ⟨je⟩ ne répondrai pas ⟨ils⟩ me chercheront et ⟨ils⟩ ne me trouveront pas",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "alors"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "ils m'appelleront"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨je⟩ ne répondrai pas"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "répondrai"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "⟨ils⟩ me chercheront"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨ils⟩ ne me trouveront pas"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "trouveront"
+    }
+  ],
+  "timestamp": "2026-08-05T03:11:03.552673257Z",
+  "model": "glm-4.5"
+}

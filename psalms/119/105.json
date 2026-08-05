@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Une lampe pour mes pieds ⟨est⟩ ta parole, et une lumière pour mon sentier.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "Une lampe"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "pour mes pieds"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "et une lumière"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "pour mon sentier"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:00.100978946Z",
+  "model": "glm-4.5"
+}

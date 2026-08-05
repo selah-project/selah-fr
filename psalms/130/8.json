@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "Et il rachètera ⟨את⟩ Israël de toutes ses fautes.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Et il"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "rachètera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toutes"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ses fautes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:49.332120993Z",
+  "model": "glm-4.5"
+}

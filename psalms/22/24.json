@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Craignants de YHWH, louez-le, toute la semence de Jacob, glorifiez-le, et tremblez devant lui toute la semence d'Israël",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "craignants de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "louez-le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "la semence"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "glorifiez-le"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "et tremblez devant lui"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "la semence"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:10.443274771Z",
+  "model": "glm-4.5"
+}

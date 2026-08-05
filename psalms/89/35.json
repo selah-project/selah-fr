@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Je ne profanerai pas mon alliance, et ⟨le⟩ sortir de mes lèvres, je ne le changerai pas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Je ne"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "profanerai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "et ⟨le⟩ sortir"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "de mes lèvres"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne le changerai pas"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "je ne le changerai pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:46.300824143Z",
+  "model": "glm-4.5"
+}

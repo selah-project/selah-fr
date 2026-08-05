@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Il ne nous a pas fait ⟨selon⟩ nos fautes, et ne nous a pas traité ⟨selon⟩ nos iniquités.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Il ne"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "pas selon nos fautes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "pas selon nos iniquités"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "a traité"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "envers nous"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:39.279339379Z",
+  "model": "glm-4.5"
+}

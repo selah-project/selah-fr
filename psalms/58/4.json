@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Les méchants ⟨sont⟩ étrangers dès le ventre ; ils errent dès le sein, ceux qui parlent le mensonge.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "⟨sont⟩ étrangers"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Les méchants"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dès le ventre"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ils errent"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "dès le sein"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ceux qui parlent"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "le mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:32.697146534Z",
+  "model": "glm-4.5"
+}

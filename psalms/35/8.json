@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Qu'une ruine ⟨qu'⟩il ne connaît pas vienne sur lui, et son filet qu'il a caché le capture ; dans la ruine qu'il y tombe.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "Qu'une ruine vienne sur lui"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ruine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qu'⟨il⟩ ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connaît pas"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "et son filet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "il a caché"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "le capture"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "dans la ruine"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "qu'il tombe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:09.251745908Z",
+  "model": "glm-4.5"
+}

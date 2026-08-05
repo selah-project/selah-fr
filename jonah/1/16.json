@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et les hommes craignirent une grande crainte ⟨את⟩ YHWH, et sacrifièrent un sacrifice à YHWH, et firent des vœux.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Et craignirent"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "une crainte"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "et sacrifièrent"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "un sacrifice"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "et firent"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "des vœux"
+    }
+  ],
+  "timestamp": "2026-08-05T00:22:29.526957701Z",
+  "model": "glm-4.5"
+}

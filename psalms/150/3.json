@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 150,
+  "translation": "Louez-le au son du shophar louez-le avec le nevel et le kinnor",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Louez-le"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "au son"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "du shophar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "louez-le"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "avec le nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "et le kinnor"
+    }
+  ],
+  "timestamp": "2026-08-05T03:10:23.170190996Z",
+  "model": "glm-4.5"
+}

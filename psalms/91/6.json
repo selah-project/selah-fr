@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "ni de la peste qui marche dans les ténèbres, ni de la destruction qui dévastate à midi",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ni de la peste"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "qui marche dans les ténèbres"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "⟨qui⟩ marche"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ni de la destruction"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "qui dévastate"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "à midi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:09.517148438Z",
+  "model": "glm-4.5"
+}

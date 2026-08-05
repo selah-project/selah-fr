@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "job 9:24",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "La terre est donnée ⟨entre les mains⟩ du méchant, il couvre les visages de ses juges ; si ce n'est pas lui, qui donc est-il ?",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "est donnée"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨entre les mains⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "les visages"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "de ses juges"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "il couvre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ce n'est pas"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "est-il"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:59.092700560Z",
+  "model": "glm-4.5"
+}

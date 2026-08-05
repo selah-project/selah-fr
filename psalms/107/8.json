@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Qu'ils louent YHWH pour son hessed, et ses merveilles pour les fils d'humain",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Qu'ils louent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "et ses merveilles"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pour les fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:26.758878350Z",
+  "model": "glm-4.5"
+}

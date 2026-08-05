@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 24:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Ne tends pas d'embuscade, méchant, à la demeure du juste ; ne pille pas son lieu de repos",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "tends pas d'embuscade"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "méchant"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "à la demeure"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשדד",
+      "gloss": "pille pas"
+    },
+    {
+      "surface": "רבצו",
+      "gloss": "son lieu de repos"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:37.871957867Z",
+  "model": "glm-4.5"
+}

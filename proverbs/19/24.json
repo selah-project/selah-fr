@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Le paresseux enfonce sa main dans le plat, même jusqu'à sa bouche il ne la ramène pas.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "enfonce"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "le paresseux"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "dans le plat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa bouche"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "la ramène pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:32.759861991Z",
+  "model": "glm-4.5"
+}

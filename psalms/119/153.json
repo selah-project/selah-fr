@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Vois ma misère et délivre-moi, car je n'ai pas oublié ⟨la⟩ Torah.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Vois"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ma misère"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "et délivre-moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "⟨la⟩ Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'ai pas"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "oublié"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:30.422648590Z",
+  "model": "glm-4.5"
+}

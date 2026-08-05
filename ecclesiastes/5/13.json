@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Or ⟨la⟩ richesse ⟨cette⟩ périt dans ⟨une⟩ affaire mauvaise, et il a engendré un fils, et ⟨il n'y a⟩ rien en sa main.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "Or"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "⟨la⟩ richesse"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨cette⟩"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "dans ⟨une⟩ affaire"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvaise"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "et il a engendré"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il n'y a⟩"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "en sa main"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "rien"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:19.552804212Z",
+  "model": "glm-4.5"
+}

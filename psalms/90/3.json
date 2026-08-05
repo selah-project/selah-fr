@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Tu fais retourner l’homme jusqu’à la poussière, et tu dis : Revenez, fils d’Adam.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Tu fais retourner"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "l’homme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "la poussière"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "et tu dis"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Revenez"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d’Adam"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:39.301437776Z",
+  "model": "glm-4.5"
+}

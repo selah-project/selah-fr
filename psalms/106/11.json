@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et les eaux couvrirent leurs oppresseurs ; pas un d'eux ne resta.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Et les eaux couvrirent"
+    },
+    {
+      "surface": "מים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "leurs oppresseurs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "resta"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:04.676769410Z",
+  "model": "glm-4.5"
+}

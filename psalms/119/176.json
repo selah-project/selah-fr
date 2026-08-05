@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai erré comme une brebis perdue : cherche ton serviteur, car je n'ai pas oublié tes commandements.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "J'ai erré"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "comme une brebis"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "perdue"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "cherche"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tes commandements"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'ai pas"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "oublié"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:58.980758366Z",
+  "model": "glm-4.5"
+}

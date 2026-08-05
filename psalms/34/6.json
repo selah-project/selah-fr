@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Ils ⟨ont⟩ regardé vers lui et ils ⟨ont⟩ rayonné, et leurs visages n'ont pas été humiliés",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Ils ⟨ont⟩ regardé"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "et ils ⟨ont⟩ rayonné"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "et leurs visages"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'ont pas"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "été humiliés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:26.328320729Z",
+  "model": "glm-4.5"
+}

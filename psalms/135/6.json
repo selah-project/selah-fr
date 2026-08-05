@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Tout ce que YHWH a voulu, il ⟨l'a⟩ fait, dans les cieux et sur la terre, dans les mers et tous les abîmes.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "a voulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il ⟨l'a⟩ fait"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "et sur la terre"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dans les mers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "les abîmes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:25.785749817Z",
+  "model": "glm-4.5"
+}

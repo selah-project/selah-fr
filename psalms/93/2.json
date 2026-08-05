@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 93,
+  "translation": "Affermi est ton trône depuis longtemps, tu es depuis toujours.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Affermi"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "est ton trône"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "depuis longtemps"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "depuis toujours"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:54.873669852Z",
+  "model": "glm-4.5"
+}

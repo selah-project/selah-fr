@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Belle d'élévation, joie de toute la terre, ⟨est⟩ le mont Sion, les flancs du septentrion, la ville d'un grand roi.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Belle"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "d'élévation"
+    },
+    {
+      "surface": "משוש",
+      "gloss": ", joie de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הר",
+      "gloss": ", le mont"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": ", les flancs de"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "septentrion"
+    },
+    {
+      "surface": "קרית",
+      "gloss": ", la ville de"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un grand roi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grand"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:33.141638276Z",
+  "model": "glm-4.5"
+}

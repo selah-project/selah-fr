@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "N'est-ce pas ténèbres, le jour de YHWH, et non lumière, et obscurité, et non clarté pour lui ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ténèbres"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumière"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "et obscurité"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "clarté"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T00:17:29.980118865Z",
+  "model": "glm-4.5"
+}

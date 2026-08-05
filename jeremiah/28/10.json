@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et prit Hanania le prophète ⟨את⟩ le joug de sur le cou de Jérémie le prophète et le brisa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Et prit"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hanania"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "le prophète"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le joug"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "le joug"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sur"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "le cou"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "de Jérémie"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "le prophète"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "et le brisa"
+    }
+  ],
+  "timestamp": "2026-08-04T22:44:41.590627906Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Eshthon engendra ⟨את⟩ Beit-Rapha, et ⟨את⟩ Paséah, et ⟨את⟩ Tekhinnah, père de ʿIr-Naḥash. Ceux-là ⟨sont⟩ les hommes de Rekha.",
+  "tokens": [
+    {
+      "surface": "וְאֶשְׁתּ֗וֹן",
+      "gloss": "Et Eshthon"
+    },
+    {
+      "surface": "הוֹלִ֞יד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rapha"
+    },
+    {
+      "surface": "בֵּ֤ית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "רָפָא֙",
+      "gloss": "Rapha"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Paséah"
+    },
+    {
+      "surface": "פָּסֵ֔חַ",
+      "gloss": "Paséah"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Tekhinnah"
+    },
+    {
+      "surface": "תְּחִנָּ֖ה",
+      "gloss": "Tekhinnah"
+    },
+    {
+      "surface": "אֲבִ֣י",
+      "gloss": "père de"
+    },
+    {
+      "surface": "עִ֣יר",
+      "gloss": "ʿIr"
+    },
+    {
+      "surface": "נָחָ֑שׁ",
+      "gloss": "Naḥash"
+    },
+    {
+      "surface": "אֵ֖לֶּה",
+      "gloss": "Ceux-là"
+    },
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "les hommes de"
+    },
+    {
+      "surface": "רֵכָֽה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-08-05T05:46:13.903348323Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Regarde, ô Élohim, notre bouclier, et vois ⟨le⟩ visage de ton Mashiah.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "notre bouclier"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "et vois"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨le⟩ visage"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "de ton Mashiah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:25.543082262Z",
+  "model": "glm-4.5"
+}

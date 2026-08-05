@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "La mort ⟨frappera⟩ le méchant et les haïsseurs du juste seront condamnés",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "La mort ⟨frappera⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "רעה",
+      "gloss": ""
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "et les haïsseurs"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "seront condamnés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:13.264346555Z",
+  "model": "glm-4.5"
+}

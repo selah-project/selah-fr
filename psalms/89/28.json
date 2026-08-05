@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Moi aussi, je le ferai premier-né, Elyon pour les rois de la terre",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Moi aussi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premier-né"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "le ferai"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "pour les rois"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:08.732137593Z",
+  "model": "glm-4.5"
+}

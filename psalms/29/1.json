@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Un psaume de David. Donnez à YHWH, fils d'Élim, donnez à YHWH la gloire et la force.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Donnez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "d'Élim"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "donnez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "et la force"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:11.964422440Z",
+  "model": "glm-4.5"
+}

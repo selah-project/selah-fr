@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Bâtissez ⟨des⟩ maisons et habitez-les, et plantez ⟨des⟩ jardins et mangez ⟨את⟩ leur fruit.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "bâtissez"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "⟨des⟩ maisons"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "et habitez-les"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "et plantez"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "⟨des⟩ jardins"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "et mangez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur fruit"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "leur fruit"
+    }
+  ],
+  "timestamp": "2026-08-04T22:45:36.982199042Z",
+  "model": "glm-4.5"
+}

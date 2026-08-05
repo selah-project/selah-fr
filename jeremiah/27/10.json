@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Car mensonge ils prophétisent pour vous afin de faire éloigner ⟨vous⟩ de sur ⟨votre⟩ terre et de chasser ⟨vous⟩ et de périr",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mensonge"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ils⟩"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prophétisent"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin de"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "faire éloigner"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩",
+      "marks": "de sur"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "⟨votre⟩ terre"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "et de chasser"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩",
+      "marks": "et de périr"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "et de périr"
+    }
+  ],
+  "timestamp": "2026-08-04T22:44:02.086252663Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Par l'ouïe de l'oreille, je t'avais entendu, mais maintenant mon œil ⟨a⟩ vu.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Par l'ouïe de"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'oreille"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "je t'avais entendu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mais maintenant"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mon œil"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "⟨a⟩ vu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:44.916716089Z",
+  "model": "glm-4.5"
+}

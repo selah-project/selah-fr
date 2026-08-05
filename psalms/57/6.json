@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Élève-toi sur les cieux, ô Élohim, sur toute la terre ⟨soit⟩ ta gloire.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "élève-toi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ta gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:44.024392758Z",
+  "model": "glm-4.5"
+}

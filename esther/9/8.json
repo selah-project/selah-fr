@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "⟨et⟩ Poratha ⟨et⟩ Adalja ⟨et⟩ Aridatha",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨et⟩",
+      "marks": "Poratha"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Poratha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨et⟩",
+      "marks": "Adalja"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adalja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨et⟩",
+      "marks": "Aridatha"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridatha"
+    }
+  ],
+  "timestamp": "2026-08-05T05:03:32.214808064Z",
+  "model": "glm-4.5"
+}

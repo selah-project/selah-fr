@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Doux ⟨est⟩ la lumière et bon pour les yeux de voir ⟨את⟩ le soleil.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "Doux"
+    },
+    {
+      "surface": "האור",
+      "gloss": "est la lumière"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "et bon"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "pour les yeux"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "de voir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le soleil"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T04:48:45.413724686Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et il abandonna ⟨את⟩ le conseil des anciens qu'ils lui avaient donné, et il se consulta avec ⟨את⟩ les jeunes gens qui avaient grandi avec lui, ceux qui se tenaient devant lui.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "et il abandonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le conseil"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "le conseil de"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ils lui avaient conseillé"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "et il se consulta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les jeunes gens"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "les jeunes gens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "avaient grandi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ceux qui se tenaient"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    }
+  ],
+  "timestamp": "2026-08-05T06:04:10.926001514Z",
+  "model": "glm-5.2"
+}

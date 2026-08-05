@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Afin que je raconte toute ta louange dans les portes de la fille de Sion, je tressaillirai de joie en ton salut",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Afin que"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "je raconte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ta louange"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "dans les portes"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de la fille"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "je tressaillirai de joie"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "en ton salut"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:51.729906568Z",
+  "model": "glm-4.5"
+}

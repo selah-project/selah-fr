@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Ma peau ⟨est⟩ devenue noire sur moi, et mes os brûlent de la chaleur.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "ma peau"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "est devenue noire"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "et mes os"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "brûlent"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "la chaleur"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:11.456968168Z",
+  "model": "glm-4.5"
+}

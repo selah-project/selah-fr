@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Splendeur et majesté ⟨sont⟩ devant Lui, force et beauté ⟨sont⟩ dans son sanctuaire.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Splendeur"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "et majesté"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant Lui"
+    },
+    {
+      "surface": "עז",
+      "gloss": "force"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "et beauté"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "dans son sanctuaire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:59.314373169Z",
+  "model": "glm-4.5"
+}

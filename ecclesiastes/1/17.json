@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et je donnai ⟨את⟩ mon cœur à savoir la sagesse, et la connaissance des folies, et ⟨את⟩ la sottise : je sus que, ⟨cela⟩ aussi, ⟨est⟩ un effort de vent.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Et je donnai"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur",
+      "marks": "mon cœur"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "à savoir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "et la connaissance"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "des folies"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "et ⟨את⟩",
+      "marks": "la sottise"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "la sottise : je sus"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "que"
+    },
+    {
+      "surface": "זה",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "est"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "un effort"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de vent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:22.762839493Z",
+  "model": "glm-4.5"
+}

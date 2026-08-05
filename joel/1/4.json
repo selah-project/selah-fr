@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Le reste du gazam ⟨a⟩ mangé ⟨l⟩arbeh, et le reste de ⟨l⟩arbeh ⟨a⟩ mangé ⟨le⟩yeleq, et le reste du yeleq ⟨a⟩ mangé ⟨le⟩hasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Le reste"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "du gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "⟨a⟩ mangé"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "⟨l⟩arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "et le reste"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "de ⟨l⟩arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "⟨a⟩ mangé"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "⟨le⟩yeleq"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "et le reste"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "du yeleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "⟨a⟩ mangé"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "⟨le⟩hasil"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:19.472529532Z",
+  "model": "glm-4.5"
+}

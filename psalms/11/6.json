@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Il fera pleuvoir sur les méchants des pièges, du feu et du soufre, et un vent de brûlures ⟨sera⟩ la portion de leur coupe.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Il fera pleuvoir"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "des pièges"
+    },
+    {
+      "surface": "אש",
+      "gloss": "du feu"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "et du soufre"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "et un vent"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "de brûlures"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "la portion de"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "leur coupe"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:57.144511786Z",
+  "model": "glm-4.5"
+}

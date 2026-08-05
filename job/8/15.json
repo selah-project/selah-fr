@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Il s'appuie sur sa maison, et elle ne tiendra pas; il s'y accroche, et elle ne se dressera pas.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Il s'appuie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "elle ne tiendra pas"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "il s'y accroche"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "elle ne se dressera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:05.307448746Z",
+  "model": "glm-4.5"
+}

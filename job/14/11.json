@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Les eaux s'en vont de la mer, et un tarit le fleuve et il s'assèche.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "Les eaux s'en vont"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Les eaux"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "et un tarit le fleuve"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "tarit"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "et il s'assèche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:28.458450791Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Garde-moi, YHWH, des mains du méchant, de l'homme des violences préserve-moi, ⟨qui⟩ ont comploté pour faire chuter mes pas.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "garde-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "des mains"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "des violences"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "préserve-moi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ont comploté"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "pour faire chuter"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mes pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:15.872941469Z",
+  "model": "glm-4.5"
+}

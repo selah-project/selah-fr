@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Voici, ceux-ci sont des méchants, et tranquilles de monde, ils ont accru ⟨des⟩ richesses.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ceux-ci"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sont des méchants"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "et tranquilles"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "de monde"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ils ont accru"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨des⟩ richesses"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:59.587658926Z",
+  "model": "glm-4.5"
+}

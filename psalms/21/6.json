@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Grand ⟨est⟩ sa gloire dans ton salut, honneur et majesté tu places sur lui.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Grand"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sa gloire"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "dans ton salut"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "honneur"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "et majesté"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "tu places"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:24.706442788Z",
+  "model": "glm-4.5"
+}

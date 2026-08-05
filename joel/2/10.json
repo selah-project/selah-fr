@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Devant lui la terre tremble, les cieux sont ébranlés, le soleil et la lune s'obscurcissent, et les étoiles retirent leur éclat.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "tremble"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "sont ébranlés"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "et la lune"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "s'obscurcissent"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "et les étoiles"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "retirent"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "leur éclat"
+    }
+  ],
+  "timestamp": "2026-08-05T00:11:06.509989159Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Quand je prendrai le temps fixé, moi, avec droiture je jugerai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "je prendrai"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "le temps fixé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "avec droiture"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "je jugerai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:07.815574345Z",
+  "model": "glm-4.5"
+}

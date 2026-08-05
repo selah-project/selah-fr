@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Pour toujours je n'oublierai pas tes préceptes, car par eux tu m'as fait vivre.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Pour toujours"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne... pas"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "j'oublierai"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tes préceptes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בם",
+      "gloss": "par eux"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "tu m'as fait vivre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:43.772636115Z",
+  "model": "glm-4.5"
+}

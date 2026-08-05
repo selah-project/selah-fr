@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "et Salmon engendra ⟨את⟩ Boaz, et Boaz engendra ⟨את⟩ Obed",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "et Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "et Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:26.417380987Z",
+  "model": "glm-4.5"
+}

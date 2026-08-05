@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Le conseil de l'affligé, vous ⟨le⟩ faites honte, car YHWH est son refuge.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Le conseil"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de l'affligé"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "vous ⟨le⟩ faites honte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "son refuge"
+    }
+  ],
+  "timestamp": "2026-08-05T01:11:10.955096433Z",
+  "model": "glm-4.5"
+}

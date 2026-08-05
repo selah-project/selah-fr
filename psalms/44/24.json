@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Réveille-toi, pourquoi dors-tu, Adonaï ? Réveille-toi, ne nous rejette pas pour toujours",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Réveille-toi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "dors-tu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Réveille-toi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "rejette pas"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:51.570568737Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Nous nous sommes gravement corrompus contre toi, et nous n'avons pas gardé ⟨את⟩ les commandements, ⟨את⟩ les statuts et ⟨את⟩ les ordonnances que tu as prescrits à ⟨את⟩ Mosheh, ton serviteur.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "Gravement"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "nous avons agi corrompant"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et nous n'avons pas"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "gardé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les commandements"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "les commandements"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les statuts"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "les statuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les ordonnances"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "les ordonnances"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tu as prescrits"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    }
+  ],
+  "timestamp": "2026-08-05T05:38:46.784284265Z",
+  "model": "glm-5.2"
+}

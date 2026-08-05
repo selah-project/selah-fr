@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "À celui qui ⟨a⟩ coupé la mer de Souf en ⟨parties⟩, car pour toujours est son hessed.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "À celui qui coupe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Souf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "en parties"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "est son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:57.511751915Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Pour le parfum de tes huiles, ⟨elles sont⟩ bonnes, huile répandue, ⟨est⟩ ton nom ; c'est pourquoi les jeunes filles t'aiment.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "Pour le parfum"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "de tes huiles"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "⟨elles sont⟩ bonnes"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "huile"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "répandue"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "⟨est⟩ ton nom"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oui"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "les jeunes filles"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "t'aiment"
+    }
+  ],
+  "timestamp": "2026-08-05T04:17:23.549102217Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Sage de cœur et fort de vigueur, qui ⟨s'est⟩ durci contre lui et ⟨a⟩ eu la paix ?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Sage"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "et fort"
+    },
+    {
+      "surface": "כח",
+      "gloss": "de vigueur"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "s'est durci"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "contre lui"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "a eu la paix"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:42.295477991Z",
+  "model": "glm-4.5"
+}

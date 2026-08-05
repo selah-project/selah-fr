@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Au jour de ma détresse, je T'appellerai, car Tu me répondras.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "de ma détresse"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "je T'appellerai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Tu me répondras"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:04.369392851Z",
+  "model": "glm-4.5"
+}

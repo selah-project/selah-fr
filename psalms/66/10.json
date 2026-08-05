@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Car tu ⟨as⟩ éprouvé ⟨nous⟩, Élohim, tu ⟨as⟩ affiné ⟨nous⟩ comme l'affinage de l'argent",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "tu ⟨as⟩ éprouvé ⟨nous⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "tu ⟨as⟩ affiné ⟨nous⟩"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "comme l'affinage"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:34.797421267Z",
+  "model": "glm-4.5"
+}

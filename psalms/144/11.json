@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Délivre-moi et sauve-moi de la main des fils de l'étranger, dont la bouche a parlé ⟨le⟩ néant, et leur droite, ⟨une⟩ droite de mensonge.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Délivre-moi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "et sauve-moi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "de l'étranger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "la bouche"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "⟨le⟩ néant"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "et leur droite"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "⟨une⟩ droite"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:19.413532608Z",
+  "model": "glm-4.5"
+}

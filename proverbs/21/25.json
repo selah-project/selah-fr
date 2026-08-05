@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Le désir du paresseux le tue, car ses mains refusent d'agir.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "le désir"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "du paresseux"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "le tue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "refusent"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "d'agir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:05.411129024Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et moi je fis marcher Éphraïm, ⟨je les⟩ pris sur ses bras, et ils ne savaient pas que je les guérissais.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "je fis marcher"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "⟨je les⟩ pris"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "ses bras"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "savaient pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "je les guérissais"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:05.881477284Z",
+  "model": "glm-4.5"
+}

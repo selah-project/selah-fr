@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et il dit : Va, Daniel, car fermés et scellés sont les paroles jusqu'au temps de la fin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "fermés"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "et scellés"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "עת",
+      "gloss": "le temps"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "de la fin"
+    }
+  ],
+  "timestamp": "2026-08-05T05:34:01.629751061Z",
+  "model": "glm-5.2"
+}

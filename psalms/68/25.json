@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Ils ont vu tes processions, ô Élohim, les processions de mon Dieu, de mon Roi, dans ⟨le⟩ sanctuaire.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Ils ont vu"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "tes processions"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "les processions"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "de mon Dieu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "de mon Roi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "dans ⟨le⟩ sanctuaire"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:07.128505784Z",
+  "model": "glm-4.5"
+}

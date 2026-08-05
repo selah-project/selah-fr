@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Lève-toi, va à Ninive, la grande ville, et crie vers elle ⟨את⟩ la proclamation que je te parle",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "la grande"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "et crie"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vers elle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la proclamation"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "la proclamation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "à toi"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:56.467652083Z",
+  "model": "glm-4.5"
+}

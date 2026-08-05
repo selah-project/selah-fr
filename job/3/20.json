@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Pourquoi donne-t-il lumière au misérable, et vie à ceux amers de nefesh ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donne-t-il"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "au misérable"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lumière"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "et vie"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "à ceux amers"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "de nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:34.423275771Z",
+  "model": "glm-4.5"
+}

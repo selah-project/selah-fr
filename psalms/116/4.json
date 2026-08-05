@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Et au nom de YHWH je crierai : « Je t'en prie, YHWH, délivre mon âme »",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Et au nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crierai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Je t'en prie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "délivre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:55.291531698Z",
+  "model": "glm-4.5"
+}

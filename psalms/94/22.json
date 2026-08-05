@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Et YHWH fut pour moi ⟨un⟩ lieu élevé, et mon Elohim ⟨est⟩ le rocher de mon refuge.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et YHWH fut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "⟨un⟩ lieu élevé"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et mon Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "⟨est⟩ le rocher"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "de mon refuge"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:29.557374712Z",
+  "model": "glm-4.5"
+}

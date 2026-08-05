@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et vous compterez pour vous depuis le lendemain du shabbat, depuis le jour où vous avez apporté ⟨את⟩ la gerbe de l'élévation, sept shabbats complets ils seront",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "Et vous compterez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "depuis le lendemain"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "du shabbat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "depuis le jour"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "où vous avez apporté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la gerbe de l'élévation"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "la gerbe"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "de l'élévation"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sept"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "shabbats"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "complets"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ils seront"
+    }
+  ],
+  "timestamp": "2026-08-04T21:37:55.620241584Z",
+  "model": "glm-4.5"
+}

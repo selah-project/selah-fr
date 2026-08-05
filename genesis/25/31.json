@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et Jacob dit : vends-moi comme ⟨aujourd'hui⟩ ⟨את⟩ ton droit d'aînesse.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "vends"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "comme ⟨aujourd'hui⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton droit d'aînesse"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ton droit d'aînesse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    }
+  ],
+  "timestamp": "2026-08-04T18:46:58.523706695Z",
+  "model": "glm-4.5"
+}

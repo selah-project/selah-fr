@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Et Moïse leur donna des ordres concernant eux, ⟨le⟩ prêtre Éléazar, et ⟨Josué⟩ fils de Noun, et ⟨les⟩ chefs des pères des tribus des fils d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et donna des ordres"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "prêtre Éléazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Éléazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨Josué⟩",
+      "marks": "Josué"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Josué"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Noun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨les⟩",
+      "marks": "chefs"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "chefs"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "des pères"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "des tribus"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T21:47:38.374640601Z",
+  "model": "glm-4.5"
+}

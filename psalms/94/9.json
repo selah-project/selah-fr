@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Celui qui plante ⟨l'⟩oreille, n'⟨entend⟩-il pas ? Celui qui forme ⟨l'⟩œil, n'⟨observe⟩-il pas ?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Celui qui plante"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'oreille"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "n'...-il pas"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "entend"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Celui qui"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "forme"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'œil"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "n'...-il pas"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "observe"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:32.897522420Z",
+  "model": "glm-4.5"
+}

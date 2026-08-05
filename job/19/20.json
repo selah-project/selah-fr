@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "À ma peau et à ma chair mon os ⟨est⟩ collé, et je me suis échappé avec la peau de mes dents.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "À ma peau"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "et à ma chair"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "mon os ⟨est⟩ collé"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": ""
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "et je me suis échappé"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "avec la peau"
+    },
+    {
+      "surface": "שני",
+      "gloss": "de mes dents"
+    }
+  ],
+  "timestamp": "2026-08-05T03:58:39.482172781Z",
+  "model": "glm-4.5"
+}

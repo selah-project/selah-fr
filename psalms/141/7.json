@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Comme celui qui fend ⟨et⟩ brise ⟨le sol⟩ dans la terre, nos os se sont dispersés à la bouche du Shéol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "celui qui fend"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "et brise"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans la terre"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "se sont dispersés"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "nos os"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "à la bouche de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "le Shéol"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:48.832766117Z",
+  "model": "glm-4.5"
+}

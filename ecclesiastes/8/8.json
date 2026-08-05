@@ -1,0 +1,91 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Il n'y a pas d'humain qui domine sur le rouah pour enfermer ⟨את⟩ le rouah, et il n'y a pas de domination ⟨le⟩ jour de la mort, et il n'y a pas de décharge dans la guerre, et la méchanceté ne délivrera pas ⟨את⟩ ses maîtres.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'humain"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "qui domine"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "sur le rouah"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "pour enfermer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le rouah"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "le rouah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "de domination"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨le⟩ jour"
+    },
+    {
+      "surface": "המות",
+      "gloss": "de la mort"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "de décharge"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "dans la guerre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "la méchanceté ne délivrera pas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "méchanceté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses maîtres"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ses maîtres"
+    }
+  ],
+  "timestamp": "2026-08-05T04:38:27.018822401Z",
+  "model": "glm-4.5"
+}

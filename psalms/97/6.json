@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Les cieux ont proclamé ⟨sa⟩ justice, et tous les peuples ont vu ⟨sa⟩ gloire.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ont proclamé"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Les cieux"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "⟨sa⟩ justice"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "et tous les peuples ont vu"
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "העמים",
+      "gloss": ""
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨sa⟩ gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:56.837248334Z",
+  "model": "glm-4.5"
+}

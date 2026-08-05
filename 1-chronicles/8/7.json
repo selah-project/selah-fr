@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "et Naamane, et Ahiya, et Géra — lui les déporta — et il engendra ⟨את⟩ Uzza et ⟨את⟩ Ahihud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "et Naamane"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "et Ahiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "et Géra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "les déporta"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "et il engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ahihud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahihud"
+    }
+  ],
+  "timestamp": "2026-08-05T05:48:43.868825953Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Mais moi, comme un sourd, je n'entends pas, et comme un muet qui n'ouvre pas sa bouche",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mais moi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "comme un sourd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "entends pas"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "et comme un muet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qui n'"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ouvre pas"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:24.593389604Z",
+  "model": "glm-4.5"
+}

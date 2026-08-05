@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et Haman dit au roi : pour l’homme dont le roi prend plaisir à son honneur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Haman dit"
+    },
+    {
+      "surface": "המן",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pour l’homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "prend plaisir"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "à son honneur"
+    }
+  ],
+  "timestamp": "2026-08-05T05:00:33.927216910Z",
+  "model": "glm-4.5"
+}

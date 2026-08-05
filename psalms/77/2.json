@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Ma voix est vers Élohim, et je crie ; ma voix est vers Élohim, et il prête l'oreille à moi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ma voix"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "et je crie"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "et il prête l'oreille"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:52.414818971Z",
+  "model": "glm-4.5"
+}

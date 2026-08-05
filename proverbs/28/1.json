@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Les méchants s'enfuient sans qu'il y ait ⟨de⟩ persécuteur, et les justes sont confiants comme le lionceau.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "s'enfuient"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sans qu'il y a"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "persécuteur"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "méchants"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "les justes"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "comme le lionceau"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "sont confiants"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:13.216719475Z",
+  "model": "glm-4.5"
+}

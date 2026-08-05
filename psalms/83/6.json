@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Car ils ont comploté d'un même cœur contre toi : ⟨une⟩ alliance ils ont conclue.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ils ont comploté"
+    },
+    {
+      "surface": "לב",
+      "gloss": "d'un même cœur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨une⟩ alliance"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ils ont conclue"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:59.411753632Z",
+  "model": "glm-4.5"
+}

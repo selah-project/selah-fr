@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et moi, YHWH, ton Élohim, ⟨depuis⟩ le pays d’Égypte, et tu ne connaîras pas d’Élohim si ce n’est moi ; et il n’y a ⟨de⟩ sauveur hormis moi.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "⟨depuis⟩ le pays",
+      "marks": "depuis"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d’Égypte"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "et d’Élohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "si ce n’est moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tu ne connaîtras"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "et il n’y a ⟨de⟩ sauveur",
+      "marks": "de"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n’y a"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hormis moi"
+    }
+  ],
+  "timestamp": "2026-08-05T00:08:51.275907214Z",
+  "model": "glm-4.5"
+}

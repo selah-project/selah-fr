@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "règne Élohim sur les nations, Élohim siège sur le trône de sa sainteté.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "règne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siège"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "le trône"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "de sa sainteté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:42.955759821Z",
+  "model": "glm-4.5"
+}

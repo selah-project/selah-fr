@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "⟨Des⟩ témoins de violence se lèvent, ils me demandent ce que je ne connais pas.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "se lèvent"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "⟨des⟩ témoins"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violence"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je connais pas"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ils me demandent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:03.254418513Z",
+  "model": "glm-4.5"
+}

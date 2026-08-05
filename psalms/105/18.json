@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Ils affligèrent ses pieds dans des fers, son âme entra dans le fer.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ils affligèrent"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "dans des fers"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ses pieds"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fer"
+    },
+    {
+      "surface": "באה",
+      "gloss": "entra"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "son âme"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:25.836315564Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "À celui qui conduit son peuple dans le désert, car pour toujours est son hessed.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "À celui qui conduit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "est son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:57.512187271Z",
+  "model": "glm-4.5"
+}

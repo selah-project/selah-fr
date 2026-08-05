@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Les hessed de YHWH, pour toujours je chanterai ; de génération en génération je ferai connaître ta fidélité par ma bouche",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Les hessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "je ferai connaître"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ta fidélité"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "par ma bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:15.349149650Z",
+  "model": "glm-4.5"
+}

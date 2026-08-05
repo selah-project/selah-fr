@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Les gardes qui font ⟨la⟩ ronde dans la ville m'ont trouvée, celui qu'aime ma nefesh, l'avez-vous vu ?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "m'ont trouvée"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "les gardes"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "qui font ⟨la⟩ ronde"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui qu'aime ma nefesh"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "celui qu'aime"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "l'avez-vous vu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:56.251631137Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il ne permit à personne de les opprimer, et il reprit des rois à leur sujet :",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Il ne"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "permit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "à personne"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "de les opprimer"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "et il reprit"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "à leur sujet"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "des rois"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:11.460165397Z",
+  "model": "glm-4.5"
+}

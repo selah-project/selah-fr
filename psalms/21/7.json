@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Car tu le places ⟨comme⟩ bénédictions à perpétuité, tu le réjouis de joie face ⟨à⟩ ta face.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "tu le places"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bénédictions"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "à perpétuité"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "tu le réjouis"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "de joie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta face"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:24.706553425Z",
+  "model": "glm-4.5"
+}

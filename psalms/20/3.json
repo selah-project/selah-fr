@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Qu’il envoie ton secours depuis ⟨le⟩ sanctuaire, et qu’il te soutienne depuis Sion.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "qu’il envoie"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ton secours"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "depuis ⟨le⟩ sanctuaire"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "et qu’il... depuis Sion"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "te soutienne"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:41.680527378Z",
+  "model": "glm-4.5"
+}

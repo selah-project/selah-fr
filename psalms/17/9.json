@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "De face aux méchants qui ⟨me⟩ violent, ⟨mes⟩ ennemis, par la vie ⟨me⟩ encerclent.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "De face"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "aux méchants"
+    },
+    {
+      "surface": "זו",
+      "gloss": "qui"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "⟨me⟩ violent"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "⟨mes⟩ ennemis"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "par la vie"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "⟨me⟩ encerclent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:03.059404475Z",
+  "model": "glm-4.5"
+}

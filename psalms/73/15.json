@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Si je disais : ⟨je⟩ raconterai ainsi, voici, la génération de tes fils, j'aurais trahi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "je disais"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "⟨je⟩ raconterai"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "דור",
+      "gloss": "la génération"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "de tes fils"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "j'aurais trahi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:51.167768982Z",
+  "model": "glm-4.5"
+}

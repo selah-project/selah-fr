@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Détresse et angoisse m'ont atteint, tes commandements ⟨sont⟩ mes délices",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "Détresse"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "et angoisse"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "m'ont atteint"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tes commandements"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mes délices"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:39.547672872Z",
+  "model": "glm-4.5"
+}

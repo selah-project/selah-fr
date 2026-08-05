@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Dis à Zerubbabel, ⟨le⟩ gouverneur de Juda, en disant : Je fais trembler ⟨את⟩ les cieux et ⟨את⟩ la terre.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "⟨le⟩ gouverneur"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Je"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "fais trembler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les cieux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T00:42:05.717140404Z",
+  "model": "glm-4.5"
+}

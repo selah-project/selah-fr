@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "Jouez pour YHWH avec la cithare, avec la cithare et une voix de cantique.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Jouez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "avec la cithare"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "avec la cithare"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "et une voix"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "de cantique"
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:25.506197480Z",
+  "model": "glm-4.5"
+}

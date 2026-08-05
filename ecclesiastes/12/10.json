@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Qohéleth a cherché à trouver des mots agréables, et ⟨ce qui est⟩ écrit en droiture, des mots de vérité.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "a cherché"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohéleth"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "à trouver"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mots"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "agréables"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "et ⟨ce qui est⟩ écrit"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "en droiture"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mots"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T04:52:08.217750807Z",
+  "model": "glm-4.5"
+}

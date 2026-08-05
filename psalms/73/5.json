@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Dans la peine d'un mortel ils ne sont pas, et avec l'humain ils ne sont pas frappés.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "Dans la peine"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "d'un mortel"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ils ne sont pas"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et avec"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ils sont frappés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:21.809611272Z",
+  "model": "glm-4.5"
+}

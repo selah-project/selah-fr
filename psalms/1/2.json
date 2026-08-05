@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Mais si, dans la Torah de YHWH, ⟨est⟩ son désir, et dans sa Torah il médite jour et nuit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mais"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "dans la Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "⟨est⟩ son désir"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "et dans sa Torah"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "il médite"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "jour"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et nuit"
+    }
+  ],
+  "timestamp": "2026-08-05T01:00:23.530593438Z",
+  "model": "glm-4.5"
+}

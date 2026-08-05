@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Tu sais quand je m'assieds et quand je me lève, tu discernes de loin ma pensée.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sais"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "quand je m'assieds"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "et quand je me lève"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "tu discernes"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ma pensée"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de loin"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:48.500120984Z",
+  "model": "glm-4.5"
+}

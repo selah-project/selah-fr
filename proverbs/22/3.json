@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Le prudent voit le mal et se cache, et les simples passent outre et sont punis.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Le prudent"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "voit"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "et se cache"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "et les simples"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "passent outre"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "et sont punis"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:49.991516908Z",
+  "model": "glm-4.5"
+}

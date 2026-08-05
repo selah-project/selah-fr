@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Ton règne ⟨est⟩ un règne de tous les siècles, et ta domination ⟨persiste⟩ dans toutes les générations, génération après génération.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "ton règne"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "un règne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "les siècles"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "et ta domination"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toutes"
+    },
+    {
+      "surface": "דור",
+      "gloss": "les générations"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "génération après génération"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:47.565314355Z",
+  "model": "glm-4.5"
+}

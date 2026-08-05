@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Dans la mer ⟨était⟩ ta route, et tes sentiers dans les eaux nombreuses, et tes traces ne ⟨furent⟩ pas connues.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "Dans la mer"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ta route"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "et tes sentiers"
+    },
+    {
+      "surface": "במים",
+      "gloss": "dans les eaux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreuses"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "et tes traces"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "furent pas connues"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:00.327227339Z",
+  "model": "glm-4.5"
+}

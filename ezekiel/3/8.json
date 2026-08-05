@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Voici, j'ai rendu ⟨את⟩ ton face forts face à leurs faces, et ⟨את⟩ ton front fort face à leurs fronts.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai rendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton face"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ton face"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "forts"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "face à"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "leurs faces"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ton front"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ton front"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "fort"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "face à"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "leurs fronts"
+    }
+  ],
+  "timestamp": "2026-08-04T23:13:54.959948772Z",
+  "model": "glm-4.5"
+}

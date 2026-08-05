@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il dit je te chéris YHWH ma force",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "je te chéris"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "ma force"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:10.361649775Z",
+  "model": "glm-4.5"
+}

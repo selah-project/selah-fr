@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Même l'oiseau a trouvé une maison, et l'hirondelle un nid pour elle, où elle a placé ⟨את⟩ ses petits, ⟨près de⟩ tes autels, YHWH Tsevaot, mon Roi et mon Elohim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "l'oiseau"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "a trouvé"
+    },
+    {
+      "surface": "בית",
+      "gloss": "une maison"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "et l'hirondelle"
+    },
+    {
+      "surface": "קן",
+      "gloss": "un nid"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pour elle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "elle a placé"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ses petits"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses petits"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "tes autels"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mon Roi"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et mon Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:18.778140971Z",
+  "model": "glm-4.5"
+}

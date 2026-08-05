@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Ma nefesh ⟨est⟩ au milieu de lions, je couche parmi ⟨ceux⟩ qui brûlent, les fils d'Adam, leurs dents ⟨sont⟩ une lance et des flèches, et leur langue une épée tranchante.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "lions"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "je couche"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "parmi ⟨ceux⟩ qui brûlent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "leurs dents"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "une lance"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "et des flèches"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "et leur langue"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "une épée"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "tranchante"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:44.024169421Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Ceux qui descendent ⟨vers⟩ la mer en navires, faisant du travail sur les eaux nombreuses",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Ceux qui descendent"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨vers⟩ la mer"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "en navires"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "faisant"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "du travail"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sur les eaux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreuses"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:37.012606980Z",
+  "model": "glm-4.5"
+}

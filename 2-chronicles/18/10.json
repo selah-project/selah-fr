@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Tsidqiyahou, fils de Kenaanah, se fit pour lui des cornes de fer, et dit : « Ainsi a parlé YHWH : Par celles-ci tu encorneras ⟨את⟩ Aram, jusqu'à les achever. »",
+  "tokens": [
+    {
+      "surface": "וַיַּ֥עַשׂ",
+      "gloss": "Et fit"
+    },
+    {
+      "surface": "ל֛וֹ",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "צִדְקִיָּ֥הוּ",
+      "gloss": "Tsidqiyahou"
+    },
+    {
+      "surface": "בֶֽן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "כְּנַעֲנָ֖ה",
+      "gloss": "de Kenaanah"
+    },
+    {
+      "surface": "קַרְנֵ֣י",
+      "gloss": "des cornes"
+    },
+    {
+      "surface": "בַרְזֶ֑ל",
+      "gloss": "de fer"
+    },
+    {
+      "surface": "וַיֹּ֨אמֶר֙",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "כֹּֽה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בְּאֵ֛לֶּה",
+      "gloss": "par celles-ci"
+    },
+    {
+      "surface": "תְּנַגַּ֥ח",
+      "gloss": "tu encorneras"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "אֲרָ֖ם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "כַּלּוֹתָֽם",
+      "gloss": "les achever"
+    }
+  ],
+  "timestamp": "2026-08-05T06:07:19.957082128Z",
+  "model": "glm-5.2"
+}

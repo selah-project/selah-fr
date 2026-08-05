@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Tout ⟨arrive⟩ pareillement à tous : ⟨il y a⟩ un même événement pour le juste et pour le méchant, pour le bon et pour le pur, et pour l'impur, et pour celui qui sacrifie, et pour celui qui ne sacrifie pas ; comme le bon, ainsi le pécheur ; celui qui jure, comme celui qui craint le serment.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "⟨arrive⟩ pareillement"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "à tous"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "⟨il y a⟩ un événement"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un même"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pour le juste"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "et pour le méchant"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "pour le bon"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "et pour le pur"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "et pour l'impur"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "et pour celui qui sacrifie"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "et pour celui qui"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifie pas"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "comme le bon"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "ainsi le pécheur"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "celui qui jure"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "le serment"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "celui qui craint"
+    }
+  ],
+  "timestamp": "2026-08-05T04:42:10.253520641Z",
+  "model": "glm-4.5"
+}

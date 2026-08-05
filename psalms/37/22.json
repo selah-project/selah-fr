@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Car ceux qu'il bénit posséderont ⟨la⟩ terre, et ceux qu'il maudit seront retranchés",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "ceux qu'il bénit"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "posséderont"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "et ceux qu'il maudit"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "seront retranchés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:46.439128794Z",
+  "model": "glm-4.5"
+}

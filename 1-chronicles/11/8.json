@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et ⟨il⟩ bâtit la ville tout autour, depuis le Millo et jusqu'au tour d'enceinte ; et Yoav fit revivre ⟨את⟩ le reste de la ville.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "et bâtit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "le Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "le tour d'enceinte"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "et Yoav"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "fit revivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le reste"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "le reste de"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    }
+  ],
+  "timestamp": "2026-08-05T05:50:02.532761688Z",
+  "model": "glm-5.2"
+}

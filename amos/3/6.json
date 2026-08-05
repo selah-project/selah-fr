@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Si l'on sonne du chophar dans une ville, le peuple ne tremblera-t-il pas ? Si ⟨une⟩ calamité ⟨est⟩ dans une ville, YHWH ne l'a-t-il pas faite ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "l'on sonne"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "du chophar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans une ville"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et le peuple"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "tremblera-t-il"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨une⟩ calamité ⟨est⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "calamité"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans une ville"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne l'"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a-t-il pas faite"
+    }
+  ],
+  "timestamp": "2026-08-05T00:15:55.726581876Z",
+  "model": "glm-4.5"
+}

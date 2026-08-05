@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "N'est-ce pas comme du lait que tu m'as versé, et comme du fromage ⟨que⟩ tu m'as caillé ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "comme du lait"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "tu m'as versé"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "et comme du fromage ⟨que⟩"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "tu m'as caillé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:39.157551876Z",
+  "model": "glm-4.5"
+}

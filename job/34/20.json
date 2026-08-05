@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 34:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "En un instant ils mourront, et au milieu de la nuit le peuple ⟨est⟩ agité ; et ils passent, et ⟨on⟩ enlève le puissant sans main.",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "En un instant"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ils mourront"
+    },
+    {
+      "surface": "וחצות",
+      "gloss": "et au milieu de"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "יגעשו",
+      "gloss": "le peuple ⟨est⟩ agité"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "et ils passent"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "et ⟨on⟩ enlève"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "le puissant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sans"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "main"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:05.741779680Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et Manoah dit au messager de YHWH : retenons-te donc, je te prie, ⟨את⟩ toi, et faisons devant toi un chevreau de chèvres.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "messager de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "retenons"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc, je te prie"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "toi (l'objet à retenir)"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "et faisons"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "un chevreau"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "de chèvres"
+    }
+  ],
+  "timestamp": "2026-08-05T05:20:51.333519639Z",
+  "model": "glm-5.2"
+}

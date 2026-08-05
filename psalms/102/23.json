@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "À l'assemblée des peuples ensemble, et des royaumes, pour servir ⟨את⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "à l'assemblée"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "et des royaumes"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pour servir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:25.835806982Z",
+  "model": "glm-4.5"
+}

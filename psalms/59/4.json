@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Car voici, ils sont en embuscade contre mon ⟨nefesh⟩, ⟨les⟩ puissants se rassemblent contre moi, sans ⟨mon⟩ révolte et sans ⟨mon⟩ péché, YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ils sont en embuscade"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "contre mon ⟨nefesh⟩"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "⟨les⟩ puissants se rassemblent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "sans"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "⟨mon⟩ révolte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et sans"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "⟨mon⟩ péché"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:18.228115970Z",
+  "model": "glm-4.5"
+}

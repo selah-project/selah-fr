@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "À Gath, ne ⟨le⟩ dites pas, à Beit-Le-Aphrah, ne pleurez pas ; dans la poussière, je me roule.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "À Gath"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "dites pas"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "pleurez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "pleurez pas"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "à Beit"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "-Le-Aphrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dans la poussière"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "je me roule"
+    }
+  ],
+  "timestamp": "2026-08-05T00:25:43.730162295Z",
+  "model": "glm-4.5"
+}

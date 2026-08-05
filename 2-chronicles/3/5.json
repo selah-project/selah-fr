@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ⟨את⟩ la grande salle, il la revêtit de bois de béroshim, et il la recouvrit d'or fin, et il y fit monter des palmiers et des chaînettes.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la grande salle"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la salle"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "il revêtit"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bois"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "de béroshim"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "et il le recouvrit"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "et il fit monter"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "des palmiers"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "et des chaînettes"
+    }
+  ],
+  "timestamp": "2026-08-05T06:00:09.491395673Z",
+  "model": "glm-5.2"
+}

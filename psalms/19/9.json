@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Les mandats de YHWH sont droits, réjouissant le cœur ; le commandement de YHWH est pur, illuminant les yeux.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "Les mandats de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sont droits"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "réjouissant"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "le commandement de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "est pur"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "illuminant"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "les yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:06.279176999Z",
+  "model": "glm-4.5"
+}

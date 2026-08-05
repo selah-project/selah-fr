@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "La Hokhma ne crie-t-elle pas, et ⟨la⟩ compréhension ne fait-elle pas retentir sa voix ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ne ...-elle pas"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la Hokhma"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "crie-t-elle"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "et ⟨la⟩ compréhension"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ne fait-elle pas"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "retentir sa voix"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:44.237660466Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "L'œuvre du juste ⟨tend⟩ vers la vie, le revenu du méchant ⟨tend⟩ vers la faute",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "L'œuvre"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "⟨tend⟩ vers la vie"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "le revenu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "⟨tend⟩ vers la faute"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:37.793521424Z",
+  "model": "glm-4.5"
+}

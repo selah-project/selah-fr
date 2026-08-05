@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Et tu as exalté ma corne comme celle des rééms, j'ai été oint avec de l'huile fraîche.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Et tu as exalté"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "comme des rééms"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ma corne"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "j'ai été oint"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "avec de l'huile"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "fraîche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:12.398500873Z",
+  "model": "glm-4.5"
+}

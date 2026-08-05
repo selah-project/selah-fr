@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car toi, tu délivres le peuple humble, et tu abaisses les yeux hautains",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "עני",
+      "gloss": "humble"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "tu délivres"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "et les yeux"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "hautains"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "tu abaisses"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:41.323997126Z",
+  "model": "glm-4.5"
+}

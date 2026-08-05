@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Les cieux pour la hauteur et la terre pour la profondeur, et le cœur des rois, point de recherche.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Les cieux"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "pour la hauteur"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et la terre"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "pour la profondeur"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "et le cœur"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "des rois"
+    },
+    {
+      "surface": "אין",
+      "gloss": "point"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "de recherche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:31.313466125Z",
+  "model": "glm-4.5"
+}

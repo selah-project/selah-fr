@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tes témoignages sont aussi mes délices, ⟨les⟩ hommes de mon conseil.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Tes témoignages"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mes délices"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "hommes"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "de mon conseil"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:10.290275878Z",
+  "model": "glm-4.5"
+}

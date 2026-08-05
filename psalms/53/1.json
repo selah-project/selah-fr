@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 53,
+  "translation": "Au chef des chantres, sur Mahalath, maschil de David",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maschil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:00.577308611Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Une fois j'ai juré par mon sanctuaire, si je mens à David.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Une fois"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "j'ai juré"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "par mon sanctuaire"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:46.300971191Z",
+  "model": "glm-4.5"
+}

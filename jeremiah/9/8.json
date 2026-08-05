@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "À cause de celles-ci, je ne visiterai pas ⟨les⟩, déclaration de YHWH ; ⟨est-ce que⟩ sur une nation comme celle-ci, ma nefesh ne se vengera-t-elle pas ?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "celles-ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "je visiterai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨les⟩",
+      "marks": "celles-ci"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨est-ce que⟩"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "sur une nation"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "se vengera-t-elle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-04T16:15:38.263439957Z",
+  "model": "glm-4.5"
+}

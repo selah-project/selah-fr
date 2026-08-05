@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "À cause de la voix de mon soupir, mon os s'est collé à ma chair.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "à cause de la voix"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "de mon soupir"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "s'est collé"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mon os"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "à ma chair"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:43.565593433Z",
+  "model": "glm-4.5"
+}

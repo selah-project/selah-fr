@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Ils vont de force ⟨en⟩ force, ils se présentent devant Élohim à Sion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Ils vont"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "de force"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "force"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ils se présentent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "à Sion"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:38.254894732Z",
+  "model": "glm-4.5"
+}

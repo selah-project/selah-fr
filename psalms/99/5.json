@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 99,
+  "translation": "Exaltez YHWH notre Élohim, et prosternez-vous ⟨au⟩ marchepied de ses pieds, car il est saint.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Exaltez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "et prosternez-vous"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "⟨au⟩ marchepied"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "de ses pieds"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "il est saint"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "car"
+    }
+  ],
+  "timestamp": "2026-08-05T02:25:28.008296311Z",
+  "model": "glm-4.5"
+}

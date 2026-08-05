@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Que nous adoucissions le conseil dans la maison d'Élohim, nous marchions dans la foule",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "nous adoucissions"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "le conseil"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "dans la maison"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "nous marchions"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "dans la foule"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.488870893Z",
+  "model": "glm-4.5"
+}

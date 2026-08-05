@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et Saul consulta YHWH, et YHWH ne ⟨lui⟩ répondit pas, ni par les songes, ni par les Ourim, ni par les prophètes.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Et ... consulta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "répondit ⟨lui⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "par les songes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "par les Ourim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "par les prophètes"
+    }
+  ],
+  "timestamp": "2026-08-04T22:08:21.971311438Z",
+  "model": "glm-4.5"
+}

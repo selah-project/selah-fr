@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car il y a des paroles qui augmentent ⟨le⟩ hével ; qu'est-ce qui ⟨est⟩ en plus pour *l'adam* ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "paroles"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "augmentent"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hével"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qu'est-ce qui"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "en plus"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "pour *l'adam*"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:05.487692416Z",
+  "model": "glm-4.5"
+}

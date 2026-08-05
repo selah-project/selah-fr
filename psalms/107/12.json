@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Et il a humilié par la peine leur cœur, ils ont chancelé, et il n'y avait pas d'aide",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Et il a humilié"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "par la peine"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "leur cœur"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ils ont chancelé"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y avait pas"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "d'aide"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:51.233317143Z",
+  "model": "glm-4.5"
+}

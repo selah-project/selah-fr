@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 121,
+  "translation": "YHWH est ton gardien, YHWH est ton ombre sur ta main droite.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "est ton gardien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "est ton ombre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la main"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "droite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:00.883968653Z",
+  "model": "glm-4.5"
+}

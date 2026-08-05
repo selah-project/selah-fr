@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Il ne contestera pas pour toujours, et Il ne gardera pas ⟨Sa⟩ colère jusqu’à l’éternité.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Il ne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pas pour toujours"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "contestera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et Il ne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pas jusqu’à l’éternité"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "gardera"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:39.279134688Z",
+  "model": "glm-4.5"
+}

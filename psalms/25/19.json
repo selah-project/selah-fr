@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Regarde ⟨mes⟩ ennemis, car ils sont nombreux, et une haine de violence ⟨ils⟩ m'ont haï.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "⟨mes⟩ ennemis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ils sont nombreux"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "et une haine"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violence"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "⟨ils⟩ m'ont haï"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:14.990619499Z",
+  "model": "glm-4.5"
+}

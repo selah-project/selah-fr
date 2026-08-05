@@ -1,32 +1,32 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "isaiah 36:15",
   "book": "isaiah",
   "lang": "fr",
   "chapter": 36,
-  "translation": "et que ⟨חזקיהו⟩ ne fasse pas confiance à YHWH en disant : Certainement YHWH ⟨nous⟩ délivrera, cette ville ne sera pas donnée dans la main du roi d'Ashour.",
+  "translation": "Et qu'Ezéchias ne vous fasse pas confiance en YHWH, en disant : YHWH nous délivrera, ⟨את⟩ nous arrachant ; cette ville ne sera pas livrée dans la main du roi d'Assyrie.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "et que"
+      "gloss": "et que ne"
     },
     {
       "surface": "יבטח",
-      "gloss": "ne fasse pas confiance"
+      "gloss": "fasse confiance"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "חזקיהו"
+      "marks": "vous"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "⟨חזקיהו⟩"
+      "gloss": "Ezéchias"
     },
     {
       "surface": "אל",
-      "gloss": "à"
+      "gloss": "en"
     },
     {
       "surface": "יהוה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הצל",
-      "gloss": "Certainement"
+      "gloss": "délivrant"
     },
     {
       "surface": "יצילנו",
-      "gloss": "YHWH ⟨nous⟩ délivrera"
+      "gloss": "il nous arrachera"
     },
     {
       "surface": "יהוה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "sera donnée"
+      "gloss": "sera livrée"
     },
     {
       "surface": "העיר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "cette"
+      "gloss": "celle-ci"
     },
     {
       "surface": "ביד",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "מלך",
-      "gloss": "du roi"
+      "gloss": "le roi"
     },
     {
       "surface": "אשור",
-      "gloss": "d'Ashour"
+      "gloss": "d'Assyrie"
     }
   ],
-  "timestamp": "2026-08-04T15:31:20.773555006Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:51:24.862918797Z",
+  "model": "glm-5.2"
 }

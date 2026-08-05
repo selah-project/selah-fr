@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "Célebrez au Dieu des dieux car pour toujours ⟨est⟩ son hessed",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Célebrez"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "au Dieu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "des dieux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:14.145776134Z",
+  "model": "glm-4.5"
+}

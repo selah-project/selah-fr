@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et invoque-moi au jour de la détresse, je te délivrerai, et tu me glorifieras.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Et invoque-moi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "de la détresse"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "je te délivrerai"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "et tu me glorifieras"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:03.528799763Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et comme il parlait avec moi selon ces paroles, j'ai tourné mon visage vers la terre, et je suis resté muet.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "et comme il parlait"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "selon ces paroles"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai tourné"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mon visage"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "vers la terre"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "et je suis resté muet"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:25.274510390Z",
+  "model": "glm-4.5"
+}

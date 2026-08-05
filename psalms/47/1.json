@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Au chef des chantres pour ⟨les⟩ fils de Qorach, un mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pour ⟨les⟩ fils"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:53.595430123Z",
+  "model": "glm-4.5"
+}

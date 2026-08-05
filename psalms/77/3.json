@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Au jour de ma détresse, Adonaï, j'ai cherché ; la nuit, ma main ⟨est⟩ étendue et ne se lasse pas ; ma nefesh refuse d'être consolée.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Au jour"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "de ma détresse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "j'ai cherché"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "⟨est⟩ étendue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "se lasse pas"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "refuse"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "d'être consolée"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:52.414971470Z",
+  "model": "glm-4.5"
+}

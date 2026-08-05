@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 40:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Voici donc sa force ⟨dans⟩ ses reins, et sa vigueur ⟨dans⟩ les muscles de son ventre.",
+  "tokens": [
+    {
+      "surface": "הִנֵּה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "כֹח֣וֹ",
+      "gloss": "sa force"
+    },
+    {
+      "surface": "בְמָתְנָ֑יו",
+      "gloss": "dans ses reins"
+    },
+    {
+      "surface": "וְ֝אֹנ֗וֹ",
+      "gloss": "et sa vigueur"
+    },
+    {
+      "surface": "בִּשְׁרִירֵ֥י",
+      "gloss": "dans les muscles"
+    },
+    {
+      "surface": "בִטְנֽוֹ",
+      "gloss": "de son ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:56.705807998Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Éphraïm vit ⟨את⟩ sa maladie, et Juda ⟨את⟩ sa blessure ; et Éphraïm alla vers l'Assyrie, et envoya vers le roi Yareb ; mais lui, il ne peut pas vous guérir, et il ne peut pas enlever de vous ⟨la⟩ blessure.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa maladie"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "sa maladie"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "et Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa blessure"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "sa blessure"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et alla"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "l'Assyrie"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "et envoya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mais lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "peut"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "guérir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "peut enlever"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "de vous"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "⟨la⟩ blessure"
+    }
+  ],
+  "timestamp": "2026-08-05T00:00:31.100380175Z",
+  "model": "glm-4.5"
+}

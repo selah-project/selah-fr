@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "mais il élève ⟨le⟩ nécessiteux ⟨de⟩ ⟨l'⟩affliction et il place ⟨des⟩ familles comme un troupeau",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "mais il élève"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "⟨le⟩ nécessiteux"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "⟨de⟩ ⟨l'⟩affliction"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et il place"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "comme un troupeau"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "⟨des⟩ familles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:20.286420184Z",
+  "model": "glm-4.5"
+}

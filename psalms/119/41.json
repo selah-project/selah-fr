@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Que vienne à moi ton hessed, YHWH, ton salut, selon ta parole.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "Que vienne à moi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ton salut"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "selon ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:07.627676789Z",
+  "model": "glm-4.5"
+}

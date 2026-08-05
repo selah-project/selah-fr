@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Les douleurs de ceux qui se hâtent ⟨après⟩ un autre seront multipliées ; je ne verserai pas leurs libations de sang, et je ne porterai pas ⟨את⟩ leurs noms sur mes lèvres.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "seront multipliées"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "les douleurs d'eux"
+    },
+    {
+      "surface": "אחר",
+      "gloss": ""
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "qui se hâtent"
+    },
+    {
+      "surface": "בל",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "verserai pas"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "leurs libations"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "et je ne"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "porterai pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs noms"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "leurs noms"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mes lèvres"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:28.333696160Z",
+  "model": "glm-4.5"
+}

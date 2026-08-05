@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Réponds ⟨au⟩ sot selon ⟨sa⟩ sottise, peur qu'il soit sage à ses propres yeux.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Réponds"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "⟨au⟩ sot"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "selon ⟨sa⟩ sottise"
+    },
+    {
+      "surface": "פן",
+      "gloss": "peur qu'"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il soit"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses propres yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:23.506910463Z",
+  "model": "glm-4.5"
+}

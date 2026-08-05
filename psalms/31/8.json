@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "J'exulterai et je me réjouirai dans ton hessed, toi qui as vu ma misère ⟨את⟩ ; tu as connu ⟨את⟩ les détresses de ma nefesh.",
+  "tokens": [
+    {
+      "surface": "אָגִ֥ילָה",
+      "gloss": "J'exulterai"
+    },
+    {
+      "surface": "וְאֶשְׂמְחָ֗ה",
+      "gloss": "et je me réjouirai"
+    },
+    {
+      "surface": "בְּחַ֫סְדֶּ֥ךָ",
+      "gloss": "dans ton hessed"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "toi qui"
+    },
+    {
+      "surface": "רָ֭אִיתָ",
+      "gloss": "as vu"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ma misère"
+    },
+    {
+      "surface": "עָנְיִ֑י",
+      "gloss": "ma misère"
+    },
+    {
+      "surface": "יָ֝דַ֗עְתָּ",
+      "gloss": "tu as connu"
+    },
+    {
+      "surface": "בְּצָר֥וֹת",
+      "gloss": "les détresses de"
+    },
+    {
+      "surface": "נַפְשִֽׁי",
+      "gloss": "ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T06:36:25.250131368Z",
+  "model": "glm-5.2"
+}

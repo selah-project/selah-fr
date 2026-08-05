@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "De nombreux bergers ont ruiné ma vigne, ils ont piétiné ⟨את⟩ ma part, ils ont donné ⟨את⟩ la part de mon désir en désolation de désert",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "bergers"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "de nombreux"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ont ruiné"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ma vigne"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ils ont piétiné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma part"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "ma part"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ils ont donné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la part de mon désir"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "la part"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "de mon désir"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "en désert"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "désolation"
+    }
+  ],
+  "timestamp": "2026-08-04T16:18:39.409984919Z",
+  "model": "glm-4.5"
+}

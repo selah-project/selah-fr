@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Fais-moi voir, YHWH, ta voie, je marcherai dans ta vérité, unifie mon cœur ⟨pour⟩ craindre ton nom.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "fais-moi voir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ta voie"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "je marcherai"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dans ta vérité"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "unifie"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "pour craindre"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:54.815175485Z",
+  "model": "glm-4.5"
+}

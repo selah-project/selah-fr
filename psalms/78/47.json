@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Il tua ⟨avec la⟩ grêle leurs vignes, et leurs sycomores ←avec le⟩ givre.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Il tua"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "⟨avec la⟩ grêle"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "leurs vignes"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "et leurs sycomores"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "←avec le⟩ givre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:39.133191115Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ceux qui ⟨te⟩ craignent me voient et se réjouissent, car j'ai espéré en ta parole.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "Ceux qui ⟨te⟩ craignent"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "me voient"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "et se réjouissent"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "en ta parole"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "j'ai espéré"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:40.700617044Z",
+  "model": "glm-4.5"
+}

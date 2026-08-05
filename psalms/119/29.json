@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "La voie du mensonge éloigne de moi, et ta Torah fais-moi grâce",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "du mensonge"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "éloigne"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "et ta Torah"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fais-moi grâce"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:35.632701410Z",
+  "model": "glm-4.5"
+}

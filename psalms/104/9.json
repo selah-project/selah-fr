@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Une limite tu as posée, ⟨ils ne⟩ la franchiront pas, ⟨ils ne⟩ retourneront pas pour couvrir la terre.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "une limite"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tu as posée"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ils ne⟩"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "la franchiront pas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ils ne⟩"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "retourneront pas"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "pour couvrir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:24.633498362Z",
+  "model": "glm-4.5"
+}

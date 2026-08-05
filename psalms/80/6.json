@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Tu les as fait manger du pain de larmes, et tu les as fait boire avec des larmes ⟨une⟩ troisième mesure.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Tu les as fait manger"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "de larmes"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "et tu les as fait boire"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "avec des larmes"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "une troisième mesure"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:13.205331851Z",
+  "model": "glm-4.5"
+}

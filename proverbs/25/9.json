@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Plaide ta cause avec ton prochain, et ⟨le⟩ secret d'un autre ne le révèle pas",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ta cause"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "plaide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton prochain"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ton prochain"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "et ⟨le⟩ secret"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "d'un autre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "le révèle pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:37.762524341Z",
+  "model": "glm-4.5"
+}

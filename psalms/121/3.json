@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 121,
+  "translation": "Il ne donnera pas ⟨à⟩ ton pied de glisser, il ne sommeillera pas, ton gardien.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Il ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera pas"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "⟨à⟩... de glisser"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ton pied"
+    },
+    {
+      "surface": "אל",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sommeillera pas"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ton gardien"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:59.623204593Z",
+  "model": "glm-4.5"
+}

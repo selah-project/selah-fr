@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Plus hauts que les cieux, que feras-tu ? Plus profond que le Shéol, que sauras-tu ?",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "Plus hauts"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "que les cieux"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "feras-tu"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "plus profond"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "que le Shéol"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sauras-tu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:33.579110173Z",
+  "model": "glm-4.5"
+}

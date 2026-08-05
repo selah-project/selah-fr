@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Disant : Élohim l'a abandonné ; poursuivez et saisissez-le, car il n'y a ⟨point⟩ de libérateur.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Disant"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "l'a abandonné"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "poursuivez"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "et saisissez-le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a ⟨point⟩"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "de libérateur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:36.793242276Z",
+  "model": "glm-4.5"
+}

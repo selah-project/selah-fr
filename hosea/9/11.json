@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Éphraïm — comme un oiseau, s'envolera leur gloire : de l'accouchement, et du ventre, et de la conception.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "comme un oiseau"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "s'envolera"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "leur gloire"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "de l'accouchement"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "et du ventre"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "et de la conception"
+    }
+  ],
+  "timestamp": "2026-08-05T00:04:00.022543355Z",
+  "model": "glm-4.5"
+}

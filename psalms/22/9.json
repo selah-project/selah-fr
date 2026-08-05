@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Confie-toi à YHWH, qu'il le délivre, qu'il le sauvette, car il prend plaisir en lui.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Confie-toi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "qu'il le délivre"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "qu'il le sauvette"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "il prend plaisir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.968618017Z",
+  "model": "glm-4.5"
+}

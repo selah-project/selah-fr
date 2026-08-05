@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Heureux tes hommes, heureux ces ⟨es⟩ serviteurs qui se tiennent continuellement devant toi, écoutant ⟨את⟩ ta sagesse",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "tes hommes"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "heureux"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ces serviteurs"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "qui se tiennent"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "écoutant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta sagesse"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ta sagesse"
+    }
+  ],
+  "timestamp": "2026-08-04T22:16:30.818286141Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Il dévorera les parties de ⟨son⟩ peau ; ⟨le⟩ premier-né de ⟨la⟩ mort dévorera ⟨ses⟩ membres.",
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "Il dévorera"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "les parties de"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "⟨son⟩ peau"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dévorera"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "⟨ses⟩ membres"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "⟨le⟩ premier-né"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de ⟨la⟩ mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:57:49.682820577Z",
+  "model": "glm-4.5"
+}

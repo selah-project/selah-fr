@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "À cause de cela, le roi Darius signa l'écrit et l'interdit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "cela"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Darius"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "signa"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "l'écrit"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "et l'interdit"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T05:12:44.897093469Z",
+  "model": "glm-4.5"
+}

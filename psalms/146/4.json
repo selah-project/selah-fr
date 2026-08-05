@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "Sort son Rouah, il retourne à sa terre, en ce jour-là périssent ses projets",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Sort"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "son Rouah"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "il retourne"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "à sa terre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "périssent"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "ses projets"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:24.481695978Z",
+  "model": "glm-4.5"
+}

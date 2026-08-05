@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "La sagesse a bâti sa maison, elle a taillé ses sept colonnes.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "La sagesse"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "a bâti"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa maison"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "elle a taillé"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ses colonnes"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sept"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:46.468255962Z",
+  "model": "glm-4.5"
+}

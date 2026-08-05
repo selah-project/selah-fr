@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Au son du shofar il dit : Aha ! et de loin il flaire ⟨la⟩ bataille, le tonnerre des chefs et ⟨le⟩ cri.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "Au son de"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "il dit"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha !"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "et de loin"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "il flaire"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨la⟩ bataille"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "le tonnerre"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "des chefs"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "et ⟨le⟩ cri"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:16.356483493Z",
+  "model": "glm-4.5"
+}

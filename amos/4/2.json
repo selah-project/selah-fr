@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Adonaï YHWH l'a juré par sa sainteté : voici, des jours viennent sur vous, et l'on vous emportera avec des crochets, et votre postérité avec des hameçons.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "a juré"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "par sa sainteté"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "באים",
+      "gloss": "viennent"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sur vous"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "et l'on emportera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "avec des crochets"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "et votre postérité"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "avec"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "des hameçons"
+    }
+  ],
+  "timestamp": "2026-08-05T00:16:30.611317513Z",
+  "model": "glm-4.5"
+}

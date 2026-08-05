@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et il vint jusqu' devant la porte ⟨du⟩ roi car il n'est ⟨pas⟩ d'entrer ⟨dans⟩ la porte ⟨du⟩ roi ⟨avec⟩ un vêtement de sac.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Et il vint"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la porte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'est ⟨pas⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "d'entrer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dans⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "la porte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "⟨avec⟩ un vêtement"
+    },
+    {
+      "surface": "שק",
+      "gloss": "de sac"
+    }
+  ],
+  "timestamp": "2026-08-05T04:58:05.137267044Z",
+  "model": "glm-4.5"
+}

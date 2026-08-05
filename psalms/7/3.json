@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Qu'il ne déchire pas mon âme comme un lion, ⟨la⟩ mettant en pièces, sans qu'il y ait un libérateur.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Qu'il ne"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "déchire"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "comme un lion"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "⟨la⟩ mettant en pièces"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sans qu'il y ait"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "un libérateur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:22.057528956Z",
+  "model": "glm-4.5"
+}

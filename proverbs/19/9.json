@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Un témoin de mensonges ne ⟨sera⟩ pas acquitté, et ⟨celui qui⟩ souffle des faussetés périra.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "témoin"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "de mensonges"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "⟨sera⟩ pas acquitté"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "et ⟨celui qui⟩ souffle"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "des faussetés"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "périra"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:30.824623943Z",
+  "model": "glm-4.5"
+}

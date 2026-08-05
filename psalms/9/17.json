@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "YHWH s'est fait connaître par le jugement, dans l'œuvre de ses mains le méchant est pris au piège. Higgaion. Séla.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "s'est fait connaître"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "par le jugement"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dans l'œuvre"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": ""
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "de ses mains"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "est pris au piège"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:38.346775523Z",
+  "model": "glm-4.5"
+}

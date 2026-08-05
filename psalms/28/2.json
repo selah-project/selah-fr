@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Écoute la voix de ma supplication quand je crie vers toi, quand je lève mes mains vers ton saint debir.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "de ma supplication"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "quand je crie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "quand je lève"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mes mains"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ton saint"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:32.018521406Z",
+  "model": "glm-4.5"
+}

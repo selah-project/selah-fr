@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "et il vivra encore pour l'éternité, il ne verra pas ⟨la⟩ fosse",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "et il vivra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour l'éternité"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "verra pas"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "⟨la⟩ fosse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:14.374234922Z",
+  "model": "glm-4.5"
+}

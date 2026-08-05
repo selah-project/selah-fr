@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et le roi d'Israël dit : Prenez ⟨את⟩ Micaïhou et ramenez-le vers Amon, chef de la ville, et vers Yoash, fils du roi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "et il dit"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Prenez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micaïhou"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Micaïhou"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "et ramenez-le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "chef"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T06:06:50.380454500Z",
+  "model": "glm-5.2"
+}

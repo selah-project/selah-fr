@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "YHWH est juste, il éprouve le juste et le méchant, et son âme hait l'amateur de violence.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "est juste"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "il éprouve"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "et le méchant"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "et l'amateur de"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hait"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "son âme"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:57.144312526Z",
+  "model": "glm-4.5"
+}

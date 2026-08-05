@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et ⟨le⟩ roi Achashverosh mit ⟨un⟩ tribut sur ⟨la⟩ terre et ⟨les⟩ îles de ⟨la⟩ mer.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "⟨un⟩ tribut"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "et ⟨les⟩ îles"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de ⟨la⟩ mer"
+    }
+  ],
+  "timestamp": "2026-08-05T05:04:59.170460894Z",
+  "model": "glm-4.5"
+}

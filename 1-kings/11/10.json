@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et lui ⟨a⟩ commandé sur cette chose de ne pas aller après des élohims autres, et ⟨il⟩ n’a ⟨pas⟩ gardé ⟨ce⟩ que YHWH ⟨avait⟩ commandé",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "et ⟨a⟩ commandé"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cette chose"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "de ne pas"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "aller"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "élohims"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "autres"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨il⟩ n’a ⟨pas⟩"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gardé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "YHWH ⟨avait⟩ commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-04T22:16:47.199655943Z",
+  "model": "glm-4.5"
+}

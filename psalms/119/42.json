@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Et je répondrai ⟨à⟩ mon outrageur une parole, car j'ai espéré en ta parole.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "Et je répondrai"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "mon outrageur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "j'ai espéré"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "en ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:07.627941147Z",
+  "model": "glm-4.5"
+}

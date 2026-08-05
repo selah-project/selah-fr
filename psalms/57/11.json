@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Car grand jusqu'aux cieux ⟨est⟩ ton hessed, et jusqu'aux nuées ta vérité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'aux"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'aux"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nuées"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ta vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:45.952318965Z",
+  "model": "glm-4.5"
+}

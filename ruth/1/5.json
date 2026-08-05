@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et ils moururent, eux deux, Machlon et Kilion, et la femme resta ⟨de⟩ ses deux fils et ⟨de⟩ son mari.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "Et ils moururent"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eux deux"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "eux deux"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "et Kilion"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "et la femme resta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "משני",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ses deux fils"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "et ⟨de⟩ son mari"
+    }
+  ],
+  "timestamp": "2026-08-05T04:24:06.605177898Z",
+  "model": "glm-4.5"
+}

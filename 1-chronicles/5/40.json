@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Azarya engendra ⟨את⟩ Seraya, et Seraya engendra ⟨את⟩ Yehotsadaq.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "et Azarya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "et Seraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadaq"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadaq"
+    }
+  ],
+  "timestamp": "2026-08-05T05:46:23.844026384Z",
+  "model": "glm-5.2"
+}

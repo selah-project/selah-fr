@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Un psaume d'Asaph. Élohim, des nations sont entrées dans ⟨ton⟩ héritage, elles ont rendu impur ⟨את⟩ le palais de ⟨ta⟩ sainteté, elles ont mis ⟨את⟩ Jérusalem en ruines",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "d'Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sont entrées"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "dans ⟨ton⟩ héritage"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "elles ont rendu impur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le palais de ta sainteté"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "le palais"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "de ⟨ta⟩ sainteté"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "elles ont mis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jérusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "en ruines"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:11.867715091Z",
+  "model": "glm-4.5"
+}

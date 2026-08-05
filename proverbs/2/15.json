@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Dont les sentiers sont tortueux et ⟨sont⟩ pervers dans leurs parcours",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Dont"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "les sentiers"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "sont tortueux"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "et ⟨sont⟩ pervers"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "dans leurs parcours"
+    }
+  ],
+  "timestamp": "2026-08-05T03:13:16.807276937Z",
+  "model": "glm-4.5"
+}

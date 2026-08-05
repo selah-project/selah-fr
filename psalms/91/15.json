@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Il m'invoquera et je lui répondrai ; je suis avec lui dans la détresse, je le délivrerai et je l'honorerai.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "il m'invoquera"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "et je lui répondrai"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "dans la détresse"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "je le délivrerai"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "et je l'honorerai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:33.251831222Z",
+  "model": "glm-4.5"
+}

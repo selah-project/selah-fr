@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "YHWH, Adonaï ⟨notre⟩, qu'il ⟨est⟩ majestueux, ton nom dans toute la terre, toi qui as mis ta gloire sur les cieux.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonaï ⟨notre⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qu'il ⟨est⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "majestueux"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "toi qui"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "as mis"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ta gloire"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:58.885393455Z",
+  "model": "glm-4.5"
+}

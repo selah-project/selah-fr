@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Ils tournent en rond et titubent comme ⟨un⟩ ivrogne, et toute leur sagesse est engloutie.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "Ils tournent en rond"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "et titubent"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "comme un ivrogne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "leur sagesse"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "est engloutie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:49.281365666Z",
+  "model": "glm-4.5"
+}

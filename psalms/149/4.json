@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 149,
+  "translation": "Car YHWH agrée son peuple il pare les humbles du salut",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "agrée"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "il pare"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "les humbles"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "du salut"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:48.267542249Z",
+  "model": "glm-4.5"
+}

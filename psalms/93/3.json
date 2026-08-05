@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 93,
+  "translation": "Les fleuves ont élevé, YHWH, les fleuves ont élevé leur voix, les fleuves élèvent leurs fracas.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ont élevé"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "les fleuves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ont élevé"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "les fleuves"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "leur voix"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "élèvent"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "les fleuves"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "leurs fracas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:54.873786540Z",
+  "model": "glm-4.5"
+}

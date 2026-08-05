@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Heureux ⟨est⟩ l'homme qui n'a pas marché dans le conseil des méchants, et ⟨sur⟩ la route des criminels ne s'est pas tenu, et dans le siège des moqueurs ne s'est pas assis.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "marché"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "dans le conseil"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "et ⟨sur⟩ la route"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "des criminels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "s'est pas tenu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "et dans le siège"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "des moqueurs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "s'est pas assis"
+    }
+  ],
+  "timestamp": "2026-08-05T01:00:23.530373136Z",
+  "model": "glm-4.5"
+}

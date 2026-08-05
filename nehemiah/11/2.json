@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et le peuple bénit tous les hommes qui se portaient volontaires pour habiter à Jérusalem.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "et bénit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "qui se portaient volontaires"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pour habiter"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T05:42:56.495439948Z",
+  "model": "glm-5.2"
+}

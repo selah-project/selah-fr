@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Tes prêtres se revêtent de justice, et tes fidèles chantent de joie.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Tes prêtres"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "se revêtent"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "de justice"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "et tes fidèles"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "chantent de joie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:25.483458621Z",
+  "model": "glm-4.5"
+}

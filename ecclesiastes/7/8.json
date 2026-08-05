@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Mieux ⟨est⟩ la fin d'une parole que son commencement ; meilleur ⟨est⟩ un long souffle qu'un souffle élevé",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "⟨est⟩ la fin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "d'une parole"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "que son commencement"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "meilleur"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "⟨est⟩ un long"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souffle"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "qu'un souffle élevé"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souffle"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:44.715067723Z",
+  "model": "glm-4.5"
+}

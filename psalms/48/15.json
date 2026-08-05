@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Car celui-ci ⟨est⟩ Élohim, notre Élohim, pour toujours et perpétuité, lui nous guidera sur la mort",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et perpétuité"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "nous guidera"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:23.900249610Z",
+  "model": "glm-4.5"
+}

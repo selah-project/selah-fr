@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Béni soit YHWH depuis Sion, Celui qui habite Jérusalem. Louez Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni soit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "depuis Sion"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "Celui qui habite"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:02.288290682Z",
+  "model": "glm-4.5"
+}

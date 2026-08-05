@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "⟨את⟩ la graisse vous mangez, et ⟨את⟩ la laine vous habillez, la grasse vous abattez, le troupeau vous ne faites pas paître",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la graisse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "la graisse"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "vous mangez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la laine"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "la laine"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "vous habillez"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "la grasse"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "vous abattez"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "le troupeau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "faites pas paître"
+    }
+  ],
+  "timestamp": "2026-08-04T23:42:43.869046888Z",
+  "model": "glm-4.5"
+}

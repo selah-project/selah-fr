@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "Et ⟨a⟩ secoué Pharaon et son armée dans la mer de Souf, car pour toujours est son hessed.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Et a secoué"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "et son armée"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dans la mer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Souf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "est son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:57.512074833Z",
+  "model": "glm-4.5"
+}

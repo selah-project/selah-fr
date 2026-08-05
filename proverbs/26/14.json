@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "La porte tourne sur ⟨son⟩ gond et l'indolent sur son lit.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "la porte"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "tourne"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "son gond"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "et l'indolent"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "son lit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:18.896368945Z",
+  "model": "glm-4.5"
+}

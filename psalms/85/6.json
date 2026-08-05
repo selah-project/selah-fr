@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Est-ce pour toujours que tu t'irriteras contre nous ? ⟨Tu⟩ étendras ta colère de génération en génération.",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Est-ce pour toujours"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "que tu t'irriteras"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "contre nous"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "étendras"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ta colère"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:27.065315466Z",
+  "model": "glm-4.5"
+}

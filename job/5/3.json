@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Moi, j'ai vu l'insensé prendre racine, et soudain j'ai maudit sa demeure.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "l'insensé"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "prendre racine"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "et soudain j'ai maudit"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "sa demeure"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:13.112678192Z",
+  "model": "glm-4.5"
+}

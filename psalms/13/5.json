@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "De peur que mon ennemi ne dise : je l'ai vaincu, mes adversaires se réjouiront si je chancelle.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "De peur que"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ne dise"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mon ennemi"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "je l'ai vaincu"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mes adversaires"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "se réjouiront"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "je chancelle"
+    }
+  ],
+  "timestamp": "2026-08-05T01:10:05.894365453Z",
+  "model": "glm-4.5"
+}

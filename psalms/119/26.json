@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai raconté mes voies et tu m'as répondu ; enseigne-moi tes statuts.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "mes voies"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "j'ai raconté"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "et tu m'as répondu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-moi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes statuts"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:38.099718378Z",
+  "model": "glm-4.5"
+}

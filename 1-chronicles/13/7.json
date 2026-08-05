@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et ils firent monter ⟨את⟩ l'arche d'Élohim sur un char neuf, depuis la maison d'Avinadav ; et Uzza et Ahyo conduisaient le char.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "et ils firent monter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "un char"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "neuf"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "depuis la maison"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "d'Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "et Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "et Ahyo"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "conduisaient"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "le char"
+    }
+  ],
+  "timestamp": "2026-08-05T06:00:46.766957712Z",
+  "model": "glm-5.2"
+}

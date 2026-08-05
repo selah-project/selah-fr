@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Au chef de chant sur Shoushan Édouth, mikhtam de David, pour enseigner",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chant"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shoushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Édouth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "pour enseigner"
+    }
+  ],
+  "timestamp": "2026-08-05T01:50:00.174166330Z",
+  "model": "glm-4.5"
+}

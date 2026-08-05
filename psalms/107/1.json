@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Célébrez YHWH car il est bon car pour l'éternel est son hessed",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Célébrez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il est ⟨bon⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour l'éternel"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:36.143297964Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 4:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Souviens-toi, je te prie, qui ⟨est⟩ innocent a péri, et où ⟨sont⟩ les droits, ils ont été détruits ?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "innocent"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "a péri"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "et où"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "⟨sont⟩ les droits"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ils ont été détruits"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:22.879662414Z",
+  "model": "glm-4.5"
+}

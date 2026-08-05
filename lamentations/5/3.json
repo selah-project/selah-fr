@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Orphelins nous sommes, sans père ; nos mères sont comme des veuves.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Orphelins"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nous sommes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "אב",
+      "gloss": "père"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "nos mères"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "comme des veuves"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:55.490715858Z",
+  "model": "glm-4.5"
+}

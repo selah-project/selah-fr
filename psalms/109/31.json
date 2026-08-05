@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Car ⟨il⟩ se tiendra à la droite de l'indigent pour ⟨le⟩ sauver des juges de sa nefesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨il⟩ se tiendra"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "à la droite"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "de l'indigent"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "pour ⟨le⟩ sauver"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "des juges"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "de sa nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:21.844038695Z",
+  "model": "glm-4.5"
+}

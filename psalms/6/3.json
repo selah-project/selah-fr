@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Fais-moi grâce YHWH car je suis défailli guéris-moi YHWH car mes os sont frissonnants",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fais-moi grâce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "je suis défailli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "guéris-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "sont frissonnants"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mes os"
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:22.869052154Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Tu as aimé la justice et haï le malheur, à cause de cela, Élohim, ton Élohim, t'a oint d'une huile d'allégresse au-dessus de tes associés.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "tu as aimé"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "et haï"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le malheur"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "t'a oint"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "d'une huile"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "d'allégresse"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "au-dessus de tes associés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:39.710815320Z",
+  "model": "glm-4.5"
+}

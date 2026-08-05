@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car YHWH sera ta confiance, et gardera ton pied du piège.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "ta confiance"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "et gardera"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ton pied"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "du piège"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:29.638061749Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH est dans son palais sacré : tais-toi devant lui, toute la terre !",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Et YHWH"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "est dans son palais"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sacré"
+    },
+    {
+      "surface": "הס",
+      "gloss": "tais-toi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T00:36:37.207218559Z",
+  "model": "glm-4.5"
+}

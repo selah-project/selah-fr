@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 138,
+  "translation": "Je me prosterne vers le palais de ⟨ton⟩ sainteté, et je loue ⟨את⟩ ton nom pour ton hessed et pour ta vérité, car tu as exalté ⟨ton⟩ parole au-dessus de tout ton nom.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Je me prosterne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "le palais"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "de ⟨ton⟩ sainteté"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "et je loue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton nom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et pour"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ta vérité"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "tu as exalté"
+    },
+    {
+      "surface": "על",
+      "gloss": "au-dessus de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "⟨ton⟩ parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:59:43.009526457Z",
+  "model": "glm-4.5"
+}

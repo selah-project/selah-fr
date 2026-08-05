@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Par la punition du moqueur, ⟨le⟩ simple devient sage, et par l'instruction du sage, il acquiert du savoir.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "Par la punition"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "du moqueur"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "⟨le⟩ simple devient sage"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "⟨le⟩ simple"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "et par l'instruction"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "du sage"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "il acquiert"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "du savoir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:12.863551854Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et ⟨את⟩ Ésaü j'ai haï, et j'ai fait de ses montagnes une désolation, et ⟨את⟩ son héritage pour les chacals du désert.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ésaü"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésaü"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "j'ai haï"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "et j'ai fait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses montagnes"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "ses montagnes"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "une désolation"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "son héritage"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "son héritage"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "pour les chacals"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "du désert"
+    }
+  ],
+  "timestamp": "2026-08-05T00:57:18.927870393Z",
+  "model": "glm-4.5"
+}

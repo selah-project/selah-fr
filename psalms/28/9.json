@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Sauve ⟨את⟩ ton peuple et bénis ⟨את⟩ ton héritage, et fais-les paître, et porte-les jusqu’à ⟨le⟩ monde à venir.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Sauve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton peuple"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "et bénis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton héritage"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ton héritage"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "et fais-les paître"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "et porte-les"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "⟨le⟩ monde à venir"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:53.544660198Z",
+  "model": "glm-4.5"
+}

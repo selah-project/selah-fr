@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Tu vends ⟨את⟩ ton peuple sans richesse, et tu n'as pas augmenté avec leur prix",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "tu vends"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "sans"
+    },
+    {
+      "surface": "הון",
+      "gloss": "richesse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu n'as pas"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "augmenté"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "avec leur prix"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:44.472612202Z",
+  "model": "glm-4.5"
+}

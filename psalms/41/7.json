@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et s'il vient pour me voir, il parle mensonge ; son cœur amasse l'iniquité ⟨pour⟩ lui-même, quand il sort au dehors, il la raconte.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "בא",
+      "gloss": "il vient"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mensonge"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "il parle"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "amasse"
+    },
+    {
+      "surface": "און",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pour⟩ lui-même"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "il sort"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "au dehors"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "il la raconte"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:29.388188998Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et le roi leur dit : un rêve j'ai rêvé, et mon rouah fut troublé de savoir ⟨את⟩ le rêve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "un rêve"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "j'ai rêvé"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "et fut troublé"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mon rouah"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "de savoir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le rêve"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "le rêve"
+    }
+  ],
+  "timestamp": "2026-08-05T05:06:57.776043520Z",
+  "model": "glm-4.5"
+}

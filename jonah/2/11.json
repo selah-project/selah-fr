@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et YHWH dit au poisson, et il vomit ⟨את⟩ Jonas sur ⟨la⟩ terre ferme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et YHWH dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "au poisson"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "et il vomit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonas"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "⟨la⟩ terre ferme"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:07.262460050Z",
+  "model": "glm-4.5"
+}

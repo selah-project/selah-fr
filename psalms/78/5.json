@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il dressa un témoignage en Jacob, et la Torah ⟨il⟩ mit en Israël, qu'il ⟨il⟩ avait commandé ⟨את⟩ nos pères pour le faire connaître à leurs fils",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Et il dressa"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "un témoignage"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "en Jacob"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "et la Torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨il⟩ mit"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "⟨il⟩ avait commandé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nos pères"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nos pères"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "pour le faire connaître"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "à leurs fils"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:15.573917038Z",
+  "model": "glm-4.5"
+}

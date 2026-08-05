@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Mon fils, si ⟨tu⟩ as donné ⟨ta⟩ caution ⟨au⟩ prochain, si tu as frappé ⟨ta⟩ main ⟨pour⟩ l'étranger",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mon fils"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "as donné ⟨ta⟩ caution"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "⟨au⟩ prochain"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "as frappé"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "⟨pour⟩ l'étranger"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "⟨ta⟩ main"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:29.141450917Z",
+  "model": "glm-4.5"
+}

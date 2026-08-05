@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Jusques à quand, paresseux, te coucheras-tu ? Jusques à quand te lèveras-tu ⟨de⟩ ton sommeil ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jusques à quand"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "paresseux"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "te coucheras-tu"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "te lèveras-tu"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ton sommeil"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:15.420718769Z",
+  "model": "glm-4.5"
+}

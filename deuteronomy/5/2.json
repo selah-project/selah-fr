@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "YHWH notre Élohim a fait ⟨une⟩ alliance avec nous en Horeb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨une⟩ alliance"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "en Horeb"
+    }
+  ],
+  "timestamp": "2026-08-04T21:49:24.971889188Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il livra ⟨את⟩ sa force à la captivité, et ⟨את⟩ sa splendeur en main de l'adversaire.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et il livra"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "à la captivité"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "⟨את⟩",
+      "marks": "sa force"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "et ⟨את⟩ sa splendeur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "en main"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de l'adversaire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:14.168038209Z",
+  "model": "glm-4.5"
+}

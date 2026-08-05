@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et il fit fructifier ⟨את⟩ son peuple beaucoup et il le fortifia plus que ses oppresseurs",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Et il fit fructifier"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son peuple"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "et il le fortifia"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "plus que ses oppresseurs"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:05.192655017Z",
+  "model": "glm-4.5"
+}

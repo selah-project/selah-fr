@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Car YHWH ⟨a⟩ retourné ⟨l⟩ orgueil de Jacob comme ⟨l⟩ orgueil d'Israël, car les videurs ont vidé, et détruit leurs sarments.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שב",
+      "gloss": "retourné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'orgueil de Jacob"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "⟨l⟩ orgueil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "comme ⟨l⟩ orgueil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "les videurs"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ont vidé"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "et leurs sarments"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ont détruit"
+    }
+  ],
+  "timestamp": "2026-08-05T00:34:07.680269705Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Les proverbes de Shelomoh. Un fils sage réjouit un père, et un sot ⟨est⟩ la tristesse de sa mère.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Les proverbes"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "réjouit"
+    },
+    {
+      "surface": "אב",
+      "gloss": "un père"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "et un fils"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sot"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "la tristesse"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sa mère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:25.619575148Z",
+  "model": "glm-4.5"
+}

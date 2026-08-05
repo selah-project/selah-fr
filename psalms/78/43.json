@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "⟨quand⟩ il plaça ses signes en Égypte, et ses prodiges dans le champ de Tsoan",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨quand⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il plaça"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ses signes"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "et ses prodiges"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "צען",
+      "gloss": "de Tsoan"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:46.105718061Z",
+  "model": "glm-4.5"
+}

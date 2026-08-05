@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Un fleuve, ses cours d'eau réjouissent la ville d'Élohim, le sanctuaire des demeures du Très-Haut.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "un fleuve"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "ses cours d'eau"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "réjouissent"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "le sanctuaire"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "des demeures"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "du Très-Haut"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:16.600494940Z",
+  "model": "glm-4.5"
+}

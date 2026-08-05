@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car nombreux sont les blessés qu'elle a fait tomber, et tous ses tués sont des hommes forts",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "blessés"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "qu'elle a fait tomber"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "et forts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "ses tués"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:59.697026861Z",
+  "model": "glm-4.5"
+}

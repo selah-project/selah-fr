@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il dit, et ⟨le⟩ criquet vint, et ⟨la⟩ chenille, sans nombre.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Il dit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et ⟨le⟩ criquet vint"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "⟨le⟩ criquet"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "et ⟨la⟩ chenille"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nombre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:30.115878570Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Et ils se prosterneront devant lui tous les rois toutes les nations le serviront",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "Et ils se prosterneront"
+    },
+    {
+      "surface": "לו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "le serviront"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:28.096559804Z",
+  "model": "glm-4.5"
+}

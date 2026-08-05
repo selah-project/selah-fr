@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car comme une génisse rétive s'est détournée Israël maintenant YHWH les fera paître comme un agneau dans un espace ouvert",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "comme une génisse"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "rétive"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "s'est détournée"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "YHWH les fera paître"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "comme un agneau"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "dans un espace ouvert"
+    }
+  ],
+  "timestamp": "2026-08-04T23:59:50.518060028Z",
+  "model": "glm-4.5"
+}

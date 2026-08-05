@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Sur le lion et le cobra tu marcheras, tu piétinas le jeune lion et le dragon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "le lion"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "et le cobra"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "tu marcheras"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "tu piétinas"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "le jeune lion"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "et le dragon"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:33.251530204Z",
+  "model": "glm-4.5"
+}

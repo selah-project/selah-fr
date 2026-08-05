@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Afin de saisir ⟨את⟩ la maison d'Israël dans leur cœur, puisqu'ils se sont tous détournés de moi par leurs idoles.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "afin de"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "saisir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison d'Israël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dans leur cœur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "puisque"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ils se sont détournés"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "par leurs idoles"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tous"
+    }
+  ],
+  "timestamp": "2026-08-04T23:24:09.441171482Z",
+  "model": "glm-4.5"
+}

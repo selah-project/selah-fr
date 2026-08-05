@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Il enseigne mes mains ⟨au⟩ combat, et un arc de cuivre s'est ployé ⟨par⟩ mes bras",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Il enseigne"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mes mains"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨au⟩ combat"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "et s'est ployé"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "un arc"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "de cuivre"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "⟨par⟩ mes bras"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:50.100741292Z",
+  "model": "glm-4.5"
+}

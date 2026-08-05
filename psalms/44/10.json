@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Mais Tu as rejeté et ⟨Tu⟩ as fait honte, et Tu ne sors pas avec nos armées.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Mais"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Tu as rejeté"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "et ⟨Tu⟩ as fait honte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et Tu ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sors pas"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "avec nos armées"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:51.247849985Z",
+  "model": "glm-4.5"
+}

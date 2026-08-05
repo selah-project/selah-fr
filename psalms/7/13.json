@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "S'il ne ⟨se⟩ retourne pas, son épée ⟨il⟩ aiguisera, son arc il tendra et il la préparera",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "⟨se⟩ retourne pas"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "son épée"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "⟨il⟩ aiguisera"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "son arc"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "il tendra"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "et il la préparera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:11.099351252Z",
+  "model": "glm-4.5"
+}

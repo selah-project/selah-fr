@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "YHWH ⟨siège⟩ sur le déluge, et YHWH siège ⟨comme⟩ roi pour l'éternité.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "sur le déluge"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siège"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et siège"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour l'éternité"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:41.137525733Z",
+  "model": "glm-5.2"
+}

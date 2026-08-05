@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Un fouet pour le cheval, un mors pour l'âne, et une verge pour le dos des sots.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "Un fouet"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "pour le cheval"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "un mors"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "pour l'âne"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "et une verge"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "pour le dos"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des sots"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:18.721373095Z",
+  "model": "glm-4.5"
+}

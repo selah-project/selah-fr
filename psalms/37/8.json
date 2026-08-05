@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Laisse l'ardeur et abandonne la fureur ne t'irrite pas seulement pour faire le mal",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "laisse"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "l'ardeur"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "et abandonne"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "la fureur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "t'irrite pas"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "pour faire le mal"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:48.542893659Z",
+  "model": "glm-4.5"
+}

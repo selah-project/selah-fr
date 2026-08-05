@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Tu as racheté par ⟨le⟩ bras ⟨ton⟩ peuple, les fils de Jacob et de Joseph. Sélah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Tu as racheté"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "par ⟨le⟩ bras"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨ton⟩ peuple"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "et de Joseph"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:57.801285179Z",
+  "model": "glm-4.5"
+}

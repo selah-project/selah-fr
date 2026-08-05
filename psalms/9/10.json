@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et YHWH ⟨est⟩ une haute tour pour l'opprimé, une haute tour pour ⟨les⟩ temps de détresse",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "une haute tour"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "pour l'opprimé"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "une haute tour"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pour ⟨les⟩ temps"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "de détresse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:25.940874032Z",
+  "model": "glm-4.5"
+}

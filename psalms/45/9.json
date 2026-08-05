@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Myrrhe et aloès, cassia — tous tes vêtements ⟨sont⟩ depuis les palais d'ivoire, ⟨où⟩ des cordes t'ont réjoui.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "myrrhe"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "et aloès"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "cassia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "tes vêtements"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "palais"
+    },
+    {
+      "surface": "שן",
+      "gloss": "d'ivoire"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨cordes⟩"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "t'ont réjoui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:25.630673024Z",
+  "model": "glm-4.5"
+}

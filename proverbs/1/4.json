@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "pour donner ⟨de⟩ la ruse aux simples, au jeune homme la connaissance et ⟨le⟩ dessein",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "pour donner"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "aux simples"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "de la ruse"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "au jeune homme"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "et le dessein"
+    }
+  ],
+  "timestamp": "2026-08-05T03:10:55.986298284Z",
+  "model": "glm-4.5"
+}

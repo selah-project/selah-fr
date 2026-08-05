@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Qui ont dit : Par notre langue, nous ⟨allons⟩ prévaloir ; nos lèvres ⟨sont⟩ avec nous ; qui ⟨est⟩ maître sur nous ?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ont dit"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "Par notre langue"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "nous ⟨allons⟩ prévaloir"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "nos lèvres"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨sont⟩ avec nous"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "⟨est⟩ maître"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sur nous"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:38.953059359Z",
+  "model": "glm-4.5"
+}

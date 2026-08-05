@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "J'ai passé ⟨par⟩ le champ de l'homme paresseux, et ⟨par⟩ la vigne de l'homme dépourvu de cœur.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "J'ai passé ⟨par⟩"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "le champ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "paresseux"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "J'ai passé"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et ⟨par⟩"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "la vigne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "dépourvu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:38.725427087Z",
+  "model": "glm-4.5"
+}

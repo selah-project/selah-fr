@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Je t'instruirai et je t'enseignerai ⟨dans⟩ la voie où tu iras ; je conseillerai sur toi, mon œil.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Je t'instruirai"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "et je t'enseignerai"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨dans⟩ la voie"
+    },
+    {
+      "surface": "זו",
+      "gloss": "où"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu iras"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "je conseillerai"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mon œil"
+    }
+  ],
+  "timestamp": "2026-08-05T01:25:43.203770597Z",
+  "model": "glm-4.5"
+}

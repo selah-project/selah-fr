@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Les nations ont sombré dans la fosse qu'elles ont faite, dans le filet qu'elles ont caché, leur pied est pris",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "ont sombré"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Les nations"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "dans la fosse"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qu'elles ont faite"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "dans le filet"
+    },
+    {
+      "surface": "זו",
+      "gloss": "qu'elles"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ont caché"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "leur pied est pris"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "leur pied"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:51.730006805Z",
+  "model": "glm-4.5"
+}

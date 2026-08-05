@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et il fit venir ⟨את⟩ les prêtres et ⟨את⟩ les Lévites, et les rassembla sur la place de l'est.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et il fit venir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les prêtres"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les Lévites"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "les Lévites"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "et les rassembla"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "sur la place"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "de l'est"
+    }
+  ],
+  "timestamp": "2026-08-05T06:11:51.742505294Z",
+  "model": "glm-5.2"
+}

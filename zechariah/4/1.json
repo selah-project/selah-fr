@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 4:1",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et ⟨le⟩ messager qui parlait avec moi revint, et il ⟨me⟩ réveilla comme un homme ⟨qui est⟩ réveillé de son sommeil.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et ⟨il⟩ revint"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨le⟩ messager"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "qui parlait"
+    },
+    {
+      "surface": "בי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "ויעירני",
+      "gloss": "et il ⟨me⟩ réveilla"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "comme un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "est réveillé"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "de son sommeil"
+    }
+  ],
+  "timestamp": "2026-08-05T00:45:39.253666906Z",
+  "model": "glm-4.5"
+}

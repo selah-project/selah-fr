@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Plusieurs disent : « Qui nous fera voir ⟨le⟩ bon ? » Fais lever sur nous la lumière de ta face, YHWH.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Plusieurs"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "disent"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "nous fera voir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨le⟩ bon"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Fais lever"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "de ta face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:05.895774344Z",
+  "model": "glm-4.5"
+}

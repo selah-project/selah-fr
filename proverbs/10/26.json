@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 10:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Comme du vinaigre pour les dents et comme de la fumée pour les yeux, ainsi le paresseux pour ceux qui l'envoient.",
+  "tokens": [
+    {
+      "surface": "כחמץ",
+      "gloss": "Comme du vinaigre"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "pour les dents"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "et comme de la fumée"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "pour les yeux"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "העצל",
+      "gloss": "le paresseux"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "pour ceux qui l'envoient"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:20.958188035Z",
+  "model": "glm-4.5"
+}

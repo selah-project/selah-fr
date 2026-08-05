@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Des bénédictions ⟨sont⟩ sur la tête du juste ; mais la bouche des méchants couvre la violence.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "bénédictions"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "sur la tête"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mais la bouche"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "couvre"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "la violence"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:31.436633199Z",
+  "model": "glm-4.5"
+}

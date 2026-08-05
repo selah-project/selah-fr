@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Car il se souvint de ⟨את⟩ sa parole sainte, ⟨את⟩ Abraham son serviteur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "il se souvint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa parole sainte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa parole"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sainte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham son serviteur"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "son serviteur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:26.915803453Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Nos pères ont péché, ils ne sont plus, ⟨et⟩ nous avons porté leurs iniquités.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "nos pères"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ont péché"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ils ne sont plus"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨et⟩ nous"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "leurs iniquités"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "avons porté"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:55.364009738Z",
+  "model": "glm-4.5"
+}

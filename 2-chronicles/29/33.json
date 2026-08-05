@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et les ⟨choses⟩ consacrées : gros bétail, six cents, et petit bétail, trois mille.",
+  "tokens": [
+    {
+      "surface": "וְֽהַקֳּדָשִׁ֑ים",
+      "gloss": "Et les consacrées"
+    },
+    {
+      "surface": "בָּקָר֙",
+      "gloss": "gros bétail"
+    },
+    {
+      "surface": "שֵׁ֣שׁ",
+      "gloss": "six"
+    },
+    {
+      "surface": "מֵא֔וֹת",
+      "gloss": "centaines"
+    },
+    {
+      "surface": "וְצֹ֖אן",
+      "gloss": "et petit bétail"
+    },
+    {
+      "surface": "שְׁלֹ֥שֶׁת",
+      "gloss": "trois"
+    },
+    {
+      "surface": "אֲלָפִֽים",
+      "gloss": "milliers"
+    }
+  ],
+  "timestamp": "2026-08-05T06:11:54.284419469Z",
+  "model": "glm-5.2"
+}

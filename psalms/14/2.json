@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "YHWH ⟨a⟩ regardé du haut des cieux sur les fils d'Adam, pour voir s'il y a ⟨un⟩ intelligent, ⟨quelqu'un⟩ recherchant Élohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "du haut des cieux"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "⟨a⟩ regardé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "היש",
+      "gloss": "s'il y a"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨un⟩ intelligent"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "⟨quelqu'un⟩ recherchant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:11:24.285433211Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "et que YHWH ton Élohim nous déclare ⟨את⟩ la voie dans laquelle nous marcherons, et ⟨את⟩ la parole que nous ferons.",
+  "tokens": [
+    {
+      "surface": "וְיַגֶּד",
+      "gloss": "et que … déclare"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "nous"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la voie"
+    },
+    {
+      "surface": "הַדֶּרֶךְ",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "dans laquelle"
+    },
+    {
+      "surface": "נֵלֵךְ",
+      "gloss": "nous marcherons"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "dans elle"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נַעֲשֶׂה",
+      "gloss": "nous ferons"
+    }
+  ],
+  "timestamp": "2026-08-05T05:23:29.459334629Z",
+  "model": "glm-5.2"
+}

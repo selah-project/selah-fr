@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Retire le méchant de devant ⟨le⟩ roi, et son trône s'établira dans la justice.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "retire"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "et son trône s'établira"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dans la justice"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "son trône"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:23.980416797Z",
+  "model": "glm-4.5"
+}

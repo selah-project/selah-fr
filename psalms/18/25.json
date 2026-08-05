@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et YHWH me ⟨a⟩ rendu selon ma justice, selon la pureté de mes mains devant ses yeux",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Et ⟨a⟩ rendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "me"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "selon ma justice"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "selon ⟨la⟩ pureté"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de mes mains"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ses yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:41.323606380Z",
+  "model": "glm-4.5"
+}

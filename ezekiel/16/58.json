@@ -1,0 +1,48 @@
+{
+  "tier": "bulk",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "⟨את⟩ ton intrigue et ⟨את⟩ tes abominations, tu as portées — déclaration de YHWH.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "זמתך"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "ton intrigue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "תועבותיך"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "tes abominations"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "נשאתים"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "tu as portées"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T23:26:01.443656985Z",
+  "model": "glm-4.5"
+}

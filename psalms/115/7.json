@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Leurs mains — et ils ne palpent pas ; leurs pieds — et ils ne marchent pas ; ils ne murmurent pas dans leur gorge.",
+  "tokens": [
+    {
+      "surface": "יְדֵיהֶ֤ם",
+      "gloss": "leurs mains"
+    },
+    {
+      "surface": "וְלֹ֬א",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "יְמִישׁ֗וּן",
+      "gloss": "ils palpent"
+    },
+    {
+      "surface": "רַ֭גְלֵיהֶם",
+      "gloss": "leurs pieds"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "יְהַלֵּ֑כוּ",
+      "gloss": "ils marchent"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "יֶ֝הְגּ֗וּ",
+      "gloss": "ils murmurent"
+    },
+    {
+      "surface": "בִּגְרוֹנָֽם",
+      "gloss": "dans leur gorge"
+    }
+  ],
+  "timestamp": "2026-08-05T06:32:10.865019231Z",
+  "model": "glm-5.2"
+}

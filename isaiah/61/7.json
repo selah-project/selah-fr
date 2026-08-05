@@ -1,69 +1,69 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "isaiah 61:7",
   "book": "isaiah",
   "lang": "fr",
   "chapter": 61,
-  "translation": "Au lieu de votre honte double ⟨et⟩ d'insulte, ils ⟨מִשְׁנֶה⟩ chanteront leur part; c'est pourquoi dans leur pays ⟨מִשְׁנֶה⟩ ils posséderont, une joie éternelle sera ⟨pour⟩ eux.",
+  "translation": "À la place de votre honte — double, et ⟨à la place de⟩ l'humiliation, ils chanteront ⟨de joie⟩ sur leur part ; c'est pourquoi dans leur pays ils hériteront du double — joie éternelle sera pour eux.",
   "tokens": [
     {
-      "surface": "תחת",
-      "gloss": "Au lieu de"
+      "surface": "תַּ֤חַת",
+      "gloss": "à la place de"
     },
     {
-      "surface": "בשתכם",
+      "surface": "בָּשְׁתְּכֶם֙",
       "gloss": "votre honte"
     },
     {
-      "surface": "משנה",
+      "surface": "מִשְׁנֶ֔ה",
       "gloss": "double"
     },
     {
-      "surface": "וכלמה",
-      "gloss": "⟨et⟩ d'insulte"
+      "surface": "וּכְלִמָּ֖ה",
+      "gloss": "et humiliation"
     },
     {
-      "surface": "ירנו",
+      "surface": "יָרֹ֣נּוּ",
       "gloss": "ils chanteront"
     },
     {
-      "surface": "חלקם",
+      "surface": "חֶלְקָ֑ם",
       "gloss": "leur part"
     },
     {
-      "surface": "לכן",
+      "surface": "לָכֵ֤ן",
       "gloss": "c'est pourquoi"
     },
     {
-      "surface": "בארצם",
+      "surface": "בְּאַרְצָם֙",
       "gloss": "dans leur pays"
     },
     {
-      "surface": "משנה",
-      "gloss": "⟨מִשְׁנֶה⟩"
+      "surface": "מִשְׁנֶ֣ה",
+      "gloss": "double"
     },
     {
-      "surface": "ירשו",
-      "gloss": "ils posséderont"
+      "surface": "יִירָ֔שׁוּ",
+      "gloss": "ils hériteront"
     },
     {
-      "surface": "שמחת",
+      "surface": "שִׂמְחַ֥ת",
       "gloss": "joie"
     },
     {
-      "surface": "עולם",
+      "surface": "עוֹלָ֖ם",
       "gloss": "éternelle"
     },
     {
-      "surface": "תהיה",
+      "surface": "תִּֽהְיֶ֥ה",
       "gloss": "sera"
     },
     {
-      "surface": "להם",
-      "gloss": "⟨pour⟩ eux"
+      "surface": "לָהֶֽם",
+      "gloss": "pour eux"
     }
   ],
-  "timestamp": "2026-08-04T15:55:09.587603852Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T07:00:11.034798826Z",
+  "model": "glm-5.2"
 }

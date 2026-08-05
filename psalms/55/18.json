@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Soir, et matin, et à midi je méditerai et je gémirai, et il entendra ma voix.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Soir"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "et matin"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "et à midi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "je méditerai"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "et je gémirai"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "et il entendra"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:24.259402052Z",
+  "model": "glm-4.5"
+}

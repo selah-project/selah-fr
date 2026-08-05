@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Souviens-toi de ⟨ton⟩ assemblée, que tu as acquise ⟨de⟩ jadis, que tu as rachetée, la tribu de ⟨ton⟩ héritage, ⟨le⟩ mont Sion, où tu as habité.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "de ⟨ton⟩ assemblée"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "que tu as acquise"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "⟨de⟩ jadis"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "que tu as rachetée"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "la tribu"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "de ⟨ton⟩ héritage"
+    },
+    {
+      "surface": "הר",
+      "gloss": "⟨le⟩ mont"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "זה",
+      "gloss": "où"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "tu as habité"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.981280018Z",
+  "model": "glm-4.5"
+}

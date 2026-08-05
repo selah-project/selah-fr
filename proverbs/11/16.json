@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Une femme de grâce soutient ⟨l'⟩honneur, et les tyrans soutiennent ⟨les⟩ richesses.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Une femme"
+    },
+    {
+      "surface": "חן",
+      "gloss": "de grâce"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "soutient"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "l'honneur"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "et les tyrans"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "soutiennent"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "richesses"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:22.487853939Z",
+  "model": "glm-4.5"
+}

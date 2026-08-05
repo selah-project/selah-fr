@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Dans ⟨la⟩ transgression d'un homme mauvais ⟨il y a⟩ un piège, et ⟨le⟩ juste chantera et sera joyeux",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Dans ⟨la⟩ transgression"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un"
+    },
+    {
+      "surface": "רע",
+      "gloss": "homme mauvais"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "⟨il y a⟩ un piège"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "et ⟨le⟩ juste"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "chantera"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "et sera joyeux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:31.821466118Z",
+  "model": "glm-4.5"
+}

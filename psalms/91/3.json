@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Car lui-même t'arrachera ⟨au⟩ piège de l'oiseleur et ⟨à⟩ la parole de ruine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui-même"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "t'arrachera"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "⟨au⟩ piège"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "de l'oiseleur"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "et ⟨à⟩ la parole"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "de ruine"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:15.186631740Z",
+  "model": "glm-4.5"
+}

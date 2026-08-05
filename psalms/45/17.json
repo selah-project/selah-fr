@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "À la place de tes pères seront tes fils, tu les placeras comme princes dans toute ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "À la place de"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tes pères"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "seront"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tes fils"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "tu les placeras"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "comme princes"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:21.856177342Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Pour David ton serviteur, ne repousse pas ⟨la⟩ face de ton Oint.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Pour"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "repousse pas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨la⟩ face"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "de ton Oint"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:25.483649011Z",
+  "model": "glm-4.5"
+}

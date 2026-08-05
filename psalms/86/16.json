@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Tourne-toi vers moi et fais-moi grâce, donne ta force à ton serviteur, et sauve le fils de ta servante.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Tourne-toi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "et fais-moi grâce"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "donne"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ta force"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "à ton serviteur"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "et sauve"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "de ta servante"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:09.330604396Z",
+  "model": "glm-4.5"
+}

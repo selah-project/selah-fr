@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il ⟨a⟩ envoyé des ténèbres, et il fit sombre, et ils ne se révoltèrent pas contre ⟨את⟩ sa parole.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "envoyé"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "des ténèbres"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "et il fit sombre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "se révoltèrent pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa parole"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "sa parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:39.580767192Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il livra ⟨את⟩ son peuple au glaive, et dans son héritage il s'irrita.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Et il livra"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "au glaive"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨את⟩ son peuple"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "et dans son héritage"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "il s'irrita"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:14.168253230Z",
+  "model": "glm-4.5"
+}

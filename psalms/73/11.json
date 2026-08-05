@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Et ils disent : Comment El sait-il, et y a-t-il de la connaissance dans le Elyon ?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Et ils disent"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Comment"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait-il"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "et y a-t-il"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "de la connaissance"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "dans le Elyon"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:59.587573579Z",
+  "model": "glm-4.5"
+}

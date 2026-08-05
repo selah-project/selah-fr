@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Et le peuple murmura contre Moïse, en disant : Qu’est-ce que nous boirons ?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "Et ils murmurèrent"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu’est-ce que"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "nous boirons"
+    }
+  ],
+  "timestamp": "2026-08-04T18:55:28.196493482Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 33:4",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et il bâtit des autels dans la maison de YHWH, dont YHWH avait dit : « À Jérusalem sera mon nom pour toujours. »",
+  "tokens": [
+    {
+      "surface": "וּבָנָ֥ה",
+      "gloss": "et il bâtit"
+    },
+    {
+      "surface": "מִזְבְּח֖וֹת",
+      "gloss": "des autels"
+    },
+    {
+      "surface": "בְּבֵ֣ית",
+      "gloss": "dans la maison de"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֲשֶׁ֙ר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "avait dit"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בִּירוּשָׁלִַ֥ם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "יִֽהְיֶה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "שְּׁמִ֖י",
+      "gloss": "mon nom"
+    },
+    {
+      "surface": "לְעוֹלָֽם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T06:14:30.699703559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Génération ⟨à⟩ génération louera tes œuvres, et tes actes de puissance, ils ⟨les⟩ raconteront.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Génération"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "⟨à⟩ génération"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "louera"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tes œuvres"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "et tes actes de puissance"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ils ⟨les⟩ raconteront"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:46.546538851Z",
+  "model": "glm-4.5"
+}

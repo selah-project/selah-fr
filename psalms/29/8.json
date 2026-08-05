@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "La voix de YHWH fait trembler le désert, YHWH fait trembler le désert de Qadesh",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "fait trembler"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "le désert"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "fait trembler"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "le désert"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "de Qadesh"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:59.661720369Z",
+  "model": "glm-4.5"
+}

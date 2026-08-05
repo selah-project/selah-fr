@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "C'est pourquoi je donnerai ⟨את⟩ leurs femmes à d'autres, leurs champs à des héritiers, car du petit jusqu'au grand tous ⟨font⟩ du gain, du prophète jusqu'au prêtre tous ⟨font⟩ du mensonge",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "je donnerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs femmes"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "leurs femmes"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "à d'autres"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "leurs champs"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "à des héritiers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "du petit"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "au grand"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "font du gain"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gain"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "du prophète"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "au prêtre"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "font"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "du mensonge"
+    }
+  ],
+  "timestamp": "2026-08-04T16:15:07.416175615Z",
+  "model": "glm-4.5"
+}

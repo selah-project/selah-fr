@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "deuteronomy 5:9",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Tu ne te prosterneras pas devant eux et tu ne les serviras pas ; car moi, YHWH, ton Élohim, je suis un El qanna, punissant ⟨la⟩ faute des pères sur les fils et sur les troisièmes et sur les quatrièmes pour ceux qui me haïssent",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "te prosterneras pas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "devant eux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "les serviras pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "qanna"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "punissant"
+    },
+    {
+      "surface": "עון",
+      "gloss": "faute",
+      "marks": "la faute des pères"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "pères"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "troisièmes"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "quatrièmes"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "pour ceux qui me haïssent"
+    }
+  ],
+  "timestamp": "2026-08-04T21:49:35.294328455Z",
+  "model": "glm-4.5"
+}

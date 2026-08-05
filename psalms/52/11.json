@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Je te louerai pour toujours, car tu l'as fait, et j'espérerai en ton Nom, car il est bon, face à tes fidèles",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Je te louerai"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu l'as fait"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "et j'espérerai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "en ton Nom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "il est bon"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "face à"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "tes fidèles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:17.697760564Z",
+  "model": "glm-4.5"
+}

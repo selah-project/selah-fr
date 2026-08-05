@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Il agrandit ⟨les⟩ nations et ⟨les⟩ détruit, il étend ⟨les⟩ nations et ⟨les⟩ fait mener captives.",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "Il agrandit"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "⟨les⟩ nations"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "et ⟨les⟩ détruit"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "il étend"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "⟨les⟩ nations"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "et ⟨les⟩ fait mener captives"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:08.944308399Z",
+  "model": "glm-4.5"
+}

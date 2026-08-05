@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Ne te hâte pas en ton esprit pour ⟨être⟩ en colère, car la colère repose dans le sein des insensés.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "te hâte pas"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "en ton esprit"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "pour ⟨être⟩ en colère"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "la colère"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "repose dans le sein"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des insensés"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "repose"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:41.701282518Z",
+  "model": "glm-4.5"
+}

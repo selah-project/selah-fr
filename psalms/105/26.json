@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il ⟨a⟩ envoyé Moshé, son serviteur, ⟨et⟩ Aharon, qu'il ⟨a⟩ choisi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "envoyé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "son serviteur"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'il"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "choisi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:39.580591158Z",
+  "model": "glm-4.5"
+}

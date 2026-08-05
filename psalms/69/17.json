@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Réponds-moi, YHWH, car bien ⟨est⟩ ton hessed, selon l'abondance de tes compassions tourne-toi vers moi.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Réponds-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bien"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "selon l'abondance"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "de tes compassions"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "tourne-toi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:25.317549976Z",
+  "model": "glm-4.5"
+}

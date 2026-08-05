@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Il ⟨est⟩ mauvais pasteur pour ⟨la⟩ stérile, elle n'enfantera pas, et ⟨la⟩ veuve il ne lui fait pas de bien",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "il ⟨est⟩ mauvais pasteur"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "pour ⟨la⟩ stérile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "elle n'"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "enfantera pas"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "et ⟨la⟩ veuve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "lui fait pas de bien"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:37.571174108Z",
+  "model": "glm-4.5"
+}

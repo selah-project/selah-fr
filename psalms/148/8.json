@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "feu et grêle neige et fumée tourbillon de vent accomplissant sa parole",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "feu"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "et grêle"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "neige"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "et fumée"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tourbillon de vent"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "⟨de tempête⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "accomplissant"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa parole"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:13.808670154Z",
+  "model": "glm-4.5"
+}

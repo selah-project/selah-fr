@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Ils furent détruits à Ein-Dor, ils furent du fumier ⟨pour⟩ la terre",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Ils furent détruits"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "à"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Ein-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ils furent"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "du fumier"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "⟨pour⟩ la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:39.336041216Z",
+  "model": "glm-4.5"
+}

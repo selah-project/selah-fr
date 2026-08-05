@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Car tu en fais ⟨une cible⟩ ; avec tes cordes tu tends contre leurs faces",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "tu en fais"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "⟨une cible⟩"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "avec tes cordes"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "tu tends"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "leurs faces"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:18.297624271Z",
+  "model": "glm-4.5"
+}

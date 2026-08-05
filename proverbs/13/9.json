@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "La lumière des justes réjouit ⟨et⟩ la lampe des méchants s'éteint.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "lumière"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "réjouit"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "et la lampe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "s'éteint"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:00.056066876Z",
+  "model": "glm-4.5"
+}

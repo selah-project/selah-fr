@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Envoie ta main d'en haut, délivre-moi et sauve-moi des eaux nombreuses, de la main des fils de l'étranger",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "envoie"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "d'en haut"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "et sauve-moi"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreuses"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "de l'étranger"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:54.871957285Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Du lieu de ⟨son⟩ siège, ⟨il⟩ a fixé ⟨le⟩ regard sur tous les habitants de la terre.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "du lieu de"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "⟨son⟩ siège"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "⟨il⟩ a fixé ⟨le⟩ regard"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:34.283721519Z",
+  "model": "glm-4.5"
+}

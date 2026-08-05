@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Les arrogants se sont moqués de moi beaucoup, ⟨mais⟩ de ta Torah je n'ai pas dévié.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "les arrogants"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "se sont moqués de moi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "de ta Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨mais⟩"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "je n'ai pas dévié"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:37.759539094Z",
+  "model": "glm-4.5"
+}

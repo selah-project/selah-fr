@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Le paresseux a dit : Un lion ⟨est⟩ dehors ! Je serai tué au milieu ⟨des⟩ places.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "le paresseux"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "un lion"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "dehors"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "places"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "je serai tué"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:51.127858050Z",
+  "model": "glm-4.5"
+}

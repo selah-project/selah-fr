@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Fais-moi grâce, Adonaï, car vers toi je crie, tout le jour.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fais-moi grâce"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:05.669971917Z",
+  "model": "glm-4.5"
+}

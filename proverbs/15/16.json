@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Mieux vaut peu avec la crainte de YHWH qu'un grand trésor et le trouble qui l'accompagne.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux vaut"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "peu"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "avec la crainte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "qu'un grand trésor"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "et le trouble"
+    },
+    {
+      "surface": "בו",
+      "gloss": "qui l'accompagne"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:25.435077846Z",
+  "model": "glm-4.5"
+}

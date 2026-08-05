@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Qu'un créancier tende un piège à tout ce qui est à lui, et que des étrangers pillent son labeur.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "Qu'il tende un piège"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "un créancier"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "à tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "est à lui"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "et qu'ils pillent"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "des étrangers"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "son labeur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:11.049571428Z",
+  "model": "glm-4.5"
+}

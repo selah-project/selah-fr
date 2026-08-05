@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Devant leurs pères il ⟨a⟩ fait ⟨une⟩ merveille, au pays d'Égypte, ⟨dans⟩ le champ de Tsoan.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Devant"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "leurs pères"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il ⟨a⟩ fait"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "⟨une⟩ merveille"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "au pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "⟨dans⟩ le champ"
+    },
+    {
+      "surface": "צען",
+      "gloss": "de Tsoan"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:31.545280032Z",
+  "model": "glm-4.5"
+}

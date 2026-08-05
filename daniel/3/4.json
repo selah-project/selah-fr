@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le héraut cria avec force : À vous, ⟨est⟩ ⟨dit⟩, peuples, nations et langues.",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Et le héraut"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "cria"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "avec force"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "À vous"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "⟨est⟩ ⟨dit⟩"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "peuples"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "nations"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "et langues"
+    }
+  ],
+  "timestamp": "2026-08-05T05:08:58.750827228Z",
+  "model": "glm-4.5"
+}

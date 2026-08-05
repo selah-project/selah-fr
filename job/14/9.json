@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "De l'odeur de l'eau, il fleurira et fera une récolte comme ⟨une⟩ plante.",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "De l'odeur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de l'eau"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "il fleurira"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et fera"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "une récolte"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "⟨une⟩ plante"
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:28.458196829Z",
+  "model": "glm-4.5"
+}

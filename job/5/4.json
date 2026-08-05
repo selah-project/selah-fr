@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Ses fils sont loin du salut, et ils sont écrasés ⟨à⟩ la porte, et il n'y a ⟨personne⟩ pour délivrer.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "sont loin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "Ses fils"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "du salut"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "et ils sont écrasés"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨à⟩ la porte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a ⟨personne⟩"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pour délivrer"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:13.112817914Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "passant dans la rue, près de son coin, et ⟨le⟩ chemin de sa maison il foulait",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "passant"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "dans la rue"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "près de"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "son coin"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "et chemin"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "de sa maison"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "il foulait"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:04.265910503Z",
+  "model": "glm-4.5"
+}

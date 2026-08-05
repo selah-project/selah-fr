@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Yoqtan engendra ⟨את⟩ Almodad, et ⟨את⟩ Shèlef, et ⟨את⟩ Hatsarmavèt, et ⟨את⟩ Yerah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Et Yoqtan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Shèlef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shèlef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Hatsarmavèt"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavèt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Yerah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerah"
+    }
+  ],
+  "timestamp": "2026-08-05T05:44:27.302712305Z",
+  "model": "glm-5.2"
+}

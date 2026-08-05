@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et ils allèrent d'une nation à une nation, d'un royaume à un peuple autre.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Et ils allèrent"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "d'une nation"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "une nation"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "d'un royaume"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un peuple"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "autre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:11.459978491Z",
+  "model": "glm-4.5"
+}

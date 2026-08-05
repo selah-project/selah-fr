@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Avec mille deux cents chars et soixante mille cavaliers ; et il n'y avait pas de nombre au peuple qui vint avec lui d'Égypte : des Loubim, des Soukkim et des Koushim.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "avec mille"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "et deux cents"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chars"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "et avec soixante"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "cavaliers"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y avait pas"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "de nombre"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "au peuple"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vint"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "des Loubim"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "des Soukkim"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "et des Koushim"
+    }
+  ],
+  "timestamp": "2026-08-05T06:16:57.009327459Z",
+  "model": "glm-5.2"
+}

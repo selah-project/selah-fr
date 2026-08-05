@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 64,
+  "translation": "Et ils craindront, tout homme, et ils raconteront ⟨l'⟩œuvre d'Élohim, et son action ils comprendront avec intelligence.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Et ils craindront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "homme"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "et ils raconteront"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "⟨l'⟩œuvre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "et son action"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ils comprendront avec intelligence"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:59.533865609Z",
+  "model": "glm-4.5"
+}

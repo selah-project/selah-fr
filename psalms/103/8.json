@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Compatissant et clément, YHWH, lent ⟨à⟩ la colère, et grand en hessed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Compatissant"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "et clément"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lent"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨à⟩ la colère"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et grand"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "en hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:34.837369106Z",
+  "model": "glm-4.5"
+}

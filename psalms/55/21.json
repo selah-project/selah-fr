@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Il a ⟨étendu⟩ ses mains contre ses alliés, il a profané son alliance.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "a ⟨étendu⟩"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "contre ses alliés"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "a profané"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "son alliance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:29.469223035Z",
+  "model": "glm-4.5"
+}

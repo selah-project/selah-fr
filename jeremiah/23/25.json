@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "J'ai entendu ⟨את⟩ ce qu'ont dit les prophètes, ceux qui prophétisent le mensonge en mon nom, disant : J'ai rêvé, j'ai rêvé.",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֗עְתִּי",
+      "gloss": "J'ai entendu"
+    },
+    {
+      "surface": "אֵ֤ת",
+      "gloss": "⟨את⟩",
+      "marks": "ce qu'ont dit"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "אָֽמְרוּ֙",
+      "gloss": "ont dit"
+    },
+    {
+      "surface": "הַנְּבִאִ֔ים",
+      "gloss": "les prophètes"
+    },
+    {
+      "surface": "הַֽנִּבְּאִ֥ים",
+      "gloss": "ceux qui prophétisent"
+    },
+    {
+      "surface": "בִּשְׁמִ֛י",
+      "gloss": "en mon nom"
+    },
+    {
+      "surface": "שֶׁ֖קֶר",
+      "gloss": "le mensonge"
+    },
+    {
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "חָלַ֖מְתִּי",
+      "gloss": "j'ai rêvé"
+    },
+    {
+      "surface": "חָלָֽמְתִּי",
+      "gloss": "j'ai rêvé"
+    }
+  ],
+  "timestamp": "2026-08-04T16:30:35.215267889Z",
+  "model": "glm-4.5"
+}

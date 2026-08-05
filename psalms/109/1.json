@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Au chef de chœur. De David. Psaume. Élohi de ma louange, ne te tais pas.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chœur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Psaume"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohi"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "de ma louange"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "te tais pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:18.747524281Z",
+  "model": "glm-4.5"
+}

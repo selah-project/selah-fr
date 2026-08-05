@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et il donna ⟨את⟩ à être objet de compassion devant tous leurs ravisseurs",
+  "tokens": [
+    {
+      "surface": "ותן",
+      "gloss": "Et il donna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "à être objet de compassion"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "à être objet de compassion"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "leurs ravisseurs"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:53.582879295Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Je veille, et je suis comme ⟨un⟩ oiseau solitaire sur ⟨le⟩ toit.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "je veille"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "et je suis"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "comme ⟨un⟩ oiseau"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "solitaire"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גג",
+      "gloss": "⟨le⟩ toit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:43.565860615Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 142,
+  "translation": "Prête l'oreille à mon cri, car je suis très affaibli : délivre-moi de mes persécuteurs, car ils sont plus forts que moi.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Prête l'oreille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mon cri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "je suis affaibli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "de mes persécuteurs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ils sont plus forts"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "que moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:04:35.195199505Z",
+  "model": "glm-4.5"
+}

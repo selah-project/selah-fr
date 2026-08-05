@@ -1,0 +1,101 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "L'âme qui pèche, celle-ci mourra, le fils ne portera pas la faute du père, et le père ne portera pas la faute du fils, la justice du juste sera sur lui, et la méchanceté du méchant sera sur lui.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "L'âme"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "qui pèche"
+    },
+    {
+      "surface": "היא",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mourra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "portera"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "la faute"
+    },
+    {
+      "surface": "האב",
+      "gloss": "du père"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "et le père"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "portera"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "la faute"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "du fils"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sera sur lui"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "et la méchanceté"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sera sur lui"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sera"
+    }
+  ],
+  "timestamp": "2026-08-04T23:27:51.228184459Z",
+  "model": "glm-4.5"
+}

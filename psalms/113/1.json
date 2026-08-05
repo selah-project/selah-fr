@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 113,
+  "translation": "Louez Yah, louez, serviteurs de YHWH, louez ⟨את⟩ le nom de YHWH.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "serviteurs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:00.001111173Z",
+  "model": "glm-4.5"
+}

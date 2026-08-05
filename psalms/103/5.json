@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Celui qui rassasie de biens ⟨ta⟩ parure ; ta jeunesse se renouvelle comme ⟨l'aigle⟩.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Celui qui rassasie"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "de biens"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "⟨ta⟩ parure"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "se renouvelle"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "comme ⟨l'aigle⟩"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ta jeunesse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:34.836936289Z",
+  "model": "glm-4.5"
+}

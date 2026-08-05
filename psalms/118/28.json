@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Tu es mon El, et je te rends grâce, mon Élohim, je t'exalterai.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "mon El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "et je te rends grâce"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "je t'exalterai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:50.934291682Z",
+  "model": "glm-4.5"
+}

@@ -1,89 +1,89 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 19,
   "ref": "2-kings 9:19",
   "book": "2-kings",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et il envoya un cavalier ⟨על⟩ cheval, ⟨le⟩ second, et il vint vers eux, et dit : Ainsi parle ⟨le⟩ roi : paix ? Et Yéhou dit : Quoi à toi et ⟨à⟩ la paix ? tourne-toi derrière moi.",
+  "translation": "Et il envoya un cavalier, un deuxième, et il vint vers eux et dit : ainsi dit le roi : shalom ? Et Yehou dit : qu'y a-t-il entre toi et le shalom ? Tourne ⟨derrière⟩ moi.",
   "tokens": [
     {
-      "surface": "וישלח",
+      "surface": "וַיִּשְׁלַ֗ח",
       "gloss": "Et il envoya"
     },
     {
-      "surface": "רכב",
-      "gloss": "cavalier"
+      "surface": "רֹכֵ֣ב",
+      "gloss": "un cavalier"
     },
     {
-      "surface": "סוס",
-      "gloss": "⟨על⟩ cheval"
+      "surface": "סוּס֮",
+      "gloss": "de cheval"
     },
     {
-      "surface": "שני",
-      "gloss": "⟨le⟩ second"
+      "surface": "שֵׁנִי֒",
+      "gloss": "un deuxième"
     },
     {
-      "surface": "ויבא",
+      "surface": "וַיָּבֹ֣א",
       "gloss": "et il vint"
     },
     {
-      "surface": "אלהם",
+      "surface": "אֲלֵהֶ֔ם",
       "gloss": "vers eux"
     },
     {
-      "surface": "ויאמר",
+      "surface": "וַיֹּ֛אמֶר",
       "gloss": "et dit"
     },
     {
-      "surface": "כה",
-      "gloss": "Ainsi"
+      "surface": "כֹּֽה",
+      "gloss": "ainsi"
     },
     {
-      "surface": "אמר",
-      "gloss": "parle"
+      "surface": "אָמַ֥ר",
+      "gloss": "dit"
     },
     {
-      "surface": "המלך",
-      "gloss": "⟨le⟩ roi"
+      "surface": "הַמֶּ֖לֶךְ",
+      "gloss": "le roi"
     },
     {
-      "surface": "שלום",
-      "gloss": "paix"
+      "surface": "שָׁל֑וֹם",
+      "gloss": "shalom"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "Et Yéhou dit"
+      "surface": "וַיֹּ֧אמֶר",
+      "gloss": "et dit"
     },
     {
-      "surface": "יהוא",
-      "gloss": "Yéhou"
+      "surface": "יֵה֛וּא",
+      "gloss": "Yehou"
     },
     {
-      "surface": "מה",
-      "gloss": "Quoi"
+      "surface": "מַה",
+      "gloss": "quoi"
     },
     {
-      "surface": "לך",
+      "surface": "לְּךָ֥",
       "gloss": "à toi"
     },
     {
-      "surface": "ולשלום",
-      "gloss": "et ⟨à⟩ la paix"
+      "surface": "וּלְשָׁל֖וֹם",
+      "gloss": "et au shalom"
     },
     {
-      "surface": "סב",
-      "gloss": "tourne-toi"
+      "surface": "סֹ֥ב",
+      "gloss": "tourne"
     },
     {
-      "surface": "אל",
-      "gloss": "derrière"
+      "surface": "אֶֽל",
+      "gloss": "vers"
     },
     {
-      "surface": "אחרי",
-      "gloss": "moi"
+      "surface": "אַחֲרָֽי",
+      "gloss": "derrière moi"
     }
   ],
-  "timestamp": "2026-08-04T14:19:30.716576122Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:50:26.187053576Z",
+  "model": "glm-5.2"
 }

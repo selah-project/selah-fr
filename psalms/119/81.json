@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mon être se consume pour ton salut, j'espère en ta parole.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "se consume"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "pour ton salut"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon être"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "en ta parole"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "j'espère"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:43.055466118Z",
+  "model": "glm-4.5"
+}

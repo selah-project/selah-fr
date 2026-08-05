@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "En Élohim j'ai mis ma confiance, je ne craindrai pas ; que me fera l'humain ?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "En Élohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "j'ai mis ma confiance"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne craindrai pas"
+    },
+    {
+      "surface": "אירא",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "fera"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi \/ pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:06.290936912Z",
+  "model": "glm-4.5"
+}

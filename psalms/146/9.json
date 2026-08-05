@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "YHWH garde ⟨את⟩ les résidents, l'orphelin et la veuve il relève, et la voie des méchants il fait dévier.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les résidents"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "les résidents"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "l'orphelin"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "et la veuve"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "il relève"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "et la voie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "il fait dévier"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:23.643769262Z",
+  "model": "glm-4.5"
+}

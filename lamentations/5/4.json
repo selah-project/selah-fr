@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Notre eau, nous l'avons bue pour de l'argent, notre bois vient pour un prix.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Notre eau"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "pour de l'argent"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "nous l'avons bue"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "notre bois"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "pour un prix"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vient"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:55.490808510Z",
+  "model": "glm-4.5"
+}

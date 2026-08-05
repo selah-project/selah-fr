@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ceci ⟨est⟩ ma consolation dans mon affliction, car ta parole m'a fait vivre.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ma consolation"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "dans mon affliction"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "m'a fait vivre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:37.759423712Z",
+  "model": "glm-4.5"
+}

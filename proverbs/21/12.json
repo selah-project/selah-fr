@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Le juste considère sagement la maison du méchant, ⟨il⟩ renverse les méchants pour le mal.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "considère sagement"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Le juste"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "⟨il⟩ renverse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pour le mal"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:12.863634215Z",
+  "model": "glm-4.5"
+}

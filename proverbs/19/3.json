@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "La sottise d'un homme fait dévier son chemin, et son cœur s'irrite contre YHWH.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "La sottise"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "fait dévier"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "son chemin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et contre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "s'irrite"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:16.940695310Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 126,
+  "translation": "Ceux qui sèment avec ⟨des⟩ larmes, avec un chant de joie ils moissonneront",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "Ceux qui sèment"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "avec ⟨des⟩ larmes"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "avec un chant de joie"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ils moissonneront"
+    }
+  ],
+  "timestamp": "2026-08-05T02:50:08.314526403Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Car grand est au-dessus des cieux ton hessed, et jusqu'aux nuées ta fidélité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "au-dessus de"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "les nuées"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ta fidélité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:20.743374593Z",
+  "model": "glm-4.5"
+}

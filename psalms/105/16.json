@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et il appela la famine sur la terre, il brisa tout le support de pain.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Et il appela"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "la famine"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "le support"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "il brisa"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:11.460372963Z",
+  "model": "glm-4.5"
+}

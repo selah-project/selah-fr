@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "YHWH mon rocher ⟨et⟩ mon lieu fort ⟨et⟩ mon refuge mon El mon rocher en qui je me confie mon bouclier et la corne de mon salut mon lieu élevé",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "⟨et⟩ mon lieu fort"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "⟨et⟩ mon refuge"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mon El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "en qui je me confie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mon bouclier"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "et la corne"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "de mon salut"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mon lieu élevé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:10.361761734Z",
+  "model": "glm-4.5"
+}

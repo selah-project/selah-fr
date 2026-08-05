@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car il n'a pas fermé les portes de mon sein, et n'a pas caché la peine de mes yeux",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'a pas"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "fermé"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "les portes"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "de mon sein"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "et n'a pas caché"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "la peine"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "de mes yeux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:24.449973645Z",
+  "model": "glm-4.5"
+}

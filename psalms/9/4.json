@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Au retour de mes ennemis en arrière, ils trébuchent et périssent de devant ta face.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Au retour"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "de mes ennemis"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "en arrière"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ils trébuchent"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "et périssent"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "de devant ta face"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:34.956813201Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Ne ⟨sont-elles⟩ pas peu nombreuses, mes jours ? Qu'il cesse, qu'il se détourne de moi, et je prendrai consolation, un peu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "peu nombreuses"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mes jours"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Qu'il cesse"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "qu'il se détourne"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "et je prendrai consolation"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un peu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:41.895990080Z",
+  "model": "glm-4.5"
+}

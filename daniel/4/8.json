@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "L'arbre ⟨était⟩ grand et fort, et sa hauteur atteignait jusqu'aux cieux, et ⟨on le⟩ voyait jusqu'au bout de toute la terre.",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "⟨était⟩ grand"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "L'arbre"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "et fort"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "et sa hauteur"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "atteignait"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "jusqu'aux cieux"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "et ⟨on le⟩ voyait"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "jusqu'au bout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T05:10:03.299767308Z",
+  "model": "glm-4.5"
+}

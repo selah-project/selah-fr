@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Dans tout cela ils péchèrent encore, et ne mirent pas foi en ses merveilles",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Dans tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cela"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ils péchèrent"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "mirent pas foi"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "en ses merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:05.993457995Z",
+  "model": "glm-4.5"
+}

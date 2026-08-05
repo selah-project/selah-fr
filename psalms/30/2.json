@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Je t'exalterai, YHWH, car tu m'as tiré ⟨haut⟩, et tu n'as pas réjoui mes ennemis à mon sujet.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Je t'exalterai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "tu m'as tiré ⟨haut⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu n'as pas"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "réjoui"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à mon sujet"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:42.772700513Z",
+  "model": "glm-4.5"
+}

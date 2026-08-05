@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Est-ce que toi, tu ne feras pas revenir ⟨et⟩ faire vivre ⟨nous⟩, pour que ton peuple se réjouisse en toi ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Est-ce que"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi, tu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ne feras pas revenir"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "faire vivre ⟨nous⟩"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "pour que ton peuple"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se réjouisse"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:27.065410481Z",
+  "model": "glm-4.5"
+}

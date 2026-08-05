@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "YHWH sait que les pensées de l'humain ⟨sont⟩ un souffle.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "les pensées"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'humain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "המה",
+      "gloss": "elles"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "un souffle"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:32.897932482Z",
+  "model": "glm-4.5"
+}

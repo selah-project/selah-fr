@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 31:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "que je seme, et qu'un autre mange, et que mes rejetons soient déracinés.",
+  "tokens": [
+    {
+      "surface": "אזרעה",
+      "gloss": "que je seme"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "et qu'un autre"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mange"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "et mes rejetons"
+    },
+    {
+      "surface": "ישרשו",
+      "gloss": "soient déracinés"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:59.472637572Z",
+  "model": "glm-4.5"
+}

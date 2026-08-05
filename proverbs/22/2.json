@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Le riche et le pauvre se rencontrent, YHWH est le faiseur d'eux tous.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Le riche"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "et le pauvre"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "se rencontrent"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "est le faiseur"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "d'eux tous"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:49.991384029Z",
+  "model": "glm-4.5"
+}

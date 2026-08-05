@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et moi, je revins et je vis une vanité sous le soleil",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Et moi, je revins"
+    },
+    {
+      "surface": "אני",
+      "gloss": "[moi]"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "et je vis"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "une vanité"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:39.741854522Z",
+  "model": "glm-4.5"
+}

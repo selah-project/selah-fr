@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Bénis, mon âme, ⟨את⟩ YHWH, et n'oublie ⟨pas⟩ tous ses bienfaits.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bénis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et n'"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "oublie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "ses bienfaits"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:23.775697718Z",
+  "model": "glm-4.5"
+}

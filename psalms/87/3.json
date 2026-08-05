@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 87,
+  "translation": "Des choses glorieuses sont dites en toi, ville de l’Élohim, Sélah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Des choses glorieuses"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sont dites"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ville de"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l’Élohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:49.968194088Z",
+  "model": "glm-4.5"
+}

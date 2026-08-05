@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "La fureur d'un roi ⟨est⟩ des messagers de mort et un homme sage la pacifiera",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "la fureur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "d'un roi"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "des messagers"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de mort"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et un homme"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "la pacifiera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:09.303360967Z",
+  "model": "glm-4.5"
+}

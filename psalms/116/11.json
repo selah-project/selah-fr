@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Moi, j'ai dit dans ma hâte : tout homme est un menteur.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "dans ma hâte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "homme"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "est un menteur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:41.319597417Z",
+  "model": "glm-4.5"
+}

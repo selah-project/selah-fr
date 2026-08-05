@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 125,
+  "translation": "Car le sceptre de la méchanceté ne reposera pas sur le sort des justes, afin que les justes n'étendent pas leurs mains vers ⟨l'injustice⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "reposera"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "le sceptre"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "de la méchanceté"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "le sort"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "n'étendent"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "les justes"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "vers ⟨l'injustice⟩"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "leurs mains"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:49.720634798Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Mais au méchant Élohim dit : Qu'as-tu à énoncer mes décrets, et à porter mon alliance sur ta bouche ?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Mais au méchant"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Élohim dit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu'as-tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "énoncer"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mes décrets"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "et à porter"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mon alliance"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ta bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:03.528908145Z",
+  "model": "glm-4.5"
+}

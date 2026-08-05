@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Au désastre et ⟨à⟩ la famine tu riras et ⟨des⟩ bêtes de la terre tu ne craindras",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "au désastre"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "et à la famine"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "tu riras"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "et des bêtes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tu craindras"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:04.072304153Z",
+  "model": "glm-4.5"
+}

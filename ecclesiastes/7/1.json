@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Mieux ⟨vaut⟩ un nom qu'une bonne huile parfumée, et le jour de la mort ⟨que⟩ le jour de la naissance.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux"
+    },
+    {
+      "surface": "שם",
+      "gloss": "un nom"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "qu'une bonne huile parfumée"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "et le jour"
+    },
+    {
+      "surface": "המות",
+      "gloss": "de la mort"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "⟨que⟩ le jour"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "de la naissance"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:43.329956173Z",
+  "model": "glm-4.5"
+}

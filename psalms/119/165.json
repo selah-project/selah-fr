@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Shalom abondant à ceux qui aiment ta Torah, et il n'y a pas pour eux de pierre d'achoppement.",
+  "tokens": [
+    {
+      "surface": "שָׁל֣וֹם",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "רָ֭ב",
+      "gloss": "abondant"
+    },
+    {
+      "surface": "לְאֹהֲבֵ֣י",
+      "gloss": "à ceux qui aiment"
+    },
+    {
+      "surface": "תוֹרָתֶ֑ךָ",
+      "gloss": "ta Torah"
+    },
+    {
+      "surface": "וְאֵֽין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "לָ֥מוֹ",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "מִכְשֽׁוֹל",
+      "gloss": "de pierre d'achoppement"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:32.347125708Z",
+  "model": "glm-5.2"
+}

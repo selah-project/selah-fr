@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Éveille-toi ma gloire ; éveille-toi ⟨la⟩ harpe et ⟨le⟩ luth ; j'éveillerai ⟨l'⟩ aurore.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Éveille-toi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ma gloire"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "éveille-toi"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "⟨la⟩ harpe"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "et ⟨le⟩ luth"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "j'éveillerai"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨l'⟩ aurore"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:45.952060459Z",
+  "model": "glm-4.5"
+}

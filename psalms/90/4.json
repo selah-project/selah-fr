@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Car mille ans, à tes yeux, sont comme un jour d’hier, quand il passe, et comme une veille dans la nuit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "à tes yeux"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sont comme un jour"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "d’hier"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "il passe"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "et comme une veille"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "dans la nuit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:39.301550186Z",
+  "model": "glm-4.5"
+}

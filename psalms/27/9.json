@@ -1,0 +1,77 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Ne cache pas ⟨ton⟩ face de moi, ne rejette pas ⟨ton⟩ serviteur dans la colère, tu as été mon aide ; ne me délaisse pas, et ne m'abandonne pas, Élohim de mon salut.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "cache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨ton⟩ face"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "rejette"
+    },
+    {
+      "surface": "באף",
+      "gloss": "dans la colère"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "⟨ton⟩ serviteur"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mon aide"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu as été"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "me délaisse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "m'abandonne"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "de mon salut"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:40.173284396Z",
+  "model": "glm-4.5"
+}

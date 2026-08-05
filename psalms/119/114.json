@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mon abri et ⟨mon⟩ bouclier, tu es ; pour ta parole, j'espère.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "Mon abri"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "et ⟨mon⟩ bouclier"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "pour ta parole"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "j'espère"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:01.727741477Z",
+  "model": "glm-4.5"
+}

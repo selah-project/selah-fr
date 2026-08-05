@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "As-tu des yeux de chair ? ou vois-tu comme voit un mortel ?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "les yeux"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "de chair"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sont à toi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "comme voit"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un mortel"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "tu vois"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:45.628379533Z",
+  "model": "glm-4.5"
+}

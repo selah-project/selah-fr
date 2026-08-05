@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 24:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "De la ville les hommes gémissent et la nefesh des blessés crie, et Éloah ne met pas ⟨cela⟩ à la folie",
+  "tokens": [
+    {
+      "surface": "מעיר",
+      "gloss": "De la ville"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "ינאקו",
+      "gloss": "gémissent"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "et la nefesh"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "des blessés"
+    },
+    {
+      "surface": "תשוע",
+      "gloss": "crie"
+    },
+    {
+      "surface": "ואלוה",
+      "gloss": "et Éloah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "met pas"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "⟨cela⟩ à la folie"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:24.907011893Z",
+  "model": "glm-4.5"
+}

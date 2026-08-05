@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Je suis ⟨devenu⟩ la risée de tout mon peuple, leur chanson tout le jour.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Je suis ⟨devenu⟩"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "la risée"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "leur chanson"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:44.676364278Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Tu as mis la joie dans mon cœur, plus qu'au temps où leur blé et leur vin ont abondé.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Tu as mis"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "la joie"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "dans mon cœur"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "plus qu'au temps"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "où leur blé"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "et leur vin"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ont abondé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:05.895858309Z",
+  "model": "glm-4.5"
+}

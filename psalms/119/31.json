@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Je me suis attaché à tes témoignages, YHWH, ne me fais pas honte",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "je me suis attaché"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "à tes témoignages"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "me fais pas honte"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:35.633055390Z",
+  "model": "glm-4.5"
+}

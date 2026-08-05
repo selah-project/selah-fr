@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "⟨On a mis⟩ le sot dans les hauteurs, en grand nombre, et les riches dans le bas siègent",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "On a mis"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "le sot"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "dans les hauteurs"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "en grand nombre"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "et les riches"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "dans le bas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "siègent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:09.279249123Z",
+  "model": "glm-4.5"
+}

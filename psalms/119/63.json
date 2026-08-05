@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Compagnon je suis de tous ceux qui te craignent et de ceux qui gardent tes préceptes.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Compagnon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de tous"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceux qui"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "te craignent"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "et de ceux qui gardent"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tes préceptes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:16.445053774Z",
+  "model": "glm-4.5"
+}

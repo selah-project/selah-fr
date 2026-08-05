@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 122,
+  "translation": "À cause de la maison de YHWH notre Élohim, je chercherai ⟨le⟩ bien pour toi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "À cause de"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "je chercherai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨le⟩ bien"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:17.242005791Z",
+  "model": "glm-4.5"
+}

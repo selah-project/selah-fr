@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Ma bouche racontera ta justice tout le jour ⟨ta⟩ délivrance, car je ne connais pas les nombres.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ma bouche"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "racontera"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ta justice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "⟨ta⟩ délivrance"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je connais"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "les nombres"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:52.163664841Z",
+  "model": "glm-4.5"
+}

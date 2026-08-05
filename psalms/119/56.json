@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ceci ⟨est⟩ ⟨venu⟩ à moi, car tes préceptes j'ai gardés.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨est⟩ ⟨venu⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tes préceptes"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "j'ai gardés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:14.942267789Z",
+  "model": "glm-4.5"
+}

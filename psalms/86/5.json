@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Car Toi, Adonaï, ⟨es⟩ bon et pardonant, et abondant en hessed pour tous ceux qui T'invoquent.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "et pardonant"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et abondant"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "en hessed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour tous"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "ceux qui T'invoquent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:04.368738252Z",
+  "model": "glm-4.5"
+}

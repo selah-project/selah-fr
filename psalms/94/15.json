@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Car vers la justice reviendra ⟨le⟩ jugement, et tous les droits de cœur ⟨le⟩ suivront.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vers"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "reviendra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "et après lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "les droits"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:19.647539640Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Tu as mis ⟨את⟩ nos fautes devant toi, nos fautes cachées à la lumière de ta face.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Tu as mis"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "nos fautes"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "nos fautes cachées"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "à la lumière"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "de ta face"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:28.158027572Z",
+  "model": "glm-4.5"
+}

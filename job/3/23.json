@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "À un homme dont la route ⟨est⟩ cachée, et Éloah ⟨l'a⟩ encerclé autour",
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "À un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "la route"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "⟨est⟩ cachée"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "et Éloah ⟨l'a⟩ encerclé"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Éloah"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "autour"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:27.246991543Z",
+  "model": "glm-4.5"
+}

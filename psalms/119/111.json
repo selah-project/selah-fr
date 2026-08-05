@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai ⟨pris⟩ tes témoignages en héritage pour toujours, car ils ⟨sont⟩ la joie de mon cœur.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "J'ai pris en héritage"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "tes témoignages"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "la joie"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "de mon cœur"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils sont"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:03.468360001Z",
+  "model": "glm-4.5"
+}

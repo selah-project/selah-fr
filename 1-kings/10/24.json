@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et toute la terre recherche ⟨את⟩ la face de Salomon pour entendre ⟨את⟩ sa sagesse, laquelle Élohim a mise dans son cœur.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "recherche"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la face de Salomon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Salomon"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "pour entendre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa sagesse"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "sa sagesse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "laquelle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a mise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dans son cœur"
+    }
+  ],
+  "timestamp": "2026-08-04T22:16:27.209373945Z",
+  "model": "glm-4.5"
+}

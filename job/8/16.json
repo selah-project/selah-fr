@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Il est verdoyant devant le soleil, et sur son jardin ses pousses sortiront.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "Il est verdoyant"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Il"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "son jardin"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ses pousses"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sortiront"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:05.307580944Z",
+  "model": "glm-4.5"
+}

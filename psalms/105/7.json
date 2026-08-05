@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Lui est YHWH, notre Élohim, dans toute la terre, ses jugements",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Lui est"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ses jugements"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:14.644785518Z",
+  "model": "glm-4.5"
+}

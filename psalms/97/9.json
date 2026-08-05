@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Car toi, YHWH, tu es Elyon sur toute la terre, très haut tu es élevé sur tous les Élohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "haut tu es élevé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "les Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:47.330905650Z",
+  "model": "glm-4.5"
+}

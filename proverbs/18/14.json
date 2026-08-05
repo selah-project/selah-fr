@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Le souffle d'un homme soutient ⟨sa⟩ maladie, mais un souffle frappé, qui le portera ?",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Le souffle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "soutient"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "⟨sa⟩ maladie"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mais un souffle"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "frappé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "le portera ?"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:48.844946984Z",
+  "model": "glm-4.5"
+}

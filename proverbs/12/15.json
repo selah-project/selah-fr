@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "La voie ⟨de⟩ l'insensé ⟨est⟩ droite à ses yeux, et celui qui écoute le conseil, ⟨est⟩ sage.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "La voie"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "⟨de⟩ l'insensé"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨est⟩ droite"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses yeux"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "et celui qui écoute"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "le conseil"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "⟨est⟩ sage"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:21.787395886Z",
+  "model": "glm-4.5"
+}

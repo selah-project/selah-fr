@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Un homme rusé couvre la connaissance, et le cœur des sots proclame ⟨la⟩ folie.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "rusé"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "couvre"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "et le cœur"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des sots"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "proclame"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "la folie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:29.759516930Z",
+  "model": "glm-4.5"
+}

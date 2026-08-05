@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et se fortifiera le roi du Midi, et ⟨un⟩ de ses chefs, et il se fortifiera sur lui, et dominera ⟨avec⟩ un grand pouvoir — sa domination.",
+  "tokens": [
+    {
+      "surface": "וְיֶחֱזַ֥ק",
+      "gloss": "Et se fortifiera"
+    },
+    {
+      "surface": "מֶֽלֶךְ",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "הַנֶּ֖גֶב",
+      "gloss": "du Midi"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "et de"
+    },
+    {
+      "surface": "שָׂרָ֑יו",
+      "gloss": "ses chefs"
+    },
+    {
+      "surface": "וְיֶחֱזַ֤ק",
+      "gloss": "et il se fortifiera"
+    },
+    {
+      "surface": "עָלָיו֙",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "וּמָשָׁ֔ל",
+      "gloss": "et dominera"
+    },
+    {
+      "surface": "מִמְשָׁ֥ל",
+      "gloss": "pouvoir"
+    },
+    {
+      "surface": "רַ֖ב",
+      "gloss": "grand"
+    },
+    {
+      "surface": "מֶמְשַׁלְתּֽוֹ",
+      "gloss": "sa domination"
+    }
+  ],
+  "timestamp": "2026-08-05T05:19:08.479494106Z",
+  "model": "glm-5.2"
+}

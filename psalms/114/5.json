@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 114,
+  "translation": "Qu'as-tu, ⟨la⟩ mer, à fuir ? ⟨le⟩ Jourdain, à tourner en arrière ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Qu'as-tu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨la⟩ mer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "fuir"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨le⟩ Jourdain"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "tourner"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "en arrière"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:40.401186303Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Car tes flèches ont fondu sur moi et ta main s'est appesantie sur moi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "tes flèches"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ont fondu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "et s'est appesantie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:11.101251288Z",
+  "model": "glm-4.5"
+}

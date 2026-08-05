@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un temps pour aimer, et un temps pour haïr ; un temps de guerre, et un temps de shalom",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "pour aimer"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "pour haïr"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "de guerre"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de shalom"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:28.149284058Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Celui qui plisse l'œil donne du chagrin, et ⟨le⟩ fou aux lèvres tombera.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "Celui qui plisse"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'œil"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "du chagrin"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "et ⟨le⟩ fou"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "aux lèvres"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "tombera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:33.297109140Z",
+  "model": "glm-4.5"
+}

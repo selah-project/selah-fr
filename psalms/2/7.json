@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Je raconterai ⟨au sujet de⟩ le décret ⟨de⟩ YHWH : il m'a dit : mon fils, tu es ; moi, aujourd'hui, je t'ai engendré",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Je raconterai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨au sujet de⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "le décret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "il a dit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "je t'ai engendré"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:23.986423576Z",
+  "model": "glm-4.5"
+}

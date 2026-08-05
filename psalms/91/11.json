@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Car il commandera à ses messagers à ton sujet, pour te garder dans toutes tes voies",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ses messagers"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "il commandera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à ton sujet"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "pour te garder"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toutes"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tes voies"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:02.759318481Z",
+  "model": "glm-4.5"
+}

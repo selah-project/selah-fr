@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Or un homme creux s'opiniâtre, et l'ânon d'onagre, un homme, naît.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Or un homme"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "creux"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "s'opiniâtre"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "et l'ânon"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "d'onagre"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "naît"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:22.175552021Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Le roi envoya et le délia, ⟨le⟩ dominateur des peuples le relâcha.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "envoya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "et le délia"
+    },
+    {
+      "surface": "משל",
+      "gloss": "dominateurrègle"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "le relâcha"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:25.836537558Z",
+  "model": "glm-4.5"
+}

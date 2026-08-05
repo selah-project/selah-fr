@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "YHWH, mon Élohim, si j'ai fait cela, s'il y a de l'injustice dans mes mains.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "j'ai fait"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "עול",
+      "gloss": "de l'injustice"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "dans mes mains"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:22.057610726Z",
+  "model": "glm-4.5"
+}

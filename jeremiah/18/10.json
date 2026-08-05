@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "et ⟨il⟩ fait le mal à mes yeux, pour ne pas écouter ma voix, et je me suis repenti du bien dont j'avais parlé pour lui faire du bien",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "et ⟨il⟩ fait"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "à mes yeux"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pour ne pas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écouter"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "et je me suis repenti"
+    },
+    {
+      "surface": "על",
+      "gloss": "du"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "bien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'avais parlé"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "pour lui faire du bien"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lui"
+    }
+  ],
+  "timestamp": "2026-08-04T16:25:34.164503911Z",
+  "model": "glm-4.5"
+}

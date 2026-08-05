@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Je te donne un roi dans ma colère, et je le retire dans mon courroux.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Je donne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "un roi"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "dans ma colère"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "et je retire"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "dans mon courroux"
+    }
+  ],
+  "timestamp": "2026-08-05T00:08:40.407345188Z",
+  "model": "glm-4.5"
+}

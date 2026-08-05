@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Car à cause du nez de YHWH ⟨cela⟩ fut à Yeroushalaim et en Yehoudah, jusqu'à ce qu'il ⟨les⟩ eût rejetés de devant sa face, et Tsidqiyyahou se rebella contre le roi de Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "על",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le nez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨cela⟩ fut"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Yeroushalaim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "et en Yehoudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "il ⟨les⟩ eût rejetés"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "les"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "devant sa face"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "et Tsidqiyyahou se rebella"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": ""
+    },
+    {
+      "surface": "במלך",
+      "gloss": "contre le roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babel"
+    }
+  ],
+  "timestamp": "2026-08-04T23:11:12.947684858Z",
+  "model": "glm-4.5"
+}

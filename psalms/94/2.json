@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Élève-toi, juge de ⟨la⟩ terre, rends un salaire sur les arrogants.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Élève-toi"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "juge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de ⟨la⟩ terre"
+    },
+    {
+      "surface": "השב",
+      "gloss": "rends"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "un salaire"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "les arrogants"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:20.303591868Z",
+  "model": "glm-4.5"
+}

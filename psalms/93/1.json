@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 93,
+  "translation": "YHWH règne, il est revêtu de majesté, YHWH est revêtu, il s'est ceint de force, aussi le monde est affermi, il ne chancellera pas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "règne"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "majesté"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "est revêtu"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "est revêtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עז",
+      "gloss": "de force"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "il s'est ceint"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "est affermi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "בל",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "chancellera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:54.873422158Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Ne les tue pas, de peur que mon peuple n'oublie ; fais-les errer par ta force, et fais-les descendre, ô Adonaï, notre bouclier.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "les tue"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "n'oublie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "fais-les errer"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "par ta force"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "et fais-les descendre"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "notre bouclier"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ô Adonaï"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:14.044779217Z",
+  "model": "glm-4.5"
+}

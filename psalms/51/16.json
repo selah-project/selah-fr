@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Délivre-moi du sang, Élohim, Élohim de mon salut, que ma langue chante ta justice",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "du sang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "de mon salut"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "que chante"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ma langue"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:40.568164617Z",
+  "model": "glm-4.5"
+}

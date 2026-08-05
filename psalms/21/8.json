@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Car le roi se confie en YHWH, et dans le hessed du Très-Haut, il ne chancellera pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "se confie"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "et dans le hessed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "du Très-Haut"
+    },
+    {
+      "surface": "בל",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "chancellera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:24.706656096Z",
+  "model": "glm-4.5"
+}

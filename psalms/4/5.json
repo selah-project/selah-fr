@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Tremblez, et ne péchez point ; parlez en votre cœur sur ⟨votre⟩ couche, et taisez-vous. Sélah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Tremblez"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "péchez point"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "parlez"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "en votre cœur"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "⟨votre⟩ couche"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "et taisez-vous"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:05.895485788Z",
+  "model": "glm-4.5"
+}

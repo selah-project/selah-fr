@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Je les compte : ⟨ils⟩ dépassent ⟨le⟩ sable ; je me réveille, et je suis encore avec toi.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "Je les compte"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "⟨le⟩ sable"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "⟨ils⟩ dépassent"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "je me réveille"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "et je suis encore"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:43.562631560Z",
+  "model": "glm-4.5"
+}

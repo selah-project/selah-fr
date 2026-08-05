@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 70,
+  "translation": "Et moi, je suis pauvre et indigent ; Élohim, hâte-toi vers moi ! ⟨Tu es⟩ mon aide et mon délivreur, YHWH, ne tarde pas.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "je suis pauvre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et indigent"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hâte-toi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "mon aide"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "et mon délivreur"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Tu es⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tarde pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:03.720319900Z",
+  "model": "glm-4.5"
+}

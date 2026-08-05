@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Une richesse de vanité diminue et celui qui amasse sur la main augmente.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "richesse"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "de vanité"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "diminue"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "et celui qui amasse"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יד",
+      "gloss": "la main"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "augmente"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:00.056325961Z",
+  "model": "glm-4.5"
+}

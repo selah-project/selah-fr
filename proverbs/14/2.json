@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Marcher dans ⟨sa⟩ droiture, c'est craindre YHWH, et ⟨être⟩ pervers dans ses voies, c'est le mépriser.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Marcher"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "dans ⟨sa⟩ droiture"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "⟨c'est⟩ craindre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "et ⟨être⟩ pervers"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "dans ses voies"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "c'est le mépriser"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:45.986754975Z",
+  "model": "glm-4.5"
+}

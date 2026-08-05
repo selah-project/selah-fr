@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Détourne ⟨ton⟩ regard de moi, et je reprendrai souffle avant que je m'en aille et ne sois plus.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Détourne"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨ton⟩ regard de moi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "et je reprendrai souffle"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "avant que"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "je m'en aille"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "et ne sois plus"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:08.501262501Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et il menaça la mer de Souf, et elle ⟨fut⟩ desséchée ; et il les fit marcher dans ⟨les⟩ abîmes comme ⟨dans le⟩ désert.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Et il menaça"
+    },
+    {
+      "surface": "בים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "de Souf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "et elle ⟨fut⟩ desséchée"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "et il les fit marcher"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "dans ⟨les⟩ abîmes"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "comme ⟨dans le⟩ désert"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:04.676429905Z",
+  "model": "glm-4.5"
+}

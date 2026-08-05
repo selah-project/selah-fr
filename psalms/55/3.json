@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Sois attentif ⟨à⟩ moi et réponds-moi ; je suis agité dans mon discours et je gémis,",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Sois attentif ⟨à⟩ moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨à⟩ moi"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "et réponds-moi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "je suis agité"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "dans mon discours"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "et je gémis"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:10.530612907Z",
+  "model": "glm-4.5"
+}

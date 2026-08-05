@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tu ⟨as⟩ commandé ⟨tes⟩ préceptes, pour ⟨les⟩ garder beaucoup.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "as commandé"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tes préceptes"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pour les garder"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beaucoup"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:47.248638093Z",
+  "model": "glm-4.5"
+}

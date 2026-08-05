@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Sur ⟨leurs⟩ mains ils te porteront, de peur que tu ne heurtes ton pied contre une pierre",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mains"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ils te porteront"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "tu ne heurtes"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "contre une pierre"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ton pied"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:02.759434097Z",
+  "model": "glm-4.5"
+}

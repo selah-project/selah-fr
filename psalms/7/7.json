@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Lève-toi YHWH dans ta colère soulève-toi dans ⟨les⟩ fureurs de mes ennemis et réveille-toi pour moi le jugement tu as commandé",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dans ta colère"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "soulève-toi"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "dans ⟨les⟩ fureurs"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "de mes ennemis"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "et réveille-toi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tu as commandé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:18.315675938Z",
+  "model": "glm-4.5"
+}

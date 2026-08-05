@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tu ⟨as⟩ bien agi avec ton serviteur, YHWH, selon ta parole.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bien"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "agis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "selon ta parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:16.059171010Z",
+  "model": "glm-4.5"
+}

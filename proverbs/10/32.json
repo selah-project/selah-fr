@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Les lèvres du juste connaissent ce qui est agréé, et la bouche des méchants perversité.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Les lèvres"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "connaissent"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ce qui est agréé"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "et la bouche"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "perversité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:24.577067045Z",
+  "model": "glm-4.5"
+}

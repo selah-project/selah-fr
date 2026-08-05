@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et Cham, père de Kenaan, vit ⟨את⟩ la nudité de son père et ⟨le⟩ raconta à ses deux frères dehors.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "père"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nudité de son père"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudité"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "et ⟨le⟩ raconta"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "à ses deux"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "frères"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "dehors"
+    }
+  ],
+  "timestamp": "2026-08-04T18:42:33.069815303Z",
+  "model": "glm-4.5"
+}

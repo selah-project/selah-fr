@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Souviens-toi, YHWH, de ce qui ⟨est⟩ arrivé ⟨à⟩ nous, regarde et vois ⟨את⟩ notre opprobre.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "היה",
+      "gloss": "est arrivé"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "à nous"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et vois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "notre opprobre"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "notre opprobre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:55.490403024Z",
+  "model": "glm-4.5"
+}

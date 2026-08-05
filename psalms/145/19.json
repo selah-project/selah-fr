@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Le désir de ceux qui le craignent, il le fera, et ⟨את⟩ leur cri il entendra, et il les sauvera.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Le désir"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "de ceux qui le craignent"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "il le fera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leur cri"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "leur cri"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "il entendra"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "et il les sauvera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:53.057494945Z",
+  "model": "glm-4.5"
+}

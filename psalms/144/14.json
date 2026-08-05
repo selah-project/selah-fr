@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Nos bœufs sont chargés, il n'y a ⟨ni⟩ brèche, ⟨ni⟩ sortie, et il n'y a ⟨ni⟩ cri dans nos places:",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "nos bœufs"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "sont chargés"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "brèche"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "sortie"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "cri"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "dans nos places"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:47.770783803Z",
+  "model": "glm-4.5"
+}

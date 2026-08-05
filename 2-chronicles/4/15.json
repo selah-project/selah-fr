@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "⟨את⟩ la mer, l'unique, et ⟨את⟩ les bovins, douze, sous lui.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "l'unique"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les bovins"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "les bovins"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "deux"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dix"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sous lui"
+    }
+  ],
+  "timestamp": "2026-08-05T05:59:52.444836930Z",
+  "model": "glm-5.2"
+}

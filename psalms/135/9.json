@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Il envoya des signes et des prodiges au milieu de toi, ô Mitsraïm, sur Pharaon et sur tous ses serviteurs.",
+  "tokens": [
+    {
+      "surface": "שָׁלַ֤ח",
+      "gloss": "Il envoya"
+    },
+    {
+      "surface": "אֹת֣וֹת",
+      "gloss": "des signes"
+    },
+    {
+      "surface": "וּ֭מֹפְתִים",
+      "gloss": "et des prodiges"
+    },
+    {
+      "surface": "בְּתוֹכֵ֣כִי",
+      "gloss": "au milieu de toi"
+    },
+    {
+      "surface": "מִצְרָ֑יִם",
+      "gloss": "ô Mitsraïm"
+    },
+    {
+      "surface": "בְּ֝פַרְעֹ֗ה",
+      "gloss": "sur Pharaon"
+    },
+    {
+      "surface": "וּבְכָל",
+      "gloss": "et sur tous"
+    },
+    {
+      "surface": "עֲבָדָֽיו",
+      "gloss": "ses serviteurs"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:15.902025398Z",
+  "model": "glm-5.2"
+}

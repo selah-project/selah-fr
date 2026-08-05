@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Il met le désert en étang d'eau, et terre aride en sources d'eau",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Il met"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "le désert"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "en étang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eau"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et terre"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "aride"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "en sources"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eau"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:22.320151201Z",
+  "model": "glm-4.5"
+}

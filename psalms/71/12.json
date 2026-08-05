@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Élohim, ne t'éloigne pas de moi ; mon Élohim, hâte-toi pour ⟨mon⟩ secours.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "t'éloigne pas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "pour ⟨mon⟩ secours"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "hâte-toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:36.793353784Z",
+  "model": "glm-4.5"
+}

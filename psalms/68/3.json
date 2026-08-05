@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Comme la fumée ⟨est⟩ chassée, tu les chasseras ; comme la cire fond devant le feu, les méchants périront devant la face d'Élohim",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Comme la fumée ⟨est⟩ chassée"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "la fumée"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "tu les chasseras"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "comme la cire fond"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "la cire"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "les méchants périront"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "devant la face de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:10.274636605Z",
+  "model": "glm-4.5"
+}

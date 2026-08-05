@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Un homme ferait-il pour lui-même des Élohim, et ils ne ⟨sont⟩ pas des Élohim ?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ferait-il"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui-même"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "des Élohim"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "et ils"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨sont⟩ pas des Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T16:23:27.502113711Z",
+  "model": "glm-4.5"
+}

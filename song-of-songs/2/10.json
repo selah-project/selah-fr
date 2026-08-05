@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Mon bien-aimé a répondu et m'a dit : Lève-toi, mon amie, ma belle, et viens-t'en.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "a répondu"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mon bien-aimé"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et a dit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "lève-toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mon amie"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "ma belle"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "et viens"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:14.243010244Z",
+  "model": "glm-4.5"
+}

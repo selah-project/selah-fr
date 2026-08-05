@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Des ruisseaux d'eau descendent de mes yeux, parce qu'ils ne gardent pas ta Torah.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "des ruisseaux"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eau"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "descendent"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "de mes yeux"
+    },
+    {
+      "surface": "על",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gardent"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ta Torah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:30.251445680Z",
+  "model": "glm-4.5"
+}

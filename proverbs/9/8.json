@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 9:8",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Ne reprends pas ⟨le⟩ moqueur, de peur qu'il ne te haïsse ; reprends ⟨le⟩ sage, et il t'aimera.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תוכח",
+      "gloss": "reprends pas"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "le moqueur"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "ישנאך",
+      "gloss": "il ne te haïsse"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "reprends"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "le sage"
+    },
+    {
+      "surface": "ויאהבך",
+      "gloss": "et il t'aimera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:43.611549746Z",
+  "model": "glm-4.5"
+}

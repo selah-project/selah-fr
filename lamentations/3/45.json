@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Tu ⟨as⟩ fait ⟨de⟩ nous rejet ⟨et⟩ objet ⟨de⟩ dégoût au milieu des peuples.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "rejet"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "et objet ⟨de⟩ dégoût"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "Tu ⟨as⟩ fait ⟨de⟩ nous"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "des peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T04:30:06.808475116Z",
+  "model": "glm-4.5"
+}

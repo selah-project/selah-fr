@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Le méchant épie le juste et cherche à le faire mourir",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "épie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Le méchant"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "et cherche"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "à le faire mourir"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:48.004107998Z",
+  "model": "glm-4.5"
+}

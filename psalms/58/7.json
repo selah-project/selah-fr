@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Élohim, brise leurs dents dans leur bouche ; YHWH, brise les molaires des jeunes lions.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "brise"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "leurs dents"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "dans leur bouche"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "les molaires"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "des jeunes lions"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "brise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:39.887134367Z",
+  "model": "glm-4.5"
+}

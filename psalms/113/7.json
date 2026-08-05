@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 113,
+  "translation": "⟨Celui⟩ qui relève du poussière le faible, du tas de cendres relève ⟨le⟩ nécessiteux",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "⟨Celui⟩ qui relève"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "du poussière"
+    },
+    {
+      "surface": "דל",
+      "gloss": "le faible"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "du tas de cendres"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "relève"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "⟨le⟩ nécessiteux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:10.733175866Z",
+  "model": "glm-4.5"
+}

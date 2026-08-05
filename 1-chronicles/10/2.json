@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et les Philistins poursuivirent Shaül et ses fils, et les Philistins frappèrent ⟨את⟩ Yonatan et ⟨את⟩ Avinadav et ⟨את⟩ Malki-Shoua, fils de Shaül.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Et poursuivirent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "et après"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "et frappèrent"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Malki-Shoua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Shoua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "de Shaül"
+    }
+  ],
+  "timestamp": "2026-08-05T05:49:35.363539913Z",
+  "model": "glm-5.2"
+}

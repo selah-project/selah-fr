@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "et [mon] âme choisit l'étranglement, la mort plutôt que ⟨mes⟩ os.",
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "et choisit"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "l'étranglement"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "[mon] âme"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "plutôt que ⟨mes⟩ os"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:18.756531993Z",
+  "model": "glm-4.5"
+}

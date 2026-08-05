@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Alors je le lâchai dans ⟨la⟩dureté de leur cœur, ils marchèrent dans leurs propres conseils.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Alors je le lâchai"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "dans ⟨la⟩dureté"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "de leur cœur"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ils marchèrent"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "dans leurs propres conseils"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:18.990451310Z",
+  "model": "glm-4.5"
+}

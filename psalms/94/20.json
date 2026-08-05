@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Le trône ⟨de⟩ la ruine s'associera-t-il avec toi, qui façonne ⟨le⟩ malheur contre ⟨la⟩ loi ?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "s'associera-t-il avec toi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "le trône"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "⟨de⟩ la ruine"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "qui façonne"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "⟨le⟩ malheur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre"
+    },
+    {
+      "surface": "חק",
+      "gloss": "⟨la⟩ loi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:34.878244367Z",
+  "model": "glm-4.5"
+}

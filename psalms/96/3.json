@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Racontez parmi les nations sa gloire, parmi tous les peuples ses merveilles.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Racontez"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sa gloire"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "parmi tous"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ses merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:05.412507873Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Nous avons attendu la paix et ⟨il n'y a⟩ pas de bien, ⟨le⟩ temps d'une guérison et voici ⟨la⟩ terreur.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Nous avons attendu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "la paix"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il n'y a⟩ pas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "de bien"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "⟨le⟩ temps"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "d'une guérison"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "⟨la⟩ terreur"
+    }
+  ],
+  "timestamp": "2026-08-04T16:14:32.258547315Z",
+  "model": "glm-4.5"
+}

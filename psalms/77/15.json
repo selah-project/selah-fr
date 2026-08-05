@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Tu es l'El qui fais ⟨des⟩ prodiges, tu as fait connaître parmi les peuples ⟨ta⟩ force.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu es"
+    },
+    {
+      "surface": "האל",
+      "gloss": "l'El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qui fais"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "⟨des⟩ prodiges"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "tu as fait connaître"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "parmi les peuples"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "⟨ta⟩ force"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:57.801158722Z",
+  "model": "glm-4.5"
+}

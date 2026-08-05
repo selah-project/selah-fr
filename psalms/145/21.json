@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "La louange de YHWH ⟨est⟩ ce que parle ma bouche, et que bénisse toute chair son saint nom pour toujours et à perpétuité.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "La louange"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ce que parle"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ma bouche"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "et que bénisse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "שם",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "saint"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et à perpétuité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:37.141792318Z",
+  "model": "glm-4.5"
+}

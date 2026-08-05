@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Qui fait des choses grandes et ⟨sans⟩ recherche, des merveilles jusqu'à ⟨ce qu'il n'y a pas de⟩ nombre",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Qui fait"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "des choses grandes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨sans⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "recherche"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "des merveilles"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ⟨ce qu'il n'y a pas de⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨il n'y a pas de⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nombre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:18.867935632Z",
+  "model": "glm-4.5"
+}

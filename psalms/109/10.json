@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Qu'ils errent, que ses fils mendient et qu'ils cherchent loin de leurs ruines.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "Et qu'ils errent"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "qu'ils errent"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "et qu'ils mendient"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "et qu'ils cherchent"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "loin de leurs ruines"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:11.049453928Z",
+  "model": "glm-4.5"
+}

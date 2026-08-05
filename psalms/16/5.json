@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "YHWH est la part de mon héritage et ma coupe, tu soutiens mon lot",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "la part"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "de mon héritage"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "et ma coupe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "soutiens"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "mon lot"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:20.821269460Z",
+  "model": "glm-4.5"
+}

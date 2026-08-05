@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Car il a dit, et cela a été; il a commandé, et cela a subsisté.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et cela a été"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a commandé"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "et cela a subsisté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:24.192272053Z",
+  "model": "glm-4.5"
+}

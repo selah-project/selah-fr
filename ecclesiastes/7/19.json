@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "La sagesse fortifie le sage plus que dix dirigeants qui sont dans la ville.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "La sagesse"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "fortifie"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "le sage"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "plus que dix"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "dirigeants"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sont"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:38.220037698Z",
+  "model": "glm-4.5"
+}

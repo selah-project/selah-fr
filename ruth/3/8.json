@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il fut au milieu de la nuit et l'homme frémit et se retourna, et voici une femme couchée à ses pieds.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il fut"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "de la nuit"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "et ⟨l'⟩homme frémit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "et se retourna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "une femme"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "couchée"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "à ses pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T04:25:59.999845029Z",
+  "model": "glm-4.5"
+}

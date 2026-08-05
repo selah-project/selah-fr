@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il s'est rappelé pour toujours son alliance, la parole qu'il a commandée pour mille générations",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Il s'est rappelé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "son alliance"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "qu'il a commandée"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "pour mille"
+    },
+    {
+      "surface": "דור",
+      "gloss": "générations"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:14.644866968Z",
+  "model": "glm-4.5"
+}

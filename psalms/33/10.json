@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "YHWH annule ⟨le⟩ conseil des nations, il rend vaines ⟨les⟩ pensées des peuples.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "annule"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "⟨le⟩ conseil"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "il rend vaines"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "⟨les⟩ pensées"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "des peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:24.192476663Z",
+  "model": "glm-4.5"
+}

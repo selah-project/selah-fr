@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 87,
+  "translation": "Aux fils de Qorach, un mizmor, un shir, ⟨son⟩ fondement est dans les montagnes du qodesh.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Aux fils de"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shir"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "⟨son⟩ fondement"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "dans les montagnes de"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:49.967800659Z",
+  "model": "glm-4.5"
+}

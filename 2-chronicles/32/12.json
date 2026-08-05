@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "N'est-ce pas lui, Ézéchias, qui a supprimé ⟨את⟩ ses hauts-lieux et ⟨את⟩ ses autels, et qui a dit à Juda et à Jérusalem : devant un seul autel vous vous prosternerez, et sur lui vous offrirez l'encens ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Ézéchias"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a supprimé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses hauts-lieux"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ses hauts-lieux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses autels"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "ses autels"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et a dit"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "à Juda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "et à Jérusalem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un seul"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "vous vous prosternerez"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "et sur lui"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "vous offrirez l'encens"
+    }
+  ],
+  "timestamp": "2026-08-05T06:14:07.671585932Z",
+  "model": "glm-5.2"
+}

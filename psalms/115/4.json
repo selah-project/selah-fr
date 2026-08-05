@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Leurs idoles ⟨sont⟩ argent et or, ouvrage de mains d'homme",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Leurs idoles"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "argent"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "et or"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ouvrage"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de mains"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:19.726665346Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "N'est-ce pas ta crainte ta confiance, et l'espoir, ⟨l'intégrité⟩ de tes chemins ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "ta crainte"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "ta confiance"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "et l'espoir"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "⟨l'intégrité⟩"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "de tes chemins"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:22.879573802Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "À cause du froid, le paresseux ne laboure pas, ⟨il⟩ demande ⟨à⟩ la moisson et il n'y a rien.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "À cause du froid"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "le paresseux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "laboure pas"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "demande"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "à la moisson"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a rien"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:19.006612493Z",
+  "model": "glm-4.5"
+}

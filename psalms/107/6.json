@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Et ils crièrent vers YHWH dans leur détresse, ⟨de⟩ leurs angoisses il les délivra",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Et ils crièrent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dans leur détresse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "⟨de⟩ leurs angoisses"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "il les délivra"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:26.758685052Z",
+  "model": "glm-4.5"
+}

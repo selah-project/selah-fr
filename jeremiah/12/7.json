@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "J'ai abandonné ⟨את⟩ ma maison, j'ai laissé ⟨את⟩ mon héritage, j'ai donné ⟨את⟩ la chère de mon âme dans la main de ses ennemis.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "J'ai abandonné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma maison"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ma maison"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "j'ai laissé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon héritage"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "mon héritage"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "j'ai donné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la chère de mon âme"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "la chère"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "de mon âme"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "de ses ennemis"
+    }
+  ],
+  "timestamp": "2026-08-04T16:18:30.906864544Z",
+  "model": "glm-4.5"
+}

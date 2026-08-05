@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Fais-moi grâce, ô Élohim, fais-moi grâce, car en toi s'est réfugiée ma nefesh, et à l'ombre de tes ailes je me réfugierai, jusqu'à ce que passent ⟨les⟩ hawot.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fais-moi grâce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fais-moi grâce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "s'est réfugiée"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "et à l'ombre"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "de tes ailes"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "je me réfugierai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "passent"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "⟨les⟩ hawot"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:55.589331622Z",
+  "model": "glm-4.5"
+}

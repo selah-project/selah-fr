@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "La terre s'ouvrit et ⟨elle⟩ engloutit Dathan, et ⟨elle⟩ couvrit sur ⟨l⟩'assemblée d'Abiram",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "s'ouvrit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "et ⟨elle⟩ engloutit"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dathan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "et ⟨elle⟩ couvrit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "⟨l⟩'assemblée"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "d'Abiram"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:14.641207498Z",
+  "model": "glm-4.5"
+}

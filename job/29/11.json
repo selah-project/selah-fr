@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Car l'oreille qui entendait me bénissait et l'œil qui voyait me témoignait",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "l'oreille"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "qui entendait"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "me bénissait"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "et l'œil"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "qui voyait"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "me témoignait"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:45.118306869Z",
+  "model": "glm-4.5"
+}

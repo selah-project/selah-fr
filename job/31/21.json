@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 31:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Si j'ai agité ⟨את⟩ ma main contre l'orphelin, quand je voyais ⟨את⟩ mon secours à la porte,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "הניפותי",
+      "gloss": "j'ai agité"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "l'orphelin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨את⟩ ma main",
+      "marks": "ma main"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "je voyais"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "à la porte"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "⟨את⟩ mon secours",
+      "marks": "mon secours"
+    }
+  ],
+  "timestamp": "2026-08-05T04:07:03.091266950Z",
+  "model": "glm-4.5"
+}

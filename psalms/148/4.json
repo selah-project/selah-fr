@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Louez-le cieux des cieux et ⟨les⟩ eaux qui sont au-dessus des cieux",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Louez-le"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "et ⟨les⟩ eaux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sont au-dessus"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:08.708039995Z",
+  "model": "glm-4.5"
+}

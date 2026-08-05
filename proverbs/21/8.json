@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Tortueuse ⟨est⟩ la voie de l'homme étranger et coupable, mais l'œuvre de l'homme pur ⟨est⟩ droite.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "Tortueuse"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "étranger et coupable"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "et l'œuvre de l'homme pur"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "droite"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "[son œuvre]"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:14.471587897Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Comme un rêve, au réveil, Adonaï, ⟨quand⟩ tu te lèves, tu mépriseras leur image.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Comme un rêve"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "au réveil"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨quand⟩ tu te lèves"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "leur image"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "tu mépriseras"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:59.584444994Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et encore j'ai vu sous le soleil : lieu du jugement, là ⟨est⟩ la méchanceté, et lieu de la justice, là ⟨est⟩ la méchanceté",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Et encore"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "du jugement"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨est⟩ la méchanceté"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "et lieu"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "de la justice"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨est⟩ la méchanceté"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:47.533029421Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et un homme qui couchera avec la femme de son père, la nudité de son père a découverte, mort ils mourront, les deux; leur sang est sur eux.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et un homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "couchera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la femme de son père"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "la nudité"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "a découverte"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mort"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ils mourront"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "leur sang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "est sur eux"
+    }
+  ],
+  "timestamp": "2026-08-04T21:37:24.787005039Z",
+  "model": "glm-4.5"
+}

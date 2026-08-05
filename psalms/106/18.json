@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ⟨un⟩ feu brûla dans leur assemblée, la flamme embrasa les méchants",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "Et ⟨un⟩ feu brûla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "feu"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "dans leur assemblée"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "la flamme"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "embrasa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:14.641422829Z",
+  "model": "glm-4.5"
+}

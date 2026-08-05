@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "et il vivra, et on lui donnera de l'or de Sheba, et on priera pour lui continuellement, tout le jour on le bénira",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "et il vivra"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et on donnera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "de l'or"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "de Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "et on priera"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "on le bénira"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:29.795583018Z",
+  "model": "glm-4.5"
+}

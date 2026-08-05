@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Justifier le méchant, et condamner le juste — tous les deux, ⟨sont⟩ une abomination pour YHWH.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "Justifier"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "et condamner"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "une abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "les deux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:53.800662038Z",
+  "model": "glm-4.5"
+}

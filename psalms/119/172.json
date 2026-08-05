@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Que ma langue réponde ⟨par⟩ ta parole, car toutes tes commandements sont justice.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "qu'elle réponde"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ma langue"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tes commandements"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:01.595176634Z",
+  "model": "glm-4.5"
+}

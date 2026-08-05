@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Que mon instruction ruisselle comme ⟨la⟩ pluie, que ma parole distille comme ⟨la⟩ rosée, comme bruines sur ⟨le⟩ gazon herbu, et comme ondées sur ⟨le⟩ vert.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ruisselle"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "comme ⟨la⟩ pluie"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "mon instruction"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "distille"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "comme ⟨la⟩ rosée"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ma parole"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "comme bruines"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "⟨le⟩ gazon"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "et comme ondées"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "⟨le⟩ vert"
+    }
+  ],
+  "timestamp": "2026-08-04T21:54:34.542239777Z",
+  "model": "glm-4.5"
+}

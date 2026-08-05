@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Le foin ⟨est⟩ enlevé et l'herbe tendre se montre, et ⟨les⟩ herbes des montagnes sont réunies.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "⟨est⟩ enlevé"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "le foin"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "et se montre"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "l'herbe tendre"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "et sont réunies"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "⟨les⟩ herbes"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "des montagnes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:12.658856488Z",
+  "model": "glm-4.5"
+}

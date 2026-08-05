@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Que le flux des eaux ne m'inonde pas, que l'abîme ne m'avale pas, et que le puits ne ferme pas sa bouche sur moi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Que ... ne ... pas"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "m'inonde"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "le flux"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et que"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "m'avale"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "l'abîme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et que"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ne ferme pas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "le puits"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:04.641679804Z",
+  "model": "glm-4.5"
+}

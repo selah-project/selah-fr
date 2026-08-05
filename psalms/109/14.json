@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Que ⟨l'⟩ iniquité de ses pères ⟨soit⟩ rappelée à YHWH, et ⟨la⟩ faute de sa mère ne ⟨soit⟩ pas effacée.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Que ⟨l'⟩ iniquité ... ⟨soit⟩ rappelée"
+    },
+    {
+      "surface": "עון",
+      "gloss": "iniquité"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "de ses pères"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "et ⟨la⟩ faute"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "de sa mère"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "⟨soit⟩ pas effacée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.688606174Z",
+  "model": "glm-4.5"
+}

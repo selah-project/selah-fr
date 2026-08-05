@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Shalloum engendra ⟨את⟩ Ḥilqiya, et Ḥilqiya engendra ⟨את⟩ Azarya.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "et Shalloum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ḥilqiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Ḥilqiya"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "et Ḥilqiya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    }
+  ],
+  "timestamp": "2026-08-05T05:46:23.843850520Z",
+  "model": "glm-5.2"
+}

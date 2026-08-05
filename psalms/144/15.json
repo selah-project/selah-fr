@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Heureux ⟨le⟩ peuple pour qui il en est ainsi; heureux ⟨le⟩ peuple dont YHWH est l'Élohim.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "pour qui il en est ainsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "heureux"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "dont YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "est l'Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:47.770894999Z",
+  "model": "glm-4.5"
+}

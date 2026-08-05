@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Jusqu'à quand, les méchants, YHWH, jusqu'à quand, les méchants ⟨vont-ils⟩ exulter ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jusqu'à quand"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Jusqu'à quand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Jusqu'à quand"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Jusqu'à quand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "⟨vont-ils⟩ exulter"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:20.303702374Z",
+  "model": "glm-4.5"
+}

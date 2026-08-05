@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Lève-toi, YHWH, sauve-moi, mon Élohim, car tu as frappé ⟨את⟩ tous mes ennemis, la joue, les dents des méchants tu as brisées.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "sauve-moi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tu as frappé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous mes ennemis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "la joue"
+    },
+    {
+      "surface": "שני",
+      "gloss": "les dents"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "tu as brisées"
+    }
+  ],
+  "timestamp": "2026-08-05T01:02:24.663621266Z",
+  "model": "glm-4.5"
+}

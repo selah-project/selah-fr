@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Chantez à YHWH, bénissez son nom, annoncez de jour en jour son salut.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "annoncez"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "de jour"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "en jour"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "son salut"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:05.412396526Z",
+  "model": "glm-4.5"
+}

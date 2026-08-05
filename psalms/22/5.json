@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "En toi nos pères se sont confiés, ils se sont confiés et tu les as délivrés",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "se sont confiés"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "nos pères"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ils se sont confiés"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "et tu les as délivrés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.051328717Z",
+  "model": "glm-4.5"
+}

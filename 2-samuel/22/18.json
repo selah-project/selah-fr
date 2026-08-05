@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Il me délivre de ⟨mon⟩ ennemi puissant et de ⟨mes⟩ haineux car ⟨ils étaient⟩ plus forts que moi",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Il me délivre"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "de ⟨mon⟩ ennemi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "puissant"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "et de ⟨mes⟩ haineux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "⟨ils étaient⟩ plus forts"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "que moi"
+    }
+  ],
+  "timestamp": "2026-08-04T22:13:12.090406078Z",
+  "model": "glm-4.5"
+}

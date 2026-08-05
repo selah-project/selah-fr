@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Voici la mer, grande et aux vastes bras, là des reptiles sans nombre, des bêtes petites avec les grandes.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "et aux vastes"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "bras"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "des reptiles"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nombre"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "des bêtes"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "petites"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "les grandes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:13.934118719Z",
+  "model": "glm-4.5"
+}

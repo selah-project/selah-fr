@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Et maintenant ses sculptures ensemble, avec hache et ciseaux, ils ⟨les⟩ frappent.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ses sculptures"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "avec hache"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "et ciseaux"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ils ⟨les⟩ frappent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:25.641196562Z",
+  "model": "glm-4.5"
+}

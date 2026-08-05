@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "job 20:29",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "C'est ⟨le⟩ lot de ⟨un⟩ homme, ⟨le⟩ méchant, de la part d’Élohim, et ⟨le⟩ patrimoine de ⟨sa⟩ parole, de la part d’El.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "⟨le⟩ lot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨un⟩ homme"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨le⟩ méchant"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "de la part d’Élohim"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "et ⟨le⟩ patrimoine"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "de ⟨sa⟩ parole"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "de la part d’El"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:16.948031273Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Marcher avec les sages rend sage, mais le compagnon des sots subira le mal.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Marcher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avec les sages"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "avec les sages"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "rend sage"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mais le compagnon"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des sots"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "subira le mal"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:58.629641396Z",
+  "model": "glm-4.5"
+}

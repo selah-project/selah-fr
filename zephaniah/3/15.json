@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH a éloigné tes jugements, il a fait face à ton ennemi, le roi d'Israël, YHWH, est au milieu de toi, tu ne craindras pas le mal ⟨encore⟩.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "a éloigné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "a fait face à"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "ton ennemi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "est au milieu de toi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "craindras pas"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨encore⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T00:39:53.823496115Z",
+  "model": "glm-4.5"
+}

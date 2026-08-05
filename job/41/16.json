@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Son cœur est coulé comme la pierre, et coulé comme la meule du dessous.",
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "Son cœur"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "est coulé"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "la pierre"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "et coulé"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "comme la meule"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "du dessous"
+    }
+  ],
+  "timestamp": "2026-08-05T04:15:35.567365871Z",
+  "model": "glm-4.5"
+}

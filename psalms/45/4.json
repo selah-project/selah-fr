@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Ceins ton épée sur ⟨ta⟩ cuisse, ⟨ô⟩ guerrier, ta splendeur et ta majesté",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Ceins"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ton épée"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "⟨ta⟩ cuisse"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "⟨ô⟩ guerrier"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ta splendeur"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "et ta majesté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:39.110502127Z",
+  "model": "glm-4.5"
+}

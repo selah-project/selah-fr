@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Car une fois parle El, et deux fois ⟨on⟩ ne ⟨le⟩ remarque pas",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "une fois"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "et deux fois"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ⟨pas⟩"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "⟨on⟩ remarque"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:49.681233496Z",
+  "model": "glm-4.5"
+}

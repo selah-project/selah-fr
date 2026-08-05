@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 126,
+  "translation": "YHWH a fait de grandes choses avec nous; nous étions dans la joie.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "a fait de grandes choses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "à faire"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "avec nous"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nous étions"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "dans la joie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:50:33.468512065Z",
+  "model": "glm-4.5"
+}

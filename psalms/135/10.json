@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "qui frappa des nations nombreuses et tua des rois puissants,",
+  "tokens": [
+    {
+      "surface": "שֶֽׁ֭הִכָּה",
+      "gloss": "qui frappa"
+    },
+    {
+      "surface": "גּוֹיִ֣ם",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "רַבִּ֑ים",
+      "gloss": "nombreuses"
+    },
+    {
+      "surface": "וְ֝הָרַ֗ג",
+      "gloss": "et tua"
+    },
+    {
+      "surface": "מְלָכִ֥ים",
+      "gloss": "des rois"
+    },
+    {
+      "surface": "עֲצוּמִֽים",
+      "gloss": "puissants"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:15.902224608Z",
+  "model": "glm-5.2"
+}

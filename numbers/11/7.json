@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et la manne était comme la graine de coriandre, et son apparence ⟨était⟩ comme l'apparence du bdellium.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Et la manne"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "comme la graine"
+    },
+    {
+      "surface": "גד",
+      "gloss": "de coriandre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "était"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "et son apparence"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "comme l'apparence"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "du bdellium"
+    }
+  ],
+  "timestamp": "2026-08-04T21:42:13.475853205Z",
+  "model": "glm-4.5"
+}

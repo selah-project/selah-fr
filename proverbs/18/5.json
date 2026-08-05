@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Lever ⟨le⟩ visage du méchant n'est ⟨pas⟩ bon, détourner le juste dans le jugement.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "Lever"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨le⟩ visage"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'est ⟨pas⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "détourner"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dans le jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:51.814584666Z",
+  "model": "glm-4.5"
+}

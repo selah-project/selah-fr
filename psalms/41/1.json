@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Au chef des chantres. Un mizmor de David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:22.896058783Z",
+  "model": "glm-4.5"
+}

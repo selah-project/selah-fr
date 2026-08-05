@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Celui qui a juré ⟨à⟩ YHWH, a voué ⟨au⟩ Puissant de Jacob",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Celui qui"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a juré"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨à⟩ YHWH"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "a voué"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "⟨au⟩ Puissant"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:08.412034051Z",
+  "model": "glm-4.5"
+}

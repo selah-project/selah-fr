@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Lève tes pas vers les désolations éternelles, ⟨tout⟩ le mal que l'ennemi a fait dans le sanctuaire.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Lève"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "tes pas"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "vers les désolations"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "éternelles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨tout⟩"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "que l'ennemi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a fait dans le sanctuaire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.981391907Z",
+  "model": "glm-4.5"
+}

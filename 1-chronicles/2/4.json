@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et Tamar, sa belle-fille, lui enfanta ⟨את⟩ Pérets et ⟨את⟩ Zérach. Tous les fils de Yehouda ⟨furent⟩ cinq.",
+  "tokens": [
+    {
+      "surface": "וְתָמָר",
+      "gloss": "Et Tamar"
+    },
+    {
+      "surface": "כַלָּתוֹ",
+      "gloss": "sa belle-fille"
+    },
+    {
+      "surface": "יָלְדָה",
+      "gloss": "enfanta"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Pérets"
+    },
+    {
+      "surface": "פֶּרֶץ",
+      "gloss": "Pérets"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Zérach"
+    },
+    {
+      "surface": "זֶרַח",
+      "gloss": "Zérach"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "חֲמִשָּׁה",
+      "gloss": "cinq"
+    }
+  ],
+  "timestamp": "2026-08-05T05:45:22.792667222Z",
+  "model": "glm-5.2"
+}

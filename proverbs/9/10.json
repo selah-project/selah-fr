@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": " Le commencement de la sagesse ⟨est⟩ la crainte de YHWH, et la connaissance des saints, l'intelligence.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Le commencement"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "de la sagesse"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "la crainte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "et la connaissance"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "des saints"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "l'intelligence"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:51.383543104Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 127,
+  "translation": "Heureux l'homme qui a rempli ⟨את⟩ son carcan d'eux, ils n'auront pas honte, car ils parleront avec ⟨את⟩ les ennemis à la porte.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a rempli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son carcan"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "son carcan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'auront pas"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "honte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ils parleront"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les ennemis"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "les ennemis"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "à la porte"
+    }
+  ],
+  "timestamp": "2026-08-05T02:50:48.762493900Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Non, pas ainsi les méchants, mais si comme la balle que Rouah disperse.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pas ainsi"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "comme la balle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "Rouah disperse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T01:00:23.530813029Z",
+  "model": "glm-4.5"
+}

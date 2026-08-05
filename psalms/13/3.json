@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Jusques à quand prendrai-je des conseils dans mon nefesh, et le chagrin dans mon cœur ⟨chaque⟩ jour ? Jusques à quand s'élèvera mon ennemi sur moi ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jusques à"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "quand"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "prendrai-je"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "des conseils"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "dans mon nefesh"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "et le chagrin"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "dans mon cœur"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "⟨chaque⟩ jour"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Jusques à"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "quand"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "s'élèvera"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mon ennemi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:10:14.582141882Z",
+  "model": "glm-4.5"
+}

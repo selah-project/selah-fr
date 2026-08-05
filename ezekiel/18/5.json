@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et un homme s'il ⟨est⟩ juste et fait ⟨le⟩ droit et ⟨la⟩ justice",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Et un homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "s'il"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "juste"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et fait"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨le⟩ droit"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "et ⟨la⟩ justice"
+    }
+  ],
+  "timestamp": "2026-08-04T23:27:46.501836073Z",
+  "model": "glm-4.5"
+}

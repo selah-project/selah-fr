@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 64,
+  "translation": "Écoute Élohim ma voix dans ma plainte de la crainte de l'ennemi garde ma vie",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "dans ma plainte"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "de la crainte"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de l'ennemi"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ma vie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:04.113589616Z",
+  "model": "glm-4.5"
+}

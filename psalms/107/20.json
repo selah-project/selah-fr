@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Il envoie sa parole et les guérit, et il les échappe de leurs fosses",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Il envoie"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa parole"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "et les guérit"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "et il les échappe"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "de leurs fosses"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:34.963822095Z",
+  "model": "glm-4.5"
+}

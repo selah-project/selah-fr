@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et il les sauva pour ⟨le⟩ sake de son nom, pour faire connaître ⟨את⟩ sa puissance",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Et il les sauva"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pour ⟨le⟩ sake de"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "pour faire connaître"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa puissance"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "sa puissance"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:50.695657945Z",
+  "model": "glm-4.5"
+}

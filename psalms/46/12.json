@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "YHWH Tsevaot est avec nous, place forte pour nous, l'Élohim de Yaakov, Séla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "est avec nous"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "place forte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:22.439762955Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "lamentations 2:10",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Sont assis à terre ⟨et⟩ se taisent les anciens de la fille de Sion, ils ont fait monter de la poussière sur leur tête, ils ont ceint des sacs, ont fait descendre à terre leur tête les vierges de Jérusalem",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "sont assis"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "à terre"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "⟨et⟩ se taisent"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "les anciens"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de la fille"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ils ont fait monter"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "de la poussière"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "leur tête"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ils ont ceint"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "des sacs"
+    },
+    {
+      "surface": "הורידו",
+      "gloss": "ont fait descendre"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "à terre"
+    },
+    {
+      "surface": "ראשן",
+      "gloss": "leur tête"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "les vierges"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:14.102822367Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Le juste connaît la vie de sa bête, mais les compassions des méchants sont cruelles.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨Le⟩ juste"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "de sa bête"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "mais les compassions"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "sont cruelles"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:19.010467728Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Une source ⟨de⟩ jardins, un puits d'eaux vives, et des ruissellements ⟨du⟩ Liban,",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "Une source"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "⟨de⟩ jardins"
+    },
+    {
+      "surface": "באר",
+      "gloss": "un puits"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eaux"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "vives"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "et des ruissellements"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨du⟩"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Liban"
+    }
+  ],
+  "timestamp": "2026-08-05T04:19:44.494850079Z",
+  "model": "glm-4.5"
+}

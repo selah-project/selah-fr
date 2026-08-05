@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Fais-leur comme à Midian, comme à Sisera, comme à Yabin au torrent de Qishôn",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Fais"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "comme à Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "comme à Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "comme à Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "au torrent"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "de Qishôn"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:39.335904489Z",
+  "model": "glm-4.5"
+}

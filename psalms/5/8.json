@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et moi, dans l'abondance de ton hessed, je viendrai ⟨dans⟩ ta maison, je me prosternerai vers ton palais saint, dans ta crainte.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dans l'abondance"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "de ton hessed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "je viendrai"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "⟨dans⟩ ta maison"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "je me prosternerai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ton palais"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "saint"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "dans ta crainte"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:40.603573721Z",
+  "model": "glm-4.5"
+}

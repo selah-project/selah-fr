@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "La richesse ne profite pas au jour de la colère, mais la justice délivre de la mort.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "profite"
+    },
+    {
+      "surface": "הון",
+      "gloss": "richesse"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "de la colère"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mais la justice"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "délivre"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:14.251262738Z",
+  "model": "glm-4.5"
+}

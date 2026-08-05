@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Nulle intégrité dans ma chair à cause de ta fureur, nulle paix dans mes os à cause de mon péché.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nulle"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "intégrité"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dans ma chair"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ta fureur"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nulle"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paix"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "dans mes os"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mon péché"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:11.101333980Z",
+  "model": "glm-4.5"
+}

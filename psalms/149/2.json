@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 149,
+  "translation": "Qu'Israël se réjouisse en ⟨son⟩ Faiteur les fils de Sion triomphent en leur roi",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "se réjouisse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "en ⟨son⟩ Faiteur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "triomphent"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "en leur roi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:48.267368811Z",
+  "model": "glm-4.5"
+}

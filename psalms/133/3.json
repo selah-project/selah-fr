@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 133,
+  "translation": "Comme la rosée de l’Hermon qui descend sur les montagnes de Sion, car là YHWH a commandé ⟨את⟩ la bénédiction, la vie, jusqu’à l’éternité",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Comme la rosée"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "de l’Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "qui descend"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a commandé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la bénédiction"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "la bénédiction"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "l’éternité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:56:15.984525162Z",
+  "model": "glm-4.5"
+}

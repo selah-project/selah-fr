@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Au chef des chantres, pour Yedouthun. D'Asaph. Un psaume.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "על",
+      "gloss": "pour"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedouthun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "D'Asaph"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:52.414604061Z",
+  "model": "glm-4.5"
+}

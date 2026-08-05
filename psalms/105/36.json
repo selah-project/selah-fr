@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et il frappa tout premier-né ⟨dans⟩ leur pays, les prémices de toute ⟨leur⟩ vigueur.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Et il frappa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "premier-né"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "⟨dans⟩ leur pays"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "les prémices"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de toute"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "⟨leur⟩ vigueur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:30.116226641Z",
+  "model": "glm-4.5"
+}

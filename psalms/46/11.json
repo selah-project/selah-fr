@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Lâchez prise et sachez que moi, je ⟨suis⟩ Élohim, je serai exalté parmi ⟨les⟩ nations, je serai exalté sur ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Lâchez prise"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "et sachez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi, je"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "je serai exalté"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi ⟨les⟩ nations"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "je serai exalté"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur ⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:22.439653681Z",
+  "model": "glm-4.5"
+}

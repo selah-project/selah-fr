@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Ton séjour est ⟨au⟩ milieu de ⟨la⟩ tromperie ; par tromperie ils refusent de me connaître, déclare YHWH.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "Ton séjour"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨au⟩ milieu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "de ⟨la⟩ tromperie"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "par tromperie"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ils refusent"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "de connaître"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "me",
+      "marks": "déclare YHWH"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T16:15:53.829402403Z",
+  "model": "glm-4.5"
+}

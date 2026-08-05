@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Il ⟨a⟩ mesuré ⟨את⟩ le côté du midi, cinq cents cannes, ⟨avec⟩ la canne ⟨de⟩ mesure.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le côté du midi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "le côté"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "du midi"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "⟨a⟩ mesuré"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "cinq cents"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cinq cents"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "cannes"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "⟨avec⟩ la canne"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "⟨de⟩ mesure"
+    }
+  ],
+  "timestamp": "2026-08-04T23:50:45.598917072Z",
+  "model": "glm-4.5"
+}

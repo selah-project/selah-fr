@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "De David, quand il changea son comportement devant Abimélek ⟨et⟩ celui-ci le chassa ⟨et⟩ il s'en alla.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "quand il changea son comportement"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son comportement"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "son comportement"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimélek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "⟨et⟩ celui-ci le chassa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "⟨et⟩ il s'en alla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:07.035765230Z",
+  "model": "glm-4.5"
+}

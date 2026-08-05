@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "De David. Un psaume. À YHWH ⟨est⟩ la terre et ce qui la remplit, le monde et ses habitants.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "À YHWH"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "et ce qui la remplit"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "et ses habitants"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    }
+  ],
+  "timestamp": "2026-08-05T01:19:43.493399458Z",
+  "model": "glm-4.5"
+}

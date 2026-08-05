@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "et des pays il les a rassemblés de l'est et de l'ouest du nord et de la mer",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "et des pays"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "il les a rassemblés"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "de l'est"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "et de l'ouest"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "du nord"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "et de la mer"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:36.143597109Z",
+  "model": "glm-4.5"
+}

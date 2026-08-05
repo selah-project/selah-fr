@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et il bâtit ⟨את⟩ Beth-Léhem, et ⟨את⟩ Étam, et ⟨את⟩ Teqoa.",
+  "tokens": [
+    {
+      "surface": "וַיִּבֶן",
+      "gloss": "et il bâtit"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Léchem"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "Léchem"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Étam"
+    },
+    {
+      "surface": "עֵיטָם",
+      "gloss": "Étam"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Teqoa"
+    },
+    {
+      "surface": "תְּקוֹעַ",
+      "gloss": "Teqoa"
+    }
+  ],
+  "timestamp": "2026-08-05T06:03:29.845729234Z",
+  "model": "glm-5.2"
+}

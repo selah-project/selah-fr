@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Ouzzi engendra ⟨את⟩ Zerakhya, et Zerakhya engendra ⟨את⟩ Merayot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "et Ouzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerakhya"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerakhya"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "et Zerakhya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-05T05:46:18.368113732Z",
+  "model": "glm-5.2"
+}

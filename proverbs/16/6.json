@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Par hessed et vérité, la faute est expiée, et par la crainte de YHWH, on détourne du mal.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "Par hessed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "et vérité"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "la faute est expiée"
+    },
+    {
+      "surface": "עון",
+      "gloss": "[faute]"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "et par la crainte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "סור",
+      "gloss": "on détourne"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "du mal"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:18.766462478Z",
+  "model": "glm-4.5"
+}

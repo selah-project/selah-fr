@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Des princes par leur main furent pendus, ⟨le⟩ visage des anciens ne fut pas honoré.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Des princes"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "par leur main"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "furent pendus"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨le⟩ visage"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "des anciens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "fut pas honoré"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:50.589027373Z",
+  "model": "glm-4.5"
+}

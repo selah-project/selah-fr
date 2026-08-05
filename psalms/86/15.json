@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Mais toi, Adonaï, ⟨es⟩ un El compatissant et faisant grâce, lent à la colère, et grand en hessed et en vérité.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mais toi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨es⟩ un El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "compatissant"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "et faisant grâce"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lent"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "à la colère"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et grand"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "en hessed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "et en vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:09.330464653Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 149,
+  "translation": "pour faire vengeance sur les nations, des châtiments ⟨contre⟩ les peuples,",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "vengeance"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sur les nations"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "des châtiments"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨contre⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "les peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:46.041080529Z",
+  "model": "glm-4.5"
+}

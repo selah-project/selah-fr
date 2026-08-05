@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Qu'ils ⟨soient⟩ devant YHWH continuellement, et qu'il retranche ⟨leur⟩ mémoire de ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Qu'ils ⟨soient⟩"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "et qu'il retranche"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de ⟨la⟩ terre"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "⟨leur⟩ mémoire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.688746779Z",
+  "model": "glm-4.5"
+}

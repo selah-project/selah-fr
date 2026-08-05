@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Béni soit YHWH, le Elohim d'Israël, depuis le monde et jusqu'au monde. Amen et Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni soit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "le Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "depuis le monde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'⟨au⟩"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "monde"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "et Amen"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:06.190232829Z",
+  "model": "glm-4.5"
+}

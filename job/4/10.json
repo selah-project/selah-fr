@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Le rugissement du lion, et la voix du ṣaḥal, et les dents des lionceaux sont brisées",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "Le rugissement de"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lion"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "et la voix de"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ṣaḥal"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "et les dents de"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "lionceaux"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "sont brisées"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:14.405764686Z",
+  "model": "glm-4.5"
+}

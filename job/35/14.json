@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 35:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Même si tu dis : Il ne ⟨le⟩ considérera pas, le ⟨jugement⟩ est devant lui et attends-le.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "même si"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "tu dis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "⟨le⟩ considérera pas"
+    },
+    {
+      "surface": "דין",
+      "gloss": "le ⟨jugement⟩"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "est devant lui"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "et attends"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-le"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:40.606718844Z",
+  "model": "glm-4.5"
+}

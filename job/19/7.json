@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Voici, je crie violence, et je ne suis pas répondu, je crie au secours, et il n'y a ⟨de⟩ jugement",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "voici"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "suis pas répondu"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "je crie au secours"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T03:58:47.402886143Z",
+  "model": "glm-4.5"
+}

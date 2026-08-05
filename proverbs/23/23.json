@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Achète la vérité et ne la vends pas : sagesse, instruction et discernement.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "la vérité"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "achète"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "vends pas"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sagesse"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "instruction"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "et discernement"
+    }
+  ],
+  "timestamp": "2026-08-05T03:32:51.433066020Z",
+  "model": "glm-4.5"
+}

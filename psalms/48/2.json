@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Grand ⟨est⟩ YHWH, et très loué, dans la ville de notre Élohim, ⟨sa⟩ montagne sainte.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Grand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": ", et très loué"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville de"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": ", ⟨sa⟩ montagne"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sainte"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:33.141527038Z",
+  "model": "glm-4.5"
+}

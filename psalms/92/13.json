@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Le juste fleurira ⟨comme⟩ le palmier, il grandira ⟨comme⟩ le cèdre ⟨au⟩ Liban.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Le juste"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "⟨comme⟩ le palmier"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "fleurira"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "⟨comme⟩ le cèdre"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "⟨au⟩ Liban"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "il grandira"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:07.042405439Z",
+  "model": "glm-4.5"
+}

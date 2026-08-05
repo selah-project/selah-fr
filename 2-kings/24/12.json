@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "2-kings 24:12",
+  "book": "2-kings",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et sortit Yehoyakîn ⟨le⟩ roi de Juda vers ⟨le⟩ roi de Babylone, lui et sa mère, et ses serviteurs, et ses princes, et ses eunuques ; et ⟨le⟩ roi de Babylone le prit, ⟨dans⟩ la huitième année de son règne.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et sortit"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakîn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "על",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babylone"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "et sa mère"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "et ses serviteurs"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "et ses princes"
+    },
+    {
+      "surface": "וסריסיו",
+      "gloss": "et ses eunuques"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩ roi de Babylone le prit",
+      "marks": "מלך בבל"
+    },
+    {
+      "surface": "מלך",
+      "gloss": ""
+    },
+    {
+      "surface": "בבל",
+      "gloss": ""
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "⟨dans⟩ la"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "huitième"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "année de son règne"
+    }
+  ],
+  "timestamp": "2026-08-04T22:23:30.168765385Z",
+  "model": "glm-4.5"
+}

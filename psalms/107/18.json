@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Toute nourriture ⟨est⟩ en abomination à leur nefesh, et ils ⟨sont⟩ proches jusqu'aux portes de la mort",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toute"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nourriture"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "⟨est⟩ en abomination"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "à leur nefesh"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "et ils ⟨sont⟩ proches"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'aux"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "portes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:34.963598537Z",
+  "model": "glm-4.5"
+}

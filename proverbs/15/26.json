@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Les pensées du mal sont une abomination pour YHWH, et les paroles de grâce sont pures.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "les pensées"
+    },
+    {
+      "surface": "רע",
+      "gloss": "du mal"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "sont pures"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "de grâce"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:23.568221987Z",
+  "model": "glm-4.5"
+}

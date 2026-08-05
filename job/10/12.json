@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "La vie et le hessed tu as fait avec moi, et ta surveillance a gardé mon rouah.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "La vie"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "et le hessed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu as fait"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "et ta surveillance"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "a gardé"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mon rouah"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:39.157771944Z",
+  "model": "glm-4.5"
+}

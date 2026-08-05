@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Car à moi ⟨est⟩ toute bête de la forêt, bêtes sur des montagnes de mille",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bête"
+    },
+    {
+      "surface": "יער",
+      "gloss": "de la forêt"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "bêtes"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "sur des montagnes"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "de mille"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:58.648241202Z",
+  "model": "glm-4.5"
+}

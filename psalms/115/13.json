@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Il bénira ⟨ceux qui⟩ craignent YHWH, les petits avec les grands.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "Il bénira"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "⟨ceux qui⟩ craignent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "les petits"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "les grands"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:08.952151215Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Car voici, tes ennemis ⟨sont⟩ en tumulte, et ceux qui te haïssont ont levé la tête.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici,"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tes ennemis"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "⟨sont⟩ en tumulte,"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "et ceux qui te haïssent"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ont levé"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête."
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:40.614621992Z",
+  "model": "glm-4.5"
+}

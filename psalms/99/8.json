@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 99,
+  "translation": "YHWH notre Élohim, tu as répondu ⟨pour⟩ eux; El, porteur [de faute], tu as été pour eux, et vengeur sur leurs agissements.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "as répondu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨pour⟩ eux"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "porteur [de faute]"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu as été"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "et vengeur"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "leurs agissements"
+    }
+  ],
+  "timestamp": "2026-08-05T02:25:28.008949548Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "⟨Celui qui⟩ couvre la haine par dissimulation, sa méchanceté se révélera dans ⟨l'⟩assemblée",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "couvre"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "la haine"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "par dissimulation"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "se révélera"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "sa méchanceté"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dans ⟨l'⟩assemblée"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:26.410990086Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "YHWH ne fera pas affamer la nefesh du juste, et le désir des méchants, il le repoussera.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "fera affamer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "והות",
+      "gloss": "et le désir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "il le repoussera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:25.619879852Z",
+  "model": "glm-4.5"
+}

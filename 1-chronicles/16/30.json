@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Tremblez devant lui, toute la terre ! Aussi, ⟨la⟩ terre habitée ⟨est⟩ affermie — point, elle ne chancèle.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Tremblez"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Aussi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨est⟩ affermie"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨la⟩ terre habitée"
+    },
+    {
+      "surface": "בל",
+      "gloss": "point"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "elle ne chancèle"
+    }
+  ],
+  "timestamp": "2026-08-05T05:51:44.044300068Z",
+  "model": "glm-5.2"
+}

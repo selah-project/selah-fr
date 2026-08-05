@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "Au chef des chantres sur la colombe des ténèbres lointaines, de David, un mikhtam, lors de la saisie de ⟨את⟩ lui, les Philistins, à Gath.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "la colombe"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "des ténèbres"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "lointaines"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "un mikhtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "lors de la saisie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lui, les Philistins"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "à Gath"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:01.484550433Z",
+  "model": "glm-4.5"
+}

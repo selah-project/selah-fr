@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Afin que tu plonges ton pied dans le sang, la langue de tes chiens, ⟨des⟩ ennemis, ⟨d'une part⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Afin que"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "tu plonges"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ton pied"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dans le sang"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la langue"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "de tes chiens"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "⟨des⟩ ennemis"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "⟨d'une part⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:18.808044148Z",
+  "model": "glm-4.5"
+}

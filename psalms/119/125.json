@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ton serviteur ⟨je suis⟩, fais-moi comprendre, et je connaîtrai tes témoignages.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "Ton serviteur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨je suis⟩"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fais-moi comprendre"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "et je connaîtrai"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tes témoignages"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:10.911722703Z",
+  "model": "glm-4.5"
+}

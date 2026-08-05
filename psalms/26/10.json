@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "dans ⟨la⟩ main desquels est le crime, et leur droite est pleine de pots-de-vin",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "dans ⟨la⟩ main desquels"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "est"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "le crime"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "et leur droite"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "est pleine"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "de pots-de-vin"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:50.124504451Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Ils ont agi perfidement envers YHWH, car ils ont engendré des fils étrangers, maintenant un mois dévorera ⟨את⟩ leurs parts",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "envers YHWH"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ils ont agi perfidement"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "étrangers"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ils ont engendré"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "un mois dévorera"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "un mois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs parts"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "leurs parts"
+    }
+  ],
+  "timestamp": "2026-08-05T00:00:48.180148831Z",
+  "model": "glm-4.5"
+}

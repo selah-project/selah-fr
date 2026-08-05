@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Les méchants ont tiré l'épée et tendu ⟨leur⟩ arc, pour faire tomber le pauvre et le nécessiteux, pour égorger ceux dont la voie est droite.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ont tiré"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Les méchants"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "et tendu"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "⟨leur⟩ arc"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "pour faire tomber"
+    },
+    {
+      "surface": "עני",
+      "gloss": "le pauvre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et le nécessiteux"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "pour égorger"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ceux dont"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la voie est droite"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:55.944999716Z",
+  "model": "glm-4.5"
+}

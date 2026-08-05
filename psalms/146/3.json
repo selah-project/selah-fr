@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "Ne vous fiez pas aux nobles, ni au fils de l'homme, ⟨qui⟩ n'a pas ⟨en⟩ lui ⟨de⟩ délivrance",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "vous fiez pas"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "aux nobles"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ni au fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨en⟩ lui"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "⟨de⟩ délivrance"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:24.481587857Z",
+  "model": "glm-4.5"
+}

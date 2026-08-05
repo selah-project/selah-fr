@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Dans le ventre il ⟨a⟩ talonné ⟨את⟩ son frère, et dans sa vigueur il a lutté avec ⟨את⟩ Élohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "Dans le ventre"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "il a talonné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son frère"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "et dans sa vigueur"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "il a lutté"
+    },
+    {
+      "surface": "את",
+      "gloss": "avec",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:57.420108589Z",
+  "model": "glm-4.5"
+}

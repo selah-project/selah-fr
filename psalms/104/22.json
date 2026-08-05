@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Le soleil se lève, ils se rassemblent, et dans leurs tanières ils se couchent.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "se lève"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Le soleil"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ils se rassemblent"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "dans leurs tanières"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "ils se couchent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:13.512181012Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Je te louerai, Adonaï, mon Élohim, de tout mon cœur, et je glorifierai ton nom pour toujours.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "je te louerai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "et je glorifierai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:54.815290229Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Celui qui observe le vent ne sèmera pas, et celui qui regarde les nuages ne moissonnera pas",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Celui qui observe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "le vent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sèmera pas"
+    },
+    {
+      "surface": "וראה",
+      "gloss": ", et celui qui regarde"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "les nuages"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "moissonnera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:48:48.747843844Z",
+  "model": "glm-4.5"
+}

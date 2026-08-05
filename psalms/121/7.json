@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 121,
+  "translation": "YHWH te gardera de tout mal, il gardera ⟨את⟩ ta nefesh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "te gardera"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "il gardera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta nefesh"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:00.884392211Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 27:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Que soit comme le méchant ⟨את⟩ mon ennemi et comme l'injuste mon adversaire.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Que soit"
+    },
+    {
+      "surface": "כרשע",
+      "gloss": "comme le méchant"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "⟨את⟩",
+      "marks": "mon ennemi"
+    },
+    {
+      "surface": "ומתקוממי",
+      "gloss": "et comme l'injuste mon adversaire"
+    },
+    {
+      "surface": "כעול",
+      "gloss": "comme l'injuste"
+    }
+  ],
+  "timestamp": "2026-08-05T04:04:28.081667647Z",
+  "model": "glm-4.5"
+}

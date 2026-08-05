@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Il jette ⟨את⟩ sa glace comme des morceaux ; devant ⟨את⟩ son froid qui tiendra ?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Il jette"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "sa glace",
+      "marks": "sa glace comme des morceaux"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "comme des morceaux"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "son froid",
+      "marks": "son froid"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tiendra"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:22.678993862Z",
+  "model": "glm-4.5"
+}

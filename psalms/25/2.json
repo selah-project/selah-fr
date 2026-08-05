@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Mon Élohim, en toi j'ai confiance, que je ne sois pas honteux, qu'ils ne se réjouissent pas contre moi, mes ennemis.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mon Élohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "j'ai confiance"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "je ne sois pas honteux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qu'ils ne"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "se réjouissent"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contre moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:20.519746389Z",
+  "model": "glm-4.5"
+}

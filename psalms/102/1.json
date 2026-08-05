@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Tefila de l'affligé quand il est enveloppé et devant YHWH il répand ⟨son⟩ contemplation.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tefila"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "de l'affligé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "il est enveloppé"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "et devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "il répand"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "⟨son⟩ contemplation"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:41.318914139Z",
+  "model": "glm-4.5"
+}

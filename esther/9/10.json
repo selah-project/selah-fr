@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "dix fils de Haman, fils de Hammedatha, ⟨l'adversaire⟩ des Juifs, tuèrent-ils, mais ⟨sur⟩ le butin n'étendirent-ils pas ⟨את⟩ leur main",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "dix"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedatha"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "⟨l'adversaire⟩"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "des Juifs"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "tuèrent-ils"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "mais ⟨sur⟩ le butin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "étendirent-ils pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur main"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "leur main"
+    }
+  ],
+  "timestamp": "2026-08-05T05:04:00.044525837Z",
+  "model": "glm-4.5"
+}

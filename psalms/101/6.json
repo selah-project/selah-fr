@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 101,
+  "translation": "Mes yeux ⟨sont⟩ sur les fidèles du pays, pour qu'ils habitent avec moi ; celui qui marche dans ⟨la⟩ voie de l'intégrité, lui me servira.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mes yeux"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sur les fidèles"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pour qu'ils habitent"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "celui qui marche"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans ⟨la⟩ voie"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "de l'intégrité"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "me servira"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:59.027411679Z",
+  "model": "glm-4.5"
+}

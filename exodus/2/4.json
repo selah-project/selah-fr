@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et sa sœur se tint ⟨à⟩ distance, pour savoir ce qui ⟨lui⟩ serait fait.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "Et se tint"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sa sœur"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "distance"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "pour savoir"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "serait fait"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨lui⟩"
+    }
+  ],
+  "timestamp": "2026-08-04T18:52:44.820305773Z",
+  "model": "glm-4.5"
+}

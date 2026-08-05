@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Et je mettrai dans la mer sa main, et dans les fleuves sa droite",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "et je mettrai"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dans la mer"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "et dans les fleuves"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sa droite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:08.731898366Z",
+  "model": "glm-4.5"
+}

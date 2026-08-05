@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Son palais est douceur, et tout lui est désir, ceci est mon bien-aimé, et ceci mon ami, filles de Jérusalem.",
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "son palais"
+    },
+    {
+      "surface": "ממתקים",
+      "gloss": "est douceur"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "et tout lui"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "est désir"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ceci est"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mon bien-aimé"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "et ceci est"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mon ami"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filles"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T04:20:38.842571571Z",
+  "model": "glm-4.5"
+}

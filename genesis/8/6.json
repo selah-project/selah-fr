@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il arriva, à la fin de quarante jours, que Noé ouvrit ⟨את⟩ la fenêtre de la tebah qu'il avait faite",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "à la fin"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "que Noé ouvrit"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la fenêtre"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "la fenêtre"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "de la tebah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il avait faite"
+    }
+  ],
+  "timestamp": "2026-08-04T18:42:19.823230102Z",
+  "model": "glm-4.5"
+}

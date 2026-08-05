@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Ils te craindront avec le soleil, et devant la lune, de génération en générations.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Ils te craindront"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "et devant"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "la lune"
+    },
+    {
+      "surface": "דור",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "en générations"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:31.284155126Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 67,
+  "translation": "Élohim nous fasse grâce et nous bénisse, qu'il fasse luire ⟨sa⟩ face sur nous, Séla.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "nous fasse grâce"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "et nous bénisse"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "qu'il fasse luire"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨sa⟩ face"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:55:07.079946323Z",
+  "model": "glm-4.5"
+}

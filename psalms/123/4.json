@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 123,
+  "translation": "Bien grande est la satiété dont notre âme est rassasiée, la moquerie des gens à l'aise, ⟨et⟩ le mépris des orgueilleux.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Bien grande"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "est la satiété"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dont"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "notre âme est rassasiée"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "la moquerie"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "des gens à l'aise"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "⟨et⟩ le mépris"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "des orgueilleux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:48:23.249099502Z",
+  "model": "glm-4.5"
+}

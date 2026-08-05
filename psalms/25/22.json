@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Rachète, Élohim, ⟨את⟩ Israël de toutes ses détresses",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Rachète"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "de toutes"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ses détresses"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:04.058415160Z",
+  "model": "glm-4.5"
+}

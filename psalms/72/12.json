@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Car il délivrera le malheureux quand il crie et le pauvre et il n'y a ⟨de⟩ secours pour lui",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "il délivrera"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "le malheureux"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "quand il crie"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "et le pauvre"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "⟨de⟩ secours"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:28.096690260Z",
+  "model": "glm-4.5"
+}

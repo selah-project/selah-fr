@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "J'ai dit à YHWH : Tu es mon El, prête l'oreille, YHWH, à la voix de mes supplications.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "J'ai dit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mon El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu es"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קול",
+      "gloss": "à la voix"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "de mes supplications"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:15.873281521Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Alors ainsi nous leur dîmes : Quels sont les noms des hommes qui bâtissent cet édifice ?",
+  "tokens": [
+    {
+      "surface": "אֱדַ֥יִן",
+      "gloss": "alors"
+    },
+    {
+      "surface": "כְּנֵמָ֖א",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אֲמַ֣רְנָא",
+      "gloss": "nous dîmes"
+    },
+    {
+      "surface": "לְהֹ֑ם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "מַן־",
+      "gloss": "quels"
+    },
+    {
+      "surface": "אִנּוּן֙",
+      "gloss": "sont"
+    },
+    {
+      "surface": "שְׁמָהָ֣ת",
+      "gloss": "les noms de"
+    },
+    {
+      "surface": "גֻּבְרַיָּ֔א",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "דִּֽי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "דְּנָ֥ה",
+      "gloss": "cet"
+    },
+    {
+      "surface": "בִּנְיָנָ֖א",
+      "gloss": "édifice"
+    },
+    {
+      "surface": "בָּנַֽיִן",
+      "gloss": "bâtissent"
+    }
+  ],
+  "timestamp": "2026-08-05T05:36:39.614010888Z",
+  "model": "glm-5.2"
+}

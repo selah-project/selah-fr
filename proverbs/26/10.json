@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Grand est le Façonneur de tout, il récompense le sot et il récompense les transgresseurs.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Grand"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "le Façonneur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "il récompense"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "le sot"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "et il récompense"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "les transgresseurs"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:23.316880298Z",
+  "model": "glm-4.5"
+}

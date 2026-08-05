@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Mille tomberont à ton côté, et une myriade à ta droite, ⟨elle⟩ ne t'approchera pas.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "tomberont"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "à ton côté"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "et une myriade"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "à ta droite"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨elle⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "t'approchera"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:09.517259195Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Car ⟨le⟩ malheur de El était pour moi une terreur, et à cause de ⟨sa⟩ majesté, je ne pouvais rien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "une terreur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "איד",
+      "gloss": "⟨le⟩ malheur",
+      "marks": "le malheur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "de El"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "et à cause de ⟨sa⟩ majesté",
+      "marks": "sa majesté"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne ... [rien]"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "pouvais"
+    }
+  ],
+  "timestamp": "2026-08-05T04:07:03.091570119Z",
+  "model": "glm-4.5"
+}

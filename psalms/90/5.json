@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Tu les entraînes comme un torrent, ils sont comme un sommeil, au matin ils sont comme l'herbe qui passe.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Tu les entraînes"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "comme un sommeil"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ils sont"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "au matin"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "comme l'herbe"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "qui passe"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:28.157610878Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Les fils de l'étranger défaillent, et ⟨ils⟩ frémissent de leurs forteresses.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Les fils de"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "l'étranger"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "défaillent"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "et frémissent"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "de leurs forteresses"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:28.178230870Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Un homme pauvre qui opprime les faibles est comme une pluie dévastatrice, sans qu'il y ait de pain.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "רש",
+      "gloss": "pauvre"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "qui opprime"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "les faibles"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "comme une pluie"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "dévastatrice"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sans qu'il y a"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:13.217455731Z",
+  "model": "glm-4.5"
+}

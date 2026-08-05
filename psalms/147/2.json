@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Bâtisseur ⟨est⟩ YHWH de Jérusalem, les exilés d'Israël ⟨Il⟩ rassemble",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Bâtisseur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "les exilés"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "rassemble"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:16.853267282Z",
+  "model": "glm-4.5"
+}

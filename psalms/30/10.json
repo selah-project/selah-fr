@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Quel profit ⟨y a-t-il⟩ dans mon sang, quand je descends ⟨vers⟩ la fosse ? La poussière te louera-t-elle ? Proclamera-t-elle ta vérité ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Quel profit"
+    },
+    {
+      "surface": "בצע",
+      "gloss": ""
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "dans mon sang"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "quand je descends"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "la fosse"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "La poussière te louera-t-elle"
+    },
+    {
+      "surface": "עפר",
+      "gloss": ""
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Proclamera-t-elle"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ta vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:50.471949708Z",
+  "model": "glm-4.5"
+}

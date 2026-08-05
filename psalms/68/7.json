@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Élohim fait habiter les solitaires dans une maison, il fait sortir les prisonniers dans la prospérité ; seulement les rebelles ont habité une terre desséchée.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "fait habiter"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "les solitaires"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "dans une maison"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "fait sortir"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "les prisonniers"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "dans la prospérité"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "les rebelles"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "ont habité"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "une terre desséchée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:24.620974355Z",
+  "model": "glm-4.5"
+}

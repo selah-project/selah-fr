@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Sur ⟨mon⟩ lit dans les nuits, j'ai recherché ⟨את⟩ celui qu'aime ma nefesh, je l'ai recherché et ne l'ai pas trouvé.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "⟨mon⟩ lit"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "dans les nuits"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "j'ai recherché"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui qu'aime ma nefesh"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "celui qu'aime"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "je l'ai recherché"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "l'ai pas trouvé"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:56.251318933Z",
+  "model": "glm-4.5"
+}

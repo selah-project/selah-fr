@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "⟨vers⟩ la pourriture j'ai crié : Mon père, tu es ! ma mère et ma sœur, ⟨vers⟩ le ver !",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "⟨vers⟩ la pourriture"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "j'ai crié"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ma mère"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "et ma sœur"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "⟨vers⟩ le ver"
+    }
+  ],
+  "timestamp": "2026-08-05T03:56:54.161492197Z",
+  "model": "glm-4.5"
+}

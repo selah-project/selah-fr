@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Périsse ⟨le⟩ jour où je suis né, et ⟨la⟩ nuit dont on a dit : Un homme est conçu.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Périsse"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨le⟩ jour"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "où je suis né"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "et ⟨la⟩ nuit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dont on a dit"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "est conçu"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "un homme"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:20.137104281Z",
+  "model": "glm-4.5"
+}

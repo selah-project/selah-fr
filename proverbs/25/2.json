@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "La gloire d'Élohim ⟨est⟩ de cacher une chose, et la gloire des rois ⟨est⟩ de scruter une chose.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "La gloire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "⟨est⟩ de cacher"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une chose"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "et la gloire"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "des rois"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "⟨est⟩ de scruter"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une chose"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:31.313383033Z",
+  "model": "glm-4.5"
+}

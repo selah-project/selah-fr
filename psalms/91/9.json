@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Car toi, YHWH, ⟨es⟩ mon refuge, ⟨le⟩ Très-Haut tu as mis ta demeure",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mon refuge"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Très-Haut"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tu as mis"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "ta demeure"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:02.758912467Z",
+  "model": "glm-4.5"
+}

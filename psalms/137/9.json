@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 137,
+  "translation": "Heureux qui saisit et qui brise ⟨את⟩ tes nourrissons contre le rocher",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "qui saisit"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "et qui brise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes nourrissons"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "tes nourrissons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contre"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "le rocher"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:27.056281231Z",
+  "model": "glm-4.5"
+}

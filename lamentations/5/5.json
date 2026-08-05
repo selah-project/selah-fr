@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Sur notre cou ⟨nous⟩ sommes poursuivis, nous nous épuisons, il n'y a pas de repos pour nous.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "notre cou"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "⟨nous⟩ sommes poursuivis"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "nous nous épuisons"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "repos"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pour nous"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:55.363746801Z",
+  "model": "glm-4.5"
+}

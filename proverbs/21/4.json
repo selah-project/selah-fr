@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Hautain des yeux et largeur de cœur, le labour des méchants, c'est péché.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "Hautain"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "des yeux"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "et largeur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "נר",
+      "gloss": "le labour"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": ", c'est péché"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:10.523758428Z",
+  "model": "glm-4.5"
+}

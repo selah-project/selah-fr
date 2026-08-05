@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Celui qui corrige ⟨les⟩nations, ne réprimande-t-il pas ? Celui qui enseigne la connaissance à ⟨l'⟩humain, ne sait-il pas ?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Celui qui corrige"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ne...-il pas"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "réprimande"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Celui qui enseigne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "connaissance"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:32.897767399Z",
+  "model": "glm-4.5"
+}

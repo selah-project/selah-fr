@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Il y a six choses que YHWH hait, et sept qui sont une abomination pour sa nefesh",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "six"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "que YHWH hait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "et sept"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "une abomination"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "pour sa nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:23.859044060Z",
+  "model": "glm-4.5"
+}

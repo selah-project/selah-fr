@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et maintenant jure-moi par YHWH si ⟨tu⟩ coupes ⟨את⟩ ma semence après moi, et si ⟨tu⟩ détruis ⟨את⟩ mon nom de la maison de mon père.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "jure-moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "par YHWH"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "⟨tu⟩ coupes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma semence"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ma semence"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après moi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "⟨tu⟩ détruis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon nom"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mon nom"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "de mon père"
+    }
+  ],
+  "timestamp": "2026-08-04T22:07:40.260349803Z",
+  "model": "glm-4.5"
+}

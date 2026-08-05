@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Car Élohim ⟨est⟩ juge : celui-ci, il l'abaisse, et celui-ci, il l'élève.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "juge"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "il l'abaisse"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "et celui-ci"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "il l'élève"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:14.825233847Z",
+  "model": "glm-4.5"
+}

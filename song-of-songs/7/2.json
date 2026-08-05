@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "song-of-songs 7:2",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Que ⟨sont⟩ beaux tes pas dans les sandales, fille de Nadib, les contours de tes hanches comme ⟨des⟩ joyaux, ouvrage des mains d'un artiste.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "⟨sont⟩ beaux"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "tes pas"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "dans les sandales"
+    },
+    {
+      "surface": "בת",
+      "gloss": "fille"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "de Nadib"
+    },
+    {
+      "surface": "חמוקי",
+      "gloss": "les contours"
+    },
+    {
+      "surface": "ירכיך",
+      "gloss": "de tes hanches"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "חלאים",
+      "gloss": "⟨des⟩ joyaux"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ouvrage"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "des mains"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "d'un artiste"
+    }
+  ],
+  "timestamp": "2026-08-05T04:22:13.447229178Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Le louent, les cieux et la terre, les mers et tout ce qui ⟨se⟩ meut ⟨en⟩ eux.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "Le louent"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et la terre"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "les mers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ce qui meut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "en eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:47.901624507Z",
+  "model": "glm-4.5"
+}

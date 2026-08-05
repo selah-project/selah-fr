@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Moab ⟨est⟩ ma marmite de lavage ; sur Édom je jette ma sandale ; sur moi, Pelechet, pousse un cri triomphal !",
+  "tokens": [
+    {
+      "surface": "מוֹאָ֤ב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סִ֬יר",
+      "gloss": "marmite"
+    },
+    {
+      "surface": "רַחְצִ֗י",
+      "gloss": "de lavage"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אֱ֭דוֹם",
+      "gloss": "Édom"
+    },
+    {
+      "surface": "אַשְׁלִ֣יךְ",
+      "gloss": "je jette"
+    },
+    {
+      "surface": "נַעֲלִ֑י",
+      "gloss": "ma sandale"
+    },
+    {
+      "surface": "עָ֝לַ֗י",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "פְּלֶ֣שֶׁת",
+      "gloss": "Pelechet"
+    },
+    {
+      "surface": "הִתְרֹעָֽעִֽי",
+      "gloss": "pousse un cri triomphal"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:57.388963276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Il ne détourne pas ses yeux du juste, et ⟨avec⟩ des rois ⟨sur⟩ le trône, il les fait asseoir pour toujours, et ils sont élevés.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "détourne pas"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨avec⟩",
+      "marks": "rois"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "des rois"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨sur⟩ le trône"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "il les fait asseoir"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "et ils sont élevés"
+    }
+  ],
+  "timestamp": "2026-08-05T04:11:31.403718458Z",
+  "model": "glm-4.5"
+}

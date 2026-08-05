@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Ils n'étaient pas alienés de leur désir, encore ⟨leur⟩ nourriture ⟨était⟩ dans leur bouche",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ils n'étaient pas"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "alienés"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "de leur désir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "⟨leur⟩ nourriture"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "dans leur bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:05.993205381Z",
+  "model": "glm-4.5"
+}

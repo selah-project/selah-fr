@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Ils montent ⟨les⟩ montagnes, ils descendent ⟨les⟩ vallées, vers le lieu que tu as fondé pour eux.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Ils montent"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "⟨les⟩ montagnes"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ils descendent"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "⟨les⟩ vallées"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "que"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "tu as fondé"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:17.327077706Z",
+  "model": "glm-4.5"
+}

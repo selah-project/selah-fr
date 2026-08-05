@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Et maintenant s'élèvera ma tête sur ⟨mes⟩ ennemis autour de moi, et je sacrifierai dans ⟨sa⟩ tente des sacrifices de clameur, je chanterai et je psalmodierai à YHWH",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Et maintenant"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "s'élèvera"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "⟨mes⟩ ennemis"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "autour de moi"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "et je sacrifierai"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "dans ⟨sa⟩ tente"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "des sacrifices"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "de clameur"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "et je psalmodierai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:42.074818537Z",
+  "model": "glm-4.5"
+}

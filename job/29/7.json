@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 29:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "à ma sortie ⟨vers⟩ la porte ⟨sur⟩ la ville, dans la place j'installais mon siège",
+  "tokens": [
+    {
+      "surface": "בצאתי",
+      "gloss": "à ma sortie"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨vers⟩ la porte"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "dans la place"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "j'installais"
+    },
+    {
+      "surface": "מושבי",
+      "gloss": "mon siège"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:45.408449105Z",
+  "model": "glm-4.5"
+}

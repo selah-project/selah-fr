@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 149,
+  "translation": "Louez Yah chantez à YHWH un chant nouveau sa louange ⟨dans⟩ l'assemblée des pieux",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sa louange"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "⟨dans⟩ l'assemblée"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "des pieux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:48.267198820Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et les Philistins combattirent contre Israël, et ⟨les hommes d'⟩Israël s'enfuirent de devant les Philistins, et des transpercés tombèrent sur le mont Guilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Et les Philistins"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "combattirent"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contre Israël"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "et s'enfuirent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "et tombèrent"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "des transpercés"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur le mont"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Guilboa"
+    }
+  ],
+  "timestamp": "2026-08-05T05:49:35.363334200Z",
+  "model": "glm-5.2"
+}

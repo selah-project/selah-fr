@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et je mettrai ⟨את⟩ la montagne de Séir en désolation et en stupéfaction, et je couperai de lui l'allant et le revenant.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "et je mettrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la montagne"
+    },
+    {
+      "surface": "הר",
+      "gloss": "la montagne de"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Séir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "en désolation"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "et en stupéfaction"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "et je couperai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "l'allant"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "et le revenant"
+    }
+  ],
+  "timestamp": "2026-08-04T23:43:36.579349321Z",
+  "model": "glm-4.5"
+}

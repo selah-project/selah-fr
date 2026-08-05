@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ton hessed, YHWH, remplit la terre, enseigne-moi tes statuts.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Ton hessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "remplit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes statuts"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:16.445209593Z",
+  "model": "glm-4.5"
+}

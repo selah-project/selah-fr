@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 64,
+  "translation": "Cache-moi du secret des malfaiteurs du tumulte des ouvriers d'iniquité",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Cache-moi"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "du secret"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "des malfaiteurs"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "du tumulte"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "des ouvriers"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:04.113703339Z",
+  "model": "glm-4.5"
+}

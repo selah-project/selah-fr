@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Louez Yah, car bon est le chant de notre Élohim, car agréable, convenable est la louange",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "le chant"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "agréable"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "convenable"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "la louange"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:16.853020852Z",
+  "model": "glm-4.5"
+}

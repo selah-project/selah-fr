@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "À celui qui fait des merveilles grandes par lui seul car pour toujours ⟨est⟩ son hessed",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "À celui qui fait"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "des merveilles"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "grandes"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "par lui seul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:14.146002414Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Sonnez du shofar à la nouvelle lune au temps fixé au jour de notre fête",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Sonnez"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "à la nouvelle lune"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "du shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "au temps fixé"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "de notre fête"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:12.202034956Z",
+  "model": "glm-4.5"
+}

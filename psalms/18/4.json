@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Digne de louange je crierai YHWH et de mes ennemis je serai sauvé",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Digne de louange"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crierai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "et de"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "je serai sauvé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:10.361882781Z",
+  "model": "glm-4.5"
+}

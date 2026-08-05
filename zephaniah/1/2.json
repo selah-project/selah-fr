@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "En rassemblant, je rassemblerai tout ⟨de⟩ sur la face de ⟨la⟩ terre, déclaration de YHWH.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "En rassemblant"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "je rassemblerai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T00:38:20.221583697Z",
+  "model": "glm-4.5"
+}

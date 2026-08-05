@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "YHWH, incline tes cieux et descends, touche ⟨aux⟩ montagnes et elles fumeront",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הט",
+      "gloss": "incline"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "tes cieux"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "et descends"
+    },
+    {
+      "surface": "גע",
+      "gloss": "touche"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "⟨aux⟩ montagnes"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "et elles fumeront"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:54.871595319Z",
+  "model": "glm-4.5"
+}

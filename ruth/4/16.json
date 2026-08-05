@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Naomi prit ⟨את⟩ l'enfant et le mit sur son sein, et elle fut pour lui pour nourrice.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Et ... prit"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'enfant"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "l'enfant"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "et le mit"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sur son sein"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et elle fut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "pour nourrice"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:51.031932670Z",
+  "model": "glm-4.5"
+}

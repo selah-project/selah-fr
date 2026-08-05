@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et ils le récoltaient, matin par matin, chacun selon sa consommation ; et quand le soleil chauffait, il fondait",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "Et ils le récoltaient"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩",
+      "marks": "la manne (selon le contexte du verset précédent)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "matin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "par matin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "selon"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sa consommation"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "et quand chauffait"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "il fondait"
+    }
+  ],
+  "timestamp": "2026-08-04T18:56:12.883331245Z",
+  "model": "glm-4.5"
+}

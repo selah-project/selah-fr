@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Le désir des humbles tu as entendu, YHWH, tu prépares leur cœur, tu prêtes ton oreille,",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "le désir"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "des humbles"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu as entendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tu prépares"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "leur cœur"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "tu prêtes"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:13.946032218Z",
+  "model": "glm-4.5"
+}

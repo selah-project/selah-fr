@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 21:22",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Est-ce à Él ⟨qu'on⟩ enseigne la connaissance, ⟨lui⟩ qui juge ceux d'en haut ?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Él"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "⟨qu'on⟩ enseigne"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et ⟨lui⟩"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ceux d'en haut"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "juge"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:10.141699514Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Et ⟨את⟩ mon peuple, ils l'enseigneront ⟨à distinguer⟩ entre le saint et le profane, et entre l'impur et le pur ils le feront savoir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mon peuple"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "ils l'enseigneront ⟨à distinguer⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "le saint"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "et le profane"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "l'impur"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "et le pur"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "ils le feront savoir"
+    }
+  ],
+  "timestamp": "2026-08-04T23:52:40.222277580Z",
+  "model": "glm-4.5"
+}

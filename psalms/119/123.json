@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mes yeux se sont consumés pour ton salut et pour la parole de ta justice.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mes yeux"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "se sont consumés"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "pour ton salut"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "et pour la parole"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "de ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:07.257341461Z",
+  "model": "glm-4.5"
+}

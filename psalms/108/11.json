@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Qui me fera entrer ⟨dans⟩ ⟨la⟩ ville forte ? Qui me conduira jusqu'à Édom ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "me fera entrer"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "forte"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "me conduira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Édom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:45.555384761Z",
+  "model": "glm-4.5"
+}

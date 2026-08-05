@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Car en lui notre cœur se réjouit, car en son nom saint nous avons ⟨fait confiance⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se réjouit"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "notre cœur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "en son nom"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "saint"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "nous avons ⟨fait confiance⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:04.818435878Z",
+  "model": "glm-4.5"
+}

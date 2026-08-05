@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Car Tu m'as réjoui, YHWH, par ⟨ton⟩ œuvre ; aux œuvres de ⟨tes⟩ mains je chante pour joie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "Tu m'as réjoui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "par ⟨ton⟩ œuvre"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "aux œuvres"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "de ⟨tes⟩ mains"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "je chante pour joie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:09.726253426Z",
+  "model": "glm-4.5"
+}

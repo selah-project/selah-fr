@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Qui ⟨a⟩ chargé ⟨lui⟩ la terre ? Et qui ⟨a⟩ disposé le monde tout entier ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "⟨a⟩ chargé"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨lui⟩"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Et qui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨a⟩ disposé"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tout entier"
+    }
+  ],
+  "timestamp": "2026-08-05T04:09:44.257197758Z",
+  "model": "glm-4.5"
+}

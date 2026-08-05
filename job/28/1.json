@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Car il y a une source pour l'argent, et un lieu pour l'or où on l'affine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "pour l'argent"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "une source"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "et un lieu"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "pour l'or"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "où on l'affine"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:02.969270085Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Et à Salem est ⟨sa⟩ hutte, et son habitation à Sion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et est"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "à Salem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "⟨sa⟩ hutte"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "et son habitation"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "à Sion"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:01.162819069Z",
+  "model": "glm-4.5"
+}

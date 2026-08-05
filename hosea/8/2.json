@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "À moi ils crieront, « Mon Élohim, nous, Israël, te connaissons ».",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "À moi"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "ils crieront"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Mon Élohim"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "nous te connaissons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T00:03:00.654706805Z",
+  "model": "glm-4.5"
+}

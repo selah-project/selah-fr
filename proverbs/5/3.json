@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "car le miel distillent les lèvres de ⟨la⟩ étrangère, et lisse plus que ⟨l'⟩huile ⟨est⟩ son palais",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "le miel"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "distillent"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "les lèvres"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "de ⟨la⟩ étrangère"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "et lisse"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "plus que ⟨l'⟩huile"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "⟨est⟩ son palais"
+    }
+  ],
+  "timestamp": "2026-08-05T03:16:44.355469221Z",
+  "model": "glm-4.5"
+}

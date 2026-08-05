@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "S'achèvent les prières de David, fils de Jessé.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "S'achèvent"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "les prières"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "de Jessé"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:27.058289231Z",
+  "model": "glm-4.5"
+}

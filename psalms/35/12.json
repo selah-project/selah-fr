@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Ils me rendent le mal pour le bien, dévastation pour ma nefesh.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Ils me rendent"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "dévastation"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pour ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:03.254505754Z",
+  "model": "glm-4.5"
+}

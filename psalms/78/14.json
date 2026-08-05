@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il les conduisit par un nuage le jour, et toute la nuit par une lumière de feu.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Et il les conduisit"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "par un nuage"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "באור",
+      "gloss": "par une lumière"
+    },
+    {
+      "surface": "אש",
+      "gloss": "de feu"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:26.360338544Z",
+  "model": "glm-4.5"
+}

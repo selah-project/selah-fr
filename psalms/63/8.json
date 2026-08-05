@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Car tu as été un secours pour moi, et à l'ombre de tes ailes je chanterai avec joie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu as été"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "un secours"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "et à l'ombre"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "de tes ailes"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "je chanterai avec joie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:30.865136034Z",
+  "model": "glm-4.5"
+}

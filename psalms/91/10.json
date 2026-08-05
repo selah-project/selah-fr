@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Il ⟨ne⟩ t'arrivera ⟨pas⟩ de malheur, et ⟨ni⟩ fléau ⟨ne⟩ s'approchera de ta tente",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "t'arrivera"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "malheur"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "et fléau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "s'approchera"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "de ta tente"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:02.759196894Z",
+  "model": "glm-4.5"
+}

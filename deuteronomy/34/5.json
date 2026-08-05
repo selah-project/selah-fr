@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Et Moïse, serviteur de YHWH, mourut là, dans le pays de Moab, sur la parole de YHWH.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "serviteur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "de Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פי",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T21:56:04.651668183Z",
+  "model": "glm-4.5"
+}

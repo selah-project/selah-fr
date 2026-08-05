@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Déviez de moi, malfaisants, et ⟨je⟩ garde ⟨les⟩ commandements de mon Elohim.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Déviez"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "malfaisants"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "et ⟨je⟩ garde"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "⟨les⟩ commandements"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de mon Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:01.727855577Z",
+  "model": "glm-4.5"
+}

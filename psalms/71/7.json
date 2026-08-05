@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Comme un prodige je suis devenu pour beaucoup, et toi, ⟨tu es⟩ mon refuge, ⟨la⟩ force.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "Comme un prodige"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "je suis devenu"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "pour beaucoup"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "⟨tu es⟩ mon refuge"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨la⟩ force"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:42.955584526Z",
+  "model": "glm-4.5"
+}

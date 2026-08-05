@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Soutenez-moi avec des gâteaux de raisins, réconfortez-moi avec des pommes, car je suis malade d'amour.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "Soutenez-moi"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "avec des gâteaux de raisins"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "réconfortez-moi"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "avec des pommes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "je suis malade"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "d'amour"
+    },
+    {
+      "surface": "אני",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:11.768170149Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "Bienveillant ⟨est⟩ l'homme qui fait grâce et prête, il soutient ses affaires avec justice.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bienveillant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "qui fait grâce"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "et prête"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "il soutient"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ses affaires"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "avec justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:44.849332545Z",
+  "model": "glm-4.5"
+}

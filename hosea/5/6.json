@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Avec leurs brebis et avec leurs bœufs ils iront chercher ⟨את⟩ YHWH et ils ne le trouveront pas, il s'est retiré d'eux",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "Avec leurs brebis"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "et avec leurs bœufs"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ils iront"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "chercher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "le trouveront pas"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "il s'est retiré"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    }
+  ],
+  "timestamp": "2026-08-05T00:00:48.180036331Z",
+  "model": "glm-4.5"
+}

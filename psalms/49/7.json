@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Ceux qui se confient en ⟨leur⟩ force et dans ⟨l'⟩abondance de ⟨leurs⟩ richesses se glorifient.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ceux qui se confient"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "⟨leur⟩ force"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "et dans ⟨l'⟩abondance de"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "⟨leurs⟩ richesses"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "se glorifient"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:22.069236209Z",
+  "model": "glm-4.5"
+}

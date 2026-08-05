@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils convoitèrent une convoitise dans le désert, et ils mirent à l'épreuve El dans le désolé.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "Et ils convoitèrent"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "une convoitise"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "et ils mirent à l'épreuve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "dans le désolé"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:10.868835708Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "L'homme avisé voit ⟨le⟩ mal caché, et les simples passèrent et furent punis.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "L'homme avisé"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "voit"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "caché"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "et les simples"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "passèrent"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "et furent punis"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:23.129754766Z",
+  "model": "glm-4.5"
+}

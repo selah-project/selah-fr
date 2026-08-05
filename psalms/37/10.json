@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et encore un peu, et il n'y a ⟨pas⟩ de méchant; tu considéreras son lieu, et il n'y est pas.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Et encore"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "un peu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨pas⟩ de méchant"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "tu considéreras"
+    },
+    {
+      "surface": "על",
+      "gloss": "son"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "et il n'y est pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:31:05.518315249Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 131,
+  "translation": "Israël, espère en YHWH, maintenant et à jamais.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "espère"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et à"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:54:28.698555286Z",
+  "model": "glm-4.5"
+}

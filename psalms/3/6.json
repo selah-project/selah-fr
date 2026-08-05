@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Moi, je me couche et je dors, je m'éveille, car YHWH me soutient.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "je me couche"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "et je dors"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "je m'éveille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "me soutient"
+    }
+  ],
+  "timestamp": "2026-08-05T01:02:24.663401545Z",
+  "model": "glm-4.5"
+}

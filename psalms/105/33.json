@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et il frappa leurs vignes et ⟨leurs⟩ figuiers, et brisa ⟨les⟩ arbres de leur frontière.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Et il frappa"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "leurs vignes"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "et ⟨leurs⟩ figuiers"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "et brisa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "⟨les⟩ arbres"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "de leur frontière"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:30.115663659Z",
+  "model": "glm-4.5"
+}

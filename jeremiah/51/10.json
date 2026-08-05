@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "YHWH a fait sortir ⟨את⟩ nos justices ; venez et racontons-les à Sion ⟨את⟩ l'œuvre de YHWH notre Élohim.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "a fait sortir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nos justices"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "nos justices"
+    },
+    {
+      "surface": "באו",
+      "gloss": "venez"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "et racontons-les"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "à Sion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'œuvre"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'œuvre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    }
+  ],
+  "timestamp": "2026-08-04T23:09:42.137480918Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et Israël vint en Égypte et Jacob résida dans ⟨le⟩ pays de Cham",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Et vint"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "en Égypte"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "et Jacob"
+    },
+    {
+      "surface": "גר",
+      "gloss": "résida"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "חם",
+      "gloss": "de Cham"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:05.192546685Z",
+  "model": "glm-4.5"
+}

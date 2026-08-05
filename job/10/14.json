@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Si j'ai péché, tu me gardes, et de mon iniquité tu ne me disculpes pas.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "j'ai péché"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "tu me gardes"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "et de mon iniquité"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "me disculpes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:34.200051258Z",
+  "model": "glm-4.5"
+}

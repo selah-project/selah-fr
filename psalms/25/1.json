@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "De David. Vers toi, YHWH, mon être, je l'élève.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon être"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "je l'élève"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:20.519558360Z",
+  "model": "glm-4.5"
+}

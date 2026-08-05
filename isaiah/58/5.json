@@ -1,93 +1,93 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 5,
   "ref": "isaiah 58:5",
   "book": "isaiah",
   "lang": "fr",
   "chapter": 58,
-  "translation": "Est-ce là le jeûne que je choisis, un jour où l'humain ⟨כאגמן⟩ tourmente sa nefesh, de courber sa tête comme un roseau, et d'étendre le sac et la cendre ? Est-ce là ce que tu appelleras un jeûne, et un jour agréé ⟨de⟩ YHWH ?",
+  "translation": "Est-ce bien ⟨le⟩ jeûne que je choisis : un jour où l'homme humilie sa nefesh ? Courber sa tête comme un roseau, étendre le sac et la cendre — est-ce cela que tu appelles un jeûne, et un jour de faveur pour YHWH ?",
   "tokens": [
     {
-      "surface": "הכזה",
-      "gloss": "Est-ce là"
+      "surface": "הֲכָזֶה",
+      "gloss": "est-ce ainsi"
     },
     {
-      "surface": "יהיה",
+      "surface": "יִהְיֶה",
       "gloss": "sera"
     },
     {
-      "surface": "צום",
+      "surface": "צוֹם",
       "gloss": "le jeûne"
     },
     {
-      "surface": "אבחרהו",
-      "gloss": "que je choisirai"
+      "surface": "אֶבְחָרֶהוּ",
+      "gloss": "que je choisis"
     },
     {
-      "surface": "יום",
+      "surface": "יוֹם",
       "gloss": "un jour"
     },
     {
-      "surface": "ענות",
-      "gloss": "de tourmenter"
+      "surface": "עַנּוֹת",
+      "gloss": "d'humilier"
     },
     {
-      "surface": "אדם",
-      "gloss": "l'humain"
+      "surface": "אָדָם",
+      "gloss": "l'homme"
     },
     {
-      "surface": "נפשו",
+      "surface": "נַפְשׁוֹ",
       "gloss": "sa nefesh"
     },
     {
-      "surface": "הלכף",
-      "gloss": "de courber"
+      "surface": "הֲלָכֹף",
+      "gloss": "courber"
     },
     {
-      "surface": "כאגמן",
+      "surface": "כְּאַגְמֹן",
       "gloss": "comme un roseau"
     },
     {
-      "surface": "ראשו",
+      "surface": "רֹאשׁוֹ",
       "gloss": "sa tête"
     },
     {
-      "surface": "ושק",
+      "surface": "וְשַׂק",
       "gloss": "et le sac"
     },
     {
-      "surface": "ואפר",
+      "surface": "וָאֵפֶר",
       "gloss": "et la cendre"
     },
     {
-      "surface": "יציע",
-      "gloss": "il étendra"
+      "surface": "יַצִּיעַ",
+      "gloss": "étendre"
     },
     {
-      "surface": "הלזה",
-      "gloss": "Est-ce là"
+      "surface": "הֲלָזֶה",
+      "gloss": "est-ce cela"
     },
     {
-      "surface": "תקרא",
+      "surface": "תִּקְרָא",
       "gloss": "tu appelleras"
     },
     {
-      "surface": "צום",
+      "surface": "צוֹם",
       "gloss": "un jeûne"
     },
     {
-      "surface": "ויום",
+      "surface": "וְיוֹם",
       "gloss": "et un jour"
     },
     {
-      "surface": "רצון",
-      "gloss": "agréé"
+      "surface": "רָצוֹן",
+      "gloss": "de faveur"
     },
     {
-      "surface": "ליהוה",
-      "gloss": "⟨de⟩ YHWH"
+      "surface": "לַיהוָה",
+      "gloss": "pour YHWH"
     }
   ],
-  "timestamp": "2026-08-04T15:51:57.836177065Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:59:50.376185252Z",
+  "model": "glm-5.2"
 }

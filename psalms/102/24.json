@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Il a réduit ma force dans le chemin, il a abrégé mes jours",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "il a réduit"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ma force dans le chemin"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ma force"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "il a abrégé"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mes jours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:25.835888692Z",
+  "model": "glm-4.5"
+}

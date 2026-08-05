@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Elle goûte que ⟨son⟩ commerce est bon, sa lampe ne s'éteint pas la nuit.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "elle goûte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨son⟩ commerce est bon"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "commerce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "s'éteint"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "sa lampe"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:41.142047879Z",
+  "model": "glm-4.5"
+}

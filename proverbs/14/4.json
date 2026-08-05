@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Sans bœufs, la crèche est nette, et ⟨il y a⟩ beaucoup de revenus par la force du bœuf.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Sans"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bœufs"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "la crèche"
+    },
+    {
+      "surface": "בר",
+      "gloss": "est nette"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et ⟨il y a⟩ beaucoup"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "de revenus"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "par la force"
+    },
+    {
+      "surface": "שור",
+      "gloss": "du bœuf"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:45.987035151Z",
+  "model": "glm-4.5"
+}

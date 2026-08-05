@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Sur Élohim est mon salut et ma gloire, le rocher de ma force, mon refuge est en Élohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "est mon salut"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "et ma gloire"
+    },
+    {
+      "surface": "צור",
+      "gloss": "le rocher"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "de ma force"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mon refuge est"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "en Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:40.277479489Z",
+  "model": "glm-4.5"
+}

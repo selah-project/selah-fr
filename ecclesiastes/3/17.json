@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "J'ai dit en mon cœur : Élohim jugera ⟨את⟩ le juste et ⟨את⟩ le méchant, car il y a un temps là pour tout désir et pour tout acte.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "J'ai dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "en mon cœur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le juste"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le méchant"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "jugera"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour tout"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "désir"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et pour"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "acte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:50.582314766Z",
+  "model": "glm-4.5"
+}

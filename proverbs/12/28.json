@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Dans ⟨la⟩ voie de ⟨la⟩ justice ⟨il y a⟩ la vie, et ⟨dans⟩ la sente ⟨de celle-ci⟩, point de mort.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "Dans ⟨la⟩ voie"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "de ⟨la⟩ justice"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "⟨il y a⟩ la vie"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "et ⟨dans⟩"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "la sente ⟨de celle-ci⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "point"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:29.204811958Z",
+  "model": "glm-4.5"
+}

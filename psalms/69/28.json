@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Ajoute faute à leur faute et qu'ils n'entrent pas dans ta justice",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "עון",
+      "gloss": "faute"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "leur faute"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et qu'ils"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "n'entrent pas"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dans ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:54.029023443Z",
+  "model": "glm-4.5"
+}

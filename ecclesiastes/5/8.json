@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et l'avantage d'un pays en tout, ⟨il est⟩ roi pour le champ qu'on sert",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "et l'avantage"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "d'un pays"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en tout"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨il est⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "pour le champ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "qu'on sert"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:15.444574604Z",
+  "model": "glm-4.5"
+}

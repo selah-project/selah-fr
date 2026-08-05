@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Si tu as couru avec des fantassins et qu'ils t'ont fatigué, comment contendras-tu avec ⟨את⟩ les chevaux ? Et si tu te confies dans un pays de shalom, comment feras-tu dans ⟨את⟩ l'orgueil du Jourdain ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fantassins"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "fantassins"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "tu as couru"
+    },
+    {
+      "surface": "וילאוך",
+      "gloss": "et ils t'ont fatigué"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "et comment"
+    },
+    {
+      "surface": "תתחרה",
+      "gloss": "contendras-tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les chevaux"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "les chevaux"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "et dans un pays"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de shalom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "te confies"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "et comment"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "feras-tu"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "dans l'orgueil"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "du Jourdain"
+    }
+  ],
+  "timestamp": "2026-08-04T16:18:35.960917187Z",
+  "model": "glm-4.5"
+}

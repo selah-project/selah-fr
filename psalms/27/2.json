@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Quand ⟨des⟩ malfaiteurs s'approchent de moi pour dévorer ⟨את⟩ ma chair, mes oppresseurs et mes ennemis ⟨sont⟩ à moi, ils ont trébuché et sont tombés.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Quand... s'approchent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "malfaiteurs"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pour dévorer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma chair"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ma chair"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mes oppresseurs"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "et mes ennemis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ont trébuché"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "et sont tombés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:37.045797427Z",
+  "model": "glm-4.5"
+}

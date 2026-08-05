@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Tu ne craindras pas ⟨la⟩ terreur de la nuit, ni ⟨la⟩ flèche qui vole le jour,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "craindras"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "⟨la⟩ terreur"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "de la nuit"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ni ⟨la⟩ flèche"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "qui vole"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:09.516916355Z",
+  "model": "glm-4.5"
+}

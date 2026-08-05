@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 149,
+  "translation": "Ils louent son nom ⟨avec⟩ la danse ⟨avec⟩ le tambourin et la harpe ils jouent pour lui",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ils louent"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "⟨avec⟩ la danse"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "⟨avec⟩ le tambourin"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "et la harpe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ils jouent"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:48.267454538Z",
+  "model": "glm-4.5"
+}

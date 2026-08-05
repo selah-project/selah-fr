@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Car ⟨je⟩ connais mes transgressions, et mon péché ⟨est⟩ continuellement devant moi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mes transgressions"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "connais"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "et mon péché"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:36.553303417Z",
+  "model": "glm-4.5"
+}

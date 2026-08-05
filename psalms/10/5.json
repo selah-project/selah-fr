@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Ses chemins ⟨font⟩ tourment en tout temps, ⟨haut⟩ ⟨sont⟩ tes jugements de devant lui, tous ses adversaires il souffle sur eux.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "tourment"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ses chemins"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "temps"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨haut⟩"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "de devant lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "ses adversaires"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "il souffle"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sur eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:27.149828657Z",
+  "model": "glm-4.5"
+}

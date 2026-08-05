@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Nus ils passent la nuit sans vêtement et ⟨il n'y a⟩ pas de couverture contre le froid",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Nus"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ils passent la nuit"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "vêtement"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il n'y a⟩ pas"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "de couverture"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "contre le froid"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:28.552790607Z",
+  "model": "glm-4.5"
+}

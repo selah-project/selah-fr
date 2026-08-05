@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Je vous adjure, filles de Jérusalem : ne réveillez pas, ne provoquez pas l'amour jusqu'à ce qu'il le veuille.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Je vous adjure"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filles"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "réveillez pas"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "provoquez pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨l'⟩",
+      "marks": "amour"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "amour"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "il le veuille"
+    }
+  ],
+  "timestamp": "2026-08-05T04:22:47.705578723Z",
+  "model": "glm-4.5"
+}

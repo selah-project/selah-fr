@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et ils partirent de la montagne de Hor par la route de la mer des Joncs, pour contourner ⟨la⟩ terre d'Édom, et l'âme du peuple fut impatiente sur la route.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Et ils partirent"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "de"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "la montagne"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "par la route"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de la mer"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "des Joncs"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "pour contourner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "d'Édom"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "et l'âme... fut impatiente"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "l'âme"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur la route"
+    }
+  ],
+  "timestamp": "2026-08-04T21:45:17.321678382Z",
+  "model": "glm-4.5"
+}

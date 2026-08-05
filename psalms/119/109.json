@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ma nefesh ⟨est⟩ continuellement dans ma main, et ta Torah je ne l'ai ⟨pas⟩ oubliée.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Ma nefesh"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "dans ma main"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "et ta Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "je l'ai oubliée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:03.467989387Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Il les fait bondir comme un veau, le Liban et Sirion comme un jeune buffle",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Il les fait bondir"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "un veau"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "le Liban"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "et Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un jeune"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "buffle"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:59.661530617Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Plus désirables ⟨que⟩ l'or, et beaucoup ⟨que⟩ l'or fin ; et plus doux ⟨que⟩ le miel, et le ruissellement des rayons de miel.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "Plus désirables"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "⟨que⟩ l'or"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "et beaucoup ⟨que⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "l'or fin"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "et plus doux ⟨que⟩"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "le miel"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "et le ruissellement"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "des rayons de miel"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:06.279504180Z",
+  "model": "glm-4.5"
+}

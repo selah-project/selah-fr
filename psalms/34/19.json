@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "YHWH est proche des brisés de cœur, et il sauve ⟨את⟩ les écrasés de souffle.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "est proche"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "des brisés"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les écrasés de souffle"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "les écrasés"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de souffle"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "il sauve"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:16.050773254Z",
+  "model": "glm-4.5"
+}

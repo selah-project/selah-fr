@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Il n'a pas fait ainsi pour toute nation, et ⟨des⟩ jugements, ils ne les connaissent pas. Louez Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Il n'a pas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fait"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour toute"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nation"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "et ⟨des⟩ jugements"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ils ne ... pas"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "connaissent ⟨les⟩"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:22.679447256Z",
+  "model": "glm-4.5"
+}

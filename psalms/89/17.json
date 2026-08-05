@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "En ton nom ils se réjouissent tout le jour, et dans ta justice ils sont exaltés",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "En ton nom"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "ils se réjouissent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "et dans ta justice"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ils sont exaltés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:21.390988381Z",
+  "model": "glm-4.5"
+}

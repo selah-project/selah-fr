@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Un roi par le jugement affermit ⟨le⟩ pays, et un homme de présents le renverse.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Un roi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "par le jugement"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "affermis ⟨le⟩ pays"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨le⟩ pays"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et un homme"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "de présents"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "le renverse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:24.086692807Z",
+  "model": "glm-4.5"
+}

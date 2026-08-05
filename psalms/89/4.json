@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "J'ai ⟨fait⟩ une alliance avec mon élu ; j'ai ⟨fait⟩ serment à David mon serviteur",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "J'ai ⟨fait⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "une alliance"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "avec mon élu"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "j'ai ⟨fait⟩ serment"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "à David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mon serviteur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:15.349376013Z",
+  "model": "glm-4.5"
+}

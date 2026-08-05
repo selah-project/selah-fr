@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Sois attentif à la voix de ⟨mon⟩ cri, mon Roi et mon Elohim, car c'est vers toi que je prie.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Sois attentif"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "à la voix"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "de ⟨mon⟩ cri"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mon Roi"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "et mon Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "que je prie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:46.454829691Z",
+  "model": "glm-4.5"
+}

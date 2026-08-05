@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et s'il est trouvé, il restituera sept fois, il donnera tout ⟨le⟩ avoir de sa maison.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "Et s'il est trouvé"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il restituera"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sept fois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout le avoir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הון",
+      "gloss": "⟨le⟩ avoir"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "de sa maison"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "il donnera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:21.330917445Z",
+  "model": "glm-4.5"
+}

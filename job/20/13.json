@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 20:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "il en a pitié et ne ⟨la⟩ laisse pas et il la retient au milieu de son palais",
+  "tokens": [
+    {
+      "surface": "יחמל",
+      "gloss": "il en a pitié"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sur elle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יעזבנה",
+      "gloss": "⟨la⟩ laisse pas"
+    },
+    {
+      "surface": "וימנענה",
+      "gloss": "il la retient"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "son palais"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:38.250241890Z",
+  "model": "glm-4.5"
+}

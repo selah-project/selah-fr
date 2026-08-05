@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "C'est pourquoi les méchants ne ⟨se⟩ lèveront pas dans le jugement, ni les pécheurs dans l'assemblée des justes.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "⟨se⟩ lèveront"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "dans le jugement"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ni les pécheurs"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "dans l'assemblée"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    }
+  ],
+  "timestamp": "2026-08-05T01:00:06.795150408Z",
+  "model": "glm-4.5"
+}

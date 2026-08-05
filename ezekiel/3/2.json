@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et j'ouvris ⟨את⟩ ma bouche, et Il me fit manger ⟨את⟩ ce rouleau-là.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Et j'ouvris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma bouche"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ma bouche"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "et Il me fit manger"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce rouleau-là"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "le rouleau"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "celle-ci"
+    }
+  ],
+  "timestamp": "2026-08-04T23:13:38.853640605Z",
+  "model": "glm-4.5"
+}

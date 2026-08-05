@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et ⟨il⟩ a fait pleuvoir sur eux la manne à manger, et le blé des cieux ⟨il⟩ a donné pour eux",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Et ⟨il⟩ a fait pleuvoir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "מן",
+      "gloss": "la manne"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "à manger"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "et le blé"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨il⟩ a donné"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:54.939713559Z",
+  "model": "glm-4.5"
+}

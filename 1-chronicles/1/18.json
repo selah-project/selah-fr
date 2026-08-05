@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Arpakshad engendra ⟨את⟩ Shelah, et Shelah engendra ⟨את⟩ Éver.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Et Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "et Shelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Éver"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Éver"
+    }
+  ],
+  "timestamp": "2026-08-05T05:44:27.302464781Z",
+  "model": "glm-5.2"
+}

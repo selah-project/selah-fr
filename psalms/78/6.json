@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Afin qu'ils sachent, la génération à venir, les fils qui naîtront, qu'ils se lèvent et ⟨les⟩ racontent à leurs fils",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Afin qu'"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ils sachent"
+    },
+    {
+      "surface": "דור",
+      "gloss": "la génération"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "à venir"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "qui naîtront"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "qu'ils se lèvent"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "et ⟨les⟩ racontent"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "à leurs fils"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:15.574125987Z",
+  "model": "glm-4.5"
+}

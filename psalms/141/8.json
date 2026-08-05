@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Car vers toi, YHWH Adonaï, ⟨sont⟩ mes yeux, en toi j'ai cherché refuge, ne laisse pas ⟨dépourvue⟩ mon âme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "j'ai cherché refuge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תער",
+      "gloss": "laisse dépourvue"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:48.832889367Z",
+  "model": "glm-4.5"
+}

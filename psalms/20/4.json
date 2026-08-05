@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Qu’il se souvienne de toutes tes offrandes, et qu’il rende gras ton ola, Séla.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "qu’il se souvienne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "tes offrandes"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "et qu’il rende gras ton ola"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "qu’il rende gras"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:41.680618978Z",
+  "model": "glm-4.5"
+}

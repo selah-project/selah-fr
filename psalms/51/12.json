@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Crée en moi un cœur pur, ô Élohim, et renouvelle un esprit droit dans mes entrailles.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "un cœur"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "crée"
+    },
+    {
+      "surface": "לי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "et un esprit"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "droit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "renouvelle"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "dans mes entrailles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:35.317948710Z",
+  "model": "glm-4.5"
+}

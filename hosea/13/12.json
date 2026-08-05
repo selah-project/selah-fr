@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "L'iniquité d'Éphraïm est liée, son péché est mis en réserve.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "est liée"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "d'Éphraïm"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "est mise en réserve"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "son péché"
+    }
+  ],
+  "timestamp": "2026-08-05T00:08:40.407465494Z",
+  "model": "glm-4.5"
+}

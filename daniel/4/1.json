@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Moi, Neboukadnetsar, je ⟨étais⟩ tranquille dans ma maison et prospère dans mon palais.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Neboukadnetsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "tranquille"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "j'étais"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "dans ma maison"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "et prospère"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "dans mon palais"
+    }
+  ],
+  "timestamp": "2026-08-05T05:09:50.091085686Z",
+  "model": "glm-4.5"
+}

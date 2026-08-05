@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Si j'avais appelé et il m'avait répondu, je ne croirais pas ⟨qu'il⟩ écoute ma voix.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "j'avais appelé"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "et il m'avait répondu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "croirais pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨qu'il⟩"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:38.945810337Z",
+  "model": "glm-4.5"
+}

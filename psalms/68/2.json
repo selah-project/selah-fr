@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Qu'Élohim se lève, que ses ennemis soient dispersés, et que ceux qui le haïssent fuient devant sa face",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Qu'Élohim se lève"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "que ses ennemis soient dispersés"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ses ennemis"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "et que ceux qui le haïssent fuient"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ceux qui le haïssent"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devant sa face"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:10.274504396Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Il répand ⟨le⟩ mépris sur ⟨les⟩ nobles, et les fait errer ⟨dans⟩ le vide où il n'y a ⟨pas⟩ de chemin.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Il répand"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "⟨le⟩ mépris"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "⟨les⟩ nobles"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "et les fait errer"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "⟨dans⟩ le vide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "où il n'y a ⟨pas⟩"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "de chemin"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:52.122382686Z",
+  "model": "glm-4.5"
+}

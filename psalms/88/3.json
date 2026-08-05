@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Qu'elle vienne devant toi ma prière, tends ton oreille vers mon cri.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Qu'elle vienne"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma prière"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tends"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "vers mon cri"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:13.758128527Z",
+  "model": "glm-4.5"
+}

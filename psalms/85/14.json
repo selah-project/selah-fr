@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "La justice marchera devant sa face et il placera pour chemin ses pas",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "La justice"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant sa face"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "marchera"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "et il placera"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "pour chemin"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ses pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:57.528725688Z",
+  "model": "glm-4.5"
+}

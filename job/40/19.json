@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 40:19",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Il est ⟨le⟩ premier ⟨des⟩ voies d'El, son Faiseur fait approcher son épée.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Il est"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "⟨le⟩ premier"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "⟨des⟩ voies"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "son Faiseur"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "fait approcher"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "son épée"
+    }
+  ],
+  "timestamp": "2026-08-05T04:15:12.254048312Z",
+  "model": "glm-4.5"
+}

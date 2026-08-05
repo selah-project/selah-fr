@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Comme j'ai vu, ceux qui labourent l'iniquité, et qui sèment la misère, la moissonnent.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Comme"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "ceux qui labourent"
+    },
+    {
+      "surface": "און",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "et qui sèment"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "la misère"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "la moissonnent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:22.879752520Z",
+  "model": "glm-4.5"
+}

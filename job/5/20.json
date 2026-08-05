@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Dans la famine, il te rachète de la mort, et dans la guerre, des mains de l'épée",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Dans la famine"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "il te rachète"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la mort"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "et dans la guerre"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "des mains"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "de l'épée"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:59.555171794Z",
+  "model": "glm-4.5"
+}

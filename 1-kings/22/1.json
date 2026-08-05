@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et ils restèrent tranquilles trois ans, ⟨il n'y avait⟩ pas de guerre entre Aram et entre Israël",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Et ils restèrent tranquilles"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trois"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ans"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨il n'y avait⟩"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "guerre"
+    },
+    {
+      "surface": "בין",
+      "gloss": "entre"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T22:18:30.998678462Z",
+  "model": "glm-4.5"
+}

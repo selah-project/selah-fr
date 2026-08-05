@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "La violence des méchants ⟨les⟩ entraîne, car ils ont refusé de faire le droit.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "La violence"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "entraîne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ils ont refusé"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le droit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:14.471482432Z",
+  "model": "glm-4.5"
+}

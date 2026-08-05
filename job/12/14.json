@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Voici, il renverse et ⟨il ne⟩ ⟨est⟩ pas rebâti, il enferme sur un homme et ⟨il ne⟩ ⟨n'⟩est pas ouvert.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "il renverse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨il ne⟩"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "⟨est⟩ pas rebâti"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "il enferme"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨il ne⟩ ⟨n'⟩"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "est pas ouvert"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:08.681005494Z",
+  "model": "glm-4.5"
+}

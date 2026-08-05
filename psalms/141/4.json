@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "N'incline pas mon cœur vers une parole mauvaise, pour commettre des méfaits avec les hommes auteurs d'iniquité, et que je ne mange pas de leurs délices.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "N'"
+    },
+    {
+      "surface": "תט",
+      "gloss": "incline pas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "vers une parole"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvaise"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "pour commettre"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "des méfaits"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "avec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les hommes"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "auteurs"
+    },
+    {
+      "surface": "און",
+      "gloss": "d'iniquité"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "et que je ne"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "mange pas"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "de leurs délices"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:54.337542998Z",
+  "model": "glm-4.5"
+}

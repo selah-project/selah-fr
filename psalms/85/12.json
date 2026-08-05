@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "La vérité germera de la terre, et la justice regardera depuis les cieux.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "La vérité"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "germera"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "et la justice"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "depuis les cieux"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "regardera"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:18.729674660Z",
+  "model": "glm-4.5"
+}

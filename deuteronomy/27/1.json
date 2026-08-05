@@ -1,79 +1,80 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 1,
   "ref": "deuteronomy 27:1",
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 27,
-  "translation": "Et Mosheh et les anciens d'Israël commandèrent ⟨את⟩ le peuple disant : Gardez ⟨את⟩ toute ⟨הַמִּצְוָה⟩ que moi je vous commande ⟨את⟩ le jour.",
+  "translation": "Et Mosheh commanda, et les anciens d'Israël, ⟨את⟩ le peuple, en disant : Garde ⟨את⟩ tout le commandement que moi je t'ordonne ⟨את⟩ aujourd'hui.",
   "tokens": [
     {
-      "surface": "ויצו",
-      "gloss": "et ils commandèrent"
+      "surface": "וַיְצַ֤ו",
+      "gloss": "Et commanda"
     },
     {
-      "surface": "משה",
+      "surface": "מֹשֶׁה֙",
       "gloss": "Mosheh"
     },
     {
-      "surface": "וזקני",
-      "gloss": "et les anciens"
+      "surface": "וְזִקְנֵ֣י",
+      "gloss": "et les anciens de"
     },
     {
-      "surface": "ישראל",
-      "gloss": "d'Israël"
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Israël"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "⟨את⟩ le peuple"
+      "marks": "le peuple"
     },
     {
-      "surface": "העם",
+      "surface": "הָעָ֖ם",
       "gloss": "le peuple"
     },
     {
-      "surface": "לאמר",
-      "gloss": "disant"
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "en disant"
     },
     {
-      "surface": "שמר",
-      "gloss": "Gardez"
+      "surface": "שָׁמֹר֙",
+      "gloss": "Garde"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "⟨את⟩ toute la mitsvah"
+      "marks": "tout le commandement"
     },
     {
-      "surface": "כל",
-      "gloss": "toute"
+      "surface": "כָּל",
+      "gloss": "tout"
     },
     {
-      "surface": "המצוה",
-      "gloss": "mitsvah"
+      "surface": "הַמִּצְוָ֔ה",
+      "gloss": "le commandement"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֧ר",
       "gloss": "que"
     },
     {
-      "surface": "אנכי",
+      "surface": "אָנֹכִ֛י",
       "gloss": "moi"
     },
     {
-      "surface": "מצוה",
-      "gloss": "je commande"
+      "surface": "מְצַוֶּ֥ה",
+      "gloss": "j'ordonne"
     },
     {
-      "surface": "אתכם",
-      "gloss": "vous"
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "aujourd'hui (vers vous)"
     },
     {
-      "surface": "היום",
-      "gloss": "le jour"
+      "surface": "הַיּֽוֹם",
+      "gloss": "aujourd'hui"
     }
   ],
-  "timestamp": "2026-08-04T10:36:08.259173773Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:48:56.142343171Z",
+  "model": "glm-5.2"
 }

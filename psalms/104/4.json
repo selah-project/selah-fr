@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Faisant de ses messagers des vents, de ses ministres un feu dévorant.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Faisant"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "de ses messagers"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "des vents"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "de ses ministres"
+    },
+    {
+      "surface": "אש",
+      "gloss": "un feu"
+    },
+    {
+      "surface": "להט",
+      "gloss": "dévorant"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:20.693962878Z",
+  "model": "glm-4.5"
+}

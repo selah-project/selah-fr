@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Les hommes de sang haïssent l'intégrité, et les droits cherchent sa nefesh.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "haïssent"
+    },
+    {
+      "surface": "תם",
+      "gloss": "l'intégrité"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "et les droits"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "cherchent"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:25.358430634Z",
+  "model": "glm-4.5"
+}

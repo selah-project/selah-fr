@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Agreés, YHWH, de me délivrer, YHWH, viens à mon secours, hâte-toi",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Agreés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "de me délivrer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "à mon secours"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hâte-toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:46.474327432Z",
+  "model": "glm-4.5"
+}

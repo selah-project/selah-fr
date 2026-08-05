@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Offrez des sacrifices de justice, et confiez-vous en YHWH.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Offrez des sacrifices"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "de"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "et confiez-vous"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:05.895696381Z",
+  "model": "glm-4.5"
+}

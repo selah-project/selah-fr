@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "De tes jugements je n'ai pas dévié car tu m'as instruit.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "De tes jugements"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'ai pas"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "dévié"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "m'as instruit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:52.282232734Z",
+  "model": "glm-4.5"
+}

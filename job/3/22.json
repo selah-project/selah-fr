@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Qui ⟨sont⟩ joyeux jusqu'à l'allégresse, ⟨ils⟩ exultent quand ils trouvent ⟨un⟩ sépulcre",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "Qui ⟨sont⟩ joyeux"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "l'allégresse"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "⟨ils⟩ exultent"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ils trouvent"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "⟨un⟩ sépulcre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:27.246849456Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et ils abandonnèrent là ⟨את⟩ leurs dieux, et David dit ⟨un ordre⟩, et on les brûla au feu.",
+  "tokens": [
+    {
+      "surface": "וַיַּעַזְבוּ",
+      "gloss": "Et ils abandonnèrent"
+    },
+    {
+      "surface": "שָׁ֖ם",
+      "gloss": "là"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs dieux"
+    },
+    {
+      "surface": "אֱלֹֽהֵיהֶ֑ם",
+      "gloss": "leurs dieux"
+    },
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "דָּוִ֔יד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וַיִּשָּׂרְפ֖וּ",
+      "gloss": "et on les brûla"
+    },
+    {
+      "surface": "בָּאֵֽשׁ",
+      "gloss": "au feu"
+    }
+  ],
+  "timestamp": "2026-08-05T05:51:12.785875077Z",
+  "model": "glm-5.2"
+}

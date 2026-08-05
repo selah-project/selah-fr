@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "jeremiah 51:21",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Et je briserai avec toi ⟨את⟩ cheval et son cavalier ; et je briserai avec toi ⟨את⟩ char et son cavalier",
+  "tokens": [
+    {
+      "surface": "ונפצתי",
+      "gloss": "Et je briserai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "⟨את⟩ cheval",
+      "marks": "cheval"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "et son cavalier"
+    },
+    {
+      "surface": "ונפצתי",
+      "gloss": "et je briserai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "⟨את⟩ char",
+      "marks": "char"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "et son cavalier"
+    }
+  ],
+  "timestamp": "2026-08-04T23:09:48.657746266Z",
+  "model": "glm-4.5"
+}

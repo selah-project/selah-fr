@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Qui entends ⟨la⟩ prière, vers toi viendra toute chair.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Qui entends"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "⟨la⟩ prière"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "viendra"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:35.664109005Z",
+  "model": "glm-4.5"
+}

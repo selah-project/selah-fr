@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 30:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "de peur que je sois rassasié et que je renie, et que je dise : « Qui ⟨est⟩ YHWH ? » et de peur que je sois appauvri et que je vole, et que je saisisse ⟨le⟩ nom de mon Élohim.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "je sois rassasié"
+    },
+    {
+      "surface": "וכחשתי",
+      "gloss": "et que je renie"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "et que je dise"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "et de peur que"
+    },
+    {
+      "surface": "אורש",
+      "gloss": "je sois appauvri"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "et que je vole"
+    },
+    {
+      "surface": "ותפשתי",
+      "gloss": "et que je saisisse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨le⟩ nom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "de mon Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:16.369639211Z",
+  "model": "glm-4.5"
+}

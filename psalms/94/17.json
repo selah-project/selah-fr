@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Si ce n'est YHWH ⟨qui est⟩ mon aide, bientôt ⟨aurait⟩ demeuré dans le silence ma nefesh.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Si ce n'est"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "mon aide"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bientôt"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "⟨aurait⟩ demeuré"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "dans le silence"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:34.877854905Z",
+  "model": "glm-4.5"
+}

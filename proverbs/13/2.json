@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Du fruit de la bouche d'un homme il mangera ⟨du⟩ bien, et l'âme des traîtres ⟨mangera⟩ ⟨la⟩ violence.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Du fruit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de la bouche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "il mangera"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨du⟩ bien"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "et l'âme"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "des traîtres"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "⟨mangera⟩ ⟨la⟩ violence"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:08.396867192Z",
+  "model": "glm-4.5"
+}

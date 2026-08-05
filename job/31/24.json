@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "job 31:24",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Si j'ai fait de l'or ⟨mon⟩ assurance, et si j'ai dit au métal pur : « Tu es ⟨mon⟩ espoir »",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "j'ai fait"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "de l'or"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "⟨mon⟩ assurance",
+      "marks": "mon assurance"
+    },
+    {
+      "surface": "ולכתם",
+      "gloss": "et [dis] au métal pur"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "« Tu es ⟨mon⟩ espoir »",
+      "marks": "Tu es mon espoir"
+    }
+  ],
+  "timestamp": "2026-08-05T04:07:03.091669235Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Le cœur des sages est dans la maison de deuil, mais le cœur des sots est dans la maison de joie.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Le cœur"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "des sages"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "est dans la maison"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "de deuil"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mais le cœur"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des sots"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "est dans la maison"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "de joie"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:43.330466866Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Mon Élohim, sur moi ma nefesh est abattue ; sur ⟨cela⟩, je me souviens de toi depuis ⟨le⟩ pays du Jourdain et ⟨les⟩ Hermons, depuis ⟨le⟩ mont Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mon Élohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "est abattue"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨cela⟩"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "je me souviens de toi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "depuis ⟨le⟩ pays"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "du Jourdain"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "et ⟨les⟩ Hermons"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "depuis ⟨le⟩ mont"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:15.806118535Z",
+  "model": "glm-4.5"
+}

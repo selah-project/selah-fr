@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Chantez-lui, psalmodiez-lui, méditez sur toutes ⟨ses⟩ merveilles",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Chantez-lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "psalmodiez-lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "méditez"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sur toutes"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "⟨ses⟩ merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:32.632718922Z",
+  "model": "glm-4.5"
+}

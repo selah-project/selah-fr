@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Élohim a parlé dans sa sainteté j'exulterai je partagerai Sichem et je mesurerai la vallée de Succoth",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "dans sa sainteté"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "j'exulterai"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "je partagerai"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sichem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "et la vallée"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "de Succoth"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "je mesurerai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:57.716640519Z",
+  "model": "glm-4.5"
+}

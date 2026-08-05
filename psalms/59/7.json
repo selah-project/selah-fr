@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Ils reviennent ⟨le⟩ soir, ils hurlent comme un chien et font le tour de la ville.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Ils reviennent"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "⟨le⟩ soir"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ils hurlent"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "comme un chien"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "et font le tour"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de la ville"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:24.520679491Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Et Moab est détruit de ⟨parmi⟩ le peuple car contre YHWH il s'est magnifié",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "Et est détruit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "il s'est magnifié"
+    }
+  ],
+  "timestamp": "2026-08-04T23:04:36.866671803Z",
+  "model": "glm-4.5"
+}

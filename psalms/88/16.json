@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Moi, ⟨je suis⟩ affligé et près de mourir depuis ⟨ma⟩ jeunesse ; je porte tes terreurs, ⟨je suis⟩ au désespoir.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "affligé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "et près de mourir"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "depuis ⟨ma⟩ jeunesse"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "je porte"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "tes terreurs"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "⟨je suis⟩ au désespoir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:32.281402940Z",
+  "model": "glm-4.5"
+}

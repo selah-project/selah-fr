@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Heureux ⟨celui⟩ qui agit avec intelligence envers le faible, au jour du malheur, YHWH le délivrera.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨celui⟩ qui agit avec intelligence"
+    },
+    {
+      "surface": "אל",
+      "gloss": "envers"
+    },
+    {
+      "surface": "דל",
+      "gloss": "le faible"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "du malheur"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "YHWH le délivrera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:22.896248916Z",
+  "model": "glm-4.5"
+}

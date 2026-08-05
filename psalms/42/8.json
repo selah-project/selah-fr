@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "L'abîme appelle l'abîme, au bruit de tes canaux ; toutes tes lames et tes vagues ont passé sur moi.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "L'abîme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "appelle"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "l'abîme"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "au bruit"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "de tes canaux"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tes lames"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "et tes vagues"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ont passé"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ont passé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:15.806249942Z",
+  "model": "glm-4.5"
+}

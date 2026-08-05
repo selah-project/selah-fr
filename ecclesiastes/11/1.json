@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Envoie ton pain sur la face des eaux, car dans le ⟨multitude⟩ des jours tu le trouveras",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Envoie"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ton pain"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la face"
+    },
+    {
+      "surface": "המים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dans la ⟨multitude⟩"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "tu le trouveras"
+    }
+  ],
+  "timestamp": "2026-08-05T04:48:48.747427044Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Le labeur des sots le fatigue, ⟨lui⟩ qui ne sait pas aller ⟨à⟩ la ville.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Le labeur"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "des sots"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "le fatigue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨lui⟩ qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aller"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:15.743467246Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Un homme de langue ne s'affermit pas dans ⟨le⟩ pays, un homme de violence, le mal le chasse à la ruine.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "de langue"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "s'affermit pas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨le⟩ pays"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violence"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "le chasse"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "à la ruine"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:09.975742014Z",
+  "model": "glm-4.5"
+}

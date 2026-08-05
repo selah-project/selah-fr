@@ -1,69 +1,69 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "exodus 34:2",
   "book": "exodus",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Sois prêt ⟨le⟩ matin et monte ⟨le⟩ matin vers ⟨ה⟩ mont Sinaï et tiens-toi là devant moi sur ⟨le⟩ sommet de ⟨ה⟩ montagne",
+  "translation": "Et sois prêt pour le matin, et tu monteras au matin vers la montagne de Sinaï, et tu te tiendras là devant moi sur la tête de la montagne.",
   "tokens": [
     {
-      "surface": "והיה",
-      "gloss": "Sois"
+      "surface": "וֶהְיֵה",
+      "gloss": "et sois"
     },
     {
-      "surface": "נכון",
+      "surface": "נָכוֹן",
       "gloss": "prêt"
     },
     {
-      "surface": "לבקר",
-      "gloss": "⟨le⟩ matin"
+      "surface": "לַבֹּקֶר",
+      "gloss": "pour le matin"
     },
     {
-      "surface": "ועלית",
-      "gloss": "et monte"
+      "surface": "וְעָלִיתָ",
+      "gloss": "et tu monteras"
     },
     {
-      "surface": "בבקר",
-      "gloss": "⟨le⟩ matin"
+      "surface": "בַבֹּקֶר",
+      "gloss": "au matin"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "vers"
     },
     {
-      "surface": "הר",
-      "gloss": "⟨ה⟩ mont"
+      "surface": "הַר",
+      "gloss": "la montagne"
     },
     {
-      "surface": "סיני",
-      "gloss": "Sinaï"
+      "surface": "סִינַי",
+      "gloss": "de Sinaï"
     },
     {
-      "surface": "ונצבת",
-      "gloss": "et tiens-toi"
+      "surface": "וְנִצַּבְתָּ",
+      "gloss": "et tu te tiendras"
     },
     {
-      "surface": "לי",
+      "surface": "לִי",
       "gloss": "devant moi"
     },
     {
-      "surface": "שם",
+      "surface": "שָׁם",
       "gloss": "là"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "sur"
     },
     {
-      "surface": "ראש",
-      "gloss": "⟨le⟩ sommet"
+      "surface": "רֹאשׁ",
+      "gloss": "la tête"
     },
     {
-      "surface": "ההר",
-      "gloss": "de ⟨ה⟩ montagne"
+      "surface": "הָהָר",
+      "gloss": "de la montagne"
     }
   ],
-  "timestamp": "2026-08-04T07:09:02.697051410Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:44:46.976731137Z",
+  "model": "glm-5.2"
 }

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Au chef de chœur. Ne détruis pas. De David. Miktam. Lorsque Shaul envoya ⟨et⟩ ils gardèrent ⟨את⟩ la maison pour le tuer.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chœur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "détruis pas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "Lorsque Shaul envoya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": ""
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "⟨et⟩ ils gardèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "pour le tuer"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:18.227737549Z",
+  "model": "glm-4.5"
+}

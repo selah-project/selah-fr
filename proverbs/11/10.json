@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Dans le bien des justes, ⟨la⟩ ville exulte, et dans la perdition des méchants, un cri de joie.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "Dans le bien"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "⟨la⟩ ville exulte"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ville"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "et dans la perdition"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "un cri de joie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:17.300431450Z",
+  "model": "glm-4.5"
+}

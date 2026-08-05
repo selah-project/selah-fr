@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Déverse sur eux ta fureur et que l'ardeur de ta colère les atteigne",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "déverse"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ta fureur"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "et l'ardeur"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "de ta colère"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "les atteigne"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:54.028500058Z",
+  "model": "glm-4.5"
+}

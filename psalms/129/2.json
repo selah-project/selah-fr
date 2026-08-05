@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 129,
+  "translation": "Maintes fois ils m'ont serré depuis ma jeunesse, mais ils n'ont pas pu ⟨contre⟩ moi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Maintes fois"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ils m'ont serré"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "depuis ma jeunesse"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'ont"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "pas pu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨contre⟩ moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:43.730709Z",
+  "model": "glm-4.5"
+}

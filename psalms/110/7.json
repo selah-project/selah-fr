@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 110,
+  "translation": "Il boit du ruisseau dans le chemin; c'est pourquoi il lève la tête.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "du ruisseau"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans le chemin"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "il boit"
+    },
+    {
+      "surface": "על",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ירים",
+      "gloss": "il lève"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    }
+  ],
+  "timestamp": "2026-08-05T02:35:18.356368332Z",
+  "model": "glm-4.5"
+}

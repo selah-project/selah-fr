@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Ton trône, ô Élohim, est pour toujours et à perpétuité, le sceptre de droiture, le sceptre de ta royauté.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "ton trône"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "est pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et à perpétuité"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "le sceptre"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "de droiture"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "le sceptre"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "de ta royauté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:39.710705555Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Élohim, dans ses palais, s'est fait connaître comme une forteresse.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": ", dans ses palais"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "s'est fait connaître"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "comme une forteresse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:33.141745126Z",
+  "model": "glm-4.5"
+}

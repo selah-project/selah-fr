@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Il a racheté en paix ma nefesh de ⟨la⟩ guerre ⟨qui était⟩ contre moi, car ils étaient nombreux avec moi.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Il a racheté"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "en paix"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "de"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "ils étaient nombreux"
+    },
+    {
+      "surface": "היו",
+      "gloss": "étaient"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:24.259509873Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Plantés ⟨dans⟩ la maison de YHWH, dans les parvis de notre Élohim ils fleuriront.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Plantés"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨dans⟩ la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "dans les parvis"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ils fleuriront"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:07.042661219Z",
+  "model": "glm-4.5"
+}

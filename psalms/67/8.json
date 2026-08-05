@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 67,
+  "translation": "Élohim nous bénira, et toutes les extrémités de la terre le craindront.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "nous bénira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "et craindront"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "les extrémités"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:55:15.023726003Z",
+  "model": "glm-4.5"
+}

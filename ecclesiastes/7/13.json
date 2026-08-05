@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Regarde ⟨את⟩ l'œuvre d'Élohim, car qui peut redresser ⟨את⟩ ce qu'il a tordu ?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'œuvre"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'œuvre"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "peut"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "redresser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qu'il a tordu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "il a tordu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:46.534561386Z",
+  "model": "glm-4.5"
+}

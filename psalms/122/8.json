@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 122,
+  "translation": "À cause de mes frères et de mes compagnons, je dirai donc : 'Shalom ⟨en⟩ toi'.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mes frères"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "et de mes compagnons"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "je dirai donc"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "שלום",
+      "gloss": "'Shalom'"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨en⟩ toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:41.638605466Z",
+  "model": "glm-4.5"
+}

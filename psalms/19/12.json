@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Même ton serviteur ⟨est⟩ averti par eux ; ⟨en⟩ les gardant, il y a grande récompense.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "est averti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "par eux"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "⟨en⟩ les gardant"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "récompense"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:06.279604186Z",
+  "model": "glm-4.5"
+}

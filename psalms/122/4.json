@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 122,
+  "translation": "Car là montent les tribus, les tribes de Yah, ⟨un⟩ témoignage pour Israël, pour louer le nom de YHWH.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Car là"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "montent"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "les tribus"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "les tribus"
+    },
+    {
+      "surface": "יה",
+      "gloss": "de Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "⟨un⟩ témoignage"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pour Israël"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "pour louer"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:42.520449314Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Ils m'ont en abomination, ils se sont tenus loin de moi, et de devant ma face ils n'ont pas épargné le crachat.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Ils m'ont en abomination"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ils se sont tenus"
+    },
+    {
+      "surface": "מני",
+      "gloss": "loin"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "et de devant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'ont pas"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "épargné"
+    },
+    {
+      "surface": "רק",
+      "gloss": "le crachat"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:22.421439366Z",
+  "model": "glm-4.5"
+}

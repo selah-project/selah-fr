@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Je me souviens des jours d'autrefois ; je médite sur toute ⟨ton⟩ action ; sur l'œuvre de ⟨tes⟩ mains, je murmure.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Je me souviens"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "d'autrefois"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "je médite"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sur toute"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "⟨ton⟩ action"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "sur l'œuvre"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "de ⟨tes⟩ mains"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "je murmure"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:22.824116052Z",
+  "model": "glm-4.5"
+}

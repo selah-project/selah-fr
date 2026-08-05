@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Nus ils vont sans vêtement et affamés ⟨ils⟩ portent ⟨la⟩ gerbe",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Nus"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ils vont"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "vêtement"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "et affamés"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "⟨ils⟩ portent"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "⟨la⟩ gerbe"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:24.906764913Z",
+  "model": "glm-4.5"
+}

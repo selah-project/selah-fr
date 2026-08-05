@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et seront fermées ⟨les⟩ portes dans la rue, au bruit ⟨de la⟩ meule, et on se lèvera à la voix de l'oiseau, et s'affaisseront toutes les filles du chant.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "et seront fermées"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "⟨les⟩ portes"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "dans la rue"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "au bruit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨de la⟩"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "meule"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "et on se lèvera"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "à la voix"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "de l'oiseau"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "et s'affaisseront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "les filles"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "du chant"
+    }
+  ],
+  "timestamp": "2026-08-05T04:52:19.758399378Z",
+  "model": "glm-4.5"
+}

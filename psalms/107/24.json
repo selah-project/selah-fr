@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Eux ont vu les œuvres de YHWH, et ⟨ses⟩ merveilles dans ⟨les⟩ profondeurs",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Eux"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ont vu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "les œuvres"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "et ⟨ses⟩ merveilles"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "dans ⟨les⟩ profondeurs"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:37.012726103Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Écoute ton père, ⟨celui qui⟩ t'a engendré, et ne méprise pas ⟨ta⟩ mère quand ⟨elle est⟩ vieille.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨celui qui⟩"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "t'a engendré"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "méprise pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "⟨elle est⟩ vieille"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "⟨ta⟩ mère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:32:51.432977567Z",
+  "model": "glm-4.5"
+}

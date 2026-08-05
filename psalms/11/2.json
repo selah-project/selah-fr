@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Car voici, les méchants bandent ⟨leur⟩ arc, ils ajustent ⟨leur⟩ flèche sur la corde, pour tirer dans les ténèbres contre ⟨les⟩ droits de cœur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "bandent"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨leur⟩ arc"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ils ajustent"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "⟨leur⟩ flèche"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "la corde"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "pour tirer"
+    },
+    {
+      "surface": "במו",
+      "gloss": "dans"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "contre ⟨les⟩ droits"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:08:18.778708109Z",
+  "model": "glm-4.5"
+}

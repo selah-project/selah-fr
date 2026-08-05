@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "et tous les rois de Tyr, et tous les rois de Sidon, et les rois de l’île qui ⟨est⟩ au-delà de la mer",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "tous"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de Tyr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "tous"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "de Sidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et",
+      "marks": "les rois"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "האי",
+      "gloss": "de l’île"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "au-delà"
+    },
+    {
+      "surface": "הים",
+      "gloss": "de la mer"
+    }
+  ],
+  "timestamp": "2026-08-04T22:41:28.266488437Z",
+  "model": "glm-4.5"
+}

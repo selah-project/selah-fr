@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Un sot ne prend pas plaisir ⟨à⟩ l'intelligence, mais seulement ⟨à⟩ ce que son cœur se dévoile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "prend plaisir"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "un sot"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "⟨à⟩ l'intelligence"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mais"
+    },
+    {
+      "surface": "אם",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "⟨à⟩ ce que ... se dévoile"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:49.722751274Z",
+  "model": "glm-4.5"
+}

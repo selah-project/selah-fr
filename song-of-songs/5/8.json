@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Je vous adjure, filles de Jérusalem, si vous trouvez ⟨את⟩ mon bien-aimé, que lui direz-vous ? Que je suis malade d'amour.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Je vous adjure"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filles"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "vous trouvez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon bien-aimé"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mon bien-aimé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "direz-vous"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "malade"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "d'amour"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    }
+  ],
+  "timestamp": "2026-08-05T04:20:39.376510307Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Élohim est monté dans ⟨un⟩ cri d'allégresse, YHWH avec ⟨le⟩ son du shophar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "est monté"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "dans ⟨un⟩ cri d'allégresse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "avec ⟨le⟩ son"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "du shophar"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:01.224447399Z",
+  "model": "glm-4.5"
+}

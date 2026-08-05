@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Il descendra comme la pluie sur ⟨la⟩ tonte, comme des ondées qui arrosent ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Il descendra"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "comme la pluie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גז",
+      "gloss": "⟨la⟩ tonte"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "comme des ondées"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "qui arrosent"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:31.284353584Z",
+  "model": "glm-4.5"
+}

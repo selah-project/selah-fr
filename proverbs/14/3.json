@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Dans la bouche ⟨d'un⟩ sot il y a ⟨un⟩ bâton d'orgueil, mais les lèvres des sages les gardent.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "Dans la bouche"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "⟨d'un⟩ sot"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "il y a ⟨un⟩ bâton"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "d'orgueil"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "mais les lèvres"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "des sages"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "les gardent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:45.986880179Z",
+  "model": "glm-4.5"
+}

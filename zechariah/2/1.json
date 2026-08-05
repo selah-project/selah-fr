@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Je levai ⟨את⟩ mes yeux et je vis, et voici quatre cornes",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "et je levai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes yeux"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "et je vis"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "quatre"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "cornes"
+    }
+  ],
+  "timestamp": "2026-08-05T00:43:52.537612485Z",
+  "model": "glm-4.5"
+}

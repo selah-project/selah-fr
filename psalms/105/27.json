@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Ils placèrent parmi eux ⟨les⟩ paroles de ses signes, ⟨et⟩ des prodiges ⟨au⟩ pays de Ham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "placèrent"
+    },
+    {
+      "surface": "בם",
+      "gloss": "parmi eux"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "paroles de"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ses signes"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "et prodiges"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "au pays de"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:39.580680823Z",
+  "model": "glm-4.5"
+}

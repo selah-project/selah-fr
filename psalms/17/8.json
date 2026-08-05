@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Garde-moi comme la prunelle de l'œil, à l'ombre de tes ailes cache-moi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Garde-moi"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "comme la prunelle"
+    },
+    {
+      "surface": "בת",
+      "gloss": "de"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'œil"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "à l'ombre"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "de tes ailes"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "cache-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:04.460645995Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Et il advint, le deuxième jour ⟨de⟩ faire mourir ⟨את⟩ Gedaliahou, et personne ne le savait.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "השני",
+      "gloss": "le deuxième"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "⟨de⟩ faire mourir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaliahou"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaliahou"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "et personne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "savait"
+    }
+  ],
+  "timestamp": "2026-08-04T22:57:17.277633076Z",
+  "model": "glm-4.5"
+}

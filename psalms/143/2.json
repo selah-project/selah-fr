@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Et n'entre pas en jugement avec ton serviteur, car aucun vivant ne sera justifié devant toi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Et n'"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "entre pas"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "en jugement"
+    },
+    {
+      "surface": "את",
+      "gloss": "avec",
+      "marks": "ton serviteur"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "sera justifié"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aucun"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.285642394Z",
+  "model": "glm-4.5"
+}

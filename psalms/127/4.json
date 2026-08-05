@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 127,
+  "translation": "Comme des flèches dans la main d'un guerrier, ainsi ⟨sont⟩ les fils de la jeunesse.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Comme des flèches"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "d'un guerrier"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨sont⟩ les fils"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "de la jeunesse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:51:25.558742754Z",
+  "model": "glm-4.5"
+}

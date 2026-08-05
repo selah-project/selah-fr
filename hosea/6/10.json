@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Dans la maison d'Israël j'ai vu une chose horrible, là est la prostitution d'Éphraïm, Israël s'est souillé.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "Dans la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "une chose horrible"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "est la prostitution"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "d'Éphraïm"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "s'est souillé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T00:01:22.853389561Z",
+  "model": "glm-4.5"
+}

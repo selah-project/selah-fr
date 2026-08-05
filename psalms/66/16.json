@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Venez écoutez, et je raconterai, vous tous qui craignez Élohim, ce qu'il a fait pour ma nefesh",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venez"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "écoutez"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "et je raconterai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vous tous"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qui craignez"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il a fait"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "pour ma nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:39.113044232Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Car c'est toi qui as créé mes reins, tu m'as tissé dans le ventre de ma mère.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "c'est toi"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "qui as créé"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mes reins"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "tu m'as tissé"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "dans le ventre"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "de ma mère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.918019535Z",
+  "model": "glm-4.5"
+}

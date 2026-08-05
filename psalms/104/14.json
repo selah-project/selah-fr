@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Faisant pousser ⟨du⟩ herbe pour ⟨le⟩ bétail, et ⟨de la⟩ plante pour ⟨le⟩ service de ⟨l'⟩humain, pour faire sortir ⟨du⟩ pain de ⟨la⟩ terre,",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Faisant pousser"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "⟨du⟩ herbe"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "pour ⟨le⟩ bétail"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "et ⟨de la⟩ plante"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "pour ⟨le⟩ service"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de ⟨l'⟩humain"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "pour faire sortir"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨du⟩ pain"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:42.249930125Z",
+  "model": "glm-4.5"
+}

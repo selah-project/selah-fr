@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "YHWH, par ta faveur tu avais affermi ma montagne, ⟨dans la⟩ force, tu as caché ta face, j'ai été épouvanté.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "par ta faveur"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "tu avais affermi"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "ma montagne"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨dans la⟩ force"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "tu as caché"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'ai été"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "épouvanté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:53.020945277Z",
+  "model": "glm-4.5"
+}

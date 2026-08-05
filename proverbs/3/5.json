@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Confie en YHWH de tout ton cœur, et sur ton intelligence ne t'appuie pas",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "confie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ton cœur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ton intelligence"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "t'appuie pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:18.779653233Z",
+  "model": "glm-4.5"
+}

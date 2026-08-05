@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Élevez ⟨un⟩ zemer et donnez ⟨le⟩ t⟨⟩of kinor agréable avec ⟨le⟩ nevel",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Élevez"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zemer"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "et donnez"
+    },
+    {
+      "surface": "תף",
+      "gloss": "t⟨⟩of"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "agréable"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:12.201912057Z",
+  "model": "glm-4.5"
+}

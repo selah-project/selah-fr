@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Voici, Il a frappé le rocher et ⟨des⟩ eaux ont coulé, et des torrents ont déborde ; est-ce qu'Il peut aussi donner du pain ou préparer de la viande pour Son peuple ?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "Il a frappé"
+    },
+    {
+      "surface": "צור",
+      "gloss": "le rocher"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "et ont coulé"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨des⟩ eaux"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "et des torrents"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ont déborde"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "est-ce qu'"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "aussi donner du pain"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "peut"
+    },
+    {
+      "surface": "תת",
+      "gloss": "donner"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "préparer"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "de la viande"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pour Son peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:39.873634681Z",
+  "model": "glm-4.5"
+}

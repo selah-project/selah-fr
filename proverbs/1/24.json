@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Puisque j'ai appelé et que vous avez refusé, j'ai étendu ma main et il n'y a ⟨personne⟩ qui prête l'oreille.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Puisque"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "j'ai appelé"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "et que vous avez refusé"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "j'ai étendu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "⟨personne⟩ qui prête l'oreille"
+    }
+  ],
+  "timestamp": "2026-08-05T03:11:03.552709417Z",
+  "model": "glm-4.5"
+}

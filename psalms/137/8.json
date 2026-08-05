@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 137,
+  "translation": "Fille de Babylone, la dévastée, heureux celui qui te rend ⟨את⟩ ta rétribution, que tu as traitée à nous.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Fille de"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylone"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "la dévastée"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "heureux"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "celui qui rend"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta rétribution"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ta rétribution"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "que tu as traitée"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "envers nous"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:58.153431596Z",
+  "model": "glm-4.5"
+}

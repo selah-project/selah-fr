@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Celui qui respire la fidélité proclame la justice, mais un faux témoin, la tromperie.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "Celui qui respire"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "la fidélité"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "proclame"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mais un témoin"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "faux"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "la tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:17.075599943Z",
+  "model": "glm-4.5"
+}

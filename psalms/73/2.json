@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Et moi, j’ai été presque ⟨à⟩ glisser, mes pas ⟨étaient⟩ sur le point de chavirer.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "presque"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "⟨à⟩ glisser"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mes pas"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sur le point"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "de chavirer"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:10.349551326Z",
+  "model": "glm-4.5"
+}

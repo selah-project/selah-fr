@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Par la parole de YHWH les cieux furent faits, et par le Rouah de sa bouche toute leur armée.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Par la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "furent faits"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "et par le Rouah"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "de sa bouche"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "leur armée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:23.704110741Z",
+  "model": "glm-4.5"
+}

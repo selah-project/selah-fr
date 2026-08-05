@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Au chef des chanteurs, sur les lis, des fils de Qorah, maskil, un chant des amours",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chanteurs"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "les lis"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "de Qorah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "des amours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:39.109909697Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Il ⟨est⟩ assis dans l'embuscade des villages, dans les lieux secrets il ⟨tue⟩ l'innocent ; ses yeux ⟨espient⟩ l'indigent.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "assied"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "dans l'embuscade"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "des villages"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "dans les lieux secrets"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "⟨tue⟩"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "l'innocent"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "⟨espient⟩"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "l'indigent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:27.150437941Z",
+  "model": "glm-4.5"
+}

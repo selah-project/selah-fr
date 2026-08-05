@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il se souvint qu'ils sont chair, un vent qui va et ne revient pas",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "et il se souvint"
+    },
+    {
+      "surface": "כי",
+      "gloss": "qu'ils"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sont chair"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ils⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "un vent"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "qui va"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "revient pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:42.694650224Z",
+  "model": "glm-4.5"
+}

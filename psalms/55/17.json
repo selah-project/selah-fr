@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Moi, vers Élohim je crierai, et YHWH me sauvera.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crierai"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "me sauvera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:24.259178995Z",
+  "model": "glm-4.5"
+}

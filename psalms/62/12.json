@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Une chose a parlé Élohim, deux choses ⟨sont celles⟩ que j'ai entendues, que la force appartient à Élohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "une chose"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "deux choses"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨sont celles⟩"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "que j'ai entendues"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la force"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "appartient à Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:48.578681300Z",
+  "model": "glm-4.5"
+}

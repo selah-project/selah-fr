@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Le mal poursuit les pécheurs et le bien sera rendu aux justes.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "pécheurs"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "poursuit"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "—",
+      "marks": "le bien"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "aux justes"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sera rendu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:02.809982509Z",
+  "model": "glm-4.5"
+}

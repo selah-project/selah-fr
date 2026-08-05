@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Ne sois pas méchant ⟨beaucoup⟩, et ne sois pas un sot ; pourquoi mourrais-tu avant ton temps ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "sois pas méchant"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "⟨beaucoup⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "sois"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "un sot"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mourrais-tu"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "avant"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ton temps"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:38.219735144Z",
+  "model": "glm-4.5"
+}

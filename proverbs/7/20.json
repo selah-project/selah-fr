@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Un sac d'argent, il l'a pris dans sa main ; pour le jour ⟨de⟩ la pleine lune, il viendra ⟨à⟩ sa maison.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Un sac"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "il l'a pris"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dans sa main"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pour le jour"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "⟨de⟩ la pleine lune"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "il viendra"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨à⟩ sa maison"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:10.793406350Z",
+  "model": "glm-4.5"
+}

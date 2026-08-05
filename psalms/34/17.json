@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "La face de YHWH ⟨est⟩ contre les faiseurs de mal, pour retrancher ⟨leur⟩ mémoire de ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "La face"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "contre les faiseurs"
+    },
+    {
+      "surface": "רע",
+      "gloss": "de mal"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "pour retrancher"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de ⟨la⟩ terre"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "⟨leur⟩ mémoire"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:16.050465100Z",
+  "model": "glm-4.5"
+}

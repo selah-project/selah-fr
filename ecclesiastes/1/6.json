@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Allant vers ⟨le⟩ midi et tournant vers ⟨le⟩ nord, tournant, tournant, va la Rouah, et sur ses circuits revient la Rouah.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Allant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "⟨le⟩ midi"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "et tournant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "⟨le⟩ nord"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "tournant"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "tournant"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "va"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "la Rouah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ses circuits"
+    },
+    {
+      "surface": "שב",
+      "gloss": "revient"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "la Rouah"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:50.760620940Z",
+  "model": "glm-4.5"
+}

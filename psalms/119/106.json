@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai juré et ⟨je la⟩ tiendrai, de garder les jugements de ta justice.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "J'ai juré"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "et ⟨je la⟩ tiendrai"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "de garder"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "les jugements"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "de ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:00.101198860Z",
+  "model": "glm-4.5"
+}

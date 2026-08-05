@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Car il me cachera dans la hutte au jour de malheur, il me dissimulera dans le secret de ⟨sa⟩ tente, sur le rocher il m'élèvera",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "il me cachera"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "dans la hutte"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "de malheur"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "il me dissimulera"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dans le secret"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "de ⟨sa⟩ tente"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sur le rocher"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "il m'élèvera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:42.074615921Z",
+  "model": "glm-4.5"
+}

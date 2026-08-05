@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "YHWH, conduis-moi dans ta justice à cause de mes ennemis ; aplanis ta route devant ma face.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "conduis-moi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "dans ta justice"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "aplanis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ta route"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:46.349836629Z",
+  "model": "glm-4.5"
+}

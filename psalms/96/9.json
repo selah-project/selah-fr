@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Prosternez-vous devant YHWH dans ⟨la⟩ sainte splendeur, tremblez devant Lui, toute ⟨la⟩ terre",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "prosternez-vous"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "devant YHWH"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "dans ⟨la⟩ splendeur"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sainte"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "tremblez"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "devant Lui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:16.214889214Z",
+  "model": "glm-4.5"
+}

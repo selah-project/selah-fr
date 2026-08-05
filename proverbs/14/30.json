@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Vie de chair ⟨est⟩ un cœur qui guérit, et pourriture d'os ⟨est⟩ la jalousie",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "vie"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "de chair"
+    },
+    {
+      "surface": "לב",
+      "gloss": "un cœur"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "qui guérit"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "et pourriture"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "d'os"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "la jalousie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:52.621364168Z",
+  "model": "glm-4.5"
+}

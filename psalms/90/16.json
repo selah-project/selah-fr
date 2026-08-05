@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Que ⟨ton⟩ œuvre apparaisse à tes serviteurs, et ⟨ta⟩ splendeur sur leurs fils.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Qu'... apparaisse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tes serviteurs"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ton œuvre"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "et ta splendeur"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "leurs fils"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:35.875647569Z",
+  "model": "glm-4.5"
+}

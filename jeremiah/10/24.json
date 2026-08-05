@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Corrige-moi, YHWH, seulement avec jugement, pas dans ta colère, de peur que tu ne me réduises à rien.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "Corrige-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "avec jugement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "dans ta colère"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "tu ne me réduises à rien"
+    }
+  ],
+  "timestamp": "2026-08-04T22:39:10.973379768Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Au chef des chantres sur la Guitith. Des fils de Qorah. Un psaume.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "la Guitith"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Des fils"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:18.777701883Z",
+  "model": "glm-4.5"
+}

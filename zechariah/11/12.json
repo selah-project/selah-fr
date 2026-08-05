@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et je dis à eux : Si bon à vos yeux, donnez ⟨mon⟩ salaire, et si non, cessez. Et ils pesèrent ⟨את⟩ mon salaire, trente d'argent.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "à vos yeux"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "donnez"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "⟨mon⟩ salaire"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "cessez"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "Et ils pesèrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon salaire"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mon salaire"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trente"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "d'argent"
+    }
+  ],
+  "timestamp": "2026-08-05T00:53:47.762662540Z",
+  "model": "glm-4.5"
+}

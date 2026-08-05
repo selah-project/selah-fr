@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Et les hommes armés abandonnèrent ⟨את⟩ les captifs et ⟨את⟩ le butin devant les chefs et toute l'assemblée.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "et ils abandonnèrent"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "les hommes armés"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les captifs"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "les captifs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le butin"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "le butin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "les chefs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblée"
+    }
+  ],
+  "timestamp": "2026-08-05T06:11:29.671073674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Car droit est ⟨la⟩ parole de YHWH et toute son œuvre est en fidélité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "droit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "son œuvre"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "en fidélité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:13.351727977Z",
+  "model": "glm-4.5"
+}

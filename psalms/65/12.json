@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Tu as couronné ⟨l'⟩année de ta bonté, et tes sentiers distillent de la graisse.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Tu as couronné"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "⟨l'⟩année"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "de ta bonté"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "et tes sentiers"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "distillent"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "de la graisse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:40.581033461Z",
+  "model": "glm-4.5"
+}

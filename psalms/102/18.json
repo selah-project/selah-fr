@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Il s'est tourné vers la prière du délaissé et n'a pas méprisé ⟨את⟩ leur prière",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "s'est tourné"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "la prière"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "du délaillé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'a pas"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "méprisé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur prière"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "leur prière"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:37.399010503Z",
+  "model": "glm-4.5"
+}

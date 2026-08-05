@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et ils dirent, un homme à son frère : Voici, le maître ⟨des⟩ rêves, celui-ci, vient.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Et ils dirent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "son frère"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "le maître"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "⟨des⟩ rêves",
+      "marks": "le maître ⟨des⟩ rêves"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "celui-ci"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vient"
+    }
+  ],
+  "timestamp": "2026-08-04T18:49:28.302829386Z",
+  "model": "glm-4.5"
+}

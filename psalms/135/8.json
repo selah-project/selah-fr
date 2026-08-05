@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Qui a frappé les premiers-nés d'Égypte, depuis l'humain jusqu'à ⟨la⟩ bête.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Qui a frappé"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "les premiers-nés"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "depuis l'humain"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "⟨la⟩ bête"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:25.785967581Z",
+  "model": "glm-4.5"
+}

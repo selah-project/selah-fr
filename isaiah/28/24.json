@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Est-ce tout ⟨le⟩ jour que ⟨le⟩ laboureur laboure pour semer ? ⟨Il⟩ ouvre et ⟨il⟩ brise la surface de son sol.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Est-ce tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨le⟩ jour"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "que ⟨le⟩ laboureur laboure"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "pour semer"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": ""
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "⟨Il⟩ ouvre"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "et ⟨il⟩ brise"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "la surface de son sol"
+    }
+  ],
+  "timestamp": "2026-08-04T22:27:15.555000217Z",
+  "model": "glm-4.5"
+}

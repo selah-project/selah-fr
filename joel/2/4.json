@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Comme l'apparence de chevaux, est leur apparence, et comme des cavaliers, ainsi ils courent.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "Comme l'apparence"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "de chevaux"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "est leur apparence"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "et comme des cavaliers"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ils courent"
+    }
+  ],
+  "timestamp": "2026-08-05T00:11:28.382173587Z",
+  "model": "glm-4.5"
+}

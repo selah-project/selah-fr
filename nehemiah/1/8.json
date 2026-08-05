@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Souviens-toi, je te prie, ⟨את⟩ la parole que tu as prescrite à ⟨את⟩ Mosheh, ton serviteur, en disant : « Si vous agissez perfidement, moi je vous disperserai ⟨את⟩ parmi les peuples. »",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tu as prescrite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "agissez perfidement"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "je disperserai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "vous"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "parmi les peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T05:38:46.784470449Z",
+  "model": "glm-5.2"
+}

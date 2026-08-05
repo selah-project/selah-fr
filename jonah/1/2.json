@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Lève-toi, va à Ninive, la grande ville, et crie contre elle, car leur malice est montée devant ma face.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "va"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la ville"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "la grande"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "et crie \/ proclame"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "contre elle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "est montée"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "leur malice"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    }
+  ],
+  "timestamp": "2026-08-05T00:22:27.084076409Z",
+  "model": "glm-4.5"
+}

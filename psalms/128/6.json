@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 128,
+  "translation": "Et vois les fils de tes fils shalom sur Israël",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Et vois"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "de tes fils"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T02:51:43.682042992Z",
+  "model": "glm-4.5"
+}

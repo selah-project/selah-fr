@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et mes ennemis sont vigoureux, et ils se sont fortifiés ; ceux qui me haïssent sans cause se sont multipliés.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Et mes ennemis"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sont vigoureux"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "et ils se sont fortifiés"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "se sont multipliés"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ceux qui me haïssent"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sans cause"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:20.415103416Z",
+  "model": "glm-4.5"
+}

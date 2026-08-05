@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "En paix, tous ensemble, je ⟨vais⟩ me coucher et dormir, car toi, YHWH, ⟨tu⟩ fais que je demeure en sécurité, seul.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "En paix"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tous ensemble"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "je ⟨vais⟩ me coucher"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "et dormir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "seul"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "en sécurité"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "⟨tu⟩ fais que je demeure"
+    }
+  ],
+  "timestamp": "2026-08-05T01:02:43.113941939Z",
+  "model": "glm-4.5"
+}

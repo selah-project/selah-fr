@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Donnez à YHWH la gloire de son Nom, prosternez-vous devant YHWH ⟨dans⟩ la parure de sainteté.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Donnez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de son Nom"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "prosternez-vous"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "devant YHWH"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "la parure"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "de sainteté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:11.964585289Z",
+  "model": "glm-4.5"
+}

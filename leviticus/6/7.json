@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et ceci ⟨est⟩ la torah de l'offrande : les fils d'Aaron la présenteront ⟨את⟩ devant YHWH, vers le devant de l'autel.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Et ceci"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "la torah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "de l'offrande"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "présenteront"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "l'offrande"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils d'Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": ""
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פני",
+      "gloss": "le devant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "de l'autel"
+    }
+  ],
+  "timestamp": "2026-08-04T19:00:31.992244586Z",
+  "model": "glm-4.5"
+}

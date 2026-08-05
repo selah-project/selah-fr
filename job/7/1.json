@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "La vie de l'humain ⟨est-elle pas⟩ une guerre sur ⟨la⟩ terre, et ses jours ⟨sont comme⟩ les jours d'un salarié ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "⟨est-elle pas⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "une guerre"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "de l'humain"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "et ses jours"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "d'un salarié"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jours"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:26.275980984Z",
+  "model": "glm-4.5"
+}

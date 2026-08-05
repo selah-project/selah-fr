@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Désastres en son sein, et ne s'en retire pas de sa place, oppression et tromperie.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Désastres"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "en son sein"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "s'en retire pas"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "de sa place"
+    },
+    {
+      "surface": "תך",
+      "gloss": "oppression"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "et tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.677256717Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Heureux ⟨est⟩ l'homme ⟨qui⟩ trouve la sagesse, et l'homme ⟨qui⟩ produit ⟨de⟩ l'intelligence.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "trouve"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "et l'homme"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "produit"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "l'intelligence"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:29.192655751Z",
+  "model": "glm-4.5"
+}

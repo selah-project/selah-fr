@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Bon ⟨es⟩-tu et bienfaisant, enseigne-moi tes statuts.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "es-tu"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "et bienfaisant"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-moi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes statuts"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:16.059586309Z",
+  "model": "glm-4.5"
+}

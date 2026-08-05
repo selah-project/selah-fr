@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Il ne reviendra pas ⟨au⟩ pays de Mitsraïm, et ⟨le⟩ Assour, lui, ⟨est⟩ son roi, car ils ont refusé de revenir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "reviendra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨au⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraïm"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "et ⟨le⟩ Assour"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "⟨est⟩ son roi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ils ont refusé"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "de revenir"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:16.795396438Z",
+  "model": "glm-4.5"
+}

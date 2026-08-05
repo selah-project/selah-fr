@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Louez ⟨le⟩ nom de YHWH car il a commandé et ils furent créés",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a commandé"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "et ils furent créés"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:13.808298669Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Mon fils, ne marche pas dans la route avec eux, retiens ton pied de leur sentier",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mon fils"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "marche pas"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la route"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "avec eux"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "retiens"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ton pied"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "de leur sentier"
+    }
+  ],
+  "timestamp": "2026-08-05T03:11:01.871718518Z",
+  "model": "glm-4.5"
+}

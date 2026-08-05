@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Parce qu'il n'a pas ⟨eu⟩ souvenir de faire hessed, et il a poursuivi l'homme affligé et le needy, et ⟨celui⟩ brisé de cœur pour le tuer.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Parce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨il⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "⟨eu⟩ souvenir"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hessed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "et il a poursuivi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "עני",
+      "gloss": "affligé"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et le needy"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "et ⟨celui⟩ brisé"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "pour le tuer"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.688862856Z",
+  "model": "glm-4.5"
+}

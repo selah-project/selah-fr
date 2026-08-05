@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Délivre-moi de la boue et que je ne coule pas, fais-moi sortir de ceux qui me haïssent et des profondeurs des eaux.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "de la boue"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et que"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "je ne coule pas"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "fais-moi sortir"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "de ceux qui me haïssent"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "et des profondeurs"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:04.641581962Z",
+  "model": "glm-4.5"
+}

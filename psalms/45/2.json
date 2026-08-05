@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Mon cœur bouillonne d'une bonne parole, je dis : mes œuvres ⟨sont pour⟩ le roi, ma langue ⟨est⟩ le stylo d'un scribe rapide",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "bouillonne"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je dis"
+    },
+    {
+      "surface": "אני",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mes œuvres"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨sont pour⟩ le roi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ma langue"
+    },
+    {
+      "surface": "עט",
+      "gloss": "le stylo"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "d'un scribe"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "rapide"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:39.110307376Z",
+  "model": "glm-4.5"
+}

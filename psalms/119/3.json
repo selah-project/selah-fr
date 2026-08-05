@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Oui, ils n'ont pas agi ⟨avec⟩ iniquité, dans ses voies ils ont marché.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Oui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'ont pas"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "agi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "⟨avec⟩ iniquité"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "dans ses voies"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ils ont marché"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:47.248518763Z",
+  "model": "glm-4.5"
+}

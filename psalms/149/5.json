@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 149,
+  "translation": "Qu'ils exultent, les pieux, dans la gloire; qu'ils poussent des cris de joie sur leurs couches.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "qu'ils exultent"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "les pieux"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "dans la gloire"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "qu'ils poussent des cris de joie"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "leurs couches"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:46.040758011Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Je poursuis mes ennemis et je les atteins et je ne ⟨reviens⟩ pas jusqu'à les anéantir",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Je poursuis"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "et je les atteins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "⟨reviens⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "les anéantir"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:10.632002678Z",
+  "model": "glm-4.5"
+}

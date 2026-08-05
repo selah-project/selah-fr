@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il dit : Qui ⟨es⟩-tu ? Et elle dit : Moi, je ⟨suis⟩ Ruth, ta servante, et tu as étendu ton aile sur ta servante, car toi, tu ⟨es⟩ un goël.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨es⟩-tu",
+      "marks": "tu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Et elle dit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Moi, je"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruth"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ta servante"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "et tu as étendu"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "ton aile"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ta servante"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goël"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi, tu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:15.198719046Z",
+  "model": "glm-4.5"
+}

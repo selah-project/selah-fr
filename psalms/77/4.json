@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Je me souviens d'Élohim, et je gémis ; je médite, et mon esprit défaille. Séla.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Je me souviens"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "et je gémis"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "je médite"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "et défaille"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mon esprit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:52.415112055Z",
+  "model": "glm-4.5"
+}

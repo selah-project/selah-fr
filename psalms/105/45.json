@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "afin qu'ils gardent ses décrets et ⟨qu'ils⟩ observent ses instructions. Louez Yah.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ils gardent"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ses décrets"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "et ses instructions"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "observent"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:56.072102083Z",
+  "model": "glm-4.5"
+}

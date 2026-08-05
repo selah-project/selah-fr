@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Psaume de David. YHWH, qui séjournera dans ⟨la⟩ tente ? Qui résidera sur ⟨la⟩ montagne de ta sainteté ?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "séjournera"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "dans ⟨la⟩ tente"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "résidera"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur ⟨la⟩ montagne"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "de ta sainteté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:12:44.901823822Z",
+  "model": "glm-4.5"
+}

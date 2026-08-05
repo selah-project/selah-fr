@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Lourdeur ⟨de⟩ la pierre et le fardeau du sable, mais la colère de l'insensé est plus lourde que les deux.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Lourdeur"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "de la pierre"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "et le fardeau"
+    },
+    {
+      "surface": "החול",
+      "gloss": "du sable"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "mais la colère"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "de l'insensé"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "est plus lourde"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "que les deux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:17.395127241Z",
+  "model": "glm-4.5"
+}

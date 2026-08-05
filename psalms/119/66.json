@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Enseigne-moi ⟨le⟩ bien, ⟨le⟩ goût et ⟨la⟩ connaissance, car en tes commandements j'ai cru.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bien"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "goût"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "et connaissance"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "en tes commandements"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "j'ai cru"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:16.059372267Z",
+  "model": "glm-4.5"
+}

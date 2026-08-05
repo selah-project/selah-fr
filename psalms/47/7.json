@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Chantez ⟨des louanges⟩, Élohim, chantez, chantez ⟨des louanges⟩ à notre roi, chantez.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Chantez"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "⟨des louanges⟩ à notre roi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chantez"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:01.224571021Z",
+  "model": "glm-4.5"
+}

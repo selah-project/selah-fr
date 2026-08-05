@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 33:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Si tu peux, réponds-moi ; range ⟨tes paroles⟩ devant moi, tiens-toi ⟨debout⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tu peux"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "réponds-moi"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "range"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "התיצבה",
+      "gloss": "tiens-toi ⟨debout⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:56.075435477Z",
+  "model": "glm-4.5"
+}

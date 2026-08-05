@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Iniquité ⟨il⟩ trame sur son lit, ⟨il⟩ se tient sur une voie ⟨qui n'est⟩ pas bonne, ⟨le⟩ mal ⟨il⟩ ne rejette pas",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "iniquité"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "⟨il⟩ trame"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "son lit"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "⟨il⟩ se tient"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "une voie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨qui n'est⟩ pas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨il⟩ ne"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "rejette pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:21.144652906Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Le bélier que tu as vu, ⟨ayant⟩ les deux cornes, ⟨sont⟩ les rois de Médie et de Perse.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "Le bélier"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "tu as vu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨ayant⟩"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "les deux cornes"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨sont⟩ les rois"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "de Médie"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "et de Perse"
+    }
+  ],
+  "timestamp": "2026-08-05T05:16:02.696689918Z",
+  "model": "glm-4.5"
+}

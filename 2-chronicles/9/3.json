@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et la reine de Sheba vit ⟨את⟩ la sagesse de Shelomo, et la Maison qu'il avait bâtie.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Et elle vit"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "la reine"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "de Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la sagesse"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "et la Maison"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "il avait bâtie"
+    }
+  ],
+  "timestamp": "2026-08-05T06:02:48.268879213Z",
+  "model": "glm-5.2"
+}

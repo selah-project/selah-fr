@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Même les ténèbres ne sont pas trop sombres pour toi, et la nuit brille comme le jour, les ténèbres ⟨sont⟩ comme la lumière",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "sont trop sombres"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et la nuit"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "comme le jour"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "brille"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "⟨sont⟩ comme la lumière"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:39.927120718Z",
+  "model": "glm-4.5"
+}

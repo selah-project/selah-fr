@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "N'est-ce pas, Élohim, que tu nous as rejetés, et Élohim ne sortira pas avec nos armées ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "que tu nous as rejetés"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ne sortira pas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "avec nos armées"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:45.555508393Z",
+  "model": "glm-4.5"
+}

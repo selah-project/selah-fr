@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Celui qui aime un cœur pur, la grâce de ses lèvres, le roi est son ami.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Celui qui aime"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "un cœur pur"
+    },
+    {
+      "surface": "לב",
+      "gloss": ""
+    },
+    {
+      "surface": "חן",
+      "gloss": "la grâce"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "de ses lèvres"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "le roi est son ami"
+    },
+    {
+      "surface": "מלך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:36.842883788Z",
+  "model": "glm-4.5"
+}

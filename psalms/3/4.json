@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Mais toi, YHWH, ⟨es⟩ un bouclier autour de moi, ma gloire, et celui qui lève ma tête.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mais toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨es⟩ un bouclier"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "autour de moi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ma gloire"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "et celui qui lève"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    }
+  ],
+  "timestamp": "2026-08-05T01:02:14.922135772Z",
+  "model": "glm-4.5"
+}

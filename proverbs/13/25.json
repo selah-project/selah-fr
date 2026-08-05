@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Le juste mange ⟨à⟩ la satiété de son être, mais le ventre des méchants ⟨est⟩ dans ⟨le⟩ manque.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Le juste"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mange"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "⟨à⟩ la satiété"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "de son être"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "mais le ventre"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "⟨est⟩ dans ⟨le⟩ manque"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:42.803030340Z",
+  "model": "glm-4.5"
+}

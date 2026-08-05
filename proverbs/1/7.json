@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "La crainte de YHWH ⟨est⟩ le commencement de la connaissance ; ⟨les⟩ sots méprisent la sagesse et la discipline",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "La crainte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "le commencement"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "de la connaissance"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sagesse"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "et la discipline"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "⟨les⟩ sots"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "méprisent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:11:10.240537574Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Servez YHWH avec crainte, et réjouissez-vous avec tremblement.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Servez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "avec crainte"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "et réjouissez-vous"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "avec tremblement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:20.738634697Z",
+  "model": "glm-4.5"
+}

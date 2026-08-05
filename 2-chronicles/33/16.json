@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et il restaura ⟨את⟩ l'autel de YHWH, et sacrifia dessus des sacrifices de communion et de louange, et dit à Juda de servir ⟨את⟩ YHWH, Élohim d'Israël.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "Et il restaura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel de YHWH"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "et sacrifia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dessus"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "des sacrifices"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "de communion"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "et de louange"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "à Juda"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "de servir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T06:14:14.358263603Z",
+  "model": "glm-5.2"
+}

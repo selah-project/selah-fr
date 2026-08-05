@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 18:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Du fruit de la bouche d'un homme son ventre sera rassasié, du produit de ses lèvres il sera rassasié.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "du fruit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de la bouche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "sera rassasié"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "son ventre"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "du produit"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "de ses lèvres"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "il sera rassasié"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:51.409365694Z",
+  "model": "glm-4.5"
+}

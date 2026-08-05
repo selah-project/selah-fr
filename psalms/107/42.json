@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "les droits voient ⟨et⟩ se réjouissent et toute iniquité ferme sa bouche",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "voient"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "les droits"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "⟨et⟩ se réjouissent"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "iniquité"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ferme"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:20.286638220Z",
+  "model": "glm-4.5"
+}

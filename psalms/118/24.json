@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Celui-ci est le jour ⟨que⟩ YHWH a fait, nous nous réjouirons et nous nous réjouirons en lui",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Celui-ci"
+    },
+    {
+      "surface": "היום",
+      "gloss": "est le jour"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨que⟩ YHWH a fait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "nous nous réjouirons"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "et nous nous réjouirons"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:04.985561280Z",
+  "model": "glm-4.5"
+}

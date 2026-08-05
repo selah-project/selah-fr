@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Il enferme les eaux dans ses nuages, ⟨et⟩ la nuée ne se déchire pas sous elles.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "Il enferme"
+    },
+    {
+      "surface": "מים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "dans ses nuages"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨et⟩ ne"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "se déchire pas"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "la nuée"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "sous elles"
+    }
+  ],
+  "timestamp": "2026-08-05T04:03:41.013353175Z",
+  "model": "glm-4.5"
+}

@@ -1,24 +1,24 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 26,
   "ref": "numbers 20:26",
   "book": "numbers",
   "lang": "fr",
   "chapter": 20,
-  "translation": "et dévêts את Aaron את ses vêtements, et fais-les revêtir à את Éléazar son fils ; et Aaron sera recueilli, et mourra là.",
+  "translation": "Et tu dépouilleras ⟨את⟩ Aharon de ⟨את⟩ ses vêtements, et tu les feras revêtir à ⟨את⟩ Elazar son fils ; et Aharon sera recueilli et mourra là.",
   "tokens": [
     {
       "surface": "וְהַפְשֵׁ֤ט",
-      "gloss": "et dévêts"
+      "gloss": "Et tu dépouilleras"
     },
     {
       "surface": "אֶֽת",
       "gloss": "⟨את⟩",
-      "marks": "Aaron"
+      "marks": "Aharon"
     },
     {
       "surface": "אַהֲרֹן֙",
-      "gloss": "Aaron"
+      "gloss": "Aharon"
     },
     {
       "surface": "אֶת",
@@ -31,16 +31,16 @@
     },
     {
       "surface": "וְהִלְבַּשְׁתָּ֖ם",
-      "gloss": "et fais-les revêtir"
+      "gloss": "et tu les feras revêtir"
     },
     {
       "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "Éléazar"
+      "marks": "Elazar"
     },
     {
       "surface": "אֶלְעָזָ֣ר",
-      "gloss": "Éléazar"
+      "gloss": "Elazar"
     },
     {
       "surface": "בְּנ֑וֹ",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "וְאַהֲרֹ֥ן",
-      "gloss": "et Aaron"
+      "gloss": "et Aharon"
     },
     {
       "surface": "יֵאָסֵ֖ף",
@@ -63,6 +63,6 @@
       "gloss": "là"
     }
   ],
-  "timestamp": "2026-08-04T09:08:21.181262303Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T07:00:24.080341821Z",
+  "model": "glm-5.2"
 }

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "qu'Il a conclue ⟨את⟩ Abraham, et son serment à Yitshaq,",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "qu'Il a"
+    },
+    {
+      "surface": "כָּרַת֙",
+      "gloss": "conclue"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Abraham"
+    },
+    {
+      "surface": "אַבְרָהָ֔ם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "וּשְׁבוּעָת֖וֹ",
+      "gloss": "et son serment"
+    },
+    {
+      "surface": "לְיִצְחָֽק",
+      "gloss": "à Yitshaq"
+    }
+  ],
+  "timestamp": "2026-08-05T05:52:11.310483557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et j'entendis ⟨את⟩ le son de ses paroles, et comme j'entendais ⟨את⟩ le son de ses paroles, et moi j'étais endormi sur ma face et ma face ⟨vers⟩ ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "et j'entendis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le son"
+    },
+    {
+      "surface": "קול",
+      "gloss": "le son"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "de ses paroles"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "et comme j'entendais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le son"
+    },
+    {
+      "surface": "קול",
+      "gloss": "le son"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "de ses paroles"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'étais"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "endormi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ma face"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "et ma face"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "⟨vers⟩ ⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:25.907060819Z",
+  "model": "glm-4.5"
+}

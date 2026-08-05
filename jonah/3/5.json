@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et les gens de Ninive crurent en Élohim, et ils proclamèrent un jeûne, et ils revêtirent des sacs, depuis le plus grand d'entre eux jusqu'au plus petit.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "crurent"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "les gens de"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "en Élohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "et ils proclamèrent"
+    },
+    {
+      "surface": "צום",
+      "gloss": "un jeûne"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "et ils revêtirent"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "des sacs"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "depuis le plus grand d'entre eux"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'⟨au⟩"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "plus petit"
+    }
+  ],
+  "timestamp": "2026-08-05T00:24:17.837890502Z",
+  "model": "glm-4.5"
+}

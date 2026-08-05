@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Écoutez, écoutez ma parole, et que ceci ⟨soit⟩ vos consolations",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "écoutez"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "ma parole"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "et que ceci"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "soit"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "vos consolations"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:11.329300025Z",
+  "model": "glm-4.5"
+}

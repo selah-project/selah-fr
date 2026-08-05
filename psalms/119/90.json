@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "De génération en génération, ta fidélité, tu as fondé la terre et elle se tient.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "⟨De⟩ génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ta fidélité"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "tu as fondé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "et elle se tient"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.662795418Z",
+  "model": "glm-4.5"
+}

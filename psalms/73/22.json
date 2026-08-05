@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Et moi, je ⟨étais⟩ un insensé, et je ne savais pas ; j'étais une bête avec toi",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "un insensé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "je ne savais pas"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "une bête"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'étais"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:05.757301235Z",
+  "model": "glm-4.5"
+}

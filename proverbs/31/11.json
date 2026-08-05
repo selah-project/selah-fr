@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Le cœur de son mari se confie en elle, et ⟨le⟩ butin ne lui manquera pas.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "se confie"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "de son mari"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "et ⟨le⟩ butin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "manquera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:38.430545615Z",
+  "model": "glm-4.5"
+}

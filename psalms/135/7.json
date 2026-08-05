@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Faisant monter des nuages de l'extrémité de la terre, des éclairs pour la pluie, ⟨il⟩ tire le vent de ses trésors.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "Faisant monter"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "des nuages"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "de l'extrémité"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "des éclairs"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "pour la pluie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "⟨il⟩ tire"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "le vent"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "de ses trésors"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:25.785852437Z",
+  "model": "glm-4.5"
+}

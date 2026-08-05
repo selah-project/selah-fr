@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et ils mangeront, et ils ne seront pas rassasiés; ils se prostitueront, et ils ne se multiplieront pas, car ils ont quitté ⟨את⟩ YHWH pour ⟨garde⟩ observer.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Et ils mangeront"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "seront pas rassasiés"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ils se prostitueront"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "se multiplieront pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ils ont quitté"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pour observer"
+    }
+  ],
+  "timestamp": "2026-08-04T23:59:29.626547672Z",
+  "model": "glm-4.5"
+}

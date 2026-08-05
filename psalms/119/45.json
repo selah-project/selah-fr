@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Et je marcherai dans un large espace, car tes préceptes, je les ai recherchés.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "Et je marcherai"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "dans un large espace"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tes préceptes"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "je les ai recherchés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:38.736599193Z",
+  "model": "glm-4.5"
+}

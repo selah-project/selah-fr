@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il inclina les cieux et descendit, et ⟨une⟩ épaisse obscurité était sous ses pieds.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Et il inclina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "et descendit"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "et ⟨une⟩ épaisse obscurité"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ses pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:48.980124504Z",
+  "model": "glm-4.5"
+}

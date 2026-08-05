@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et il bâtit ⟨את⟩ Beth-Horon l'Elyon supérieur, et ⟨את⟩ Beth-Horon l'inférieur, villes de forteresse, remparts, portes à deux battants et barres.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "et il bâtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Horon l'Elyon supérieur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "le supérieur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Beth-Horon l'inférieur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "l'inférieur"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "villes de"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "forteresse"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "remparts"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "portes à deux battants"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "et barres"
+    }
+  ],
+  "timestamp": "2026-08-05T06:02:13.613932486Z",
+  "model": "glm-5.2"
+}

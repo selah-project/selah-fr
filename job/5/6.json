@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car ⟨l⟩ iniquité ne sort pas de la poussière, et ⟨le⟩ tourment ne germe pas du sol",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sort"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "de la poussière"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨l⟩ iniquité"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "et du sol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "germe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "⟨le⟩ tourment"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:01.461041330Z",
+  "model": "glm-4.5"
+}

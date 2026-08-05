@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Ne détrousse pas le faible, car il ⟨est⟩ faible ; et n'opprime pas le malheureux dans la porte.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "détrousse pas"
+    },
+    {
+      "surface": "דל",
+      "gloss": "le faible"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "דל",
+      "gloss": "il ⟨est⟩ faible"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "opprime pas"
+    },
+    {
+      "surface": "עני",
+      "gloss": "le malheureux"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "dans la porte"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:51.432135070Z",
+  "model": "glm-4.5"
+}

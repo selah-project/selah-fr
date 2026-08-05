@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Ainsi dit YHWH Tsevaot : Voici, je sauve mon peuple ⟨את⟩ du pays de l'orient et du pays du couchant du soleil.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Voici, je"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "sauve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon peuple"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "de l'orient"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "et du pays"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "du couchant"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "du soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T00:50:37.411240441Z",
+  "model": "glm-4.5"
+}

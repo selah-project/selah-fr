@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Pourquoi à jamais nous oublieras-tu ? Tu nous abandonneras ⟨pour⟩ la longueur des jours",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "à jamais"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "nous oublieras-tu"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "tu nous abandonneras"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "la longueur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:56.163856232Z",
+  "model": "glm-4.5"
+}

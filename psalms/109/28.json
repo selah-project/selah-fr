@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Qu'ils maudissent, mais toi, bénis ; ils se lèveront et seront honteux, et ton serviteur se réjouira.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Qu'ils maudissent"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eux"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mais toi"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "bénis"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ils se lèveront"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "et seront honteux"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "et ton serviteur"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "se réjouira"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:18.748075841Z",
+  "model": "glm-4.5"
+}

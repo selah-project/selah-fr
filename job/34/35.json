@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "job 34:35",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Iyov ne parle pas avec connaissance, et ses paroles ne sont pas avec sagesse.",
+  "tokens": [
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "pas avec connaissance"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "et ses paroles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne sont"
+    },
+    {
+      "surface": "בהשכיל",
+      "gloss": "pas avec sagesse"
+    }
+  ],
+  "timestamp": "2026-08-05T04:09:52.052135103Z",
+  "model": "glm-4.5"
+}

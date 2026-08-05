@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Alors le roi se leva à l'aube, à la lumière, et dans la précipitation s'en alla vers la fosse aux lions.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "se leva"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "à l'aube"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "à la lumière"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "et dans la précipitation"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "⟨vers⟩ la fosse"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨aux⟩"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "lions"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "s'en alla"
+    }
+  ],
+  "timestamp": "2026-08-05T05:13:05.097276995Z",
+  "model": "glm-4.5"
+}

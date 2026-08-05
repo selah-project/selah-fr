@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et j'étais intègre avec lui, et je me gardais de mon iniquité",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "et j'étais"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "intègre"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "et je me gardais"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "de mon iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:53.750582143Z",
+  "model": "glm-4.5"
+}

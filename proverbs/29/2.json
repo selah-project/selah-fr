@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Par la multitude des justes, ⟨le⟩ peuple se réjouit, et dans ⟨le⟩ gouvernement d'un méchant, ⟨le⟩ peuple gémit.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Par la multitude"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "⟨le⟩ peuple se réjouit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "et dans ⟨le⟩ gouvernement"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "d'un méchant"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "⟨le⟩ peuple gémit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨le⟩ peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:24.086470033Z",
+  "model": "glm-4.5"
+}

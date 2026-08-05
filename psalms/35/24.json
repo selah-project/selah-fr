@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Juge-moi selon ta justice, YHWH mon Élohim, et qu'ils ne se réjouissent pas de moi.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Juge-moi"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "selon ta justice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et qu'ils"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ne se réjouissent pas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:12.772023754Z",
+  "model": "glm-4.5"
+}

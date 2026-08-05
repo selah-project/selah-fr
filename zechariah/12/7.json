@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et sauvera YHWH ⟨את⟩ les tentes de Juda en premier afin que ne soit pas magnifiée la splendeur de la maison de David et la splendeur de l'habitant de Jérusalem sur Juda.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "Et sauvera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les tentes de Juda"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "les tentes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "en premier"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "soit pas magnifiée"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "la splendeur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "et la splendeur"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "de l'habitant"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-08-05T00:54:53.005499086Z",
+  "model": "glm-4.5"
+}

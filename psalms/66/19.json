@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Certainement Élohim a entendu, ⟨il⟩ a prêté l'oreille à ⟨la⟩ voix de ma prière.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Certainement"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a entendu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "a prêté l'oreille"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "à ⟨la⟩ voix"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "de ma prière"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:41.681053727Z",
+  "model": "glm-4.5"
+}

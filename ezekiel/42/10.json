@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Dans la largeur du mur du parvis, chemin de l'orient, face à la zone de séparation et face au bâtiment — des cellules.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "dans la largeur"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "du mur"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "du parvis"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "de l'orient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "la zone de séparation"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "le bâtiment"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "des cellules"
+    }
+  ],
+  "timestamp": "2026-08-05T05:30:19.735077589Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et ⟨la⟩ épée sévit dans ses villes, et elle achève ses barres, et elle dévore, parce que leurs propres conseils.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "Et ⟨la⟩ épée sévit"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "épée"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "dans ses villes"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "et elle achève"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ses barres"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "et elle dévore"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "parce que leurs propres conseils"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:16.795622951Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Le soleil se changera en ténèbres et la lune en sang, avant ⟨la⟩ venue du jour de YHWH, ⟨le⟩ grand et ⟨le⟩ redoutable",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Le soleil"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "se changera"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "en ténèbres"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "et la lune"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "avant"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "la venue"
+    },
+    {
+      "surface": "יום",
+      "gloss": "du jour"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "le grand"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "et le redoutable"
+    }
+  ],
+  "timestamp": "2026-08-05T00:12:34.593476729Z",
+  "model": "glm-4.5"
+}

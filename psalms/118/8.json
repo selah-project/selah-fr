@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Mieux vaut chercher refuge en YHWH que se fier ⟨à⟩ l'homme.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux vaut"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "chercher refuge"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "que se fier"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "⟨à⟩ l'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:56.653622451Z",
+  "model": "glm-4.5"
+}

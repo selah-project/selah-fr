@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Il scelle la main de tout homme, afin que tout homme sache son œuvre.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "homme"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "il scelle"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "afin que sache"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "homme"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "son œuvre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:12:06.436360034Z",
+  "model": "glm-4.5"
+}

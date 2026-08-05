@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 64,
+  "translation": "Le juste se réjouira en YHWH, et cherchera refuge en lui, et se glorifieront tous ⟨les⟩ droits de cœur.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "se réjouira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Le juste"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "et cherchera refuge"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "et se glorifieront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "⟨les⟩ droits"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:59.534001505Z",
+  "model": "glm-4.5"
+}

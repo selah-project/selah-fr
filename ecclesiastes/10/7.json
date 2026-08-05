@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "J'ai vu des esclaves sur des chevaux, et des princes marchant comme des esclaves sur la terre",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "J'ai vu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "des esclaves"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "des chevaux"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "et des princes"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "marchant"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "comme des esclaves"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:09.279329980Z",
+  "model": "glm-4.5"
+}

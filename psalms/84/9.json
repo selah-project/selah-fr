@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "YHWH Élohim ⟨des⟩ Tsevaot, entends ma prière, prête l'oreille, Élohim de Jacob. Séla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "⟨des⟩ Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "entends"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma prière"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:25.542868254Z",
+  "model": "glm-4.5"
+}

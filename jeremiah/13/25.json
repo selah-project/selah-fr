@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Ceci ⟨est⟩ ton lot, la part de ta mesure de par moi — déclaration de YHWH — car tu m'as oublié et tu as eu confiance dans le mensonge.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "ton lot"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "la part"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "de ta mesure"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "de par moi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "car"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "tu m'as oublié"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "tu as eu confiance"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "et tu as eu confiance"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "dans le mensonge"
+    }
+  ],
+  "timestamp": "2026-08-04T16:19:45.838405382Z",
+  "model": "glm-4.5"
+}

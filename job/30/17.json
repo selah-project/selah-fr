@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "La nuit ⟨mes⟩ os se percent en moi et ⟨mes⟩ sinews ne reposent pas",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "⟨mes⟩ os"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "se percent"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "et ⟨mes⟩ sinews"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "reposent pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:21.951065588Z",
+  "model": "glm-4.5"
+}

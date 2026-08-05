@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Pain de puissants, mangea ⟨l'⟩homme, ⟨de la⟩ nourriture envoya ⟨leur⟩ pour la satiété.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "pain"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "de puissants"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨l'⟩homme"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "⟨de la⟩ nourriture"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envoya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨leur⟩"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "pour la satiété"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:32.924951235Z",
+  "model": "glm-4.5"
+}

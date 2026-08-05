@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "YHWH, Élohim de mon salut, le jour j'ai crié, la nuit, devant toi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "de mon salut"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "j'ai crié"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devant toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:13.758014424Z",
+  "model": "glm-4.5"
+}

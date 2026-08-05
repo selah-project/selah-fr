@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Il y a une voie ⟨qui semble⟩ droite devant un homme et ⟨sa⟩ fin ⟨sont⟩ les voies de la mort",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Il y a"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "une voie"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "droite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "et ⟨sa⟩ fin"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "les voies"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:12.729980786Z",
+  "model": "glm-4.5"
+}

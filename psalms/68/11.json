@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Ton troupeau y a demeuré ; dans ta bonté, tu prépares pour l'indigent, ô Élohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ton troupeau"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "y a demeuré"
+    },
+    {
+      "surface": "בה",
+      "gloss": "y"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tu prépares"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "dans ta bonté"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "pour l'indigent"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:10.295886972Z",
+  "model": "glm-4.5"
+}

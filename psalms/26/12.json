@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Mon pied se tient dans ⟨le⟩ plat ; dans les assemblées je bénirai YHWH",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "mon pied"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "se tient"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "dans ⟨le⟩ plat"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "dans les assemblées"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "je bénirai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:50.124662220Z",
+  "model": "glm-4.5"
+}

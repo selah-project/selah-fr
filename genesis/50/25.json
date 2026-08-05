@@ -1,72 +1,72 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 25,
   "ref": "genesis 50:25",
   "book": "genesis",
   "lang": "fr",
   "chapter": 50,
-  "translation": "Et Joseph fit jurer ⟨את⟩ les fils d'Israël en disant : certainement, Élohim פקד vous et vous ferez monter ⟨את⟩ mes os d'ici.",
+  "translation": "Et Yoséph fit prêter serment aux fils d'Israël, disant : visitant, Élohim vous visitera, et vous ferez monter mes os d'ici.",
   "tokens": [
     {
-      "surface": "וישבע",
-      "gloss": "Et ... fit jurer"
+      "surface": "וַיַּשְׁבַּ֣ע",
+      "gloss": "Et fit prêter serment"
     },
     {
-      "surface": "יוסף",
-      "gloss": "Joseph"
+      "surface": "יוֹסֵ֔ף",
+      "gloss": "Yoséph"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "les fils d'Israël"
+      "marks": "les fils"
     },
     {
-      "surface": "בני",
-      "gloss": "les fils de"
+      "surface": "בְּנֵ֥י",
+      "gloss": "les fils"
     },
     {
-      "surface": "ישראל",
-      "gloss": "Israël"
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "d'Israël"
     },
     {
-      "surface": "לאמר",
-      "gloss": "en disant"
+      "surface": "לֵאמֹ֑ר",
+      "gloss": "disant"
     },
     {
-      "surface": "פקד",
-      "gloss": "certainement ... [paquod]"
+      "surface": "פָּקֹ֨ד",
+      "gloss": "visitant"
     },
     {
-      "surface": "יפקד",
-      "gloss": "[paquod] vous"
+      "surface": "יִפְקֹ֤ד",
+      "gloss": "visitera"
     },
     {
-      "surface": "אלהים",
+      "surface": "אֱלֹהִים֙",
       "gloss": "Élohim"
     },
     {
-      "surface": "אתכם",
+      "surface": "אֶתְכֶ֔ם",
       "gloss": "⟨את⟩",
-      "marks": "vous ferez monter"
+      "marks": "vous"
     },
     {
-      "surface": "והעלתם",
+      "surface": "וְהַעֲלִתֶ֥ם",
       "gloss": "et vous ferez monter"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "mes os"
     },
     {
-      "surface": "עצמתי",
+      "surface": "עַצְמֹתַ֖י",
       "gloss": "mes os"
     },
     {
-      "surface": "מזה",
+      "surface": "מִזֶּֽה",
       "gloss": "d'ici"
     }
   ],
-  "timestamp": "2026-08-04T06:10:58.085264969Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:18.099471762Z",
+  "model": "glm-5.2"
 }

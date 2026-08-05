@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Réjouissez-vous, justes, en YHWH, et rendez grâce au souvenir de sa sainteté.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "réjouissez-vous"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "justes"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "et rendez grâce"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "au souvenir"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "de sa sainteté"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:47.331479002Z",
+  "model": "glm-4.5"
+}

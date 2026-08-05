@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Yoyada engendra ⟨את⟩ Yonatan, et Yonatan engendra ⟨את⟩ Yaddoua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Et Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "et Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddoua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaddoua"
+    }
+  ],
+  "timestamp": "2026-08-05T05:43:15.819024196Z",
+  "model": "glm-5.2"
+}

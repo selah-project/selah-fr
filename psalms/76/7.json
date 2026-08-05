@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Depuis ton tonnerre, ô Élohim de Jacob, ⟨sont endormis⟩ char et cheval.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "depuis ton tonnerre"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "⟨sont endormis⟩"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "char"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "et cheval"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:09.035140869Z",
+  "model": "glm-4.5"
+}

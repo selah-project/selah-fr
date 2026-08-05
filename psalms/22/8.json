@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Tous ceux qui me voient se moquent de moi, ils ⟨font⟩ la moue avec la lèvre, ils hochent la tête",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ceux qui me voient"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "se moquent de moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ils ⟨font⟩ la moue"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "avec la lèvre"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ils hochent"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.051732257Z",
+  "model": "glm-4.5"
+}

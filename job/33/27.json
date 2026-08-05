@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Il regarde les hommes, et dit : J'ai péché et ⟨j'ai⟩ perverti ⟨le⟩ droit, et cela ne m'a pas profité.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "Il regarde"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "J'ai péché"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "et ⟨j'ai⟩"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "perverti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et cela ne"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "profité"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:09:06.827782891Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Faute de bois, le feu s'éteint ; et faute de rapporteur, la querelle s'apaise.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "Faute de"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "bois"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "le feu s'éteint"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "et faute de"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "rapporteur"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "la querelle s'apaise"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "la querelle"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:40.538253654Z",
+  "model": "glm-4.5"
+}

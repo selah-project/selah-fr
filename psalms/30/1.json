@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Mizmor, chant de la dédication ⟨de⟩ la maison, ⟨de⟩ David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "chant"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "dédication"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:42.772500031Z",
+  "model": "glm-4.5"
+}

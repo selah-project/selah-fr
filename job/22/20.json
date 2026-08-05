@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "S'il n'est pas détruit ce qui s'élève contre nous, le feu a dévoré leur reste.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "détruit"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "ce qui s'élève contre nous"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "leur reste"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "a dévoré"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:58.324000346Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "Mon errance, tu l'as comptée, toi ; mets ma larme dans ton outre : n'est-ce pas dans ton registre ?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "Mon errance"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "tu l'as comptée"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "mets"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ma larme"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "dans ton outre"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "n'est-ce pas"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "dans ton registre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:06.290484836Z",
+  "model": "glm-4.5"
+}

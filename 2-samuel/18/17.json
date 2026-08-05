@@ -1,95 +1,95 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 17,
   "ref": "2-samuel 18:17",
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Et ils prirent ⟨את⟩ Avshalom et le jetèrent dans la forêt, vers ⟨את⟩ la grande fosse, et dressèrent sur lui un très grand ⟨גל⟩ de pierres, et tout Israël s'enfuit, un homme vers sa tente.",
+  "translation": "Et ils prirent ⟨את⟩ Avshalom, et ils le jetèrent ⟨את⟩-lui dans la forêt, vers la fosse, la grande, et ils dressèrent sur lui un monceau de pierres, très grand ; et tout Israël s'enfuit, chacun à sa tente.",
   "tokens": [
     {
-      "surface": "ויקחו",
+      "surface": "וַיִּקְח֣וּ",
       "gloss": "Et ils prirent"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "Avshalom"
     },
     {
-      "surface": "אבשלום",
+      "surface": "אַבְשָׁל֗וֹם",
       "gloss": "Avshalom"
     },
     {
-      "surface": "וישליכו",
-      "gloss": "et le jetèrent"
+      "surface": "וַיַּשְׁלִ֨יכוּ",
+      "gloss": "et ils le jetèrent"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹת֤וֹ",
       "gloss": "⟨את⟩",
-      "marks": "la grande fosse"
+      "marks": "lui"
     },
     {
-      "surface": "ביער",
+      "surface": "בַיַּ֨עַר֙",
       "gloss": "dans la forêt"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "vers"
     },
     {
-      "surface": "הפחת",
-      "gloss": "⟨la⟩ fosse"
+      "surface": "הַפַּ֣חַת",
+      "gloss": "la fosse"
     },
     {
-      "surface": "הגדול",
-      "gloss": "grande"
+      "surface": "הַגָּד֔וֹל",
+      "gloss": "la grande"
     },
     {
-      "surface": "ויצבו",
-      "gloss": "et dressèrent"
+      "surface": "וַיַּצִּ֧בוּ",
+      "gloss": "et ils dressèrent"
     },
     {
-      "surface": "עליו",
+      "surface": "עָלָ֛יו",
       "gloss": "sur lui"
     },
     {
-      "surface": "גל",
-      "gloss": "⟨גל⟩"
+      "surface": "גַּל",
+      "gloss": "un monceau"
     },
     {
-      "surface": "אבנים",
+      "surface": "אֲבָנִ֖ים",
       "gloss": "de pierres"
     },
     {
-      "surface": "גדול",
+      "surface": "גָּד֣וֹל",
       "gloss": "grand"
     },
     {
-      "surface": "מאד",
+      "surface": "מְאֹ֑ד",
       "gloss": "très"
     },
     {
-      "surface": "וכל",
+      "surface": "וְכָל",
       "gloss": "et tout"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֔ל",
       "gloss": "Israël"
     },
     {
-      "surface": "נסו",
+      "surface": "נָ֖סוּ",
       "gloss": "s'enfuit"
     },
     {
-      "surface": "איש",
-      "gloss": "un homme"
+      "surface": "אִ֥ישׁ",
+      "gloss": "chacun"
     },
     {
       "surface": "לאהלו",
-      "gloss": "vers sa tente"
+      "gloss": "à sa tente"
     }
   ],
-  "timestamp": "2026-08-04T13:17:58.273677845Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:24.117262085Z",
+  "model": "glm-5.2"
 }

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "⟨את⟩ le soleil pour dominer le jour, car pour toujours est son hessed",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le soleil"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "pour dominer"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:55.089456154Z",
+  "model": "glm-4.5"
+}

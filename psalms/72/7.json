@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Le juste fleurira en ses jours, et abondance de shalom jusqu'à ce que la lune ne soit plus.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "fleurira"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "en ses jours"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Le juste"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et abondance"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "de shalom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ne soit plus"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "la lune"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:31.284471204Z",
+  "model": "glm-4.5"
+}

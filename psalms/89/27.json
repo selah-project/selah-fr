@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Il m'appellera : Père, tu es ⟨pour⟩ moi, mon El et le rocher de mon salut",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Il"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "m'appellera"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Père"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨pour⟩ moi"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "et le rocher"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "de mon salut"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:08.732023220Z",
+  "model": "glm-4.5"
+}

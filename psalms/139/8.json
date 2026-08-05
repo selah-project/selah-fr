@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Si je monte ⟨aux⟩ cieux, tu es là, et si je fais ⟨ma couche⟩ au Shéol, te voici.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "je monte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨aux⟩ cieux"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tu es là"
+    },
+    {
+      "surface": "אתה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "et si je fais ⟨ma couche⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "au Shéol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "te voici"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:52.152296087Z",
+  "model": "glm-4.5"
+}

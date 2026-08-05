@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Je dirai ⟨à⟩ El, mon rocher : pourquoi m'as-tu oublié ? pourquoi aller je deuil sous la pression de l'ennemi ?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "je dirai"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨à⟩ El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "m'as-tu oublié"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "aller je deuil"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aller"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sous la pression"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de l'ennemi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:08.262398938Z",
+  "model": "glm-4.5"
+}

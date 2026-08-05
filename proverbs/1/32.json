@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Car l'apostasie des simples les tuera et la quiétude des sots les fera périr",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "l'apostasie"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "des simples"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "les tuera"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "et la quiétude"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "des sots"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "les fera périr"
+    }
+  ],
+  "timestamp": "2026-08-05T03:10:58.428331818Z",
+  "model": "glm-4.5"
+}

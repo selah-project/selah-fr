@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "il ira jusqu'à la génération de ses pères, ils ne verront plus ⟨la⟩ lumière",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "il ira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "דור",
+      "gloss": "la génération"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "de ses pères"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "l'éternité"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "verront plus"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨la⟩ lumière"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:18.500793074Z",
+  "model": "glm-4.5"
+}

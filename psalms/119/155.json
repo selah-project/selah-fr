@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Loin des méchants ⟨est⟩ ⟨le⟩ salut, car tes décrets ils n'ont pas recherchés.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Loin"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "⟨le⟩ salut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes décrets"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'ont pas"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "recherchés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:30.423171607Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH ⟨est⟩ bon ⟨pour⟩ ceux qui l'attendent, pour la nefesh qui le recherche.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "⟨pour⟩ ceux qui l'attendent"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "pour la nefesh"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "qui le recherche"
+    }
+  ],
+  "timestamp": "2026-08-05T04:30:09.053417249Z",
+  "model": "glm-4.5"
+}

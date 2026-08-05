@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Fais passer mon opprobre ⟨que⟩ je crains, car tes jugements ⟨sont⟩ bons.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "fais passer"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mon opprobre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "je crains"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bons"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:42.141867099Z",
+  "model": "glm-4.5"
+}

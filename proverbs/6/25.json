@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Ne convoite pas sa beauté dans ton cœur, et qu'elle ne te prenne pas avec ses paupières.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "convoite"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "sa beauté"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "dans ton cœur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "qu'elle ne te prenne pas"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "avec ses paupières"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:26.765877526Z",
+  "model": "glm-4.5"
+}

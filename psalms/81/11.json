@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "Moi, YHWH, je suis ton Élohim, ⟨celui qui⟩ t'a fait monter du pays d'Égypte ; ouvre large ta bouche et je la remplirai.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "⟨celui qui⟩ te fait monter"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "ouvre large"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ta bouche"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "et je la remplirai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:33.778190753Z",
+  "model": "glm-4.5"
+}

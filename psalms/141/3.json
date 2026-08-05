@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Place, YHWH, une garde ⟨devant⟩ ma bouche, une veille sur la porte de mes lèvres.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Place"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "une garde"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "⟨devant⟩ ma bouche"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "une veille"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דל",
+      "gloss": "la porte"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "de mes lèvres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:54.337431781Z",
+  "model": "glm-4.5"
+}

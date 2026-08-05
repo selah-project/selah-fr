@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Je peux compter ⟨את⟩ tous mes os eux ils regardent ils contemplent ⟨en⟩ moi.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Je peux compter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "⟨את⟩",
+      "marks": "mes os"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eux"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ils regardent"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ils contemplent"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨en⟩",
+      "marks": "moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:19.136176095Z",
+  "model": "glm-4.5"
+}

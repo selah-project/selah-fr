@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Élohim, un chant nouveau, je le chanterai pour toi ; sur un nével de dix cordes, je psalmodierai pour toi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "je le chanterai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sur un nével"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "de dix cordes"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je psalmodierai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:19.413159601Z",
+  "model": "glm-4.5"
+}

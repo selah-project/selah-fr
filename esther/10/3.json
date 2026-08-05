@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "esther 10:3",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Car Mardochée, ⟨le⟩ Juif, ⟨est⟩ second ⟨au⟩ roi Achashverosh, et grand ⟨pour⟩ les Juifs, et agréé ⟨par⟩ la multitude de ses frères, recherchant ⟨le⟩ bien ⟨de⟩ son peuple, et parlant shalom ⟨à⟩ toute sa semence.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardochée"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "⟨le⟩ Juif"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "second"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨au⟩ roi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "et grand"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "⟨pour⟩ les Juifs"
+    },
+    {
+      "surface": "ורצוי",
+      "gloss": "et agréé"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "⟨par⟩ la multitude"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "de ses frères"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "recherchant"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨le⟩ bien"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "⟨de⟩ son peuple"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "et parlant"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "⟨à⟩ toute"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sa semence"
+    }
+  ],
+  "timestamp": "2026-08-05T05:04:59.170772253Z",
+  "model": "glm-4.5"
+}

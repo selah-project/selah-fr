@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et je les fis sortir du pays d'Égypte et je les amenai dans le désert.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "Et je les fis sortir"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays de"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Égypte"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "et je les amenai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "le désert"
+    }
+  ],
+  "timestamp": "2026-08-04T23:29:20.939380977Z",
+  "model": "glm-4.5"
+}

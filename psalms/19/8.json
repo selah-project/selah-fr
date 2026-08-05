@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "La Torah de YHWH est parfaite, ramenant la nefesh ; le témoignage de YHWH est fidèle, rendant sage le simple",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "la Torah de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "est parfaite"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ramenant"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "le témoignage de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "est fidèle"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "rendant sage"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "le simple"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:59.677760163Z",
+  "model": "glm-4.5"
+}

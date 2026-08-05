@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Dans le sein est jeté ⟨את⟩ le lot, mais de YHWH est tout son jugement.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "dans le sein"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "est jeté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le lot"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "le lot"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "mais de YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "son jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T03:26:52.904801231Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Dévoile mes yeux, et je contemplerai ⟨des⟩ merveilles ⟨de⟩ ta Torah.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Dévoile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "et je contemplerai"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "⟨des⟩ merveilles"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "⟨de⟩ ta Torah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:46.949913488Z",
+  "model": "glm-4.5"
+}

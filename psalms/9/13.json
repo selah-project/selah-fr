@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car celui qui recherche ⟨les⟩ sangs les ⟨a⟩ rappelés, il n'a ⟨pas⟩ oublié le cri des humbles",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "celui qui recherche"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "⟨les⟩ sangs"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "les ⟨a⟩ rappelés",
+      "marks": "ceux qui cherchent le sang"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rappelés"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a ⟨pas⟩"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "oublié"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "le cri"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "des humbles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:51.729651999Z",
+  "model": "glm-4.5"
+}

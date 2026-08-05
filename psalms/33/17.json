@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Un mensonge ⟨est⟩ le cheval pour le salut, et par l'abondance de sa force il ne délivrera pas.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "un mensonge"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "le cheval"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "pour le salut"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "et par l'abondance"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "de sa force"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "délivrera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:14.844395258Z",
+  "model": "glm-4.5"
+}

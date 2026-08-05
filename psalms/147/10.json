@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Non pas dans la force du cheval ⟨il⟩ prend plaisir, non pas dans les jambes de l'homme ⟨il⟩ se complaît.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Non pas"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "dans la force"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "du cheval"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "⟨il⟩ prend plaisir",
+      "marks": "dans la force du cheval"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non pas"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "dans les jambes"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "⟨il⟩ se complaît",
+      "marks": "dans les jambes de l'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:06.673857444Z",
+  "model": "glm-4.5"
+}

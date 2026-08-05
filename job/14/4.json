@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Qui donnera ⟨un⟩ pur ⟨à partir⟩ d'un impur ? Nul.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "⟨un⟩ pur"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "⟨à partir⟩ d'un impur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nul"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:31.590169994Z",
+  "model": "glm-4.5"
+}

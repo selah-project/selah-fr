@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Quand Shaddaï a dispersé ⟨des⟩ rois en elle, il neigeait à Tselmon",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Quand Shaddaï a dispersé"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaï"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "⟨des⟩ rois"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "il neigeait"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "à Tselmon"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:01.093414259Z",
+  "model": "glm-4.5"
+}

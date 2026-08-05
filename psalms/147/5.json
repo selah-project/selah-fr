@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Grand est notre Adonaï, et abondant en force ; pour sa compréhension, il n'y a pas ⟨de⟩ nombre.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Grand"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "notre Adonaï"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "et abondant"
+    },
+    {
+      "surface": "כח",
+      "gloss": "en force"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "pour sa compréhension"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nombre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:01.235975432Z",
+  "model": "glm-4.5"
+}

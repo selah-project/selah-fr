@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Qui détourne son oreille de ⟨la⟩ Torah, même sa prière ⟨est⟩ une abomination.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "détourne"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "son oreille"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "de ⟨la⟩"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "sa prière"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "abomination"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:15.498736728Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et voici une main toucha ⟨en⟩ moi et elle me fit trembler sur ⟨mes⟩ genoux et ⟨sur⟩ les paumes de mes mains.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "יד",
+      "gloss": "une main"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "toucha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨en⟩ moi"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "et elle me fit trembler"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "⟨mes⟩ genoux"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "et ⟨sur⟩ les paumes"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "de mes mains"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:25.907292822Z",
+  "model": "glm-4.5"
+}

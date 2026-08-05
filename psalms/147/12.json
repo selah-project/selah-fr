@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Loue, Jérusalem, ⟨את⟩ YHWH, glorifie ⟨את⟩ ton Élohim, Sion.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Loue"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "glorifie"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨ton⟩ Élohim",
+      "marks": "ton Élohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:06.674124945Z",
+  "model": "glm-4.5"
+}

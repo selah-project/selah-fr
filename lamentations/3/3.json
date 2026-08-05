@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Seulement contre moi il tourne, il retourne sa main tout le jour",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "il tourne"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "il retourne"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:46.460535024Z",
+  "model": "glm-4.5"
+}

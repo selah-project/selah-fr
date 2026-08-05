@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et le roi dit de faire ainsi et la loi fut donnée à Suse et ⟨את⟩ les dix fils de Haman furent pendus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "et fut donnée"
+    },
+    {
+      "surface": "דת",
+      "gloss": "la loi"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "à Suse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les dix fils de Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "les dix"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "המן",
+      "gloss": "de Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "furent pendus"
+    }
+  ],
+  "timestamp": "2026-08-05T05:04:13.684232970Z",
+  "model": "glm-4.5"
+}

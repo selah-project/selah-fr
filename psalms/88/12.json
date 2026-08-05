@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Ton hessed ⟨sera-t-il⟩ raconté dans le sépulcre, ta fidélité dans l'Abaddon ?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Ton hessed ⟨sera-t-il⟩ raconté"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "dans le sépulcre"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ta fidélité"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "dans l'Abaddon"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:26.983140311Z",
+  "model": "glm-4.5"
+}

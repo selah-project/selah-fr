@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Aḥitouv engendra ⟨את⟩ Tsadok, et Tsadok engendra ⟨את⟩ Shalloum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "et Aḥitouv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "et Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalloum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalloum"
+    }
+  ],
+  "timestamp": "2026-08-05T05:46:23.843686900Z",
+  "model": "glm-5.2"
+}

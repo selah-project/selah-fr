@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Mes jours ⟨sont⟩ plus légers que la navette ; ils s'éteignent sans espoir.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Mes jours"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sont plus légers"
+    },
+    {
+      "surface": "מני",
+      "gloss": "que"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "la navette"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "et ils s'éteignent"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "sans"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "espoir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:25.686403395Z",
+  "model": "glm-4.5"
+}

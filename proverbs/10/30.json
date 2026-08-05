@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Le juste pour toujours ne sera pas ébranlé, et les méchants n'habiteront pas la terre.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Le juste"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sera pas ébranlé"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "et les méchants"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "habiteront pas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:24.576791477Z",
+  "model": "glm-4.5"
+}

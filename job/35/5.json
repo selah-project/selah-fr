@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Regarde les cieux et vois, et contemple les nuages, ils sont plus hauts que toi.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et vois"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "et contemple"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "les nuages"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ils sont plus hauts"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "que toi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:44.222706092Z",
+  "model": "glm-4.5"
+}

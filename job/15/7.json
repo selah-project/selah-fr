@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 15:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Es-tu le premier homme ⟨à⟩ naître, et ⟨as-tu été⟩ formé avant ⟨les⟩ collines",
+  "tokens": [
+    {
+      "surface": "הראישון",
+      "gloss": "le premier"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "homme"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "⟨à⟩ naître"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "et avant"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "⟨les⟩ collines"
+    },
+    {
+      "surface": "חוללת",
+      "gloss": "⟨as-tu été⟩ formé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:55:13.767164713Z",
+  "model": "glm-4.5"
+}

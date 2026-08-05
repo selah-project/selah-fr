@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Ils ont aiguisé leur langue comme un serpent, ⟨le⟩ venin de l'aspic est sous leurs lèvres. Sélah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Ils ont aiguisé"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leur langue"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "un serpent"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "le venin"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "de l'aspic"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "leurs lèvres"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:57.542036860Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Plaçant ⟨pour⟩ ses étages supérieurs les eaux, faisant des nuées son char, marchant sur les ailes du vent.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Plaçant"
+    },
+    {
+      "surface": "במים",
+      "gloss": "⟨pour⟩ les eaux"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "ses étages supérieurs"
+    },
+    {
+      "surface": "השם",
+      "gloss": "faisant"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "des nuées"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "son char"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "marchant"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "les ailes"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "du vent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:20.693850768Z",
+  "model": "glm-4.5"
+}

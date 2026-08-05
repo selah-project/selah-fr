@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Or Jirmeyahou ⟨allait⟩ et venait au milieu du peuple, car on ne l'avait pas mis ⟨dans⟩ la maison ⟨de⟩ la prison.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Or Jirmeyahou"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨allait⟩"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "et venait"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "car on ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "avait pas mis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨dans⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "⟨de⟩ la prison"
+    }
+  ],
+  "timestamp": "2026-08-04T22:53:04.362758059Z",
+  "model": "glm-4.5"
+}

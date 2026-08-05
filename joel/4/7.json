@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Voici, je les fais lever du lieu où vous les avez vendus, et je ferai revenir votre traitement sur votre tête",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "voici, je"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "les fais lever"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "vous les avez vendus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "et je ferai revenir"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "votre traitement"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "sur votre tête"
+    }
+  ],
+  "timestamp": "2026-08-05T00:13:17.790622039Z",
+  "model": "glm-4.5"
+}

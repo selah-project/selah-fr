@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "YHWH juge les peuples, juge-moi, YHWH, selon ma justice et selon mon intégrité ⟨qui est⟩ en moi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "juge"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "juge-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "selon ma justice"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "et selon mon intégrité"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "en moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:05:11.166126648Z",
+  "model": "glm-4.5"
+}

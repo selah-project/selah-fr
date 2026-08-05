@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Alors ils crient vers YHWH dans leur détresse, il les délivre de leurs angoisses",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Alors ils crient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dans leur détresse"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "il les délivre de leurs angoisses"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:34.963717160Z",
+  "model": "glm-4.5"
+}

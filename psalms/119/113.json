@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Les partagés je hais, et ta Torah j'aime.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "Les partagés"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "je hais"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "et ta Torah"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "j'aime"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:01.727529950Z",
+  "model": "glm-4.5"
+}

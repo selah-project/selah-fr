@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Vraiment, je sais que c'est ainsi, et comment l'humain ⟨serait⟩ justifié avec El ?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Vraiment"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je sais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "כן",
+      "gloss": "c'est ainsi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et comment"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "serait justifié"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:42.295260076Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Pourquoi retires-tu ta main, et ⟨ta⟩ droite ? ⟨Retire-la⟩ du milieu de ton sein, consomme-⟨la⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "retires-tu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "et ⟨ta⟩ droite"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "du milieu de"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "ton sein"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "consomme-⟨la⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:31.594184954Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Fait voyager ⟨l'⟩est dans les cieux, et par sa force ⟨le⟩ fit venir ⟨le⟩ sud.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "fait voyager"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "⟨l'⟩est"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "et par sa force ⟨le⟩ fit venir"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "par sa force"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "⟨le⟩ sud"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:32.925144764Z",
+  "model": "glm-4.5"
+}

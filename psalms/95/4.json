@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "Dans ⟨sa⟩ main sont les profondeurs de la terre, et les sommets des montagnes sont à lui",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Dans"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "⟨sa⟩ main"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "les profondeurs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "et les sommets"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "des montagnes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sont à lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:14.573966334Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "Allons ⟨au-devant⟩ de sa face avec louange, avec des psaumes crions-lui",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Allons ⟨au-devant⟩"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "de sa face"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "avec louange"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "avec des psaumes"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "crions"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:14.573732837Z",
+  "model": "glm-4.5"
+}

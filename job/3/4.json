@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Ce jour-là qu'il soit ténèbres, qu'Éloah ne le recherche pas d'en haut, et que la clarté ne brille pas sur lui.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Ce jour-là"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "יהי",
+      "gloss": "qu'il soit"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ténèbres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "Éloah ne le recherche pas"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": ""
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "d'en haut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et que"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ne brille pas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "la clarté"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:20.137239605Z",
+  "model": "glm-4.5"
+}

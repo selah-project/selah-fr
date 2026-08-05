@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car ⟨je suis⟩ plus stupide qu'un homme, et l'intelligence d'humain n'est pas en moi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בער",
+      "gloss": "⟨je suis⟩ plus stupide"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": ""
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "qu'un homme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "l'intelligence"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'humain"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n'est pas en moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:26.223130539Z",
+  "model": "glm-4.5"
+}

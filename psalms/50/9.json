@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Je ne prendrai pas de ta maison un taureau, de tes enclos des boucs",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Je ne prendrai pas"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Je ne prendrai pas"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "פר",
+      "gloss": "un taureau"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "de tes enclos"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "des boucs"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:58.648047993Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Qui sait ? ⟨YHWH⟩ reviendra et se repentira, et se détournera de ⟨l'ardeur⟩ de sa colère, et nous ne périrons pas.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sait ?"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "reviendra"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "et se repentira"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨YHWH⟩"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "et se détournera"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "de ⟨l'ardeur⟩"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "de sa colère"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "périrons pas"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:46.586340794Z",
+  "model": "glm-4.5"
+}

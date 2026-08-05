@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Il ⟨a⟩ entendu ⟨le⟩ son du shofar et ne ⟨s'est⟩ pas mis en garde, son sang ⟨sera⟩ sur lui ; et il s'est mis en garde, son âme a échappé.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨le⟩",
+      "marks": "son"
+    },
+    {
+      "surface": "קול",
+      "gloss": "son"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "du shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "entendu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "s'est pas mis en garde"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et il"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "s'est mis en garde"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "son âme"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "échappé"
+    }
+  ],
+  "timestamp": "2026-08-04T23:41:36.914067355Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 32:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Voici, j’ai attendu ⟨vos⟩ paroles, j’ai prêté l’oreille à ⟨vos⟩ raisonnements, jusqu’à ce que vous cherchiez ⟨les⟩ mots.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "voici"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "j’ai attendu"
+    },
+    {
+      "surface": "לדבריכם",
+      "gloss": "vos paroles"
+    },
+    {
+      "surface": "אזין",
+      "gloss": "j’ai prêté l’oreille"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "תבונתיכם",
+      "gloss": "vos raisonnements"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à"
+    },
+    {
+      "surface": "תחקרון",
+      "gloss": "vous cherchiez"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "les mots"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:01.518449299Z",
+  "model": "glm-4.5"
+}

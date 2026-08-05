@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Les fourmis ⟨sont⟩ un peuple pas fort, et elles ⟨ont⟩ préparé ⟨leur⟩ nourriture dans l'été.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "Les fourmis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un peuple"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fort"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "et elles ont préparé"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "dans l'été"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "leur nourriture"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:59.583291165Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 114,
+  "translation": "Yehoudah fut son sanctuaire, Israël ses domaines",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "fut"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehoudah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "son sanctuaire"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "ses domaines"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:32.448303498Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 16:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "J'ai entendu ⟨de⟩ telles choses ⟨en⟩ grand nombre : consolateurs d'affliction, vous tous.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "J'ai entendu"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "⟨de⟩ telles"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "⟨en⟩ grand nombre"
+    },
+    {
+      "surface": "מנחמי",
+      "gloss": "consolateurs"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "d'affliction"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "vous tous"
+    }
+  ],
+  "timestamp": "2026-08-05T03:56:08.574389373Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Je te louerai dans la droiture du cœur ⟨en⟩ apprenant les jugements de ta justice.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Je te louerai"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "dans la droiture"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "du cœur"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "en apprenant"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "les jugements"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "de ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:01.569951590Z",
+  "model": "glm-4.5"
+}

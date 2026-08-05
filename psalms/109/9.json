@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Que ses fils soient orphelins et sa femme une veuve.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Que ⟨soient⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "orphelins"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "et sa femme"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "une veuve"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:11.049258516Z",
+  "model": "glm-4.5"
+}

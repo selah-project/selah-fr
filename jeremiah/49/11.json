@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Abandonne tes orphelins, moi je les ferai vivre, et tes veuves en moi elles auront confiance.",
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "Abandonne"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "tes orphelins"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "je les ferai vivre"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "et tes veuves"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "elles auront confiance"
+    }
+  ],
+  "timestamp": "2026-08-04T23:05:56.375852971Z",
+  "model": "glm-4.5"
+}

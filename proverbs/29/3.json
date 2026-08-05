@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Un homme aimant la hokhma réjouit son père, et ⟨celui⟩ s'associant aux prostituées dissipe ⟨son⟩ patrimoine.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aimant"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la hokhma"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "réjouit"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "et ⟨celui⟩ s'associant"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "aux prostituées"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "dissipe"
+    },
+    {
+      "surface": "הון",
+      "gloss": "⟨son⟩ patrimoine"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:24.086583394Z",
+  "model": "glm-4.5"
+}

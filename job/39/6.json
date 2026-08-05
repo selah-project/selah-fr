@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 39:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Dont j'ai fait ⟨son⟩ maison ⟨le⟩ désert, et les habitations de lui, une terre salée.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Dont"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "j'ai fait"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "⟨le⟩ désert"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨son⟩ maison"
+    },
+    {
+      "surface": "ומשכנותיו",
+      "gloss": "et les habitations de lui"
+    },
+    {
+      "surface": "מלחה",
+      "gloss": "une terre salée"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:07.451691234Z",
+  "model": "glm-4.5"
+}

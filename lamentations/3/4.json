@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Il a usé ma chair et ma peau, il a brisé mes os",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Il a usé"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ma chair"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "et ma peau"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "il a brisé"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mes os"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:46.460654619Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Ils ont mis ⟨leur⟩ bouche dans les cieux, et leur langue se promène sur la terre.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Ils ont mis"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "⟨leur⟩ bouche"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "et leur langue"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "se promène"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:59.587284343Z",
+  "model": "glm-4.5"
+}

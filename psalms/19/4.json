@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Il n'y a pas de parole, et il n'y a pas de paroles : leur voix ne s'entend pas.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Il n'y a pas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "de parole"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "de paroles"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "être entendu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "leur voix"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:53.951077689Z",
+  "model": "glm-4.5"
+}

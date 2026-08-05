@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Ils ont dit dans leur cœur : détruisons-les ensemble ; ils ont brûlé tous les rendez-vous d'El dans le pays.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ils ont dit"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dans leur cœur"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "détruisons-les"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ils ont brûlé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "les rendez-vous"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans le pays"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:25.641393367Z",
+  "model": "glm-4.5"
+}

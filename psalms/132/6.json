@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Voici, nous l'avons entendue à Éphrata ; nous l'avons trouvée dans les champs de Yaar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "nous l'avons entendue"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "à Éphrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "nous l'avons trouvée"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "dans les champs de"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yaar"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:06.680603696Z",
+  "model": "glm-4.5"
+}

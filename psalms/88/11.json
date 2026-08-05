@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Feras-tu ⟨un⟩ miracle pour les morts, ou les Rephaïm se lèveront-ils ⟨pour⟩ te louer ? Séla.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Feras-tu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "⟨un⟩ miracle"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "pour les morts"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "les Rephaïm"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "se lèveront-ils"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "te louer"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:26.983051808Z",
+  "model": "glm-4.5"
+}

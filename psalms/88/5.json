@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Je suis compté avec ceux qui descendent ⟨dans⟩ la fosse ; j'ai été comme un homme sans force",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "Je suis compté"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ceux qui descendent"
+    },
+    {
+      "surface": "בור",
+      "gloss": "la fosse"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'ai été"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "comme un homme"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sans"
+    },
+    {
+      "surface": "איל",
+      "gloss": "force"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:38.241456927Z",
+  "model": "glm-4.5"
+}

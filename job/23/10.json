@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Car il connaît ma route, il m'a éprouvé, comme l'or je sortirai",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ma route"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "il m'a éprouvé"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "comme l'or"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "je sortirai"
+    },
+    {
+      "surface": "אצא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T04:01:41.400188142Z",
+  "model": "glm-4.5"
+}

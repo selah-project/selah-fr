@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Il envoie sa parole et ⟨les⟩ fait fondre ; il fait souffler son souffle, ⟨les⟩ eaux coulent.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Il envoie"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa parole"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "et ⟨les⟩ fait fondre"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "il fait souffler"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "son souffle"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "coulent"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨les⟩ eaux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:22.679223811Z",
+  "model": "glm-4.5"
+}

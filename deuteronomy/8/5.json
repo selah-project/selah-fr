@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et tu auras considéré dans ton cœur : comme un homme châtie ⟨את⟩ son fils, ainsi YHWH ton Élohim te châtie.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Et tu auras considéré"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dans"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ton cœur"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "châtie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son fils"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son fils"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "te châtie"
+    }
+  ],
+  "timestamp": "2026-08-04T21:50:05.512817270Z",
+  "model": "glm-4.5"
+}

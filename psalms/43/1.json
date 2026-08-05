@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Juge-moi, Élohim, et conteste ma cause contre ⟨une⟩ nation non pieuse ; de ⟨l'⟩homme de fraude et ⟨d'⟩iniquité, délivre-moi.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Juge-moi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "et conteste"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ma cause"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "contre une nation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "non"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "pieuse"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "de fraude"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "et d'iniquité"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "délivre-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:58.695668042Z",
+  "model": "glm-4.5"
+}

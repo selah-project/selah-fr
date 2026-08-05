@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Moi, je te répondrai par des mots, et ⟨את⟩ tes compagnons avec toi",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "je te répondrai"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "par des mots"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tes compagnons"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "tes compagnons"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:26.003093010Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Et moi, je suis toujours avec toi ; tu as saisi ⟨par⟩ la main de ma droite",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "toujours"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "tu as saisi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨par⟩ la main"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "de ma droite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:05.757439206Z",
+  "model": "glm-4.5"
+}

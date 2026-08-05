@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Tout le jour mes ennemis ⟨m'⟩ont outragé; ceux qui ⟨sont⟩ furieux contre moi ont juré contre moi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "m'ont outragé"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ceux qui sont furieux"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ont juré"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:34.939214105Z",
+  "model": "glm-4.5"
+}

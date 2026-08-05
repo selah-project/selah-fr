@@ -1,0 +1,44 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "⟨l'⟩arche du Témoignage et ⟨את⟩ ses barres et ⟨את⟩ le propitiatoire",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨l'⟩",
+      "marks": "arche"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arche"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "du Témoignage"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ses barres"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ses barres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le propitiatoire"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "le propitiatoire"
+    }
+  ],
+  "timestamp": "2026-08-04T18:59:16.882521521Z",
+  "model": "glm-4.5"
+}

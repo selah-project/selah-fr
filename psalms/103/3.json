@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Celui qui pardonne toutes tes fautes, qui guérit toutes tes maladies,",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Celui qui pardonne"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "tes fautes"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "qui guérit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "tes maladies"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:23.775839676Z",
+  "model": "glm-4.5"
+}

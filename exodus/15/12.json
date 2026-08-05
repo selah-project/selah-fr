@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Tu as tendu ta droite, ⟨la⟩ terre les a engloutis.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "Tu as tendu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta droite"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "les a engloutis"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T18:55:37.243795173Z",
+  "model": "glm-4.5"
+}

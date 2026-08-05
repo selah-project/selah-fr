@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Car il a brisé les portes de bronze, et les barres de fer il a tranchées.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "il a brisé"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "les portes"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "de bronze"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "et les barres"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "de fer"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "il a tranchées"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:25.786882690Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Moi, dans la justice, je contemplerai ta face, je serai rassasié, au réveil, de ta forme",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dans la justice"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "je contemplerai"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "je serai rassasié"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "au réveil"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "de ta forme"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:58.891325078Z",
+  "model": "glm-4.5"
+}

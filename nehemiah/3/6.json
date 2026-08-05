@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 3:6",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et ⟨את⟩ la porte de la Vieille ⟨ville⟩ fortifièrent Yoyada fils de Paséah et Meshoullam fils de Bésodeyah ; eux la couvrirent et dressèrent ses battants, ses verrous et ses barres.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la porte"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porte"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "de la Vieille"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "fortifièrent"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "de Paséah"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "et Meshoullam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "בסודיה",
+      "gloss": "de Bésodeyah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eux"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "la couvrirent"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "et dressèrent"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "ses battants"
+    },
+    {
+      "surface": "ומנעליו",
+      "gloss": "ses verrous"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "et ses barres"
+    }
+  ],
+  "timestamp": "2026-08-05T05:38:34.620458760Z",
+  "model": "glm-5.2"
+}

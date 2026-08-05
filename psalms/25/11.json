@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Pour ⟨le⟩ Nom de toi, YHWH, et tu as pardonné à mon iniquité car grand il est",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Pour"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "⟨le⟩ Nom de toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "et tu as pardonné"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "à mon iniquité"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grand"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:19.542901656Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "YHWH donne la force à son peuple ; YHWH bénit ⟨את⟩ son peuple — par la shalom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עז",
+      "gloss": "la force"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "à son peuple"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bénit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son peuple"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "par la shalom"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:41.137613295Z",
+  "model": "glm-5.2"
+}

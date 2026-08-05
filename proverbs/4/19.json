@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "La voie des méchants est comme les ténèbres ; ils ne savent pas ⟨contre quoi⟩ ils trébuchent",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "La voie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "est comme les ténèbres"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ils savent"
+    },
+    {
+      "surface": "במה",
+      "gloss": "⟨contre quoi⟩"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ils trébuchent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:15:10.372107169Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "le méchant emprunte et ne rembourse pas, mais le juste fait grâce et ⟨il⟩ donne",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "emprunte"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "rembourse pas"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mais le juste"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "fait grâce"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "et ⟨il⟩ donne"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:46.438885909Z",
+  "model": "glm-4.5"
+}

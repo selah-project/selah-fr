@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Une nefesh de bénédiction ⟨est⟩ engraissée, et celui qui abreuve, lui aussi, ⟨est⟩ arrosé.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bénédiction"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "⟨est⟩ engraissée"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "et celui qui abreuve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "⟨est⟩ arrosé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:05.699211726Z",
+  "model": "glm-4.5"
+}

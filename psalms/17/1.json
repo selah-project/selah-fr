@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Une prière de David. Écoute, YHWH, la justice; prête l'oreille à mon cri; sois attentif à ma prière, qui n'est pas de lèvres de fraude.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Une prière"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "à mon cri"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "sois attentif"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "à ma prière"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "qui n'est pas"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "de lèvres"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "de fraude"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:04.408489604Z",
+  "model": "glm-4.5"
+}

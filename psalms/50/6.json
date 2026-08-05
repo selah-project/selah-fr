@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Et les cieux annonceront ⟨sa⟩ justice, car Élohim juge est-lui, Séla",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Et annonceront"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "⟨sa⟩ justice"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "juge"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "est-lui"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:48.239525471Z",
+  "model": "glm-4.5"
+}

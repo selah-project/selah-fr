@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car maintenant vous ⟨êtes⟩ devenus, vous ne voyez pas la terreur, et vous craignez.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "vous ⟨êtes⟩ devenus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "vous ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "voyez"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "la terreur"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "et vous craignez"
+    }
+  ],
+  "timestamp": "2026-08-05T03:47:15.544678239Z",
+  "model": "glm-4.5"
+}

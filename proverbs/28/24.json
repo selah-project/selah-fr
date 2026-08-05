@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Celui qui vole son père et sa mère, et dit : Il n'y a ⟨pas⟩ de transgression, est l'associé d'un homme destructeur.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "celui qui vole"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "et sa mère"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pas de transgression"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "est l'associé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨il⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "destructeur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:19.621295223Z",
+  "model": "glm-4.5"
+}

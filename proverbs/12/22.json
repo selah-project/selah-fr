@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Lèvres de mensonge sont une abomination pour YHWH, et ceux qui font la fidélité ⟨sont⟩ son plaisir.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Lèvres de"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mensonge"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "et ceux qui font"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "la fidélité"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "son plaisir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:29.759428537Z",
+  "model": "glm-4.5"
+}

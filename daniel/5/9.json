@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "daniel 5:9",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Alors le roi Belshatsar fut ⟨très⟩ effrayé et son aspect changea en lui, et ses grands furent perplexes",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "מתבהל",
+      "gloss": "fut effrayé"
+    },
+    {
+      "surface": "וזיוהי",
+      "gloss": "et son aspect"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "changea"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "en lui"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "et ses grands"
+    },
+    {
+      "surface": "משתבשין",
+      "gloss": "furent perplexes"
+    }
+  ],
+  "timestamp": "2026-08-05T05:11:56.583766835Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Celui qui se moque ⟨du⟩ pauvre outrage son Créateur ; celui qui se réjouit ⟨du⟩ malheur ne sera pas tenu pour innocent.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "se moque"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "⟨du⟩ pauvre"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "outrage"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "son Créateur"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "se réjouit"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "⟨du⟩ malheur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "sera pas tenu pour innocent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:17.251589814Z",
+  "model": "glm-4.5"
+}

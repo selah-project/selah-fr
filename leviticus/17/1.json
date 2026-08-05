@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et YHWH parla à Moïse, pour dire",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:42.303651594Z",
+  "model": "glm-4.5"
+}

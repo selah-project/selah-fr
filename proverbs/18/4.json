@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Les paroles de la bouche d'un homme ⟨sont comme⟩ des eaux profondes, la source de la sagesse ⟨est comme⟩ un ruisseau qui coule.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "⟨sont comme⟩ des eaux"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "profondes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de la bouche"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "un ruisseau"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "qui coule"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "la source"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "de la sagesse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:49.722958669Z",
+  "model": "glm-4.5"
+}

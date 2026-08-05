@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Et je dis : C'est ⟨ma⟩ faiblesse ; les changements de la main droite du Très-Haut.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "C'est ⟨ma⟩ faiblesse"
+    },
+    {
+      "surface": "היא",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "les changements"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "de la main droite"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "du Très-Haut"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:01.945804537Z",
+  "model": "glm-4.5"
+}

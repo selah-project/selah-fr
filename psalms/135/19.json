@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Maison d'Israël, bénissez ⟨את⟩ YHWH, maison d'Aaron, bénissez ⟨את⟩ YHWH",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bénissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.473213855Z",
+  "model": "glm-4.5"
+}

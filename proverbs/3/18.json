@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Elle est un arbre de vie pour ceux qui la saisissent, et ⟨ceux⟩ qui la tiennent sont heureux.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "arbre"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "de vie"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle est"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "pour ceux qui la saisissent"
+    },
+    {
+      "surface": "בה",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "et ⟨ceux⟩ qui la tiennent"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "sont heureux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:39.954901411Z",
+  "model": "glm-4.5"
+}

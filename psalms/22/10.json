@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car c'est toi qui m'as tiré du ventre, tu m'as fait mettre ma confiance sur les seins de ma mère.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "c'est toi"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "qui m'as tiré"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "du ventre"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "tu m'as fait mettre ma confiance"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "les seins"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "de ma mère"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.969055985Z",
+  "model": "glm-4.5"
+}

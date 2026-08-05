@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Jusques à quand, YHWH, t'irriteras-tu ⟨pour⟩ toujours ? Ta jalousie brûlera-t-elle comme le feu ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jusques à"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "t'irriteras-tu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨pour⟩ toujours"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "brûlera-t-elle"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ta jalousie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:22.189031280Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Comme ton nom, Élohim, ainsi ⟨est⟩ ta louange jusqu'aux extrémités de la terre, ta droite est pleine de justice.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Comme ton nom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ta louange"
+    },
+    {
+      "surface": "על",
+      "gloss": "jusqu'aux"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "extrémités"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "est pleine"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta droite"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:39.143537635Z",
+  "model": "glm-4.5"
+}

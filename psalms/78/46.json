@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et ⟨Il donna⟩ leur récolte ←au→ chenille, et leur labeur ←au→ sauterelle.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et ⟨Il donna⟩"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "←au→ chenille"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "leur récolte"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "et leur labeur"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "←au→ sauterelle"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:39.133074216Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "El entendra et ⟨les⟩ affligera, et siège ancien, Sélah, ⟨qui⟩ n'ont pas de changements pour eux, et ne craignent pas Élohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "entendra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "et ⟨les⟩ affligera"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et siège"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ancien"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'ont pas"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "de changements"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "craignent pas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:24.259601202Z",
+  "model": "glm-4.5"
+}

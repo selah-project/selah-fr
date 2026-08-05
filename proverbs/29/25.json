@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "La frayeur d'un ⟨homme⟩ pose un piège, et celui qui se fie en YHWH sera mis ⟨en haut⟩.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "la frayeur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'un ⟨homme⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "pose"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "un piège"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "et celui qui se fie"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "sera mis ⟨en haut⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:19.693526855Z",
+  "model": "glm-4.5"
+}

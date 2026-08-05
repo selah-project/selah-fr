@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Sauve-moi, Élohim, car les eaux sont venues jusqu'à ⟨ma⟩ nefesh",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Sauve-moi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sont venues"
+    },
+    {
+      "surface": "מים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:46.321567988Z",
+  "model": "glm-4.5"
+}

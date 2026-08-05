@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Un homme né d'une femme, ⟨de⟩ jours courts et rassasié de tumulte.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "né"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "d'une femme"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "⟨de⟩ courts"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "et rassasié"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "de tumulte"
+    }
+  ],
+  "timestamp": "2026-08-05T03:54:31.589795420Z",
+  "model": "glm-4.5"
+}

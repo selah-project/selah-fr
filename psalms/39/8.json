@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Et maintenant, quoi j'espérais, Adonaï ? Mon espérance, c'est pour toi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quoi"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "j'espérais"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "mon espérance"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "c'est"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:26.093669074Z",
+  "model": "glm-4.5"
+}

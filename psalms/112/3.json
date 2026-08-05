@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "Richesse et biens ⟨sont⟩ dans sa maison, et sa justice se tient ⟨pour⟩ toujours.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Richesse"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "et biens"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "⟨sont⟩ dans sa maison"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "et sa justice"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "se tient"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "⟨pour⟩ toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:41.347056628Z",
+  "model": "glm-4.5"
+}

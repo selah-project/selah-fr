@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Mieux vaut ne pas faire de vœu que d'en faire un et de ne pas l'acquitter.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mieux vaut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "faire de vœu"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "que d'en faire un"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et de ne pas"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "l'acquitter"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:19.022839964Z",
+  "model": "glm-4.5"
+}

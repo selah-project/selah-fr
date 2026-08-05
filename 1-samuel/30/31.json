@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "et à ceux qui sont à Hébron, et à tous les lieux où David ⟨avait⟩ l'habitude d'aller, lui et ses hommes",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "et à ceux qui"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sont à Hébron"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "et à tous"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "les lieux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "avait l'habitude d'aller"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "et ses hommes"
+    }
+  ],
+  "timestamp": "2026-08-04T22:08:43.170466553Z",
+  "model": "glm-4.5"
+}

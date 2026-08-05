@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "qu'il boive et oublie sa pauvreté, et son tourment, il ne se souvienne plus.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "qu'il boive"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "et oublie"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "sa pauvreté"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "et son tourment"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "se souvienne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:48.348524373Z",
+  "model": "glm-4.5"
+}

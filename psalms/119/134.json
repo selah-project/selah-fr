@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Délivre-moi de ⟨l'⟩oppression de ⟨l'⟩homme, et je garderai tes préceptes.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "de ⟨l'⟩oppression"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de ⟨l'⟩homme"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "et je garderai"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tes préceptes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:30.251257156Z",
+  "model": "glm-4.5"
+}

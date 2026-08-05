@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "La sagesse est bonne avec un héritage, et un avantage ⟨est⟩ pour ceux qui voient le soleil.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "est bonne"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "La sagesse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "un héritage"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "et un avantage"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "⟨est⟩ pour ceux qui voient"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:41.701645611Z",
+  "model": "glm-4.5"
+}

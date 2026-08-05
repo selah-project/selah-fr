@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car je sais que la mort tu me feras retourner, et ⟨la⟩ maison de ⟨l⟩assignation pour tout vivant.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je sais"
+    },
+    {
+      "surface": "מות",
+      "gloss": "que la mort"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "tu me feras retourner"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "et ⟨la⟩ maison"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "de ⟨l⟩assignation"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pour tout"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:18.806591984Z",
+  "model": "glm-4.5"
+}

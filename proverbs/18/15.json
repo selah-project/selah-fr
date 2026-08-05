@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Le cœur de l'intelligent acquiert ⟨la⟩ connaissance, et l'oreille des sages cherche ⟨la⟩ connaissance.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Le cœur"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "de l'intelligent"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "acquiert"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨la⟩ connaissance"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "et l'oreille"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "des sages"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "cherche"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨la⟩ connaissance"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:48.845079352Z",
+  "model": "glm-4.5"
+}

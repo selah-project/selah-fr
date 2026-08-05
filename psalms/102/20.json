@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Car il a regardé depuis les hauteurs de sa sainteté, YHWH, depuis les cieux vers la terre ⟨a⟩ regardé",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "regardé"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "depuis les hauteurs"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "de sa sainteté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "depuis les cieux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "regardé"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:37.399290510Z",
+  "model": "glm-4.5"
+}

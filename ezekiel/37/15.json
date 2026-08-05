@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et la parole de YHWH fut vers moi, en disant",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et la parole ... fut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T23:45:42.761995195Z",
+  "model": "glm-4.5"
+}

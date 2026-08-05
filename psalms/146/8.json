@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "YHWH ouvrant les yeux des aveugles, YHWH redressant les courbés, YHWH aimant les justes",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ouvrant"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "les yeux des aveugles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "redressant"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "les courbés"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aimant"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "les justes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:29.800387197Z",
+  "model": "glm-4.5"
+}

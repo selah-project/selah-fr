@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Dites à vos frères : « Mon peuple », et à vos sœurs : « Bien-aimée ».",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dites"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "à vos frères"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mon peuple"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "et à vos sœurs"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Bien-aimée"
+    }
+  ],
+  "timestamp": "2026-08-04T23:58:05.852909189Z",
+  "model": "glm-4.5"
+}

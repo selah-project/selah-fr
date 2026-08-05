@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Tes voies, YHWH, fais-les-moi connaître, tes sentiers, enseigne-les-moi.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Tes voies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fais-les-moi connaître"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "tes sentiers"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-les-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:20.519910580Z",
+  "model": "glm-4.5"
+}

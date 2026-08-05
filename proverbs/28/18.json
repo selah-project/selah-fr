@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Celui qui marche dans l'intégrité sera sauvé, et celui ⟨dont⟩ les voies sont tordues tombera en une fois.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "celui qui marche"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dans l'intégrité"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "sera sauvé"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "et celui"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "dont les voies"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "sont tordues tombera"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "en une fois"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:05.628526118Z",
+  "model": "glm-4.5"
+}

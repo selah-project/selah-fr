@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Je dirai à El : ne me condamne pas ; fais-moi savoir pourquoi tu contestes avec moi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "je dirai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "me condamne pas"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "fais-moi savoir"
+    },
+    {
+      "surface": "על",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨pourquoi⟩"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "tu contestes avec moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:45.628104194Z",
+  "model": "glm-4.5"
+}

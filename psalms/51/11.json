@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Cache ta face contre mes péchés et efface toutes mes iniquités.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "cache"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "contre mes péchés"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toutes"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mes iniquités"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "efface"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:35.317831029Z",
+  "model": "glm-4.5"
+}

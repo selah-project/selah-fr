@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Il vous convaincra, si vous portez des visages dans le secret",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Il convaincra"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "il argumentera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dans le secret"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "des visages"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "vous porterez"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:47.898424922Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 35:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Ceci as-tu compté pour ⟨le⟩ jugement, tu as dit : Ma droiture ⟨est⟩ plus qu'El",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "חשבת",
+      "gloss": "as-tu compté"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "pour ⟨le⟩ jugement"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "tu as dit"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ma droiture"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "plus qu'El"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:26.002809932Z",
+  "model": "glm-4.5"
+}

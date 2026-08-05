@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Les nations s'agitent, les royaumes chancellent ; il fait retentir sa voix, la terre fond.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "s'agitent"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "chancellent"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "les royaumes"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il fait retentir"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sa voix"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "fond"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:16.601058694Z",
+  "model": "glm-4.5"
+}

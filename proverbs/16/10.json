@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Un oracle ⟨est⟩ sur les lèvres du roi ; en jugement, sa bouche ne commet ⟨pas de trahison⟩.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "Un oracle"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨est⟩ sur"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "les lèvres"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "en jugement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "commet ⟨pas de trahison⟩"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:26.231738212Z",
+  "model": "glm-4.5"
+}

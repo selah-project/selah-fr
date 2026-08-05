@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils ont servi ⟨את⟩ leurs idoles, et celles-ci leur furent un piège.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Et ils ont servi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs idoles"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "leurs idoles"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et celles-ci furent"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "un piège"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:11.894083669Z",
+  "model": "glm-4.5"
+}

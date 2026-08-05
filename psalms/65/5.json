@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Heureux celui que Tu choisis et que Tu fais approcher ⟨pour⟩ qu'il habite tes parvis ; nous serons rassasiés de la bonté de ta maison, ⟨le⟩ sanctuaire de ton palais.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "que Tu choisis"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "et que Tu fais approcher"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "qu'il habite"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "tes parvis"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "nous serons rassasiés"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "de la bonté"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨le⟩ sanctuaire"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "de ton palais"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:56.230302004Z",
+  "model": "glm-4.5"
+}

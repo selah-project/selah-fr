@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car voici, dans ces jours-là et en ce temps-là, où je ramènerai ⟨את⟩ la captivité de Juda et de Jérusalem",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dans ces jours-là"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "et en ce temps-là"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "où"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "je ramènerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la captivité"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "captivité"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "et de Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T00:13:17.093067618Z",
+  "model": "glm-4.5"
+}

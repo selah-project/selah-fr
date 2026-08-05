@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Ne me livre pas à la volonté de mes adversaires, car des témoins de mensonge se sont levés contre moi, et celui qui respire la violence.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "me livre"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "à la volonté de"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mes adversaires"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "se sont levés"
+    },
+    {
+      "surface": "בי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "témoins"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "et celui qui respire"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "la violence"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:40.173697845Z",
+  "model": "glm-4.5"
+}

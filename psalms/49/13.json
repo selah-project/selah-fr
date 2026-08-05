@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Cependant l'homme dans l'honneur ne demeurera pas : il est comparé aux bêtes qui périssent.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Cependant l'homme"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "dans l'honneur"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "demeurera"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "il est comparé"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "aux bêtes"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "qui périssent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:18.990602057Z",
+  "model": "glm-4.5"
+}

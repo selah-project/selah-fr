@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Détourne-toi du mal et fais le bon ; recherche la paix et poursuis-la.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Détourne-toi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "du mal"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et fais"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bon"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "recherche"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la paix"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "et poursuis-la"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:00.145424423Z",
+  "model": "glm-4.5"
+}

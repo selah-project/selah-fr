@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Au-dessus d'elles ⟨habitent⟩ les oiseaux des cieux, du milieu des rameaux ils font entendre ⟨leur⟩ voix.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "Au-dessus d'elles"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "les oiseaux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "⟨habitent⟩"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "du milieu"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "des rameaux"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ils font entendre"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨leur⟩ voix"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:24.633942992Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Quand je dis : Mon lit me consolera, ma couche soulagera ⟨mon⟩ discours.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "je dis"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "me consolera"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "mon lit"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "soulagera"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "⟨mon⟩ discours"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ma couche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:18.756239813Z",
+  "model": "glm-4.5"
+}

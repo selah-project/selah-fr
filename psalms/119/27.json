@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Fais-moi comprendre la voie de tes ordonnances et je méditerai ⟨sur⟩ tes merveilles.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "de tes ordonnances"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fais-moi comprendre"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "et je méditerai"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "sur tes merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:38.099809924Z",
+  "model": "glm-4.5"
+}

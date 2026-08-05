@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et dans mon malheur ils se réjouissaient et s'assemblaient, des frappeurs s'assemblaient contre moi, et je ne le savais pas, ils se déchiraient ⟨et⟩ ne se calmaient pas.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "Et dans mon malheur"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ils se réjouissaient"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "et s'assemblaient"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "des frappeurs s'assemblaient"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "des frappeurs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je ne le savais pas"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "ils se déchiraient"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨et⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ne se calmaient pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:06.070639021Z",
+  "model": "glm-4.5"
+}

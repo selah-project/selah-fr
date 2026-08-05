@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Fais-moi comprendre, et je garderai ⟨ta⟩ Torah, et je l'observerai de tout ⟨mon⟩ cœur.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Fais-moi comprendre"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "et je garderai"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "⟨ta⟩ Torah"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "et je l'observerai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨mon⟩ cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:44.267774877Z",
+  "model": "glm-4.5"
+}

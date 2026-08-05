@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et il ⟨les⟩ écouta pour cette parole et il ⟨les⟩ éprouva dix jours",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "et il ⟨les⟩ écouta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨les⟩"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pour cette parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "cette"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "et il ⟨les⟩ éprouva"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dix"
+    }
+  ],
+  "timestamp": "2026-08-05T05:05:51.308098622Z",
+  "model": "glm-4.5"
+}

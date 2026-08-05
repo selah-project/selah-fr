@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Montagne d'Élohim, montagne de Bashan ; montagne de cimes, montagne de Bashan",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Montagne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "montagne"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "de Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "montagne"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "de cimes"
+    },
+    {
+      "surface": "הר",
+      "gloss": "montagne"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "de Bashan"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:01.093511930Z",
+  "model": "glm-4.5"
+}

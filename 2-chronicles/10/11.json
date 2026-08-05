@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et maintenant, mon père a chargé sur vous un joule pesant, et moi j'ajouterai sur votre joule ; mon père vous a châtiés ⟨את⟩ par des fouets, et moi par des scorpions.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "a chargé"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sur vous"
+    },
+    {
+      "surface": "על",
+      "gloss": "un joule"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "pesant"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "j'ajouterai"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "votre joule"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "a châtiés"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "vous"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "par des fouets"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "par des scorpions"
+    }
+  ],
+  "timestamp": "2026-08-05T06:04:07.611300425Z",
+  "model": "glm-5.2"
+}

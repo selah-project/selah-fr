@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Car à YHWH ⟨le⟩ règne et ⟨il⟩ gouverne ⟨parmi⟩ les nations",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "⟨le⟩ règne"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "et ⟨il⟩ gouverne"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "⟨parmi⟩ les nations"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.759431440Z",
+  "model": "glm-4.5"
+}

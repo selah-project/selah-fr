@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Fais-moi marcher dans le sentier de ⟨tes⟩ commandements, car là est mon plaisir.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Fais-moi marcher"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "dans le sentier"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "de ⟨tes⟩ commandements"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בו",
+      "gloss": "là"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "est mon plaisir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:44.267971736Z",
+  "model": "glm-4.5"
+}

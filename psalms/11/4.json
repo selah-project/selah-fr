@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "YHWH ⟨est⟩ dans ⟨son⟩ palais sacré, YHWH, dans les cieux ⟨est⟩ son trône, ses yeux regardent, ses paupières éprouvent les fils d'Adam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨son⟩ palais sacré"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "⟨est⟩ son trône"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ses yeux"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "regardent"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ses paupières"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "éprouvent"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    }
+  ],
+  "timestamp": "2026-08-05T01:08:18.778877400Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Comme un biche soupire après des cours d'eau, ainsi mon âme soupire après toi, ô Élohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Comme un biche"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "soupire"
+    },
+    {
+      "surface": "על",
+      "gloss": "après"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "des cours de"
+    },
+    {
+      "surface": "מים",
+      "gloss": "eau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "soupire"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "après toi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:09.253222886Z",
+  "model": "glm-4.5"
+}

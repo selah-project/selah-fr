@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Les montagnes ont fondu comme de la cire ⟨de⟩ devant YHWH, ⟨de⟩ devant le Seigneur de toute ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Les montagnes"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ont fondu comme de la cire"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": ""
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "⟨de⟩ devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "⟨de⟩ devant"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "le Seigneur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:56.837018124Z",
+  "model": "glm-4.5"
+}

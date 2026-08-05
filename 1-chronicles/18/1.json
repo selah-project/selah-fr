@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et après cela, Dawid frappa ⟨את⟩ les Pelishtim et les soumit ; et il prit ⟨את⟩ Gath et ses filles de la main des Pelishtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "et il frappa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Pelishtim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "et les soumit"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "et il prit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gath"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "et ses filles"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "des Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-05T05:53:09.522087297Z",
+  "model": "glm-5.2"
+}

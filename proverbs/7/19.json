@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car l'homme ⟨n'est⟩ pas dans sa maison, il est parti pour un long voyage.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨n'est⟩ pas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "dans sa maison"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "est parti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "pour un"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "long voyage"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:10.793300854Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Mes frères m'ont trompé comme un torrent, comme ⟨le⟩ lit des torrents ils passent.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Mes frères"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "m'ont trompé"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "un torrent"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "comme ⟨le⟩ lit"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "des torrents"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ils passent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:47:20.361918518Z",
+  "model": "glm-4.5"
+}

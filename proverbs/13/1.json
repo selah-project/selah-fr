@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Un fils sage ⟨est⟩ ⟨la⟩ discipline de son père, et ⟨le⟩ moqueur n'⟨a⟩ pas écouté ⟨la⟩ réprimande.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "discipline"
+    },
+    {
+      "surface": "אב",
+      "gloss": "de son père"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "et ⟨le⟩ moqueur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'⟨a⟩ pas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écouté"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "⟨la⟩ réprimande"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:08.396688443Z",
+  "model": "glm-4.5"
+}

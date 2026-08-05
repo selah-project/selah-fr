@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Car ton hessed est meilleur que la vie : mes lèvres te loueront.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "est meilleur"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "que la vie"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mes lèvres"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "te loueront"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:16.961442510Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "On ne méprise pas le voleur s'il vole pour remplir son nefesh quand il a faim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "On ne"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "méprise pas"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "le voleur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "il vole"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "pour remplir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "son nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "il a faim"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:21.330831548Z",
+  "model": "glm-4.5"
+}

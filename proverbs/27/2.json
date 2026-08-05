@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Qu'un autre te loue, et non ta bouche, un étranger, et non tes lèvres.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "te loue"
+    },
+    {
+      "surface": "זר",
+      "gloss": "un autre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ta bouche"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "un étranger"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et non"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tes lèvres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:17.394936629Z",
+  "model": "glm-4.5"
+}

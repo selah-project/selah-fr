@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 99,
+  "translation": "Moïse et Aaron parmi ses prêtres, et Samuel parmi les appelants de son nom — ils appelaient YHWH, et il ⟨leur⟩ répondait.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "et Aaron"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "parmi ses prêtres"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "et Samuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "parmi les appelants"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de son nom"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ils appelaient"
+    },
+    {
+      "surface": "אל",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "et il"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "⟨leur⟩ répondait"
+    }
+  ],
+  "timestamp": "2026-08-05T02:25:28.008688247Z",
+  "model": "glm-4.5"
+}

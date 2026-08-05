@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Je te louerai parmi les peuples, YHWH, et je te chanterai parmi les nations.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Je te louerai"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "parmi les peuples"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "et je te chanterai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "parmi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "les nations"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:15.932394212Z",
+  "model": "glm-4.5"
+}

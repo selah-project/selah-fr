@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et tu ⟨as⟩ trébuché le jour et le prophète a trébuché aussi avec toi la nuit et j'ai détruit ta mère",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "et tu as trébuché"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "a trébuché"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "le prophète"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "et j'ai détruit"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ta mère"
+    }
+  ],
+  "timestamp": "2026-08-04T23:59:36.927035982Z",
+  "model": "glm-4.5"
+}

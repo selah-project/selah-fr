@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Tous ⟨mes⟩ os diront : YHWH, qui est comme toi, qui délivres l'affligé de celui qui est plus fort que lui, ⟨et⟩ l'affligé ⟨et⟩ le pauvre de celui qui le dépouille ?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "⟨mes⟩ os"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "diront"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "est comme toi"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qui délivres"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'affligé"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "de celui qui est plus fort que lui"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": ""
+    },
+    {
+      "surface": "ועני",
+      "gloss": "⟨et⟩ l'affligé"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "⟨et⟩ le pauvre"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "de celui qui le dépouille"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:03.254317676Z",
+  "model": "glm-4.5"
+}

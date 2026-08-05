@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Pour faire connaître aux fils de l'homme ses actes puissants, et la splendeur glorieuse de son règne.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Pour faire connaître"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "ses actes puissants"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "et la splendeur"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "glorieuse"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "de son règne"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:49.792691616Z",
+  "model": "glm-4.5"
+}

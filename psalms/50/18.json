@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Si tu vois un voleur, et tu te complais avec lui, et avec les adultères ⟨est⟩ ta part.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "tu vois"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "un voleur"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "et tu te complais"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et avec"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "les adultères"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ta part"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:57.433555284Z",
+  "model": "glm-5.2"
+}

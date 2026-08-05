@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 138,
+  "translation": "Te loueront, YHWH, tous les rois de la terre, car ils ont entendu les propos de ta bouche.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Te loueront"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ils ont entendu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "les propos"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "de ta bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:59:43.009763488Z",
+  "model": "glm-4.5"
+}

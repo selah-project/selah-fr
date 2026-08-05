@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Ma bouche proférera des hokhmot, et la méditation de mon cœur des tevunot.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ma bouche"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "proférera"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "des hokhmot"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "et la méditation"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "de mon cœur"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "des tevunot"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:02.929115117Z",
+  "model": "glm-4.5"
+}

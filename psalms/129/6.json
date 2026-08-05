@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 129,
+  "translation": "Qu'ils soient comme l'herbe des toits, qui se dessèche avant qu'on ⟨l'⟩arrache.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "qu'ils soient"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "comme l'herbe"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "des toits"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "qui avant"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "qu'on ⟨l'⟩arrache"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "se dessèche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:00.314848546Z",
+  "model": "glm-4.5"
+}

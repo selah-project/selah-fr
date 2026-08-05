@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Dans mon cœur j'ai caché ta parole, afin de ne pas pécher contre toi.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "Dans mon cœur"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "j'ai caché"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin de"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "pécher"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contre toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:02.621254097Z",
+  "model": "glm-4.5"
+}

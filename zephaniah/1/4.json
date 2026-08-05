@@ -1,0 +1,95 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et j'étendrai ma main sur Yehouda et sur tous les habitants de Yeroushalaïm, et je retrancherai d'ici ce lieu ⟨le⟩ reste ⟨du⟩ Baal, ⟨le⟩ nom des Kemarim avec les prêtres.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "Et j'étendrai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Yeroushalaïm"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "et je retrancherai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "d'ici"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ce lieu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ici"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le reste du Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "le reste"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "du Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nom des Kemarim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "des Kemarim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    }
+  ],
+  "timestamp": "2026-08-05T00:38:20.221764360Z",
+  "model": "glm-4.5"
+}

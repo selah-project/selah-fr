@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Car voici, je t'ai rendu petit parmi les nations, méprisé parmi les humains.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "petit"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "je t'ai rendu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "méprisé"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "parmi les humains"
+    }
+  ],
+  "timestamp": "2026-08-04T23:05:54.772764884Z",
+  "model": "glm-4.5"
+}

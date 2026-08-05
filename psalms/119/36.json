@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Incline mon cœur vers ⟨tes⟩ témoignages, et non pas vers le gain déshonnête.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Incline"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "⟨tes⟩ témoignages"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et non pas vers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "le gain déshonnête"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:44.268112256Z",
+  "model": "glm-4.5"
+}

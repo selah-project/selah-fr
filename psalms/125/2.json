@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 125,
+  "translation": "Jérusalem, des montagnes ⟨sont⟩ tout autour d'elle ; et YHWH ⟨est⟩ tout autour de son peuple, dès maintenant et jusqu'à toujours.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "des montagnes"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "לה",
+      "gloss": "d'elle"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tout autour"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "de son peuple"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "dès maintenant"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:49.720521438Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Il jugera les affligés du peuple, il sauvera les fils du dépourvu, et il brisera l'oppresseur.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Il jugera"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "les affligés"
+    },
+    {
+      "surface": "עם",
+      "gloss": "du peuple"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "il sauvera"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "du dépourvu"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "et il brisera"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "l'oppresseur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:24.578546209Z",
+  "model": "glm-4.5"
+}

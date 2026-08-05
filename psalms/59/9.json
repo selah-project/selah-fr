@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Et toi, YHWH, tu te riras d'eux, tu te moqueras de toutes les nations.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "tu te riras"
+    },
+    {
+      "surface": "למו",
+      "gloss": "d'eux"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "tu te moqueras"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "de toutes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:14.044363754Z",
+  "model": "glm-4.5"
+}

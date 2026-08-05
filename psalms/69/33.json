@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Les humbles ⟨ont⟩ vu ⟨et⟩ se réjouissent, ⟨vous qui⟩ recherchez Élohim, et vive, ⟨ô⟩ votre cœur.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ont vu"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "les humbles"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se réjouissent"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "vous qui recherchez"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "et vive"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "votre cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:47.901257088Z",
+  "model": "glm-4.5"
+}

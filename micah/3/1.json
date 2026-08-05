@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et je dis : écoutez donc, chefs de Jacob, et officiers de la maison d’Israël : n’est-ce pas ⟨à vous⟩ à connaître ⟨את⟩ le jugement ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Et je dis"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "écoutez"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "chefs"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "et officiers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d’Israël"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "n’est-ce pas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨à vous⟩"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "à connaître"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le jugement"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "le jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T00:27:06.163831506Z",
+  "model": "glm-4.5"
+}

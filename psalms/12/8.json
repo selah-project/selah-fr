@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Toi, YHWH, tu les garderas, tu nous préserveras de cette génération pour toujours.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "tu les garderas"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "tu nous préserveras"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "cette génération"
+    },
+    {
+      "surface": "זו",
+      "gloss": "—"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:38.953473401Z",
+  "model": "glm-4.5"
+}

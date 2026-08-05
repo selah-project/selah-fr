@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et lui ⟨furent⟩ nés sept fils et trois filles.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "Et lui ⟨furent⟩ nés"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sept"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fils"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "et trois"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "filles"
+    }
+  ],
+  "timestamp": "2026-08-05T03:41:52.900806948Z",
+  "model": "glm-4.5"
+}

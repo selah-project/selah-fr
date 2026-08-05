@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Ils ⟨ont⟩ ouvert ⟨contre⟩ moi leur gueule, un lion déchirant et rugissant.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "Ils ⟨ont⟩ ouvert"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨contre⟩ moi"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "leur gueule"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "un lion"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "déchirant"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "et rugissant"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:06.116934011Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 17:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Mon Rouah est brisé, mes jours sont éteints, ⟨des⟩ tombes sont pour moi.",
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "Mon Rouah"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "est brisé"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mes jours"
+    },
+    {
+      "surface": "נזעכו",
+      "gloss": "sont éteints"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "tombes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sont pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:56:46.932036323Z",
+  "model": "glm-4.5"
+}

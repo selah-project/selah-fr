@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Voici donc, j'ai ouvert ⟨la⟩ bouche, ma langue a parlé ⟨dans⟩ ⟨le⟩ palais.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "j'ai ouvert"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨la⟩ bouche"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ma langue"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "⟨dans⟩ ⟨le⟩ palais"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:54.565949773Z",
+  "model": "glm-4.5"
+}

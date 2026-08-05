@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Ne t'éloigne pas de moi, car la détresse est proche, car il n'y a aucun secours.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "t'éloigne pas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "la détresse"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "est proche"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "aucun secours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.969300173Z",
+  "model": "glm-4.5"
+}

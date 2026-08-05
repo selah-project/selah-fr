@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et YHWH répondit ⟨את⟩ Iyyov et dit",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Et répondit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:52.136251546Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "YHWH tranchera toutes les lèvres de flatterie, la langue qui parle des grandeurs.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "tranchera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "les lèvres"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "de flatterie"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la langue"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "qui parle"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "des grandeurs"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:30.794950461Z",
+  "model": "glm-4.5"
+}

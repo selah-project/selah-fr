@@ -1,65 +1,65 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 16,
   "ref": "numbers 24:16",
   "book": "numbers",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Neʾum de celui qui ⟨est⟩ שׁמע les paroles d'El, et connaît ⟨la⟩ connaissance d'Elyon, ⟨la⟩ vision de Shaddaï il contemple, renversé et ⟨avec⟩ yeux dévoilés.",
+  "translation": "Oracle de celui qui entend les paroles d'El, qui connaît la connaissance d'Elyon, vision de Shaddaï il contemple — tombé ⟨et⟩ les yeux dévoilés.",
   "tokens": [
     {
-      "surface": "נאם",
-      "gloss": "Neʾum"
+      "surface": "נְאֻ֗ם",
+      "gloss": "oracle"
     },
     {
-      "surface": "שמע",
-      "gloss": "de celui qui ⟨est⟩ שׁמע"
+      "surface": "שֹׁמֵ֨עַ֙",
+      "gloss": "de celui qui entend"
     },
     {
-      "surface": "אמרי",
+      "surface": "אִמְרֵי",
       "gloss": "les paroles"
     },
     {
-      "surface": "אל",
+      "surface": "אֵ֔ל",
       "gloss": "d'El"
     },
     {
-      "surface": "וידע",
-      "gloss": "et connaît"
+      "surface": "וְיֹדֵ֖עַ",
+      "gloss": "qui connaît"
     },
     {
-      "surface": "דעת",
-      "gloss": "⟨la⟩ connaissance"
+      "surface": "דַּ֣עַת",
+      "gloss": "la connaissance"
     },
     {
-      "surface": "עליון",
+      "surface": "עֶלְי֑וֹן",
       "gloss": "d'Elyon"
     },
     {
-      "surface": "מחזה",
-      "gloss": "⟨la⟩ vision"
+      "surface": "מַחֲזֵ֤ה",
+      "gloss": "vision"
     },
     {
-      "surface": "שדי",
+      "surface": "שַׁדַּי֙",
       "gloss": "de Shaddaï"
     },
     {
-      "surface": "יחזה",
+      "surface": "יֶֽחֱזֶ֔ה",
       "gloss": "il contemple"
     },
     {
-      "surface": "נפל",
-      "gloss": "renversé"
+      "surface": "נֹפֵ֖ל",
+      "gloss": "tombé"
     },
     {
-      "surface": "וגלוי",
-      "gloss": "et ⟨avec⟩ dévoilés"
+      "surface": "וּגְל֥וּי",
+      "gloss": "et dévoilés"
     },
     {
-      "surface": "עינים",
-      "gloss": "yeux"
+      "surface": "עֵינָֽיִם",
+      "gloss": "les yeux"
     }
   ],
-  "timestamp": "2026-08-04T09:20:24.037023646Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T07:00:48.429358735Z",
+  "model": "glm-5.2"
 }

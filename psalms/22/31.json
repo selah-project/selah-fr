@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Une postérité le servira ; on ⟨le⟩ racontera pour Adonaï, ⟨comme⟩ une génération",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Une postérité"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "le servira"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "on ⟨le⟩ racontera"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "pour Adonaï"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "⟨comme⟩ une génération"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.759691108Z",
+  "model": "glm-4.5"
+}

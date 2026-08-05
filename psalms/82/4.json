@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Faites-échapper le faible et le besoin, de la main des méchants délivrez.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Faites-échapper"
+    },
+    {
+      "surface": "דל",
+      "gloss": "le faible"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et le besoin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "délivrez"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:11.685287913Z",
+  "model": "glm-4.5"
+}

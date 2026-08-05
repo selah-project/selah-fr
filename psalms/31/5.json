@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Fais-moi sortir du filet qu'ils ont caché pour moi, car tu es mon refuge.",
+  "tokens": [
+    {
+      "surface": "תּוֹצִיאֵ֗נִי",
+      "gloss": "Fais-moi sortir"
+    },
+    {
+      "surface": "מֵרֶ֣שֶׁת",
+      "gloss": "du filet"
+    },
+    {
+      "surface": "ז֭וּ",
+      "gloss": "que"
+    },
+    {
+      "surface": "טָ֣מְנוּ",
+      "gloss": "ils ont caché"
+    },
+    {
+      "surface": "לִ֑י",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אַ֝תָּה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מָֽעוּזִּֽי",
+      "gloss": "mon refuge"
+    }
+  ],
+  "timestamp": "2026-08-05T06:36:25.249551563Z",
+  "model": "glm-5.2"
+}

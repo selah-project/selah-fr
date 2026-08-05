@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 54,
+  "translation": "Voici, Élohim est mon secours, Adonaï est avec ceux qui soutiennent ⟨ma⟩ nefesh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "est mon secours"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨est⟩ à moi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "est avec ceux qui soutiennent"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨ma⟩ nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:41.931698992Z",
+  "model": "glm-4.5"
+}

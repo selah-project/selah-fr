@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "En Juda, Élohim est connu ; en Israël, son nom est grand.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "est connu"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "En Juda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "est grand"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:01.162709414Z",
+  "model": "glm-4.5"
+}

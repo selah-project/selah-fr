@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Qu'ils ne disent pas dans leur cœur : Hé ! notre nefesh ; qu'ils ne disent pas : nous l'avons englouti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Qu'ils ne ... pas"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "disent"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dans leur cœur"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé !"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "notre nefesh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qu'ils ne ... pas"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "disent"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "nous l'avons englouti"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:31.940866089Z",
+  "model": "glm-4.5"
+}

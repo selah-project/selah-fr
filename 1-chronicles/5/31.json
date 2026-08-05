@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Avichoua engendra ⟨את⟩ Bouki, et Bouki engendra ⟨את⟩ Ouzzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "et Avichoua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bouki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bouki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "et Bouki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ouzzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Ouzzi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:46:18.367968347Z",
+  "model": "glm-5.2"
+}

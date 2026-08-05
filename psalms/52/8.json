@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Et les justes verront et craindront, et sur lui ils riront.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Et les justes verront"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "⟨les justes⟩"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "et craindront"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "et sur lui"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ils riront"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:06.984360183Z",
+  "model": "glm-4.5"
+}

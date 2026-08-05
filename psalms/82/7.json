@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Mais comme un homme vous mourrez, et comme un des chefs vous tomberez.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Mais"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "comme un homme"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "vous mourrez"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "et comme un"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "des chefs"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "vous tomberez"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:58.995679684Z",
+  "model": "glm-4.5"
+}

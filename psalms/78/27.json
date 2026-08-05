@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 78:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et fit pleuvoir sur eux comme poussière ⟨de la⟩ chair, et comme sable des mers ⟨de l'⟩oiseau aile.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "et fit pleuvoir"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "comme poussière"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "⟨de la⟩ chair"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "et comme sable"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des mers"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "⟨de l'⟩oiseau"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "aile"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:32.925253697Z",
+  "model": "glm-4.5"
+}

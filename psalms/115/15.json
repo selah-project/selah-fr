@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Vous êtes bénis de YHWH, qui a fait les cieux et la terre.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Vous êtes bénis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qui a fait"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:08.952488836Z",
+  "model": "glm-4.5"
+}

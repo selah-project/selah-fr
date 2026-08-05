@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Seulement, pour Élohim, mon âme se tait en silence ; car de lui vient mon espérance.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "pour Élohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "se tait en silence"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mon espérance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:40.277263235Z",
+  "model": "glm-4.5"
+}

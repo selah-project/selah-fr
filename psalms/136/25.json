@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "⟨Celui qui⟩ donne du pain à toute chair, car pour toujours est son hessed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "⟨Celui qui⟩ donne"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "à toute"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "chair"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "est son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:46.984252569Z",
+  "model": "glm-4.5"
+}

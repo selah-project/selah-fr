@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Un sot fait sortir tout son souffle, et un sage le contient pour après.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "son souffle"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "fait sortir"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "un sot"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "et un sage"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "pour après"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "le contient"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:25.358581909Z",
+  "model": "glm-4.5"
+}

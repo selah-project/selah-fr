@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Vers toi ils ont crié et ont été délivrés, en toi ils se sont confiés et n'ont pas ⟨été⟩ honteux",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ils ont crié"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "et ont été délivrés"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ils se sont confiés"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'ont pas"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "⟨été⟩ honteux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.051515222Z",
+  "model": "glm-4.5"
+}

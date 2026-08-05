@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "J'entrerai dans ta maison avec ⟨des⟩ holocaustes, j'acquitterai envers toi mes vœux",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "J'entrerai"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dans ta maison"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "avec ⟨des⟩ holocaustes"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "j'acquitterai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "envers toi"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mes vœux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:39.112586335Z",
+  "model": "glm-4.5"
+}

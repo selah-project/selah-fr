@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Si tu te couches, tu n'auras pas peur ; et tu te coucheras, et ton sommeil sera agréable",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "tu te couches"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu n'auras"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "pas peur"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "et tu te couches"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "et ⟨sera⟩ agréable"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ton sommeil"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:30.996897725Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Toi, tu es mon roi, ô Élohim, ordonne les délivrances de Jacob.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mon roi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ordonne"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "les délivrances"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:40.348468111Z",
+  "model": "glm-4.5"
+}

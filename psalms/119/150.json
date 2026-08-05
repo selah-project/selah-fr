@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ils s'approchent, ⟨ceux qui⟩ poursuivent ⟨la⟩ zimmah, loin de ta Torah",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ils s'approchent"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "⟨ceux qui⟩ poursuivent"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "⟨la⟩ zimmah"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "loin de ta Torah"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "sont éloignés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:44.564314480Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Ils demandèrent, et il fit venir la caille, et le pain des cieux les rassasia.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Ils demandèrent"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et il fit venir"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "la caille"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "et le pain"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "les rassasia"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:14.150381205Z",
+  "model": "glm-4.5"
+}

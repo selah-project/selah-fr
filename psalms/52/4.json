@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Tu ourdis des ruines, ta langue ; comme un rasoir aiguisé, agissant avec tromperie",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "tu ourdis des ruines"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": ""
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ta langue"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "comme un rasoir"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "aiguisé"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agissant"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "avec tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:16.176916021Z",
+  "model": "glm-4.5"
+}

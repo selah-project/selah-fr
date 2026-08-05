@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Et il ôta ⟨את⟩ les Élohim de l'étranger et ⟨את⟩ le symbole idolâtre, de la maison de YHWH, et tous les autels qu'il avait bâtis sur la montagne de la maison de YHWH et à Jérusalem, et les jeta hors de la ville.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Et il ôta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Élohim de l'étranger"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "les Élohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "de l'étranger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "le symbole idolâtre"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "le symbole idolâtre"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "les autels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "il avait bâtis"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "et à Jérusalem"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "et les jeta"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "hors"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "de la ville"
+    }
+  ],
+  "timestamp": "2026-08-05T06:14:14.358139270Z",
+  "model": "glm-5.2"
+}

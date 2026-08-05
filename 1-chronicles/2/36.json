@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et Attaï engendra ⟨את⟩ Natân, et Natân engendra ⟨את⟩ Zavad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "et Attaï"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natân"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natân"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "et Natân"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zavad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zavad"
+    }
+  ],
+  "timestamp": "2026-08-05T05:45:09.801416864Z",
+  "model": "glm-5.2"
+}

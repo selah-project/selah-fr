@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Un poème de David. Garde-moi, Él, car je me suis réfugié en toi.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Un poème"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Garde-moi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Él"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "je me suis réfugié"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:28.333341275Z",
+  "model": "glm-4.5"
+}

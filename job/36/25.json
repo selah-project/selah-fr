@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Tout humain ⟨a⟩ vu ⟨en⟩ lui, un mortel regarde de loin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tout"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "humain"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "a vu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un mortel"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "de loin"
+    }
+  ],
+  "timestamp": "2026-08-05T04:11:20.948759462Z",
+  "model": "glm-4.5"
+}

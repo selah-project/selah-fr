@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Hetzron engendra ⟨את⟩ Ram, et Ram engendra ⟨את⟩ Aminadab.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Et Hetzron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "et Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:55.550129151Z",
+  "model": "glm-4.5"
+}

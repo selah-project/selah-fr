@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Je m'épuise dans mon soupir, je fais nager ⟨את⟩ mon lit toute la nuit, je fais fondre ⟨את⟩ mon couchette avec mes larmes.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Je m'épuise"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "dans mon soupir"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "je fais nager"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "la nuit"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "⟨את⟩ mon lit"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "avec mes larmes"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "⟨את⟩ mon couchette"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "je fais fondre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:40.775246093Z",
+  "model": "glm-4.5"
+}

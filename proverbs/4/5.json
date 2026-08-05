@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "acquiers Hokhma acquiers binah n'⟨en⟩ oublie pas et ne t'⟨en⟩ détourne pas des paroles de ma bouche",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "acquiers"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Hokhma"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "acquiers"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "binah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n'⟨en⟩"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "oublie pas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne t'⟨en⟩"
+    },
+    {
+      "surface": "תט",
+      "gloss": "détourne pas"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "des paroles"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de ma bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:15:24.250120685Z",
+  "model": "glm-4.5"
+}

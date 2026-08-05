@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "Car El ⟨est⟩ grand, YHWH, et grand roi, sur tous les Élohim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "et grand roi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "les Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:14.573845849Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Erreurs qui ⟨peut⟩ comprendre ? Des ⟨choses⟩ cachées, acquitte-moi.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "Erreurs"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "peut comprendre"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "des choses cachées"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "acquitte-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:57.404742925Z",
+  "model": "glm-4.5"
+}

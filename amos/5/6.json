@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Cherchez YHWH et vivez, de peur qu'il ne fasse irruption comme le feu ⟨dans⟩ la maison de Joseph et qu'il la dévore, et qu'il n'y ait personne pour l'éteindre ⟨à⟩ Beth-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "cherchez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "et vivez"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "il ne fasse irruption"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "comme le feu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "de Joseph"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "et qu'il la dévore"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et qu'il n'y ait"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "personne pour l'éteindre"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨à⟩ Beth"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-08-05T00:17:32.132808235Z",
+  "model": "glm-4.5"
+}

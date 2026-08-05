@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils provoquèrent le courroux aux eaux de Meriba, et ⟨il⟩ advint du mal à Moïse à cause d'eux.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Et ils provoquèrent le courroux"
+    },
+    {
+      "surface": "על",
+      "gloss": "aux"
+    },
+    {
+      "surface": "מי",
+      "gloss": "eaux"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "de Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "et ⟨il⟩ advint du mal"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "à Moïse"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "à cause d'eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:08.417072980Z",
+  "model": "glm-4.5"
+}

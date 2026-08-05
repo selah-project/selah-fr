@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Les yeux de YHWH ⟨sont⟩ vers les justes, et ses oreilles ⟨sont⟩ vers leur cri.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Les yeux"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "les justes"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "et ses oreilles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "leur cri"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:00.145506754Z",
+  "model": "glm-4.5"
+}

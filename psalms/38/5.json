@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Car mes fautes ⟨ont⟩ passé par-dessus ma tête, comme un fardeau lourd elles ⟨sont⟩ alourdies par-dessus moi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mes fautes"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "⟨ont⟩ passé par-dessus"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "comme un fardeau"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lourd"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "elles ⟨sont⟩ alourdies"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "par-dessus moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:35.926688980Z",
+  "model": "glm-4.5"
+}

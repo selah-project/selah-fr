@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Ne désire pas ses délices, car c'est un pain de mensonge",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "désire pas"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "ses délices"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "car c'est"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "un pain"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "de mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T03:32:46.914105651Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Les lionceaux manquent et ont faim mais ceux qui recherchent YHWH ne manqueront d'aucun bien",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "les lionceaux"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "manquent"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "et ont faim"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "mais ceux qui recherchent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "manqueront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aucun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bien"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:22.030932389Z",
+  "model": "glm-4.5"
+}

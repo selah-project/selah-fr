@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Parce que tu as dit : ⟨Les⟩ deux nations et ⟨les⟩ deux terres ⟨seront⟩ à moi, et nous les possèderons, alors que YHWH était là",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Parce que"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "tu as dit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨Les⟩",
+      "marks": "שני הגוים"
+    },
+    {
+      "surface": "שני",
+      "gloss": "deux"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nations"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨les⟩",
+      "marks": "שתי הארצות"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "deux"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "terres"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨seront⟩ à moi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": ""
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "et nous les possèderons"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "alors que YHWH"
+    },
+    {
+      "surface": "שם",
+      "gloss": "était"
+    },
+    {
+      "surface": "היה",
+      "gloss": "là"
+    }
+  ],
+  "timestamp": "2026-08-04T23:43:18.751886514Z",
+  "model": "glm-4.5"
+}

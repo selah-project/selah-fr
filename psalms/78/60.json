@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il abandonna ⟨le⟩ mishkan de Shilo, ⟨la⟩ tente ⟨où⟩ il résidait parmi les hommes",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Et il abandonna"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "⟨le⟩ mishkan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "de Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "⟨la⟩ tente"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "⟨où⟩ il résidait"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "parmi les hommes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:08.568470696Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "En tout lieu les yeux de YHWH observent les mauvais et les bons.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "En tout"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lieu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "les yeux"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "observent"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "les mauvais"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "et les bons"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:34.596503245Z",
+  "model": "glm-4.5"
+}

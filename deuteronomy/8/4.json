@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Ton vêtement ne s'est pas usé sur toi, et ton pied n'a pas enflé, voici quarante ans.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Ton vêtement"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "s'est pas usé"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "et ton pied"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "pas enflé"
+    },
+    {
+      "surface": "זה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    }
+  ],
+  "timestamp": "2026-08-04T21:50:05.512464931Z",
+  "model": "glm-4.5"
+}

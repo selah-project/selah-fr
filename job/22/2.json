@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Est-ce que ⟨l'⟩ homme ⟨est⟩ utile à El, quand ⟨il est⟩ intelligent pour lui-même ?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Est-ce que ⟨l'⟩ El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "⟨est⟩ utile à"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨l'⟩ homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "⟨il est⟩ utile"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "pour lui-même"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "intelligent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:46.502665341Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et Abraham lui dit : Prends garde à toi, de peur que tu ne fasses retourner ⟨את⟩ mon fils là-bas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et Abraham dit"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Prends garde à toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "tu ne fasses retourner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là-bas"
+    }
+  ],
+  "timestamp": "2026-08-04T18:46:40.040061190Z",
+  "model": "glm-4.5"
+}

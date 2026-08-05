@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car maintenant elle ⟨est⟩ venue sur toi, et tu languis ; elle ⟨te⟩ touche, et tu ⟨es⟩ effrayé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "elle ⟨est⟩ venue"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "et tu languis"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "elle ⟨te⟩ touche"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": ""
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "et tu ⟨es⟩ effrayé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:45:22.879381216Z",
+  "model": "glm-4.5"
+}

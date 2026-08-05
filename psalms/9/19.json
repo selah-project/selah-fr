@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car le nécessiteux ne sera pas oublié pour toujours, l'attente des humbles ne périra pas pour toujours.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne sera pas"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "oublié"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "le nécessiteux"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "l'attente"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "des humbles"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ne périra pas"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:38.347143885Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et les prêtres et les Lévites se purifièrent, et ils purifièrent ⟨את⟩ le peuple et ⟨את⟩ les portes et ⟨את⟩ le rempart.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "et se purifièrent"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "et les Lévites"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "et ils purifièrent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les portes"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "les portes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le rempart"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "le rempart"
+    }
+  ],
+  "timestamp": "2026-08-05T05:43:31.402870081Z",
+  "model": "glm-5.2"
+}

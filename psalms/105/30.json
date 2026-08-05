@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Leur pays fourmilla ⟨de⟩ grenouilles, ⟨dans⟩ les chambres de leurs rois.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "fourmilla"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leur pays"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "grenouilles"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "dans les chambres"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "de leurs rois"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:19.592704836Z",
+  "model": "glm-4.5"
+}

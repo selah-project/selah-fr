@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Un chant, un psaume pour les fils de Qorah.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Un chant"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": ", un psaume"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pour les fils de"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:33.141335052Z",
+  "model": "glm-4.5"
+}

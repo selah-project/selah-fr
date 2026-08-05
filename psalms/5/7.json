@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Tu feras périr les parleurs de mensonge, un homme de sang et de tromperie, YHWH le déteste.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Tu feras périr"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les parleurs"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "de mensonge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "et de tromperie"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "le déteste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:40.603493013Z",
+  "model": "glm-4.5"
+}

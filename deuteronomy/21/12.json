@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "et tu la feras venir au milieu de ta maison et elle rasera ⟨את⟩ sa tête et fera ⟨את⟩ ses ongles",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "et tu la feras venir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "le milieu de"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ta maison"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "et elle rasera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tête"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "sa tête"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "et fera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses ongles"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ses ongles"
+    }
+  ],
+  "timestamp": "2026-08-04T21:52:30.427722889Z",
+  "model": "glm-4.5"
+}

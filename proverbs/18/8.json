@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Les paroles d'un délateur sont comme des friandises, et ils descendent dans les chambres du ventre.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Les paroles"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "d'un délateur"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "sont comme des friandises"
+    },
+    {
+      "surface": "והם",
+      "gloss": "et ils"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "descendent"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "dans les chambres"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "du ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:51.815007290Z",
+  "model": "glm-4.5"
+}

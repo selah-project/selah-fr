@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Au chef des chantres, de David, un psaume. YHWH, tu m'as sondé et tu as connu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "tu m'as sondé"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "et tu as connu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:48.499907689Z",
+  "model": "glm-4.5"
+}

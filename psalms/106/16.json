@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils furent jaloux de Moïse dans le camp, d'Aaron, le saint de YHWH.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Et ils furent jaloux"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "de Moïse"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "dans le camp"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "le saint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:10.869042272Z",
+  "model": "glm-4.5"
+}

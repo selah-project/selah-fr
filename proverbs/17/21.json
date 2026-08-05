@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Enfanter ⟨un⟩ sot, c'est ⟨de la⟩ détresse pour lui, et le père d'un vilain n'a pas de joie.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "Enfanter"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "un sot"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "c'est de la détresse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "n'a pas de joie"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "le père"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "d'un vilain"
+    }
+  ],
+  "timestamp": "2026-08-05T03:28:01.930414328Z",
+  "model": "glm-4.5"
+}

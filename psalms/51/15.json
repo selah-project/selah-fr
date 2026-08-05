@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "⟨Alors⟩ j'enseignerai ⟨aux⟩ transgresseurs tes voies, et ⟨les⟩ pécheurs à toi reviendront",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "j'enseignerai"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "⟨aux⟩ transgresseurs"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tes voies"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "et ⟨les⟩ pécheurs"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "reviendront"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:40.568082647Z",
+  "model": "glm-4.5"
+}

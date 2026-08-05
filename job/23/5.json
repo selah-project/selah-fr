@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Je saurais ⟨les⟩ mots qu'il ⟨me⟩ répondrait, et je comprendrais ce qu'il ⟨me⟩ dirait",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "je saurais"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "⟨les⟩ mots"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "qu'il ⟨me⟩ répondrait"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "et je comprendrais"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "il dirait"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨me⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T04:01:38.802541026Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car l'extorsion fait délirer le sage, et ⟨le⟩ cadeau détruit ⟨את⟩ le cœur",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "l'extorsion"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "fait délirer"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "le sage"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "et ⟨le⟩ cadeau détruit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le cœur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "⟨le⟩ cadeau"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:44.714886407Z",
+  "model": "glm-4.5"
+}

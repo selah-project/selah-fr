@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Une génération — dents ⟨sont⟩ des épées, et ses mâchoires ⟨sont⟩ des couteaux, pour dévorer ⟨les⟩ pauvres de la terre, et ⟨les⟩ indigents d'entre ⟨les⟩ humains.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "une génération"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "dents ⟨sont⟩ des épées"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "et ses dents"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "et ses mâchoires"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "mâchoires"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pour dévorer"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "⟨les⟩ pauvres"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "et ⟨les⟩ indigents"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "d'entre ⟨les⟩ humains"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:32.484080680Z",
+  "model": "glm-4.5"
+}

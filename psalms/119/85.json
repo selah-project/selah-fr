@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Les arrogants ont creusé pour moi des pièges, qui ⟨ne sont⟩ pas selon ta Torah.",
+  "tokens": [
+    {
+      "surface": "כָּֽרוּ",
+      "gloss": "ont creusé"
+    },
+    {
+      "surface": "לִ֣י",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "זֵדִ֣ים",
+      "gloss": "les arrogants"
+    },
+    {
+      "surface": "שִׁיח֑וֹת",
+      "gloss": "des pièges"
+    },
+    {
+      "surface": "אֲ֝שֶׁ֗ר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כְתוֹרָתֶֽךָ",
+      "gloss": "selon ta Torah"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:42.321181950Z",
+  "model": "glm-5.2"
+}

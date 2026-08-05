@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Y a-t-il un nombre à ses troupes ? Et sur qui ne se lève pas sa lumière ?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Y a-t-il"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "un nombre"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "à ses troupes"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "Et sur"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se lève"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "pas sa lumière"
+    }
+  ],
+  "timestamp": "2026-08-05T04:03:04.154381848Z",
+  "model": "glm-4.5"
+}

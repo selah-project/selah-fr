@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Un messager méchant tombe dans le mal, mais un envoyé fidèle est guérison.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "un messager"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "méchant"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tombe"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "dans le mal"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "mais un envoyé"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "fidèle"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "est guérison"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:58.629314389Z",
+  "model": "glm-4.5"
+}

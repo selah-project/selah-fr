@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Gardant la mitsvah garde sa nefesh, méprisant ses voies mourra",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Gardant"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "la mitsvah"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa nefesh"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "méprisant"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ses voies"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mourra"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:38.899233297Z",
+  "model": "glm-4.5"
+}

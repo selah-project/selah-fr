@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "⟨Celui⟩ qui donne la délivrance aux rois, ⟨Celui⟩ qui délivre ⟨את⟩ David, son serviteur, de l'épée mauvaise.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "⟨Celui⟩ qui donne"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "la délivrance"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "aux rois"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "⟨Celui⟩ qui délivre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "son serviteur"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "de l'épée"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mauvaise"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:19.413377586Z",
+  "model": "glm-4.5"
+}

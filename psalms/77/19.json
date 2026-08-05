@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "La voix de ton tonnerre ⟨était⟩ dans l'ouragan, les éclairs ⟨ont⟩ illuminé le monde, la terre ⟨a⟩ tremblé et ⟨s'est⟩ secouée.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voix"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "de ton tonnerre"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "dans l'ouragan"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "ont illuminé"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "les éclairs"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "a tremblé"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "et s'est secouée"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:00.327080301Z",
+  "model": "glm-4.5"
+}

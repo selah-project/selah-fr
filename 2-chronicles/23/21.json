@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et tout le peuple du pays se réjouit, et la ville fut tranquille ; et ⟨את⟩ Athalie ils firent mourir par l'épée.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׂמְח֥וּ",
+      "gloss": "Et ils se réjouirent"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "הָאָ֖רֶץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "וְהָעִ֣יר",
+      "gloss": "et la ville"
+    },
+    {
+      "surface": "שָׁקָ֑טָה",
+      "gloss": "fut tranquille"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Athalie"
+    },
+    {
+      "surface": "עֲתַלְיָ֖הוּ",
+      "gloss": "Athalie"
+    },
+    {
+      "surface": "הֵמִ֥יתוּ",
+      "gloss": "ils firent mourir"
+    },
+    {
+      "surface": "בֶּחָֽרֶב",
+      "gloss": "par l'épée"
+    }
+  ],
+  "timestamp": "2026-08-05T06:07:33.002672119Z",
+  "model": "glm-5.2"
+}

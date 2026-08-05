@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Ils burent du vin et louèrent les dieux d'or, d'argent, de cuivre, de fer, de bois et de pierre.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "burent"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "et louèrent"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "les dieux"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "d'argent"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "de cuivre"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "de fer"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "de bois"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "et de pierre"
+    }
+  ],
+  "timestamp": "2026-08-05T05:11:42.439359233Z",
+  "model": "glm-4.5"
+}

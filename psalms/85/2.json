@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Tu as agréé, YHWH, ⟨ton⟩ pays ; tu as ramené ⟨la⟩ captivité de Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Tu as agréé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "⟨ton⟩ pays"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tu as ramené"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "⟨la⟩ captivité"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:06.984746611Z",
+  "model": "glm-4.5"
+}

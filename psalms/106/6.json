@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Nous avons péché avec nos pères, nous avons perverti, nous avons commis ⟨l'iniquité⟩",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Nous avons péché"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nos pères"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "nous avons perverti"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "nous avons commis ⟨l'iniquité⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:50.695310826Z",
+  "model": "glm-4.5"
+}

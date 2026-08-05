@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Il aplanit un chemin ⟨à⟩ sa colère, il n'a pas épargné leur nefesh de la mort, et a livré leur vie ⟨à⟩ la peste.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Il aplanit"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "un chemin"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "⟨à⟩ sa colère"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'a pas"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "épargné"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la mort"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "leur nefesh"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "et a livré leur vie"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨à⟩ la peste"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:13.602746712Z",
+  "model": "glm-4.5"
+}

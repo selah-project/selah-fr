@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Sa mesure est plus longue que la terre, et plus large que la mer.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "Sa mesure est longue"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "que la terre"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "⟨et⟩"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "large"
+    },
+    {
+      "surface": "מני",
+      "gloss": "que"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:22.175146740Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Vanité ils sont, œuvre de tromperie, au temps de ⟨leur⟩ visitation ils périront",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "vanité"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils sont"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "œuvre"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "de tromperie"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "au temps"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "de ⟨leur⟩ visitation"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ils périront"
+    }
+  ],
+  "timestamp": "2026-08-04T16:16:44.991391154Z",
+  "model": "glm-4.5"
+}

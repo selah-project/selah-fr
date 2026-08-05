@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 27:14",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Celui qui bénit son ami ⟨avec⟩ une voix grande, le matin ⟨se levant⟩ tôt, cela ⟨sera⟩ compté pour lui comme une malédiction",
+  "tokens": [
+    {
+      "surface": "מברך",
+      "gloss": "Celui qui bénit"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son ami"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨avec⟩ une voix"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grande"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "⟨se levant⟩ tôt"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "une malédiction"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "cela ⟨sera⟩ compté"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:36:33.976605160Z",
+  "model": "glm-4.5"
+}

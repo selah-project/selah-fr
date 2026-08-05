@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Elles abreuvent toute bête du champ, les onagres brisent leur soif.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "Elles abreuvent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bête du champ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "du champ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "brisent"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "les onagres"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "leur soif"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:24.633830182Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Mais eux, comme Adam, ont transgressé ⟨l'alliance⟩, là, ils ont agi traîtreusement envers moi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "mais eux"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "comme Adam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ont transgressé"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨l'alliance⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ils ont agi traîtreusement"
+    },
+    {
+      "surface": "בי",
+      "gloss": "envers moi"
+    }
+  ],
+  "timestamp": "2026-08-05T00:01:28.190337350Z",
+  "model": "glm-4.5"
+}

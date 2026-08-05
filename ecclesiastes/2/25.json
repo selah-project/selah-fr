@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Car qui peut manger et qui peut se hâter ⟨hors de⟩ moi ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "peut manger"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "peut se hâter"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "⟨hors de⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:33:30.705346346Z",
+  "model": "glm-4.5"
+}

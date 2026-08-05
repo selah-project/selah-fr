@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Seulement, homme ne contende pas, et homme ne reprove pas, et ton peuple est comme ceux qui contendent avec ⟨le⟩ prêtre.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "contende"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "reprove"
+    },
+    {
+      "surface": "איש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "et ton peuple"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "est comme ceux qui contendent"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "avec ⟨le⟩ prêtre"
+    }
+  ],
+  "timestamp": "2026-08-04T23:59:53.382558150Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Les rois de la terre se tiennent ⟨debout⟩, et les princes se concertent ensemble, contre YHWH et contre son Mashiah.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "se tiennent ⟨debout⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "rois"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "et les princes"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "se concertent"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "על",
+      "gloss": "contre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et contre"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "son Mashiah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:16.110487077Z",
+  "model": "glm-4.5"
+}

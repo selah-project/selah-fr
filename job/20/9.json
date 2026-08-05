@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "L'œil qui ⟨le⟩ scruta ne l'ajoutera plus, et son lieu ne l'apercevra plus",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "L'œil"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "qui ⟨le⟩ scruta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "l'ajoutera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "plus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "ne l'apercevra"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "son lieu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:29.721535806Z",
+  "model": "glm-4.5"
+}

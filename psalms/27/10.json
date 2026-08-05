@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Car ⟨mon⟩ père et ⟨ma⟩ mère m'ont abandonné, mais YHWH me rassemblera.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨mon⟩ père"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "et ⟨ma⟩ mère"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "m'ont abandonné"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "me rassemblera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:40.173498735Z",
+  "model": "glm-4.5"
+}

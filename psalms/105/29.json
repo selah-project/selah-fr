@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il changea ⟨את⟩ leurs eaux en sang, et fit mourir ⟨את⟩ leurs poissons.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "changea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs eaux"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "leurs eaux"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "en sang"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et fit mourir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs poissons"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "leurs poissons"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:19.592498102Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Il met des rivières en désert, et des sources d'eau en lieu de sécheresse",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Il met"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "des rivières"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "en désert"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "et des sources"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eau"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "en lieu de sécheresse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:22.319763893Z",
+  "model": "glm-4.5"
+}

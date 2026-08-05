@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Chantez à YHWH, siégeant à Sion ; racontez parmi les peuples ses hauts faits",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "siégeant"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "à Sion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "racontez"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "parmi les peuples"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ses hauts faits"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:25.941061509Z",
+  "model": "glm-4.5"
+}

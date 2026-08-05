@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il ouvrit le rocher et ⟨les⟩ eaux jaillirent, elles coururent dans les lieux secs comme ⟨un⟩ fleuve.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Il ouvrit"
+    },
+    {
+      "surface": "צור",
+      "gloss": "le rocher"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "et jaillirent"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨les⟩ eaux"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "elles coururent"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "dans les lieux secs"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "comme ⟨un⟩ fleuve"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:26.915572512Z",
+  "model": "glm-4.5"
+}

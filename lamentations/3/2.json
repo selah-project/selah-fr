@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "⟨את⟩ me conduisit, et fit marcher ⟨dans⟩ les ténèbres et non ⟨dans⟩ la lumière",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "me"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "conduisit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "et fit marcher"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "⟨dans⟩ les ténèbres"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨dans⟩ la lumière"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:46.460410299Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Que la gloire de YHWH ⟨soit⟩ pour toujours ; que YHWH se réjouisse en ses œuvres.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Que ... soit"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "que YHWH se réjouisse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "en ses œuvres"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:12.541507086Z",
+  "model": "glm-4.5"
+}

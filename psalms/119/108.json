@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Accepte, je te prie, YHWH, les offrandes volontaires de ma bouche, et enseigne-moi tes jugements.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "les offrandes volontaires"
+    },
+    {
+      "surface": "פי",
+      "gloss": "de ma bouche"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "Accepte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "et tes jugements"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:00.101457157Z",
+  "model": "glm-4.5"
+}

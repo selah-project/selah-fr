@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "La lampe de YHWH ⟨est⟩ le souffle de l'humain, sonde toutes les chambres du ventre.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "La lampe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "le souffle"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'humain"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "sonde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "les chambres"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "du ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:24.750696770Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Vanité des vanités, dit le Qohelet, tout est vanité.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "vanité"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "des vanités"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "le Qohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanité"
+    }
+  ],
+  "timestamp": "2026-08-05T04:52:31.094448835Z",
+  "model": "glm-4.5"
+}

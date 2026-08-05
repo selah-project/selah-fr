@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Le hessed et la vérité se sont rencontrés, la justice et le shalom se sont embrassés.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Le hessed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "et la vérité"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "se sont rencontrés"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "et le shalom"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "se sont embrassés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:18.729582340Z",
+  "model": "glm-4.5"
+}

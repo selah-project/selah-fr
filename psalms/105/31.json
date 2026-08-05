@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Il dit, et ⟨vinrent⟩ les moustiques, ⟨et⟩ les mouches dans tout leur territoire.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Il dit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et ⟨vinrent⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "les moustiques"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "et les mouches"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "leur territoire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:19.592814771Z",
+  "model": "glm-4.5"
+}

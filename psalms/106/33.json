@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Car ils ont irrité ⟨son⟩ Rouah, et il a parlé ⟨inconsidérément⟩ de ⟨ses⟩ lèvres.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ils ont irrité"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨son⟩ Rouah"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "⟨son⟩ Rouah"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "et il a parlé ⟨inconsidérément⟩"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "de ⟨ses⟩ lèvres"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:11.893565435Z",
+  "model": "glm-4.5"
+}

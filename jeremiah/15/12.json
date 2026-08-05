@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Est-ce que le fer brise le fer ⟨du⟩ nord et le bronze ?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "Est-ce que… brise"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "le fer"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "le fer"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "⟨du⟩ nord"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "et le bronze"
+    }
+  ],
+  "timestamp": "2026-08-04T16:22:27.996808337Z",
+  "model": "glm-4.5"
+}

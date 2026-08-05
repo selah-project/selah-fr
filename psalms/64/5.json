@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 64,
+  "translation": "Pour tirer dans les lieux cachés ⟨sur⟩ l'intègre, soudain ils tirent ⟨sur⟩ lui, et ne ⟨le⟩ craignent pas.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "Pour tirer"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "dans les lieux cachés"
+    },
+    {
+      "surface": "תם",
+      "gloss": "⟨sur⟩ l'intègre"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "soudain"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ils tirent ⟨sur⟩ lui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "⟨le⟩ craignent pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:03.775059547Z",
+  "model": "glm-4.5"
+}

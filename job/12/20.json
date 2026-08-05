@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 12:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Il retire la parole aux fidèles, et le sens des anciens, il le prend.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "Il retire"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "aux fidèles"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "et le sens"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "des anciens"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "il le prend"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:00.125888103Z",
+  "model": "glm-4.5"
+}

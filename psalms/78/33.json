@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et Il consomma dans la vanité leurs jours et leurs années dans l'épouvante",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Et Il consomma"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "dans la vanité"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "leurs jours"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "et leurs années"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "dans l'épouvante"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:31.493709934Z",
+  "model": "glm-4.5"
+}

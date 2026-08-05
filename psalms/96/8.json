@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Donnez à YHWH la gloire de son nom, portez une offrande et venez dans ses parvis.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Donnez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de son nom"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "portez"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "une offrande"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "et venez"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "dans ses parvis"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:59.314651082Z",
+  "model": "glm-4.5"
+}

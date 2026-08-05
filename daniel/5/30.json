@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "En cette nuit-là fut tué Belshatsar, le roi des Chaldéens.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "En"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "cette nuit-là"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "fut tué"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "des Chaldéens"
+    }
+  ],
+  "timestamp": "2026-08-05T05:11:09.678306552Z",
+  "model": "glm-4.5"
+}

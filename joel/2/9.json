@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Dans la ville ils ⟨se⟩ ruent, sur la muraille ils courent, dans les maisons ils montent, par les fenêtres ils entrent comme un voleur.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "dans la ville"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ils ⟨se⟩ ruent"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "sur la muraille"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "ils courent"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "dans les maisons"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ils montent"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "par"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "les fenêtres"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ils entrent"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "comme un voleur"
+    }
+  ],
+  "timestamp": "2026-08-05T00:11:06.509736786Z",
+  "model": "glm-4.5"
+}

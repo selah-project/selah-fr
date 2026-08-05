@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Je serai dans la joie et ⟨je⟩ m'égayerai en toi ; je chanterai ⟨le⟩ nom ⟨de⟩ toi, Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Je serai dans la joie"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "et m'égayerai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nom"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:34.956732032Z",
+  "model": "glm-4.5"
+}

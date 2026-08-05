@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "YHWH, mon Élohim, j'ai crié vers toi, et tu m'as guéri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "j'ai crié"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "et tu m'as guéri"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:42.772813935Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Je n'étais pas en sécurité, ni tranquille, ni ⟨au⟩ repos ; et le trouble est venu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Je n'⟨étais⟩ pas"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "en sécurité"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "tranquille"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "⟨au⟩ repos"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "le trouble est venu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:10.548232284Z",
+  "model": "glm-4.5"
+}

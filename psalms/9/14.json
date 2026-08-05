@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Fais-moi grâce, YHWH, vois ma misère ⟨de la part⟩ de ceux qui me haïssent, toi qui m'élèves des portes de la mort",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Fais-moi grâce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vois"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ma misère"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "⟨de la part⟩ de ceux qui me haïssent"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "toi qui m'élèves"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "des portes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:51.729820860Z",
+  "model": "glm-4.5"
+}

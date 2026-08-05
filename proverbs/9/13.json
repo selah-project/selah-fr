@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Une femme de folie est bruyante, ⟨elle est⟩ simple, et ne sait pas ce qu'est ⟨le⟩ quoi.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Une femme"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "de folie"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "est bruyante"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "simple"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "sait pas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce qu'est le quoi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:46.375577811Z",
+  "model": "glm-4.5"
+}

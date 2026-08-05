@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Que ⟨des⟩ charbons ardents tombent sur eux, dans le feu qu'il les jette, dans des fosses profondes, qu'ils ne se relèvent pas.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "tombent"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "⟨des⟩ charbons ardents"
+    },
+    {
+      "surface": "באש",
+      "gloss": "dans le feu"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "qu'il les jette"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "dans des fosses profondes"
+    },
+    {
+      "surface": "בל",
+      "gloss": "qu'ils ne"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "se relèvent pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:09.975634595Z",
+  "model": "glm-4.5"
+}

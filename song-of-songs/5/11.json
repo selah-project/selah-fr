@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Sa tête ⟨est comme⟩ de l'or pur, ses boucles ⟨sont⟩ ondulées, noires comme le corbeau.",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "Sa tête"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "⟨comme⟩ de l'or"
+    },
+    {
+      "surface": "פז",
+      "gloss": "pur"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "ses boucles"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "⟨sont⟩ ondulées"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "noires"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "comme le corbeau"
+    }
+  ],
+  "timestamp": "2026-08-05T04:20:34.307309042Z",
+  "model": "glm-4.5"
+}

@@ -1,19 +1,19 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "isaiah 33:3",
   "book": "isaiah",
   "lang": "fr",
   "chapter": 33,
-  "translation": "Du bruit de la multitude les peuples ont fui ; de ton élévation ⟨ה⟩ nations se sont dispersées",
+  "translation": "Au bruit du tumulte, les peuples ont fui ; devant ton élévation, les nations ont été dispersées.",
   "tokens": [
     {
       "surface": "מִקּ֣וֹל",
-      "gloss": "Du bruit"
+      "gloss": "au bruit de"
     },
     {
       "surface": "הָמ֔וֹן",
-      "gloss": "de la multitude"
+      "gloss": "tumulte"
     },
     {
       "surface": "נָדְד֖וּ",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "מֵר֣וֹמְמֻתֶ֔ךָ",
-      "gloss": "de ton élévation"
+      "gloss": "devant ton élévation"
     },
     {
       "surface": "נָפְצ֖וּ",
-      "gloss": "se sont dispersées"
+      "gloss": "ont été dispersées"
     },
     {
       "surface": "גּוֹיִֽם",
       "gloss": "les nations"
     }
   ],
-  "timestamp": "2026-08-04T15:28:13.506775282Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:51:37.485588084Z",
+  "model": "glm-5.2"
 }

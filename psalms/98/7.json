@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "⟨Que⟩ la mer mugisse et tout ce qu'elle contient, la terre et ses habitants.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "mugisse"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "et tout ce qu'elle contient"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "et ses habitants"
+    },
+    {
+      "surface": "בה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:25.506461677Z",
+  "model": "glm-4.5"
+}

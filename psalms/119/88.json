@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Selon ton hessed, fais-moi vivre, et je garderai le témoignage de ta bouche.",
+  "tokens": [
+    {
+      "surface": "כְּחַסְדְּךָ֥",
+      "gloss": "selon ton hessed"
+    },
+    {
+      "surface": "חַיֵּ֑נִי",
+      "gloss": "fais-moi vivre"
+    },
+    {
+      "surface": "וְ֝אֶשְׁמְרָ֗ה",
+      "gloss": "et je garderai"
+    },
+    {
+      "surface": "עֵד֥וּת",
+      "gloss": "le témoignage"
+    },
+    {
+      "surface": "פִּֽיךָ",
+      "gloss": "de ta bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:42.321623875Z",
+  "model": "glm-5.2"
+}

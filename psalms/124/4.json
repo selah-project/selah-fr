@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 124,
+  "translation": "alors les eaux nous auraient submergés, un torrent aurait passé sur notre âme,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "alors"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "nous auraient submergés"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "un torrent"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "aurait passé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "notre âme"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:02.172646585Z",
+  "model": "glm-4.5"
+}

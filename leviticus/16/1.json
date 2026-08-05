@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et YHWH parla à Moïse, après la mort des deux fils d'Aaron, lors de leur approche devant YHWH, et ils moururent.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "שני",
+      "gloss": "des deux"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aaron"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "lors de leur approche"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "et ils moururent"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:16.468028188Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un temps pour jeter ⟨את⟩ des pierres, et un temps pour rassembler ⟨את⟩ des pierres ; un temps pour étreindre, et un temps pour s'éloigner de l'étreinte",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "pour jeter"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "⟨את⟩ des pierres",
+      "marks": "des pierres"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "pour rassembler"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "⟨את⟩ des pierres",
+      "marks": "des pierres"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "pour étreindre"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "pour s'éloigner"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "de l'étreinte"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:28.148805950Z",
+  "model": "glm-4.5"
+}

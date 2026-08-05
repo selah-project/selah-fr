@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 20:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "J'entends ⟨la⟩ réprimande de mon déshonneur, et le souffle de mon intelligence me répond",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "⟨la⟩ réprimande"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "de mon déshonneur"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "j'entends"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "et le souffle"
+    },
+    {
+      "surface": "מבינתי",
+      "gloss": "de mon intelligence"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "me répond"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:29.569059200Z",
+  "model": "glm-4.5"
+}

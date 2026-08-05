@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Fais grâce, YHWH, fais grâce, YHWH, ⟨fais⟩ réussir, je te prie.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "fais grâce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "fais grâce"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "fais grâce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "fais réussir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:50.933190259Z",
+  "model": "glm-4.5"
+}

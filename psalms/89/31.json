@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Si ses fils abandonnent ma Torah et ⟨ne⟩ marchent ⟨pas⟩ dans mes jugements,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "abandonnent"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ma Torah"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "et dans mes jugements"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "marchent ⟨pas⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:10.577606015Z",
+  "model": "glm-4.5"
+}

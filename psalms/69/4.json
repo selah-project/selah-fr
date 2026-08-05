@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Je me suis épuisé à crier, ma gorge s'est desséchée, mes yeux ont failli, attendant mon Elohim",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Je me suis épuisé"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "à crier"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "s'est desséchée"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "ma gorge"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ont failli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "attendant"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "mon Elohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:46.321764212Z",
+  "model": "glm-4.5"
+}

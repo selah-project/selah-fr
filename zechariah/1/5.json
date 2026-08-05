@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Vos pères, où ⟨sont⟩-ils ? et les prophètes, vivront-ils ⟨pour⟩ toujours ?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "vos pères"
+    },
+    {
+      "surface": "איה",
+      "gloss": "où"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨sont⟩-ils"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "et les prophètes"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "⟨pour⟩ toujours"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "vivront-ils"
+    }
+  ],
+  "timestamp": "2026-08-05T00:43:15.668052101Z",
+  "model": "glm-4.5"
+}

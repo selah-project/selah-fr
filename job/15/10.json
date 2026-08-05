@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Même le cheveux gris, même l'homme très âgé ⟨est⟩ parmi nous, plus puissant ⟨que⟩ ton père ⟨en⟩ jours.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "שב",
+      "gloss": "cheveux gris"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "l'homme très âgé"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "parmi nous"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "plus puissant"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "que ton père"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "en jours"
+    }
+  ],
+  "timestamp": "2026-08-05T03:55:14.168495039Z",
+  "model": "glm-4.5"
+}

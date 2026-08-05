@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Il garde toutes ⟨ses⟩ os ; l'une d'elles ⟨est⟩ pas brisée",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "⟨ses⟩ os"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "l'une d'elles"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "brisée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:13.264140141Z",
+  "model": "glm-4.5"
+}

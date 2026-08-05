@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Et le roi désirera ta beauté, car il est ton Seigneur — prosterne-toi devant lui.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "et désirera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ta beauté"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ton Seigneur"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "prosterne-toi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "devant lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:25.631219214Z",
+  "model": "glm-4.5"
+}

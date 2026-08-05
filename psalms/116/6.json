@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Gardien des simples, YHWH, j'étais affaibli, et il me sauve.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Gardien"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "des simples"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "j'étais affaibli"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "et il me"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "sauve"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:48.188157622Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et Iyyov mourut, vieillard et rassasié de jours.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Et mourut"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vieillard"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "et rassasié"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "de jours"
+    }
+  ],
+  "timestamp": "2026-08-05T04:15:56.560163824Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "L'angoisse dans ⟨le⟩ cœur d'un homme l'accable, mais une parole bonne le réjouit.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "L'angoisse"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dans ⟨le⟩ cœur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "l'accable"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mais une parole"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "le réjouit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:29.204474300Z",
+  "model": "glm-4.5"
+}

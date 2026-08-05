@@ -1,110 +1,110 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 13,
   "ref": "1-kings 14:13",
   "book": "1-kings",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Et tout Israël mènera deuil sur lui et l'enterrera, car celui-ci seul viendra de Yarobéam ⟨את⟩ au sépulcre, parce qu'il a été trouvé en lui une bonne chose ⟨דבר טוב⟩ vers YHWH, l'Élohim d'Israël, dans la maison de Yarobéam.",
+  "translation": "Et tout Israël se lamentera pour lui et l'enterrera ⟨את⟩, car lui seul, de la maison de Jéroboam, viendra à la tombe, parce qu'il s'est trouvé en lui une chose bonne envers YHWH, l'Élohim d'Israël, dans la maison de Jéroboam.",
   "tokens": [
     {
-      "surface": "וספדו",
-      "gloss": "mèneront deuil"
+      "surface": "וְסָֽפְדוּ",
+      "gloss": "Et se lamentera"
     },
     {
-      "surface": "לו",
-      "gloss": "sur lui"
+      "surface": "ל֤וֹ",
+      "gloss": "pour lui"
     },
     {
-      "surface": "כל",
+      "surface": "כָל",
       "gloss": "tout"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵל֙",
       "gloss": "Israël"
     },
     {
-      "surface": "וקברו",
-      "gloss": "et l'enterreront"
+      "surface": "וְקָבְר֣וּ",
+      "gloss": "et enterrera"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹת֔וֹ",
       "gloss": "⟨את⟩",
       "marks": "lui"
     },
     {
-      "surface": "כי",
+      "surface": "כִּֽי",
       "gloss": "car"
     },
     {
-      "surface": "זה",
-      "gloss": "celui-ci"
+      "surface": "זֶ֣ה",
+      "gloss": "lui"
     },
     {
-      "surface": "לבדו",
+      "surface": "לְבַדּ֔וֹ",
       "gloss": "seul"
     },
     {
-      "surface": "יבא",
+      "surface": "יָבֹ֥א",
       "gloss": "viendra"
     },
     {
-      "surface": "לירבעם",
-      "gloss": "de Yarobéam"
+      "surface": "לְיָרָבְעָ֖ם",
+      "gloss": "à Jéroboam"
     },
     {
-      "surface": "אל",
-      "gloss": "⟨à⟩"
+      "surface": "אֶל",
+      "gloss": "à"
     },
     {
-      "surface": "קבר",
-      "gloss": "⟨le⟩ sépulcre"
+      "surface": "קָ֑בֶר",
+      "gloss": "la tombe"
     },
     {
-      "surface": "יען",
+      "surface": "יַ֣עַן",
       "gloss": "parce que"
     },
     {
-      "surface": "נמצא",
-      "gloss": "a été trouvé"
+      "surface": "נִמְצָא",
+      "gloss": "il s'est trouvé"
     },
     {
-      "surface": "בו",
+      "surface": "ב֞וֹ",
       "gloss": "en lui"
     },
     {
-      "surface": "דבר",
+      "surface": "דָּבָ֣ר",
       "gloss": "une chose"
     },
     {
-      "surface": "טוב",
+      "surface": "ט֗וֹב",
       "gloss": "bonne"
     },
     {
-      "surface": "אל",
-      "gloss": "vers"
+      "surface": "אֶל",
+      "gloss": "envers"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֛ה",
       "gloss": "YHWH"
     },
     {
-      "surface": "אלהי",
+      "surface": "אֱלֹהֵ֥י",
       "gloss": "l'Élohim"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֖ל",
       "gloss": "d'Israël"
     },
     {
-      "surface": "בבית",
+      "surface": "בְּבֵ֥ית",
       "gloss": "dans la maison"
     },
     {
-      "surface": "ירבעם",
-      "gloss": "de Yarobéam"
+      "surface": "יָרָבְעָֽם",
+      "gloss": "de Jéroboam"
     }
   ],
-  "timestamp": "2026-08-04T13:53:22.565418840Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T07:01:23.535357447Z",
+  "model": "glm-5.2"
 }

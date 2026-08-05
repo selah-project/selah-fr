@@ -1,0 +1,43 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "La bouche du juste médite ⟨la⟩ sagesse et sa langue parle ⟨du⟩ jugement",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "La bouche"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "médite"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨la⟩ sagesse",
+      "marks": "la sagesse"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "et sa langue"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨du⟩ jugement",
+      "marks": "du jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:48.003860964Z",
+  "model": "glm-4.5"
+}

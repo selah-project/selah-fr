@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Ainsi a dit YHWH : Descends ⟨dans⟩ la maison du roi de Juda, et parle-y ⟨ce⟩ mot-ci.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רד",
+      "gloss": "descends"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "et parle"
+    },
+    {
+      "surface": "שם",
+      "gloss": "y"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce mot-ci"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ci"
+    }
+  ],
+  "timestamp": "2026-08-04T16:28:39.102654525Z",
+  "model": "glm-4.5"
+}

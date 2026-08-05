@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils crurent à ses paroles ; ils chantèrent sa louange.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Et ils crurent"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "à ses paroles"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ils chantèrent"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sa louange"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:04.676876940Z",
+  "model": "glm-4.5"
+}

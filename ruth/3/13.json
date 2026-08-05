@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "ruth 3:13",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Séjourne ici cette nuit, et il ⟨en sera⟩ ainsi le matin, s'il ⟨ veut te⟩ racheter, bien, qu'il rachète, et s'il ne ⟨désire⟩ pas te racheter, je te rachèterai, moi, ⟨ YHWH est vivant⟩, couche-toi jusqu'au matin.",
+  "tokens": [
+    {
+      "surface": "ליני",
+      "gloss": "séjourne"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ici cette nuit"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et il ⟨en sera⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ainsi le matin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יגאלך",
+      "gloss": "il ⟨ veut te⟩ racheter"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bien"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "qu'il rachète"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "⟨désire⟩ pas"
+    },
+    {
+      "surface": "לגאלך",
+      "gloss": "te racheter"
+    },
+    {
+      "surface": "וגאלתיך",
+      "gloss": "je te rachèterai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "⟨ YHWH est vivant⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "couche-toi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "matin"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:15.578758427Z",
+  "model": "glm-4.5"
+}

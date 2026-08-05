@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Heureux ceux qui gardent le droit, qui pratiquent la justice en tout temps.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ceux qui gardent"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le droit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pratiquent"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "temps"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:33.018509644Z",
+  "model": "glm-4.5"
+}

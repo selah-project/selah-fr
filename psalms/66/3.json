@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "dites à Élohim que redoutables ⟨sont⟩ tes œuvres par l'abondance de ta force ⟨ils⟩ se soumettent à toi tes ennemis",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dites"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "à Élohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "redoutables"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tes œuvres"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "par l'abondance"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "de ta force"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "⟨ils⟩ se soumettent à toi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tes ennemis"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:32.469241582Z",
+  "model": "glm-4.5"
+}

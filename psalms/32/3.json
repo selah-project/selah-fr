@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Car je me suis tu, ⟨mes⟩ os se consumaient dans mon rugissement tout le jour.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "je me suis tu"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "se consumaient"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "⟨mes⟩ os"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "dans mon rugissement"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T01:25:39.926699798Z",
+  "model": "glm-4.5"
+}

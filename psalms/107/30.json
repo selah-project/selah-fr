@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Et ils se réjouissent de ce qu'ils s'apaisent, et il les conduit ⟨vers⟩ le havre de leur désir.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Et ils se réjouissent"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de ce que"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ils s'apaisent"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "et il les conduit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "le havre"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "de leur désir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:18.939183687Z",
+  "model": "glm-4.5"
+}

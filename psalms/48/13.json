@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Faites le tour de Sion et ⟨en⟩ faites le circuit, comptez ses tours",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "Faites le tour"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "et ⟨en⟩ faites le circuit"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "comptez"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "ses tours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:23.899665196Z",
+  "model": "glm-4.5"
+}

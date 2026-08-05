@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Les eaux ⟨ont vu⟩, ô Élohim, les eaux ⟨ont vu⟩, elles ⟨ont⟩ tressailli ; même les abysses ⟨se sont⟩ mis à trembler.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "ont vu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "ont vu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "elles tressailli"
+    },
+    {
+      "surface": "אף",
+      "gloss": "même"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "se sont mis à trembler"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "les abîmes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:00.326636452Z",
+  "model": "glm-4.5"
+}

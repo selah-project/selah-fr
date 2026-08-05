@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Les fils d'Éphraïm, porteurs ⟨d'⟩arc bandé, ont tourné le dos au jour du combat.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Les fils"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "d'Éphraïm"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "porteurs"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "⟨d'⟩arc bandé"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arc"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "ont tourné le dos"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "du combat"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:31.544827586Z",
+  "model": "glm-4.5"
+}

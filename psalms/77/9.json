@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Est-ce ⟨que⟩ le hessed d'Élohim a cessé pour toujours ? La parole ⟨est-elle⟩ finie pour génération et génération ?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Est-ce ⟨que⟩"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "le hessed d'Élohim"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "a cessé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "⟨est-elle⟩ finie pour génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "et génération"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:01.945437468Z",
+  "model": "glm-4.5"
+}

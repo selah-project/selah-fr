@@ -1,54 +1,53 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "numbers 31:2",
   "book": "numbers",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Venge ⟨la⟩ vengeance des fils d'Israël ⟨מֵאֵת⟩ les Madianites, après tu seras rassemblé vers ton peuple",
+  "translation": "Exécute la vengeance des fils d'Israël sur les Madianites ; ensuite tu seras recueilli vers ton peuple.",
   "tokens": [
     {
-      "surface": "נקם",
-      "gloss": "Venge"
+      "surface": "נְקֹ֗ם",
+      "gloss": "exécute la vengeance"
     },
     {
-      "surface": "נקמת",
-      "gloss": "⟨la⟩ vengeance"
+      "surface": "נִקְמַת֙",
+      "gloss": "la vengeance"
     },
     {
-      "surface": "בני",
+      "surface": "בְּנֵ֣י",
       "gloss": "des fils"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֔ל",
       "gloss": "d'Israël"
     },
     {
-      "surface": "מאת",
-      "gloss": "⟨מֵאֵת⟩",
-      "marks": "les Madianites"
+      "surface": "מֵאֵ֖ת",
+      "gloss": "sur"
     },
     {
-      "surface": "המדינים",
+      "surface": "הַמִּדְיָנִ֑ים",
       "gloss": "les Madianites"
     },
     {
-      "surface": "אחר",
-      "gloss": "après"
+      "surface": "אַחַ֖ר",
+      "gloss": "ensuite"
     },
     {
-      "surface": "תאסף",
-      "gloss": "tu seras rassemblé"
+      "surface": "תֵּאָסֵ֥ף",
+      "gloss": "tu seras recueilli"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "vers"
     },
     {
-      "surface": "עמיך",
+      "surface": "עַמֶּֽיךָ",
       "gloss": "ton peuple"
     }
   ],
-  "timestamp": "2026-08-04T09:37:16.914450945Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T07:01:01.598571032Z",
+  "model": "glm-5.2"
 }

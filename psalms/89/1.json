@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Instruction d'Éthan l'Ézrachite",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Instruction"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "d'Éthan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "l'Ézrachite"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:15.348889121Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Mes choses saintes tu as méprisées, et ⟨את⟩ mes shabbats tu as profanés.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Mes choses saintes"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "tu as méprisées"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mes shabbats"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mes shabbats"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "tu as profanés"
+    }
+  ],
+  "timestamp": "2026-08-04T23:31:26.069426530Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "C'est pourquoi nous ne craindrons pas si la terre change, et si les montagnes chancellent au cœur des mers.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "nous ne"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "craindrons pas"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "si ⟨la terre⟩ change"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la terre⟩"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "et si"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "les montagnes chancellent"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "au cœur de"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "les mers"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:18.931591950Z",
+  "model": "glm-4.5"
+}

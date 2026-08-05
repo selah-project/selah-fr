@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "La crainte de YHWH est pure, ⟨elle⟩ demeure pour toujours ; les jugements de YHWH sont vérité, ⟨ils sont⟩ justes ensemble.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "La crainte de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "est pure"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "demeure"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "les jugements de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "vérité"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sont justes"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:06.279385427Z",
+  "model": "glm-4.5"
+}

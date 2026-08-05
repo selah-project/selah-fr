@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 12:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Avec lui ⟨sont⟩ la sagesse et la puissance, à lui ⟨sont⟩ le plan et ⟨le⟩ discernement.",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "Avec lui"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "et la puissance"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "le plan"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "et ⟨le⟩ discernement"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:08.680778194Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Car voici, les rois se sont rassemblés, ils ont passé ensemble.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "les rois"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "se sont rassemblés"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ils ont passé"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ensemble"
+    }
+  ],
+  "timestamp": "2026-08-05T01:40:27.375900461Z",
+  "model": "glm-4.5"
+}

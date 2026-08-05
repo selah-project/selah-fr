@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Mieux vaut une poignée de repos que deux poignées de labeil et poursuite du vent",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux vaut"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pleine"
+    },
+    {
+      "surface": "כף",
+      "gloss": "poignée"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "de repos"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "que deux poignées"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "de [labeil]"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "labeil"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "et poursuite"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "du vent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:39.741768253Z",
+  "model": "glm-4.5"
+}

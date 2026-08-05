@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Tu as entendu ma voix, ne cache pas ton oreille à mon souffle, à mon cri.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Tu as entendu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "cache pas"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "à mon souffle"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "à mon cri"
+    }
+  ],
+  "timestamp": "2026-08-05T04:30:14.531371100Z",
+  "model": "glm-4.5"
+}

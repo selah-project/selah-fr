@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Ils ne savent pas et ne comprennent pas, dans les ténèbres ils marchent, tous les fondements de la terre chancellent.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ils ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "savent pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "comprennent pas"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "dans les ténèbres"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ils marchent"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "chancellent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous les"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "fondements de"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:58.995270646Z",
+  "model": "glm-4.5"
+}

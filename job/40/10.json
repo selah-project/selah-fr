@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Revêts-toi donc de majesté et de hauteur, et de gloire et de splendeur pare-toi.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "revêts-toi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "de majesté"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "et de hauteur"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "et de gloire"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "et de splendeur"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "pare-toi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:48.043282085Z",
+  "model": "glm-4.5"
+}

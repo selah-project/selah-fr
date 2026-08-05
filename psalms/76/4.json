@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 76,
+  "translation": "Là, il a brisé les éclairs de l'arc, ⟨le⟩ bouclier, et ⟨l⟩épée, et la guerre. Séla.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Là"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "il a brisé"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "les éclairs de"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "l'arc"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨le⟩ bouclier"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "et ⟨l⟩épée"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "et la guerre"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:01.162933222Z",
+  "model": "glm-4.5"
+}

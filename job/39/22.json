@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 39:22",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Il rit ⟨de⟩ la frayeur et ne s'effraie pas, et ne revient pas de devant ⟨l'épée⟩.",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "Il rit"
+    },
+    {
+      "surface": "לפחד",
+      "gloss": "⟨de⟩ la frayeur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "s'effraie pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "revient pas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨l'épée⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:16.861234332Z",
+  "model": "glm-4.5"
+}

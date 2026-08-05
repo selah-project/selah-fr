@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et il paîtra ⟨את⟩ la terre d’Assur par l’épée, et ⟨את⟩ la terre de Nimrod dans ses entrées ; et il délivrera de l’Assur, car il viendra dans notre terre, et car il marchera sur notre frontière.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "Et il paîtra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre d’Assur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "d’Assur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "par l’épée"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la terre de Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "de Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "dans ses entrées"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "et il délivrera"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "de l’Assur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "il viendra"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "dans notre terre"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "et car"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "il marchera"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "sur notre frontière"
+    }
+  ],
+  "timestamp": "2026-08-05T00:29:40.612469195Z",
+  "model": "glm-4.5"
+}

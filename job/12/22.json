@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Il révèle ⟨les⟩ profondeurs hors des ténèbres et fait sortir à ⟨la⟩ lumière l'ombre de la mort.",
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "Il révèle"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "⟨les⟩ profondeurs"
+    },
+    {
+      "surface": "מני",
+      "gloss": "hors de"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "et fait sortir"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "à ⟨la⟩ lumière"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "l'ombre de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:08.944186963Z",
+  "model": "glm-4.5"
+}

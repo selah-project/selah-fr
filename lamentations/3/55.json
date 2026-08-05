@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "J'ai appelé ton nom, YHWH, depuis ⟨la⟩ fosse des ⟨profondeurs⟩.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "J'ai appelé"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "depuis ⟨la⟩ fosse"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "des ⟨profondeurs⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T04:30:14.531290402Z",
+  "model": "glm-4.5"
+}

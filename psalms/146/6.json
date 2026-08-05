@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 146,
+  "translation": "Faisant les cieux et la terre, ⟨את⟩ la mer et ⟨את⟩ tout ce qui ⟨est⟩ en eux, gardant la fidélité pour toujours",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Faisant"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et la terre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mer"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout ce qui est en eux"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בם",
+      "gloss": "en eux"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "gardant"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "la fidélité"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T03:07:29.800192758Z",
+  "model": "glm-4.5"
+}

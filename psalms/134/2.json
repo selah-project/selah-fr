@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 134,
+  "translation": "Levez vos mains ⟨le⟩ Qodesh, et bénissez ⟨את⟩ YHWH.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Levez"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "vos mains"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨le⟩ Qodesh"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "et bénissez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:56:47.906700048Z",
+  "model": "glm-4.5"
+}

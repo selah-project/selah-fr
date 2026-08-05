@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Souviens-toi que le souffle de ma vie ⟨est⟩ vent ; mon œil ne reviendra pas voir ⟨le⟩ bien.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "le souffle"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "de ma vie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "reviendra pas"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mon œil"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "voir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:25.686519301Z",
+  "model": "glm-4.5"
+}

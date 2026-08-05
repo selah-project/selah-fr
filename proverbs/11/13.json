@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Le médisant ⟨est⟩ celui qui révèle ⟨le⟩ secret, mais ⟨l'⟩homme de Rouah fidèle couvre ⟨la⟩ chose.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "celui qui marche"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "médisant"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "révèle"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "secret"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "mais fidèle"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de Rouah"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "couvre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chose"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:22.487433178Z",
+  "model": "glm-4.5"
+}

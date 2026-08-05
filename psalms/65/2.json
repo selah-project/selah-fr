@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "À toi ⟨le⟩ silence ⟨est⟩ louange, ô Élohim, à Sion, et à toi ⟨on⟩ acquittera un vœu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "À toi"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "⟨le⟩ silence"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "⟨est⟩ louange"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "à Sion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "et à toi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "⟨on⟩ acquittera"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "un vœu"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:35.663995373Z",
+  "model": "glm-4.5"
+}

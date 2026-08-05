@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Faire ⟨ton⟩ bon plaisir, mon Élohim, je l'ai désiré, et ta Torah ⟨est⟩ au-dedans de mes entrailles.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Faire"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "⟨ton⟩ bon plaisir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "je l'ai désiré"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "et ta Torah"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au-dedans de"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mes entrailles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:43.402662998Z",
+  "model": "glm-4.5"
+}

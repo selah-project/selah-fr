@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "La lumière des yeux réjouit le cœur, ⟨et⟩ une bonne nouvelle engraisse ⟨l'⟩os.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "La lumière"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "des yeux"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "réjouit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "⟨et⟩ une nouvelle"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bonne"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "engraisse"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "⟨l'⟩os"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:23.281997881Z",
+  "model": "glm-4.5"
+}

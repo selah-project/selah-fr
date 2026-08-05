@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Leur épée entrera dans leur propre cœur, et leurs arcs se briseront.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Leur épée"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "entrera"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dans leur propre cœur"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "et leurs arcs"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "se briseront"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:55.945158177Z",
+  "model": "glm-4.5"
+}

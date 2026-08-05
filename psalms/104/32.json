@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Celui qui regarde ⟨la⟩ terre, elle tremble ; il touche aux montagnes, et elles fument.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Celui qui regarde"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "elle tremble"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "il touche"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "aux montagnes"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "et elles fument"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:12.541613665Z",
+  "model": "glm-4.5"
+}

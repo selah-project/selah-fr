@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Des oreilles ⟨sont⟩ à eux et ils n'écoutent pas, aussi il n'y a pas de souffle dans leur bouche",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "oreilles"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨sont⟩ à eux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils n'⟨écoutent⟩ pas"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "écoutent"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a pas"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨de⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "souffle"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "dans leur bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.472854557Z",
+  "model": "glm-4.5"
+}

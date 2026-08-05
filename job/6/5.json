@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "L'âne sauvage ⟨est-ce⟩ il brait quand ⟨il y a⟩ de l'herbe ? ou le bêle ⟨est-ce⟩ le bœuf sur son fourrage ?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "⟨est-ce⟩ il brait"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "l'âne sauvage"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "l'herbe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "⟨est-ce⟩ le bêle"
+    },
+    {
+      "surface": "שור",
+      "gloss": "le bœuf"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "son fourrage"
+    }
+  ],
+  "timestamp": "2026-08-05T03:47:21.622357265Z",
+  "model": "glm-4.5"
+}

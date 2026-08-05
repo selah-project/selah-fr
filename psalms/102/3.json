@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Ne cache pas ta face de moi, au jour de la détresse ⟨pour⟩ moi ; incline vers moi ton oreille, au jour où je crie, hâte-toi de répondre-moi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "cache pas"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "צר",
+      "gloss": "de la détresse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pour⟩ moi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "incline"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "où je crie"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hâte-toi"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "de répondre-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:41.319292359Z",
+  "model": "glm-4.5"
+}

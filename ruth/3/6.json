@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et elle descendit ⟨à⟩ l'aire et fit selon tout ce que ⟨avait⟩ commandé sa belle-mère.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Et elle descendit"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "l'aire"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "et fit"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "selon tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "sa belle-mère"
+    }
+  ],
+  "timestamp": "2026-08-05T04:25:59.999566382Z",
+  "model": "glm-4.5"
+}

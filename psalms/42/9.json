@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Le jour YHWH commande ⟨son⟩ hessed, et la nuit sa chanson ⟨est⟩ avec moi, une prière ⟨à⟩ l'El de ma vie.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "commande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨son⟩ hessed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "et la nuit"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "sa chanson"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨est⟩ avec moi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "une prière"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨à⟩ l'El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "de ma vie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:08.262156914Z",
+  "model": "glm-4.5"
+}

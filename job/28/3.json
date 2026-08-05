@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "⟨Il⟩ met une fin aux ténèbres, et il sonde toute perfection, la pierre d'obscurité et l'ombre de la mort.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "une fin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "met"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "aux ténèbres"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "perfection"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Il⟩"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "sonde"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "la pierre"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "d'obscurité"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "et l'ombre de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:02.969557864Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il frappa ⟨את⟩ Moab, et les Moabites devinrent des serviteurs à Dawid, porteurs de offrande.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "et il frappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et ils devinrent"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "les Moabites"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "des serviteurs"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "à Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "porteurs"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "de offrande"
+    }
+  ],
+  "timestamp": "2026-08-05T05:53:09.522269543Z",
+  "model": "glm-5.2"
+}

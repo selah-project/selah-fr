@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "fils d'Avishoua, fils de Pin'has, fils d'Elazar, fils d'Aharon le prêtre ⟨le⟩ chef.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "d'Avishoua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "de Pin'has"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "d'Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "le chef"
+    }
+  ],
+  "timestamp": "2026-08-05T05:36:28.569178712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tes mains m'ont fait et m'ont façonné ⟨;⟩ fais-moi comprendre et j'apprendrai tes commandements.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "Tes mains"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "m'ont fait"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "et m'ont façonné"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "fais-moi comprendre"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "et j'apprendrai"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tes commandements"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:40.700395628Z",
+  "model": "glm-4.5"
+}

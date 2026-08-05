@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 142,
+  "translation": "En ⟨mon⟩ esprit qui s'affaisse sur moi, ⟨et⟩ toi, tu as connu mon sentier ; sur la route où je marche, ils ont caché un piège pour moi.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "En"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨mon⟩ esprit qui s'affaisse sur moi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": ""
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨et⟩ toi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu as connu"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "mon sentier"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "sur la route"
+    },
+    {
+      "surface": "זו",
+      "gloss": "où"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "je marche"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ils ont caché"
+    },
+    {
+      "surface": "פח",
+      "gloss": "un piège"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:04:30.345488106Z",
+  "model": "glm-4.5"
+}

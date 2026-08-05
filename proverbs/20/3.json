@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "C'est une gloire pour un homme que de s'abstenir de querelle, mais tout sot s'y expose.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "gloire"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "pour un homme"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "s'abstenir"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "de querelle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mais tout"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sot"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "s'y expose"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:19.006509682Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Prêt ⟨est⟩ mon cœur, ô Élohim, prêt ⟨est⟩ mon cœur, je chanterai et je psalmodierai.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "prêt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "prêt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "et je psalmodierai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:44.024569043Z",
+  "model": "glm-4.5"
+}

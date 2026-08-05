@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car il est envoyé dans ⟨le⟩ filet par ses pieds, et sur des mailles il marche",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "il est envoyé"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "dans ⟨le⟩ filet"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "par ses pieds"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "des mailles"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "il marche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:57:25.320720237Z",
+  "model": "glm-4.5"
+}

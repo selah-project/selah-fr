@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Ne te hâte pas de t'en aller de devant sa face, et ne te tiens pas dans une affaire mauvaise, car tout ce qu'il désire il le fait.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "te hâte pas"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "de t'en aller de devant sa face"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "⟨tu vas⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "te tiens pas"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dans une affaire"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvaise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "il désire"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "il le fait"
+    }
+  ],
+  "timestamp": "2026-08-05T04:38:18.069783298Z",
+  "model": "glm-4.5"
+}

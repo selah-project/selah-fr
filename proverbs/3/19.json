@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH, par la sagesse, a fondé la terre, par la discernement il a établi les cieux.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "par la sagesse"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "a fondé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "il a établi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "par la discernement"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:39.955041024Z",
+  "model": "glm-4.5"
+}

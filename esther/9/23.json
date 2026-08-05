@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et acceptèrent les Juifs ⟨את⟩ ce qu'ils avaient commencé à faire et ⟨את⟩ ce que Mardochée avait écrit ⟨à⟩ eux",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "et acceptèrent"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "les Juifs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ils avaient commencé"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "à faire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "avait écrit"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardochée"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "⟨à⟩ eux"
+    }
+  ],
+  "timestamp": "2026-08-05T05:03:59.081765255Z",
+  "model": "glm-4.5"
+}

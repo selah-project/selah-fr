@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Enseigne-moi, YHWH, ⟨ton⟩ chemin, et conduis-moi dans un chemin de droiture, à cause de mes adversaires.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "enseigne-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "⟨ton⟩ chemin"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "et conduis-moi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "dans un chemin"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "de droiture"
+    },
+    {
+      "surface": "למען",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mes adversaires"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:40.173598891Z",
+  "model": "glm-4.5"
+}

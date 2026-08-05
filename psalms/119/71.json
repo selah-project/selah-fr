@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Bon ⟨est⟩ pour moi que j'aie été affligé, afin que j'apprenne tes lois.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "j'aie été affligé"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "j'apprenne"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tes lois"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.510549169Z",
+  "model": "glm-4.5"
+}

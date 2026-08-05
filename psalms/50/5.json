@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Rassemblez-moi ⟨mes⟩ pieux, ceux qui coupent ⟨mon⟩ alliance sur ⟨le⟩ sacrifice",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Rassemblez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "⟨mes⟩ pieux"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ceux qui coupent"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "⟨mon⟩ alliance"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "⟨le⟩ sacrifice"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:48.239284900Z",
+  "model": "glm-4.5"
+}

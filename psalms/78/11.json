@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et ils ont oublié ses hauts faits, et ses merveilles qu'il ⟨leur⟩ avait fait voir.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Et ils ont oublié"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ses hauts faits"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "et ses merveilles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "il ⟨leur⟩ avait fait voir"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:31.545171720Z",
+  "model": "glm-4.5"
+}

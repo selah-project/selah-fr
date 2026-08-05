@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Les animaux sauvages et tout le bétail, les reptiles et les oiseaux ailés",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "les animaux sauvages"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "le bétail"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "les reptiles"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "et les oiseaux"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ailés"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:05.891573223Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Et tu prendras ⟨את⟩ le taureau de l'offrande pour le péché et on le brûlera ⟨sur⟩ le lieu assigné de la maison, à l'extérieur du sanctuaire.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Et tu prendras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le taureau de l'offrande pour le péché"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "le taureau"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "de l'offrande pour le péché"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "et on le brûlera"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "⟨sur⟩ le lieu assigné"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "à l'extérieur"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "du sanctuaire"
+    }
+  ],
+  "timestamp": "2026-08-04T23:51:39.661035801Z",
+  "model": "glm-4.5"
+}

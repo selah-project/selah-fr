@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Contre toi, contre toi seul, j'ai péché, et ⟨ce qui est⟩ mauvais ⟨à⟩ tes yeux j'ai fait, afin que tu sois justifié dans ta parole, et que tu sois pur dans ton jugement.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "seul"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "j'ai péché"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "et ⟨ce qui est⟩ mauvais"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "⟨à⟩ tes yeux"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "j'ai fait"
+    },
+    {
+      "surface": "למען",
+      "gloss": "afin que"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "tu sois justifié"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "dans ta parole"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "et que tu sois pur"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "dans ton jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:36.553558276Z",
+  "model": "glm-4.5"
+}

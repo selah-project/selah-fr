@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Nous avons ⟨bien⟩ connu, YHWH, notre méchanceté, l'iniquité de nos pères, car nous avons péché contre toi.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "Nous avons connu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "notre méchanceté"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "de nos pères"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nous avons péché"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contre toi"
+    }
+  ],
+  "timestamp": "2026-08-04T16:21:27.000450135Z",
+  "model": "glm-4.5"
+}

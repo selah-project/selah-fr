@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Demande-moi, et je te donnerai ⟨les⟩ nations comme héritage ⟨à toi⟩, et ta possession, les extrémités de la terre",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Demande"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "-moi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "et je donnerai"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨les⟩ nations"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "comme héritage ⟨à toi⟩"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "et ta possession"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "les extrémités"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:01:23.986508884Z",
+  "model": "glm-4.5"
+}

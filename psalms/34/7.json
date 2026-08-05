@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Cet ⟨homme⟩ humble a appelé, et YHWH a entendu, et ⟨de⟩ toutes ses détresses, il ⟨l'⟩a sauvé",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Cet"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨homme⟩ humble"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a appelé"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "et YHWH"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a entendu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "et ⟨de⟩ toutes"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ses détresses"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "il ⟨l'⟩a sauvé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:26.328453559Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il ⟨m'a⟩ fait sortir dans ⟨un⟩ lieu large, il ⟨m'a⟩ délivré, car il ⟨a⟩ pris plaisir en moi.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "et il fit sortir"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "vers un lieu large"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "il me délivra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "il prit plaisir"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:53.278102452Z",
+  "model": "glm-4.5"
+}

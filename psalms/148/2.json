@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Louez-le tous ses messagers louez-le toutes ses armées",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Louez-le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ses messagers"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "louez-le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ses armées"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:08.707865965Z",
+  "model": "glm-4.5"
+}

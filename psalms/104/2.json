@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Enveloppé de lumière comme d'un manteau, étendant les cieux comme une tenture.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Enveloppé"
+    },
+    {
+      "surface": "אור",
+      "gloss": "de lumière"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "comme d'un manteau"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "étendant"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "comme une tenture"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:20.693746194Z",
+  "model": "glm-4.5"
+}

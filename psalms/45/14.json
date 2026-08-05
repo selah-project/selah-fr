@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Toute sa gloire la fille du roi ⟨est⟩ à l'intérieur de tissus d'or son vêtement",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Toute"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "sa gloire"
+    },
+    {
+      "surface": "בת",
+      "gloss": "la fille de"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "⟨est⟩ à l'intérieur"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "de tissus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "son vêtement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:36.521447944Z",
+  "model": "glm-4.5"
+}

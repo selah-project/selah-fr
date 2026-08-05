@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Un psaume de David pour rappeler.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "pour rappeler"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:11.100938045Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Didactique d'Asaph. Prête l'oreille, ô mon peuple, à ⟨ma⟩ Torah ; tendez ⟨vos⟩ oreilles aux paroles de ⟨ma⟩ bouche.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Didactique"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "d'Asaph"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Prête l'oreille"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ô mon peuple"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "⟨ma⟩ Torah"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tendez"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "⟨vos⟩ oreilles"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "aux paroles de"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨ma⟩ bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:29.236301574Z",
+  "model": "glm-4.5"
+}

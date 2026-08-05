@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Heureux le peuple connaissant ⟨le⟩ cri de joie ; YHWH, dans la lumière de ta face ils marchent.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "connaissant"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "⟨le⟩ cri de joie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "באור",
+      "gloss": "dans la lumière"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "de ta face"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ils marchent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:21.736494142Z",
+  "model": "glm-4.5"
+}

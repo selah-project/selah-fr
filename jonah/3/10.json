@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et Élohim vit ⟨את⟩ leurs œuvres, car ils avaient tourné ⟨de⟩ leur mauvaise voie ; et Élohim se repentit ⟨du⟩ mal ⟨qu'Il⟩ avait dit de faire à eux, et ne ⟨le⟩ fit pas.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et vit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs œuvres"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "leurs œuvres"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ils avaient tourné"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "⟨de⟩ leur"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mauvaise voie"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "et Élohim se repentit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨du⟩"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qu'Il⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "avait dit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨le⟩ fit pas"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:46.586595292Z",
+  "model": "glm-4.5"
+}

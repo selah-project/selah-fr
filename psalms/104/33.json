@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Je chanterai pour YHWH durant ma vie, je psalmodierai pour mon Élohim tant que j'existerai.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "durant ma vie"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je psalmodierai"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pour mon Élohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "tant que j'existerai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:22.555611666Z",
+  "model": "glm-4.5"
+}

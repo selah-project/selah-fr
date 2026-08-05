@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "« ⟨Il y a une⟩ alliance entre moi et toi, et entre mon père et ton père. Voici, je t'ai envoyé de l'argent et de l'or. Va, romps ton alliance avec ⟨את⟩ Baasha, roi d'Israël, et qu'il se retire de sur moi. »",
+  "tokens": [
+    {
+      "surface": "בְּרִית֙",
+      "gloss": "alliance"
+    },
+    {
+      "surface": "בֵּינִ֣י",
+      "gloss": "entre moi"
+    },
+    {
+      "surface": "וּבֵינֶ֔ךָ",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "וּבֵ֥ין",
+      "gloss": "et entre"
+    },
+    {
+      "surface": "אָבִ֖י",
+      "gloss": "mon père"
+    },
+    {
+      "surface": "וּבֵ֣ין",
+      "gloss": "et"
+    },
+    {
+      "surface": "אָבִ֑יךָ",
+      "gloss": "ton père"
+    },
+    {
+      "surface": "הִנֵּ֨ה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "שָׁלַ֤חְתִּֽי",
+      "gloss": "j'ai envoyé"
+    },
+    {
+      "surface": "לְךָ֙",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "כֶּ֣סֶף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "וְזָהָ֔ב",
+      "gloss": "et de l'or"
+    },
+    {
+      "surface": "לֵ֞ךְ",
+      "gloss": "va"
+    },
+    {
+      "surface": "הָפֵ֣ר",
+      "gloss": "romps"
+    },
+    {
+      "surface": "בְּרִֽיתְךָ֗",
+      "gloss": "ton alliance"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha"
+    },
+    {
+      "surface": "בַּעְשָׁא֙",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "roi d'"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֔ל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וְיַעֲלֶ֖ה",
+      "gloss": "et qu'il se retire"
+    },
+    {
+      "surface": "מֵעָלָֽי",
+      "gloss": "de sur moi"
+    }
+  ],
+  "timestamp": "2026-08-05T06:06:16.295285050Z",
+  "model": "glm-5.2"
+}

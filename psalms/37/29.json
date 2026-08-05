@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Les justes hériteront ⟨את⟩ la terre et y habiteront pour toujours",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "Les justes"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "hériteront"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩ la terre",
+      "marks": "la terre"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "et y habiteront"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "[sur elle]"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:48.003651284Z",
+  "model": "glm-4.5"
+}

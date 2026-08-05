@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "Fais-moi grâce, ô Élohim, car un homme ⟨est⟩ en train de m'avaler, tout le jour il ⟨est⟩ en train de faire la guerre, il m'oppresse.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fais-moi grâce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "un homme ⟨est⟩ en train de m'avaler"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "il ⟨est⟩ en train de faire la guerre"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "il m'oppresse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:01.484730766Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "YHWH ne l'abandonnera pas dans sa main, et ne le condamnera pas quand il sera jugé.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "l'abandonnera pas"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dans sa main"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "le condamnera pas"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "quand il sera jugé"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:02.935537855Z",
+  "model": "glm-5.2"
+}

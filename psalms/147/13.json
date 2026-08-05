@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Car il a fortifié les verrous de tes portes, il a béni tes fils en ton sein",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "il a fortifié"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "les verrous de"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tes portes"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "il a béni"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tes fils"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "en ton sein"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:03.181828514Z",
+  "model": "glm-4.5"
+}

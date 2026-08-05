@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 53,
+  "translation": "Et on donna ⟨את⟩ sa tombe avec les méchants, et ⟨את⟩ un riche dans ses morts, car il n'avait pas fait de violence et il n'y avait pas de tromperie dans sa bouche.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Et on donna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tombe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "avec les méchants"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sa tombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "un riche"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "un riche"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "dans ses morts"
+    },
+    {
+      "surface": "על",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'avait pas"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violence"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fait"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il n'y avait pas"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "de tromperie"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "dans sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-04T22:32:50.504099311Z",
+  "model": "glm-4.5"
+}

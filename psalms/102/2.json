@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "YHWH, écoute ma tefila et mon cri vers toi vienne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma tefila"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "et mon cri"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vienne"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:41.319176783Z",
+  "model": "glm-4.5"
+}

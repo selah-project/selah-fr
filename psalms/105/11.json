@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Disant : à toi, je donnerai ⟨את⟩ la terre de Canaan, le cordeau de votre héritage",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Disant"
+    },
+    {
+      "surface": "לך",
+      "gloss": ": à toi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "je donnerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la terre de Canaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "de Canaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "le cordeau"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "de votre héritage"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:26.982195028Z",
+  "model": "glm-4.5"
+}

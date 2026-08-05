@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Bon œil, lui, sera béni car il a donné de son pain au pauvre.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Bon"
+    },
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sera béni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il a donné"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "de son pain"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "au pauvre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:36.842596267Z",
+  "model": "glm-4.5"
+}

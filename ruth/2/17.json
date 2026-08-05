@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et elle glana dans le champ jusqu'au soir, et elle battit ⟨את⟩ ce qu'elle avait glané, et ce fut environ un épha d'orge.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "Et elle glana"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dans le champ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "et elle battit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce qu'elle avait glané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qu'elle"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "avait glané"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et ce fut"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "environ un épha"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "d'orge"
+    }
+  ],
+  "timestamp": "2026-08-05T04:25:13.955335017Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 129,
+  "translation": "YHWH est juste, il a coupé les cordes des méchants.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "est juste"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "il a coupé"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "les cordes"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:43.731059580Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 34:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Non, certes, El ne condamne pas, et Shaddaï ne pervertit pas le jugement.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Non"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "certes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne... pas"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "condamne"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "et Shaddaï"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne... pas"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "pervertit"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T04:09:42.994518827Z",
+  "model": "glm-4.5"
+}

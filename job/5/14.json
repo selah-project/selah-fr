@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Le jour ils rencontrent les ténèbres et comme la nuit ils tâtonnent à midi",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Le jour"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "ils rencontrent"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "et comme la nuit"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "ils tâtonnent"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "à midi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:05.320669817Z",
+  "model": "glm-4.5"
+}

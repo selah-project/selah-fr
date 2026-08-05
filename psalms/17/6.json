@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Moi, je t'ai appelé, car tu me répondras, ⟨ Ô ⟩ El, incline ton oreille vers moi, écoute ma parole.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "je t'ai appelé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "tu me répondras"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ Ô ⟩ El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "incline"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ma parole"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:04.460465281Z",
+  "model": "glm-4.5"
+}

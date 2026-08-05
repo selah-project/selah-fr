@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Le papyrus grandira-t-il sans marais? Le jonc s'élèvera-t-il sans eau?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "grandira-t-il"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "le papyrus"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "sans"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "marais"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "s'élèvera-t-il"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "le jonc"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מים",
+      "gloss": "eau"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:00.893522730Z",
+  "model": "glm-4.5"
+}

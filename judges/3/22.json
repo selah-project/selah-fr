@@ -1,15 +1,15 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 22,
   "ref": "judges 3:22",
   "book": "judges",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et entra aussi ⟨le⟩ rejet après la lame et la graisse se ferma sur la lame car il ne tira pas l'épée de son ventre et il sortit ⟨le⟩排泄物",
+  "translation": "Et la poignée aussi entra après la lame, et la graisse se referma derrière la lame, car il ne retira pas l'épée de son ventre, et sortit la matière fécale.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Et entra"
+      "gloss": "et il entra"
     },
     {
       "surface": "גם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנצב",
-      "gloss": "⟨le⟩ rejet"
+      "gloss": "la poignée"
     },
     {
       "surface": "אחר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויסגר",
-      "gloss": "et se ferma"
+      "gloss": "et se referma"
     },
     {
       "surface": "החלב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בעד",
-      "gloss": "sur"
+      "gloss": "derrière"
     },
     {
       "surface": "הלהב",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "il ne"
+      "gloss": "pas"
     },
     {
       "surface": "שלף",
-      "gloss": "tira"
+      "gloss": "il retira"
     },
     {
       "surface": "החרב",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "הפרשדנה",
-      "gloss": "⟨le⟩排泄物"
+      "gloss": "la matière fécale"
     }
   ],
-  "timestamp": "2026-08-04T11:37:35.563125860Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:30.482269470Z",
+  "model": "glm-5.2"
 }

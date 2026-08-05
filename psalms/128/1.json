@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 128,
+  "translation": "Chant des montées. Heureux tout ⟨celui qui⟩ craint YHWH, ⟨celui qui⟩ marche dans ses voies.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "⟨celui qui⟩ craint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨celui qui⟩ marche"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "dans ses voies"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:18.492028429Z",
+  "model": "glm-4.5"
+}

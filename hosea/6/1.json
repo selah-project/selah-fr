@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Venez, et retournons-nous vers YHWH ; car Lui, il a déchiré, et il nous guérira ; il a frappé, et il nous bandera.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Venez"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "et retournons-nous"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Lui"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "il a déchiré"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "et il nous guérira"
+    },
+    {
+      "surface": "יך",
+      "gloss": "il a frappé"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "et il nous bandera"
+    }
+  ],
+  "timestamp": "2026-08-05T00:01:40.136881793Z",
+  "model": "glm-4.5"
+}

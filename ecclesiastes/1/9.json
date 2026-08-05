@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Ce qui a été, c'est ⟨ce⟩ qui sera, et ce qui a été fait, c'est ⟨ce⟩ qui sera fait ; et il n'y a rien de nouveau sous le soleil.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "a été"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ce qui sera"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et ce qui"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "a été fait"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ce qui sera fait"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rien de"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:55.548676614Z",
+  "model": "glm-4.5"
+}

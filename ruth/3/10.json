@@ -1,0 +1,86 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il dit : Bénie ⟨sois⟩-tu ⟨de⟩ YHWH, ma fille ; tu as fait mieux ton hessed ⟨au⟩ dernier qu'⟨au⟩ premier, pour ne pas aller après les jeunes hommes, si pauvre ou si riche.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "Bénie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨sois⟩-tu",
+      "marks": "tu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨de⟩ YHWH"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ma fille"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "tu as fait mieux"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "⟨au⟩ dernier"
+    },
+    {
+      "surface": "מן",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "⟨au⟩ premier"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "pour ne pas"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "aller"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "les jeunes hommes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pauvre"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ou si"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "riche"
+    }
+  ],
+  "timestamp": "2026-08-05T04:26:15.198954628Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et il dit : En quoi ai-je péché, puisque tu donnes ⟨את⟩ ton serviteur dans la main d'Achab pour me faire mourir ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "מה",
+      "gloss": "En quoi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ai-je péché"
+    },
+    {
+      "surface": "כי",
+      "gloss": "puisque"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "donnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ton serviteur"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "d'Achab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "pour me faire mourir"
+    }
+  ],
+  "timestamp": "2026-08-04T22:17:51.708886303Z",
+  "model": "glm-4.5"
+}

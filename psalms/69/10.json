@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "car le zèle de ta maison m'a dévoré, et les outrages de ceux qui t'outragent sont tombés sur moi",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "le zèle"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "m'a dévoré"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "et les outrages"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "de ceux qui t'outragent"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sont tombés"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:58.002574985Z",
+  "model": "glm-4.5"
+}

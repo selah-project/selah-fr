@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "L'homme brut ne sait ⟨pas⟩, et ⟨le⟩ sot ne comprend ⟨pas⟩ ⟨את⟩ ceci.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "L'homme"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne sait ⟨pas⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "et ⟨le⟩ sot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne comprend ⟨pas⟩"
+    },
+    {
+      "surface": "יבין",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceci"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ceci"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:09.726546679Z",
+  "model": "glm-4.5"
+}

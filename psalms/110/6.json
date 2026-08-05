@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 110,
+  "translation": "Il juge parmi les nations, il remplit ⟨de⟩ cadavres, il fracasse la tête sur une terre vaste.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Il juge"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "il remplit"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "cadavres"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "il fracasse"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "la tête"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "une terre"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "vaste"
+    }
+  ],
+  "timestamp": "2026-08-05T02:35:18.356280409Z",
+  "model": "glm-4.5"
+}

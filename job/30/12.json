@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "À la droite une bande se lève, ils poussent mes pieds, et ⟨ils⟩ élèvent contre moi leurs sentiers de calamité.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "À"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "la droite"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "une bande"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "se lève"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ils poussent"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "mes pieds"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "et ⟨ils⟩ élèvent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "leurs sentiers"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "de calamité"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:22.421600354Z",
+  "model": "glm-4.5"
+}

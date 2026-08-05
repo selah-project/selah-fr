@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Car YHWH écoute ⟨les⟩ indigents, et ⟨il⟩ ne méprise pas ⟨את⟩ ses captifs.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "les indigents"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ses captifs"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ses captifs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "méprise pas"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:47.901522277Z",
+  "model": "glm-4.5"
+}

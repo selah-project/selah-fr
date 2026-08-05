@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 101,
+  "translation": "De David. Un mizmor de hessed et de mishpat, je chanterai pour toi, YHWH, je psalmodierai.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Un mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "de hessed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "et de mishpat"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je psalmodierai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:50.452152455Z",
+  "model": "glm-4.5"
+}

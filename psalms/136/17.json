@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "À celui ⟨qui⟩ frappa des grands rois, car pour toujours est son hessed",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "À celui ⟨qui⟩ frappa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "des rois"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grands"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "est son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:55.295325927Z",
+  "model": "glm-4.5"
+}

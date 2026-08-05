@@ -1,0 +1,83 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et dit le roi : hâtez ⟨את⟩ Haman de faire ⟨את⟩ la parole d’Esther ; et vint le roi et Haman au banquet qu’avait fait Esther.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "hâtez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "de faire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "d’Esther"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "et vint"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "et Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "banquet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "avait fait"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    }
+  ],
+  "timestamp": "2026-08-05T04:59:19.842214782Z",
+  "model": "glm-4.5"
+}

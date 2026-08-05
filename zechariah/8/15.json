@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Ainsi je retourne, j'ai résolu, dans ces jours, de faire du bien ⟨à⟩ Jérusalem et ⟨à⟩ la maison de Juda, ne craignez pas",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "je retourne"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "j'ai résolu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dans ces jours"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ces"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "de faire du bien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jérusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la maison"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "craignez"
+    }
+  ],
+  "timestamp": "2026-08-05T00:50:33.812509762Z",
+  "model": "glm-4.5"
+}

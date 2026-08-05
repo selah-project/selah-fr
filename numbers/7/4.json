@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et YHWH parla à Moïse, disant",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    }
+  ],
+  "timestamp": "2026-08-04T21:40:06.326705689Z",
+  "model": "glm-4.5"
+}

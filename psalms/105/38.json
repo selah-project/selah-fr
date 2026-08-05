@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "L'Égypte se réjouit à leur départ, car leur frayeur était tombée sur eux.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "se réjouit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "L'Égypte"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "à leur départ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "était tombée"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "leur frayeur"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:14.150145805Z",
+  "model": "glm-4.5"
+}

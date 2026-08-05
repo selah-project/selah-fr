@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Quand sa lampe brillait sur ma tête, et par sa lumière je marchais ⟨dans⟩ les ténèbres ;",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "sa lampe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "et par sa lumière"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "je marchais"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "⟨dans⟩ les ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:50.950329558Z",
+  "model": "glm-4.5"
+}

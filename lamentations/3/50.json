@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "jusqu'à ce que YHWH regarde et voie depuis les cieux",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et voie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "depuis les cieux"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:45.318647775Z",
+  "model": "glm-4.5"
+}

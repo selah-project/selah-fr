@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Sur toi je fus jeté depuis le ventre, dès le sein de ma mère, c'est toi, mon Élohim.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Sur toi"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "je fus jeté"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "depuis le ventre"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "depuis le sein"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "de ma mère"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "c'est toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.969189847Z",
+  "model": "glm-4.5"
+}

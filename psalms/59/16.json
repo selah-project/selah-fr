@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Eux, ils errent pour manger, [et] gronder s'ils ne sont pas rassasiés, [et] ils passent ⟨la⟩ nuit.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Eux"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ils errent"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "pour manger"
+    },
+    {
+      "surface": "אם",
+      "gloss": "[et]"
+    },
+    {
+      "surface": "לא",
+      "gloss": "s'ils ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sont pas rassasiés"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "[et] ils passent ⟨la⟩ nuit"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:22.117191415Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Il envoya parmi eux des moustiques qui les dévorèrent, et des grenouilles qui les détruisirent.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Il envoya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "parmi eux"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "des moustiques"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "qui les dévorèrent"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "et des grenouilles"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "qui les détruisirent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:39.132859335Z",
+  "model": "glm-4.5"
+}

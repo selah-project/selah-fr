@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Celui qui marche dans l'intégrité, et pratique la justice, et parle la vérité dans son cœur,",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Celui qui marche"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dans l'intégrité"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "et pratique"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "et parle"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "la vérité"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "dans son cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:12:44.902062921Z",
+  "model": "glm-4.5"
+}

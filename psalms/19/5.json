@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Dans toute la terre est sortie leur corde et au bout du monde leurs propos ; pour le soleil il a posé une tente en eux",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "dans toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "est sortie"
+    },
+    {
+      "surface": "קום",
+      "gloss": "leur corde"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "et au bout"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "du monde"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "leurs propos"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "pour le soleil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il a posé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "une tente"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:59.677348968Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Une bouche ⟨est⟩ à eux et ils ne parlent pas, des yeux ⟨sont⟩ à eux et ils ne voient pas.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "une bouche"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨est⟩ à eux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "parlent pas"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "des yeux"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨sont⟩ à eux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "voient pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.974710752Z",
+  "model": "glm-4.5"
+}

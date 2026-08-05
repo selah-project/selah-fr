@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Ses eaux mugissent, bouillonnent ; les montagnes tremblent ⟨à⟩ sa montée. Séla.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "mugissent"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "bouillonnent"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ses eaux"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "les montagnes tremblent"
+    },
+    {
+      "surface": "הרים",
+      "gloss": ""
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "⟨à⟩ sa montée"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:18.931699751Z",
+  "model": "glm-4.5"
+}

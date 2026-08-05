@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "Un chant des montées. Des profondeurs, je t'ai appelé, YHWH.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Un chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Des profondeurs"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "je t'ai appelé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:31.724176149Z",
+  "model": "glm-4.5"
+}

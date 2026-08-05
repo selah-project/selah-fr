@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Réjouis la nefesh de ton serviteur, car vers toi, Adonaï, ma nefesh je lève.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Réjouis"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "de ton serviteur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "je lève"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:05.670082293Z",
+  "model": "glm-4.5"
+}

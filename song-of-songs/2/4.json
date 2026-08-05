@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Il m'a fait entrer ⟨dans⟩ la maison du vin, et sa bannière sur moi ⟨était⟩ amour.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Il m'a fait entrer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dans⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "היין",
+      "gloss": "du vin"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "et sa bannière"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "⟨était⟩ amour"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:18.883840136Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Et ⟨le⟩ roi de Babel égorgea ⟨את⟩ les fils de Sédécias devant ses yeux, et aussi ⟨את⟩ tous les princes de Juda, il égorgea à Riblah.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Et égorgea"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "de Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "de Sédécias"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "devant ses yeux"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tous les princes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "les princes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "il égorgea"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "à Riblah"
+    }
+  ],
+  "timestamp": "2026-08-04T23:10:53.692360269Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Monta ⟨de⟩ la fumée dans son nez et ⟨un⟩ feu de sa bouche dévorait ; des braises s'embrasèrent d'elle.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "monta"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "la fumée"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dans son nez"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "et ⟨un⟩ feu"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "de sa bouche"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dévorait"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "des braises"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "s'embrasèrent"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "d'elle"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:48.979858903Z",
+  "model": "glm-4.5"
+}

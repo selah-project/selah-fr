@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Mon âme ⟨est⟩ consumée et languit après les parvis de YHWH, mon cœur et ma chair crient de joie vers le El vivant.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "⟨est⟩ consumée"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "languit"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Mon âme"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "après les parvis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "et ma chair"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "crient de joie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:18.778041346Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et les humbles hériteront la terre, et se délecteront de l'abondance de la shalom.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "Et les humbles"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "hériteront"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "et se délecteront"
+    },
+    {
+      "surface": "על",
+      "gloss": "de l'"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abondance"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-05T01:31:05.518427709Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car aussi, bien des fois, ton cœur a su que toi aussi tu as maudit des autres",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fois"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "bien des"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a su"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ton cœur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu as maudit"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "as maudit"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "des autres"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:35.985472545Z",
+  "model": "glm-4.5"
+}

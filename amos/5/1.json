@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Écoutez ⟨את⟩ cette parole que je soulève sur vous, une lamentation, maison d'Israël.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette parole"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "cette parole"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "soulève"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sur vous"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "lamentation"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T00:17:22.977874852Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Il n'y a ⟨ni⟩ sagesse, ⟨ni⟩ intelligence, ⟨ni⟩ conseil ⟨en⟩ présence de YHWH.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Il n'y a"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "⟨ni⟩ sagesse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "intelligence"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨ni⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "conseil"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "⟨en⟩ présence de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:07.267600480Z",
+  "model": "glm-4.5"
+}

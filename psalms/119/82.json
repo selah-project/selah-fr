@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mes yeux se sont usés pour ta promesse, ⟨je dis⟩ : quand me consoleras-tu ?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "se sont usés"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "pour ta promesse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨je dis⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "me consoleras-tu"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:43.055678768Z",
+  "model": "glm-4.5"
+}

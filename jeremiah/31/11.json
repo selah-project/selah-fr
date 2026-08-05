@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Car YHWH a racheté Jacob, et l'a délivré de la main d'un plus fort que lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "a racheté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jacob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "et l'a délivré"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "d'un plus fort"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "que lui"
+    }
+  ],
+  "timestamp": "2026-08-04T22:46:29.063154759Z",
+  "model": "glm-4.5"
+}

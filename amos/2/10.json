@@ -1,0 +1,72 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et moi, je vous ai fait monter du pays d'Égypte, et je vous ai conduit dans le désert quarante ans pour posséder ⟨את⟩ le pays de l'Amorite",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "je vous ai fait monter"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "du pays"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "et je vous ai conduit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "dans le désert"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "pour posséder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pays"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "de l'Amorite"
+    }
+  ],
+  "timestamp": "2026-08-05T00:15:03.722219152Z",
+  "model": "glm-4.5"
+}

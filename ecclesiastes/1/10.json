@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Il y a une chose dont on puisse dire : Regarde, ceci ⟨est⟩ nouveau ; elle a déjà été ⟨pour⟩ les durées qui ⟨ont été⟩ avant nous.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une chose"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "dont on puisse dire"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "regarde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "déjà"
+    },
+    {
+      "surface": "היה",
+      "gloss": "a été"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "pour les durées"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ont été"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "avant nous"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:55.548888109Z",
+  "model": "glm-4.5"
+}

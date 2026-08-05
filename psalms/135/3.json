@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Louez Yah, car YHWH ⟨est⟩ bon, chantez pour son nom, car il ⟨est⟩ agréable.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "pour son nom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "agréable"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:14.637366628Z",
+  "model": "glm-4.5"
+}

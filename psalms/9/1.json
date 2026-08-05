@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Au chef de chant sur La mort du fils, psaume de David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chant"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "sur La mort"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "du fils"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:34.956452464Z",
+  "model": "glm-4.5"
+}

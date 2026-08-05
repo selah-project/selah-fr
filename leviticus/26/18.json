@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Et si jusqu'à ⟨ces choses⟩ vous n'obéissez pas à moi, j'ajouterai à la correction ⟨את⟩ vous sept ⟨fois⟩ sur vos péchés",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et si"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨ces choses⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "obéissez pas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "j'ajouterai"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "à la correction"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vous"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sept ⟨fois⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "vos péchés"
+    }
+  ],
+  "timestamp": "2026-08-04T21:38:20.547452466Z",
+  "model": "glm-4.5"
+}

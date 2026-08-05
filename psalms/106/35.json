@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et ils se sont mêlés parmi les nations, et ont appris leurs œuvres.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "Et ils se sont mêlés"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "et ont appris"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "leurs œuvres"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:11.893961390Z",
+  "model": "glm-4.5"
+}

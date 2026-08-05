@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car qui ⟨est⟩ choisi pour tous les vivants a de l'espoir ; car un chien vivant, il est meilleur qu'un lion mort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨est⟩"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "choisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pour"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "les vivants"
+    },
+    {
+      "surface": "יש",
+      "gloss": "a"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "de l'espoir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "un chien"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "est meilleur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "qu'"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "un lion"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mort"
+    }
+  ],
+  "timestamp": "2026-08-05T04:42:10.253746276Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Petit et grand, ⟨ils sont⟩ là, et le serviteur ⟨est⟩ exempt de ses maîtres.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "Petit"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "et grand"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ils sont⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "et le serviteur"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "⟨est⟩ exempt"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "de ses maîtres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:34.423141970Z",
+  "model": "glm-4.5"
+}

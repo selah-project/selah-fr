@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "Quarante ans j'ai été dégoûté ⟨avec cette⟩ génération, et j'ai dit : « C'est un peuple errant de cœur, et eux, ils n'ont pas connu mes chemins ».",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Quarante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "j'ai été dégoûté"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "⟨avec cette⟩ génération"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et j'ai dit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "C'est un peuple"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "errant"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "הם",
+      "gloss": "et eux"
+    },
+    {
+      "surface": "והם",
+      "gloss": ","
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'ont pas"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "connu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mes chemins"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:10.161878606Z",
+  "model": "glm-4.5"
+}

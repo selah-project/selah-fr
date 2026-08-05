@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Au passage ⟨de⟩ la tempête, le méchant ⟨est⟩ plus ; et le juste, fondement d'éternité.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "Au passage"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "⟨de⟩ la tempête"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "le méchant ⟨est⟩ plus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "et le juste"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "fondement"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "d'éternité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:20.958001862Z",
+  "model": "glm-4.5"
+}

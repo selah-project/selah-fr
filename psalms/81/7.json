@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "J'ai déchargé son épaule du fardeau, ses mains ⟨furent retirées⟩ du panier ⟨pour passer⟩.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "J'ai déchargé"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "du fardeau"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "son épaule"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "⟨furent retirées⟩ du panier"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "⟨pour passer⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:20.857138931Z",
+  "model": "glm-4.5"
+}

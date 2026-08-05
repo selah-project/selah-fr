@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Par tes préceptes je prends intelligence c'est pourquoi je hais tout chemin de mensonge.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Par tes préceptes"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "je prends intelligence"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur ⟨cela⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "je hais"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "chemin"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:52.282489458Z",
+  "model": "glm-4.5"
+}

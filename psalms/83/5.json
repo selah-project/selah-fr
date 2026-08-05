@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Ils ont dit : Venez, et nous les ferons disparaître de ⟨la⟩ nation ; et le nom d'Israël ne sera plus mentionné ⟨encore⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ils ont dit"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Venez"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "et nous les ferons disparaître"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "de ⟨la⟩ nation"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et le ... ne ... pas"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "sera mentionné"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨encore⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:59.411491740Z",
+  "model": "glm-4.5"
+}

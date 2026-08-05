@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Ne donne pas, YHWH, ⟨les⟩ désirs du méchant, son complot ne ⟨le⟩ fais pas réussir, ils s'élèvent. Séla.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "donne pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "⟨les⟩ désirs"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "son complot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "⟨le⟩ fais pas réussir"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ils s'élèvent"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:09.975320874Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Des ronces, des pièges ⟨sont⟩ dans la voie de l'homme faux; celui qui garde sa nefesh se tiendra loin d'eux.",
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "Des ronces"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "des pièges"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la voie"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "de l'homme faux"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "celui qui garde"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa nefesh"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "se tiendra loin"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:50.132573844Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "et pour rassembler ⟨את⟩ l'assemblée, vous sonnerez, et vous ne ferez pas ⟨une⟩ alarme",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "et pour rassembler"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'assemblée"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "vous sonnerez"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et vous ne ferez pas"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "⟨une⟩ alarme"
+    }
+  ],
+  "timestamp": "2026-08-04T21:42:05.129252504Z",
+  "model": "glm-4.5"
+}

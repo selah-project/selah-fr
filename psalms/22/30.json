@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Mangeront et se prosterneront, tous les gras de la terre ; devant lui s’inclineront, tous ceux qui descendent ⟨dans⟩ la poussière, et son nefesh, il ne la fait pas vivre",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Mangeront"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "et se prosterneront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "les gras"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant lui"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "s’inclineront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ceux qui descendent"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "⟨dans⟩ la poussière"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "et son nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "la fait pas vivre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.759597465Z",
+  "model": "glm-4.5"
+}

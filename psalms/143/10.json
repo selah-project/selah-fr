@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Enseigne-moi à faire ta volonté, car toi, tu ⟨es⟩ mon Élohim, ton Rouah ⟨est⟩ bon, fais-moi cheminer dans ⟨une⟩ terre de plat pays.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "enseigne-moi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "à faire"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ta volonté"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ton Rouah"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bon"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "fais-moi cheminer"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans ⟨une⟩ terre"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "de plat pays"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.419989121Z",
+  "model": "glm-4.5"
+}

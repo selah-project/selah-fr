@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "YHWH, j'ai aimé le séjour de ta maison et le lieu ⟨du⟩ mishkan de ta gloire",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "j'ai aimé"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "le séjour"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "et le lieu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "⟨du⟩ mishkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "de ta gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:54.796024222Z",
+  "model": "glm-4.5"
+}

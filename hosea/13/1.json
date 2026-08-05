@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Quand Éphraïm parlait ⟨il y avait⟩ terreur, il s’éleva en Israël ; mais il se rendit coupable envers ⟨le⟩ Baal et mourut.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "terreur"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "s'éleva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "en Israël"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "et il se rendit coupable"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "envers ⟨le⟩ Baal",
+      "marks": "le Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et mourut"
+    }
+  ],
+  "timestamp": "2026-08-05T00:08:51.275425221Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Qui ⟨attendent⟩ la mort et elle n'est pas, et ⟨la⟩ fouillent plus que des trésors cachés",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "Qui ⟨attendent⟩"
+    },
+    {
+      "surface": "למות",
+      "gloss": "la mort"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "et elle n'est pas"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "et ⟨la⟩ fouillent"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "plus que des trésors cachés"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:27.246626561Z",
+  "model": "glm-4.5"
+}

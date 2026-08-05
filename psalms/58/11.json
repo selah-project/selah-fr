@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Le juste se réjouira quand il aura vu la vengeance ; il lavera ses pieds dans le sang du méchant.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "se réjouira"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "il aura vu"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "la vengeance"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ses pieds"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "il lavera"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dans le sang"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "du méchant"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:42.652063138Z",
+  "model": "glm-4.5"
+}

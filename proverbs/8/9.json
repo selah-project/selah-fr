@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Tous sont ⟨sont⟩ droits pour ⟨celui⟩ qui comprend, et justes pour ceux qui trouvent la connaissance",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "sont ⟨sont⟩ droits"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "pour ⟨celui⟩ qui comprend"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "et justes"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "pour ceux qui trouvent"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    }
+  ],
+  "timestamp": "2026-08-05T03:18:46.816293669Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Béni soit Adonaï, jour après jour il porte ⟨notre⟩ fardeau pour nous, l'El est notre délivrance, Séla.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni soit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "יום",
+      "gloss": "après jour"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "il porte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨notre⟩ fardeau"
+    },
+    {
+      "surface": "האל",
+      "gloss": "pour nous, l'El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "est notre délivrance"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:17.667533545Z",
+  "model": "glm-4.5"
+}

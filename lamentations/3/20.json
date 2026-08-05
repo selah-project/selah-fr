@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Oui, tu te souviendras et ma nefesh s'abattra sur moi.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Oui, tu te souviendras"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "tu te souviendras"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "et ma nefesh s'abattra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:57.612162434Z",
+  "model": "glm-4.5"
+}

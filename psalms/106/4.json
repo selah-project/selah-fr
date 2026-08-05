@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Souviens-toi de moi, YHWH, selon la faveur de ton peuple, visite-moi par ton salut.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Souviens-toi de moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "selon la faveur"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "de ton peuple"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "visite-moi"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "par ton salut"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:33.018594701Z",
+  "model": "glm-4.5"
+}

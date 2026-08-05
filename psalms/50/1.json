@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Un psaume d'Asaph. El, Élohim, YHWH, a parlé et a appelé la terre, depuis le levant du soleil jusqu'à son couchant.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "d'Asaph"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "et a appelé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "depuis le levant"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "du soleil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "son couchant"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:51.152714754Z",
+  "model": "glm-4.5"
+}

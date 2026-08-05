@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Et la fille de Tsor avec un présent ⟨את⟩ ta face ils apaisent les riches du peuple",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Et la fille de"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "avec un présent"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨את⟩",
+      "marks": "ta face"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ils apaisent"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "les riches de"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:36.521267230Z",
+  "model": "glm-4.5"
+}

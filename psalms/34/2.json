@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Je bénirai YHWH ⟨en⟩ tout temps, continuellement sa louange ⟨est⟩ dans ma bouche.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Je bénirai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨en⟩ tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "temps"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sa louange"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "dans ma bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:07.036130646Z",
+  "model": "glm-4.5"
+}

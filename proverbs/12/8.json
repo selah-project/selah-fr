@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "proverbs 12:8",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "D'après son intelligence un homme est loué, et ⟨celui qui⟩ pervertit le cœur sera méprisé",
+  "tokens": [
+    {
+      "surface": "לְפִי",
+      "gloss": "d'après"
+    },
+    {
+      "surface": "שִׂכְלוֹ",
+      "gloss": "son intelligence"
+    },
+    {
+      "surface": "יְהֻלַּל",
+      "gloss": "est loué"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "וְנַעֲוֵה",
+      "gloss": "et pervertit"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לָבוּז",
+      "gloss": "méprisé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:17.170309868Z",
+  "model": "glm-4.5"
+}

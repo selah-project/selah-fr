@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Ce qui ⟨est⟩ fade se mange-t-il sans sel ? ou y a-t-il ⟨du⟩ goût dans le blanc de l'œuf ?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "se mange-t-il"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ce qui ⟨est⟩ fade"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "יש",
+      "gloss": "y a-t-il"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "⟨du⟩ goût"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "dans le blanc"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "de l'œuf"
+    }
+  ],
+  "timestamp": "2026-08-05T03:47:21.622573797Z",
+  "model": "glm-4.5"
+}

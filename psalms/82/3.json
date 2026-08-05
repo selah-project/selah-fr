@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Jugez le faible et l'orphelin, ⟨le⟩ malheureux et le pauvre faites-justice.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Jugez"
+    },
+    {
+      "surface": "דל",
+      "gloss": "le faible"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "et l'orphelin"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨le⟩ malheureux"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "et le pauvre"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "faites-justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:11.685160644Z",
+  "model": "glm-4.5"
+}

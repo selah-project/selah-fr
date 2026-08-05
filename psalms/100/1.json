@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 100,
+  "translation": "Un psaume de louange ; pouvez un cri de joie vers YHWH, toute la terre.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "de louange"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pouvez un cri de joie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vers YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:14.390151172Z",
+  "model": "glm-4.5"
+}

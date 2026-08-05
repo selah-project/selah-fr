@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car ⟨il n'y a⟩ dans la mort aucun souvenir de toi ; dans le Shéol, qui ⟨te⟩ louera ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨il n'y a⟩"
+    },
+    {
+      "surface": "במות",
+      "gloss": "dans la mort"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "aucun souvenir de toi"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "dans le Shéol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "⟨te⟩ louera"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:40.775161608Z",
+  "model": "glm-4.5"
+}

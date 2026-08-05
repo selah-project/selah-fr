@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Car tu as délivré mon âme de la mort, ⟨את⟩ mes yeux des larmes, ⟨את⟩ mes pieds de la chute.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "tu as délivré"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la mort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes yeux"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "מן",
+      "gloss": "des"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "larmes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes pieds"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mes pieds"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "de la chute"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:48.188454623Z",
+  "model": "glm-4.5"
+}

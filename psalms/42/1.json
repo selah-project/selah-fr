@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Au chef des chanteurs, un maskil, pour les fils de Qorah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chanteurs"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un maskil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pour les fils de"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:09.252912448Z",
+  "model": "glm-4.5"
+}

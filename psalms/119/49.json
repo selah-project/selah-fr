@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Souviens-toi de la parole pour ton serviteur, ⟨sur⟩ laquelle tu m'as fait espérer.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "souviens-toi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "de la parole"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "pour ton serviteur"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "laquelle"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "tu m'as fait espérer"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:37.759229379Z",
+  "model": "glm-4.5"
+}

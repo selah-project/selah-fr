@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ta justice ⟨est⟩ justice à jamais, et ta Torah ⟨est⟩ vérité",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Ta justice"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "à jamais"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "et ta Torah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:39.547553522Z",
+  "model": "glm-4.5"
+}

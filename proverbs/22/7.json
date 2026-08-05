@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Le riche ⟨domine⟩ les pauvres, et l'emprunteur est serviteur ⟨pour⟩ le prêteur.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Le riche"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "⟨domine⟩ les pauvres"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": ""
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "et l'emprunteur est serviteur"
+    },
+    {
+      "surface": "לוה",
+      "gloss": ""
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨pour⟩ le prêteur"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:50.133070693Z",
+  "model": "glm-4.5"
+}

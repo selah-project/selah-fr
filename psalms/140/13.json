@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Je sais que YHWH fera le droit de l'affligé, le jugement des indigents.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Je sais"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יַעֲשֶׂ֣ה",
+      "gloss": "fera"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דִּ֣ין",
+      "gloss": "le droit"
+    },
+    {
+      "surface": "עָנִ֑י",
+      "gloss": "de l'affligé"
+    },
+    {
+      "surface": "מִ֝שְׁפַּ֗ט",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "אֶבְיֹנִֽים",
+      "gloss": "des indigents"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:22.958860942Z",
+  "model": "glm-5.2"
+}

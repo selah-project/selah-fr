@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Je te louerai dans ⟨la⟩ grande assemblée, parmi ⟨le⟩ puissant peuple je te célébrerai.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "je te louerai"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "dans ⟨la⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grande"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "assemblée, parmi ⟨le⟩"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "puissant"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "peuple je te célébrerai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:15.244870168Z",
+  "model": "glm-4.5"
+}

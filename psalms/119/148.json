@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mes yeux ⟨ont⟩ devancé ⟨les⟩ veilles, pour méditer sur ⟨ta⟩ parole.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "ont devancé"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Mes yeux"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "veilles"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "pour méditer"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "sur ⟨ta⟩ parole"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:36.837594032Z",
+  "model": "glm-4.5"
+}

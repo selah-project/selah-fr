@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Car YHWH donne la sagesse, de sa bouche ⟨sortent⟩ la connaissance et l'intelligence.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "de sa bouche"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "la connaissance"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "et l'intelligence"
+    }
+  ],
+  "timestamp": "2026-08-05T03:13:17.074682501Z",
+  "model": "glm-4.5"
+}

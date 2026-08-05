@@ -1,0 +1,51 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "et je ferai revenir ⟨את⟩ la captivité de Juda et ⟨את⟩ la captivité d'Israël et je les bâtirai comme au commencement",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "et je ferai revenir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la captivité de Juda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "la captivité"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la captivité d'Israël"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "la captivité"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "et je les bâtirai"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "comme au commencement"
+    }
+  ],
+  "timestamp": "2026-08-04T22:48:54.822601714Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Et ils m'ont rendu le mal pour le bien, et la haine pour mon amour.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Et ils m'ont rendu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨contre⟩ moi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "et la haine"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mon amour"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.286377312Z",
+  "model": "glm-4.5"
+}

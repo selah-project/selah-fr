@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Le fruit du juste est un arbre de vie, et le sage ⟨prend⟩ des âmes.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "Le fruit"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "est un arbre"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "de vie"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "et le sage ⟨prend⟩"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "des âmes"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "est sage"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:08.897299320Z",
+  "model": "glm-4.5"
+}

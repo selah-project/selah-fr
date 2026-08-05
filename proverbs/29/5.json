@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Un homme qui ⟨lisse⟩ sur son ami, un filet ⟨est⟩ étendu sur ses pas",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Un homme"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "qui ⟨lisse⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son ami"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "un filet"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "⟨est⟩ étendu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ses pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:31.821285887Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "Fais briller l'éclair et disperse-les, envoie tes flèches et trouble-les",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "fais briller"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "l'éclair"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "et disperse-les"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "envoie"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "tes flèches"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "et trouble-les"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:54.871847591Z",
+  "model": "glm-4.5"
+}

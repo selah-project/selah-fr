@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "chantez ⟨la⟩ gloire de son nom placez ⟨la⟩ gloire de sa louange",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨la⟩ gloire"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "de son nom"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "placez"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "⟨la⟩ gloire"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "de sa louange"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:32.469143360Z",
+  "model": "glm-4.5"
+}

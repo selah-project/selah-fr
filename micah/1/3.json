@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Car voici, YHWH sort de son lieu, et il descend, et il marche sur les lieux élevés de la terre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sort"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "de son lieu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "et il descend"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "et il marche"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "les lieux élevés"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T00:25:40.726908778Z",
+  "model": "glm-4.5"
+}

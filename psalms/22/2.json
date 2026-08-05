@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": " mon El, mon El, pourquoi m'as-tu abandonné ? Loin de ⟨mon⟩ salut, les paroles de ⟨mon⟩ rugissement.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "mon El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mon El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "m'as-tu abandonné"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "loin"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "de ⟨mon⟩ salut"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "de ⟨mon⟩ rugissement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.323526838Z",
+  "model": "glm-4.5"
+}

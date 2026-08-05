@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Qui ⟨montera⟩ sur la montagne de YHWH, et qui ⟨se tiendra⟩ au lieu de sa sainteté ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "⟨montera⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sur la montagne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qui"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "⟨se tiendra⟩"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "au lieu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "de sa sainteté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:19:43.493727640Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Ainsi a dit YHWH Tsevaot : Demande, ⟨je te prie⟩, ⟨את⟩ les prêtres, ⟨la⟩ torah, pour dire",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Demande"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨je te prie⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les prêtres"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "les prêtres"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "⟨la⟩ torah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-05T00:42:14.859878836Z",
+  "model": "glm-4.5"
+}

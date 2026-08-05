@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Je ferai mention de ton nom ⟨dans⟩ toute génération et génération, c'est pourquoi des peuples te loueront ⟨pour⟩ l'éternité et ⟨pour⟩ toujours",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "Je ferai mention de"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨dans⟩ toute"
+    },
+    {
+      "surface": "דר",
+      "gloss": "génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "et génération"
+    },
+    {
+      "surface": "על",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "עמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "te loueront"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "⟨pour⟩ l'éternité"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et ⟨pour⟩ toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:21.856426109Z",
+  "model": "glm-4.5"
+}

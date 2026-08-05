@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Pourquoi des genoux m'ont-ils précédé, et des seins, que j'ai sucé ?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "m'ont-ils précédé"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "des genoux"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "des seins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "j'ai sucé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:24.450218323Z",
+  "model": "glm-4.5"
+}

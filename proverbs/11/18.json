@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Le méchant fait une œuvre de mensonge ; et ⟨celui qui⟩ sème ⟨la⟩ tsedeqah a ⟨un⟩ salaire de vérité.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Le méchant"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fait"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "une œuvre"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "et ⟨celui qui⟩ sème"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "⟨la⟩ tsedeqah"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "⟨un⟩ salaire"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:25.894347038Z",
+  "model": "glm-4.5"
+}

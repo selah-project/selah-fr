@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Aussi, ⟨ce sont⟩ des proverbes de Shelomo, que les hommes de Hizqiya, roi de Yehuda, ont transcrits.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Aussi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨ce sont⟩"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "des proverbes"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "de Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ont transcrits"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "les hommes"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "de Hizqiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:31.313198022Z",
+  "model": "glm-4.5"
+}

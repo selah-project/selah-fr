@@ -1,15 +1,15 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "2-samuel 4:4",
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 4,
-  "translation": "Et Yehonatan, fils de Shaoul, ⟨avait⟩ un fils ⟨נכה⟩ des pieds, âgé de cinq ans : ⟨c'était⟩ quand la nouvelle ⟨vint⟩ de Shaoul et de Yehonatan, de Yizréel, et sa nourrice le prit et s'enfuit, et il advint dans sa précipitation à fuire qu'il tomba et devint ⟨boiteux⟩, et son nom ⟨était⟩ Mephibosheth.",
+  "translation": "Et à Yehonathan, fils de Shaül, ⟨il y avait⟩ un fils, frappé aux pieds. Il était âgé de cinq ans à l'arrivée de la nouvelle de Shaül et de Yehonathan depuis Yizréel. Sa nourrice le prit et s'enfuit ; et il arriva, dans sa hâte de fuir, qu'il tomba et resta boiteux. Et son nom ⟨était⟩ Mefivoshet.",
   "tokens": [
     {
       "surface": "וליהונתן",
-      "gloss": "Et Yehonatan"
+      "gloss": "Et à Yehonathan"
     },
     {
       "surface": "בן",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "שאול",
-      "gloss": "de Shaoul"
+      "gloss": "de Shaül"
     },
     {
       "surface": "בן",
-      "gloss": "⟨avait⟩ un fils"
+      "gloss": "un fils"
     },
     {
       "surface": "נכה",
-      "gloss": "⟨נכה⟩ des pieds"
+      "gloss": "frappé"
     },
     {
       "surface": "רגלים",
-      "gloss": "des pieds"
+      "gloss": "aux pieds"
     },
     {
       "surface": "בן",
@@ -45,35 +45,35 @@
     },
     {
       "surface": "היה",
-      "gloss": "⟨c'était⟩"
+      "gloss": "il était"
     },
     {
       "surface": "בבא",
-      "gloss": "quand"
+      "gloss": "à l'arrivée"
     },
     {
       "surface": "שמעת",
-      "gloss": "la nouvelle"
+      "gloss": "de la nouvelle"
     },
     {
       "surface": "שאול",
-      "gloss": "de Shaoul"
+      "gloss": "de Shaül"
     },
     {
       "surface": "ויהונתן",
-      "gloss": "et de Yehonatan"
+      "gloss": "et de Yehonathan"
     },
     {
       "surface": "מיזרעאל",
-      "gloss": "de Yizréel"
+      "gloss": "depuis Yizréel"
     },
     {
       "surface": "ותשאהו",
-      "gloss": "et sa nourrice le prit"
+      "gloss": "elle le prit"
     },
     {
       "surface": "אמנתו",
-      "gloss": "et sa nourrice"
+      "gloss": "sa nourrice"
     },
     {
       "surface": "ותנס",
@@ -81,33 +81,33 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "et il advint"
+      "gloss": "et il arriva"
     },
     {
       "surface": "בחפזה",
-      "gloss": "dans sa précipitation"
+      "gloss": "dans sa hâte"
     },
     {
       "surface": "לנוס",
-      "gloss": "à fuire"
+      "gloss": "de fuir"
     },
     {
       "surface": "ויפל",
-      "gloss": "qu'il tomba"
+      "gloss": "et il tomba"
     },
     {
       "surface": "ויפסח",
-      "gloss": "et devint ⟨boiteux⟩"
+      "gloss": "et resta boiteux"
     },
     {
       "surface": "ושמו",
-      "gloss": "et son nom"
+      "gloss": "Et son nom"
     },
     {
       "surface": "מפיבשת",
-      "gloss": "⟨était⟩ Mephibosheth"
+      "gloss": "Mefivoshet"
     }
   ],
-  "timestamp": "2026-08-04T12:56:40.352658768Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:41:31.009976562Z",
+  "model": "glm-5.2"
 }

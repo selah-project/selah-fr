@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il prendra ⟨את⟩ les deux boucs, et les fera se tenir devant YHWH ⟨à⟩ l'entrée de ⟨la⟩ tente d'assignation",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "et il prendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les deux boucs"
+    },
+    {
+      "surface": "שני",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "boucs"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "et les fera se tenir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "devant YHWH"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨à⟩ l'entrée"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "de ⟨la⟩ tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:32.727472445Z",
+  "model": "glm-4.5"
+}

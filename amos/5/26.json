@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et vous avez porté ⟨את⟩ Sikkouth votre roi et ⟨את⟩ Kiyyoun vos images, l'étoile de vos dieux, que vous vous êtes faits.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Et vous avez porté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkouth votre roi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkouth"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "votre roi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Kiyyoun vos images"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyoun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "vos images"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "l'étoile"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "de vos dieux"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "vous avez faits"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-05T00:17:20.693093507Z",
+  "model": "glm-4.5"
+}

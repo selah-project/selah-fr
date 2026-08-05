@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Même dans le cœur vous œuvrez l'iniquité ; dans la terre, vous pesez la violence de vos mains.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Même"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dans le cœur"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "vous œuvrez"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans la terre"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "violence"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "de vos mains"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "vous pesez"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:32.697045947Z",
+  "model": "glm-4.5"
+}

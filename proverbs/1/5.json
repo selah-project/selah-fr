@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Le sage ⟨est celui qui⟩ écoute et augmente ⟨le⟩ savoir, et ⟨l'⟩intelligent acquiert ⟨des⟩ stratagèmes",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "écoute"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "et augmente"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "savoir"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "et ⟨l'⟩intelligent"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "stratagèmes"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "acquiert"
+    }
+  ],
+  "timestamp": "2026-08-05T03:11:10.240172522Z",
+  "model": "glm-4.5"
+}

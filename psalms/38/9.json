@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Je suis engourdi et broyé jusqu'à l'extrême, je rugis à cause du rugissement de mon cœur.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "Je suis engourdi"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "et broyé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "l'extrême"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "je rugis"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "à cause du rugissement"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "de mon cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:30.203857561Z",
+  "model": "glm-4.5"
+}

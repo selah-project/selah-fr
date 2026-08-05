@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Mon Élohim, délivre-moi de la main du méchant, de la main de l'inique et du violent.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "de l'inique"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "et du violent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:35.209176617Z",
+  "model": "glm-4.5"
+}

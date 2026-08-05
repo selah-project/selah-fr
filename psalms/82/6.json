@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Moi j'ai dit : vous êtes Élohim, et fils de Elyon, vous tous.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vous êtes Élohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": ""
+    },
+    {
+      "surface": "ובני",
+      "gloss": "et fils de"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": ", vous tous"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:58.995553628Z",
+  "model": "glm-4.5"
+}

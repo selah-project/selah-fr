@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Car je suis pauvre et indigent, et mon cœur est blessé au-dedans de moi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pauvre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et indigent"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "et mon cœur"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "est blessé"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "au-dedans de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:10.239158779Z",
+  "model": "glm-4.5"
+}

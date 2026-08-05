@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 53,
+  "translation": "L'insensé a dit en son cœur : il n'y a point d'Élohim. Ils se sont corrompus, ils ont commis ⟨des⟩ iniquités abominables ; il n'y a personne qui fasse le bien.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "l'insensé"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "en son cœur"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a point"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Ils se sont corrompus"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ils ont commis"
+    },
+    {
+      "surface": "עול",
+      "gloss": "iniquités"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qui fasse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:00.577525005Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Alors tu marcheras en sécurité sur ta route, et ton pied ne heurtera ⟨rien⟩",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "tu marcheras"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "en sécurité"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sur ta route"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "et ton pied"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "heurtera ⟨rien⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:30.996808772Z",
+  "model": "glm-4.5"
+}

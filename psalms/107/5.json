@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Affamés, aussi assoiffés, leur nefesh en eux défaillit",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Affamés"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "assoiffés"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "leur nefesh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en eux"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "défaillit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:26.758504759Z",
+  "model": "glm-4.5"
+}

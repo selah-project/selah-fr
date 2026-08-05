@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Guebal, et Ammon, et Amaleq ; la Philistie avec les habitants de Tsor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Guebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "et Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "et Amaleq"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "la Philistie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "les habitants de"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:59.412030222Z",
+  "model": "glm-4.5"
+}

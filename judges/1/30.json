@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Zebulon n'a pas dépossédé ⟨את⟩ les habitants de Kitron et ⟨את⟩ les habitants de Nahalol, et le Cananéen a demeuré au milieu de lui, et ils sont devenus tributaires.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "dépossédé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les habitants de Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "de Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "les habitants de Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "de Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "et a demeuré"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "le Cananéen"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "au milieu de lui"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "et ils sont devenus"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tributaires"
+    }
+  ],
+  "timestamp": "2026-08-04T21:59:50.606739150Z",
+  "model": "glm-4.5"
+}

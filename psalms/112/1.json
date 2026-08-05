@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "Louez Yah. Heureux l’homme qui craint ⟨את⟩ YHWH, dans ses commandements il prend un très grand plaisir.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l’homme"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qui craint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "dans ses commandements"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "il prend un très grand plaisir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très grand"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:41.346632819Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Oui, dans ⟨une⟩ ombre il va, l'homme ; oui, hével, ils s'agitent, il amasse et ne sait pas qui ⟨les⟩ ramassera.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "oui"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "dans ⟨une⟩ ombre"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "il va"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "אך",
+      "gloss": "oui"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hével"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ils s'agitent"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "il amasse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait pas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "⟨les⟩ ramassera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:26.093572545Z",
+  "model": "glm-4.5"
+}

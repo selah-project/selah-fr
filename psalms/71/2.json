@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Dans ta justice, délivre-moi et fais-moi échapper, incline vers moi ton oreille et sauve-moi.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "dans ta justice"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "et fais-moi échapper"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "incline"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "et sauve-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:35.208966786Z",
+  "model": "glm-4.5"
+}

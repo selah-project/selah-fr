@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Voici, ⟨tu⟩ désires la vérité dans ⟨les parties⟩ intérieures, et dans ⟨la partie⟩ cachée ⟨tu⟩ feras que je sache la sagesse.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "la vérité"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "⟨tu⟩ désires"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "dans ⟨les parties⟩ intérieures"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "et dans ⟨la partie⟩ cachée"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "⟨tu⟩ feras que je sache"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:36.553804699Z",
+  "model": "glm-4.5"
+}

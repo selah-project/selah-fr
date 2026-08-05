@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Tu ⟨as⟩ tourné ⟨devant⟩ elle, et elle a pris racine, et ⟨a⟩ rempli la terre",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Tu ⟨as⟩ tourné"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "⟨devant⟩ elle"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "et elle a pris racine"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ses racines"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "et ⟨a⟩ rempli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:05.935217605Z",
+  "model": "glm-4.5"
+}

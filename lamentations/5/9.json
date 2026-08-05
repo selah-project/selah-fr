@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Par notre nefesh nous amenons notre pain, à cause de l'épée du désert.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "Par notre nefesh"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nous amenons"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "notre pain"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "du désert"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:50.588688076Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "La voie de la fidélité j'ai choisie, tes jugements ⟨je⟩ ai mis devant moi",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "de la fidélité"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "j'ai choisie"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "⟨je⟩ ai mis devant moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:35.632898920Z",
+  "model": "glm-4.5"
+}

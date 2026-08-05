@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et de Houshim il engendra ⟨את⟩ Avitouv et ⟨את⟩ Elpaal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "et de Houshim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "il engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avitouv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avitouv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-05T05:48:13.812597203Z",
+  "model": "glm-5.2"
+}

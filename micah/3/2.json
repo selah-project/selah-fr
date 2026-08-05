@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Haïssant ⟨le⟩ bon, et aimant ⟨le⟩ mal, détroussant leur peau sur eux, et leur chair sur leurs os",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "haïssant"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨le⟩ bon"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "et aimant"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "détroussant"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "leur peau"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "et leur chair"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "leurs os"
+    }
+  ],
+  "timestamp": "2026-08-05T00:27:06.164054973Z",
+  "model": "glm-4.5"
+}

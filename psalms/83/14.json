@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Mon Élohim, rends-les comme la brouette, comme la paille devant le vent.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mon Élohim"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "rends-les"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "comme la brouette"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "comme la paille"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "le vent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:41.351998353Z",
+  "model": "glm-4.5"
+}

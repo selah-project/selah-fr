@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Ses éclairs ont illuminé ⟨le⟩ monde, ⟨la⟩ terre a vu et a tremblé",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ont illuminé"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Ses éclairs"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨le⟩ monde"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "a vu"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "et a tremblé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:51.304642378Z",
+  "model": "glm-4.5"
+}

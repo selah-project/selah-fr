@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et Benjamin engendra ⟨את⟩ Béla, son premier-né ; Ashbel le deuxième, et Aharah le troisième.",
+  "tokens": [
+    {
+      "surface": "וּבִנְיָמִן",
+      "gloss": "Et Benjamin"
+    },
+    {
+      "surface": "הוֹלִיד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Béla"
+    },
+    {
+      "surface": "בֶּלַע",
+      "gloss": "Béla"
+    },
+    {
+      "surface": "בְּכֹרוֹ",
+      "gloss": "son premier-né"
+    },
+    {
+      "surface": "אַשְׁבֵּל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "הַשֵּׁנִי",
+      "gloss": "le deuxième"
+    },
+    {
+      "surface": "וְאַחְרַח",
+      "gloss": "et Aharah"
+    },
+    {
+      "surface": "הַשְּׁלִישִׁי",
+      "gloss": "le troisième"
+    }
+  ],
+  "timestamp": "2026-08-05T05:48:57.681689397Z",
+  "model": "glm-5.2"
+}

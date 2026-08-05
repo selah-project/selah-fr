@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Tu nous fais reculer devant l'adversaire, et ceux qui nous détestent ont pillé pour eux.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Tu nous fais reculer"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "en arrière"
+    },
+    {
+      "surface": "מני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "צר",
+      "gloss": "l'adversaire"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "et ceux qui nous détestent"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "ont pillé"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:51.247990360Z",
+  "model": "glm-4.5"
+}

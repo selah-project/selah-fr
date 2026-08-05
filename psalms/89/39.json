@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Et toi, tu as rejeté et tu as méprisé, tu t'es fâché avec ton Mashiah.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "tu as rejeté"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "et tu as méprisé"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "tu t'es fâché"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ton Mashiah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:23.114420332Z",
+  "model": "glm-4.5"
+}

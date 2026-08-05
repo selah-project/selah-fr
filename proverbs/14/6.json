@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Un moqueur cherche la sagesse et ⟨il n'y a en⟩ point, et ⟨la⟩ connaissance ⟨est⟩ facile pour l'homme intelligent.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "cherche"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "un moqueur"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ⟨il n'y a en⟩ point"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "et ⟨la⟩ connaissance"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "pour l'homme intelligent"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "⟨est⟩ facile"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:48.191173877Z",
+  "model": "glm-4.5"
+}

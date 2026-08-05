@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Crie donc, y a-t-il ⟨un⟩ qui réponde ⟨pour⟩ toi, et vers lequel des saints te tourneras-tu ?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Crie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "היש",
+      "gloss": "y a-t-il ⟨un⟩"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "qui réponde ⟨pour⟩ toi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et vers"
+    },
+    {
+      "surface": "מי",
+      "gloss": "lequel"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "des saints"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "te tourneras-tu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:46:13.112245788Z",
+  "model": "glm-4.5"
+}

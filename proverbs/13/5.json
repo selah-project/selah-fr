@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Une parole de mensonge, le juste la hait ; et le méchant, il agit avec ignominie et il vient à la honte.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Une parole"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "de mensonge"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "le juste la hait"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "le juste"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "et le méchant"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "il agit avec ignominie"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "et il vient à la honte"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:59.488247527Z",
+  "model": "glm-4.5"
+}

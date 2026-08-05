@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "⟨Tu⟩ ne donnes pas ⟨à⟩ boire de l'eau ⟨au⟩ fatigué et ⟨tu⟩ retiens le pain ⟨de⟩ l'affamé.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨Tu⟩ ne donnes pas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de l'eau"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "⟨au⟩ fatigué"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "⟨à⟩ boire"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "et ⟨tu⟩ retiens"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨de⟩ l'affamé"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:55.930819544Z",
+  "model": "glm-4.5"
+}

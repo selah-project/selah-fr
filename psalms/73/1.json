@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Un psaume d’Asaph. Oui, Élohim ⟨est⟩ bon pour Israël, pour ceux qui sont ⟨d’un⟩ cœur pur.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "d’Asaph"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Oui"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pour Israël"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "pour ceux qui sont"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "⟨d’un⟩ cœur pur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:10.349365493Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Car une coupe ⟨est⟩ dans la main de YHWH, et du vin mousseux, plein de mixture, et il en verse ⟨de⟩ celle-ci ; seulement ses lieux, tous les méchants de la terre les suceront, ils les boiront.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "une coupe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "et du vin"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "mousseux"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plein"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "de mixture"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "et il verse"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "⟨de⟩ celle-ci"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ses lieux"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "les suceront"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ils les boiront"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:01.430699131Z",
+  "model": "glm-4.5"
+}

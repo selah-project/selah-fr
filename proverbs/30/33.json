@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car la pression du lait ⟨produit⟩ du beurre, et la pression du nez ⟨produit⟩ du sang, et la pression de la colère ⟨produit⟩ une dispute.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "la pression"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "du lait"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "⟨produit⟩"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "du beurre"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "et la pression"
+    },
+    {
+      "surface": "אף",
+      "gloss": "du nez"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "⟨produit⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "du sang"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "et la pression"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "de la colère"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "⟨produit⟩"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "une dispute"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:52.454663927Z",
+  "model": "glm-4.5"
+}

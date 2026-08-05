@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 110,
+  "translation": "Ton peuple ⟨est⟩ ⟨une offrande volontaire⟩ le jour de ⟨ta⟩ puissance, dans les ornements de sainteté, dès le sein, dès l'aurore, ⟨tu as⟩ la rosée de ta jeunesse.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Ton peuple"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "⟨est⟩ ⟨une offrande volontaire⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "de ⟨ta⟩ puissance"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "dans les ornements"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "de sainteté"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "dès le sein"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "dès l'aurore"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tu as⟩"
+    },
+    {
+      "surface": "טל",
+      "gloss": "la rosée"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "de ta jeunesse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:35:54.084944456Z",
+  "model": "glm-4.5"
+}

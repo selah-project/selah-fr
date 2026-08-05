@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et je parlai aux exilés ⟨de⟩ toutes les paroles de YHWH qu'Il m'avait montrées.",
+  "tokens": [
+    {
+      "surface": "וָאֲדַבֵּ֖ר",
+      "gloss": "Et je parlai"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "aux"
+    },
+    {
+      "surface": "הַגּוֹלָ֑ה",
+      "gloss": "exilés"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "toutes les paroles"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "דִּבְרֵ֥י",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "que"
+    },
+    {
+      "surface": "הֶרְאָֽנִי",
+      "gloss": "Il m'avait montrées"
+    }
+  ],
+  "timestamp": "2026-08-04T23:20:52.324121259Z",
+  "model": "glm-4.5"
+}

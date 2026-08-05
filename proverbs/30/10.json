@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Ne médise pas d'un esclave auprès de son maître, de peur qu'il ne te maudisse, et que tu sois condamnable.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "médise pas"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "d'un esclave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auprès de"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "son maître"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "il ne te maudisse"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "et que tu sois condamnable"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:16.369894900Z",
+  "model": "glm-4.5"
+}

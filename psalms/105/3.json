@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Glorifiez-vous ⟨du⟩ nom de sa sainteté, que se réjouisse ⟨le⟩ cœur de ceux qui cherchent YHWH",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Glorifiez-vous"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨du⟩ nom"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "de sa sainteté"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "que se réjouisse"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨le⟩ cœur"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de ceux qui cherchent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:32.632820110Z",
+  "model": "glm-4.5"
+}

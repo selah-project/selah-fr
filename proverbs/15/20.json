@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Un fils sage réjouit un père, mais un homme stupide méprise sa mère.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Un fils"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "réjouit"
+    },
+    {
+      "surface": "אב",
+      "gloss": "un père"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "mais un homme"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "stupide"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "méprise"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa mère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:24:26.738467683Z",
+  "model": "glm-4.5"
+}

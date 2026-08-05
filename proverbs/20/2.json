@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "La terreur d'un roi ⟨est⟩ comme le rugissement d'un lion, celui qui le provoque à la colère pèche contre sa propre nefesh.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "rugissement"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "comme un lion"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "la terreur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "d'un roi"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "celui qui le provoque à la colère"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "pèche"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "contre sa propre nefesh"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:19.006410058Z",
+  "model": "glm-4.5"
+}

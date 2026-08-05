@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 125,
+  "translation": "Fais le bien, YHWH, pour ⟨les⟩ bons, et pour ⟨ceux qui sont⟩ droits dans leur cœur.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Fais le bien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "pour ⟨les⟩ bons"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "et pour ⟨ceux qui sont⟩ droits"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "dans leur cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:49:49.720757896Z",
+  "model": "glm-4.5"
+}

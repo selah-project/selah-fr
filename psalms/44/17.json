@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "De la voix de l'insulteur et du blasphémateur, de la part de l'ennemi et du vengeur.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "De la voix"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "de l'insulteur"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "et du blasphémateur"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "de la part"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de l'ennemi"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "et du vengeur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:54.999779389Z",
+  "model": "glm-4.5"
+}

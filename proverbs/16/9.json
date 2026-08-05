@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Le cœur de l’homme ⟨calcule⟩ sa route, mais YHWH ⟨dirige⟩ son pas.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Le cœur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l’homme"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "⟨calcule⟩"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa route"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mais YHWH"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "⟨dirige⟩"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "son pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:26.231521148Z",
+  "model": "glm-4.5"
+}

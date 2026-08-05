@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Tes flèches sont aiguisées, les peuples tombent sous toi, elles sont dans le cœur des ennemis du roi.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "tes flèches"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "sont aiguisées"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "tombent sous toi"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "tombent"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dans le cœur"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "des ennemis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:39.710587554Z",
+  "model": "glm-4.5"
+}

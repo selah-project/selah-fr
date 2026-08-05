@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et je vendrai ⟨את⟩ vos fils et ⟨את⟩ vos filles dans ⟨la⟩ main des fils de Yehoudah, et ils les vendront aux Shebaim, à une nation lointaine, car YHWH a parlé",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "et je vendrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos fils"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vos fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "vos filles"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "vos filles"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans ⟨la⟩ main"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Yehoudah"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "et ils les vendront"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "aux Shebaim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "une nation"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "lointaine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a parlé"
+    }
+  ],
+  "timestamp": "2026-08-05T00:13:17.790742865Z",
+  "model": "glm-4.5"
+}

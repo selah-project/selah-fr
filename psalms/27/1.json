@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "De David. YHWH ⟨est⟩ ma lumière et mon salut, de qui craindrai-je ? YHWH ⟨est⟩ la forteresse de ma vie, de qui serai-je effrayé ?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ma lumière"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "et mon salut"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "de qui"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "craindrai-je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "la forteresse"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "de ma vie"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "de qui"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "serai-je effrayé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:37.045585112Z",
+  "model": "glm-4.5"
+}

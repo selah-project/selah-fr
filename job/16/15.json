@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "J'ai cousu un sac sur ma peau, et j'ai roulé ma corne dans la poussière.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "sac"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "j'ai cousu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "ma peau"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "et j'ai roulé"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "dans la poussière"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ma corne"
+    }
+  ],
+  "timestamp": "2026-08-05T03:56:01.107702562Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "L'abîme a dit : 'Elle n'est ⟨pas⟩ en moi' et ⟨la⟩ mer a dit : 'Elle n'est ⟨pas⟩ avec moi'",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "l'abîme"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "'Elle n'est ⟨pas⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "'Elle"
+    },
+    {
+      "surface": "וים",
+      "gloss": "et ⟨la⟩ mer"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "'Elle n'est ⟨pas⟩"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "avec moi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:09.105588096Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Qu'ils soient honteux et qu'ils soient troublés ⟨très⟩ grandement, tous mes ennemis ; qu'ils retournent en arrière, qu'ils soient honteux ⟨en⟩ un instant.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Qu'ils soient honteux"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "et qu'ils soient troublés"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨très⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "qu'ils retournent en arrière"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "qu'ils soient honteux"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "⟨en⟩ un instant"
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:25.942473549Z",
+  "model": "glm-4.5"
+}

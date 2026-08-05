@@ -1,0 +1,71 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Voici, je vous menace ⟨את⟩ la semence et je répandrai du fumier ⟨sur⟩ vos visages, le fumier ⟨de⟩ vos fêtes, et on vous emportera avec lui",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "גער",
+      "gloss": "je vous menace"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨à⟩ vous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la semence"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "la semence"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "et je répandrai"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "du fumier"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sur⟩"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "vos visages"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "le fumier"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "⟨de⟩ vos fêtes"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "et on emportera"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "avec lui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "avec lui"
+    }
+  ],
+  "timestamp": "2026-08-05T00:58:38.662392114Z",
+  "model": "glm-4.5"
+}

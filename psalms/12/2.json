@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Sauve, YHWH, car le pieux a cessé, car les fidèles ont disparu d'entre les fils de l'homme.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Sauve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "a cessé"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "le pieux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ont disparu"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "les fidèles"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "d'entre les fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:30.794731151Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Mon péché, je te le fais connaître, et ma faute je ne l'ai pas couverte ; j'ai dit : Je confesserai ⟨contre⟩ moi mes transgressions à YHWH, et toi, tu as porté la faute de mon péché. Séla.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "Mon péché"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "je te le fais connaître"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "et ma faute"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne l'ai pas"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "couverte"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Je confesserai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨contre⟩ moi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mes transgressions"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "tu as porté"
+    },
+    {
+      "surface": "עון",
+      "gloss": "la faute de"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mon péché"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:25:43.203375483Z",
+  "model": "glm-4.5"
+}

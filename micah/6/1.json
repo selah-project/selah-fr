@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Écoutez donc ce que YHWH dit : Lève-toi, plaide ⟨contre⟩ les montagnes, et que les collines entendent ta voix.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ce que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dit"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "plaide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les montagnes"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "et que ... entendent"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "les collines"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ta voix"
+    }
+  ],
+  "timestamp": "2026-08-05T00:31:50.892486341Z",
+  "model": "glm-4.5"
+}

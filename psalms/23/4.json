@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Même si je marche dans la vallée de l'ombre de la mort, je ne craindrai pas le mal, car toi tu es avec moi, ta houlette et ton appui, eux me consolent.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Même"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "je marche"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "dans la vallée"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "de l'ombre de la mort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "craindrai pas"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "tu es avec moi"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "ta houlette"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "et ton appui"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eux"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "me consolent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:58.929908187Z",
+  "model": "glm-4.5"
+}

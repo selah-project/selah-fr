@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Délivre-moi de toutes mes transgressions, ne fais pas de moi la honte du fou.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "de toutes"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mes transgressions"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "la honte"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "du fou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "fais pas de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:40.564664960Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Il est bon que tu saisisse ceci, et aussi de cela ⟨ne⟩ retire pas ⟨את⟩ ta main, car qui craint Élohim sortira ⟨את⟩ d'eux tous.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Il est bon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "tu saisisse"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "de cela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "retire pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qui craint"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sortira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "d'eux tous"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "d'eux tous"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:38.219911169Z",
+  "model": "glm-4.5"
+}

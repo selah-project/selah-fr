@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Car tu n'abandonneras pas mon néfesh au Shéol, tu ne permettras pas que ton fidèle voie la fosse.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu n'abandonneras pas"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tu n'abandonneras pas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon néfesh"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "au Shéol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne permettras pas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tu ne permettras pas"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "que ton fidèle"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "voie"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "la fosse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:16.149690102Z",
+  "model": "glm-4.5"
+}

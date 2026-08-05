@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Confie-toi en YHWH et fais le bien, demeure sur ⟨la⟩ terre et nourris-toi de fidélité.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "confie-toi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et fais"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "demeure"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sur ⟨la⟩ terre"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "et nourris-toi"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "de fidélité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:50.075832195Z",
+  "model": "glm-4.5"
+}

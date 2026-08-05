@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Incline vers moi ton oreille, hâte-toi de me délivrer ; sois pour moi un rocher de force, une maison de fortifications pour me sauver",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "incline"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ton oreille"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "hâte-toi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "de me délivrer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sois"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "un rocher"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "de force"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "une maison"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "de fortifications"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "pour me sauver"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:35.104677104Z",
+  "model": "glm-4.5"
+}

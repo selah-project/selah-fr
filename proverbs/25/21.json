@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Si ⟨ton⟩ ennemi a faim, donne-lui du pain à manger, et s'il a soif, donne-lui de l'eau à boire",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "a faim"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ton ennemi"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "donne-lui à manger"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "du pain"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "a soif"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "donne-lui à boire"
+    },
+    {
+      "surface": "מים",
+      "gloss": "de l'eau"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:38.301670034Z",
+  "model": "glm-4.5"
+}

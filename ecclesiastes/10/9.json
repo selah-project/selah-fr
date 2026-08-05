@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Celui qui remue des pierres se blesse avec elles, et celui qui fend du bois s'expose au danger par elles.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "Celui qui remue"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "des pierres"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "se blesse"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "avec elles"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "et celui qui fend"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "du bois"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "s'expose au danger"
+    },
+    {
+      "surface": "בם",
+      "gloss": "par elles"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:10.642407006Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 41:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Qui découvrira ⟨le⟩ visage de son vêtement ? ⟨Par⟩ ⟨le⟩ double mors, qui entrera ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "découvrira"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨le⟩ visage"
+    },
+    {
+      "surface": "לבושו",
+      "gloss": "de son vêtement"
+    },
+    {
+      "surface": "בכפל",
+      "gloss": "⟨Par⟩ ⟨le⟩ double"
+    },
+    {
+      "surface": "רסנו",
+      "gloss": "mors"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "entrera"
+    }
+  ],
+  "timestamp": "2026-08-05T04:15:38.840864778Z",
+  "model": "glm-4.5"
+}

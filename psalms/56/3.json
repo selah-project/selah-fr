@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "Mes adversaires haleteraient tout le jour, car nombreux ⟨sont ceux⟩ qui font la guerre contre moi avec orgueil.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "haleteraient"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mes adversaires"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "ceux qui font la guerre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "avec orgueil"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:01.484818317Z",
+  "model": "glm-4.5"
+}

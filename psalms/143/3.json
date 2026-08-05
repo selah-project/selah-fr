@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Car l'ennemi a poursuivi mon âme, il a broyé ma vie contre terre, il m'a fait habiter dans des ténèbres, comme les morts d'autrefois.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "a poursuivi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "l'ennemi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "il a broyé"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "contre terre"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ma vie"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "il m'a fait habiter"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dans des ténèbres"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "comme les morts"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "d'autrefois"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:17.285760153Z",
+  "model": "glm-4.5"
+}

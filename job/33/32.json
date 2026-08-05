@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "s'il y a des paroles, réponds-moi, parle, car j'ai désiré te justifier",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "des paroles"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "réponds-moi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "parle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "j'ai désiré"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "te justifier"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:40.401120414Z",
+  "model": "glm-4.5"
+}

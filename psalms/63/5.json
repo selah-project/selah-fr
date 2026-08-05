@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Ainsi je te bénirai tant que je suis vivant ; en ton nom je lèverai ⟨את⟩ mes mains.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "je te bénirai"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "tant que je suis vivant"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "en ton nom"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "je lèverai"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "⟨את⟩",
+      "marks": "mes mains"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:30.864618661Z",
+  "model": "glm-4.5"
+}

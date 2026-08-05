@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et ils ajoutèrent encore à pécher contre Lui, à se révolter contre Elyon dans le désert.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "Et ils ajoutèrent"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "à pécher"
+    },
+    {
+      "surface": "לו",
+      "gloss": "contre Lui"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "à se révolter"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "dans le désert"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:39.873192405Z",
+  "model": "glm-4.5"
+}

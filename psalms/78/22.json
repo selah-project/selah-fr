@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Car ils n'ont point cru en Élohim, et n'ont point eu confiance en ⟨son⟩ salut",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'ont point"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "cru"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "en Élohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et n'ont point"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "eu confiance"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "en ⟨son⟩ salut"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:54.939492056Z",
+  "model": "glm-4.5"
+}

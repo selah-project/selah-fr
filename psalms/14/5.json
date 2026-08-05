@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Là ils ⟨ont⟩ frémi d'épouvante, car Élohim ⟨est⟩ dans la génération du juste.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Là"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ils ⟨ont⟩ frémi"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "d'épouvante"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dans la génération"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    }
+  ],
+  "timestamp": "2026-08-05T01:11:10.954863016Z",
+  "model": "glm-4.5"
+}

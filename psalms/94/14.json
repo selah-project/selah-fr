@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Car YHWH ne rejettera pas son peuple, et son héritage, il ne l'abandonnera pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "rejettera pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "et son héritage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne le"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "abandonnera pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:19.647419355Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Car il ne sait pas ce qui sera, car comme il sera, qui ⟨le⟩ lui dira ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sait pas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "il sera"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "⟨le⟩ dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    }
+  ],
+  "timestamp": "2026-08-05T04:38:27.018727404Z",
+  "model": "glm-4.5"
+}

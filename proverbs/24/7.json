@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Sont trop hautes pour un fou les sagesses ; dans la porte il n'ouvrira pas sa bouche.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "sont trop hautes"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "pour un fou"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "les sagesses"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "dans la porte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ouvrira"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "pas sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:39.569367160Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Feras-tu trembler une feuille chassée et poursuivras-tu ⟨את⟩ de la paille sèche ?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "Feras-tu"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "trembler"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "une feuille chassée"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "de la paille sèche"
+    },
+    {
+      "surface": "קש",
+      "gloss": "paille"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "sèche"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "poursuivras-tu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:55.518715598Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 11:15",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et le roi du Nord viendra et versera une rampe de siège, et ⟨il⟩ prendra une ville fortifiée ; et les bras du Sud ne tiendront pas, et le peuple de son choix, et il n'y aura pas de force pour tenir.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "et viendra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "du Nord"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "et versera"
+    },
+    {
+      "surface": "סוללה",
+      "gloss": "une rampe de siège"
+    },
+    {
+      "surface": "ולכד",
+      "gloss": "et ⟨il⟩ prendra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "une ville"
+    },
+    {
+      "surface": "מבצרות",
+      "gloss": "fortifiée"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "et les bras de"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "le Sud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "tiendront pas"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et le peuple"
+    },
+    {
+      "surface": "מבחריו",
+      "gloss": "de son choix"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "כח",
+      "gloss": "de force"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "pour tenir"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:56.501980107Z",
+  "model": "glm-5.2"
+}

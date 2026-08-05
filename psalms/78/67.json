@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il rejeta ⟨la⟩ tente de Joseph, et ⟨le⟩ sceptre d'Éphraïm, il ne choisit pas.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Et il rejeta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "⟨la⟩ tente de"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joseph"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "et ⟨le⟩ sceptre d'"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éphraïm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "choisit pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:25.697055830Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 61,
+  "translation": "Il siégera ⟨pour⟩ le siècle devant Élohim, hessed et vérité ⟨qu'on⟩ le garde.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "il siégera"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨pour⟩ le siècle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hessed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "et vérité"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨qu'on⟩"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "le garde"
+    }
+  ],
+  "timestamp": "2026-08-05T01:50:39.890273926Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "À celui qui ⟨a étendu⟩ la terre sur les eaux, car pour toujours est son hessed",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "À celui qui étend"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:55.089242218Z",
+  "model": "glm-4.5"
+}

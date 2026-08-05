@@ -1,102 +1,102 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 30,
   "ref": "genesis 34:30",
   "book": "genesis",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Et Jaakob dit à Shimon et à Lévi : vous m'avez ⟨כער⟩ en me faisant avoir mauvaise réputation ⟨את⟩ parmi les habitants du pays, le Cananéen et le Perizzite, et moi, je suis ⟨un⟩ petit nombre, et ils se réuniront contre moi et me frapperont, et je serai détruit, moi et ma maison.",
+  "translation": "Et Yaakov dit à Shiméon et à Lévi : « Vous m'avez troublé, en me rendant odieux ⟨את⟩ aux habitants du pays, parmi le Kena'ani et parmi le Perizzi ; et moi, ⟨je suis⟩ des hommes en petit nombre, ils se rassembleront contre moi et ils me frapperont, et je serai anéanti, moi et ma maison. »",
   "tokens": [
     {
-      "surface": "ויאמר",
+      "surface": "וַיֹּאמֶר",
       "gloss": "Et dit"
     },
     {
-      "surface": "יעקב",
-      "gloss": "Jaakob"
+      "surface": "יַעֲקֹב",
+      "gloss": "Yaakov"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "à"
     },
     {
-      "surface": "שמעון",
-      "gloss": "Shimon"
+      "surface": "שִׁמְעוֹן",
+      "gloss": "Shiméon"
     },
     {
-      "surface": "ואל",
+      "surface": "וְאֶל",
       "gloss": "et à"
     },
     {
-      "surface": "לוי",
+      "surface": "לֵוִי",
       "gloss": "Lévi"
     },
     {
-      "surface": "עכרתם",
-      "gloss": "vous m'avez troublé"
+      "surface": "עֲכַרְתֶּם",
+      "gloss": "vous avez troublé"
     },
     {
-      "surface": "אתי",
+      "surface": "אֹתִי",
       "gloss": "⟨את⟩",
-      "marks": "en me faisant avoir mauvaise réputation"
+      "marks": "me \/ me rendant odieux"
     },
     {
-      "surface": "להבאישני",
-      "gloss": "pour me faire sentir mauvais"
+      "surface": "לְהַבְאִישֵׁנִי",
+      "gloss": "en me rendant odieux"
     },
     {
-      "surface": "בישב",
-      "gloss": "parmi les habitants"
+      "surface": "בְּיֹשֵׁב",
+      "gloss": "aux habitants"
     },
     {
-      "surface": "הארץ",
+      "surface": "הָאָרֶץ",
       "gloss": "du pays"
     },
     {
-      "surface": "בכנעני",
-      "gloss": "le Cananéen"
+      "surface": "בַּכְּנַעֲנִי",
+      "gloss": "parmi le Kena'ani"
     },
     {
-      "surface": "ובפרזי",
-      "gloss": "et le Perizzite"
+      "surface": "וּבַפְּרִזִּי",
+      "gloss": "et parmi le Perizzi"
     },
     {
-      "surface": "ואני",
+      "surface": "וַאֲנִי",
       "gloss": "et moi"
     },
     {
-      "surface": "מתי",
-      "gloss": "je suis peu"
+      "surface": "מְתֵי",
+      "gloss": "des hommes"
     },
     {
-      "surface": "מספר",
-      "gloss": "en nombre"
+      "surface": "מִסְפָּר",
+      "gloss": "en petit nombre"
     },
     {
-      "surface": "ונאספו",
-      "gloss": "et ils se rassembleront"
+      "surface": "וְנֶאֶסְפוּ",
+      "gloss": "ils se rassembleront"
     },
     {
-      "surface": "עלי",
+      "surface": "עָלַי",
       "gloss": "contre moi"
     },
     {
-      "surface": "והכוני",
-      "gloss": "et me frapperont"
+      "surface": "וְהִכּוּנִי",
+      "gloss": "et ils me frapperont"
     },
     {
-      "surface": "ונשמדתי",
-      "gloss": "et je serai détruit"
+      "surface": "וְנִשְׁמַדְתִּי",
+      "gloss": "et je serai anéanti"
     },
     {
-      "surface": "אני",
+      "surface": "אֲנִי",
       "gloss": "moi"
     },
     {
-      "surface": "וביתי",
+      "surface": "וּבֵיתִי",
       "gloss": "et ma maison"
     }
   ],
-  "timestamp": "2026-08-04T05:45:21.633690553Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:42:59.123398003Z",
+  "model": "glm-5.2"
 }

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Car ils ne discernent pas les actes de YHWH, ni l'ouvrage de ses mains : il ⟨les⟩ renversera et ne ⟨les⟩ bâtira pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "discerneront"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "les actes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni vers"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "l'ouvrage"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "il ⟨les⟩ renversera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "bâtira ⟨pas⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:08.900451202Z",
+  "model": "glm-4.5"
+}

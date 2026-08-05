@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Les débonnaires mangeront et seront rassasiés, ceux qui cherchent YHWH ⟨le⟩ loueront, votre cœur vivra pour toujours.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "mangeront"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "les débonnaires"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "et seront rassasiés"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "⟨le⟩ loueront"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "ceux qui le cherchent"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "vivra"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "votre cœur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.186621358Z",
+  "model": "glm-4.5"
+}

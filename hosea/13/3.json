@@ -1,0 +1,64 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "C’est pourquoi ils seront comme le nuage du matin, et comme la rosée qui s’en va de bonne heure, comme la balle qui est chassée ⟨du⟩ aire à battre par l’ouragan, et comme la fumée ⟨d’une⟩ fenêtre.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C’est pourquoi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ils seront"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "comme le nuage"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "du matin"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "et comme la rosée"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "qui s’en va de bonne heure"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨qui⟩ s’en va",
+      "marks": "qui"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "comme la balle"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "est chassée"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "⟨du⟩ aire à battre",
+      "marks": "du aire"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "et comme la fumée"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "⟨d’une⟩ fenêtre",
+      "marks": "d’une"
+    }
+  ],
+  "timestamp": "2026-08-05T00:08:51.275771408Z",
+  "model": "glm-4.5"
+}

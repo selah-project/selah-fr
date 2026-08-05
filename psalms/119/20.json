@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Mon être se consume d'un désir vers tes jugements en tout temps.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "se consume"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon être"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "d'un désir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tes jugements"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "en tout"
+    },
+    {
+      "surface": "עת",
+      "gloss": "temps"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:46.950239485Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "Honte à tous les serviteurs d'images taillées, ⟨à ceux qui⟩ se glorifient dans les idoles, prosternez-vous devant lui, tous les dieux.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Honte à"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous les"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "serviteurs de"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "images taillées"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "⟨à ceux qui⟩ se glorifient"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "dans les idoles"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "prosternez-vous devant lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous les"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dieux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:56.837367989Z",
+  "model": "glm-4.5"
+}

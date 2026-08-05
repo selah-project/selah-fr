@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et mon nefesh est frissonnant beaucoup et ⟨את⟩ YHWH jusqu'à quand",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Et mon nefesh"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "est frissonnant"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    }
+  ],
+  "timestamp": "2026-08-05T01:04:22.869132722Z",
+  "model": "glm-4.5"
+}

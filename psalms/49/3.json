@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Tant fils d'Adam que fils d'ish, ensemble riche et indigent.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Tant"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "que"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils d'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ish"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "riche"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et indigent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:02.929013478Z",
+  "model": "glm-4.5"
+}

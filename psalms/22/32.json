@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Ils viendront et raconteront sa justice à un peuple qui va naître, car il l’a fait",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Ils viendront"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "et raconteront"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sa justice"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "à un peuple"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "qui va naître"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il l’a fait"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.759769832Z",
+  "model": "glm-4.5"
+}

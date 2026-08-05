@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et toi, ⟨tu es⟩ Saint, siégeant ⟨les⟩ louanges d'Israël.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨tu es⟩ Saint"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "siégeant"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "⟨les⟩ louanges"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:13.323695408Z",
+  "model": "glm-4.5"
+}

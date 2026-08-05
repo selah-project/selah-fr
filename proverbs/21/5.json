@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Les pensées de l'homme résolu ⟨sont⟩ seulement pour ⟨du⟩ surplus, mais tout homme précipité ⟨est⟩ seulement pour ⟨le⟩ manque.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Les pensées"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "de l'homme résolu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "pour du surplus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mais tout"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "homme précipité"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "pour le manque"
+    }
+  ],
+  "timestamp": "2026-08-05T03:31:14.471183599Z",
+  "model": "glm-4.5"
+}

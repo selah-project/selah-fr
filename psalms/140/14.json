@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Oui, les justes loueront ton nom ; les hommes droits habiteront devant ta face ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אַ֣ךְ",
+      "gloss": "Oui"
+    },
+    {
+      "surface": "צַ֭דִּיקִים",
+      "gloss": "les justes"
+    },
+    {
+      "surface": "יוֹד֣וּ",
+      "gloss": "loueront"
+    },
+    {
+      "surface": "לִשְׁמֶ֑ךָ",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "יֵשְׁב֥וּ",
+      "gloss": "habiteront"
+    },
+    {
+      "surface": "יְ֝שָׁרִ֗ים",
+      "gloss": "les hommes droits"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ta face"
+    },
+    {
+      "surface": "פָּנֶֽיךָ",
+      "gloss": "devant ta face"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:22.959095500Z",
+  "model": "glm-5.2"
+}

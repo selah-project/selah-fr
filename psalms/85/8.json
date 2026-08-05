@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Fais-nous voir, YHWH, ton hessed, et ton salut, accorde-le-nous.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Fais-nous voir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "et ton salut"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "accorde-le-nous"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨à nous⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:27.065507701Z",
+  "model": "glm-4.5"
+}

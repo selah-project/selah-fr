@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Ensemble, les captives sont tranquilles, ils n'entendent pas la voix de l'exacteur.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Ensemble"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "les captives"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "sont tranquilles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'⟨ont pas⟩"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "entendu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "la voix"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "de l'exacteur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:34.422981426Z",
+  "model": "glm-4.5"
+}

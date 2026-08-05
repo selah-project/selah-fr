@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "L'abîme comme un vêtu tu l'as couvert, sur ⟨les⟩ montagnes se tinrent ⟨les⟩ eaux.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "L'abîme"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "comme un vêtu"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "tu l'as couvert"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "⟨les⟩ montagnes"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "se tinrent"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨les⟩ eaux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:17.326869608Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Mes genoux défaillent à cause du jeûne, et ma chair a perdu ⟨sa⟩ graisse.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Mes genoux"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "défaillent"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "à cause du jeûne"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "et ma chair"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "a perdu"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "⟨sa⟩ graisse"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:10.239386235Z",
+  "model": "glm-4.5"
+}

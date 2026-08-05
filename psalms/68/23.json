@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Adonaï a dit : depuis le Bashan, je ferai revenir, je ferai revenir des profondeurs de la mer.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "depuis le Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "je ferai revenir"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "je ferai revenir"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "des profondeurs"
+    },
+    {
+      "surface": "ים",
+      "gloss": "de la mer"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:18.807890708Z",
+  "model": "glm-4.5"
+}

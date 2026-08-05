@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 121,
+  "translation": "Mon secours ⟨vient⟩ d'auprès de YHWH, ⟨qui a fait⟩ les cieux et ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Mon secours"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "d'auprès de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨qui a fait⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et ⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:59.623114118Z",
+  "model": "glm-4.5"
+}

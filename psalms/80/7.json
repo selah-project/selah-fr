@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Tu mets ⟨de⟩ la querelle à nos voisins, et nos ennemis se moquent ⟨entre⟩ eux.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Tu mets"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "de la querelle"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "à nos voisins"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "et nos ennemis"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "se moquent"
+    },
+    {
+      "surface": "למו",
+      "gloss": "entre eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:13.205453278Z",
+  "model": "glm-4.5"
+}

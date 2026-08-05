@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "La richesse du riche est la ville de sa force, ⟨et⟩ la ruine des pauvres est leur pauvreté",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "La richesse"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "du riche"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "est la ville"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "de sa force"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "⟨et⟩ la ruine"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "des pauvres"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "est leur pauvreté"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:37.793395789Z",
+  "model": "glm-4.5"
+}

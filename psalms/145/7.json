@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Le souvenir ⟨de⟩ ton grand bien, ils feront jaillir, et ta justice, ils chanteront.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "le souvenir"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grand"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "bien"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "ils feront jaillir"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "et ta justice"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ils chanteront"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:49.494664788Z",
+  "model": "glm-4.5"
+}

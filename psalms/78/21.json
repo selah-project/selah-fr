@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "C'est pourquoi YHWH ⟨a⟩ entendu et ⟨s'est⟩ mis en colère, et le feu ⟨s'est⟩ embrasé en Jacob, et aussi la colère ⟨est⟩ montée contre Israël",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨a⟩ entendu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "et ⟨s'est⟩ mis en colère"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "et le feu"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "⟨s'est⟩ embrasé"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "en Jacob"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "la colère"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "⟨est⟩ montée"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "contre Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:54.939278748Z",
+  "model": "glm-4.5"
+}

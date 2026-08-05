@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Retourne, mon âme, à ton repos, car YHWH a agi avec bonté envers toi.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Retourne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "à ton repos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "a agi avec bonté"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "envers toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:48.188306884Z",
+  "model": "glm-4.5"
+}

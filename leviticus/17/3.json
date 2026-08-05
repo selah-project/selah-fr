@@ -1,81 +1,81 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "leviticus 17:3",
   "book": "leviticus",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Tout homme, de la maison d'Israël, qui ⟨הוא⟩ sacrifie un bœuf ou un agneau ou une chèvre dans le camp, ou qui sacrifie ⟨את⟩ dehors le camp",
+  "translation": "Quiconque de la maison d'Israël qui abat un bœuf ou un agneau ou une chèvre dans le camp, ou qui abat ⟨en⟩ dehors du camp,",
   "tokens": [
     {
-      "surface": "איש",
-      "gloss": "Tout homme"
+      "surface": "אִ֥ישׁ",
+      "gloss": "homme"
     },
     {
-      "surface": "איש",
-      "gloss": "[homme]"
+      "surface": "אִישׁ֙",
+      "gloss": "homme"
     },
     {
-      "surface": "מבית",
+      "surface": "מִבֵּ֣ית",
       "gloss": "de la maison"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֔ל",
       "gloss": "d'Israël"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֨ר",
       "gloss": "qui"
     },
     {
-      "surface": "ישחט",
-      "gloss": "sacrifie"
+      "surface": "יִשְׁחַ֜ט",
+      "gloss": "abat"
     },
     {
-      "surface": "שור",
+      "surface": "שׁ֥וֹר",
       "gloss": "un bœuf"
     },
     {
-      "surface": "או",
+      "surface": "אוֹ",
       "gloss": "ou"
     },
     {
-      "surface": "כשב",
+      "surface": "כֶ֛שֶׂב",
       "gloss": "un agneau"
     },
     {
-      "surface": "או",
+      "surface": "אוֹ",
       "gloss": "ou"
     },
     {
-      "surface": "עז",
+      "surface": "עֵ֖ז",
       "gloss": "une chèvre"
     },
     {
-      "surface": "במחנה",
+      "surface": "בַּֽמַּחֲנֶ֑ה",
       "gloss": "dans le camp"
     },
     {
-      "surface": "או",
+      "surface": "א֚וֹ",
       "gloss": "ou"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֣ר",
       "gloss": "qui"
     },
     {
-      "surface": "ישחט",
-      "gloss": "sacrifie"
+      "surface": "יִשְׁחַ֔ט",
+      "gloss": "abat"
     },
     {
-      "surface": "מחוץ",
-      "gloss": "dehors"
+      "surface": "מִח֖וּץ",
+      "gloss": "en dehors"
     },
     {
-      "surface": "למחנה",
-      "gloss": "le camp"
+      "surface": "לַֽמַּחֲנֶֽה",
+      "gloss": "du camp"
     }
   ],
-  "timestamp": "2026-08-04T08:00:34.815508898Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:50:55.208614201Z",
+  "model": "glm-5.2"
 }

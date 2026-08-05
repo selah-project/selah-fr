@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Qui peut raconter les puissances de YHWH, faire entendre toute sa louange ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "peut raconter"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "les puissances"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "faire entendre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sa louange"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:33.018421441Z",
+  "model": "glm-4.5"
+}

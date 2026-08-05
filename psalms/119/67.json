@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Avant que je fusse affligé, moi, j'errais, et maintenant ta parole j'ai gardée.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "avant que"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "je fusse affligé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "j'errais"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "j'ai gardée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:16.059483040Z",
+  "model": "glm-4.5"
+}

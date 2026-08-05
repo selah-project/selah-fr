@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "C’est un shabbat shabbaton pour vous, et vous affligerez ⟨את⟩ vos néfesh : le neuf du mois, au soir, du soir au soir vous ⟨garderez⟩ votre shabbat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c’est"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "et vous affligerez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos néfesh"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "vos néfesh"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "le neuf"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "du mois"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "au soir"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "du soir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’au"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "soir"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "vous ⟨garderez⟩"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "votre shabbat"
+    }
+  ],
+  "timestamp": "2026-08-04T21:37:55.632279491Z",
+  "model": "glm-4.5"
+}

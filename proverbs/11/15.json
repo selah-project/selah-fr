@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Mal ⟨sera⟩ celui-là s'il cautionne l'étranger, mais celui qui hait les cautions est en sécurité.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "Mal"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "sera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "il cautionne"
+    },
+    {
+      "surface": "זר",
+      "gloss": "l'étranger"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "mais celui qui hait"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "les cautions"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "est en sécurité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:22.487746449Z",
+  "model": "glm-4.5"
+}

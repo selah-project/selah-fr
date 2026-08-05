@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "C'est pourquoi je te louerai, YHWH, parmi les nations, et je chanterai ⟨des louanges⟩ ⟨à⟩ ton nom.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "je te louerai"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "et à ton nom"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je chanterai ⟨des louanges⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:27.188161484Z",
+  "model": "glm-4.5"
+}

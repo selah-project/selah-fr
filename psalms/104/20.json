@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Tu places les ténèbres, et il est nuit, en elle ⟨se⟩ glisse tout animal de la forêt",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Tu places"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "les ténèbres"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il est"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nuit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "⟨se⟩ glisse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "animal de la forêt"
+    },
+    {
+      "surface": "יער",
+      "gloss": "⟨forêt⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:19.057906911Z",
+  "model": "glm-4.5"
+}

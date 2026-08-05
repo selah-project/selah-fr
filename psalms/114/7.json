@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 114,
+  "translation": "Tremble, terre, de devant la présence d'Adonaï, de devant la présence d'Éloah de Jacob.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "tremble"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "de devant"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Éloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:40.401467553Z",
+  "model": "glm-4.5"
+}

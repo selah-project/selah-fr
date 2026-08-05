@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Donne-nous un secours contre ⟨l'⟩adversaire, car vain est le secours de l'humain.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Donne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "un secours"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "contre l'adversaire"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "car vain est"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "le secours de"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:41.429464254Z",
+  "model": "glm-4.5"
+}

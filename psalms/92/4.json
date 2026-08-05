@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Sur asor et sur nével, sur higgayon avec kinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nével"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higgayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "avec kinnor"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:19.973343112Z",
+  "model": "glm-4.5"
+}

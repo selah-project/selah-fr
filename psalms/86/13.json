@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Car grand est ton hessed envers moi, et tu as délivré mon nefesh du Shéol ⟨le⟩ plus bas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "envers moi"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "et tu as délivré"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon nefesh"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "du Shéol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "⟨le⟩ plus bas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:09.330041145Z",
+  "model": "glm-4.5"
+}

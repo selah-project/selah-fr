@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "L'humain est semblable au souffle, ses jours sont comme une ombre qui passe.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "L'humain"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "est semblable au souffle"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "[est] semblable"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ses jours"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "comme une ombre"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "qui passe"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:12.597006743Z",
+  "model": "glm-4.5"
+}

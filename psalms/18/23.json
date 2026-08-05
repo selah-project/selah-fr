@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car tous ⟨ses⟩ jugements ⟨sont⟩ devant moi, et ses statuts, ⟨je⟩ ne les écarte pas de moi",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ses jugements"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "devant moi"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "et ses statuts"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "écarter"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:53.750483059Z",
+  "model": "glm-4.5"
+}

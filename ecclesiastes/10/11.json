@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Si le serpent mord faute de charme, il n'y a aucun avantage pour le maître de la langue.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "le serpent mord"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "le serpent"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "faute de"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "charme"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "aucun avantage"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "pour le maître"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "de la langue"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:10.642667321Z",
+  "model": "glm-4.5"
+}

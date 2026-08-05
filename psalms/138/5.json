@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 138,
+  "translation": "Et ils chanteront les voies de YHWH, car grand ⟨est⟩ le kabod de YHWH.",
+  "tokens": [
+    {
+      "surface": "וְ֭יָשִׁירוּ",
+      "gloss": "et ils chanteront"
+    },
+    {
+      "surface": "בְּדַרְכֵ֣י",
+      "gloss": "les voies de"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "car"
+    },
+    {
+      "surface": "גָ֝ד֗וֹל",
+      "gloss": "grand"
+    },
+    {
+      "surface": "כְּב֣וֹד",
+      "gloss": "le kabod de"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:11.260351969Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et Iyyov vécut après cela cent quarante ans, et il vit ⟨את⟩ ses fils, et ⟨את⟩ les fils de ses fils, ⟨quatre⟩ générations",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et Iyyov vécut"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "après"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cela"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "cent"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "quarante"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ans"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "et il vit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ses fils"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les fils"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "de ses fils"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "⟨quatre⟩"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "générations"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:23.089791851Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Si tu tues, ô Éloah, ⟨le⟩ méchant — et hommes de sang, détournez-vous de moi !",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "tu tues"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ô Éloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨le⟩ méchant"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "et hommes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "de sang"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "détournez-vous"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:43.562726224Z",
+  "model": "glm-4.5"
+}

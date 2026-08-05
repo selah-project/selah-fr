@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Et après cela, je ferai revenir ⟨את⟩ la captivité des fils d'Ammon, déclaration de YHWH",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Et après"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cela"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "je ferai revenir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la captivité des fils d'Ammon"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "la captivité"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "d'Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T23:05:51.540562221Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 122,
+  "translation": "Car là siègent des trônes ⟨pour⟩ le jugement, des trônes ⟨pour⟩ la maison de David.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "là"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "siègent"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "des trônes"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨pour⟩ le jugement"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "des trônes"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨pour⟩ la maison"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:41.638150056Z",
+  "model": "glm-4.5"
+}

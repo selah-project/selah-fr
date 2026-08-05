@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Il fait marcher les humbles ⟨dans⟩ le jugement et enseigne aux humbles sa voie",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Il fait marcher"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "les humbles"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨dans⟩ le jugement"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "et enseigne"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "aux humbles"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa voie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:19.542575016Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Car le méchant se glorifie du désir de son âme, et ⟨le⟩ gain malhonnête bénit, il méprise YHWH.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "se glorifie"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "le méchant"
+    },
+    {
+      "surface": "על",
+      "gloss": "du"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "désir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "de son âme"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "et ⟨le⟩ gain malhonnête"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bénit"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "il méprise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:28.330218372Z",
+  "model": "glm-4.5"
+}

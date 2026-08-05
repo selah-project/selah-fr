@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Il a demandé la vie auprès de toi, tu la lui as donnée, ⟨la⟩ longueur des jours, éternité et perpétuité.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "a demandé"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "auprès de toi"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tu la as donnée"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lui"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "longueur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "éternité"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et perpétuité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:24.706226815Z",
+  "model": "glm-4.5"
+}

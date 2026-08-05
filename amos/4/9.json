@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "amos 4:9",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "J'ai frappé ⟨את⟩ vous par la brûlure et par la jaunisse, la multitude de vos jardins et de vos vignes, et vos figuiers et vos oliviers, ⟨a⟩ mangé ⟨le⟩ gazam, et ⟨vous⟩ n'êtes pas revenus à moi, déclaration de YHWH",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "J'ai frappé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vous",
+      "marks": "vous par la brûlure et par la jaunisse"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "par la brûlure"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "et par la jaunisse"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "la multitude"
+    },
+    {
+      "surface": "גנותיכם",
+      "gloss": "de vos jardins"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "et de vos vignes"
+    },
+    {
+      "surface": "ותאניכם",
+      "gloss": "et vos figuiers"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "et vos oliviers"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨a⟩ mangé"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "⟨le⟩ gazam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨vous⟩ n'êtes pas"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "revenus"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T00:16:49.133226490Z",
+  "model": "glm-4.5"
+}

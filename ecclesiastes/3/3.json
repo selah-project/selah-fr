@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un temps pour tuer et un temps pour guérir, un temps pour démolir et un temps pour bâtir.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Un temps"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "pour tuer"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "pour guérir"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "pour démolir"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pour bâtir"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:31.131289043Z",
+  "model": "glm-4.5"
+}

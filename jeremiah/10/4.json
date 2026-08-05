@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Avec de l'argent et de l'or on l'embellit, avec des clous et des marteaux on le fixe, pour qu'il ne ⟨vacille⟩ pas",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "avec de l'argent"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "et avec de l'or"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "on l'embellit"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "avec des clous"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "et des marteaux"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "on le fixe"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "et qu'il ne"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "⟨vacille⟩ pas"
+    }
+  ],
+  "timestamp": "2026-08-04T16:17:03.879426305Z",
+  "model": "glm-4.5"
+}

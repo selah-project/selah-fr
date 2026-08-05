@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Dans les parvis de la maison de YHWH, au milieu de toi, Jérusalem, louez Yah.",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Dans les parvis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:56.862678061Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Celui qui rachète ta vie de la fosse, qui te couronne de hessed et de compassion.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Celui qui rachète"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "de la fosse"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ta vie"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "qui te couronne"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hessed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "et de compassion"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:23.775972055Z",
+  "model": "glm-4.5"
+}

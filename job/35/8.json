@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Pour un homme comme toi ⟨est⟩ ta méchanceté, et pour un fils d'Adam ta justice.",
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "Pour un homme"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "comme toi"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "ta méchanceté"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "et pour un fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:44.223170287Z",
+  "model": "glm-4.5"
+}

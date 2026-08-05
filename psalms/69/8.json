@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Car sur toi j'ai porté l'insulte ⟨la⟩ honte a couvert ma face",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "j'ai porté"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "l'insulte"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "⟨la⟩ honte a couvert"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "⟨la⟩ honte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ma face"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:19.316984365Z",
+  "model": "glm-4.5"
+}

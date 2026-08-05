@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "J'ai dit aux arrogants : ne vous glorifiez pas ; et aux méchants : ne levez pas la corne.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "J'ai dit"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "aux arrogants"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "vous glorifiez pas"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "et aux méchants"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "levez pas"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "la corne"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:14.824692327Z",
+  "model": "glm-4.5"
+}

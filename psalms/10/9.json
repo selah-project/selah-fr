@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Il est en embuscade dans un lieu secret, comme un lion dans ⟨sa⟩ hutte, il est en embuscade pour saisir ⟨un⟩ pauvre, il saisit ⟨le⟩ pauvre en le tirant dans son filet.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "Il est en embuscade"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "dans un lieu secret"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "comme un lion"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "dans ⟨sa⟩ hutte"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "il est en embuscade"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "pour saisir"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨un⟩ pauvre",
+      "marks": "pauvre"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "il saisit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨le⟩ pauvre",
+      "marks": "pauvre"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "en le tirant"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "dans son filet"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:31.862249927Z",
+  "model": "glm-4.5"
+}

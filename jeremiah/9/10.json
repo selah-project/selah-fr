@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "et je donnerai Jérusalem ⟨את⟩ en ruines repaire de chacals et ⟨את⟩ les villes de Juda je ferai une dévastation sans habitant",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "et je donnerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jérusalem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "en ruines"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "repaire"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "de chacals"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les villes"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "les villes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "je ferai"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "une dévastation"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "habitant"
+    }
+  ],
+  "timestamp": "2026-08-04T16:15:56.390548460Z",
+  "model": "glm-4.5"
+}

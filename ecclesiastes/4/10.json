@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Car s'ils tombent, l'un relèvera ⟨את⟩ son compagnon ; mais malheur à l'un s'il tombe et qu'il n'y ait pas un second pour le relever.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ils tombent"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "relèvera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son compagnon"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "son compagnon"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "mais malheur"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "à l'un"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "s'il tombe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et qu'il n'y a pas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "un second"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "pour le relever"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:28.427639507Z",
+  "model": "glm-4.5"
+}

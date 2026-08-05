@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Par l'épée vous tomberez, sur la frontière d'Israël je ⟨vous⟩ jugerai, et vous saurez que je suis YHWH",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "Par l'épée"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "vous tomberez"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "la frontière"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "je ⟨vous⟩ jugerai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨vous⟩",
+      "marks": "et vous saurez"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "et vous saurez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T23:21:11.916182710Z",
+  "model": "glm-4.5"
+}

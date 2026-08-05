@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 99,
+  "translation": "YHWH ⟨a⟩ régné, ⟨les⟩ peuples ⟨ont⟩ tremblé, ⟨Il⟩ siège ⟨sur⟩ ⟨les⟩ chérubins, ⟨la⟩ terre ⟨va⟩ chanceler.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨a⟩ régné"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "⟨les⟩ peuples ⟨ont⟩ tremblé"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "peuples"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨Il⟩ siège"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "⟨sur⟩ ⟨les⟩ chérubins"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "⟨la⟩ terre ⟨va⟩ chanceler"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:25:20.744046742Z",
+  "model": "glm-4.5"
+}

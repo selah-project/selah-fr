@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "YHWH, tu as fait remonter du Shéol mon nefesh, tu m'as fait vivre ⟨contre⟩ ceux qui descendent ⟨dans⟩ la fosse.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "tu as fait remonter"
+    },
+    {
+      "surface": "מן",
+      "gloss": "du"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shéol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon nefesh"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "tu m'as fait vivre"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "⟨contre⟩ ceux qui descendent"
+    },
+    {
+      "surface": "בור",
+      "gloss": "⟨dans⟩ la fosse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:42.772917378Z",
+  "model": "glm-4.5"
+}

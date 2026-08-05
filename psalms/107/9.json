@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Car il a rassasié une nefesh altérée, et une nefesh affamée il a rempli de ⟨bien⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "il a rassasié"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "une nefesh"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "altérée"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "et une nefesh"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "affamée"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "il a rempli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "de ⟨bien⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:51.232860820Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Et Tu n'as pas livré ⟨את⟩ dans la main de l'ennemi, Tu as placé dans un lieu large ⟨את⟩ mes pieds",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Et Tu n'as pas"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "livré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "— (objet non exprimé : moi)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dans la main"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de l'ennemi"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "Tu as placé"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "dans un lieu large"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mes pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:55.077709646Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Car à cause de toi, on nous met à mort tout le jour, on nous compte comme du bétail pour l'abattoir",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "à cause de toi"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "on nous met à mort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "on nous compte"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "comme du bétail"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "pour l'abattoir"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:51.570466317Z",
+  "model": "glm-4.5"
+}

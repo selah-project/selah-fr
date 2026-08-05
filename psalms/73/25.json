@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "Qui ⟨est⟩ pour moi dans les cieux, et avec toi je n'ai point désir sur la terre.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨est⟩ pour moi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "et avec toi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je n'ai point"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "désiré"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:22.288549401Z",
+  "model": "glm-4.5"
+}

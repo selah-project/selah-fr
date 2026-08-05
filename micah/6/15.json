@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Tu sèmeras et tu ne moissonneras pas, tu fouleras ⟨l'⟩olive et tu ne t'oindras pas d'huile, et du moût et tu ne boiras pas de vin",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sèmeras"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "moissonneras"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "fouleras"
+    },
+    {
+      "surface": "זית",
+      "gloss": "⟨l'⟩olive"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "t'oindras"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "d'huile"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "et du moût"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne pas"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "boiras"
+    },
+    {
+      "surface": "יין",
+      "gloss": "de vin"
+    }
+  ],
+  "timestamp": "2026-08-05T00:31:54.814515190Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "La voie de tes commandements je courrai, car tu élargiras mon cœur",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "de tes commandements"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "je courrai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "tu élargiras"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:35.633154370Z",
+  "model": "glm-4.5"
+}

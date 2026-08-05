@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Chantez à YHWH, louez ⟨את⟩ YHWH, car il a sauvé ⟨את⟩ la nefesh d'un indigent de la main des malfaiteurs.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "louez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "il a sauvé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la nefesh d'un indigent"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "d'un indigent"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "des malfaiteurs"
+    }
+  ],
+  "timestamp": "2026-08-04T16:27:37.688381943Z",
+  "model": "glm-4.5"
+}

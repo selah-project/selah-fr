@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Le grondement d'un lion ⟨est⟩ le courroux d'un roi, et comme la rosée sur l'herbe ⟨est⟩ sa faveur.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "le grondement"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "d'un lion"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "⟨est⟩ le courroux"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "d'un roi"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "et comme la rosée"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "l'herbe"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "⟨est⟩ sa faveur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:30.825125411Z",
+  "model": "glm-4.5"
+}

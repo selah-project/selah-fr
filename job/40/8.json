@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Est-ce aussi que tu annules ⟨le⟩ mon jugement? Me condamnes-tu pour que tu sois juste?",
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "Est-ce aussi"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "que tu annules"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨le⟩ mon jugement"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "Me condamnes-tu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pour que"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "tu sois juste"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:53.088207812Z",
+  "model": "glm-4.5"
+}

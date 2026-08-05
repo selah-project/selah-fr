@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "La terreur vient, ils cherchent la paix et il n'y en a pas.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "La terreur"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vient"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ils cherchent"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "la paix"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y en a pas"
+    }
+  ],
+  "timestamp": "2026-08-04T23:17:15.317734113Z",
+  "model": "glm-4.5"
+}

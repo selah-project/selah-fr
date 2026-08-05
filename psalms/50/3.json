@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Notre Élohim vient et ne se taira pas ; un feu dévore devant ⟨lui⟩, et autour de ⟨lui⟩, une tempête très violente.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "vient"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "se taira"
+    },
+    {
+      "surface": "אש",
+      "gloss": "un feu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "devant"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dévore"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "et autour de"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "une tempête"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très violente"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:51.153088667Z",
+  "model": "glm-4.5"
+}

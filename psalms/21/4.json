@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Car tu l'as précédé de bénédictions de bien, tu as mis sur sa tête une couronne d'or pur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "tu l'as précédé"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "de bénédictions"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "de bien"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "tu as mis"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "sur sa tête"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "une couronne"
+    },
+    {
+      "surface": "פז",
+      "gloss": "d'or pur"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:25.172585519Z",
+  "model": "glm-4.5"
+}

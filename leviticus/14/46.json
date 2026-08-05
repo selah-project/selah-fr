@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Et celui qui entrera dans ⟨la⟩ maison, tous les jours ⟨où⟩ elle sera fermée, sera impur jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "Et celui qui entrera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dans"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨la⟩ maison"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "⟨où⟩ elle sera fermée"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sera impur"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "au soir"
+    }
+  ],
+  "timestamp": "2026-08-04T21:35:45.574672620Z",
+  "model": "glm-4.5"
+}

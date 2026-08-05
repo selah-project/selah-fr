@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Tu es toute belle, mon amie, et il n'y a point de défaut en toi.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "Tu es toute"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "belle"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mon amie"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "et défaut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a point"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:19:39.351427260Z",
+  "model": "glm-4.5"
+}

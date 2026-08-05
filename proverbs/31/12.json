@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Elle lui fait du bien, et non du mal, tous les jours de sa vie.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "elle lui fait"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "du bien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "רע",
+      "gloss": "du mal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "de sa vie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:38.430656711Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Élohim est en son milieu, elle ⟨ne⟩ chancellera pas ; Élohim l'aidera dès l'aube.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "en son milieu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ne⟩ ... pas"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "chancellera"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "l'aidera"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "dès"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "l'aube"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:16.600917558Z",
+  "model": "glm-4.5"
+}

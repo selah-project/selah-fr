@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 128,
+  "translation": "Ton épouse ⟨est⟩ comme une vigne fertile dans les recoins de ta maison, tes fils comme des plants d'oliviers autour de ta table.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Ton épouse"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "comme une vigne"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "fertile"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "dans les recoins"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tes fils"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "comme des plants"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "d'oliviers"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "autour"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "de ta table"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:18.492286028Z",
+  "model": "glm-4.5"
+}

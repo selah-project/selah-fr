@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Qui donnera que je sache et que je le trouve, ⟨je⟩ viendrais jusqu'à son lieu ⟨établi⟩",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnerait"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "que je sache"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "et que je le trouve"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "⟨je⟩ viendrais"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "son lieu ⟨établi⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T04:01:41.421641422Z",
+  "model": "glm-4.5"
+}

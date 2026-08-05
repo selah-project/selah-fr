@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Moi, je t'ai connu dans le désert, dans un pays de sécheresse.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "je t'ai connu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans un pays"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "de sécheresse"
+    }
+  ],
+  "timestamp": "2026-08-05T00:08:30.119916072Z",
+  "model": "glm-4.5"
+}

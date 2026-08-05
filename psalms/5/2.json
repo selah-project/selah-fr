@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Mes dires, prête ⟨l'oreille⟩, YHWH ; discerne mon gémissement.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Mes dires"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prête ⟨l'oreille⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "discerne"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "mon gémissement"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:46.454722621Z",
+  "model": "glm-4.5"
+}

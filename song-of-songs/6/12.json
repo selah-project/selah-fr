@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Je ne savais pas, mon âme me fit ⟨comme⟩ les chars de ⟨mon⟩ peuple noble.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "savais"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "me fit ⟨comme⟩"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "les chars"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "de ⟨mon⟩ peuple"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "noble"
+    }
+  ],
+  "timestamp": "2026-08-05T04:21:32.506858385Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Et Tou, roi de Hamath, entendit que David avait frappé ⟨את⟩ toute l'armée de Hadadézer, roi de Tsoba.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "et entendit"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "de Hamath"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "avait frappé"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toute l'armée"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "l'armée"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "de Hadadézer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "de Tsoba"
+    }
+  ],
+  "timestamp": "2026-08-05T05:52:41.240194660Z",
+  "model": "glm-5.2"
+}

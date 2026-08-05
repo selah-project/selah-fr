@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Car j'ai dit : Qu'ils ne se réjouissent pas ⟨à⟩ mon sujet : quand mon pied glisse, ils s'exaltent ⟨contre⟩ moi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "j'ai dit"
+    },
+    {
+      "surface": "פן",
+      "gloss": "qu'ils ne ... pas"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se réjouissent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨à⟩ mon sujet"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "quand ... glisse"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mon pied"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨contre⟩ moi"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ils s'exaltent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:20.414601604Z",
+  "model": "glm-4.5"
+}

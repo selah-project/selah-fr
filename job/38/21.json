@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 38:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Sais-tu ⟨que⟩ c'est ⟨alors que⟩ tu es né, et que le nombre de tes jours ⟨est⟩ nombreux ?",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Sais-tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨que⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "⟨alors que⟩"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "tu es né"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "et que le nombre"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "de tes jours"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨est⟩ nombreux"
+    }
+  ],
+  "timestamp": "2026-08-05T04:12:55.253765221Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "À cause de ta fureur et de ta colère, car tu m'as soulevé et tu m'as jeté.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "à cause de"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ta fureur"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "et ta colère"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "tu m'as soulevé"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "et tu m'as jeté"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:34.939547026Z",
+  "model": "glm-4.5"
+}

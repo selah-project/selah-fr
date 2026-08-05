@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Autour ⟨les⟩ méchants se promènent, quand la bassesse est exaltée par les fils d'Adam.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "Autour"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨les⟩ méchants"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "se promènent"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "quand"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "la bassesse"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "par les fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    }
+  ],
+  "timestamp": "2026-08-05T01:09:10.813937098Z",
+  "model": "glm-4.5"
+}

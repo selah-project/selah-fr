@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car maintenant j'ai étendu ⟨את⟩ ma main et je t'ai frappé, toi et ⟨את⟩ ton peuple, par ⟨la⟩ peste, et tu as été retranché de ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "j'ai étendu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ma main"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "et je t'ai frappé"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ton peuple"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "par ⟨la⟩ peste"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "et tu as été retranché"
+    },
+    {
+      "surface": "מן",
+      "gloss": "de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-04T18:53:36.599898580Z",
+  "model": "glm-4.5"
+}

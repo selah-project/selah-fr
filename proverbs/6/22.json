@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "En ⟨ta⟩ marche, ⟨elle⟩ te guidera ; en ⟨ton⟩ coucher, ⟨elle⟩ te gardera ; et ⟨à⟩ ⟨ton⟩ réveil, ⟨elle⟩ s'entretiendra avec toi.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "en ⟨ta⟩ marche"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "⟨elle⟩ te guidera"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "en ⟨ton⟩ coucher"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "en ⟨ton⟩ coucher"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "⟨elle⟩ te gardera"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "et ⟨à⟩ ⟨ton⟩ réveil"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨elle⟩"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "s'entretiendra avec toi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:30.454282791Z",
+  "model": "glm-4.5"
+}

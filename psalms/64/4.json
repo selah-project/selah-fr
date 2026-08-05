@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 64,
+  "translation": "Qui ⟨ont⟩ aiguisé comme une épée leur langue ils ⟨ont⟩ dirigé leur flèche une parole amère",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "⟨ont⟩ aiguisé"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "comme une épée"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leur langue"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ils ⟨ont⟩ dirigé"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "leur flèche"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "une parole"
+    },
+    {
+      "surface": "מר",
+      "gloss": "amère"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:04.113798896Z",
+  "model": "glm-4.5"
+}

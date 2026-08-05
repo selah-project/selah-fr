@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Est-ce à cause de ta crainte qu'il t'argumente, qu'il entre avec toi en jugement ?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "Est-ce à cause de ta crainte"
+    },
+    {
+      "surface": "יוכיחך",
+      "gloss": "qu'il t'argumente"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "qu'il entre"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "en jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:46.502883474Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Pendant sept jours ils feront l'expiation pour ⟨את⟩ l'autel et le purifieront, et ils rempliront ⟨את⟩ sa main.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "sept"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jours"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "ils feront l'expiation"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'autel"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "l'autel"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "et le purifieront"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "et ils rempliront"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    }
+  ],
+  "timestamp": "2026-08-04T23:51:37.193363980Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 57,
+  "translation": "Élève-toi sur les cieux, Élohim ; sur toute la terre, ta gloire.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Élève-toi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ta gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:45.952402669Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "YHWH est roi pour ⟨un⟩ monde et ⟨pour⟩ toujours ; les nations ont péri de sa terre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "est roi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pour ⟨un⟩ monde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et ⟨pour⟩ toujours"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ont péri"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "de sa terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:25.903139856Z",
+  "model": "glm-4.5"
+}

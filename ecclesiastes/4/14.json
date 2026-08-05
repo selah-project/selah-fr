@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "car il est sorti de la maison des prisonniers pour régner ; car même dans son royaume, il ⟨est⟩ né pauvre",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "des prisonniers"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "il est sorti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pour régner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "dans son royaume"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "il ⟨est⟩ né"
+    },
+    {
+      "surface": "רש",
+      "gloss": "pauvre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:32.632420526Z",
+  "model": "glm-4.5"
+}

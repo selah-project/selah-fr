@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et Pinehas ⟨se⟩ tint debout et fit jugement, et l'épidémie fut arrêtée.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Et ⟨se⟩ tint debout"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "et fit jugement"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "et l'épidémie fut arrêtée"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "l'épidémie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:08.416866647Z",
+  "model": "glm-4.5"
+}

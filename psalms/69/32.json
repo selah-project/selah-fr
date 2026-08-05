@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Cela sera bon à YHWH, plus qu'un jeune taureau, à cornes et sabots fendus",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Cela sera bon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "משור",
+      "gloss": "plus qu'un jeune taureau"
+    },
+    {
+      "surface": "פר",
+      "gloss": "taureau"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "à cornes"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "et sabots fendus"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:46.689553910Z",
+  "model": "glm-4.5"
+}

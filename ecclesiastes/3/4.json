@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Un temps pour pleurer et un temps pour rire, un temps pour se lamenter et un temps pour danser.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Un temps"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "pour pleurer"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "pour rire"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "pour se lamenter"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "et un temps"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "pour danser"
+    }
+  ],
+  "timestamp": "2026-08-05T04:34:31.131388118Z",
+  "model": "glm-4.5"
+}

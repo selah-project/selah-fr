@@ -1,75 +1,75 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 15,
   "ref": "exodus 40:15",
   "book": "exodus",
   "lang": "fr",
   "chapter": 40,
-  "translation": "et tu oindras אתם comme tu as oint ⟨את⟩ leur père, et ils officieront pour moi, et ce sera afin qu'il soit pour eux leur onction pour une prêtrise perpétuelle pour leurs générations",
+  "translation": "Et tu les oindras ⟨את⟩ eux, comme tu as oint ⟨את⟩ leur père, et ils me serviront comme prêtres ; et ce sera pour eux, leur onction, pour une prêtrise perpétuelle pour leurs générations.",
   "tokens": [
     {
-      "surface": "ומשחת",
+      "surface": "וּמָשַׁחְתָּ",
       "gloss": "et tu oindras"
     },
     {
-      "surface": "אתם",
-      "gloss": "אתם",
-      "marks": "comme tu as oint ⟨את⟩ leur père"
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "eux"
     },
     {
-      "surface": "כאשר",
+      "surface": "כַּאֲשֶׁר",
       "gloss": "comme"
     },
     {
-      "surface": "משחת",
+      "surface": "מָשַׁחְתָּ",
       "gloss": "tu as oint"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "leur père"
     },
     {
-      "surface": "אביהם",
+      "surface": "אֲבִיהֶם",
       "gloss": "leur père"
     },
     {
-      "surface": "וכהנו",
-      "gloss": "et ils officieront"
+      "surface": "וְכִהֲנוּ",
+      "gloss": "et ils serviront comme prêtres"
     },
     {
-      "surface": "לי",
+      "surface": "לִי",
       "gloss": "pour moi"
     },
     {
-      "surface": "והיתה",
+      "surface": "וְהָיְתָה",
       "gloss": "et ce sera"
     },
     {
-      "surface": "להית",
-      "gloss": "afin qu'il soit"
+      "surface": "לִהְיֹת",
+      "gloss": "pour être"
     },
     {
-      "surface": "להם",
+      "surface": "לָהֶם",
       "gloss": "pour eux"
     },
     {
-      "surface": "משחתם",
+      "surface": "מָשְׁחָתָם",
       "gloss": "leur onction"
     },
     {
-      "surface": "לכהנת",
+      "surface": "לִכְהֻנַּת",
       "gloss": "pour une prêtrise"
     },
     {
-      "surface": "עולם",
+      "surface": "עוֹלָם",
       "gloss": "perpétuelle"
     },
     {
-      "surface": "לדרתם",
+      "surface": "לְדֹרֹתָם",
       "gloss": "pour leurs générations"
     }
   ],
-  "timestamp": "2026-08-04T07:23:30.621961269Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:45:01.105284162Z",
+  "model": "glm-5.2"
 }

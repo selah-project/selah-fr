@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 27:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Car je ne les ai pas envoyés — oracle de YHWH — et eux prophétisent en mon nom ⟨le⟩ mensonge, pour vous faire chasser et périr, vous et les prophètes qui prophétisent pour vous",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "je les ai pas envoyés"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "והם",
+      "gloss": "et eux"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prophétisent"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "en mon nom"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "⟨le⟩ mensonge"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pour"
+    },
+    {
+      "surface": "הדיחי",
+      "gloss": "faire chasser"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "et périr"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "et périr"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vous"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "et les prophètes"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "qui prophétisent"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    }
+  ],
+  "timestamp": "2026-08-04T22:43:57.020686784Z",
+  "model": "glm-4.5"
+}

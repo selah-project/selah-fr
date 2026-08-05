@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 100,
+  "translation": "Sachez que YHWH, lui, est Élohim ; lui, nous a faits, et non pas nous-même ; son peuple, et le troupeau de son pâturage.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Sachez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ", lui,"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "est Élohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "; lui,"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nous a faits"
+    },
+    {
+      "surface": "ולא",
+      "gloss": ", et non pas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nous-même"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": ", et le troupeau"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "de son pâturage"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:14.390496819Z",
+  "model": "glm-4.5"
+}

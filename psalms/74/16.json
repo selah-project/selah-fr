@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "À toi ⟨le⟩ jour, et aussi à toi ⟨la⟩ nuit : toi, tu as préparé la lumière et le soleil.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "À toi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "אף",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nuit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "tu as préparé"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "et le soleil"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.118355934Z",
+  "model": "glm-4.5"
+}

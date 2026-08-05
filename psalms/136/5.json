@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "À celui qui ⟨a fait⟩ les cieux avec intelligence, car pour toujours est son hessed",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "À celui qui fait"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "avec intelligence"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:55.089038051Z",
+  "model": "glm-4.5"
+}

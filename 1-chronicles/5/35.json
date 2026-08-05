@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et Aḥimaats engendra ⟨את⟩ Azarjah, et Azarjah engendra ⟨את⟩ Yoḥanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Et Aḥimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "et Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoḥanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yoḥanan"
+    }
+  ],
+  "timestamp": "2026-08-05T05:47:20.966197312Z",
+  "model": "glm-5.2"
+}

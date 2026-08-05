@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Or Jacob ⟨s'est⟩ enfui au pays d'Aram, et Israël ⟨a⟩ servi pour une femme, et pour une femme ⟨il a⟩ gardé ⟨le troupeau⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "Or ⟨s'est⟩ enfui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "au pays"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "d'Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "et Israël ⟨a⟩ servi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": ""
+    },
+    {
+      "surface": "באשה",
+      "gloss": "pour une femme"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "et pour une femme"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "⟨il a⟩ gardé"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:56.686537574Z",
+  "model": "glm-4.5"
+}

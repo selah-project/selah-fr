@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Tu as mesuré mon aller et mon coucher, et tu es familiarisé avec toutes mes voies.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "mon aller"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "et mon coucher"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "Tu as mesuré"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toutes"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mes voies"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "tu es familiarisé avec"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:48.500209868Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Car quel surplus a le sage par rapport au sot ? ⟨et⟩ le pauvre, que sait-il pour marcher devant les vivants ?",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "car"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "quel"
+    },
+    {
+      "surface": "יּוֹתֵ֥ר",
+      "gloss": "surplus"
+    },
+    {
+      "surface": "לֶחָכָ֖ם",
+      "gloss": "a le sage"
+    },
+    {
+      "surface": "מִֽן",
+      "gloss": "par rapport à"
+    },
+    {
+      "surface": "הַכְּסִ֑יל",
+      "gloss": "le sot"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "quoi"
+    },
+    {
+      "surface": "לֶּעָנִ֣י",
+      "gloss": "le pauvre"
+    },
+    {
+      "surface": "יוֹדֵ֔עַ",
+      "gloss": "sait-il"
+    },
+    {
+      "surface": "לַהֲלֹ֖ךְ",
+      "gloss": "pour marcher"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "הַחַיִּֽים",
+      "gloss": "les vivants"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:23.345711048Z",
+  "model": "glm-5.2"
+}

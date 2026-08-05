@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Ceci ⟨est⟩ notre pain chaud, que nous avons apprêté ⟨את⟩ depuis nos maisons, le jour de notre départ pour aller vers vous ; et maintenant, voici, il est sec et est devenu miettes.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ceci"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "notre pain"
+    },
+    {
+      "surface": "חם",
+      "gloss": "chaud"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "que nous avons apprêté"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "depuis nos maisons"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "depuis nos maisons"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "de notre départ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour aller"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vers vous"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "et maintenant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "il est sec"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et est devenu"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "miettes"
+    }
+  ],
+  "timestamp": "2026-08-04T21:57:43.398043033Z",
+  "model": "glm-4.5"
+}

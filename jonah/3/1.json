@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et la parole de YHWH fut sur Yona une seconde fois, disant",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Et fut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "une seconde fois"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "disant"
+    }
+  ],
+  "timestamp": "2026-08-05T00:23:56.467451300Z",
+  "model": "glm-4.5"
+}

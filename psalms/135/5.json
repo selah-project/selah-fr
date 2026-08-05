@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Car je sais que grand ⟨est⟩ YHWH, et notre Seigneur ⟨est⟩ au-dessus de tous les Élohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "et notre Seigneur"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "au-dessus de tous"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:25.785550149Z",
+  "model": "glm-4.5"
+}

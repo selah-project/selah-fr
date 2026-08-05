@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il les mena en sécurité et ils ne craignirent pas et ⟨את⟩ leurs ennemis la mer engloutit",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Et il les mena"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "en sécurité"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ils ne"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "craignirent pas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leurs ennemis"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "leurs ennemis"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "la mer engloutit"
+    },
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:11.552679416Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Je ⟨suis⟩ petit et méprisé, tes préceptes, je ne les ai ⟨pas⟩ oubliés",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "petit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Je"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "et méprisé"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tes préceptes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "je les ai oubliés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:39.547133081Z",
+  "model": "glm-4.5"
+}

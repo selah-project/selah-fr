@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Ils se hâtèrent, ils oublièrent ⟨ses⟩ œuvres ; ils n'attendirent pas ⟨son⟩ conseil.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Ils se hâtèrent"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ils oublièrent"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "⟨ses⟩ œuvres"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'attendirent pas"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ils n'attendirent pas"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "⟨son⟩ conseil"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:10.868631678Z",
+  "model": "glm-4.5"
+}

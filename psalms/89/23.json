@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "L'ennemi ⟨ne⟩ l'opprimera point, ⟨et⟩ le fils de l'iniquité ⟨ne⟩ l'affligera point.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "l'opprimera"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "L'ennemi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "point"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "⟨et⟩ le fils"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "de l'iniquité"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "l'affligera point"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:11.736993610Z",
+  "model": "glm-4.5"
+}

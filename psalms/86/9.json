@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Toutes les nations que tu as faites viendront et se prosterneront devant ta face, Adonaï, et glorifieront ton nom.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu as faites"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "viendront"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "et se prosterneront"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "devant ta face"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "et glorifieront"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ton nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:54.814783459Z",
+  "model": "glm-4.5"
+}

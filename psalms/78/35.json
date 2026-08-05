@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et ils se rappelaient qu'Élohim ⟨est⟩ leur rocher et El Elyon leur racheteur",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "Et ils se rappelaient"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "leur rocher"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "leur racheteur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:31.494047525Z",
+  "model": "glm-4.5"
+}

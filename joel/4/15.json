@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Le soleil et la lune se sont assombris, et les étoiles ont retiré ⟨leur⟩ éclat.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Le soleil"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "et la lune"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "se sont assombris"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "et les étoiles"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "ont retiré"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "⟨leur⟩ éclat"
+    }
+  ],
+  "timestamp": "2026-08-05T00:13:08.922451805Z",
+  "model": "glm-4.5"
+}

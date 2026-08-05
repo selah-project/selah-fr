@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Et David ajouta d'interroger encore YHWH, et YHWH lui répondit et dit : Lève-toi, descends à Keïla, car je livre ⟨את⟩ les Philistins en ta main.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "Et ... ajouta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "d'interroger"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "et YHWH lui répondit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "רד",
+      "gloss": "descends"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "à Keïla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "livre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les Philistins"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "en ta main"
+    }
+  ],
+  "timestamp": "2026-08-04T22:07:20.376357036Z",
+  "model": "glm-4.5"
+}

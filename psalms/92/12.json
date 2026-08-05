@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Et mon œil ⟨a⟩ regardé mes ennemis, mes oreilles ont entendu ⟨le désir⟩ contre les malfaiteurs qui s'élèvent contre moi.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "Et mon œil"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "a regardé"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "mes ennemis"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "contre ceux qui s'élèvent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "les malfaiteurs"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "ont entendu"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mes oreilles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:12.398662940Z",
+  "model": "glm-4.5"
+}

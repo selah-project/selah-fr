@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Toi, ⟨tu⟩ te lèveras, ⟨tu⟩ feras grâce à Sion, car le temps d'être favorable ⟨est venu⟩ pour elle, car ⟨le⟩ temps ⟨fixé⟩ est venu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "⟨tu⟩ te lèveras"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "⟨tu⟩ feras grâce"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עת",
+      "gloss": "le temps"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "d'être favorable ⟨est venu⟩ pour elle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨le⟩ temps ⟨fixé⟩ est venu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨le⟩ temps ⟨fixé⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:51.823639380Z",
+  "model": "glm-4.5"
+}

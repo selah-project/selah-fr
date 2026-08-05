@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Car les méchants périront, et les ennemis de YHWH, comme la splendeur des pâturages, ⟨ils⟩ sont consumés — en fumée ils sont consumés.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "Car"
+    },
+    {
+      "surface": "רְשָׁעִ֨ים",
+      "gloss": "les méchants"
+    },
+    {
+      "surface": "יֹאבֵ֗דוּ",
+      "gloss": "périront"
+    },
+    {
+      "surface": "וְאֹיְבֵ֣י",
+      "gloss": "et les ennemis"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "כִּיקַ֣ר",
+      "gloss": "comme la splendeur"
+    },
+    {
+      "surface": "כָּרִ֑ים",
+      "gloss": "des pâturages"
+    },
+    {
+      "surface": "כָּל֖וּ",
+      "gloss": "sont consumés"
+    },
+    {
+      "surface": "בֶעָשָׁ֣ן",
+      "gloss": "en fumée"
+    },
+    {
+      "surface": "כָּֽלוּ",
+      "gloss": "ils sont consumés"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:17.029178566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Ne te fatigue pas pour t'enrichir, cesse de ta propre sagesse",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "te fatigue pas"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "pour t'enrichir"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "de ta propre sagesse"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "cesse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:32:46.914199845Z",
+  "model": "glm-4.5"
+}

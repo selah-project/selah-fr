@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Frappe un moqueur, et ⟨le⟩ simple deviendra avisé ; reprends l'intelligent, et il comprendra ⟨la⟩ connaissance.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "moqueur"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "frappe"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "et ⟨le⟩ simple"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "deviendra avisé"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "reprends"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "l'intelligent"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "il comprendra"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨la⟩ connaissance"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:20.364273584Z",
+  "model": "glm-4.5"
+}

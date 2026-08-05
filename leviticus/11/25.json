@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et quiconque porte ⟨la⟩ carcase d'entre eux lavera ses vêtements et sera impur jusqu'au soir.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et quiconque"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "porte"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "⟨la⟩ carcase d'entre eux"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "lavera"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ses vêtements"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "et sera impur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soir"
+    }
+  ],
+  "timestamp": "2026-08-04T19:01:33.311012501Z",
+  "model": "glm-4.5"
+}

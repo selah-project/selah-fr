@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et aussi, ceci ⟨est⟩ une maladie mauvaise : de même qu'il est venu, ainsi il s'en ira, et quel profit ⟨y a-t-il⟩ pour lui, qu'il peine pour le vent ?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Et aussi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨est⟩ une maladie mauvaise"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "maladie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "de même"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "que"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "il est venu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "il s'en ira"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et quel profit"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "⟨y a-t-il⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "qu'il peine"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "pour le vent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:19.553099421Z",
+  "model": "glm-4.5"
+}

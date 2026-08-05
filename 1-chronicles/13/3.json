@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Et ramenons ⟨את⟩ l'arche de notre Éloheim vers nous, car nous ne l'avons pas recherché aux jours de Shaül. »",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "Et ramenons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'arche"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "l'arche"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "de notre Élohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "vers nous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "nous l'avons recherché"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "aux jours de"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    }
+  ],
+  "timestamp": "2026-08-05T05:51:22.467291162Z",
+  "model": "glm-5.2"
+}

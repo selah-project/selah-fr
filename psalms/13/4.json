@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Regarde et réponds-moi, YHWH mon Élohim ; éclaire mes yeux, ⟨de peur que⟩ je ne dorme le sommeil de la mort.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Regarde"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "et réponds-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "éclaire"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨de peur que⟩"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "je ne dorme"
+    },
+    {
+      "surface": "המות",
+      "gloss": "le sommeil de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T01:10:14.582231728Z",
+  "model": "glm-4.5"
+}

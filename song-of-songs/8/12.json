@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Mon vignoble qui est ⟨à moi⟩ ⟨est⟩ devant moi, les mille ⟨sont⟩ pour toi, Shelomo, et deux cents pour les gardes ⟨את⟩ son fruit.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "Mon vignoble"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "qui est ⟨à moi⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨est⟩ devant"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "les mille"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sont⟩ pour"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "toi, Shelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "et deux cents"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "pour les gardes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son fruit"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "son fruit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:22:48.429447899Z",
+  "model": "glm-4.5"
+}

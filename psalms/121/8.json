@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 121,
+  "translation": "YHWH gardera ta sortie et ton entrée, depuis maintenant et jusqu'à l'olam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "gardera"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ta sortie"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "et ton entrée"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "depuis maintenant"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "l'olam"
+    }
+  ],
+  "timestamp": "2026-08-05T02:47:00.884476143Z",
+  "model": "glm-4.5"
+}

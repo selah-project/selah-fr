@@ -1,0 +1,78 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et YHWH se révéla ⟨à⟩ Abram et dit : À ta descendance je donnerai ⟨את⟩ cette terre. Et il bâtit là un autel ⟨à⟩ YHWH, qui s'était révélé ⟨à⟩ lui.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et YHWH se révéla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "À ta descendance"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "je donnerai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cette terre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cette terre"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "cette"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "Et il bâtit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "un autel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨à⟩ YHWH"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "qui s'était révélé"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨à⟩ lui"
+    }
+  ],
+  "timestamp": "2026-08-04T18:43:08.205590643Z",
+  "model": "glm-4.5"
+}

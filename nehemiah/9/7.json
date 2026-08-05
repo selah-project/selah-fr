@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "C'est toi, ⟨tu es⟩ YHWH l'Élohim, qui as choisi Avram, et tu l'as fait sortir d'Our des Kasdim, et tu as donné son nom : Avraham.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "l'Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "as choisi"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "et tu l'as fait sortir"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "d'Our"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "des Kasdim"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "et tu as donné"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-05T05:42:48.942964891Z",
+  "model": "glm-5.2"
+}

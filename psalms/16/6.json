@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Les cordes sont tombées pour moi dans les lieux agréables, oui ⟨un⟩ superbe héritage ⟨est⟩ sur moi",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "les cordes"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sont tombées"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "dans les lieux agréables"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oui"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "héritage"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "superbe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:20.821439784Z",
+  "model": "glm-4.5"
+}

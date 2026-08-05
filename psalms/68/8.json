@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Élohim, quand tu sortis devant ton peuple, quand tu marchas dans le désert, Séla.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "quand tu sortis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "quand tu marchas"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:24.621096645Z",
+  "model": "glm-4.5"
+}

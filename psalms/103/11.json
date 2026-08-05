@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Car comme les cieux sont hauts au-dessus de la terre, ⟨tel⟩ est puissant Son hessed sur Ses craignants.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "comme"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "על",
+      "gloss": "sont au-dessus de"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "est puissant"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Son hessed"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Ses craignants"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:39.279429455Z",
+  "model": "glm-4.5"
+}

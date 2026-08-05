@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Tu ouvres ⟨את⟩ ta main et rassasies ⟨le⟩ désir de tout vivant.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Tu ouvres"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta main"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "et rassasies"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חי",
+      "gloss": "vivant"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "désir"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:47.565717852Z",
+  "model": "glm-4.5"
+}

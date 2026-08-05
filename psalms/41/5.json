@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Moi, je dis : YHWH, fais-moi grâce, guéris ma nefesh, car j'ai péché contre toi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Moi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "je dis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "fais-moi grâce"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "guéris"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "j'ai péché"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contre toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:29.387799295Z",
+  "model": "glm-4.5"
+}

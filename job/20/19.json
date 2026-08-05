@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 20:19",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Car il a écrasé ⟨et⟩ abandonné les pauvres ; une maison il a pillée et ne la bâtit pas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "רצץ",
+      "gloss": "il a écrasé"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "⟨et⟩ abandonné"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "les pauvres"
+    },
+    {
+      "surface": "בית",
+      "gloss": "une maison"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "il a pillée"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne la"
+    },
+    {
+      "surface": "יבנהו",
+      "gloss": "bâtit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:36.030500701Z",
+  "model": "glm-4.5"
+}

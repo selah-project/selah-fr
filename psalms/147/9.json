@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Donnant à la bête ⟨את⟩ sa nourriture, aux petits du corbeau qui appellent.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Donnant"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "à la bête"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "⟨את⟩",
+      "marks": "sa nourriture"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aux petits"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "du corbeau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "appellent"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:06.673522110Z",
+  "model": "glm-4.5"
+}

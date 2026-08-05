@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "C'est pourquoi son peuple retourne ici, et les eaux d'une coupe pleine sont sucées pour eux.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "retourne"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ici"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et les eaux"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "d'une coupe pleine"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "sont sucées"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:59.587482902Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Lui seul est mon rocher et mon salut, ma haute place forte ; je ne serai pas ébranlé.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "seul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "et mon salut"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ma haute place forte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "serai pas ébranlé"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:40.277373952Z",
+  "model": "glm-4.5"
+}

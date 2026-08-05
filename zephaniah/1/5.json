@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et ⟨ceux qui se prosternent⟩ sur les toits pour l’armée des cieux et ⟨ceux qui se prosternent⟩ ⟨qui jurent⟩ par YHWH et ⟨qui jurent⟩ par leur roi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨ceux qui se prosternent⟩",
+      "marks": "המשתחוים"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "qui se prosternent"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "les toits"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "pour l’armée"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨ceux qui se prosternent⟩",
+      "marks": "המשתחוים"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "qui se prosternent"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "qui jurent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "par YHWH"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "et qui jurent"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "par leur roi"
+    }
+  ],
+  "timestamp": "2026-08-05T00:38:12.471304657Z",
+  "model": "glm-4.5"
+}

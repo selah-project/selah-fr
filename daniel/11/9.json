@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et ⟨il⟩ entrera dans le royaume du roi du Néguév, puis retournera vers son sol.",
+  "tokens": [
+    {
+      "surface": "וּבָ֗א",
+      "gloss": "et il entrera"
+    },
+    {
+      "surface": "בְּמַלְכוּת֙",
+      "gloss": "dans le royaume"
+    },
+    {
+      "surface": "מֶ֣לֶךְ",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "הַנֶּ֔גֶב",
+      "gloss": "du Néguév"
+    },
+    {
+      "surface": "וְשָׁ֖ב",
+      "gloss": "et retournera"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אַדְמָתֽוֹ",
+      "gloss": "son sol"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:59.873942614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "Et je méditerai sur toute ⟨ton⟩ œuvre, et sur ⟨tes⟩ exploits je discourrai.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "Et je méditerai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sur toute"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "⟨ton⟩ œuvre"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "et sur ⟨tes⟩ exploits"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "je discourrai"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:57.800792465Z",
+  "model": "glm-4.5"
+}

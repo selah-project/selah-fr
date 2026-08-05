@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 81,
+  "translation": "En peu de temps je ⟨ferais⟩ plier leurs ennemis, et contre leurs oppresseurs je ⟨tournerais⟩ ma main.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "En peu de temps"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "leurs ennemis"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "je ⟨ferais⟩ plier"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et contre"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "leurs oppresseurs"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "je ⟨tournerais⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ma main"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:18.990737830Z",
+  "model": "glm-4.5"
+}

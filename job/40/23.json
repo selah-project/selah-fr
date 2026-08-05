@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 40:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Voici le fleuve ⟨qui⟩ oppresse il ne se hâte pas il se confie si le Jourdain jaillit jusqu'à sa bouche",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "voici"
+    },
+    {
+      "surface": "יעשק",
+      "gloss": "le fleuve ⟨qui⟩ oppresse"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "le fleuve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יחפוז",
+      "gloss": "se hâte pas"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "il se confie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יגיח",
+      "gloss": "le Jourdain jaillit"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "le Jourdain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jusqu'à"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:49.870913Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Un psaume de David. YHWH est mon berger, je ne manquerai de rien.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Un psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "est mon berger"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "manquerai de rien"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:58.929479728Z",
+  "model": "glm-4.5"
+}

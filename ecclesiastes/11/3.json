@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Si les nuages ⟨sont⟩ pleins de pluie, ils la verseront sur la terre ; et si un arbre tombe vers le midi ou vers le nord, le lieu où l'arbre tombe, là il ⟨sera⟩",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "les nuages ⟨sont⟩ pleins"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "de pluie, ils"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "la verseront"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "; et si"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "un arbre"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tombe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "vers le midi"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "ou"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "vers le nord"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "le lieu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "où"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "l'arbre tombe"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "là"
+    },
+    {
+      "surface": "שם",
+      "gloss": "il ⟨sera⟩"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "il ⟨sera⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T04:48:48.747747707Z",
+  "model": "glm-4.5"
+}

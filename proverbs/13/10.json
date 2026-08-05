@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Seul par l'insolence vient la querelle et avec ⟨ceux qui⟩ délibèrent est la sagesse.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "seul"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "par l'insolence"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vient"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "la querelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et avec",
+      "marks": "ceux qui délibèrent"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ceux qui délibèrent"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:00.056238060Z",
+  "model": "glm-4.5"
+}

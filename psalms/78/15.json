@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Il fendit des rochers dans ⟨le⟩ désert, et il abreuva comme ⟨des⟩ abîmes ⟨nombreuses⟩.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Il fendit"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "des rochers"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans ⟨le⟩ désert"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "et il abreuva"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "comme ⟨des⟩ abîmes"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "⟨nombreuses⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:26.360423621Z",
+  "model": "glm-4.5"
+}

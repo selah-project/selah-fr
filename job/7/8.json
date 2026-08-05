@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "L'œil de celui qui me regarde ne me verra plus ; tes yeux ⟨sont⟩ sur moi, et je ne suis plus.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "me verra plus"
+    },
+    {
+      "surface": "עין",
+      "gloss": "l'œil"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "de celui qui me regarde"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tes yeux"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sont sur moi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "et je ne suis plus"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:25.686639966Z",
+  "model": "glm-4.5"
+}

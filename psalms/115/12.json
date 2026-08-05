@@ -1,0 +1,59 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "YHWH s'est souvenu de nous, Il bénira, Il bénira ⟨את⟩ la maison d'Israël, Il bénira ⟨את⟩ la maison d'Aharón.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "s'est souvenu de nous"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "Il bénira"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "Il bénira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison d'Israël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "Il bénira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison d'Aharón"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aharón"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:19.793463908Z",
+  "model": "glm-4.5"
+}

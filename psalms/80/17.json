@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Brûlée par le feu, coupée, ⟨de⟩ la menace de ton visage elles périssent",
+  "tokens": [
+    {
+      "surface": "שְׂרֻפָה",
+      "gloss": "Brûlée"
+    },
+    {
+      "surface": "בָאֵשׁ",
+      "gloss": "par le feu"
+    },
+    {
+      "surface": "כְּסוּחָה",
+      "gloss": "coupée"
+    },
+    {
+      "surface": "מִגַּעֲרַת",
+      "gloss": "⟨de⟩ la menace"
+    },
+    {
+      "surface": "פָּנֶיךָ",
+      "gloss": "de ton visage"
+    },
+    {
+      "surface": "יֹאבֵדוּ",
+      "gloss": "elles périssent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:06.073659136Z",
+  "model": "glm-4.5"
+}

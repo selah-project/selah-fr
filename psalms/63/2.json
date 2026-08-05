@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Élohim, ⟨Tu es⟩ mon Élohim, je te cherche dès l'aube ; ma nefesh a soif de toi, ma chair languit pour toi dans une terre aride et fatiguée, sans eau.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Tu es⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "je te cherche dès l'aube"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "a soif"
+    },
+    {
+      "surface": "לך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "languit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ma chair"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans une terre"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "aride"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "et fatiguée"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "מים",
+      "gloss": "eau"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:16.961153935Z",
+  "model": "glm-4.5"
+}

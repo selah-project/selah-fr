@@ -1,0 +1,82 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Nous avons guéri ⟨את⟩ Babylone et elle n'est pas guérie ; laissez-la et allons chacun dans son pays ; car son jugement a atteint jusqu'aux cieux et s'est élevé jusqu'aux nuées.",
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "nous avons guéri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babylone"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "elle n'est pas guérie"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "laissez-la"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "et allons"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chacun"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "dans son pays"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "a atteint"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jusqu'aux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "cieux"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "son jugement"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "et s'est élevé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu'aux"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nuées"
+    }
+  ],
+  "timestamp": "2026-08-04T23:09:42.137266739Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Tu as visité ⟨la⟩ terre et tu l'as abreuvée, abondamment tu l'enrichis; le ruisseau d'Élohim est plein d'eau, tu prépares leur grain quand tu l'auras ainsi préparée.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Tu as visité"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "et tu l'as abreuvée"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "abondamment"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "tu l'enrichis"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "le ruisseau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "d'Élohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "est plein"
+    },
+    {
+      "surface": "מים",
+      "gloss": "d'eau"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tu prépares"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "leur grain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "tu l'auras préparée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:40.580763312Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Mon cœur palpite, ma force m'a abandonné, et ⟨la⟩ lumière de mes yeux, même ⟨elle⟩ n'est pas avec moi.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Mon cœur"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "palpite"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ma force m'a abandonné"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "force"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "et ⟨la⟩ lumière"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "de mes yeux"
+    },
+    {
+      "surface": "גם",
+      "gloss": "même"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨elle⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:30.204228688Z",
+  "model": "glm-4.5"
+}

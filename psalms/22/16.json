@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Mon pouvoir ⟨est⟩ desséché comme un tesson, et ma langue colle à ma mâchoire ; et dans la poussière de la mort tu me couches.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "⟨est⟩ desséché"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "comme un tesson"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mon pouvoir"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "et ma langue"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "colle"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "à ma mâchoire"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "et dans la poussière"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de la mort"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "tu me couches"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:06.117160455Z",
+  "model": "glm-4.5"
+}

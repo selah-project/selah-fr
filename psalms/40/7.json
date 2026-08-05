@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Sacrifice et offrande, tu ne les as pas désirés, tu m'as creusé des oreilles ; ola et sacrifice pour le péché, tu ne les as pas demandés.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Sacrifice"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "et offrande"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne les as pas"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "désirés"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "oreilles"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "tu as creusé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "et sacrifice pour le péché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne les as pas"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "demandés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:32.337613661Z",
+  "model": "glm-4.5"
+}

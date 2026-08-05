@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et YHWH la vit, et la tint pour une prostituée, car elle avait couvert son visage.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "Et YHWH la vit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "et la tint"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "pour une prostituée"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "elle avait couvert"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "son visage"
+    }
+  ],
+  "timestamp": "2026-08-04T18:49:52.932199716Z",
+  "model": "glm-4.5"
+}

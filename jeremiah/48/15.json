@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 48:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 48,
+  "translation": "Moab ⟨est⟩ pillé, et ses villes sont montées, et le choix de ses jeunes est descendu ⟨au⟩ carnage, déclaration du Roi, YHWH Tsevaot est son nom.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "⟨est⟩ pillé"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "et ses villes"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sont montées"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "et le choix"
+    },
+    {
+      "surface": "בחוריו",
+      "gloss": "de ses jeunes"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "est descendu"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "⟨au⟩ carnage"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du Roi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "est son nom"
+    }
+  ],
+  "timestamp": "2026-08-04T23:04:30.740480774Z",
+  "model": "glm-4.5"
+}

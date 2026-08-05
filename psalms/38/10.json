@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Adonaï, devant toi sont tous ⟨les⟩ désirs, et mon soupir n'est pas caché de toi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "désirs"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "et mon soupir"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'est pas"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "caché"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:30.204113272Z",
+  "model": "glm-4.5"
+}

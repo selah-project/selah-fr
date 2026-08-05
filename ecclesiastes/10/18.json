@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Par paresse s'affaisse la charpente, et par faiblesse des mains ⟨le⟩ toit perce.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "Par paresse"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "s'affaisse"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "la charpente"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "et par faiblesse"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "des mains"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "perce"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "le toit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:45:17.848801784Z",
+  "model": "glm-4.5"
+}

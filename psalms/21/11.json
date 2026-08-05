@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Leur fruit tu feras périr de la terre, et leur semence d'entre les fils d'Adam.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "leur fruit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "tu feras périr"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "et leur semence"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "d'entre les fils de"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-05T01:17:28.751327271Z",
+  "model": "glm-4.5"
+}

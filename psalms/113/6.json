@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 113,
+  "translation": "⟨le⟩ humble pour voir ⟨les choses⟩ dans les cieux et ⟨dans⟩ la terre",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "⟨le⟩ humble"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨les choses⟩ dans les cieux"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "et ⟨dans⟩ la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:10.733087243Z",
+  "model": "glm-4.5"
+}

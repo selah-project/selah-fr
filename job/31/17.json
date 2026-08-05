@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "et que j'ai mangé mon morceau seul, et que l'orphelin n'en a pas mangé",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "et que j'ai mangé"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mon morceau"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "seul"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et que ... n'⟨pas⟩"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "a mangé"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "l'orphelin"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "de elle"
+    }
+  ],
+  "timestamp": "2026-08-05T04:07:17.714142743Z",
+  "model": "glm-4.5"
+}

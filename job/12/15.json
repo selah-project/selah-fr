@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Voici, il retient les eaux et elles sèchent, et il les envoie et elles renversent ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "il retient"
+    },
+    {
+      "surface": "במים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "et elles sèchent"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "et il les envoie"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "et elles renversent"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:53:08.681107189Z",
+  "model": "glm-4.5"
+}

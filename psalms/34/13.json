@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Quel ⟨est⟩ l'homme ⟨qui⟩ désire la vie, aime les jours, pour voir du bon ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "désire"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "la vie"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "aime"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bon"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:00.145116730Z",
+  "model": "glm-4.5"
+}

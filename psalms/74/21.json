@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Que ⟨le⟩ broyé ne retourne pas couvert de honte, ⟨que⟩ l'affligé et le nécessiteux louent ton nom",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "que"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ne retourne pas"
+    },
+    {
+      "surface": "דך",
+      "gloss": "le broyé"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "couvert de honte"
+    },
+    {
+      "surface": "עני",
+      "gloss": "l'affligé"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et le nécessiteux"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "louent"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:25.560610101Z",
+  "model": "glm-4.5"
+}

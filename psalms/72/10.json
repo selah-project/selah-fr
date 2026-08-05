@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Les rois de Tarsis et ⟨des⟩ îles un présent ⟨ils⟩ ramèneront les rois de Sheba et Seba un tribut ⟨ils⟩ offriront",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Les rois de"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsis"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "et ⟨des⟩ îles"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "un présent"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "⟨ils⟩ ramèneront"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "les rois de"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "et Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "un tribut"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "⟨ils⟩ offriront"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:28.096417556Z",
+  "model": "glm-4.5"
+}

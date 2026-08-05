@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Alors je ne serai pas honteux ⟨en⟩ regardant ⟨à⟩ tous tes commandements.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Alors"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne serai pas"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "honteux"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "en regardant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tes commandements"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:01.569820528Z",
+  "model": "glm-4.5"
+}

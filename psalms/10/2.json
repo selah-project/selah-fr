@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Dans ⟨l⟩orgueil du méchant, le pauvre est brûlé ; ils sont pris dans les machinations qu'ils ont tramées.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "Dans ⟨l⟩orgueil"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "est brûlé"
+    },
+    {
+      "surface": "עני",
+      "gloss": "le pauvre"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "ils sont pris"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "dans les machinations"
+    },
+    {
+      "surface": "זו",
+      "gloss": "que"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ils ont tramées"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:28.330116502Z",
+  "model": "glm-4.5"
+}

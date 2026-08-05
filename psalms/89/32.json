@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Si ⟨ils⟩ profanent mes statuts et ⟨ne⟩ gardent ⟨pas⟩ mes commandements,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mes statuts"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "⟨ils⟩ profanent"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "et mes commandements"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "gardent ⟨pas⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:10.577713415Z",
+  "model": "glm-4.5"
+}

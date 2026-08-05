@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 113,
+  "translation": "⟨que⟩ le nom de YHWH ⟨soit⟩ béni, maintenant et jusqu'à l'éternité.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨que⟩ ... ⟨soit⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "béni"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "l'éternité"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:00.001315733Z",
+  "model": "glm-4.5"
+}

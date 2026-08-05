@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Veuve et résident ⟨ils⟩ tuent, et orphelins ⟨ils⟩ assassinent",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Veuve"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "et résident"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "tuent"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "et orphelins"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "assassinent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:24.734264276Z",
+  "model": "glm-4.5"
+}

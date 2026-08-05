@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Suis-je la mer, ou un tannin, que tu places sur moi une garde ?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "suis-je"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "un tannin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "tu places"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "une garde"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:19.233353790Z",
+  "model": "glm-4.5"
+}

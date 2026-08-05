@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 18:29",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car c'est toi qui illumines ma lampe, YHWH, mon Élohim, ⟨qui⟩ éclaire ma ténèbre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "c'est toi"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "illumines"
+    },
+    {
+      "surface": "נרי",
+      "gloss": "ma lampe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "⟨qui⟩ éclaire"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "ma ténèbre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:03.725100517Z",
+  "model": "glm-4.5"
+}

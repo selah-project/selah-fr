@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 144,
+  "translation": "YHWH, qu'est-ce que l'humain pour que tu le connaisses, le fils de l'homme, pour que tu le prennes en compte ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qu'est-ce que"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "pour que tu le connaisses"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "pour que tu le prennes en compte"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:12.596885126Z",
+  "model": "glm-4.5"
+}

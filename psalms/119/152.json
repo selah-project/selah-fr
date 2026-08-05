@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Jadis je ⟨les⟩ ai connues, d'après tes témoignages, car pour toujours tu les as fondées",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "jadis"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je ⟨les⟩ ai connues"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "d'après tes témoignages"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "tu les as fondées"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:44.564575092Z",
+  "model": "glm-4.5"
+}

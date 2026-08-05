@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Tu nous mets en exemple parmi les nations, hochement de tête parmi les peuples",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "tu nous mets"
+    },
+    {
+      "surface": "משל",
+      "gloss": "en exemple"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "parmi les nations"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "hochement"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "de tête"
+    },
+    {
+      "surface": "בל",
+      "gloss": "parmi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "les peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:44.472916518Z",
+  "model": "glm-4.5"
+}

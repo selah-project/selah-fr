@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Il y a tel qui s'enrichit, et il n'a rien ; et tel qui s'appauvrit, et ⟨il y a⟩ un grand bien.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Il y a"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "tel qui s'enrichit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rien"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "et tel qui s'appauvrit"
+    },
+    {
+      "surface": "והון",
+      "gloss": "et un bien"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grand"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:59.488549075Z",
+  "model": "glm-4.5"
+}

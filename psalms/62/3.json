@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 62,
+  "translation": "Seulement il ⟨est⟩ mon rocher et ma délivrance, ma haute place, je ne serai pas beaucoup ébranlé.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Seulement"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mon rocher"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "et ma délivrance"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ma haute place"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "serai ébranlé"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "beaucoup"
+    }
+  ],
+  "timestamp": "2026-08-05T01:51:40.179389212Z",
+  "model": "glm-4.5"
+}

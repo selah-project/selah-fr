@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Et il la ⟨a⟩ établie ⟨pour⟩ Jacob comme loi, ⟨pour⟩ Israel comme alliance éternelle",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "Et il la ⟨a⟩ établie"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "⟨pour⟩ Jacob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "comme loi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "⟨pour⟩ Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "comme alliance"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "éternelle"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:26.982079592Z",
+  "model": "glm-4.5"
+}

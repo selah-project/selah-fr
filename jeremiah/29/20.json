@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et vous, écoutez la parole de YHWH, toute l'exilée que j'ai envoyée de Jérusalem à Babylone.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Et vous"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "écoutez"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "l'exilée"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "j'ai envoyée"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "à Babylone"
+    }
+  ],
+  "timestamp": "2026-08-04T22:45:40.355421277Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Mon être il fait revenir, ⟨il⟩ me guide dans des sentiers de justice, pour ⟨le⟩ sake de son nom.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Mon être"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "il fait revenir"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "⟨il⟩ me guide"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "dans des sentiers"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "de justice"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pour ⟨le⟩ sake de"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "son nom"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:58.929804304Z",
+  "model": "glm-4.5"
+}

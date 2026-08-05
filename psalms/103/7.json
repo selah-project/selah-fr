@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "Il fait connaître ses voies à Moïse, aux fils d'Israël ses hauts faits.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Il fait connaître"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ses voies"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "à Moïse"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ses hauts faits"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:34.837261585Z",
+  "model": "glm-4.5"
+}

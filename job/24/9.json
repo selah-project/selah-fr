@@ -1,0 +1,39 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Ils volent ⟨l'orphelin⟩ et sur ⟨le pauvre⟩ ils prennent un gage",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "Ils volent"
+    },
+    {
+      "surface": "משד",
+      "gloss": "⟨l'orphelin⟩",
+      "marks": "l'orphelin"
+    },
+    {
+      "surface": "יתום",
+      "gloss": ""
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨le pauvre⟩",
+      "marks": "le pauvre"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "ils prennent un gage"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:24.906576409Z",
+  "model": "glm-4.5"
+}

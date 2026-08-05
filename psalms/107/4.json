@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Ils errent dans le désert dans un lieu désert sur la route une ville d'habitation ils n'ont pas trouvée",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Ils errent"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "dans un lieu désert"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sur la route"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "une ville"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "d'habitation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils n'ont pas"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "trouvée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:36.143715240Z",
+  "model": "glm-4.5"
+}

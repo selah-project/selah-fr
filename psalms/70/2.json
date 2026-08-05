@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 70,
+  "translation": "Élohim, ⟨pour⟩ me délivrer ; YHWH, ⟨pour⟩ mon secours, hâte-toi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "⟨pour⟩ me délivrer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "⟨pour⟩ mon secours"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hâte-toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:01.617314853Z",
+  "model": "glm-4.5"
+}

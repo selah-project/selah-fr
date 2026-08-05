@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Les trésors de la méchanceté ne profitent pas, et la tsedaqah délivre de la mort.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "profitent"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "les trésors"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "de la méchanceté"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "et la tsedaqah"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "délivre"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:25.619769978Z",
+  "model": "glm-4.5"
+}

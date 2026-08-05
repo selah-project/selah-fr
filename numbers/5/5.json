@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et YHWH parla à Moïse, pour dire :",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pour dire"
+    }
+  ],
+  "timestamp": "2026-08-04T21:39:30.617481878Z",
+  "model": "glm-4.5"
+}

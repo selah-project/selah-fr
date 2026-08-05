@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Cherchez YHWH et ⟨sa⟩ force, cherchez sa face continuellement",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Cherchez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "et ⟨sa⟩ force"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "cherchez"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa face"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "continuellement"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:32.632916609Z",
+  "model": "glm-4.5"
+}

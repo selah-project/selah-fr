@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Combien ils l'irritent dans le désert, ils l'attristent dans le désolation",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "combien"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "ils l'irritent"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "ils l'attristent"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "dans le désolation"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:42.694873631Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "⟨Le⟩ conseil de YHWH subsiste pour toujours, ⟨les⟩ pensées de son cœur, de génération en génération.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "⟨Le⟩ conseil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "subsiste pour toujours"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "subsiste"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "⟨les⟩ pensées"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "de son cœur"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "de génération"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en génération"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:24.192572611Z",
+  "model": "glm-4.5"
+}

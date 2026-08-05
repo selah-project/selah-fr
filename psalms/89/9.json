@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "YHWH, Élohim des Tsevaot, qui est comme toi, Yah, fort ? et ta fidélité ⟨est⟩ tout autour de toi",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "des Tsevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "qui"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "est comme toi"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "fort"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "et ta fidélité"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "tout autour de toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:14.598758350Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et moi, je suis un ver et non pas un homme, honte de ⟨l'⟩homme et méprisé du peuple",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "je suis un ver"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non pas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "honte de"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨l'⟩homme"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "et méprisé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "du peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:07.051615058Z",
+  "model": "glm-4.5"
+}

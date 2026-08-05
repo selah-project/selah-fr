@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Il donne ⟨sa⟩ joue à ⟨celui qui⟩ le frappe, il se rassasie d'insultes.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Il donne"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "à ⟨celui qui⟩ le frappe"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨sa⟩ joue"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "il se rassasie"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "d'insultes"
+    }
+  ],
+  "timestamp": "2026-08-05T04:30:07.535055066Z",
+  "model": "glm-4.5"
+}

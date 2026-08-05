@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Mon fils, crains YHWH et ⟨le⟩ roi, ne te mélange pas avec ⟨les⟩ changeurs",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "crains"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "et ⟨le⟩ roi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "⟨les⟩ changeurs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "te mélange pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:54.442535092Z",
+  "model": "glm-4.5"
+}

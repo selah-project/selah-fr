@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Ainsi a dit YHWH : ainsi je rendrai piteux ⟨את⟩ l'orgueil de Juda et ⟨את⟩ le grand orgueil de Jérusalem",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "je rendrai piteux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'orgueil de Juda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "l'orgueil"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "le grand orgueil de Jérusalem"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "l'orgueil"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "de Jérusalem"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "le grand"
+    }
+  ],
+  "timestamp": "2026-08-04T16:19:20.008448160Z",
+  "model": "glm-4.5"
+}

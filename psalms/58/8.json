@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Qu'ils fondent comme des eaux, qu'ils s'en aillent ; qu'il bande son arc, qu'ils soient comme coupés.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "Qu'ils fondent"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "qu'ils s'en aillent"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "qu'il bande"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "son arc"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ils soient coupés"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:39.887244472Z",
+  "model": "glm-4.5"
+}

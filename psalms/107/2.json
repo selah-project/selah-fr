@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Qu'ils disent les rachetés de YHWH ceux qu'il a rachetés de la main de l'adversaire",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Qu'ils disent"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "les rachetés de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ceux que"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "il a rachetés"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main de"
+    },
+    {
+      "surface": "צר",
+      "gloss": "l'adversaire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:36.143494478Z",
+  "model": "glm-4.5"
+}

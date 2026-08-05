@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 54,
+  "translation": "Au chef des chantres avec les instruments à cordes, une instruction de David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "avec les instruments à cordes"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "une instruction"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:21.053541105Z",
+  "model": "glm-4.5"
+}

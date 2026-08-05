@@ -1,0 +1,75 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et YHWH rétablit ⟨את⟩ la captivité de Iyyov, lorsqu'il pria pour ⟨son⟩ ami ; et YHWH ajouta ⟨את⟩ tout ce qui était à Iyyov, au double",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Et YHWH"
+    },
+    {
+      "surface": "שב",
+      "gloss": "rétablit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la captivité de Iyyov"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "la captivité"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "de Iyyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "lorsqu'il pria"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pour"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "⟨son⟩ ami"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "et YHWH ajouta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce qui était à Iyyov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "était à Iyyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "au double"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:46.669377518Z",
+  "model": "glm-4.5"
+}

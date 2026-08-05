@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Encore ceci elles ont fait à moi, elles ont profané ⟨את⟩ mon sanctuaire en ce jour-là et ⟨את⟩ mes shabbats elles ont violés",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Encore"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "elles ont fait"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ont profané"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mon sanctuaire"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mon sanctuaire"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "en ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mes shabbats"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mes shabbats"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ont violés"
+    }
+  ],
+  "timestamp": "2026-08-04T23:32:57.457703030Z",
+  "model": "glm-4.5"
+}

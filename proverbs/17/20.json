@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Cœur tordu ne trouvera pas le bien, et le retourné en sa langue tombera dans le mal.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "Cœur tordu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cœur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "trouvera"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "et le retourné"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "en sa langue"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tombera"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dans le mal"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:53.860460873Z",
+  "model": "glm-4.5"
+}

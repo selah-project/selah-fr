@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "La lèvre de vérité ⟨est⟩ établie pour toujours, mais pour un instant, la langue du mensonge.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "La lèvre"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de vérité"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨est⟩ établie"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mais pour"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "un instant"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la langue"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "du mensonge"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:17.075942191Z",
+  "model": "glm-4.5"
+}

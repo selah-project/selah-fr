@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car ainsi a dit YHWH ⟨à⟩ la maison d'Israël : Cherchez-moi et vivez.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨à⟩ la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "Cherchez-moi"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "et vivez"
+    }
+  ],
+  "timestamp": "2026-08-05T00:17:22.978367837Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Voici des jours viennent, déclaration de YHWH, et j'ai semé ⟨את⟩ la maison d'Israël et ⟨את⟩ la maison de Juda, semence d'humain et semence de bête",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    },
+    {
+      "surface": "באים",
+      "gloss": "viennent"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "déclaration de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "et j'ai semé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la maison d'Israël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la maison de Juda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "la maison de"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semence de"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "humain"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "et semence de"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "bête"
+    }
+  ],
+  "timestamp": "2026-08-04T22:46:13.408366054Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Les cieux se réjouissent, et la terre exulte, la mer rugit, et tout ce qui la remplit",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "se réjouissent"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Les cieux"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "et la terre exulte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "terre"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "la mer rugit"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mer"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "et tout ce qui la remplit"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:16.215209751Z",
+  "model": "glm-4.5"
+}

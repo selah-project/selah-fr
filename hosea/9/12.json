@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car même s'ils élèvent ⟨את⟩ leurs fils, je les priverai ⟨de l'⟩homme, car malheur aussi à eux quand je m'éloignerai d'eux.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אם",
+      "gloss": "même si"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "ils élèvent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leurs fils"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "leurs fils"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "je les priverai"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "⟨de l'⟩homme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "malheur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "quand je m'éloignerai"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "d'eux"
+    }
+  ],
+  "timestamp": "2026-08-05T00:04:00.022627790Z",
+  "model": "glm-4.5"
+}

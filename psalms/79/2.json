@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 79,
+  "translation": "Ils ont donné ⟨את⟩ les cadavres de tes serviteurs en nourriture aux oiseaux des cieux, la chair de tes fidèles aux bêtes de la terre",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Ils ont donné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les cadavres de tes serviteurs"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "les cadavres"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "de tes serviteurs"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "en nourriture"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "aux oiseaux"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "de tes fidèles"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "aux bêtes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:07:11.868103712Z",
+  "model": "glm-4.5"
+}

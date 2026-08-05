@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Et je me délecterai de tes commandements, que j'ai aimés.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "Et je me délecterai"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "de tes commandements"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "j'ai aimés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:43:38.737161633Z",
+  "model": "glm-4.5"
+}

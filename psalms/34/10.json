@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Craignez ⟨את⟩ YHWH, ses consacrés, car il n'y a pas de manque pour ⟨ceux qui⟩ le craignent",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "craignez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ses consacrés"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "manque"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pour ceux qui le craignent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:22.030792986Z",
+  "model": "glm-4.5"
+}

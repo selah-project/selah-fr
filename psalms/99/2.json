@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 99,
+  "translation": "YHWH ⟨est⟩ grand à Sion, et élevé ⟨est⟩-il sur tous ⟨les⟩ peuples.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "à Sion"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "et élevé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨est⟩-il"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨les⟩ peuples"
+    }
+  ],
+  "timestamp": "2026-08-05T02:25:20.744259629Z",
+  "model": "glm-4.5"
+}

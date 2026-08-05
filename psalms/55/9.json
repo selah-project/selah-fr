@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Je hâterais l'évasion pour moi, du vent impétueux, de l'ouragan.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "Je hâterais"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "l'évasion"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "du vent"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "impétueux"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "de l'ouragan"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.676755144Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Merveilleuse ⟨est⟩ ta connaissance d'avec moi, elle s'est élevée, je ne puis ⟨l'atteindre⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "Merveilleuse"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ta connaissance"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "d'avec moi"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "elle s'est élevée"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne puis"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": ""
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨l'atteindre⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:52.152079585Z",
+  "model": "glm-4.5"
+}

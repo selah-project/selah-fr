@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Ceux-ci ⟨se fient⟩ aux chars et ceux-ci aux chevaux ; et nous, nous mentionnerons le nom de YHWH notre Élohim",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ceux-ci"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "⟨se fient⟩ aux chars"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "et ceux-ci"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "aux chevaux"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "et nous"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "le nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "notre Élohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "nous mentionnerons"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:56.607016415Z",
+  "model": "glm-4.5"
+}

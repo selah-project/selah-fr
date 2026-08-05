@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Garde mon néfesh et délivre-moi ; que je ne sois pas honteux, car je me suis réfugié en Toi.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "garde"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon néfesh"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "et délivre-moi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que... pas"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "je sois honteux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "je me suis réfugié"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en Toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:14.990727541Z",
+  "model": "glm-4.5"
+}

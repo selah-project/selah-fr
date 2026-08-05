@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "La justice garde la voie de l'intègre, et la méchanceté fait chuter le pécheur.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "La justice"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "garde"
+    },
+    {
+      "surface": "תם",
+      "gloss": "l'intègre"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "la voie"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "et la méchanceté"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "fait chuter"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "le pécheur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:59.488452817Z",
+  "model": "glm-4.5"
+}

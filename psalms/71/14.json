@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Et moi, sans cesse j'espérerai, et j'ajouterai ⟨à⟩ toute ta louange.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sans cesse"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "j'espérerai"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "et j'ajouterai"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨à⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ta louange"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:52.163552782Z",
+  "model": "glm-4.5"
+}

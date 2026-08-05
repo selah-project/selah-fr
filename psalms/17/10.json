@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Leur graisse ⟨ils⟩ ont fermé, leur bouche a parlé avec arrogance.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "Leur graisse"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "⟨ils⟩ ont fermé"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "leur bouche"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "a parlé"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "avec arrogance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:03.059596501Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Elle se lève alors qu'il est encore nuit, et donne ⟨de la⟩ nourriture à sa maison, et une tâche à ses servantes.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Elle se lève"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "alors qu'il est"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "encore nuit"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "et donne"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "⟨de la⟩ nourriture"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "à sa maison"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "et une tâche"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "à ses servantes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:50.267600298Z",
+  "model": "glm-4.5"
+}

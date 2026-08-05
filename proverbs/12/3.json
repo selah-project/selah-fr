@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "L'homme ne s'affermit pas par la méchanceté, mais la racine des justes ne sera pas ébranlée.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "s'affermit pas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "L'homme"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "par la méchanceté"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "mais la racine"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sera pas ébranlée"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:27.236188409Z",
+  "model": "glm-4.5"
+}

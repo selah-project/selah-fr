@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Voici, ⟨je vais⟩ vers l'est et il n'y ⟨est⟩ pas, et ⟨vers⟩ l'ouest et je ne le perçois pas",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "voici"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "⟨je vais⟩ vers l'est"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "je marche"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "et il n'y ⟨est⟩ pas"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "et ⟨vers⟩ l'ouest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "je perçois"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-05T04:01:38.802941922Z",
+  "model": "glm-4.5"
+}

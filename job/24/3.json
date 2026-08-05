@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "L'âne des orphelins ils mènent, le bœuf de la veuve ils prennent ⟨en⟩ gage.",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "L'âne"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "des orphelins"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "ils mènent"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "ils prennent ⟨en⟩ gage"
+    },
+    {
+      "surface": "שור",
+      "gloss": "le bœuf"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "de la veuve"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:17.261558645Z",
+  "model": "glm-4.5"
+}

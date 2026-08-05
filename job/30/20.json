@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Je crie vers toi et tu ne réponds pas, je me tiens debout et tu me considères",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Je crie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "réponds pas"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "je me tiens debout"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "et tu me considères"
+    },
+    {
+      "surface": "בי",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:21.951506239Z",
+  "model": "glm-4.5"
+}

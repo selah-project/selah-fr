@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Mieux ⟨vaut⟩ la tristesse que le rire, car par la tristesse du visage le cœur se rend meilleur.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Mieux"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "la tristesse"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "que le rire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "par la mauvaise"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "apparence du visage"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "se rend meilleur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:43.330338784Z",
+  "model": "glm-4.5"
+}

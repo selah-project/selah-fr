@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Que le pied de l'orgueil ne vienne pas contre moi, et que la main des méchants ne me fasse pas chasser.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Que ne"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "vienne pas contre moi"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "le pied"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "de l'orgueil"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "et que la main"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne me"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "fasse pas chasser"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:01.746498373Z",
+  "model": "glm-4.5"
+}

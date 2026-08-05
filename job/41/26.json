@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "⟨את⟩ tout ce qui ⟨est⟩ élevé il voit, il est roi sur tous les fils de l'orgueil",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tout ce qui est élevé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ce qui ⟨est⟩ élevé"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "il voit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "est roi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "de l'orgueil"
+    }
+  ],
+  "timestamp": "2026-08-05T04:15:37.656289099Z",
+  "model": "glm-4.5"
+}

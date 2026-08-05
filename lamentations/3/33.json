@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car il n'afflige pas de son cœur, et il ne fait pas grief aux fils de l'homme",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'⟨afflige⟩ pas"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "⟨afflige⟩"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "de son cœur"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "et il ne fait pas grief"
+    },
+    {
+      "surface": "בני",
+      "gloss": "aux fils"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de l'homme"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:39.462157402Z",
+  "model": "glm-4.5"
+}

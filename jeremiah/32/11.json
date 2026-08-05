@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "et je pris ⟨את⟩ le livre de l'achat, ⟨את⟩ celui qui était scellé, ⟨contenant⟩ le commandement et les statuts, et ⟨את⟩ l'ouvert.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "et je pris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le livre"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le livre"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "de l'achat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celui qui était scellé"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "celui qui était scellé"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "⟨contenant⟩ le commandement"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "et les statuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "l'ouvert"
+    }
+  ],
+  "timestamp": "2026-08-04T22:47:34.723166659Z",
+  "model": "glm-4.5"
+}

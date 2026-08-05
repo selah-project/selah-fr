@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et Yishaï engendra ⟨את⟩ son premier-né ⟨את⟩ Eliab ; et Avinadav le deuxième, et Shim'a le troisième.",
+  "tokens": [
+    {
+      "surface": "וְאִישַׁ֛י",
+      "gloss": "et Yishaï"
+    },
+    {
+      "surface": "הוֹלִ֥יד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "son premier-né"
+    },
+    {
+      "surface": "בְּכֹר֖וֹ",
+      "gloss": "son premier-né"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אֱלִיאָ֑ב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "וַאֲבִינָדָב֙",
+      "gloss": "et Avinadav"
+    },
+    {
+      "surface": "הַשֵּׁנִ֔י",
+      "gloss": "le deuxième"
+    },
+    {
+      "surface": "וְשִׁמְעָ֖א",
+      "gloss": "et Shim'a"
+    },
+    {
+      "surface": "הַשְּׁלִישִֽׁי",
+      "gloss": "le troisième"
+    }
+  ],
+  "timestamp": "2026-08-05T05:45:14.407602885Z",
+  "model": "glm-5.2"
+}

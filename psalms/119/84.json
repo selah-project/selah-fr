@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Que sont les jours de ton serviteur ? Quand feras-tu justice contre mes persécuteurs ?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "que sont"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "de ton serviteur"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "feras-tu"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "justice contre"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mes persécuteurs"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:43.055928108Z",
+  "model": "glm-4.5"
+}

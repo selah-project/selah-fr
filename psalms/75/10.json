@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Et moi, je ⟨le⟩ proclamerai pour toujours, je chanterai des louanges ⟨au⟩ Dieu de Jacob.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "je ⟨le⟩ proclamerai"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "je chanterai des louanges"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "⟨au⟩ Dieu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:01.430943850Z",
+  "model": "glm-4.5"
+}

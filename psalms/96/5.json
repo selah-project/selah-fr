@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Car tous les dieux des peuples ⟨sont⟩ des idoles, mais YHWH ⟨a⟩ fait les cieux.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "les dieux"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "des peuples"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "des idoles"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mais YHWH"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "les cieux"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a fait"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:59.314148540Z",
+  "model": "glm-4.5"
+}

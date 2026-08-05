@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Au chef de chœur. De David. Un psaume.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chœur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:21.525692728Z",
+  "model": "glm-4.5"
+}

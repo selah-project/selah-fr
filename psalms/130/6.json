@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 130,
+  "translation": "Mon nefesh est pour Adonaï plus que ceux qui guettent le matin, plus que ceux qui guettent le matin.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Mon nefesh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "est pour Adonaï"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "plus que ceux qui guettent"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "le matin"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "plus que ceux qui guettent"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "le matin"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:49.331904913Z",
+  "model": "glm-4.5"
+}

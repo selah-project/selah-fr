@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Et il les fit marcher par une voie droite pour aller ⟨vers⟩ une ville d'habitation",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Et il les fit marcher"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "par une voie"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "droite"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pour aller"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vers⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "une ville"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "d'habitation"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:26.758784145Z",
+  "model": "glm-4.5"
+}

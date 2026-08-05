@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Des yeux j'ai été ⟨pour⟩ l'aveugle, et des pieds ⟨pour⟩ le boiteux, moi.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "Des yeux"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "j'ai été"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "⟨pour⟩ l'aveugle"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "et des pieds"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "⟨pour⟩ le boiteux"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:46.298744234Z",
+  "model": "glm-4.5"
+}

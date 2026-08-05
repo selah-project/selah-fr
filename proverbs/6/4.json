@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Ne donne pas de sommeil à tes yeux, ni d'assoupissement à tes paupières",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "donne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sommeil"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "à tes yeux"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ni d'assoupissement"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "à tes paupières"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:29.141887208Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Je te louerai, YHWH, de tout ⟨mon⟩ cœur ; je raconterai toutes ⟨tes⟩ merveilles.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Je te louerai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "de tout"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "cœur"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "je raconterai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:34.956630634Z",
+  "model": "glm-4.5"
+}

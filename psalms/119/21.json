@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Tu as réprimandé les arrogants ⟨qui sont⟩ maudits, ceux qui s'égarent loin de tes commandements.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Tu as réprimandé"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "les arrogants"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "maudits"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "ceux qui s'égarent"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "loin de tes commandements"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:10.289869276Z",
+  "model": "glm-4.5"
+}

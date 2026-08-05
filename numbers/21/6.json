@@ -1,0 +1,67 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Et YHWH envoya contre le peuple ⟨את⟩ les serpents brûlants, et ils mordirent ⟨את⟩ le peuple, et mourut un peuple nombreux d'Israël.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Et envoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "contre le peuple"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les serpents brûlants"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "les serpents"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "brûlants"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "et ils mordirent"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le peuple"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "et mourut"
+    },
+    {
+      "surface": "עם",
+      "gloss": "un peuple"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-04T21:45:06.928381935Z",
+  "model": "glm-4.5"
+}

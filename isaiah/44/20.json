@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Il paît de la cendre, un cœur séduit l’a dévoyé, et il ne délivrera pas ⟨את⟩ sa nefesh, et il ne dira pas : n’y a-t-il pas un mensonge dans ma main droite ?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Il paît"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "de la cendre"
+    },
+    {
+      "surface": "לב",
+      "gloss": "un cœur"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "séduit"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "l’a dévoyé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "délivrera pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa nefesh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et il ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dira pas"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "n’y a-t-il pas"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "un mensonge"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "dans ma main droite"
+    }
+  ],
+  "timestamp": "2026-08-04T22:30:48.669121324Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Mais Toi, YHWH Adonaï, agis avec moi pour ⟨l'amour de⟩ ton Nom, car ton hessed est bon, délivre-moi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mais Toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "agis"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pour"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton Nom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "est bon"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "délivre-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:10.238832681Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Tout le labeur de l'homme ⟨est⟩ pour sa bouche, et même la nefesh ne se remplit pas.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "le labeur"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "לְפִ֑יהוּ",
+      "gloss": "pour sa bouche"
+    },
+    {
+      "surface": "וְגַם",
+      "gloss": "et même"
+    },
+    {
+      "surface": "הַנֶּ֖פֶשׁ",
+      "gloss": "la nefesh"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "תִמָּלֵֽא",
+      "gloss": "se remplit"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:23.345622515Z",
+  "model": "glm-5.2"
+}

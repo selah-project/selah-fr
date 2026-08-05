@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Le désir de l'homme, c'est son hessed, et un pauvre vaut mieux qu'un menteur.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "le désir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "c'est son hessed"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "et un pauvre vaut mieux"
+    },
+    {
+      "surface": "רש",
+      "gloss": "pauvre"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "qu'un homme"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "menteur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:32.759695908Z",
+  "model": "glm-4.5"
+}

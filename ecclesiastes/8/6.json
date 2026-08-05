@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Car à tout désir il y a un temps et un jugement, car le mal de l'humain est grand sur lui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "à tout"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "désir"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "עת",
+      "gloss": "un temps"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "et un jugement"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "de l'humain"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "est grand"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    }
+  ],
+  "timestamp": "2026-08-05T04:38:27.018621657Z",
+  "model": "glm-4.5"
+}

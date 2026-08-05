@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "La nefesh du travailleur travaille pour lui car sa bouche le presse sur lui",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "La nefesh"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "du travailleur"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "travaille"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "presse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:12.730152551Z",
+  "model": "glm-4.5"
+}

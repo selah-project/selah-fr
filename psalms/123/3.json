@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 123,
+  "translation": "Fais-nous grâce, YHWH, fais-nous grâce, car grandement notre âme est rassasiée de mépris.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Fais-nous grâce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "fais-nous grâce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רב",
+      "gloss": "grandement"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "notre âme est rassasiée"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "de mépris"
+    }
+  ],
+  "timestamp": "2026-08-05T02:48:23.248987425Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Délivre-moi de mes ennemis, mon Élohim ; de mes adversaires, protège-moi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Délivre-moi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "de mes ennemis"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "de mes adversaires"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "protège-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:18.227942581Z",
+  "model": "glm-4.5"
+}

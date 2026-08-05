@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Élohim, fais-nous revenir, et fais briller ta face, et nous serons sauvés.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "fais-nous revenir"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "et fais briller"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "et nous serons sauvés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:04.462796954Z",
+  "model": "glm-4.5"
+}

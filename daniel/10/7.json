@@ -1,0 +1,99 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et je vis, moi Daniel, seul ⟨את⟩ la vision, et les hommes qui étaient avec moi ne virent pas ⟨את⟩ la vision, mais une grande frayeur tomba sur eux et ils s'enfuirent pour se cacher.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Et je vis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "seul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vision"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "la vision"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "et les hommes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "היו",
+      "gloss": "étaient"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "avec moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "virent pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la vision"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "la vision"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "mais"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "une frayeur"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "grande"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "tomba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sur eux"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "et ils s'enfuirent"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "pour se cacher"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:23.660939019Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 126,
+  "translation": "Un chant des montées. Au retour de YHWH, ⟨את⟩ le retour de Sion, nous étions comme des rêveurs.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Un chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Au retour"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le retour de Sion"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "le retour"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nous étions"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "comme des rêveurs"
+    }
+  ],
+  "timestamp": "2026-08-05T02:50:33.468200441Z",
+  "model": "glm-4.5"
+}

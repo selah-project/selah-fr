@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Nous ne les cacherons point ⟨à⟩ leurs fils ; racontant à la génération ⟨à⟩ venir les louanges de YHWH, et ⟨sa⟩ force, et ⟨ses⟩ merveilles qu'Il a faites.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nous ne"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "les cacherons point"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "⟨à⟩ leurs fils"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "racontant à la génération"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "⟨à⟩ venir"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "⟨en⟩ racontant"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "les louanges de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "et ⟨sa⟩ force"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "et ⟨ses⟩ merveilles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Il a faites"
+    }
+  ],
+  "timestamp": "2026-08-05T02:06:29.236762266Z",
+  "model": "glm-4.5"
+}

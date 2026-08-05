@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Prête l'oreille, Élohim, ⟨à⟩ ma prière, et ne te cache pas ⟨de⟩ ma supplication.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Prête l'oreille"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "⟨à⟩ ma prière"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "te cache pas"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "⟨de⟩ ma supplication"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:10.530488363Z",
+  "model": "glm-4.5"
+}

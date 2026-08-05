@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 93,
+  "translation": "Tes témoignages ⟨sont⟩ très fermes ; la sainteté convient à ta maison, YHWH, pour la longueur des jours.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Tes témoignages"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "⟨sont⟩ très fermes"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "à ta maison"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "convient"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "la sainteté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "pour la longueur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "des jours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:31.771703126Z",
+  "model": "glm-4.5"
+}

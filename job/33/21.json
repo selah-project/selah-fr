@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 33:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Sa chair se consomme de sorte qu'elle n'est plus vue, et ⟨ses⟩ os qui n'étaient pas vus dépassent.",
+  "tokens": [
+    {
+      "surface": "יכל",
+      "gloss": "se consomme"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa chair"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "de sorte qu'elle n'est plus vue"
+    },
+    {
+      "surface": "ושפי",
+      "gloss": "et ⟨ses⟩"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "os"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'étaient pas"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vus"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:55.564770928Z",
+  "model": "glm-4.5"
+}

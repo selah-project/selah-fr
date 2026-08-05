@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Je ⟨suis⟩ une fleur de Sharon, un lis des vallées.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Je"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "une fleur"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "de Sharon"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "un lis"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "des vallées"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:18.883200499Z",
+  "model": "glm-4.5"
+}

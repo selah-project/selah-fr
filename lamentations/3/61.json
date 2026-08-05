@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Tu as entendu ⟨leur⟩ outrage, YHWH, tous ⟨leurs⟩ desseins contre moi",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "Tu as entendu"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "⟨leur⟩ outrage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "⟨leurs⟩ desseins"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    }
+  ],
+  "timestamp": "2026-08-05T04:30:22.449619487Z",
+  "model": "glm-4.5"
+}

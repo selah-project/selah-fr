@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Qui donnera de Sion ⟨la⟩ délivrance d'Israël ? Au retour de YHWH ⟨la⟩ captivité de son peuple, Jacob exultera, Israël se réjouira.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "donnera"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "de Sion"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "⟨la⟩ délivrance"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Au retour"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "⟨la⟩ captivité"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "de son peuple"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "Jacob exultera"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "Israël se réjouira"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T01:11:10.955188123Z",
+  "model": "glm-4.5"
+}

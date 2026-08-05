@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "YHWH le gardera et le fera vivre, il sera heureux sur la terre, et tu ne le livreras pas à l'âme de ses adversaires.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "le gardera"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "et le fera vivre"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "il sera heureux"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur la terre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et tu ne"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "le livreras pas"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "à l'âme"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "de ses adversaires"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:22.896383770Z",
+  "model": "glm-4.5"
+}

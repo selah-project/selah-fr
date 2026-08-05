@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Éloigne de moi l'insulte et le mépris, car j'ai gardé tes témoignages.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Éloigne"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "l'insulte"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "et le mépris"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tes témoignages"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "j'ai gardé"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:10.290077587Z",
+  "model": "glm-4.5"
+}

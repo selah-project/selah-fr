@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "El ⟨qui⟩ me ceint de vigueur, et rend ⟨parfait⟩ ma route",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "⟨qui⟩ me ceint"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "de vigueur"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "et rend"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "⟨parfait⟩"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ma route"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:50.100448779Z",
+  "model": "glm-4.5"
+}

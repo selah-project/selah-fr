@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Mon cœur tourbillone en ⟨mon⟩ sein, et ⟨les⟩ terreurs de ⟨la⟩ mort sont tombées sur moi",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "tourbillone"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "en ⟨mon⟩ sein"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "et ⟨les⟩ terreurs"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de ⟨la⟩ mort"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sont tombées"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:19.922699699Z",
+  "model": "glm-4.5"
+}

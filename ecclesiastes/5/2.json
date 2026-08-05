@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car le rêve vient ⟨avec⟩ la multitude des affaires et la voix de l'insensé ⟨avec⟩ la multitude des paroles.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vient"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "le rêve"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "⟨avec⟩ la multitude"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "des affaires"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "et la voix"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "de l'insensé"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "⟨avec⟩ la multitude"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "des paroles"
+    }
+  ],
+  "timestamp": "2026-08-05T04:36:19.022555917Z",
+  "model": "glm-4.5"
+}

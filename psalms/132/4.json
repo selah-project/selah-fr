@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Si je donne le sommeil ⟨à⟩ mes yeux, ⟨à⟩ mes paupières le sommeil",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "je donne"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "le sommeil"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "⟨à⟩ mes yeux"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "⟨à⟩ mes paupières"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "le sommeil"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:08.412200274Z",
+  "model": "glm-4.5"
+}

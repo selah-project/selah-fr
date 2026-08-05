@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "« Lève-toi ! Car sur toi ⟨est⟩ ⟨le⟩ fardeau, et nous ⟨sommes⟩ avec toi ; sois fort et agis ! »",
+  "tokens": [
+    {
+      "surface": "קוּם",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "עָלֶיךָ",
+      "gloss": "sur toi"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "le fardeau"
+    },
+    {
+      "surface": "וַאֲנַחְנוּ",
+      "gloss": "et nous"
+    },
+    {
+      "surface": "עִמָּךְ",
+      "gloss": "avec toi"
+    },
+    {
+      "surface": "חֲזַק",
+      "gloss": "sois fort"
+    },
+    {
+      "surface": "וַעֲשֵׂה",
+      "gloss": "et agis"
+    }
+  ],
+  "timestamp": "2026-08-05T05:38:59.266845306Z",
+  "model": "glm-5.2"
+}

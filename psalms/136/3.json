@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "Célebrez au Seigneur des seigneurs car pour toujours ⟨est⟩ son hessed",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Célebrez"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "au Seigneur"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "des seigneurs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:14.145873904Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Toi, tu as écrasé Rahab comme ⟨un⟩ transpercé, par le bras de ta force tu as dispersé tes ennemis",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "tu as écrasé"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "comme ⟨un⟩ transpercé"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "par le bras"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "de ta force"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "tu as dispersé"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tes ennemis"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:14.599103234Z",
+  "model": "glm-4.5"
+}

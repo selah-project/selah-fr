@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "jeremiah 10:22",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Une voix de rumeur, voici ⟨elle vient⟩, et un grand tumulte du pays du nord, pour faire ⟨des⟩ villes de Juda une désolation, un séjour de chacals.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Une voix"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "de rumeur"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "voici"
+    },
+    {
+      "surface": "באה",
+      "gloss": "⟨elle vient⟩"
+    },
+    {
+      "surface": "ורעש",
+      "gloss": "et un grand tumulte"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "du nord"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les villes"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "⟨des⟩ villes"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "une désolation"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "un séjour"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "de chacals"
+    }
+  ],
+  "timestamp": "2026-08-04T16:16:38.574280117Z",
+  "model": "glm-4.5"
+}

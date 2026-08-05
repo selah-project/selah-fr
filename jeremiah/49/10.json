@@ -1,0 +1,79 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Car moi j'ai mis ⟨à nu⟩ Esau, j'ai découvert ⟨את⟩ ses cachettes, et il ne peut pas être caché; pillé est ⟨את⟩ sa semence, et ses frères, et ses voisins, et il n'est plus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "j'ai mis ⟨à nu⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "j'ai découvert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses cachettes"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "ses cachettes"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "et il peut être caché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "il ne peut"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "est pillé"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sa semence"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "et ses frères"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "et ses voisins"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "et il n'est plus"
+    }
+  ],
+  "timestamp": "2026-08-04T23:05:56.375755610Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 34,
+  "translation": "Garde ta langue du mal, et tes lèvres de parler la tromperie.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Garde"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ta langue"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "du mal"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "et tes lèvres"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "de [parler]"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:27:00.145340248Z",
+  "model": "glm-4.5"
+}

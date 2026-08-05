@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et tu diras à eux : ainsi a dit YHWH : est-ce qu'ils tombent et ne se relèvent pas ? est-ce qu'ils se détournent et ne reviennent pas ?",
+  "tokens": [
+    {
+      "surface": "וְאָמַרְתָּ֣",
+      "gloss": "et tu diras"
+    },
+    {
+      "surface": "אֲלֵיהֶ֗ם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "כֹּ֚ה",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "אָמַ֣ר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "הֲיִפְּל֖וּ",
+      "gloss": "est-ce qu'ils tombent"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יָק֑וּמוּ",
+      "gloss": "se relèvent pas"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "est-ce qu'ils"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "se détournent"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יָשֽׁוּב",
+      "gloss": "reviennent pas"
+    }
+  ],
+  "timestamp": "2026-08-04T16:14:36.784385496Z",
+  "model": "glm-4.5"
+}

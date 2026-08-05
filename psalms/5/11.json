@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Déclare-les coupables, Élohim ; qu'ils tombent par leurs propres desseins ; chasse-les dans la multitude de leurs transgressions, car ils se sont révoltés contre toi.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "déclare-les coupables"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "qu'ils tombent"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "par leurs propres desseins"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "dans la multitude"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "de leurs transgressions"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "chasse-les"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ils se sont révoltés"
+    },
+    {
+      "surface": "בך",
+      "gloss": "contre toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:46.350121968Z",
+  "model": "glm-4.5"
+}

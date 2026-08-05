@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Par le souffle d'El ⟨il⟩ donne du gel, et la largeur des eaux est resserrée.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "Par le souffle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨il⟩ donne"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "du gel"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "et la largeur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "est resserrée"
+    }
+  ],
+  "timestamp": "2026-08-05T04:12:00.104777560Z",
+  "model": "glm-4.5"
+}

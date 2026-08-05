@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Et il outragea ⟨את⟩ Israël, et le frappa Yehonatan, fils de Shim'a, frère de David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "et il outragea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "et le frappa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shim'a"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "frère de"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-05T05:55:17.975047312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et sortit Mosheh de ⟨de⟩ chez Paroh et implora YHWH.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Et sortit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "de ⟨de⟩ chez",
+      "marks": "chez Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "et implora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "auprès de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T18:53:22.311659112Z",
+  "model": "glm-4.5"
+}

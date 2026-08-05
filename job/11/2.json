@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Une multitude de mots ne ⟨sera⟩ pas répondue, et si ⟨un⟩ homme de lèvres est justifié",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "une multitude"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "de mots"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "⟨sera⟩ pas répondue"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨un⟩ homme"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "de lèvres"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "est justifié"
+    }
+  ],
+  "timestamp": "2026-08-05T03:52:18.675365207Z",
+  "model": "glm-4.5"
+}

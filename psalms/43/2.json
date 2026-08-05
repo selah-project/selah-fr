@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 43,
+  "translation": "Car toi, ⟨tu es⟩ Élohim de ma forteresse ; pourquoi m'as-tu rejeté ? pourquoi aller marcher dans le deuil ⟨à cause⟩ de l'oppression de l'ennemi ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "de ma forteresse"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "m'as-tu rejeté"
+    },
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "aller"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "marcher"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "dans le deuil"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de l'oppression de l'ennemi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:58.696000122Z",
+  "model": "glm-4.5"
+}

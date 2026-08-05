@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Quand les piliers sont renversés, ⟨le⟩ juste, qu'a-t-il fait ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Quand"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "les piliers"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "sont renversés"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨le⟩ juste"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quoi"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "a-t-il fait"
+    }
+  ],
+  "timestamp": "2026-08-05T01:08:18.778800470Z",
+  "model": "glm-4.5"
+}

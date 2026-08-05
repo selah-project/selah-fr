@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 35:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Il nous instruit plus que ⟨les⟩ bêtes de la terre, et il nous rend sages plus que ⟨le⟩ vol ⟨des⟩ cieux.",
+  "tokens": [
+    {
+      "surface": "מלפנו",
+      "gloss": "Il nous instruit"
+    },
+    {
+      "surface": "מבהמות",
+      "gloss": "plus que"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bêtes de la terre"
+    },
+    {
+      "surface": "ומעוף",
+      "gloss": "et plus que"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "vol des cieux"
+    },
+    {
+      "surface": "יחכמנו",
+      "gloss": "il nous rend sages"
+    }
+  ],
+  "timestamp": "2026-08-05T04:10:39.612556085Z",
+  "model": "glm-4.5"
+}

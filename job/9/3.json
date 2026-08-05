@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "S'il ⟨ voulait⟩ contester avec lui, il ne pourrait lui répondre une sur mille.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "voulait"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "contester"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "avec lui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "pourrait répondre"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "une"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "mille"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:42.295371824Z",
+  "model": "glm-4.5"
+}

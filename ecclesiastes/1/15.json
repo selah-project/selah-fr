@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Ce qui ⟨est⟩ tordu ne peut pas être redressé, et ce qui manque ne peut pas être dénombré.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ce qui ⟨est⟩ tordu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "peut"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "être redressé"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "et ce qui manque"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "peut"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "être dénombré"
+    }
+  ],
+  "timestamp": "2026-08-05T04:32:59.604419622Z",
+  "model": "glm-4.5"
+}

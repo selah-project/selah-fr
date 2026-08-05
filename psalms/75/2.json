@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Nous te confessons, ô Élohim, nous te confessons, et proche ⟨est⟩ ton nom, racontent tes merveilles.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Nous te confessons"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "nous te confessons"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "et proche"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "racontent"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tes merveilles"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:07.815437807Z",
+  "model": "glm-4.5"
+}

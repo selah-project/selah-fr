@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Une brûlante indignation ⟨a⟩ saisi ⟨moi⟩ à cause des méchants qui abandonnent ta Torah.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "brûlante indignation"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "⟨a⟩ saisi ⟨moi⟩"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "à cause des méchants"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "qui abandonnent"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ta Torah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:14.941703234Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Car ils ne parlent pas shalom, et contre les paisibles du pays ils trament des paroles trompeuses.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils ne"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "parlent pas shalom"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "et contre"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "les paisibles du pays"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ils trament"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "des paroles"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "trompeuses"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": ""
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:15.245084538Z",
+  "model": "glm-4.5"
+}

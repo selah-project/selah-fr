@@ -1,0 +1,81 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "À cause du péché de Jacob ⟨est⟩ tout cela, et à cause des transgressions de la maison d'Israël. Qu'est-ce que le péché de Jacob ? N'est-ce pas ⟨Samarie⟩ ? Et qu'est-ce que les hauts-lieux de Juda ? N'est-ce pas ⟨Jérusalem⟩ ?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "À cause du péché"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "et à cause des transgressions"
+    },
+    {
+      "surface": "בית",
+      "gloss": "de la maison"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Qu'est-ce que"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "le péché"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samarie"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "et qu'est-ce que"
+    },
+    {
+      "surface": "במות",
+      "gloss": "les hauts-lieux"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "de Juda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "N'est-ce pas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jérusalem"
+    }
+  ],
+  "timestamp": "2026-08-05T00:25:33.409743499Z",
+  "model": "glm-4.5"
+}

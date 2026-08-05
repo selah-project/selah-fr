@@ -1,0 +1,74 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et YHWH dit ⟨au⟩ Satan : D'où viens-tu ? Et le Satan répondit ⟨à⟩ YHWH et dit : De parcourir la terre et d'aller et venir ⟨en⟩ elle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨au⟩"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "d'où"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "viens-tu"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "et répondit"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "le Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "de parcourir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "et d'aller et venir"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨en⟩ elle"
+    }
+  ],
+  "timestamp": "2026-08-05T03:41:51.531405981Z",
+  "model": "glm-4.5"
+}

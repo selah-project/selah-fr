@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "En ce jour-là, vint ⟨le⟩ nombre des tués à Suse la capitale, devant ⟨le⟩ roi",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "En ce jour"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-là"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vint"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨le⟩ nombre"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "des tués"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "à Suse"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "la capitale"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ roi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:04:00.044619921Z",
+  "model": "glm-4.5"
+}

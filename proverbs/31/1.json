@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Paroles de Lemouel, roi — l'oracle que sa mère lui enseigna.",
+  "tokens": [
+    {
+      "surface": "דִּ֭בְרֵי",
+      "gloss": "Paroles de"
+    },
+    {
+      "surface": "לְמוּאֵ֣ל",
+      "gloss": "Lemouel"
+    },
+    {
+      "surface": "מֶ֑לֶךְ",
+      "gloss": "roi"
+    },
+    {
+      "surface": "מַ֝שָּׂ֗א",
+      "gloss": "l'oracle"
+    },
+    {
+      "surface": "אֲֽשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יִסְּרַ֥תּוּ",
+      "gloss": "enseigna"
+    },
+    {
+      "surface": "אִמּֽוֹ",
+      "gloss": "sa mère"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:05.400381708Z",
+  "model": "glm-5.2"
+}

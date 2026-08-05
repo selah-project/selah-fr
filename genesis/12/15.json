@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et les princes de Pharaon la virent et la louèrent à Pharaon ; et la femme fut prise ⟨dans⟩ ⟨la⟩ maison de Pharaon.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Et ils virent"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "la",
+      "marks": "les princes de Pharaon la virent"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "princes"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "et ils louèrent"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "la",
+      "marks": "la louèrent à Pharaon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "et fut prise"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "la femme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maison"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "de Pharaon"
+    }
+  ],
+  "timestamp": "2026-08-04T18:43:04.223898426Z",
+  "model": "glm-4.5"
+}

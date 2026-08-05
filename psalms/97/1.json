@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "YHWH ⟨a⟩ régné, ⟨la⟩ terre exulte, ⟨les⟩ nombreuses îles se réjouissent",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨a⟩ régné"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "exulte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se réjouissent"
+    },
+    {
+      "surface": "איים",
+      "gloss": "îles"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreuses"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:51.304258587Z",
+  "model": "glm-4.5"
+}

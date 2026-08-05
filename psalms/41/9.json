@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Une parole de Belial ⟨est⟩ versée sur lui, et ⟨celui⟩ qui ⟨s'est⟩ couché n'ajoutera pas à se lever.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Une parole"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "de Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "versée"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "celui qui couché"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ajoutera"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "à se lever"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:33.190368942Z",
+  "model": "glm-4.5"
+}

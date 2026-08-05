@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et Yéshoua engendra ⟨את⟩ Yoyaqim, et Yoyaqim engendra ⟨את⟩ Elyashiv, et Elyashiv ⟨engendra⟩ ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Et Yéshoua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyaqim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyaqim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "et Yoyaqim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "et Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-08-05T05:43:15.818886847Z",
+  "model": "glm-5.2"
+}

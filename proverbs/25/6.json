@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Ne te glorifie pas devant ⟨le⟩ roi, et au lieu des grands ne te tiens pas.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "te glorifie pas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨le⟩ roi"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "et au lieu"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "des grands"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "te tiens pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:34:23.980661785Z",
+  "model": "glm-4.5"
+}

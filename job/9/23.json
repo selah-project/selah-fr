@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Si le fouet tue soudain, il se moque du désespoir des innocents.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "le fouet"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "tue"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "soudain"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "du désespoir"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "des innocents"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "il se moque"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:59.092606769Z",
+  "model": "glm-4.5"
+}

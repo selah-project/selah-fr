@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "J'ai désiré ton salut, YHWH, et ta Torah est mon délice.",
+  "tokens": [
+    {
+      "surface": "תאבתי",
+      "gloss": "J'ai désiré"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ton salut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "et ta Torah"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mon délice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:58.980513895Z",
+  "model": "glm-4.5"
+}

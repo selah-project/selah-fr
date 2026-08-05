@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "N'ajoute pas à ses paroles, de peur qu'il ne te reprenne et que tu sois trouvé menteur",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "N'"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "על",
+      "gloss": "à"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ses paroles"
+    },
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "il ne te reprenne"
+    },
+    {
+      "surface": "בך",
+      "gloss": "toi"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "et que tu sois trouvé menteur"
+    }
+  ],
+  "timestamp": "2026-08-05T03:39:24.378773786Z",
+  "model": "glm-4.5"
+}

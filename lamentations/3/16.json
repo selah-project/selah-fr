@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et il a broyé ⟨mes⟩ dents avec du gravier, il m'a couvert de cendre.",
+  "tokens": [
+    {
+      "surface": "ואגרס",
+      "gloss": "Et il a broyé"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "avec du gravier"
+    },
+    {
+      "surface": "שני",
+      "gloss": "⟨mes⟩ dents"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "il m'a couvert"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "de cendre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:29:44.676521506Z",
+  "model": "glm-4.5"
+}

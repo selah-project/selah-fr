@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "avant que ne s'obscurcissent ⟨le⟩ soleil, et ⟨la⟩ lumière, et ⟨la⟩ lune, et ⟨les⟩ étoiles, et que reviennent les nuages après la pluie.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "avant que"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "s'obscurcissent"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨le⟩ soleil"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "et ⟨la⟩ lumière"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "et ⟨la⟩ lune"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "et ⟨les⟩ étoiles"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "et que reviennent"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "les nuages"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "après"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "la pluie"
+    }
+  ],
+  "timestamp": "2026-08-05T04:52:19.758201152Z",
+  "model": "glm-4.5"
+}

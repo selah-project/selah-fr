@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car meilleur ⟨est⟩ son gain que le gain de l'argent, et que l'or, son revenu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "meilleur"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "son gain"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "que le gain"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "et que l'or"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "son revenu"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:29.192862875Z",
+  "model": "glm-4.5"
+}

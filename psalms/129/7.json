@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 129,
+  "translation": "Dont ⟨le⟩ moissonneur ne remplit pas sa main, ni ⟨celui⟩ qui lie les gerbes son sein.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "dont... ne pas"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "remplit"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "⟨le⟩ moissonneur"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ni... son"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "celui qui lie les gerbes \/ son sein"
+    }
+  ],
+  "timestamp": "2026-08-05T02:53:00.314967046Z",
+  "model": "glm-4.5"
+}

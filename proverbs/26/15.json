@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "L'indolent enfonce sa main dans le plat ; il lasse de la ramener à sa bouche.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "enfonce"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "l'indolent"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "dans le plat"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "il lasse"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "de la ramener"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:18.896909830Z",
+  "model": "glm-4.5"
+}

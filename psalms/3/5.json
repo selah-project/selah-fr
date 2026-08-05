@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Ma voix vers YHWH je crie, et il me répond de sa montagne sainte. Séla.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "et il me répond"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "de la montagne"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa sainte"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:02:24.663198446Z",
+  "model": "glm-4.5"
+}

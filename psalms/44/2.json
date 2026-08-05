@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Élohim, nous avons entendu de nos oreilles, nos pères ⟨nous⟩ ont raconté l'œuvre que tu as faite à leurs jours, aux jours d'autrefois.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "de nos oreilles"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "nous avons entendu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "nos pères"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ont raconté"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨nous⟩"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "l'œuvre"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "que tu as faite"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "à leurs jours"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "aux jours"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "d'autrefois"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:46.416087906Z",
+  "model": "glm-4.5"
+}

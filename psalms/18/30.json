@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car par toi je cours contre une troupe, et par mon Élohim je franchis ⟨une⟩ muraille.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בך",
+      "gloss": "par toi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "je cours"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "contre une troupe"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "et par mon Élohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "je franchis"
+    },
+    {
+      "surface": "שור",
+      "gloss": "⟨une⟩ muraille"
+    }
+  ],
+  "timestamp": "2026-08-05T01:15:03.725283135Z",
+  "model": "glm-4.5"
+}

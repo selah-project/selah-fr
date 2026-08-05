@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "L'âme du paresseux désire, et il n'y a rien, et l'âme des diligents sera engraissée.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "désire"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "rien"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "L'âme du paresseux"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "et l'âme"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "des diligents"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "sera engraissée"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:08.397055279Z",
+  "model": "glm-4.5"
+}

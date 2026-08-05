@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "Mes vœux à YHWH, je ⟨les⟩ acquitterai, maintenant devant tout son peuple.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Mes vœux"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "à YHWH"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "je ⟨les⟩ acquitterai"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "devant"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maintenant"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "son peuple"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:42.178334965Z",
+  "model": "glm-4.5"
+}

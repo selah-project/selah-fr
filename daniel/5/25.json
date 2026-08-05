@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et voici l'écriture qui est inscrite : MENÉ MENÉ TÉKEL ET PARSÎN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Et voici"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "l'écriture"
+    },
+    {
+      "surface": "די",
+      "gloss": "qui"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "est inscrite"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENÉ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENÉ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TÉKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ET PARSÎN"
+    }
+  ],
+  "timestamp": "2026-08-05T05:11:17.391421965Z",
+  "model": "glm-4.5"
+}

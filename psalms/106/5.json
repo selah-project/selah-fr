@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Pour voir ⟨le⟩ bien de tes élus, pour se réjouir de ⟨la⟩ joie de ta nation, pour se glorifier avec ton héritage",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "Pour voir"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "⟨le⟩ bien de"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "tes élus"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "pour se réjouir"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "de ⟨la⟩ joie de"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ta nation"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "pour se glorifier"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ton héritage"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:50.695052130Z",
+  "model": "glm-4.5"
+}

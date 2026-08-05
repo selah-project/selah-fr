@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Car Yah a choisi Jacob pour lui, Israël pour son trésor particulier.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a choisi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "pour son trésor particulier"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:14.637462153Z",
+  "model": "glm-4.5"
+}

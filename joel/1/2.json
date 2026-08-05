@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Écoutez ceci, ⟨vous⟩ les anciens, et prêtez l'oreille, tous les habitants du pays. ⟨Cela⟩ a-t-il ⟨été⟩ ⟨dans⟩ vos jours, ou même ⟨dans⟩ les jours de vos pères ?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ceci"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "⟨vous⟩ les anciens"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "et prêtez l'oreille"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "les habitants"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "du pays"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "⟨Cela⟩ a-t-il ⟨été⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "⟨dans⟩ vos jours"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ou"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "⟨dans⟩ les jours"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "de vos pères"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:19.472313971Z",
+  "model": "glm-4.5"
+}

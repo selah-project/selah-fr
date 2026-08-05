@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Voici, dans l'iniquité j'ai été façonné, et dans le péché ma mère m'a conçu.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "dans l'iniquité"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "j'ai été façonné"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "et dans le péché"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ma mère m'a conçu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ma mère"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:36.553691237Z",
+  "model": "glm-4.5"
+}

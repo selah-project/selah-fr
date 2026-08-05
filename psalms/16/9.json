@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Aussi mon cœur ⟨est⟩ joyeux, et ma gloire ⟨se⟩ réjouit ; même ma chair demeurera en sécurité.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Aussi"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "⟨est⟩ joyeux"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "et ma gloire ⟨se⟩ réjouit"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ma gloire"
+    },
+    {
+      "surface": "אף",
+      "gloss": "même"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ma chair"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "demeurera"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "en sécurité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:16.149449260Z",
+  "model": "glm-4.5"
+}

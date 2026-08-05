@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Un riche est sage à ses yeux, mais un pauvre intelligent sondera ⟨bien⟩.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "sage"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "à ses yeux"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "riche"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "et un pauvre"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "intelligent"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "sondera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:15.499603729Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Je sais que tout tu peux et ⟨aucun⟩ projet ⟨ne⟩ sera retenu de toi",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Je sais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tu peux"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ⟨aucun⟩"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "sera retenu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "projet"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:17.337834183Z",
+  "model": "glm-4.5"
+}

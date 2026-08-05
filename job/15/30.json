@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Il ne détournera pas des ténèbres, son rejeton séchera par la flamme, ⟨et⟩ il détournera par le souffle de sa bouche.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Il ne"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "détournera pas"
+    },
+    {
+      "surface": "מני",
+      "gloss": "des"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ténèbres"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "son rejeton"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "séchera"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "par la flamme"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "⟨et⟩ il détournera"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "par le souffle"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "de sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-05T03:55:22.498390803Z",
+  "model": "glm-4.5"
+}

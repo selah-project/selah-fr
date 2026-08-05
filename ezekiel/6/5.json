@@ -1,0 +1,63 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et je mettrai ⟨את⟩ les cadavres des fils d'Israël devant leurs idoles, et je disperserai ⟨את⟩ vos os autour de vos autels",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Et je mettrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les cadavres des fils d'Israël"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "les cadavres"
+    },
+    {
+      "surface": "בני",
+      "gloss": "des fils"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "leurs idoles"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "et je disperserai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vos os"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "vos os"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "autour de"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "vos autels"
+    }
+  ],
+  "timestamp": "2026-08-04T23:16:30.160342442Z",
+  "model": "glm-4.5"
+}

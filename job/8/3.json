@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Est-ce ⟨que⟩ El pervertit le jugement et si Shaddaï pervertit la justice",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Est-ce ⟨que⟩ El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "pervertit"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le jugement"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaï"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "pervertit"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "la justice"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:51.220135111Z",
+  "model": "glm-4.5"
+}

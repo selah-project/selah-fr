@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "On ne ⟨donnera⟩ pas de l'or ⟨pur⟩ ⟨pour⟩ elle et l'argent ne sera pas pesé ⟨comme⟩ son prix",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "On ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨donnera⟩"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "de l'or ⟨pur⟩"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "⟨pour⟩ elle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "l'argent ne sera pas pesé"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "l'argent"
+    },
+    {
+      "surface": "מחירה",
+      "gloss": "⟨comme⟩ son prix"
+    }
+  ],
+  "timestamp": "2026-08-05T04:05:09.105703765Z",
+  "model": "glm-4.5"
+}

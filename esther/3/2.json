@@ -1,0 +1,89 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "esther 3:2",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "et tous les serviteurs du roi qui ⟨étaient⟩ à la porte du roi s'inclinaient et se prosternaient devant Haman car ainsi avait commandé le roi pour lui et Mordecai ne s'inclinait pas et ne se prosternait pas",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "les serviteurs de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "à la porte de"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "s'inclinaient"
+    },
+    {
+      "surface": "ומשתחוים",
+      "gloss": "et se prosternaient"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "devant Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ainsi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "avait commandé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "et Mordecai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "s'inclinait pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "se prosternait pas"
+    }
+  ],
+  "timestamp": "2026-08-05T04:55:29.795159935Z",
+  "model": "glm-4.5"
+}

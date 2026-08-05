@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 75,
+  "translation": "Et toutes les cornes des méchants, je les couperai ; les cornes du juste ⟨seront⟩ exaltées.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Et toutes"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "les cornes"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "je les couperai"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "⟨seront⟩ exaltées"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "les cornes"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    }
+  ],
+  "timestamp": "2026-08-05T02:03:01.431035710Z",
+  "model": "glm-4.5"
+}

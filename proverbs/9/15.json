@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 9:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "pour appeler ⟨les⟩ passants sur le chemin, ⟨ceux qui⟩ vont droits sur leurs routes,",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "pour appeler"
+    },
+    {
+      "surface": "לעברי",
+      "gloss": "les passants"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sur le chemin"
+    },
+    {
+      "surface": "המישרים",
+      "gloss": "ceux qui vont droits"
+    },
+    {
+      "surface": "ארחותם",
+      "gloss": "sur leurs routes"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:46.375885822Z",
+  "model": "glm-4.5"
+}

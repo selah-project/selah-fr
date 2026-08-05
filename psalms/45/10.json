@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 45,
+  "translation": "Filles de rois ⟨sont⟩ parmi tes précieuses : la reine se tient à ta droite, en or d'Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "filles"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "de rois"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "parmi tes précieuses"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "⟨la reine⟩ se tient"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "reine"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "à ta droite"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "en or"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "d'Ophir"
+    }
+  ],
+  "timestamp": "2026-08-05T01:38:25.630911932Z",
+  "model": "glm-4.5"
+}

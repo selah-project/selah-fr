@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "job 21:11",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 21,
+  "translation": "Ils envoient leurs petits comme le petit bétail, et leurs enfants sautent.",
+  "tokens": [
+    {
+      "surface": "ישלחו",
+      "gloss": "Ils envoient"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "comme le petit bétail"
+    },
+    {
+      "surface": "עויליהם",
+      "gloss": "leurs petits"
+    },
+    {
+      "surface": "וילדיהם",
+      "gloss": "et leurs enfants"
+    },
+    {
+      "surface": "ירקדון",
+      "gloss": "sautent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:14.036532653Z",
+  "model": "glm-4.5"
+}

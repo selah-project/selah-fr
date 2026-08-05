@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Le nord et le midi, tu les as créés ; le Tabor et l'Hermon se réjouissent en ton nom.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Le nord"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "et le midi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "les as créés"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "le Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "et l'Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "en ton nom"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "se réjouissent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:21.735961160Z",
+  "model": "glm-4.5"
+}

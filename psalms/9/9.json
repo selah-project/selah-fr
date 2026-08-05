@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et il jugera ⟨la⟩ terre dans la droiture, il jugera les peuples dans l'équité",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Et il"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "jugera"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "dans la droiture"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "il jugera"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "dans l'équité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:06:25.940677216Z",
+  "model": "glm-4.5"
+}

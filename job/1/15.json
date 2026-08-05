@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et Sheba ⟨est⟩ tombée, et les a pris, et ⟨את⟩ les jeunes gens ⟨ont⟩ frappés à la bouée de l'épée, et je me suis échappé, seulement moi seul, pour te ⟨le⟩ rapporter",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "et Sheba ⟨est⟩ tombée"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "et les a pris"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "les jeunes gens"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "les jeunes gens"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "⟨ont⟩ frappés"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "à la bouée de"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "et je me suis échappé"
+    },
+    {
+      "surface": "רק",
+      "gloss": "seulement"
+    },
+    {
+      "surface": "אני",
+      "gloss": "moi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "seul"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "pour rapporter"
+    },
+    {
+      "surface": "לך",
+      "gloss": "te ⟨le⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T03:42:00.788071112Z",
+  "model": "glm-4.5"
+}

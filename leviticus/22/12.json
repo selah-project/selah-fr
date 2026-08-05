@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et ⟨la⟩ fille ⟨d'un⟩ prêtre, quand elle ⟨devient⟩ ⟨à⟩ un homme étranger, elle, des prélèvements des choses saintes elle ne mangera pas.",
+  "tokens": [
+    {
+      "surface": "וּבַת",
+      "gloss": "et fille"
+    },
+    {
+      "surface": "כֹּהֵ֔ן",
+      "gloss": "prêtre"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תִהְיֶ֖ה",
+      "gloss": "elle devient"
+    },
+    {
+      "surface": "לְאִ֣ישׁ",
+      "gloss": "à un homme"
+    },
+    {
+      "surface": "זָ֑ר",
+      "gloss": "étranger"
+    },
+    {
+      "surface": "הִ֕וא",
+      "gloss": "elle"
+    },
+    {
+      "surface": "בִּתְרוּמַ֥ת",
+      "gloss": "des prélèvements"
+    },
+    {
+      "surface": "הַקֳּדָשִׁ֖ים",
+      "gloss": "des choses saintes"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "תֹאכֵֽל",
+      "gloss": "mangera"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:14.044936350Z",
+  "model": "glm-5.2"
+}

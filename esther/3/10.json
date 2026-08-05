@@ -1,0 +1,66 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Et le roi retira son anneau de sa main et le donna à Haman, fils de Hammedatha, l'Agagite, l'adversaire des Juifs.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "et il retira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son anneau"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "son anneau"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "de"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "et il le donna"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "à Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hammedatha"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "l'Agagite"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "l'adversaire"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "des Juifs"
+    }
+  ],
+  "timestamp": "2026-08-05T04:55:39.817912089Z",
+  "model": "glm-4.5"
+}

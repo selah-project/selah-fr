@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "L'utérus l'oublie, le ver le mange doucement, il ne sera plus souvenir, et l'injustice se brise comme un arbre.",
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "l'oublie"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "l'utérus"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "le mange doucement"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "le ver"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne pas"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "souvenir"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "se brise"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "comme un arbre"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "l'injustice"
+    }
+  ],
+  "timestamp": "2026-08-05T04:02:22.237194442Z",
+  "model": "glm-4.5"
+}

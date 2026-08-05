@@ -1,0 +1,90 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et tu prendras ⟨le⟩ shemèn de la onction, et tu oindras ⟨את⟩ le mishkan et ⟨את⟩ tout ce qui ⟨est⟩ en lui, et tu consacreras ⟨את⟩ lui et ⟨את⟩ tous ses instruments, et il sera saint.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Et tu prendras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shemèn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "shemèn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "de la onction"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "et tu oindras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "le mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tout"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨est⟩ en lui"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "et tu consacreras"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ lui",
+      "marks": "et ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "tous"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ses instruments"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "et il sera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "saint"
+    }
+  ],
+  "timestamp": "2026-08-04T18:59:35.572202222Z",
+  "model": "glm-4.5"
+}

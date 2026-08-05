@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Car à l'ombre de la sagesse, à l'ombre de l'argent, et l'avantage du savoir est que la sagesse fait vivre ses maîtres.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "à l'ombre"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "de la sagesse"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "à l'ombre"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "de l'argent"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "et l'avantage"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "du savoir"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "est que la sagesse"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "fait vivre"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ses maîtres"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:41.701750707Z",
+  "model": "glm-4.5"
+}

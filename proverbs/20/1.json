@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Le vin ⟨est⟩ un moqueur, la boisson forte ⟨est⟩ du bruit, et quiconque s'égare en elle ne sera pas sage.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "moqueur"
+    },
+    {
+      "surface": "היין",
+      "gloss": "le vin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "du bruit"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "boisson forte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et quiconque"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "s'égare"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en elle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "sera pas sage"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:19.006215899Z",
+  "model": "glm-4.5"
+}

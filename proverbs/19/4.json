@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "La richesse ajoute beaucoup d'amis, et le pauvre ⟨est⟩ séparé de son ami.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "La richesse"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ajoute"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "beaucoup d'amis"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "beaucoup"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "et le pauvre"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "de son ami"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "⟨est⟩ séparé"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:16.940785766Z",
+  "model": "glm-4.5"
+}

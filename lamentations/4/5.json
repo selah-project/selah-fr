@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Ceux qui ⟨mangent⟩ des mets délicats sont stupéfaits dans les rues ; ceux nourris sur du cramoisi ⟨sont⟩ ⟨aux⟩ tas d'immondices, ⟨ils⟩ ont embrassé.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "Ceux qui ⟨mangent⟩"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "des mets délicats"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "sont stupéfaits"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "dans les rues"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "ceux nourris"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "du cramoisi"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "ont embrassé"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "⟨aux⟩ tas d'immondices"
+    }
+  ],
+  "timestamp": "2026-08-05T04:31:23.799318487Z",
+  "model": "glm-4.5"
+}

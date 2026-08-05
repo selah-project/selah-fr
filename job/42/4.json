@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Écoute je te prie et moi je parlerai je t'interrogerai et tu me feras savoir",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "je parlerai"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "je t'interrogerai"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "et tu me feras savoir"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:17.338068564Z",
+  "model": "glm-4.5"
+}

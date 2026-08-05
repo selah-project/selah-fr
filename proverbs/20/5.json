@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Des eaux profondes, ⟨un⟩ conseil dans ⟨le⟩ cœur d'un homme, mais un homme d'intelligence le puisera.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "Des eaux"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "profondes"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "⟨un⟩ conseil"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "dans ⟨le⟩ cœur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "d'un homme"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mais un homme"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "d'intelligence"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "le puisera"
+    }
+  ],
+  "timestamp": "2026-08-05T03:30:17.428579635Z",
+  "model": "glm-4.5"
+}

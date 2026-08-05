@@ -1,0 +1,40 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "⟨et⟩ Parshandatha ⟨et⟩ Dalphon ⟨et⟩ Aspatha",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨et⟩",
+      "marks": "Parshandatha"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandatha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨et⟩",
+      "marks": "Dalphon"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalphon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨et⟩",
+      "marks": "Aspatha"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspatha"
+    }
+  ],
+  "timestamp": "2026-08-05T05:03:32.214712276Z",
+  "model": "glm-4.5"
+}

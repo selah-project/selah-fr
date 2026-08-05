@@ -1,0 +1,93 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Ruth dit : N'insiste pas auprès de moi pour ⟨que⟩ je te quitte, pour retourner d'après toi ; car là où tu iras, j'irai, et où tu passeras la nuit, je passerai la nuit ; ton peuple ⟨est⟩ mon peuple, et ton Élohim ⟨est⟩ mon Élohim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Et Ruth dit"
+    },
+    {
+      "surface": "רות",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "N'"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "insiste pas"
+    },
+    {
+      "surface": "בי",
+      "gloss": "auprès de moi"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "pour ⟨que⟩ je te quitte"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "pour retourner"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "d'après toi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là où"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "tu iras"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "j'irai"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "et où"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "tu passeras la nuit"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "je passerai la nuit"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ton peuple"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mon peuple"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "et ton Élohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T04:24:17.850770592Z",
+  "model": "glm-4.5"
+}

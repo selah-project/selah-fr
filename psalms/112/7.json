@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "D'une nouvelle mauvaise il ne craindra pas, son cœur est affermi, confiant en YHWH.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "D'une nouvelle"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mauvaise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne ... pas"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "craindra"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "est affermi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "son cœur"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "confiant"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:44.849608415Z",
+  "model": "glm-4.5"
+}

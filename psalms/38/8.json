@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Car mes flancs ⟨sont⟩ remplis ⟨d'⟩inflammation, et il n'y a pas de santé dans ma chair.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "mes flancs"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "⟨sont⟩ remplis"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "⟨d'⟩inflammation"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et il n'y a pas"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "de santé"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "dans ma chair"
+    }
+  ],
+  "timestamp": "2026-08-05T01:32:35.927106107Z",
+  "model": "glm-4.5"
+}

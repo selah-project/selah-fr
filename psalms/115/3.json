@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Et notre Élohim ⟨est⟩ dans les cieux, tout ce qu'il a désiré, il l'a fait",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Et notre Élohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce que"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "il a désiré"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "il l'a fait"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:19.726558387Z",
+  "model": "glm-4.5"
+}

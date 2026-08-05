@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Car le roi, et ses princes, et toute l'assemblée avaient pris conseil à Jérusalem, pour faire la Pâque au deuxième mois.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "car ils avaient pris conseil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "et ses princes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toute"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "à Jérusalem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pour faire"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "la Pâque"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "au mois"
+    },
+    {
+      "surface": "השני",
+      "gloss": "deuxième"
+    }
+  ],
+  "timestamp": "2026-08-05T06:12:16.659843925Z",
+  "model": "glm-5.2"
+}

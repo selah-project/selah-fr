@@ -1,0 +1,70 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Va, mange ton pain avec joie, et bois ton vin avec un bon cœur, car Élohim a déjà approuvé ⟨את⟩ tes œuvres.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Va"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mange"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "avec joie"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ton pain"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "et bois"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "avec un"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bon"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "cœur ton vin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "a déjà"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "approuvé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tes œuvres"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tes œuvres"
+    }
+  ],
+  "timestamp": "2026-08-05T04:41:54.731829302Z",
+  "model": "glm-4.5"
+}

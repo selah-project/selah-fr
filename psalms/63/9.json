@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Ma nefesh s'attache à ⟨toi⟩ ; sur moi ta main droite soutient.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "s'attache"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "à ⟨toi⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "soutient"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ta main droite"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:19.707575267Z",
+  "model": "glm-4.5"
+}

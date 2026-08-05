@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Ton peuple, ô YHWH, ⟨ils⟩ oppriment, et ton héritage ⟨ils⟩ affligent",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Ton peuple"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ô YHWH"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "oppriment"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "et ton héritage"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "affligent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:24.733872890Z",
+  "model": "glm-4.5"
+}

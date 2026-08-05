@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "À toi, YHWH, je crie, et à Adonaï je supplie.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "À toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et à"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "je supplie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:50.471606706Z",
+  "model": "glm-4.5"
+}

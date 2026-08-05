@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Je me suis tu dans le silence ; j'ai retenu ⟨parole⟩ même ⟨de⟩ bien ; et ma douleur s'est aggravée",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Je me suis tu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "dans le silence"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "j'ai retenu"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "même de bien"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "et ma douleur"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "s'est aggravée"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:13.021855967Z",
+  "model": "glm-4.5"
+}

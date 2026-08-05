@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Il a fondé ⟨la⟩ terre sur ⟨ses⟩ bases, elle ne sera pas ébranlée ⟨pour⟩ l'éternité et toujours.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "Il a fondé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨la⟩ terre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "⟨ses⟩ bases"
+    },
+    {
+      "surface": "בל",
+      "gloss": "elle ne sera pas"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ébranlée"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨pour⟩ l'éternité"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:17.326655019Z",
+  "model": "glm-4.5"
+}

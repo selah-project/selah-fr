@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 143,
+  "translation": "Hâte-toi de me répondre, YHWH, car mon rouah défaille ; ne cache pas ⟨ton⟩ visage de moi, de peur que je ne sois comme ceux qui descendent ⟨dans⟩ la fosse.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Hâte-toi"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "de me répondre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "car ⟨mon rouah⟩ défaille"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mon rouah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "cache pas"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨ton⟩ visage"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "de peur que je ne sois comme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "comme ceux"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "qui descendent"
+    },
+    {
+      "surface": "בור",
+      "gloss": "⟨dans⟩ la fosse"
+    }
+  ],
+  "timestamp": "2026-08-05T03:05:22.824420295Z",
+  "model": "glm-4.5"
+}

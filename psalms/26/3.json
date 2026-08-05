@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Car ton hessed est devant mes yeux, et j'ai marché dans ta vérité.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "devant"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "et j'ai marché"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "dans ta vérité"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:56.185640508Z",
+  "model": "glm-4.5"
+}

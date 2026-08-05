@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Mes os ne furent pas cachés de toi, quand je fus fait dans le secret, brodé dans les profondeurs de la terre.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "furent pas cachés"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mes os"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "de toi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "quand"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "je fus fait"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "dans le secret"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "brodé"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "dans les profondeurs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.918346141Z",
+  "model": "glm-4.5"
+}

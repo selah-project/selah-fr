@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Il étendra sa main sur les pays, et le pays d'Égypte ne sera pas pour ⟨un⟩ reste —",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "il étendra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa main"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sur les pays"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "et le pays"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sera"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "pour reste"
+    }
+  ],
+  "timestamp": "2026-08-05T05:18:49.199622410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Qui est-il, ce Roi de gloire ? YHWH, fort et puissant, YHWH, puissant ⟨dans⟩ la guerre.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "זה",
+      "gloss": "est-il"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ce Roi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "de gloire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "fort"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "et puissant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "puissant"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "⟨dans⟩ la guerre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:19:30.439061467Z",
+  "model": "glm-4.5"
+}

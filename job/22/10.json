@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "C'est pourquoi ⟨des⟩ pièges sont autour de toi et ⟨une⟩ frayeur soudaine te trouble",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨c'est⟩"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "autour de toi"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "⟨des⟩ pièges"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "et te trouble"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "⟨une⟩ frayeur"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "soudaine"
+    }
+  ],
+  "timestamp": "2026-08-05T04:00:47.360314726Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Et les cieux racontent ⟨tes⟩ merveilles YHWH aussi ⟨ta⟩ fidélité ⟨dans⟩ l'assemblée des saints",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "Et les cieux racontent"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨tes⟩ merveilles"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "aussi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨ta⟩ fidélité"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "⟨dans⟩ l'assemblée"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "des saints"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:25.870453080Z",
+  "model": "glm-4.5"
+}

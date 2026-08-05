@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Heureux ⟨le⟩ goy dont Elohim ⟨est⟩ YHWH, ⟨le⟩ peuple qu'il a choisi pour ⟨sa⟩ possession à lui.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨le⟩ goy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dont"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Elohim ⟨est⟩ YHWH"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨le⟩ peuple"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "qu'il a choisi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "pour ⟨sa⟩ possession"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:24.192655604Z",
+  "model": "glm-4.5"
+}

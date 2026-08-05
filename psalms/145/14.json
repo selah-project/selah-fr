@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "YHWH soutient tous ceux qui tombent et redresse tous ceux qui sont courbés.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "soutient"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ceux qui tombent"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "et redresse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ceux qui sont courbés"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:47.565509195Z",
+  "model": "glm-4.5"
+}

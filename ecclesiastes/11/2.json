@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Donne une part à sept, et aussi à huit, car tu ne sais pas quel ⟨mal⟩ ⟨sera⟩ sur la terre",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Donne"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "une part"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "à sept"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "et aussi"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "à huit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sais pas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quel"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨sera⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨mal⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:48:48.747639086Z",
+  "model": "glm-4.5"
+}

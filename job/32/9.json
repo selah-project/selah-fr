@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Ce ne sont pas les nombreux ⟨qui sont⟩ sages, ni les anciens ⟨qui⟩ comprennent ⟨le⟩ jugement.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne... pas"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "les nombreux"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "sages"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ni les anciens"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "comprennent"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "le jugement"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:01.518165810Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Que leur table soit devant eux ⟨un⟩ piège, et ⟨ce qui est pour⟩ leur shalom, ⟨un⟩ lacet.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "que"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "leur table"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "soit devant eux"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "⟨un⟩ piège"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "et ⟨ce qui est pour⟩ leur shalom"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "⟨un⟩ lacet"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:05.930450512Z",
+  "model": "glm-4.5"
+}

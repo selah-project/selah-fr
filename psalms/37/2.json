@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Car comme ⟨de l'⟩herbe, promptement ils seront fauchés, et comme la verdure du gazon, ils se flétriront.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "comme ⟨de l'⟩herbe"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "promptement"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ils seront fauchés"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "et comme la verdure"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "du gazon"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ils se flétriront"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:50.075745425Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Célébrez YHWH avec ⟨la⟩ harpe, avec ⟨le⟩ nével et ⟨au⟩ luth, psalmodiez-lui.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "célébrez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "avec la harpe"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "avec le nével"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "au luth"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "psalmodiez-lui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:13.351503668Z",
+  "model": "glm-4.5"
+}

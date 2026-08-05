@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 71,
+  "translation": "Je viendrai ⟨avec⟩ les puissances d'Adonaï YHWH ; je rappellerai ta justice, ⟨la⟩ tienne seule.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Je viendrai"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "⟨avec⟩ les puissances"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "d'Adonaï"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "je rappellerai"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ta justice"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "⟨la⟩ tienne seule"
+    }
+  ],
+  "timestamp": "2026-08-05T01:59:52.163778965Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "et le prêtre le verra, et voici, la plaie s'est changée en blanc, et le prêtre déclarera pur ⟨את⟩ la plaie, pur il est",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "et le prêtre le verra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "et voici"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "s'est changée"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "en blanc"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "et le prêtre déclarera pur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "le prêtre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la plaie"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "la plaie"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    }
+  ],
+  "timestamp": "2026-08-04T19:01:55.754706016Z",
+  "model": "glm-4.5"
+}

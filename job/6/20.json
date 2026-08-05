@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Ont ⟨été⟩ honteux car on a eu confiance, sont venus jusqu'à elle et ont ⟨été⟩ déçus.",
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "ont ⟨été⟩ honteux"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "on a eu confiance"
+    },
+    {
+      "surface": "באו",
+      "gloss": "sont venus"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "jusqu'à elle"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "et ont ⟨été⟩ déçus"
+    }
+  ],
+  "timestamp": "2026-08-05T03:47:11.600682536Z",
+  "model": "glm-4.5"
+}

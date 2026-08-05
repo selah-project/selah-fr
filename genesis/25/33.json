@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et Jacob dit : Jure-moi ⟨aujourd'hui⟩. Et il lui jura, et il vendit ⟨את⟩ son droit d'aînesse à Jacob.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et ... dit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jacob"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "jure-moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "et il jura"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "et il vendit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son droit d'aînesse"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "son droit d'aînesse"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "à Jacob"
+    }
+  ],
+  "timestamp": "2026-08-04T18:46:58.448601173Z",
+  "model": "glm-4.5"
+}

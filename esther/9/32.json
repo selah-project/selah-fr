@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Et le propos d'Esther fit stand les propos de Pourim ⟨ceux-ci⟩ et fut écrit dans ⟨le⟩ livre",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "Et le propos"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "d'Esther"
+    },
+    {
+      "surface": "קים",
+      "gloss": "fit stand"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "les propos"
+    },
+    {
+      "surface": "הפרים",
+      "gloss": "de Pourim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨ceux-ci⟩"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "et fut écrit"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "dans ⟨le⟩ livre"
+    }
+  ],
+  "timestamp": "2026-08-05T05:04:14.210549800Z",
+  "model": "glm-4.5"
+}

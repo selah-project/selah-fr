@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Un témoin de vérité sauve des vies, mais celui qui souffle des mensonges est une tromperie.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "sauve"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "des vies"
+    },
+    {
+      "surface": "עד",
+      "gloss": "un témoin"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "de vérité"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "et celui qui souffle"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "des mensonges"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "est une tromperie"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:47.644844037Z",
+  "model": "glm-4.5"
+}

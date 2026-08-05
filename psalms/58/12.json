@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Et l'humain dira : « Oui, fruit pour le juste ! Oui, il y a des Elohim jugeant dans la terre ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et l'humain dira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "l'humain"
+    },
+    {
+      "surface": "אך",
+      "gloss": "oui"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "fruit"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pour le juste"
+    },
+    {
+      "surface": "אך",
+      "gloss": "oui"
+    },
+    {
+      "surface": "יש",
+      "gloss": "il y a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "des Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "jugeant"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "dans la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:42.652146642Z",
+  "model": "glm-4.5"
+}

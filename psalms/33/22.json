@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Qu'il y ait ton hessed, YHWH, sur nous, comme nous ⟨avons espéré⟩ en toi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Qu'il y ait"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "nous ⟨avons espéré⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "en toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:04.818710546Z",
+  "model": "glm-4.5"
+}

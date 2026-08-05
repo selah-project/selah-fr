@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Il a changé la mer en terre sèche, dans le fleuve ils ont traversé à pied, là nous nous sommes réjouis en lui.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Il a changé"
+    },
+    {
+      "surface": "ים",
+      "gloss": "la mer"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "en terre sèche"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "dans le fleuve"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ils ont traversé"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "à pied"
+    },
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "nous nous sommes réjouis"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:37.712544011Z",
+  "model": "glm-4.5"
+}

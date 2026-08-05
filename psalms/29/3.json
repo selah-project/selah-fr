@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "La voix de YHWH ⟨est⟩ sur les eaux, le Dieu de gloire tonne, YHWH ⟨est⟩ sur des eaux nombreuses.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "La voix"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "les eaux"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le Dieu"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "de gloire"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "tonne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "des eaux"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreuses"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:11.964669113Z",
+  "model": "glm-4.5"
+}

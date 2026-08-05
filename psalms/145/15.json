@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Les yeux de tous se tournent vers toi avec espoir, et tu leur donnes ⟨את⟩ leur nourriture en son temps.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Les yeux de"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "se tournent avec espoir"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "et toi"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "tu donnes"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur nourriture"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "leur nourriture"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "en son temps"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:47.565598509Z",
+  "model": "glm-4.5"
+}

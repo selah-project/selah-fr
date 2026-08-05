@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Et moi, j'entendis, mais je ne compris pas ; et je dis : « Adonaï, quelle ⟨est⟩ l'issue de ces choses ? »",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "j'entendis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mais non"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "je compris"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "et je dis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "מה",
+      "gloss": "quelle"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "l'issue"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "de ces choses"
+    }
+  ],
+  "timestamp": "2026-08-05T05:34:12.083101571Z",
+  "model": "glm-5.2"
+}

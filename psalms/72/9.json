@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 72,
+  "translation": "Devant lui s'agenouilleront ⟨les⟩ déserts et ses ennemis la poussière ils lècheront",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "Devant lui"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "s'agenouilleront"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "⟨les⟩ déserts"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "et ses ennemis"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "la poussière"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ils lècheront"
+    }
+  ],
+  "timestamp": "2026-08-05T02:00:28.096198988Z",
+  "model": "glm-4.5"
+}

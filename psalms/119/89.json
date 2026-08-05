@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Pour toujours, YHWH, ta parole est dressée dans les cieux.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Pour toujours"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ta parole"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "⟨est⟩ dressée"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.662530528Z",
+  "model": "glm-4.5"
+}

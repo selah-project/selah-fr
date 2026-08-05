@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Qu'il en soit ainsi, je te prie, que ton hessed me console selon ta parole à ton serviteur.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Qu'il en soit ainsi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "je te prie"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ton hessed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "me console"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "selon ta parole"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "à ton serviteur"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:40.700886943Z",
+  "model": "glm-4.5"
+}

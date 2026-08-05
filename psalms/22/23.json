@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Je raconterai ton nom à mes frères, au milieu de l'assemblée je te louerai",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "je raconterai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "à mes frères"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "au milieu de"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "l'assemblée"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "je te louerai"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:10.443196308Z",
+  "model": "glm-4.5"
+}

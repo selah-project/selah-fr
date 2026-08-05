@@ -1,0 +1,54 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et il advint, comme elle multipliait ⟨la⟩ prière devant YHWH, qu'Éli regardait ⟨את⟩ sa bouche.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Et il advint"
+    },
+    {
+      "surface": "כי",
+      "gloss": "comme"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "elle multipliait"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "⟨la⟩ prière"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "qu'Éli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "regardait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bouche"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sa bouche"
+    }
+  ],
+  "timestamp": "2026-08-04T22:03:51.748758756Z",
+  "model": "glm-4.5"
+}

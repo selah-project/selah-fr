@@ -1,90 +1,90 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 21,
   "ref": "deuteronomy 1:21",
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Regarde, YHWH ton Élohim a mis ⟨הארץ⟩ devant toi ; monte, possède-⟨la⟩, comme YHWH, Élohim de tes pères, t'a parlé ; ne crains point, et ne t'effraie point.",
+  "translation": "Vois, YHWH ton Élohim a donné ⟨את⟩ la terre devant toi — monte, prends possession, comme a parlé YHWH, l'Élohim de tes pères, pour toi — ne crains pas et ne t'effraie pas.",
   "tokens": [
     {
-      "surface": "ראה",
-      "gloss": "Regarde"
+      "surface": "רְאֵה",
+      "gloss": "Vois"
     },
     {
-      "surface": "נתן",
-      "gloss": "a mis"
+      "surface": "נָתַן",
+      "gloss": "a donné"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "YHWH"
     },
     {
-      "surface": "אלהיך",
+      "surface": "אֱלֹהֶיךָ",
       "gloss": "ton Élohim"
     },
     {
-      "surface": "לפניך",
+      "surface": "לְפָנֶיךָ",
       "gloss": "devant toi"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "הארץ"
+      "marks": "la terre"
     },
     {
-      "surface": "הארץ",
-      "gloss": "⟨הארץ⟩"
+      "surface": "הָאָרֶץ",
+      "gloss": "la terre"
     },
     {
-      "surface": "עלה",
+      "surface": "עֲלֵה",
       "gloss": "monte"
     },
     {
-      "surface": "רש",
-      "gloss": "possède"
+      "surface": "רֵשׁ",
+      "gloss": "prends possession"
     },
     {
-      "surface": "כאשר",
+      "surface": "כַּאֲשֶׁר",
       "gloss": "comme"
     },
     {
-      "surface": "דבר",
+      "surface": "דִּבֶּר",
       "gloss": "a parlé"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "YHWH"
     },
     {
-      "surface": "אלהי",
-      "gloss": "Élohim"
+      "surface": "אֱלֹהֵי",
+      "gloss": "l'Élohim"
     },
     {
-      "surface": "אבתיך",
+      "surface": "אֲבֹתֶיךָ",
       "gloss": "de tes pères"
     },
     {
-      "surface": "לך",
-      "gloss": "t'a"
+      "surface": "לָךְ",
+      "gloss": "pour toi"
     },
     {
-      "surface": "אל",
+      "surface": "אַל",
       "gloss": "ne"
     },
     {
-      "surface": "תירא",
-      "gloss": "crains"
+      "surface": "תִּירָא",
+      "gloss": "crains pas"
     },
     {
-      "surface": "ואל",
+      "surface": "וְאַל",
       "gloss": "et ne"
     },
     {
-      "surface": "תחת",
-      "gloss": "t'effraie"
+      "surface": "תֵּחָת",
+      "gloss": "t'effraie pas"
     }
   ],
-  "timestamp": "2026-08-04T09:49:41.991698145Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-05T06:49:11.171458223Z",
+  "model": "glm-5.2"
 }

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Qu’il te réponde, YHWH, au jour de détresse, que le Nom du Élohim de Jacob t’élève.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "qu’il te réponde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "au jour"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "de détresse"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "que ⟨le⟩ Nom... t’élève"
+    },
+    {
+      "surface": "שם",
+      "gloss": "le Nom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "du Élohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    }
+  ],
+  "timestamp": "2026-08-05T01:16:41.680426721Z",
+  "model": "glm-4.5"
+}

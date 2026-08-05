@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 112,
+  "translation": "Il a dispersé, il a donné aux pauvres ; sa justice ⟨est⟩ debout pour toujours ; sa corne s'élève en gloire.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Il a dispersé"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "il a donné"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "aux pauvres"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sa justice"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "⟨est⟩ debout"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "sa corne"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "s'élève"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "en gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:38:43.853486411Z",
+  "model": "glm-4.5"
+}

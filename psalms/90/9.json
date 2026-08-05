@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 90,
+  "translation": "Car tous nos jours ont décliné par ta colère, nous avons consommé nos années comme un murmure.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "nos jours"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ont décliné"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "par ta colère"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nous avons consommé"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "nos années"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "un murmure"
+    }
+  ],
+  "timestamp": "2026-08-05T02:17:34.200304798Z",
+  "model": "glm-4.5"
+}

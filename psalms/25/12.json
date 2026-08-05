@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Qui est cet homme, le craignant de YHWH ? Il l'instruira dans la voie qu'il choisira",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Qui"
+    },
+    {
+      "surface": "זה",
+      "gloss": "est cet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "homme"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "le craignant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Il l'instruira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la voie"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "qu'il choisira"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:19.543029907Z",
+  "model": "glm-4.5"
+}

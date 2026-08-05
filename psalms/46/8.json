@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "YHWH Tsevaot est avec nous, le Dieu de Jacob est ⟨notre⟩ haute forteresse — Sélah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "est avec nous"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "haute forteresse"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨notre⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "le Dieu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "de Jacob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:16.601176355Z",
+  "model": "glm-4.5"
+}

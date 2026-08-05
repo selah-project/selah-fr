@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Lève-toi, YHWH, Él, lève ta main, n’oublie pas les humbles.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Él"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lève"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "אל",
+      "gloss": "n’"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "oublie pas"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "les humbles"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:31.862695039Z",
+  "model": "glm-4.5"
+}

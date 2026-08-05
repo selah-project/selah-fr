@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 59,
+  "translation": "Et ils reviennent ⟨le⟩ soir, ils hurlent comme un chien, ils font le tour de ⟨la⟩ ville.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Et ils reviennent"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "⟨le⟩ soir"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ils hurlent"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "comme un chien"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ils font le tour"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "de ⟨la⟩ ville"
+    }
+  ],
+  "timestamp": "2026-08-05T01:49:22.117109605Z",
+  "model": "glm-4.5"
+}

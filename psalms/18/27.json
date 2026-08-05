@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Avec le pur tu te montres pur, et avec le tortueux tu te montres tortueux",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Avec"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "le pur"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "tu te montres pur"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et avec"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "le tortueux"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "tu te montres tortueux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:41.323891859Z",
+  "model": "glm-4.5"
+}

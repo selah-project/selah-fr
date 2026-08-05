@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Comment maudirais-je, quand Élohim n'a pas maudit ? et comment m'indignerais-je, quand YHWH ne s'est pas indigné ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Comment"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "maudirais-je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨quand⟩...⟨pas⟩"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "maudit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "et comment"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "m'indignerais-je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨quand⟩...⟨pas⟩"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "s'est indigné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T21:45:34.572104648Z",
+  "model": "glm-4.5"
+}

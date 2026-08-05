@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "N'incline ni à droite ni à gauche, détourne ton pied du mal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "N'"
+    },
+    {
+      "surface": "תט",
+      "gloss": "incline"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "à droite"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ni à gauche"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "détourne"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ton pied"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "du mal"
+    }
+  ],
+  "timestamp": "2026-08-05T03:15:02.674268951Z",
+  "model": "glm-4.5"
+}

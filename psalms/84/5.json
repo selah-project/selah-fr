@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Heureux ⟨les⟩ habitants de ta maison, encore ils te louent, Séla.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Heureux"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "⟨les⟩ habitants"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "de ta maison"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "encore"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ils te louent"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:38.254422039Z",
+  "model": "glm-4.5"
+}

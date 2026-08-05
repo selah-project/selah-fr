@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 96,
+  "translation": "Le champ exulte, et tout ce qui est en lui, alors chantent de joie tous les arbres de la forêt",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "exulte"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Le champ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "בו",
+      "gloss": "est en lui"
+    },
+    {
+      "surface": "אז",
+      "gloss": "alors"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "chantent de joie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "les arbres"
+    },
+    {
+      "surface": "יער",
+      "gloss": "de la forêt"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:16.215296561Z",
+  "model": "glm-4.5"
+}

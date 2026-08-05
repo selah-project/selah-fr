@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 116,
+  "translation": "S'il te plaît, YHWH, car je suis ton serviteur, je suis ton serviteur, le fils de ta servante, tu as desserré mes liens.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "S'il te plaît"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ton serviteur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "le fils"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "de ta servante"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "tu as desserré"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mes liens"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:42.178544996Z",
+  "model": "glm-4.5"
+}

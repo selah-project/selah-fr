@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "à cause de la voix de l'ennemi, ⟨à cause de⟩ l'oppression du méchant, car ils font peser sur moi l'iniquité et dans la colère ils me persécutent.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "à cause de la voix"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "de l'ennemi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨à cause de⟩"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "l'oppression"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "du méchant"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ils font peser"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "און",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "et dans la colère"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ils me persécutent"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:10.530714606Z",
+  "model": "glm-4.5"
+}

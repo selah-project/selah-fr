@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "et Boaz engendra ⟨את⟩ Oved, et Oved engendra ⟨את⟩ Yishaï.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "et Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "et Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishaï"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishaï"
+    }
+  ],
+  "timestamp": "2026-08-05T05:44:59.698701328Z",
+  "model": "glm-5.2"
+}

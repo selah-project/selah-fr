@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Les paroles de sa bouche sont iniquité et tromperie ; il a cessé de discerner pour faire du bien",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Les paroles"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "de sa bouche"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquité"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "et tromperie"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "il a cessé"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "de discerner"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "pour faire du bien"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:15.047618414Z",
+  "model": "glm-4.5"
+}

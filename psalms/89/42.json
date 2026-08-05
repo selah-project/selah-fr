@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Tous les passants sur la route ⟨l'⟩ont pillé, il ⟨est⟩ devenu un opprobre pour ses voisins.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "l'ont pillé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "les passants"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sur la route"
+    },
+    {
+      "surface": "היה",
+      "gloss": "il est devenu"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "un opprobre"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "pour ses voisins"
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:41.686965696Z",
+  "model": "glm-4.5"
+}

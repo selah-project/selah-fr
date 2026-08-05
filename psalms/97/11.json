@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 97,
+  "translation": "La lumière est semée pour le juste, et pour les droits de cœur, la joie.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "la lumière"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "est semée"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pour le juste"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "et pour les droits"
+    },
+    {
+      "surface": "לב",
+      "gloss": "de cœur"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "la joie"
+    }
+  ],
+  "timestamp": "2026-08-05T02:23:47.331396120Z",
+  "model": "glm-4.5"
+}

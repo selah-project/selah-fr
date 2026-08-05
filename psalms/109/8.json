@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Que ses jours soient peu nombreux, qu'un autre prenne sa charge.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Qu'ils soient"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ses jours"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "peu nombreux"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "sa charge"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "prenne"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "un autre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:24.286779890Z",
+  "model": "glm-4.5"
+}

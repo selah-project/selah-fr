@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 136,
+  "translation": "et Og, roi du Basan, car pour toujours est son hessed",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "et Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "du Basan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "est son hessed"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:55.295696207Z",
+  "model": "glm-4.5"
+}

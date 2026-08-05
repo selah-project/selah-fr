@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Mon cœur s'est échauffé au-dedans de moi ; dans ma méditation le feu a brûlé ; j'ai parlé avec ma langue",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Mon cœur s'est échauffé"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "au-dedans de moi"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "dans ma méditation"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "le feu a brûlé"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "j'ai parlé"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "avec ma langue"
+    }
+  ],
+  "timestamp": "2026-08-05T01:33:13.021990330Z",
+  "model": "glm-4.5"
+}

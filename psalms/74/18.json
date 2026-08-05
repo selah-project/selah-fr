@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Souviens-toi de ceci : ⟨l'⟩ennemi a outragé YHWH, et un peuple stupide a méprisé ton nom.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Souviens-toi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "de ceci"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "⟨l'⟩ennemi"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "a outragé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "et un peuple"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "stupide"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "a méprisé"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:27.447203985Z",
+  "model": "glm-4.5"
+}

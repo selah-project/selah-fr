@@ -1,0 +1,94 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Et YHWH bénit ⟨את⟩ les dernières années de Iyyov plus que ⟨ses⟩ premières ; et il eut pour lui quatorze mille moutons, et six mille chameaux, et mille paires de bœufs, et mille ânesses",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Et YHWH"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bénit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "les dernières années de Iyyov"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "les dernières années"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "de Iyyov"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "plus que ⟨ses⟩ premières"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "et il eut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "quatorze"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "moutons"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "moutons"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "et six"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mille"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "chameaux"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "et mille"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "paires"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "de bœufs"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "et mille"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "ânesses"
+    }
+  ],
+  "timestamp": "2026-08-05T04:16:46.669669532Z",
+  "model": "glm-4.5"
+}

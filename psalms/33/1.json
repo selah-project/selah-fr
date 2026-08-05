@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Jubilez, justes, en YHWH, aux droits ⟨la⟩ louange est belle.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "jubilez"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "justes"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "aux droits"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "est belle"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "louange"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:13.351302144Z",
+  "model": "glm-4.5"
+}

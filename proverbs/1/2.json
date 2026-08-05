@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "pour ⟨savoir⟩ la sagesse et ⟨la⟩ discipline, pour comprendre les paroles de l'intelligence",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "pour savoir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "la sagesse"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "et la discipline"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "pour comprendre"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "les paroles"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "de l'intelligence"
+    }
+  ],
+  "timestamp": "2026-08-05T03:10:55.986105217Z",
+  "model": "glm-4.5"
+}

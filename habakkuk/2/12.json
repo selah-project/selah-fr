@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Malheur à celui qui bâtit une ville dans le sang, et qui fonde une cité dans l'iniquité.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Malheur"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "à celui qui bâtit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "une ville"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dans le sang"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "et qui fonde"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "une cité"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "dans l'iniquité"
+    }
+  ],
+  "timestamp": "2026-08-05T00:36:18.575399842Z",
+  "model": "glm-4.5"
+}

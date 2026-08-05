@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Si je parle, ma douleur ⟨n'est⟩ pas apaisée, et s'il me ⟨faut⟩ taire, ⟨qu'est-ce qui⟩ partirait de moi?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "je parle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "apaisée"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "ma douleur"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "et s'il me ⟨faut⟩ taire"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨qu'est-ce qui⟩"
+    },
+    {
+      "surface": "מני",
+      "gloss": "partirait"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "de moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:55:53.190098857Z",
+  "model": "glm-4.5"
+}

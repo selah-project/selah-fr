@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Car comme du pain j'ai mangé de la cendre, et ma boisson j'ai mélangée avec des pleurs.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "de la cendre"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "comme du pain"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "j'ai mangé"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "et ma boisson"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "avec des pleurs"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "j'ai mélangée"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:34.939432402Z",
+  "model": "glm-4.5"
+}

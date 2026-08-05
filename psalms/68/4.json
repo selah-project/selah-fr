@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 68,
+  "translation": "Et les justes se réjouiront, ils exulteront devant la face d'Élohim, et ils seront dans l'allégresse avec joie",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Et les justes"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se réjouiront"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ils exulteront"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant la face de"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "et ils seront dans l'allégresse"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "avec joie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:56:10.274779174Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Béni ⟨soit⟩ Élohim qui n'a pas rejeté ma prière, et son hessed d'avec moi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "n'a pas"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "rejeté"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ma prière"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "et son hessed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "d'avec moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:41.681176217Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "et ⟨est⟩ précieux ⟨le⟩ rachat de leur nefesh, et il cesse pour toujours",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "et ⟨est⟩ précieux"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "⟨le⟩ rachat"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "de leur nefesh"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "et il cesse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:14.374042475Z",
+  "model": "glm-4.5"
+}

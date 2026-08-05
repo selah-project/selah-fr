@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Toi, tu as broyé ⟨les⟩ têtes de Léviathan, tu l'as donné comme nourriture au peuple des bêtes sauvages.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "tu as broyé"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "têtes"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "de Léviathan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "tu l'as donné"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "comme nourriture"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "au peuple"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "des bêtes sauvages"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.118162395Z",
+  "model": "glm-4.5"
+}

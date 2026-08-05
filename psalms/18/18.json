@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Il ⟨m'a⟩ délivré de mon ennemi fort, et de ceux qui me haïssent, car ils étaient plus forts que moi.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "délivra"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "de mon ennemi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "fort"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "et de mes détracteurs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ils furent plus forts"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "que moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:53.277901428Z",
+  "model": "glm-4.5"
+}

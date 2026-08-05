@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 92,
+  "translation": "Encore ils fructifieront ⟨dans⟩ la vieillesse, gras et verdoyants ils seront.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Encore"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ils fructifieront"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "⟨dans⟩ la vieillesse"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "gras"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "et verdoyants"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ils seront"
+    }
+  ],
+  "timestamp": "2026-08-05T02:19:07.042840550Z",
+  "model": "glm-4.5"
+}

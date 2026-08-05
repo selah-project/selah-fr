@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 7:19",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Combien de temps ne ⟨détournes⟩-tu pas ⟨le⟩ regard de moi ? Tu ne me ⟨laisseras⟩ pas tranquille jusqu’à ce que j’avale ma salive ?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "combien de temps"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "tu ⟨détournes⟩-tu pas ⟨le⟩ regard"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "de moi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tu ne ... pas"
+    },
+    {
+      "surface": "תרפני",
+      "gloss": "tu me ⟨laisseras⟩ pas tranquille"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusqu’à ce que"
+    },
+    {
+      "surface": "בלעי",
+      "gloss": "j’avale"
+    },
+    {
+      "surface": "רקי",
+      "gloss": "ma salive"
+    }
+  ],
+  "timestamp": "2026-08-05T03:49:26.999156942Z",
+  "model": "glm-4.5"
+}

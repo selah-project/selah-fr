@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Shaul dit : Écoute, ⟨je te prie⟩, fils d'Ahitub. Et il dit : Me voici, Adonaï.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨je te prie⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "d'Ahitub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Et il dit"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Me voici"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    }
+  ],
+  "timestamp": "2026-08-04T22:07:04.159274886Z",
+  "model": "glm-4.5"
+}

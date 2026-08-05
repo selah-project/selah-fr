@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 87,
+  "translation": "Et chanteurs, comme des joueurs de flûte, toutes mes sources ⟨sont⟩ en toi.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Et chanteurs"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "comme des joueurs de flûte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mes sources"
+    },
+    {
+      "surface": "בך",
+      "gloss": "en toi"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:47.204241790Z",
+  "model": "glm-4.5"
+}

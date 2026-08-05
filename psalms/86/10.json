@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Car tu ⟨es⟩ grand et ⟨fais⟩ des prodiges, toi, Élohim, seul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "grand"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "et fais"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "des prodiges"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "seul"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:54.815058697Z",
+  "model": "glm-4.5"
+}

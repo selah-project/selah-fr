@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et toi YHWH ne te tiens pas loin mon secours presse-toi pour m'aider.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "te tiens pas loin"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "mon secours"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "pour m'aider"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "presse-toi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:19.136386517Z",
+  "model": "glm-4.5"
+}

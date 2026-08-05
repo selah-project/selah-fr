@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 55,
+  "translation": "Car ce n'est pas un ennemi qui m'insulte, alors je le supporterais ; ce n'est pas celui qui me hait qui s'élève contre moi, alors je me cacherais de lui",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ce n'est pas"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "un ennemi"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "qui m'insulte"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "alors je le supporterais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ce n'est pas"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "celui qui me hait"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "qui s'élève"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "alors je me cacherais"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "de lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:46:23.488524385Z",
+  "model": "glm-4.5"
+}

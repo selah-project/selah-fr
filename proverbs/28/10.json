@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Qui égare les droits dans ⟨une⟩ voie mauvaise, il tombera dans sa propre fosse, et les intègres hériteront le bien.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "égarer"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "les droits"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans ⟨une⟩ voie"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvaise"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "dans sa propre fosse"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tombera"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "et les intègres"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "hériteront"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:15.499324003Z",
+  "model": "glm-4.5"
+}

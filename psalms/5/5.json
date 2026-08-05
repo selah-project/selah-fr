@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Car tu n'es ⟨pas⟩ un El qui prends plaisir ⟨au⟩ mal, ⟨le⟩ mal ne séjournera pas auprès de toi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "prends plaisir"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨au⟩ mal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "séjournera"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨le⟩ mal"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:40.603228204Z",
+  "model": "glm-4.5"
+}

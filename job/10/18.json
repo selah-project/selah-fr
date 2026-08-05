@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Et pourquoi ⟨m'⟩as-tu fait sortir du ventre ? J'expirais, et ⟨l'⟩œil ne me voyait.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Et pourquoi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "du ventre"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "⟨m'⟩as-tu fait sortir"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "J'expirais"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "et ⟨l'⟩œil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "me voyait"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:41.895732376Z",
+  "model": "glm-4.5"
+}

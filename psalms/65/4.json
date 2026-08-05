@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Les paroles des iniquités ⟨se⟩ sont fortifiées contre moi, ⟨mais⟩ nos transgressions, toi, tu les couvriras.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Les paroles de"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "les iniquités"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "⟨se⟩ sont fortifiées"
+    },
+    {
+      "surface": "מני",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "nos transgressions"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "toi"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "tu les couvriras"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:35.664231415Z",
+  "model": "glm-4.5"
+}

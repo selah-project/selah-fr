@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Le souvenir du juste ⟨est pour⟩ bénédiction, mais le nom des méchants pourrira.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Le souvenir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "pour bénédiction"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mais le nom"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "pourrira"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:31.436744186Z",
+  "model": "glm-4.5"
+}

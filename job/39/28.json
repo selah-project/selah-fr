@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 39,
+  "translation": "Il habite ⟨le⟩ rocher et il loge sur la dent du rocher et ⟨la⟩ forteresse.",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "⟨le⟩ rocher"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "il habite"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "et il loge"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שן",
+      "gloss": "la dent"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "du rocher"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "et ⟨la⟩ forteresse"
+    }
+  ],
+  "timestamp": "2026-08-05T04:14:16.356888761Z",
+  "model": "glm-4.5"
+}

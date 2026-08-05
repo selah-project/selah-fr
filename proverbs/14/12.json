@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Il y a une voie droite devant un homme, et ses fins sont des voies de mort.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Il y a"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "une voie"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "droite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "איש",
+      "gloss": "un homme"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "et ses fins"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "des voies"
+    },
+    {
+      "surface": "מות",
+      "gloss": "de mort"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:38.880859044Z",
+  "model": "glm-4.5"
+}

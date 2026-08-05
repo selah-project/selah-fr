@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "et ⟨את⟩ Tsora, et ⟨את⟩ Ayalon, et ⟨את⟩ Hébron, qui ⟨sont⟩ en Yéhouda et en Binyamin, villes de forteresses",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Tsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Hébron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hébron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "en Yéhouda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "et en Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "villes de"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "forteresses"
+    }
+  ],
+  "timestamp": "2026-08-05T06:03:28.474754089Z",
+  "model": "glm-5.2"
+}

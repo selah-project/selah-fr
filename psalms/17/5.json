@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Soutiens mes pas dans ⟨ tes ⟩ sentiers, ⟨ pour que ⟩ mes pieds ne chancellent pas.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "soutiens"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mes pas"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "dans ⟨ tes ⟩ sentiers"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ pour que ⟩... ⟨ ne ⟩"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "chancellent"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "⟨ pas ⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:04.460254819Z",
+  "model": "glm-4.5"
+}

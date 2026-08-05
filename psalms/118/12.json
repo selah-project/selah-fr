@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "Ils m'ont entouré comme ⟨des⟩ abeilles, elles s'éteignirent comme un feu d'épines, au nom de YHWH, car je les retranche.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ils m'ont entouré"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "comme ⟨des⟩ abeilles"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "elles s'éteignirent"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "comme un feu"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "d'épines"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "au nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "je les retranche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:57.398762800Z",
+  "model": "glm-4.5"
+}

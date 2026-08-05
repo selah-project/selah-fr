@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Écoute, YHWH, ma voix, je crie, fais-moi grâce et réponds-moi",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ma voix"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "je crie"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "fais-moi grâce"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "et réponds-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:42.074908914Z",
+  "model": "glm-4.5"
+}

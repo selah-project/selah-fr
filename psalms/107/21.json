@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 107,
+  "translation": "Ils louent YHWH pour son hessed, et ⟨ses⟩ merveilles pour ⟨les⟩ fils de l'humain",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ils louent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "pour son hessed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "et ⟨ses⟩ merveilles"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pour ⟨les⟩ fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T02:32:37.012258288Z",
+  "model": "glm-4.5"
+}

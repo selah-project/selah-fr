@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Et tu parleras ⟨את⟩ mes paroles vers eux, s'ils ⟨entendent⟩ ou s'ils ⟨s'abstiennent⟩, car une rébellion ils sont.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Et tu parleras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes paroles"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mes paroles"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vers eux"
+    },
+    {
+      "surface": "אם",
+      "gloss": "s'ils"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "⟨entendent⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ou s'ils"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "⟨s'abstiennent⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "une rébellion"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils sont"
+    }
+  ],
+  "timestamp": "2026-08-04T23:13:00.374741839Z",
+  "model": "glm-4.5"
+}

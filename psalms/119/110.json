@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Les méchants ⟨ont⟩ tendu ⟨un⟩ piège pour moi, et ⟨de⟩ tes ordonnances je n'ai pas erré.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ont tendu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Les méchants"
+    },
+    {
+      "surface": "פח",
+      "gloss": "un piège"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "et de tes ordonnances"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "j'ai pas erré"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:03.468212537Z",
+  "model": "glm-4.5"
+}

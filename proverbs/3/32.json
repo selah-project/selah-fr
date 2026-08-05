@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car la perversion est une abomination pour YHWH, mais son secret ⟨est⟩ avec les droits",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "l'abomination"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "⟨est la⟩ perversion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨avec⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "les droits"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "son secret"
+    }
+  ],
+  "timestamp": "2026-08-05T03:14:30.659388558Z",
+  "model": "glm-4.5"
+}

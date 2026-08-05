@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Quand tu marcheras, ton pas ne sera pas serré, et si tu cours, tu ne trébucheras pas",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Quand tu marcheras"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne sera pas"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "serré"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "ton pas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "tu cours"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "trébucheras pas"
+    }
+  ],
+  "timestamp": "2026-08-05T03:15:13.973216253Z",
+  "model": "glm-4.5"
+}

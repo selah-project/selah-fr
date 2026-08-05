@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Scories, tu as fait cesser tous les méchants de la terre ; c'est pourquoi j'ai aimé tes témoignages.",
+  "tokens": [
+    {
+      "surface": "סִגִ֗ים",
+      "gloss": "scories"
+    },
+    {
+      "surface": "הִשְׁבַּ֥תָּ",
+      "gloss": "tu as fait cesser"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "רִשְׁעֵי",
+      "gloss": "les méchants de"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לָ֝כֵ֗ן",
+      "gloss": "c'est pourquoi"
+    },
+    {
+      "surface": "אָהַ֥בְתִּי",
+      "gloss": "j'ai aimé"
+    },
+    {
+      "surface": "עֵדֹתֶֽיךָ",
+      "gloss": "tes témoignages"
+    }
+  ],
+  "timestamp": "2026-08-05T05:32:34.085387107Z",
+  "model": "glm-5.2"
+}

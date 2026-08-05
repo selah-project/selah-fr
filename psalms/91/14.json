@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 91,
+  "translation": "Parce qu'il s'est attaché à moi, je le délivrerai ; je l'exalterai, parce qu'il ⟨a⟩ connu mon nom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "il s'est attaché"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "je le délivrerai"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "je l'exalterai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "parce que"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "il ⟨a⟩ connu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mon nom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:18:33.251726527Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Et sa sœur Ha-Molékheth enfanta ⟨את⟩ Ishod, et ⟨את⟩ Aviézer, et ⟨את⟩ Makla.",
+  "tokens": [
+    {
+      "surface": "וַאֲחֹת֖וֹ",
+      "gloss": "Et sa sœur"
+    },
+    {
+      "surface": "הַמֹּלֶ֑כֶת",
+      "gloss": "Ha-Molékheth"
+    },
+    {
+      "surface": "יָלְדָה֙",
+      "gloss": "enfanta"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אִישְׁה֔וֹד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Aviézer"
+    },
+    {
+      "surface": "אֲבִיעֶ֖זֶר",
+      "gloss": "Aviézer"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Makla"
+    },
+    {
+      "surface": "מַחְלָֽה",
+      "gloss": "Makla"
+    }
+  ],
+  "timestamp": "2026-08-05T05:48:14.018488752Z",
+  "model": "glm-5.2"
+}

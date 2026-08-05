@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 23,
+  "translation": "Ne mange pas ⟨את⟩ le pain d'un mauvais œil, et ne désire pas ses mets délicats.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "mange pas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le pain"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "רע",
+      "gloss": "d'un mauvais"
+    },
+    {
+      "surface": "עין",
+      "gloss": "œil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "désire pas"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ses mets délicats"
+    }
+  ],
+  "timestamp": "2026-08-05T03:33:01.320189314Z",
+  "model": "glm-4.5"
+}

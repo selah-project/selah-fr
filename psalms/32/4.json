@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 32,
+  "translation": "Car jour et nuit ta main s'alourdissait sur moi, ma vigueur s'est changée en sécheresses d'été Sélah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "jour"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et nuit"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "s'alourdissait"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "s'est changée"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "en vigueur"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "en sécheresses"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "d'été"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:25:39.926809573Z",
+  "model": "glm-4.5"
+}

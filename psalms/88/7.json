@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Tu m'as placé dans la fosse, dans les profondeurs, dans des ténèbres, dans les abîmes",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Tu m'as placé"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "dans la fosse"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "dans les profondeurs"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "dans des ténèbres"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "dans les abîmes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:38.241748587Z",
+  "model": "glm-4.5"
+}

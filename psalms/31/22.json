@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Béni ⟨soit⟩ YHWH, car il a fait merveille son hessed pour moi, dans une ville de siège.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "il a fait merveille"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "son hessed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "dans une ville"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "de siège"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:47.026289724Z",
+  "model": "glm-4.5"
+}

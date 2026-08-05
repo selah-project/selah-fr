@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et si l'on attaque l'un, les deux ⟨autres⟩ tiendront bon face à lui ; et le cordon ⟨triple⟩ ne se rompt pas vite.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "et si"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "on attaque"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "l'un"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "les deux"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "tiendront bon"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "face à lui"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "et le cordon"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "triple"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "vite"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "se rompra"
+    }
+  ],
+  "timestamp": "2026-08-05T04:35:28.427872134Z",
+  "model": "glm-4.5"
+}

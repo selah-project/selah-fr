@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Par la bouche de l'impie, ⟨son⟩ ami ⟨est⟩ corrompu, mais par ⟨la⟩ connaissance des justes, ils sont délivrés.",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "Par la bouche"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "de l'impie"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "⟨son⟩ ami ⟨est⟩ corrompu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ami"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "mais par ⟨la⟩ connaissance"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "ils sont délivrés"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:17.300224406Z",
+  "model": "glm-4.5"
+}

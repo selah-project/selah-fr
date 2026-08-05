@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "YHWH ⟨est⟩ leur force, et la force des délivrances de son Oint, c'est ⟨lui⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "עז",
+      "gloss": "force"
+    },
+    {
+      "surface": "למו",
+      "gloss": "leur"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "et la force"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "des délivrances"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "de son Oint"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est ⟨lui⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:22:08.900791859Z",
+  "model": "glm-4.5"
+}

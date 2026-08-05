@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Car ⟨ce⟩ que je craignais m'est arrivé, et ce dont j'avais peur m'est venu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "⟨ce⟩ que je craignais"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "m'est arrivé"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "et"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "⟨ce⟩ dont"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "j'avais peur"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "m'est venu"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:10.547917831Z",
+  "model": "glm-4.5"
+}

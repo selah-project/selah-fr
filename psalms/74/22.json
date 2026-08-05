@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Lève-toi, Élohim, plaide ta cause, souviens-toi de ton opprobre de la part de l'insensé, tout le jour",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "lève-toi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "plaide"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ta cause"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "souviens-toi"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "de ton opprobre"
+    },
+    {
+      "surface": "מני",
+      "gloss": "de la part de"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "l'insensé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:25.560862465Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Que tes œuvres sont nombreuses, YHWH, toutes tu les as faites avec sagesse, la terre est pleine de tes créatures.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "sont nombreuses"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tes œuvres"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "avec sagesse"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu les as faites"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "est pleine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "de tes créatures"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:13.512407545Z",
+  "model": "glm-4.5"
+}

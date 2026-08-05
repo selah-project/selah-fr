@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Et s'ils n'écoutent pas, ils passent ⟨par⟩ le trait et meurent sans connaissance",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Et s'"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ils ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "écoutent pas"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "⟨par⟩ le trait"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ils passent"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "et meurent"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "sans"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "connaissance"
+    }
+  ],
+  "timestamp": "2026-08-05T04:11:23.221646168Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 61,
+  "translation": "Écoute, Élohim, mon cri ; prête l'oreille à ma prière",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mon cri"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "à ma prière"
+    }
+  ],
+  "timestamp": "2026-08-05T01:50:31.565939303Z",
+  "model": "glm-4.5"
+}

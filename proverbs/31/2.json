@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Quoi, mon fils ? Et quoi, fils de mon ventre ? Et quoi, fils de mes vœux ?",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "Quoi"
+    },
+    {
+      "surface": "בְּרִי",
+      "gloss": "mon fils"
+    },
+    {
+      "surface": "וּמַֽה",
+      "gloss": "Et quoi"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "fils"
+    },
+    {
+      "surface": "בִּטְנִ֑י",
+      "gloss": "de mon ventre"
+    },
+    {
+      "surface": "וּ֝מֶה",
+      "gloss": "Et quoi"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "fils"
+    },
+    {
+      "surface": "נְדָרָֽי",
+      "gloss": "de mes vœux"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:05.400597560Z",
+  "model": "glm-5.2"
+}

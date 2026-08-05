@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Et YHWH parla à Moïse, en disant",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Et parla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אל",
+      "gloss": "à"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moïse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    }
+  ],
+  "timestamp": "2026-08-04T21:43:23.199401767Z",
+  "model": "glm-4.5"
+}

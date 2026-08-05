@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Sa provision, je bénirai abondamment ; ses pauvres, je rassasierai de pain",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Sa provision"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "je bénirai"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "abondamment"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "ses pauvres"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "je rassasierai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "de pain"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:03.585792602Z",
+  "model": "glm-4.5"
+}

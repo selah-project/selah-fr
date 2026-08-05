@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Dis à la sagesse : Tu es ma sœur, et appelle l'intelligence ⟨ton⟩ parente.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dis"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "à la sagesse"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Tu es ma sœur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "l'intelligence"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "et ⟨l'intelligence⟩"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "⟨ton⟩ parente"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "appelle"
+    }
+  ],
+  "timestamp": "2026-08-05T03:17:56.381017630Z",
+  "model": "glm-4.5"
+}

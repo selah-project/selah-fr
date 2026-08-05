@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Et le roi Ézéchias se leva tôt, et il rassembla ⟨את⟩ les chefs de la ville, et il monta à la maison de YHWH.",
+  "tokens": [
+    {
+      "surface": "וַיַּשְׁכֵּם֙",
+      "gloss": "et se leva tôt"
+    },
+    {
+      "surface": "יְחִזְקִיָּ֣הוּ",
+      "gloss": "Ézéchias"
+    },
+    {
+      "surface": "הַמֶּ֔לֶךְ",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "וַיֶּאֱסֹ֕ף",
+      "gloss": "et il rassembla"
+    },
+    {
+      "surface": "אֵ֖ת",
+      "gloss": "⟨את⟩",
+      "marks": "les chefs de la ville"
+    },
+    {
+      "surface": "שָׂרֵ֣י",
+      "gloss": "les chefs"
+    },
+    {
+      "surface": "הָעִ֑יר",
+      "gloss": "de la ville"
+    },
+    {
+      "surface": "וַיַּ֖עַל",
+      "gloss": "et il monta"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "à la maison"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T06:23:21.964918844Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 148,
+  "translation": "Les rois de la terre et tous les peuples, les princes et tous les juges de la terre",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Les rois"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "les peuples"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "les princes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "les juges"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "de la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:09:05.891677476Z",
+  "model": "glm-4.5"
+}

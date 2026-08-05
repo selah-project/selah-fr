@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "dans la venue vers lui de Nathan le prophète, comme il ⟨est⟩ venu vers Bath-Shéba",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "dans la venue"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vers lui"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "de Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "le prophète"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨est⟩ venu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shéba"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:22.266429059Z",
+  "model": "glm-4.5"
+}

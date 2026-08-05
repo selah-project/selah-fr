@@ -1,0 +1,47 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "De David. Contends, YHWH, avec ⟨les⟩ qui contend avec moi, combats contre ⟨les⟩ qui combattent contre moi",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Contends"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qui contend avec moi"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "qui contend avec moi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "combats"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qui combattent contre moi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "qui combattent contre moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:13.542995136Z",
+  "model": "glm-4.5"
+}

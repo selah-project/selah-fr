@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Béni soit YHWH, l'Élohim d'Israël, depuis le monde et jusqu'au monde, et que tout le peuple dise : Amen. Louez Yah",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni soit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "l'Élohim de"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "depuis"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et jusqu'à"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et que dise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "העם",
+      "gloss": "le peuple"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Louez"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:53.583180504Z",
+  "model": "glm-4.5"
+}

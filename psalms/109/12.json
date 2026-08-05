@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 109,
+  "translation": "Qu'il n'ait personne pour tendre le hessed et qu'il n'y ait personne pour faire grâce à ses orphelins.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Qu'il n'y ait pas"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨soit⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pour lui"
+    },
+    {
+      "surface": "משך",
+      "gloss": "pour tendre"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et qu'il n'y ait pas"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨soit⟩"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "pour faire grâce"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "à ses orphelins"
+    }
+  ],
+  "timestamp": "2026-08-05T02:34:11.049675793Z",
+  "model": "glm-4.5"
+}

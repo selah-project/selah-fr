@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Le sage craint et se détourne du mal, mais le sot s'emporte et ⟨se sent⟩ en sécurité.",
+  "tokens": [
+    {
+      "surface": "חָכָ֣ם",
+      "gloss": "le sage"
+    },
+    {
+      "surface": "יָ֭רֵא",
+      "gloss": "craint"
+    },
+    {
+      "surface": "וְסָ֣ר",
+      "gloss": "et se détourne"
+    },
+    {
+      "surface": "מֵרָ֑ע",
+      "gloss": "du mal"
+    },
+    {
+      "surface": "וּ֝כְסִ֗יל",
+      "gloss": "mais le sot"
+    },
+    {
+      "surface": "מִתְעַבֵּ֥ר",
+      "gloss": "s'emporte"
+    },
+    {
+      "surface": "וּבוֹטֵֽחַ",
+      "gloss": "et ⟨se sent⟩ en sécurité"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:27.050692244Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Voici, que cette nuit soit stérile ; qu'aucun chant de joie n'y parvienne.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "que cette nuit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-ci"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "soit"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "stérile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "que ... ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "parvienne"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "chant de joie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-08-05T03:44:32.005161664Z",
+  "model": "glm-4.5"
+}

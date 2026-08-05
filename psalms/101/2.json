@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 101,
+  "translation": "Je veux ⟨être⟩ intelligent dans la voie de ⟨l'⟩intégrité ; quand viendras-tu à moi ? Je marcherai dans ⟨l'⟩intégrité de mon cœur au milieu de ma maison.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "Je veux ⟨être⟩ intelligent"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "dans la voie"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "de ⟨l'⟩intégrité"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "viendras-tu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "Je marcherai"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "dans ⟨l'⟩intégrité"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "de mon cœur"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "au milieu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "de ma maison"
+    }
+  ],
+  "timestamp": "2026-08-05T02:26:50.452395440Z",
+  "model": "glm-4.5"
+}

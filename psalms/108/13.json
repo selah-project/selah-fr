@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Donne-nous ⟨de⟩ l'aide ⟨contre⟩ ⟨la⟩ détresse, et vain ⟨est⟩ ⟨le⟩ secours d'Adam.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Donne-nous"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nous"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "l'aide"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "détresse"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "et vain"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "le secours"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "d'Adam"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:04.220724003Z",
+  "model": "glm-4.5"
+}

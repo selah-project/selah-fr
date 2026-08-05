@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 7,
+  "translation": "Quand je ⟨vais⟩ guérir Israël, ⟨alors⟩ se révèle l'iniquité d'Éphraïm et les méfaits de Samarie, car ils agissent avec mensonge ; et un voleur ⟨va⟩ entrer, une bande de pillards ⟨va⟩ faire une irruption au-dehors.",
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "Quand je ⟨vais⟩ guérir"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "et se révèle"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "d'Éphraïm"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "et les méfaits"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "de Samarie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ils agissent"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "avec mensonge"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "et un voleur"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "⟨va⟩ entrer"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "faire une irruption"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "une bande de pillards"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "au-dehors"
+    }
+  ],
+  "timestamp": "2026-08-05T00:02:27.837177525Z",
+  "model": "glm-4.5"
+}

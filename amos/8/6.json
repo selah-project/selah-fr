@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "pour acheter avec argent les petits et le misérable pour ⟨une paire de⟩ sandales, et vendre ⟨les⟩ déchets de grain",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "pour acheter"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "avec argent"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "les petits"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et le misérable"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pour"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "⟨une paire de⟩ sandales"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "et vendre"
+    },
+    {
+      "surface": "בר",
+      "gloss": "⟨les⟩ déchets de grain"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "de grain"
+    }
+  ],
+  "timestamp": "2026-08-05T00:20:13.381679298Z",
+  "model": "glm-4.5"
+}

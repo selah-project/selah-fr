@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "La moisson ⟨est⟩ passée, l’été ⟨est⟩ fini, et nous, nous ne sommes pas sauvés.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "passée"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "la moisson"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "fini"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "l’été"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "et nous, nous"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne ... pas"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "sommes sauvés"
+    }
+  ],
+  "timestamp": "2026-08-04T16:14:29.738557104Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 53,
+  "translation": "Là ils ont eu peur, peur où il n'y avait ⟨pas⟩ peur, car Élohim ⟨a⟩ dispersé ⟨les⟩ os ⟨de celui qui⟩ encampait contre toi ; tu l'as mise en honte, car Élohim l'a rejeté.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "là"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ils ont eu peur"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "peur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "où il n'y avait ⟨pas⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": ""
+    },
+    {
+      "surface": "פחד",
+      "gloss": "peur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "⟨a⟩ dispersé"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "⟨les⟩ os"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "⟨de celui qui⟩ encampait contre toi"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "tu l'as mise en honte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "l'a rejeté"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:01.973587023Z",
+  "model": "glm-4.5"
+}

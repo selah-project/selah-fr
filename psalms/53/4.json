@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 53,
+  "translation": "Tous se sont retirés, ils se sont tous ensemble corrompus, il n'y a personne qui fasse le bien, il n'y en a pas même un.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Tous"
+    },
+    {
+      "surface": "סג",
+      "gloss": "se sont retirés"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tous ensemble"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "corrompus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qui fasse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas même"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:00.577707752Z",
+  "model": "glm-4.5"
+}

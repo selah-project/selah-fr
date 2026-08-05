@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 18,
+  "translation": "Car j'ai gardé les voies de YHWH, et ⟨je⟩ n'ai pas agi méchamment contre mon Élohim",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "j'ai gardé"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "les voies de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et non"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "agi méchamment"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "contre mon Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:14:53.750378875Z",
+  "model": "glm-4.5"
+}

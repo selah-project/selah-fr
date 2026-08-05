@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 132,
+  "translation": "Si j'entre ⟨dans⟩ la tente de ma maison, si je monte sur ⟨le⟩ lit de ma couche",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "j'entre"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "⟨dans⟩ la tente"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "de ma maison"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "je monte"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "⟨le⟩ lit"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "de ma couche"
+    }
+  ],
+  "timestamp": "2026-08-05T02:55:08.412113746Z",
+  "model": "glm-4.5"
+}

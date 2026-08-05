@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Le péché de mon peuple ils mangent et vers leur iniquité ils élèvent leur nefesh",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "le péché"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "de mon peuple"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ils mangent"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "leur iniquité"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ils élèvent"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "leur nefesh"
+    }
+  ],
+  "timestamp": "2026-08-04T23:59:36.927453587Z",
+  "model": "glm-4.5"
+}

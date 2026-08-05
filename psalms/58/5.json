@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 58,
+  "translation": "Leur venin est comme le venin ⟨d'un⟩ serpent, comme ⟨un⟩ cobra sourd qui bouche son oreille,",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "Leur venin"
+    },
+    {
+      "surface": "למו",
+      "gloss": "leur"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "comme"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "le venin"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "⟨d'un⟩ serpent"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "⟨un⟩ cobra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sourd"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "qui bouche"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "son oreille"
+    }
+  ],
+  "timestamp": "2026-08-05T01:48:39.886780303Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 103,
+  "translation": "De David. Bénis, mon âme, ⟨את⟩ YHWH, et tout mon être ⟨את⟩ son nom sacré.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Bénis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tout"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "mon être"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sacré"
+    }
+  ],
+  "timestamp": "2026-08-05T02:28:23.775418963Z",
+  "model": "glm-4.5"
+}

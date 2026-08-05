@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Chantez-lui un chant nouveau, jouez bien avec ⟨un⟩ cri de joie.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "chantez"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lui"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nouveau"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "jouez bien"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "avec"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "un cri de joie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:13.351615788Z",
+  "model": "glm-4.5"
+}

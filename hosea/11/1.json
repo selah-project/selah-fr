@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Car Israël ⟨est⟩ un garçon et je l'ai aimé, et d'Égypte j'ai appelé mon fils.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נער",
+      "gloss": "un garçon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "et je l'ai aimé"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "et d'Égypte"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "j'ai appelé"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mon fils"
+    }
+  ],
+  "timestamp": "2026-08-05T00:07:05.881175884Z",
+  "model": "glm-4.5"
+}

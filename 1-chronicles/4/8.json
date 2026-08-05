@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Qots engendra ⟨את⟩ Anoub et ⟨את⟩ ha-Tsobebah, et les clans d'Aharhel, fils de Haroum.",
+  "tokens": [
+    {
+      "surface": "וְק֣וֹץ",
+      "gloss": "et Qots"
+    },
+    {
+      "surface": "הוֹלִ֔יד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Anoub"
+    },
+    {
+      "surface": "עָנ֖וּב",
+      "gloss": "Anoub"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "ha-Tsobebah"
+    },
+    {
+      "surface": "הַצֹּבֵבָ֑ה",
+      "gloss": "ha-Tsobebah"
+    },
+    {
+      "surface": "וּמִשְׁפְּח֥וֹת",
+      "gloss": "et les clans de"
+    },
+    {
+      "surface": "אֲחַרְחֵ֖ל",
+      "gloss": "Aharhel"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "הָרֽוּם",
+      "gloss": "Haroum"
+    }
+  ],
+  "timestamp": "2026-08-05T05:45:46.883071532Z",
+  "model": "glm-5.2"
+}

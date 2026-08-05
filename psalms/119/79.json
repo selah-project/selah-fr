@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Qu'ils reviennent à moi, ceux qui te craignent, et ils connaissent tes témoignages",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Qu'ils reviennent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ceux qui te craignent"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "et ils connaissent"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tes témoignages"
+    }
+  ],
+  "timestamp": "2026-08-05T02:44:32.566034341Z",
+  "model": "glm-4.5"
+}

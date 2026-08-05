@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Où irai-je loin de ton Rouah, et où fuirai-je de devant ta face ?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Où"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "irai-je"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "loin de ton Rouah"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "et où"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "fuirai-je de devant ta face"
+    },
+    {
+      "surface": "אברח",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T03:01:52.152191112Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Renverse des méchants et ils ne sont pas, et la maison des justes se tiendra ⟨debout⟩",
+  "tokens": [
+    {
+      "surface": "הָפֹךְ",
+      "gloss": "renverse"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "וְאֵינָם",
+      "gloss": "et ils ne sont pas"
+    },
+    {
+      "surface": "וּבֵית",
+      "gloss": "et la maison"
+    },
+    {
+      "surface": "צַדִּיקִים",
+      "gloss": "des justes"
+    },
+    {
+      "surface": "יַעֲמֹד",
+      "gloss": "se tiendra"
+    }
+  ],
+  "timestamp": "2026-08-05T03:22:17.170220865Z",
+  "model": "glm-4.5"
+}

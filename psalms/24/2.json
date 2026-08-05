@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Car lui ⟨l'a⟩ fondée sur les mers, et établie sur les fleuves.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lui"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "les mers"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "⟨l'a⟩ fondée"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "les fleuves"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "établie"
+    }
+  ],
+  "timestamp": "2026-08-05T01:19:43.493615601Z",
+  "model": "glm-4.5"
+}

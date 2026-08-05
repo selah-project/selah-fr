@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Il erre pour le pain : où est-il ? Il sait que prêt dans sa main ⟨est⟩ le jour des ténèbres",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "Il erre"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "pour le pain"
+    },
+    {
+      "surface": "איה",
+      "gloss": "où est-il"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Il sait"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "prêt"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "dans sa main"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "des ténèbres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:55:18.575112311Z",
+  "model": "glm-4.5"
+}

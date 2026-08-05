@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Ma bouche j'ai ouverte et j'ai haleté, car pour tes commandements j'ai désiré.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ma bouche"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "j'ai ouverte"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "et j'ai haleté"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "pour tes commandements"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "j'ai désiré"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:24.068742090Z",
+  "model": "glm-4.5"
+}

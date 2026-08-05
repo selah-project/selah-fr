@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et il finira de faire expiation pour ⟨le⟩ lieu saint, et ⟨pour⟩ la tente d'assignation, et ⟨pour⟩ l'autel, et il fera approcher ⟨את⟩ le bouc ⟨le⟩ vivant",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Et il finira"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "de faire expiation"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨le⟩ lieu saint"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨le⟩ lieu saint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨pour⟩ la tente"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "d'assignation"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨pour⟩ l'autel"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨l⟩'autel"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "et il fera approcher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le bouc ⟨le⟩ vivant"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "le bouc"
+    },
+    {
+      "surface": "החי",
+      "gloss": "⟨le⟩ vivant"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:37.668409381Z",
+  "model": "glm-4.5"
+}

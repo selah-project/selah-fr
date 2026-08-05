@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Mes yeux ⟨⟩ sont continuellement vers YHWH car c'est ⟨⟩ lui qui fera sortir du filet mes pieds",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mes yeux"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sont continuellement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est lui"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "qui fera sortir"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "du filet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mes pieds"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:10.895016039Z",
+  "model": "glm-4.5"
+}

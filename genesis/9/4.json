@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Cependant, la chair dans son *nefesh*, son sang, vous ne le mangerez pas.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Cependant"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "dans son *nefesh*"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "son sang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le mangerez pas"
+    }
+  ],
+  "timestamp": "2026-08-04T18:42:32.602725563Z",
+  "model": "glm-4.5"
+}

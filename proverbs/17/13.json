@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Celui qui rend le mal pour le bien, le mal ne s'éloignera pas de sa maison.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "Celui qui rend"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pour"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "le bien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "s'éloignera pas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "de sa maison"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:53.800325722Z",
+  "model": "glm-4.5"
+}

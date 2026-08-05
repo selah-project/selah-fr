@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Qu'ils soient précipités aux mains du rocher leurs juges, et qu'ils entendent mes paroles, car elles sont agréables.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "qu'ils soient précipités"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "aux mains de"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "le rocher"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "leurs juges"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "et qu'ils entendent"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mes paroles"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "elles sont agréables"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:48.832589152Z",
+  "model": "glm-4.5"
+}

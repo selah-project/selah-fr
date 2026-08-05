@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Si j'ai été méchant, malheur à moi ; et si je suis juste, je ne lèverai pas ma tête, rassasié de honte, et tu vois ma misère.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "j'ai été méchant"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "malheur à moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "et si je suis juste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne ... pas"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "lèverai"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ma tête"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "rassasié"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "de honte"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "et tu vois"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ma misère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:51:34.200177836Z",
+  "model": "glm-4.5"
+}

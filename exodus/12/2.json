@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "Ce mois-ci ⟨est⟩ pour vous la tête des mois, il ⟨est⟩ le premier pour vous [pour] les mois de l'année.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ce mois-ci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ci"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tête"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "des mois"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "premier"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "[pour] les mois de"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "l'année"
+    }
+  ],
+  "timestamp": "2026-08-04T18:54:05.029085783Z",
+  "model": "glm-4.5"
+}

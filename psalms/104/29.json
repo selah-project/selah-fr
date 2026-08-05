@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Tu caches ⟨ton⟩ visage, ils sont terrifiés ; tu retires leur souffle, ils expirent et ⟨à⟩ leur poussière ils retournent.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "tu caches"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "⟨ton⟩ visage"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "ils sont terrifiés"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "tu retires"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "leur souffle"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "ils expirent"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "et ⟨à⟩"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "leur poussière"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ils retournent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:12.541119177Z",
+  "model": "glm-4.5"
+}

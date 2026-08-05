@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "genesis 38:13",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 38,
+  "translation": "Et ⟨cela fut⟩ rapporté à Tamar, en disant : Voici, ton beau-père monte à Timna pour tondre ⟨את⟩ son troupeau.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Et ⟨cela fut⟩ rapporté"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "à Tamar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en disant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "חמיך",
+      "gloss": "ton beau-père"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "monte"
+    },
+    {
+      "surface": "תמנתה",
+      "gloss": "à Timna"
+    },
+    {
+      "surface": "לגז",
+      "gloss": "pour tondre"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "⟨את⟩",
+      "marks": "son troupeau"
+    }
+  ],
+  "timestamp": "2026-08-04T18:49:52.931815913Z",
+  "model": "glm-4.5"
+}

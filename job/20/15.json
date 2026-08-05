@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "richesse il a avalée et il la vomit, de son ventre El la fait sortir",
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "richesse"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "il a avalée"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "et il la vomit"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "de son ventre"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "la fait sortir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:38.250523941Z",
+  "model": "glm-4.5"
+}

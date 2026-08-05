@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 137,
+  "translation": "Comment chanterions-nous ⟨את⟩ le chant de YHWH sur une terre d'étranger ?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Comment"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "chanterions-nous"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le chant"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "le chant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "une terre"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "d'étranger"
+    }
+  ],
+  "timestamp": "2026-08-05T02:58:52.400190451Z",
+  "model": "glm-4.5"
+}

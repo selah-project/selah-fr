@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 84,
+  "translation": "Que ⟨sont⟩ aimables tes demeures, YHWH Tsevaot !",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Que"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "sont aimables"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tes demeures"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-05T02:12:18.777939728Z",
+  "model": "glm-4.5"
+}

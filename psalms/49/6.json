@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "Pourquoi craindre au jour ⟨de⟩ mal, l'iniquité de mes talons m'entourera ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "craindre"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "au jour ⟨de⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "עון",
+      "gloss": "l'iniquité"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "de mes talons"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "m'entourera"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:22.069133538Z",
+  "model": "glm-4.5"
+}

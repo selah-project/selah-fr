@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 85,
+  "translation": "Certes, proche est pour ceux qui Le craignent Son salut, pour faire demeurer la kavod dans notre terre.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Certes"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "proche"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "pour ceux qui Le craignent"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "Son salut"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "pour faire demeurer"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "la kavod"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "dans notre terre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:13:18.729487615Z",
+  "model": "glm-4.5"
+}

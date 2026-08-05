@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "Le juste connaît ⟨le⟩ jugement des pauvres, ⟨le⟩ méchant ne comprend pas ⟨la⟩ connaissance",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "connaît"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Le juste"
+    },
+    {
+      "surface": "דין",
+      "gloss": "⟨le⟩ jugement"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "des pauvres"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "⟨le⟩ méchant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "comprend pas"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "⟨la⟩ connaissance"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:31.821553569Z",
+  "model": "glm-4.5"
+}

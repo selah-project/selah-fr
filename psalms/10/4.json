@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Le méchant, dans la hauteur de son visage, ne recherche pas : il n'y a ⟨de⟩ Dieu, dans toutes ses machinations.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Le méchant"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "dans la hauteur"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "de son visage"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "recherche pas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "il n'y a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨de⟩ Dieu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "ses machinations"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:28.330321003Z",
+  "model": "glm-4.5"
+}

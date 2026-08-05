@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Sauve-moi de la gueule du lion, et des cornes des buffles tu m'as répondu",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "sauve-moi"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "de la gueule"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "du lion"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "et des cornes"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "des buffles"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "tu m'as répondu"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:10.443107564Z",
+  "model": "glm-4.5"
+}

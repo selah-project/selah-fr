@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 135,
+  "translation": "Comme eux seront leurs faiseurs, quiconque se confie en eux",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "comme eux"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "seront"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "leurs faiseurs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "quiconque"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qui⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "se confie"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "en eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:57:20.473115915Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 105,
+  "translation": "Célébrez YHWH, invoquez son nom, faites connaître parmi les peuples ses exploits",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Célébrez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "invoquez"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "son nom"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "faites connaître"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "parmi les peuples"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ses exploits"
+    }
+  ],
+  "timestamp": "2026-08-05T02:30:32.632469604Z",
+  "model": "glm-4.5"
+}

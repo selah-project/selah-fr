@@ -1,0 +1,98 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Le matin sème ⟨את⟩ ta semence et le soir ne laisse pas reposer ta main, car tu ne sais pas laquelle réussira, celle-ci ou celle-ci, ou si toutes deux sont bonnes ensemble.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Le matin"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sème"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta semence"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ta semence"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "et le soir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "laisse pas reposer"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ta main"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "tu ne sais pas"
+    },
+    {
+      "surface": "יודע",
+      "gloss": ""
+    },
+    {
+      "surface": "אי",
+      "gloss": "laquelle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "réussira"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "או",
+      "gloss": "ou"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ou si"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "toutes deux"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "sont bonnes"
+    }
+  ],
+  "timestamp": "2026-08-05T04:48:45.413624872Z",
+  "model": "glm-4.5"
+}

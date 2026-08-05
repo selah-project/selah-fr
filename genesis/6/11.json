@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Et la terre fut corrompue devant Élohim, et la terre fut remplie de violence.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "Et fut corrompue"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "et fut remplie"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "de violence"
+    }
+  ],
+  "timestamp": "2026-08-04T18:42:05.205458188Z",
+  "model": "glm-4.5"
+}

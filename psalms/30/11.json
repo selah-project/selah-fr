@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Entends, YHWH, et fais-moi grâce ; YHWH, sois un secours pour moi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Entends"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "et fais-moi grâce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sois"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "un secours"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:23:50.472074242Z",
+  "model": "glm-4.5"
+}

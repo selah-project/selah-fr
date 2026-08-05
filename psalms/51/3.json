@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 51,
+  "translation": "Fais-moi grâce, ô Élohim, selon ton hessed, selon la multitude de tes compassions, efface mes rébellions",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Fais-moi grâce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ô Élohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "selon ton hessed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "selon la multitude"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "de tes compassions"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "efface"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mes rébellions"
+    }
+  ],
+  "timestamp": "2026-08-05T01:42:22.266552761Z",
+  "model": "glm-4.5"
+}

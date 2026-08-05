@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 86,
+  "translation": "Prête l'oreille, YHWH, à ma prière, et sois attentif à la voix de mes supplications.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "à ma prière"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "et sois attentif"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "à la voix"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "de mes supplications"
+    }
+  ],
+  "timestamp": "2026-08-05T02:14:04.369237537Z",
+  "model": "glm-4.5"
+}

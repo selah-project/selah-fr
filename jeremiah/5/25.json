@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Vos iniquités ont détourné ces choses, et vos péchés ont retenu ⟨le⟩ bon loin de vous.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "Vos iniquités"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ont détourné"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ces choses"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "et vos péchés"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "ont retenu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨le⟩ bon"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "loin de vous"
+    }
+  ],
+  "timestamp": "2026-08-04T22:38:09.904941390Z",
+  "model": "glm-4.5"
+}

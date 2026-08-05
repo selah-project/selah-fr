@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Fils de l'homme, jusques à quand ⟨mon⟩ gloire ⟨sera-t-elle⟩ ⟨pour⟩ la honte ? ⟨Vous⟩ aimez ⟨le⟩ vide et ⟨vous⟩ cherchez le mensonge, Séla.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fils"
+    },
+    {
+      "surface": "איש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jusques à quand"
+    },
+    {
+      "surface": "מה",
+      "gloss": "combien de temps"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ma gloire"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "pour la honte"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "aimez"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "le vide"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "cherchez"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "le mensonge"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:03:05.338885452Z",
+  "model": "glm-4.5"
+}

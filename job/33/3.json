@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "La droiture de mon cœur ⟨est⟩ mes propos, et la connaissance de mes lèvres ⟨est⟩ pure, ils ⟨la⟩ profèrent.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "La droiture"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "de mon cœur"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "⟨est⟩ mes propos"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "et la connaissance"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "de mes lèvres"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "⟨est⟩ pure"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "ils ⟨la⟩ profèrent"
+    }
+  ],
+  "timestamp": "2026-08-05T04:08:54.566055661Z",
+  "model": "glm-4.5"
+}

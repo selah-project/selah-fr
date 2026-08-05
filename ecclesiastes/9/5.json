@@ -1,0 +1,73 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Car les vivants savent qu'ils mourront, mais les morts ne savent ⟨rien⟩, et ils n'ont plus de salaire, car leur mémoire ⟨est⟩ oubliée.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "les vivants"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "savent"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "qu'ils mourront"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "mais les morts"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "savent"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "⟨rien⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "et ils n'ont"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "plus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "de"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "salaire"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "⟨est⟩ oubliée"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "leur mémoire"
+    }
+  ],
+  "timestamp": "2026-08-05T04:41:54.731480289Z",
+  "model": "glm-4.5"
+}

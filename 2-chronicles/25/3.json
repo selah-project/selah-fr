@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "fr",
+  "chapter": 25,
+  "translation": "Et il advint, comme le royaume se fut affermi sur lui, qu'il mit à mort ⟨את⟩ ses serviteurs, ceux qui avaient frappé ⟨את⟩ le roi son père.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "et il advint"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "comme"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "s'afferma"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "le royaume"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sur lui"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "et il mit à mort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ses serviteurs"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ses serviteurs"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ceux qui avaient frappé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le roi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "son père"
+    }
+  ],
+  "timestamp": "2026-08-05T06:09:32.568128929Z",
+  "model": "glm-5.2"
+}

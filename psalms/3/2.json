@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "YHWH, combien ⟨sont⟩ devenus nombreux mes adversaires, nombreux ⟨sont ceux qui⟩ se lèvent contre moi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מה",
+      "gloss": "combien"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "⟨sont⟩ devenus nombreux"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mes adversaires"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nombreux"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "⟨sont ceux qui⟩ se lèvent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:02:14.921963313Z",
+  "model": "glm-4.5"
+}

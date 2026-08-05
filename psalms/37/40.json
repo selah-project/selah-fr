@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 37,
+  "translation": "Et YHWH les aide et il les délivre il les délivre des méchants et il les sauve car ils cherchèrent refuge en lui",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Et YHWH les aide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "et il les délivre"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "il les délivre"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "et il les sauve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "ils cherchèrent refuge"
+    },
+    {
+      "surface": "בו",
+      "gloss": "en lui"
+    }
+  ],
+  "timestamp": "2026-08-05T01:30:41.951824877Z",
+  "model": "glm-4.5"
+}

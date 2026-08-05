@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Et tendit le roi à Esther ⟨את⟩ le sceptre d'or, et se leva Esther et se tint devant le roi",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "Et tendit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "à Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le sceptre"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "le sceptre"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "d'or"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "et se leva Esther"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "et se leva Esther"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "et se tint"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:02:49.354953341Z",
+  "model": "glm-4.5"
+}

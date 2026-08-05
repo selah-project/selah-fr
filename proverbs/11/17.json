@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "L'homme de hessed fait du bien à sa propre nefesh ; et celui qui est cruel trouble sa propre chair.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "fait du bien"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "à sa propre nefesh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "L'homme"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "de hessed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "et celui qui est cruel trouble"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "sa propre chair"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "cruel"
+    }
+  ],
+  "timestamp": "2026-08-05T03:21:25.894132069Z",
+  "model": "glm-4.5"
+}

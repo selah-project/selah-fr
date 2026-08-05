@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 129,
+  "translation": "Un chant des montées. Maintes fois ils m'ont serré depuis ma jeunesse — qu'Israël le dise donc —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Un chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Maintes fois"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ils m'ont serré"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "depuis ma jeunesse"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "qu'il dise"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T02:52:43.730471419Z",
+  "model": "glm-4.5"
+}

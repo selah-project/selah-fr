@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Ils oublièrent El, leur sauveur, ⟨celui qui⟩ fait des grandeurs en Égypte,",
+  "tokens": [
+    {
+      "surface": "שָׁ֭כְחוּ",
+      "gloss": "ils oublièrent"
+    },
+    {
+      "surface": "אֵ֣ל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוֹשִׁיעָ֑ם",
+      "gloss": "leur sauveur"
+    },
+    {
+      "surface": "עֹשֶׂ֖ה",
+      "gloss": "faisant"
+    },
+    {
+      "surface": "גְדֹל֣וֹת",
+      "gloss": "des grandeurs"
+    },
+    {
+      "surface": "בְּמִצְרָֽיִם",
+      "gloss": "en Égypte"
+    }
+  ],
+  "timestamp": "2026-08-05T05:33:00.167323645Z",
+  "model": "glm-5.2"
+}

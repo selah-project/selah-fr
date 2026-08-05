@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Et Aaron posera sur ⟨את⟩ les deux boucs des sorts, un sort pour YHWH, et un sort pour Azazel",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Et Aaron posera"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "שני",
+      "gloss": "⟨את⟩ les deux",
+      "marks": "les boucs"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "boucs"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "des sorts"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "un sort"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour YHWH"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "et un sort"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "un"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "pour Azazel"
+    }
+  ],
+  "timestamp": "2026-08-04T21:36:32.727595395Z",
+  "model": "glm-4.5"
+}

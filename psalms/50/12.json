@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Si j'ai faim, je ne le dirai pas à toi, car à moi ⟨est⟩ le monde et sa plénitude",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "j'ai faim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne le dirai pas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "je ne le dirai pas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "à toi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "le monde"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "et sa plénitude"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:58.648424220Z",
+  "model": "glm-4.5"
+}

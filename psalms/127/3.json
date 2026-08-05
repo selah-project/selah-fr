@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 127,
+  "translation": "Voici, les fils sont ⟨la⟩ part d'héritage de YHWH, ⟨le⟩ fruit du ventre est sa récompense.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨la⟩ part d'héritage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "⟨le⟩ fruit"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "du ventre"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "est sa récompense"
+    }
+  ],
+  "timestamp": "2026-08-05T02:51:25.558650505Z",
+  "model": "glm-4.5"
+}

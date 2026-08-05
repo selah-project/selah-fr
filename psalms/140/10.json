@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "La tête de ⟨ceux qui⟩ m'entourent, ⟨le⟩ mal de leurs lèvres les couvre.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "La tête"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "de ⟨ceux qui⟩ m'entourent"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "⟨le⟩ mal"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "de leurs lèvres"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "les couvre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:09.975527767Z",
+  "model": "glm-4.5"
+}

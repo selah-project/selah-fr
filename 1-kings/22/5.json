@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Et Yehoshaphat dit au roi d'Israël : cherche donc, je te prie, aujourd'hui la parole de YHWH.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Et dit"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "au"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "roi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "cherche"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc, je te prie"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "aujourd'hui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la parole de YHWH"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    }
+  ],
+  "timestamp": "2026-08-04T22:18:43.984405754Z",
+  "model": "glm-4.5"
+}

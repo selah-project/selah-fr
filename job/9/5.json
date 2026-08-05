@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "Celui ⟨qui⟩ déplace les montagnes, et elles ne ⟨le⟩ savent pas, celui qui les renverse dans sa colère.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "Celui ⟨qui⟩ déplace"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "les montagnes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne ... pas"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "savent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "celui que"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "les renverse"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "dans sa colère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:50:44.912540391Z",
+  "model": "glm-4.5"
+}

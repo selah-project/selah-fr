@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Ainsi a dit YHWH mon Élohim : Pais le troupeau ⟨destiné à⟩ la boucherie.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a dit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Pais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le troupeau"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "le troupeau"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "⟨destiné à⟩ la boucherie"
+    }
+  ],
+  "timestamp": "2026-08-05T00:53:40.240713634Z",
+  "model": "glm-4.5"
+}

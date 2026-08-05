@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Tu as aimé le mal plus que le bien, le mensonge plutôt que de parler justice. Séla.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Tu as aimé"
+    },
+    {
+      "surface": "רע",
+      "gloss": "le mal"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "plus que le bien"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "le mensonge"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "plutôt que de parler"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "justice"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:06.983801408Z",
+  "model": "glm-4.5"
+}

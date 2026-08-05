@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "Avec des trompettes et au son du cor, éclatez en acclamations devant le roi, YHWH.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Avec des trompettes"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "et au son"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "du cor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "éclatez en acclamations"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "devant"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "le roi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:25.506373765Z",
+  "model": "glm-4.5"
+}

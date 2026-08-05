@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "Tout le jour ⟨ils⟩ tordent mes propos ; toutes leurs pensées sont contre moi pour le mal.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mes propos"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "⟨ils⟩ tordent"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "leurs pensées"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pour le mal"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:07.635684747Z",
+  "model": "glm-4.5"
+}

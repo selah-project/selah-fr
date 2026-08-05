@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 29,
+  "translation": "As-tu vu ⟨un⟩ homme prompt dans ses paroles ? Il y a plus d'espoir pour ⟨un⟩ sot que pour lui.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "As-tu vu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨un⟩ homme"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "prompt"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "dans ses paroles"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "il y a plus d'espoir"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "pour ⟨un⟩ sot"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "que pour lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:38:29.399551458Z",
+  "model": "glm-4.5"
+}

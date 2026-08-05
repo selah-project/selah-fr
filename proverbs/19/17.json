@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 19,
+  "translation": "Prêter à YHWH, c'est faire grâce ⟨au⟩ pauvre, et son geste, il ⟨le⟩ rendra à lui.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "Prêter à"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "c'est faire grâce"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨au⟩ pauvre"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "et son geste"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "il ⟨le⟩ rendra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "à lui"
+    }
+  ],
+  "timestamp": "2026-08-05T03:29:28.819741384Z",
+  "model": "glm-4.5"
+}

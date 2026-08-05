@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et ⟨il⟩ a commandé ⟨aux⟩ nuages d'en haut, et ⟨aux⟩ portes des cieux ⟨il⟩ a ouvert",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Et ⟨il⟩ a commandé"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "⟨aux⟩ nuages"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "d'en haut"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "et ⟨aux⟩ portes"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "⟨il⟩ a ouvert"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:54.939607081Z",
+  "model": "glm-4.5"
+}

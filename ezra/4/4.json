@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et le peuple du pays relâchait les mains du peuple de Juda, et les effrayait ⟨את⟩ dans ⟨le⟩ bâtir.",
+  "tokens": [
+    {
+      "surface": "וַיְהִי֙",
+      "gloss": "Et il arriva"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "le peuple de"
+    },
+    {
+      "surface": "הָאָ֔רֶץ",
+      "gloss": "le pays"
+    },
+    {
+      "surface": "מְרַפִּ֖ים",
+      "gloss": "relâchant"
+    },
+    {
+      "surface": "יְדֵ֣י",
+      "gloss": "les mains de"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "le peuple de"
+    },
+    {
+      "surface": "יְהוּדָ֑ה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "et effrayant"
+    },
+    {
+      "surface": "אוֹתָ֖ם",
+      "gloss": "⟨את⟩ eux"
+    },
+    {
+      "surface": "לִבְנֽוֹת",
+      "gloss": "à bâtir"
+    }
+  ],
+  "timestamp": "2026-08-05T05:35:29.250285187Z",
+  "model": "glm-5.2"
+}

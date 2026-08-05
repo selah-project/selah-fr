@@ -1,0 +1,80 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "Et j'enverrai ⟨parmi⟩ eux ⟨את⟩ l'épée, ⟨את⟩ la famine et ⟨את⟩ la peste, jusqu'à ce qu'ils soient détruits de dessus la terre que j'ai donnée à eux et à leurs pères",
+  "tokens": [
+    {
+      "surface": "וְשִׁלַּ֣חְתִּי",
+      "gloss": "Et j'enverrai"
+    },
+    {
+      "surface": "בָ֔ם",
+      "gloss": "⟨parmi⟩ eux"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "l'épée"
+    },
+    {
+      "surface": "הַחֶ֖רֶב",
+      "gloss": "l'épée"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "la famine"
+    },
+    {
+      "surface": "הָרָעָ֣ב",
+      "gloss": "la famine"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "la peste"
+    },
+    {
+      "surface": "הַדָּ֑בֶר",
+      "gloss": "la peste"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "jusqu'à ce que"
+    },
+    {
+      "surface": "תֻּמָּ֥ם",
+      "gloss": "ils soient détruits"
+    },
+    {
+      "surface": "מֵעַ֣ל",
+      "gloss": "de dessus"
+    },
+    {
+      "surface": "הָאֲדָמָ֔ה",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נָתַ֥תִּי",
+      "gloss": "j'ai donnée"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "וְלַאֲבוֹתֵיהֶֽם",
+      "gloss": "et à leurs pères"
+    }
+  ],
+  "timestamp": "2026-08-04T16:32:02.134574356Z",
+  "model": "glm-4.5"
+}

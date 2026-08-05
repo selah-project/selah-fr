@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 15,
+  "translation": "Le sage répondra-t-il avec une connaissance de vent et remplira-t-il son ventre du vent d'est",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "Le sage"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "répondra-t-il"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "avec une connaissance"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "de vent"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "et remplira-t-il"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "du vent d'est"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "son ventre"
+    }
+  ],
+  "timestamp": "2026-08-05T03:55:10.669644519Z",
+  "model": "glm-4.5"
+}

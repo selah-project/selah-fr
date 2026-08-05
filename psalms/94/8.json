@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 94,
+  "translation": "Comprenez, ⟨êtes⟩ stupides parmi le peuple, et fous, quand deviendrez-vous intelligents",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Comprenez"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "stupides"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "parmi le peuple"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "et fous"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "devenez intelligents"
+    }
+  ],
+  "timestamp": "2026-08-05T02:21:24.734569312Z",
+  "model": "glm-4.5"
+}

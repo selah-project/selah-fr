@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Du rire je dis : Déraison ! et de la joie : Qu'est-ce que celle-ci accomplit ?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Du rire"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "je dis"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "Déraison"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "et de la joie"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qu'est-ce que"
+    },
+    {
+      "surface": "זה",
+      "gloss": "celle-ci"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "accomplit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:33:33.942561607Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 66,
+  "translation": "Que mes lèvres ont proférés, et ⟨que⟩ ma bouche a parlé dans ma détresse",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Que"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ont proférés"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mes lèvres"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "et ⟨que⟩ ma bouche a parlé"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bouche"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "dans ma détresse"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-08-05T01:54:39.112795224Z",
+  "model": "glm-4.5"
+}

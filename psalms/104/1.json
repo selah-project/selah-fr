@@ -1,0 +1,58 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Bénis, mon âme, ⟨את⟩ YHWH, YHWH, mon Élohim, tu es très grand, majesté et splendeur tu ⟨as⟩ revêtues.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bénis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "tu es très grand"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "majesté"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "et splendeur"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "tu ⟨as⟩ revêtues"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:20.693543727Z",
+  "model": "glm-4.5"
+}

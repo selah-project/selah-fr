@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 52,
+  "translation": "Pourquoi te glorifies-tu dans le mal, homme puissant ? Le hessed d'El, tout le jour.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "pourquoi"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "te glorifies-tu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dans le mal"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "homme puissant"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "le hessed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    }
+  ],
+  "timestamp": "2026-08-05T01:43:16.176818540Z",
+  "model": "glm-4.5"
+}

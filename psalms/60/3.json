@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 60,
+  "translation": "Élohim, tu nous as rejetés, tu as fait brèche ⟨en⟩ nous, tu ⟨es⟩ courroucé, restaure-nous",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "tu nous as rejetés"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "tu as fait brèche ⟨en⟩ nous"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "tu ⟨es⟩ courroucé"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "restaure-nous"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nous"
+    }
+  ],
+  "timestamp": "2026-08-05T01:50:00.174492539Z",
+  "model": "glm-4.5"
+}

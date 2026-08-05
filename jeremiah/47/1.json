@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 47,
+  "translation": "Ce qui fut la parole de YHWH à Jérémie le prophète ⟨concernant⟩ les Philistins, avant que Pharaon ne frappe ⟨את⟩ Gaza.",
+  "tokens": [
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ce qui"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "fut"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "la parole de"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "à"
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "Jérémie"
+    },
+    {
+      "surface": "הַנָּבִיא",
+      "gloss": "le prophète"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨concernant⟩"
+    },
+    {
+      "surface": "פְּלִשְׁתִּים",
+      "gloss": "les Philistins"
+    },
+    {
+      "surface": "בְּטֶרֶם",
+      "gloss": "avant que"
+    },
+    {
+      "surface": "יַכֶּה",
+      "gloss": "ne frappe"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Pharaon"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Gaza"
+    },
+    {
+      "surface": "עַזָּה",
+      "gloss": "Gaza"
+    }
+  ],
+  "timestamp": "2026-08-05T05:24:09.030545879Z",
+  "model": "glm-5.2"
+}

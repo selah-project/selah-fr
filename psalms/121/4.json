@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 121,
+  "translation": "Voici : il ne sommeillera pas et ne s'endormira pas, le gardien d'Israël.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sommeillera pas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ne"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "s'endormira pas"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "le gardien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d'Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:59.623288154Z",
+  "model": "glm-4.5"
+}

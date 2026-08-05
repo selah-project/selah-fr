@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Le Chant des chants, qui est à Shelomo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Le Chant"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "des chants"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "est à Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-05T04:17:23.548765024Z",
+  "model": "glm-4.5"
+}

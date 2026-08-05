@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Dans ta main sont mes temps, délivre-moi de la main de mes ennemis et de mes persécuteurs.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "dans ta main"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "sont mes temps"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "délivre-moi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "de la main"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "de mes ennemis"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "et de mes persécuteurs"
+    }
+  ],
+  "timestamp": "2026-08-05T01:24:31.939713571Z",
+  "model": "glm-4.5"
+}

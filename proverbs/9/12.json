@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": " Si tu es sage, tu es sage pour toi ; et si tu te moques, toi seul le porteras.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tu es sage"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tu es sage"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pour toi"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "et si tu te moques"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "toi seul"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "le porteras"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:51.383757162Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 140,
+  "translation": "Délivre-moi, YHWH, de ⟨l'⟩homme mauvais, de ⟨l'⟩homme de violence garde-moi",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Délivre-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mauvais"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "de violence"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "garde-moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:57.541841580Z",
+  "model": "glm-4.5"
+}

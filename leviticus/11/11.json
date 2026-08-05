@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Et une abomination ⟨ils seront⟩ pour vous, de leur chair vous ne mangerez pas, et ⟨את⟩ leur carcasse vous ⟨la⟩ tiendrez pour abomination",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Et une abomination"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ils seront⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pour vous"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "de leur chair"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangerez pas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leur carcasse"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "leur carcasse"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "tiendrez pour abomination"
+    }
+  ],
+  "timestamp": "2026-08-04T19:01:37.158862399Z",
+  "model": "glm-4.5"
+}

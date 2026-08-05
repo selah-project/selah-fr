@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Par ceci je sais que tu prends plaisir en moi, car mon ennemi ne triomphe pas sur moi.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Par ceci"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "je sais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "que"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "tu prends plaisir"
+    },
+    {
+      "surface": "בי",
+      "gloss": "en moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "triomphe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mon ennemi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sur moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:35:33.190793103Z",
+  "model": "glm-4.5"
+}

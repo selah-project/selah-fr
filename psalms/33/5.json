@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 33,
+  "translation": "Il aime la justice et le droit ; la terre est pleine du hessed de YHWH.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Il aime"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "et le droit"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "du hessed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "est pleine"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:26:23.703853758Z",
+  "model": "glm-4.5"
+}

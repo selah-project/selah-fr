@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Frappé comme l'herbe, mon cœur a séché, car j'ai oublié de manger mon pain.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "frappé"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "comme l'herbe"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "a séché"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "j'ai oublié"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "de manger"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mon pain"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:43.565211255Z",
+  "model": "glm-4.5"
+}

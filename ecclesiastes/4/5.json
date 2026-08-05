@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Le sot étreint ⟨את⟩ ses mains et dévore ⟨את⟩ sa propre chair.",
+  "tokens": [
+    {
+      "surface": "הַכְּסִיל",
+      "gloss": "Le sot"
+    },
+    {
+      "surface": "חֹבֵק",
+      "gloss": "étreint"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ses mains"
+    },
+    {
+      "surface": "יָדָיו",
+      "gloss": "ses mains"
+    },
+    {
+      "surface": "וְאֹכֵל",
+      "gloss": "et dévore"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "sa propre chair"
+    },
+    {
+      "surface": "בְּשָׂרוֹ",
+      "gloss": "sa chair"
+    }
+  ],
+  "timestamp": "2026-08-05T06:43:29.302664765Z",
+  "model": "glm-5.2"
+}

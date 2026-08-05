@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 104,
+  "translation": "Les arbres de YHWH se rassasient, les cèdres du Liban qu'⟨il⟩ a plantés.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "se rassasient"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "Les arbres"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "les cèdres"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "du Liban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "⟨il⟩ a plantés"
+    }
+  ],
+  "timestamp": "2026-08-05T02:29:42.250186356Z",
+  "model": "glm-4.5"
+}

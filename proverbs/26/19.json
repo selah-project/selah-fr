@@ -1,0 +1,50 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "Ainsi l'homme qui trompe son compagnon, et dit : « Ne suis-je pas en train de jouer ? »",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "l'homme"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "qui trompe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son compagnon"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "son compagnon"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "et dit"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "« Ne"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "suis-je pas en train de jouer"
+    },
+    {
+      "surface": "אני",
+      "gloss": "»"
+    }
+  ],
+  "timestamp": "2026-08-05T03:35:40.537408255Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 42,
+  "translation": "Mes larmes ont été mon pain jour et nuit, ⟨alors qu'on me dit⟩ tout le jour : où est ton Élohim ?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ont été"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mon"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "pain [larmes]"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pain"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "jour"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "et nuit"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "⟨alors qu'on me dit⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout le"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jour"
+    },
+    {
+      "surface": "איה",
+      "gloss": "où est"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ton Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:36:09.253482174Z",
+  "model": "glm-4.5"
+}

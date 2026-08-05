@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "La terre, d'elle sort le pain, et ⟨sous⟩ elle est retournée comme par le feu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "d'elle"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sort"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "le pain"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "et ⟨sous⟩ elle"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "est retournée"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "comme"
+    },
+    {
+      "surface": "אש",
+      "gloss": "le feu"
+    }
+  ],
+  "timestamp": "2026-08-05T04:04:50.217120802Z",
+  "model": "glm-4.5"
+}

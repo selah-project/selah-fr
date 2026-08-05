@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 14,
+  "translation": "Dans la multitude d'un peuple ⟨est⟩ la gloire d'un roi, et dans le manque d'un peuple est la ruine d'un dignitaire.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "Dans la multitude"
+    },
+    {
+      "surface": "עם",
+      "gloss": "d'un peuple"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "d'un roi"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "et dans le manque"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "d'un peuple"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "est la ruine"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "d'un dignitaire"
+    }
+  ],
+  "timestamp": "2026-08-05T03:23:47.645292271Z",
+  "model": "glm-4.5"
+}

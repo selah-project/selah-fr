@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "de peur qu'il ne boive et n'oublie ⟨ce qui est⟩ décrété, et ne change ⟨le⟩ jugement de tous les fils de la misère.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "de peur que"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "il ne boive"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "et n'oublie"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "⟨ce qui est⟩ décrété"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "et ne change"
+    },
+    {
+      "surface": "דין",
+      "gloss": "⟨le⟩ jugement"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fils"
+    },
+    {
+      "surface": "עני",
+      "gloss": "de la misère"
+    }
+  ],
+  "timestamp": "2026-08-05T03:40:48.348130344Z",
+  "model": "glm-4.5"
+}

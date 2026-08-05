@@ -1,0 +1,42 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 22,
+  "translation": "Ils partagent mes vêtements à eux et sur mon habit ils jettent ⟨le⟩ sort.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "Ils partagent"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mes vêtements"
+    },
+    {
+      "surface": "להם",
+      "gloss": "à eux"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "mon habit"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "ils jettent"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "⟨le⟩",
+      "marks": "sort"
+    }
+  ],
+  "timestamp": "2026-08-05T01:18:19.136301931Z",
+  "model": "glm-4.5"
+}

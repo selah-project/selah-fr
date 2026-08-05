@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 88,
+  "translation": "Mon œil ⟨est⟩ usé par la misère, je t'ai appelé, YHWH, tous les jours, j'ai étendu vers toi mes mains.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mon œil"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "est usé"
+    },
+    {
+      "surface": "מני",
+      "gloss": "par"
+    },
+    {
+      "surface": "עני",
+      "gloss": "la misère"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "je t'ai appelé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "יום",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "j'ai étendu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vers toi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mes mains"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:26.982941813Z",
+  "model": "glm-4.5"
+}

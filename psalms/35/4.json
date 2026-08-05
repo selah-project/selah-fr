@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Qu'ils soient honteux et confus, ⟨les⟩ cherchant mon âme, qu'ils reculent en arrière et soient confondus, ⟨les⟩ complotant mon mal",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Qu'ils soient honteux"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "et confus"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "⟨les⟩ cherchant"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mon âme"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "qu'ils reculent"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "en arrière"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "et soient confondus"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "⟨les⟩ complotant"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mon mal"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:13.543436971Z",
+  "model": "glm-4.5"
+}

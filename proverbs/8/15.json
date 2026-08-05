@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 8,
+  "translation": "Par moi ⟨les⟩rois règnent, et ⟨les⟩princes décrètent le droit.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Par moi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "⟨les⟩rois"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "règnent"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "et ⟨les⟩princes"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "décrètent"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "le droit"
+    }
+  ],
+  "timestamp": "2026-08-05T03:19:02.895207982Z",
+  "model": "glm-4.5"
+}

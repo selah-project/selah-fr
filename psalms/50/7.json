@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 50,
+  "translation": "Écoute, ⟨mon⟩ peuple, et je parlerai, Israël, et je témoignerai contre toi : Élohim, ⟨ton⟩ Élohim, moi",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Écoute"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨mon⟩ peuple"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "et je parlerai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "et je témoignerai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "contre toi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "⟨ton⟩ Élohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:48.239630918Z",
+  "model": "glm-4.5"
+}

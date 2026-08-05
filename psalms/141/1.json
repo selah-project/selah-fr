@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 141,
+  "translation": "Psaume de David. YHWH, je T'ai appelé, hâte-Toi vers moi, prête l'oreille à ma voix quand je crie vers Toi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "je T'ai appelé"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hâte-Toi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vers moi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "prête l'oreille"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "à ma voix"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "quand je crie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vers Toi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:03:54.337094214Z",
+  "model": "glm-4.5"
+}

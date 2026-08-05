@@ -1,0 +1,65 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Regardez ⟨les⟩ nations et voyez, et soyez émerveillés, émerveillez-vous ; car une action, une action est faite dans vos jours, vous n'y croirez pas si ⟨on la⟩ raconte.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Regardez"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "⟨les⟩ nations"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "et voyez"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "et soyez émerveillés"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "émerveillez-vous"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "une action"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "une action"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "dans vos jours"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pas"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "vous croirez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "⟨on la⟩ raconte"
+    }
+  ],
+  "timestamp": "2026-08-05T00:35:52.703524981Z",
+  "model": "glm-4.5"
+}

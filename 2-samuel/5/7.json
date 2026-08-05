@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "fr",
+  "chapter": 5,
+  "translation": "Et David prit ⟨את⟩ la forteresse de Sion ; elle est, la ville de David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Et ... prit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la forteresse de Sion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "la forteresse de"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "elle est"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "la ville de"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-04T22:09:45.868229300Z",
+  "model": "glm-4.5"
+}

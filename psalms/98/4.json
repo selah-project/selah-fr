@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 98,
+  "translation": "Poussez des cris de joie vers YHWH, toute la terre ; éclatez, et chantez, et psalmodiez.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Poussez des cris de joie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vers YHWH"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toute"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "éclatez"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "et chantez"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "et psalmodiez"
+    }
+  ],
+  "timestamp": "2026-08-05T02:24:40.304336376Z",
+  "model": "glm-4.5"
+}

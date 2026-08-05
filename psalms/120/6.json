@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 120,
+  "translation": "Longtemps a séjourné ma nefesh avec ⟨celui qui⟩ hait ⟨le⟩ shalom.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Longtemps"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "a séjourné"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pour elle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ma nefesh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "avec"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "⟨celui qui⟩ hait"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨le⟩ shalom"
+    }
+  ],
+  "timestamp": "2026-08-05T02:46:33.777697991Z",
+  "model": "glm-4.5"
+}

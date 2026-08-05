@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 36,
+  "translation": "Au chef de chœur, pour le serviteur de YHWH, pour David",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef de chœur"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pour le serviteur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pour David"
+    }
+  ],
+  "timestamp": "2026-08-05T01:29:15.047193161Z",
+  "model": "glm-4.5"
+}

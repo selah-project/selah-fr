@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 74,
+  "translation": "Maskil d'Asaph. Pourquoi, Élohim, as-tu rejeté ⟨pour toujours⟩ ? ⟨Ta⟩ colère fume contre le troupeau de ⟨ta⟩ pâture.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "d'Asaph"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Pourquoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "as-tu rejeté"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨pour toujours⟩"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "fume"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "⟨Ta⟩ colère"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "contre le troupeau"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "de ⟨ta⟩ pâture"
+    }
+  ],
+  "timestamp": "2026-08-05T02:02:29.981079185Z",
+  "model": "glm-4.5"
+}

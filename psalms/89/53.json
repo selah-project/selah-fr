@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Béni soit YHWH ⟨à⟩ jamais. Amen, et amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Béni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨à⟩ jamais"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "et amen"
+    }
+  ],
+  "timestamp": "2026-08-05T02:15:51.369399627Z",
+  "model": "glm-4.5"
+}

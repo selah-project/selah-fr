@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Guérisseur ⟨des⟩ brisés de cœur et panseur ⟨de⟩ leurs douleurs",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Guérisseur"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "brisés"
+    },
+    {
+      "surface": "לב",
+      "gloss": "cœur"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "panseur"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "leurs douleurs"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:16.853405752Z",
+  "model": "glm-4.5"
+}

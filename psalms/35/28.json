@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 35,
+  "translation": "Et ma langue méditera ta justice, tout le jour ta louange.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Et ma langue"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "méditera"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ta justice"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ta louange"
+    }
+  ],
+  "timestamp": "2026-08-05T01:28:31.941407028Z",
+  "model": "glm-4.5"
+}

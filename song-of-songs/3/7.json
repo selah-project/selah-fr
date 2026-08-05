@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 3,
+  "translation": "Voici son lit, ⟨qui est⟩ celui de Salomon : soixante hommes forts ⟨sont⟩ autour de lui, des plus vaillants d’Israël.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "son lit"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "⟨qui est⟩ celui de Salomon"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "soixante"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "hommes forts"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "autour"
+    },
+    {
+      "surface": "לה",
+      "gloss": "de lui"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "des plus vaillants"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "d’Israël"
+    }
+  ],
+  "timestamp": "2026-08-05T04:19:06.298915596Z",
+  "model": "glm-4.5"
+}

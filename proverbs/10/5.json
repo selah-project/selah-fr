@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Celui qui amasse en été est un fils sage ; celui qui dort à la moisson est un fils ⟨qui fait⟩ honte.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "amasse"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "en été"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sage"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "dort"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "à la moisson"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "honte"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:31.436426195Z",
+  "model": "glm-4.5"
+}

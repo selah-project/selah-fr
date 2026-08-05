@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Et Kenaan engendra ⟨את⟩ Tsidon son premier-né et ⟨את⟩ Heth.",
+  "tokens": [
+    {
+      "surface": "וּכְנַ֗עַן",
+      "gloss": "Et Kenaan"
+    },
+    {
+      "surface": "יָלַ֛ד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צִיד֥וֹן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בְּכֹר֖וֹ",
+      "gloss": "son premier-né"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Heth"
+    },
+    {
+      "surface": "חֵֽת",
+      "gloss": "Heth"
+    }
+  ],
+  "timestamp": "2026-08-05T05:44:23.534148466Z",
+  "model": "glm-5.2"
+}

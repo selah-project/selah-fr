@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "Je te célèbre, car je suis fait avec étonnement ⟨et⟩ merveille ; merveilleuses sont tes œuvres, et ma nefesh le sait très bien.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Je te célèbre"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "avec étonnement ⟨et⟩ merveille"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "je suis fait"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "merveilleuses"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sont tes œuvres"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "et ma nefesh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "le sait"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "très bien"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.918225586Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 13,
+  "ref": "job 30:13",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 30,
+  "translation": "Ils détruisent mon sentier, ils profitent de ⟨mon⟩ désastre, il n'y a ⟨pas⟩ d'aideur pour eux.",
+  "tokens": [
+    {
+      "surface": "נתסו",
+      "gloss": "Ils détruisent"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "mon sentier"
+    },
+    {
+      "surface": "להותי",
+      "gloss": "ils profitent de ⟨mon⟩ désastre"
+    },
+    {
+      "surface": "יעילו",
+      "gloss": "ils profitent"
+    },
+    {
+      "surface": "לא",
+      "gloss": "il n'y a ⟨pas⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "d'aideur"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:24.755829328Z",
+  "model": "glm-4.5"
+}

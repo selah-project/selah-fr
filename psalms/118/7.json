@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "YHWH est pour moi parmi mes secours, et je regarderai ⟨ceux qui⟩ me haïssent.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לי",
+      "gloss": "est pour moi"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "parmi mes secours"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et je"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "regarderai"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "⟨ceux qui⟩ me haïssent"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:56.653507219Z",
+  "model": "glm-4.5"
+}

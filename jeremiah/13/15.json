@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 13,
+  "translation": "Écoutez et prêtez l'oreille, ne soyez pas orgueilleux, car YHWH a parlé.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וּ",
+      "gloss": "Écoutez"
+    },
+    {
+      "surface": "וְהַאֲזִ֖ינוּ",
+      "gloss": "et prêtez l'oreille"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תִּגְבָּ֑הוּ",
+      "gloss": "soyez pas orgueilleux"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "דִּבֵּֽר",
+      "gloss": "a parlé"
+    }
+  ],
+  "timestamp": "2026-08-04T16:19:35.199189618Z",
+  "model": "glm-4.5"
+}

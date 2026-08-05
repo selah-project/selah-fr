@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 73,
+  "translation": "C'est pourquoi l'orgueil ⟨est⟩ comme un collier pour eux, la violence les couvre comme un manteau.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "C'est pourquoi"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "⟨est⟩ comme un collier pour eux"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "l'orgueil"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "couvre"
+    },
+    {
+      "surface": "שית",
+      "gloss": "comme un manteau"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "la violence"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pour eux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:01:21.809789721Z",
+  "model": "glm-4.5"
+}

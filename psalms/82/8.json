@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 82,
+  "translation": "Lève-toi, Élohim, juge la terre, car tu hériteras toutes les nations.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Lève-toi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "juge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "la terre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "hériteras"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "toutes les"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nations"
+    }
+  ],
+  "timestamp": "2026-08-05T02:09:58.995796753Z",
+  "model": "glm-4.5"
+}

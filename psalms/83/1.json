@@ -1,0 +1,25 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 83,
+  "translation": "Un chant, un psaume d'Asaph.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Un chant"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": ", un psaume"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "d'Asaph."
+    }
+  ],
+  "timestamp": "2026-08-05T02:10:40.614288731Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 53,
+  "translation": "Élohim ⟨a⟩ regardé du haut des cieux sur les fils de l'homme, pour voir s'il y a un intelligent, un chercheur d'Élohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "du haut des cieux"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "regardé"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "de l'homme"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "היש",
+      "gloss": "s'il y a"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "un intelligent"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "un chercheur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Élohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    }
+  ],
+  "timestamp": "2026-08-05T01:45:00.577617947Z",
+  "model": "glm-4.5"
+}

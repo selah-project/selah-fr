@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 28,
+  "translation": "Les hommes de mal ne comprennent pas ⟨le⟩ jugement, et ⟨les⟩ chercheurs de YHWH comprennent tout.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Les hommes de"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "comprennent pas"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨le⟩ jugement"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "et ⟨les⟩ chercheurs de"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "comprennent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    }
+  ],
+  "timestamp": "2026-08-05T03:37:17.786690581Z",
+  "model": "glm-4.5"
+}

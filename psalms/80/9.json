@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Une vigne d'Égypte tu fais partir, tu chasses des nations et tu la plantes",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "Une vigne"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "d'Égypte"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "tu fais partir"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "tu chasses"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "des nations"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "et tu la plantes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:05.935027853Z",
+  "model": "glm-4.5"
+}

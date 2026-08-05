@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Une vexation pour son père, un fils stupide, et une amertume pour celle qui l'a enfanté",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "vexation"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "pour son père"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un fils"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "stupide"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "et une amertume"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "pour celle qui l'a enfanté"
+    }
+  ],
+  "timestamp": "2026-08-05T03:27:55.528060246Z",
+  "model": "glm-4.5"
+}

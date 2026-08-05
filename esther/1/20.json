@@ -1,0 +1,85 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "et ⟨qu'on entende⟩ le décret du roi qu'il fera dans tout son royaume — car il est grand — et toutes les femmes donneront de la considération à leurs maris, du grand jusqu'au petit.",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "et ⟨qu'on entende⟩"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "le décret"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "du roi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "il fera"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans tout"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "son royaume"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "il est grand"
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et toutes"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "les femmes"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "donneront"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "de la considération"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "à leurs maris"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "du grand"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "jusqu'au"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "petit"
+    }
+  ],
+  "timestamp": "2026-08-05T04:53:34.236478726Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 12,
+  "translation": "et Yirmeyah, et Yakhaziël, et Yohanan, et Yozavad le Guédérathi",
+  "tokens": [
+    {
+      "surface": "וְיִרְמְיָ֤ה",
+      "gloss": "et Yirmeyah"
+    },
+    {
+      "surface": "וְיַחֲזִיאֵל֙",
+      "gloss": "et Yakhaziël"
+    },
+    {
+      "surface": "וְי֣וֹחָנָ֔ן",
+      "gloss": "et Yohanan"
+    },
+    {
+      "surface": "וְיוֹזָבָ֖ד",
+      "gloss": "et Yozavad"
+    },
+    {
+      "surface": "הַגְּדֵרָתִֽי",
+      "gloss": "le Guédérathi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:57:31.751170153Z",
+  "model": "glm-5.2"
+}

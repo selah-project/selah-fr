@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Le commencement de ta parole est vérité, et à toujours tout jugement de ta justice.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "le commencement"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "de ta parole"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "est vérité"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "et à toujours"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jugement"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "de ta justice"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:56.733661821Z",
+  "model": "glm-4.5"
+}

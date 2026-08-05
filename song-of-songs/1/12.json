@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Pendant que le roi ⟨est⟩ dans son cercle, mon nard a donné son parfum.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Pendant que"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "le roi ⟨est⟩"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "dans son cercle"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "mon nard"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a donné"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "son parfum"
+    }
+  ],
+  "timestamp": "2026-08-05T04:17:04.829671878Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Juste ⟨est⟩ YHWH dans toutes ⟨ses⟩ voies, et bienveillant dans toutes ⟨ses⟩ œuvres.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Juste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toutes"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "⟨ses⟩ voies"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "et bienveillant"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dans toutes"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "⟨ses⟩ œuvres"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:53.057179691Z",
+  "model": "glm-4.5"
+}

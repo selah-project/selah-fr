@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 89,
+  "translation": "Car tu es la gloire de leur force, et dans ta faveur notre corne est élevée",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "la gloire"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "de leur force"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu es"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "et dans ta faveur"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "notre corne est élevée"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-05T02:16:21.391202580Z",
+  "model": "glm-4.5"
+}

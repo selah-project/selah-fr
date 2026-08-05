@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 77,
+  "translation": "J'ai compté les jours d'autrefois, les années des temps anciens.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "J'ai compté"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "les jours"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "d'autrefois"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "les années"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "des temps anciens"
+    }
+  ],
+  "timestamp": "2026-08-05T02:04:51.304259927Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 16,
+  "translation": "Pour les saints qui sont dans le pays, et les nobles, tout mon plaisir est en eux.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Pour les saints"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qui"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sont dans le pays"
+    },
+    {
+      "surface": "המה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "et les nobles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "mon plaisir"
+    },
+    {
+      "surface": "בם",
+      "gloss": "en eux"
+    }
+  ],
+  "timestamp": "2026-08-05T01:13:28.333615973Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 108,
+  "translation": "Réveille-toi, ⟨le⟩ nevel et ⟨le⟩ kinnor; je réveillerai ⟨l'⟩aube.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Réveille-toi"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "⟨le⟩ nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "et ⟨le⟩ kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "je réveillerai"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨l'⟩aube"
+    }
+  ],
+  "timestamp": "2026-08-05T02:33:15.932287574Z",
+  "model": "glm-4.5"
+}

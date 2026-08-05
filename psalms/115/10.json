@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 115,
+  "translation": "Maison d'Aharón, confiez-vous en YHWH, leur aide et leur bouclier, c'est Lui.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Maison"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "d'Aharón"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "confiez-vous"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "en YHWH"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "leur aide"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "et leur bouclier"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "c'est Lui"
+    }
+  ],
+  "timestamp": "2026-08-05T02:41:19.793210783Z",
+  "model": "glm-4.5"
+}

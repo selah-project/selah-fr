@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 147,
+  "translation": "Dénombrant le nombre des étoiles, à toutes ⟨elles⟩ des noms ⟨Il⟩ appelle",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Dénombrant"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "le nombre"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "des étoiles"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "à toutes"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "des noms"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "appelle"
+    }
+  ],
+  "timestamp": "2026-08-05T03:08:16.853538731Z",
+  "model": "glm-4.5"
+}

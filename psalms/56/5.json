@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 56,
+  "translation": "En Élohim je louerai sa parole, en Élohim je me confie, je ne craindrai pas — que peut ⟨me faire⟩ la chair ?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "en Élohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "je louerai"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa parole"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "en Élohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "je me confie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "craindrai pas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "que"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "peut faire"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "la chair"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨me⟩"
+    }
+  ],
+  "timestamp": "2026-08-05T01:47:07.635485728Z",
+  "model": "glm-4.5"
+}

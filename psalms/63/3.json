@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 63,
+  "translation": "Ainsi dans le sanctuaire, je t'ai vu, pour voir ta force et ta gloire.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ainsi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "dans le sanctuaire"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "je t'ai vu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pour voir"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ta force"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "et ta gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T01:52:16.961312836Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 20,
+  "translation": "Il n'y a ⟨pas⟩ de reste pour sa nourriture, donc son bien ne ⟨restera⟩ pas.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Il n'y a ⟨pas⟩"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "de reste"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "pour sa nourriture"
+    },
+    {
+      "surface": "על",
+      "gloss": "donc"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "⟨restera⟩ pas"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "son bien"
+    }
+  ],
+  "timestamp": "2026-08-05T03:59:40.179775149Z",
+  "model": "glm-4.5"
+}

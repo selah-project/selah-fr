@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 145,
+  "translation": "Louange de David. Je t'exalterai, mon Élohim, ⟨le⟩ Roi, et je bénirai ton nom pour toujours et à perpétuité.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Louange"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Je t'exalterai"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨le⟩ Roi"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "et je bénirai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ton nom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "pour toujours"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "et à perpétuité"
+    }
+  ],
+  "timestamp": "2026-08-05T03:06:46.545944442Z",
+  "model": "glm-4.5"
+}

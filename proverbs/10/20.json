@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "fr",
+  "chapter": 10,
+  "translation": "Argent choisi, la langue du juste, le cœur des méchants, ⟨comme⟩ peu de chose.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Argent"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "choisi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "la langue"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "du juste"
+    },
+    {
+      "surface": "לב",
+      "gloss": "le cœur"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "des méchants"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "⟨comme⟩ peu de chose"
+    }
+  ],
+  "timestamp": "2026-08-05T03:20:36.533792058Z",
+  "model": "glm-4.5"
+}

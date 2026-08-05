@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "car il bénit son âme dans sa vie, et on te loue, quand tu agis bien ⟨pour⟩ toi-même",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "son âme"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "dans sa vie"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "il bénit"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "et on te loue"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quand"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "tu agis bien"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pour⟩ toi-même"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:18.500706926Z",
+  "model": "glm-4.5"
+}

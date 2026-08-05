@@ -1,0 +1,38 @@
+{
+  "tier": "bulk",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 106,
+  "translation": "Et il vit leur détresse ⟨en⟩ entendant ⟨את⟩ leur cri",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Et il vit"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "leur détresse"
+    },
+    {
+      "surface": "להם",
+      "gloss": "leur"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "en entendant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leur cri"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "leur cri"
+    }
+  ],
+  "timestamp": "2026-08-05T02:31:10.611185752Z",
+  "model": "glm-4.5"
+}

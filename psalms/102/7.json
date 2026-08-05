@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Je ressemble ⟨à⟩ un pélican du désert, je suis comme ⟨un⟩ chouette ⟨des⟩ ruines.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "je ressemble"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "⟨à⟩ un pélican"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "du désert"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "je suis"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "comme ⟨un⟩ chouette"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "⟨des⟩ ruines"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:43.565721663Z",
+  "model": "glm-4.5"
+}

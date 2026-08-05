@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 41,
+  "translation": "Il compte le fer comme de la paille, ⟨et⟩ le cuivre comme du bois pourri.",
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "il compte"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "le fer comme de la paille"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "⟨et⟩"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "le cuivre comme du bois"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "pourri"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "cuivre"
+    }
+  ],
+  "timestamp": "2026-08-05T04:15:47.335238309Z",
+  "model": "glm-4.5"
+}

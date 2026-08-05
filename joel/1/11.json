@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "fr",
+  "chapter": 1,
+  "translation": "Sont honteux les laboureurs, hurlent les vignerons sur le blé et sur l'orge, car a péri la moisson du champ",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "Sont honteux"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "les laboureurs"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "hurlent"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "les vignerons"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "le blé"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "et sur"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "l'orge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "a péri"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "la moisson"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "du champ"
+    }
+  ],
+  "timestamp": "2026-08-05T00:10:27.135252822Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 24,
+  "translation": "C'est ⟨la⟩ génération de ceux qui le recherchent, de ceux qui recherchent ta face, ⟨ô⟩ Jacob, Sélah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "C'est"
+    },
+    {
+      "surface": "דור",
+      "gloss": "⟨la⟩ génération"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "de ceux qui le recherchent"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "de ceux qui recherchent"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ta face"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "⟨ô⟩ Jacob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sélah"
+    }
+  ],
+  "timestamp": "2026-08-05T01:19:30.438877907Z",
+  "model": "glm-4.5"
+}

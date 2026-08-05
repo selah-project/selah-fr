@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 78,
+  "translation": "Et il livra leur bétail ←à la⟩ grêle, et leurs troupeaux ←aux⟩ flammes brûlantes.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Et il livra"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "←à la⟩ grêle"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "leur bétail"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "et leurs troupeaux"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "←aux⟩ flammes brûlantes"
+    }
+  ],
+  "timestamp": "2026-08-05T02:05:39.133316961Z",
+  "model": "glm-4.5"
+}

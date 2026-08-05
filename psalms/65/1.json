@@ -1,0 +1,29 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 65,
+  "translation": "Au chef des chantres, un psaume de David, un chant.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Au chef des chantres"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "un psaume"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "de David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "un chant"
+    }
+  ],
+  "timestamp": "2026-08-05T01:53:35.663796603Z",
+  "model": "glm-4.5"
+}

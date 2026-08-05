@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Toi, tu as connu mon opprobre, et ma honte, et mon déshonneur ; devant toi ⟨sont⟩ tous mes adversaires.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu as connu"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mon opprobre"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "et ma honte"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "et mon déshonneur"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "devant toi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tous"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mes adversaires"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:25.317989046Z",
+  "model": "glm-4.5"
+}

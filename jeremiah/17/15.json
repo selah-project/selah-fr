@@ -1,0 +1,49 @@
+{
+  "tier": "bulk",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "fr",
+  "chapter": 17,
+  "translation": "Voici, ils me disent : « Où ⟨est⟩ la parole de YHWH ? Qu'elle vienne donc ! »",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Voici"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ils"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "disent"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Où"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "la parole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "de YHWH"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Qu'elle vienne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "donc"
+    }
+  ],
+  "timestamp": "2026-08-04T16:24:42.944964345Z",
+  "model": "glm-4.5"
+}

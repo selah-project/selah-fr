@@ -1,0 +1,46 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 123,
+  "translation": "Chant des montées. Vers toi j'ai levé ⟨את⟩ mes yeux, toi qui sièges dans les cieux.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Chant"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "des montées"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Vers toi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "j'ai levé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mes yeux"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mes yeux"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "toi qui sièges"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dans les cieux"
+    }
+  ],
+  "timestamp": "2026-08-05T02:48:23.248564557Z",
+  "model": "glm-4.5"
+}

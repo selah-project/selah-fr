@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "fr",
+  "chapter": 6,
+  "translation": "Il y a un mal que j'ai vu sous le soleil, et ⟨il est⟩ grand sur l'humain",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Il y a"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "un mal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "que"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "j'ai vu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sous"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "le soleil"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "et ⟨il est⟩ grand"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨elle⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sur"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "l'humain"
+    }
+  ],
+  "timestamp": "2026-08-05T04:37:06.348575522Z",
+  "model": "glm-4.5"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 80,
+  "translation": "Les montagnes ⟨sont⟩ couvertes de son ombre, et ses rameaux ⟨sont comme⟩ des cèdres d'El",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "couvertes"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Les montagnes"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "de son ombre"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "et ses rameaux"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "des cèdres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "d'El"
+    }
+  ],
+  "timestamp": "2026-08-05T02:08:05.935322310Z",
+  "model": "glm-4.5"
+}

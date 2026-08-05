@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "fr",
+  "chapter": 2,
+  "translation": "Mon bien-aimé ⟨est⟩ à moi et moi ⟨suis⟩ à lui, qui paît parmi les lys.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Mon bien-aimé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨est⟩ à moi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "et moi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨suis⟩ à lui"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "qui paît"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "parmi les lys"
+    }
+  ],
+  "timestamp": "2026-08-05T04:18:15.683524499Z",
+  "model": "glm-4.5"
+}

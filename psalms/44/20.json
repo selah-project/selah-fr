@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Si tu nous as écrasés au lieu des chacals, et couverts de l'ombre de la mort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "tu nous as écrasés"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "au lieu"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "des chacals"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "et couverts"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sur nous"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "de l'ombre de la mort"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:55.000558425Z",
+  "model": "glm-4.5"
+}

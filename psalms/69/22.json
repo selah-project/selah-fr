@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 69,
+  "translation": "Et ils ont mis dans ma nourriture du poison, et pour ma soif ils m'ont fait boire du vinaigre.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "et ils ont mis"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "dans ma nourriture"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "du poison"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "et pour ma soif"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "ils m'ont fait boire"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "du vinaigre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:57:05.930362670Z",
+  "model": "glm-4.5"
+}

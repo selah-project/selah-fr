@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 11,
+  "translation": "Car YHWH est juste, il aime la justice, les droits verront sa face.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Car"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "YHWH est juste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "la justice"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "il aime"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "les droits"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "verront"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "sa face"
+    }
+  ],
+  "timestamp": "2026-08-05T01:07:57.144597724Z",
+  "model": "glm-4.5"
+}

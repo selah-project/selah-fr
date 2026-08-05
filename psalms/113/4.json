@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 113,
+  "translation": "YHWH ⟨est⟩ élevé au-dessus de toutes les nations, sa gloire au-dessus des cieux.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "élevé ⟨est⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "au-dessus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toutes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "les nations"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "על",
+      "gloss": "au-dessus"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "des cieux"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sa gloire"
+    }
+  ],
+  "timestamp": "2026-08-05T02:40:00.001528990Z",
+  "model": "glm-4.5"
+}

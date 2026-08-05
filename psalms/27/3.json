@@ -1,0 +1,69 @@
+{
+  "tier": "bulk",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 27,
+  "translation": "Si ⟨un⟩ camp s'encampne contre moi, mon cœur ne craindra pas ; si ⟨une⟩ guerre se lève contre moi, en cela j'ai confiance.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "s'encampne"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "camp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "craindra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "se lève"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "contre moi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "guerre"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "en cela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "j'ai"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "confiance"
+    }
+  ],
+  "timestamp": "2026-08-05T01:21:37.045891121Z",
+  "model": "glm-4.5"
+}

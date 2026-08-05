@@ -1,0 +1,61 @@
+{
+  "tier": "bulk",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 40,
+  "translation": "Et moi, je suis pauvre et indigent ; Adonaï pense à moi. Tu es mon aide et mon libérateur, mon Élohim, ne tarde pas.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Et moi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pauvre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "et indigent"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaï"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "pense à moi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "à moi"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mon aide"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "et mon libérateur"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu es"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mon Élohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tarde"
+    }
+  ],
+  "timestamp": "2026-08-05T01:34:28.746879895Z",
+  "model": "glm-4.5"
+}

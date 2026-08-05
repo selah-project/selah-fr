@@ -1,0 +1,37 @@
+{
+  "tier": "bulk",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 139,
+  "translation": "D'une haine parfaite, je les ai haïs ; ils sont devenus pour moi des ennemis.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "parfaite"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "haine"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "je les ai haïs"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "des ennemis"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ils sont devenus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pour moi"
+    }
+  ],
+  "timestamp": "2026-08-05T03:02:03.386865935Z",
+  "model": "glm-4.5"
+}

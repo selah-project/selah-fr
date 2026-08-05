@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 119,
+  "translation": "Sont nombreuses tes compassions, YHWH, selon tes jugements fais-moi vivre.",
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "tes compassions"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Sont nombreuses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "selon tes jugements"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "fais-moi vivre"
+    }
+  ],
+  "timestamp": "2026-08-05T02:45:30.423302349Z",
+  "model": "glm-4.5"
+}

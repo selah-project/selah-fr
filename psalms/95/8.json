@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 95,
+  "translation": "N'endurcissez pas votre cœur, comme à Meriba, comme le jour de Massa, dans le désert.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "endurcissez pas"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "votre cœur"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "comme à Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "comme le jour"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "de Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dans le désert"
+    }
+  ],
+  "timestamp": "2026-08-05T02:22:14.297368506Z",
+  "model": "glm-4.5"
+}

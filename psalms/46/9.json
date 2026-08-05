@@ -1,0 +1,45 @@
+{
+  "tier": "bulk",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 46,
+  "translation": "Voyez, contemplez les actes de YHWH, ⟨qu'il⟩ a mis des ruines sur ⟨la⟩ terre.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Voyez"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "contemplez"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "les actes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨qu'il⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a mis"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "des ruines"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sur ⟨la⟩ terre"
+    }
+  ],
+  "timestamp": "2026-08-05T01:39:22.439309256Z",
+  "model": "glm-4.5"
+}

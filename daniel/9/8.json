@@ -1,0 +1,53 @@
+{
+  "tier": "bulk",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "fr",
+  "chapter": 9,
+  "translation": "YHWH, à nous la honte du visage, à nos rois, à nos chefs, et à nos pères, en ce que nous avons péché contre toi",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "à nous"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "la honte"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "du visage"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "à nos rois"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "à nos chefs"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "et à nos pères"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "en ce que"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nous avons péché"
+    },
+    {
+      "surface": "לך",
+      "gloss": "contre toi"
+    }
+  ],
+  "timestamp": "2026-08-05T05:17:07.299649221Z",
+  "model": "glm-4.5"
+}

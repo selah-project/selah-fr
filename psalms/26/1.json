@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 26,
+  "translation": "De David. Juge-moi, YHWH, car j'ai marché dans mon intégrité, et en YHWH j'ai confiance, je ne ⟨vais pas⟩ chanceler.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "De David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "juge-moi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "אני",
+      "gloss": "j'ai"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "dans mon intégrité"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "marché"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "et en YHWH"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "j'ai confiance"
+    },
+    {
+      "surface": "לא",
+      "gloss": "je ne"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "⟨vais pas⟩ chanceler"
+    }
+  ],
+  "timestamp": "2026-08-05T01:20:56.185363175Z",
+  "model": "glm-4.5"
+}

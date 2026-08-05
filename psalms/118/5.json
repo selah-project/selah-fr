@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 118,
+  "translation": "De la détresse j'ai appelé Yah, Yah m'a répondu dans l'espace.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "De"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "la détresse"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "j'ai appelé"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "m'a répondu"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "dans l'espace"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-05T02:42:56.653158631Z",
+  "model": "glm-4.5"
+}

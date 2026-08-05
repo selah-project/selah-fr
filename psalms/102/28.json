@@ -1,0 +1,33 @@
+{
+  "tier": "bulk",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 102,
+  "translation": "Et toi, il est, et tes années ne finiront pas.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Et toi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il est"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "et tes années"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "finiront pas"
+    }
+  ],
+  "timestamp": "2026-08-05T02:27:47.062796217Z",
+  "model": "glm-4.5"
+}

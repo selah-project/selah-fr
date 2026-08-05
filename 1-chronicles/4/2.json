@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "fr",
+  "chapter": 4,
+  "translation": "Et Reaya fils de Shoval engendra ⟨את⟩ Yahat, et Yahat engendra ⟨את⟩ Ahoumaï et ⟨את⟩ Lahad. Ceux-là ⟨sont⟩ les familles du Tsoraati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Et Reaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "et Yahat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "engendra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahoumaï"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahoumaï"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "et ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ceux-là"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "les familles"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "du Tsoraati"
+    }
+  ],
+  "timestamp": "2026-08-05T05:49:36.953191327Z",
+  "model": "glm-5.2"
+}

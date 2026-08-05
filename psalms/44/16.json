@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 44,
+  "translation": "Tout le jour mon déshonneur est devant moi, et la honte de mon visage m'a couvert",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tout"
+    },
+    {
+      "surface": "היום",
+      "gloss": "le jour"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "mon déshonneur"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "est devant moi"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "et la honte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "de mon visage"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "m'a couvert"
+    }
+  ],
+  "timestamp": "2026-08-05T01:37:44.473033126Z",
+  "model": "glm-4.5"
+}

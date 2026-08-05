@@ -1,0 +1,41 @@
+{
+  "tier": "bulk",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "fr",
+  "chapter": 31,
+  "translation": "Ne voit-il pas mes voies, et ne compte-t-il pas tous mes pas ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "il"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "voit-il pas"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mes voies"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "et tous"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "mes pas"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "compte-t-il"
+    }
+  ],
+  "timestamp": "2026-08-05T04:06:59.438524418Z",
+  "model": "glm-4.5"
+}

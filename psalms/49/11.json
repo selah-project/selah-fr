@@ -1,0 +1,57 @@
+{
+  "tier": "bulk",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "fr",
+  "chapter": 49,
+  "translation": "car il voit ⟨les⟩ sages mourir, ensemble ⟨le⟩ sot et ⟨le⟩ stupide périssent, et ils laissent à d'autres leur richesse",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "il voit"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "⟨les⟩ sages"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mourir"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ensemble"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "⟨le⟩ sot"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "et ⟨le⟩ stupide"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "périssent"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "et ils laissent"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "à d'autres"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "leur richesse"
+    }
+  ],
+  "timestamp": "2026-08-05T01:41:14.374341681Z",
+  "model": "glm-4.5"
+}
