@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et Mosheh et Élazar le prêtre prirent ⟨את⟩ l'or des chefs de milliers et de centaines, et ils l'apportèrent à la tente d'assignation, mémorial pour les fils d'Israël devant YHWH.",
+  "translation": "Et Mosheh et Élazar le prêtre prirent ⟨את⟩ l'or ⟨את⟩ des chefs de milliers et de centaines, et ils l'apportèrent à la tente d'assignation, mémorial pour les fils d'Israël devant YHWH.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "des"
+      "gloss": "⟨את⟩ des"
     },
     {
       "surface": "שרי",
@@ -90,6 +90,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T09:39:28.986030551Z",
+  "timestamp": "2026-08-24T21:49:23.364724160Z",
   "model": "glm-4.5"
 }

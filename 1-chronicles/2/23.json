@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et Gueshour et Aram prirent ⟨את⟩ les hameaux de Yaïr, de parmi eux, ⟨את⟩ Qenath et ⟨את⟩ ses filles — soixante villes. Tous ceux-là, fils de Makir, père de Guiléad.",
+  "translation": "Et Gueshour et Aram prirent ⟨את⟩ les hameaux de Yaïr, ⟨את⟩ de parmi eux, ⟨את⟩ Qenath et ⟨את⟩ ses filles — soixante villes. Tous ceux-là, fils de Makir, père de Guiléad.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "de parmi eux"
+      "gloss": "⟨את⟩ de parmi eux"
     },
     {
       "surface": "את",
@@ -87,6 +87,6 @@
       "gloss": "de Guiléad"
     }
   ],
-  "timestamp": "2026-08-05T05:45:32.856387441Z",
+  "timestamp": "2026-08-24T21:49:23.221519205Z",
   "model": "glm-5.2"
 }

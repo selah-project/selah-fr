@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 30,
-  "translation": "Et tu feras un bassin de cuivre et son socle de cuivre pour le laver, et tu ⟨le⟩ placeras entre la tente d'assignation et l'autel, et tu mettras là de l'eau",
+  "translation": "Et tu feras un bassin de cuivre et son socle de cuivre pour le laver, et tu ⟨את⟩ ⟨le⟩ placeras entre la tente d'assignation et l'autel, et tu mettras là de l'eau",
   "tokens": [
     {
       "surface": "וְעָשִׂיתָ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אֹתוֹ",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "le bassin"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "de l'eau"
     }
   ],
-  "timestamp": "2026-08-04T07:01:57.145306441Z",
+  "timestamp": "2026-08-24T21:49:23.199674893Z",
   "model": "glm-4.5"
 }

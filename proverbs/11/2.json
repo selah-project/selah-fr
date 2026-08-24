@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Quand ⟨vient⟩ l'arrogance, ⟨vient⟩ aussi le déshonneur, mais avec les modestes ⟨est⟩ la sagesse.",
+  "translation": "Quand ⟨vient⟩ l'arrogance, ⟨vient⟩ aussi le déshonneur, mais ⟨את⟩ avec les modestes ⟨est⟩ la sagesse.",
   "tokens": [
     {
       "surface": "בא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "les modestes"
     },
     {
@@ -37,6 +37,6 @@
       "gloss": "la sagesse"
     }
   ],
-  "timestamp": "2026-08-05T03:21:14.251047007Z",
+  "timestamp": "2026-08-24T21:49:23.129271507Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Et sortit Yehoyakîn ⟨le⟩ roi de Juda vers ⟨le⟩ roi de Babylone, lui et sa mère, et ses serviteurs, et ses princes, et ses eunuques ; et ⟨le⟩ roi de Babylone le prit, ⟨dans⟩ la huitième année de son règne.",
+  "translation": "Et sortit Yehoyakîn ⟨le⟩ roi de Juda vers ⟨le⟩ roi de Babylone, lui et sa mère, et ses serviteurs, et ses princes, et ses eunuques ; et ⟨את⟩ ⟨le⟩ roi de Babylone le prit, ⟨dans⟩ la huitième année de son règne.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩ roi de Babylone le prit",
+      "gloss": "⟨את⟩ ⟨le⟩ roi de Babylone le prit",
       "marks": "מלך בבל"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "année de son règne"
     }
   ],
-  "timestamp": "2026-08-04T22:23:30.168765385Z",
+  "timestamp": "2026-08-24T21:49:23.312035706Z",
   "model": "glm-4.5"
 }

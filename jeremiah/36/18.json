@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 36,
-  "translation": "Et Barouk leur dit : « De sa bouche, il prononçait vers moi ⟨את⟩ toutes ces paroles, et ⟨je⟩ j'écrivais sur le scroll à l'encre ».",
+  "translation": "Et Barouk leur dit : « De sa bouche, il prononçait ⟨את⟩ vers moi ⟨את⟩ toutes ces paroles, et ⟨je⟩ j'écrivais sur le scroll à l'encre ».",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "את",
-      "gloss": "vers moi"
+      "gloss": "⟨את⟩ vers moi"
     },
     {
       "surface": "כל",
@@ -69,6 +69,6 @@
       "gloss": "à l'encre"
     }
   ],
-  "timestamp": "2026-08-04T22:52:10.168775863Z",
+  "timestamp": "2026-08-24T21:49:23.149997862Z",
   "model": "glm-4.5"
 }

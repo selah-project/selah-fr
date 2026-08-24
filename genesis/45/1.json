@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 45,
-  "translation": "Et Joseph ne put ⟨pas⟩ se contenir devant tous ceux qui ⟨étaient⟩ placés ⟨autour⟩ de lui, et il cria : Faites sortir ⟨tout⟩ homme d'auprès de moi. Et nul ne tint ⟨debout⟩ avec lui quand Joseph se fit connaître ⟨à⟩ ses frères.",
+  "translation": "Et Joseph ne put ⟨pas⟩ se contenir devant tous ceux qui ⟨étaient⟩ placés ⟨autour⟩ de lui, et il cria : Faites sortir ⟨tout⟩ homme d'auprès de moi. Et nul ne tint ⟨debout⟩ ⟨את⟩ avec lui quand Joseph se fit connaître ⟨à⟩ ses frères.",
   "tokens": [
     {
       "surface": "ולא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "בהתודע",
@@ -88,6 +88,6 @@
       "gloss": "ses frères"
     }
   ],
-  "timestamp": "2026-08-04T06:01:17.762465069Z",
+  "timestamp": "2026-08-24T21:49:23.111598116Z",
   "model": "glm-4.5"
 }

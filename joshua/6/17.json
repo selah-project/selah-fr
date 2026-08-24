@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et la ville sera ⟨un⟩ interdit, elle, et tout ce qui est en elle ⟨pour⟩ YHWH ; seulement Rahab la prostituée vivra, elle, et tout ce qui est avec elle dans la maison, car elle a caché ⟨את⟩ les messagers que nous avons envoyés.",
+  "translation": "Et la ville sera ⟨un⟩ interdit, elle, et tout ce qui est en elle ⟨pour⟩ YHWH ; seulement Rahab la prostituée vivra, elle, et tout ce qui ⟨את⟩ est avec elle dans la maison, car elle a caché ⟨את⟩ les messagers que nous avons envoyés.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "est avec elle"
+      "gloss": "⟨את⟩ est avec elle"
     },
     {
       "surface": "בבית",
@@ -101,6 +101,6 @@
       "gloss": "nous avons envoyés"
     }
   ],
-  "timestamp": "2026-08-04T21:56:58.368768867Z",
+  "timestamp": "2026-08-24T21:49:23.378305014Z",
   "model": "glm-4.5"
 }

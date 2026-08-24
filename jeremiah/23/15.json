@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 23,
-  "translation": "C’est pourquoi ainsi a dit YHWH Tsevaot sur les prophètes : Voici, je les fais manger de l'absinthe et je les fais boire des eaux de poison, car c’est de chez les prophètes de Jérusalem que l'impiété est sortie vers tout le pays.",
+  "translation": "C’est pourquoi ainsi a dit YHWH Tsevaot sur les prophètes : Voici, je les fais manger de l'absinthe et je les fais boire des eaux de poison, car c’est ⟨את⟩ de chez les prophètes de Jérusalem que l'impiété est sortie vers tout le pays.",
   "tokens": [
     {
       "surface": "לכן",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de chez"
+      "gloss": "⟨את⟩ de chez"
     },
     {
       "surface": "נביאי",
@@ -97,6 +97,6 @@
       "gloss": "le pays"
     }
   ],
-  "timestamp": "2026-08-04T16:29:57.383422335Z",
+  "timestamp": "2026-08-24T21:49:23.170518724Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et le reste de Jacob sera au milieu de nombreux peuples, comme une rosée de par YHWH, comme des ondées sur l’herbe, qui n’espère pas ⟨en⟩ l’homme, et n’attend pas ⟨de⟩⟨la part⟩ des fils d’Adam.",
+  "translation": "Et le reste de Jacob sera au milieu de nombreux peuples, comme une rosée ⟨את⟩ de par YHWH, comme des ondées sur l’herbe, qui n’espère pas ⟨en⟩ l’homme, et n’attend pas ⟨de⟩⟨la part⟩ des fils d’Adam.",
   "tokens": [
     {
       "surface": "והיה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de par"
+      "gloss": "⟨את⟩ de par"
     },
     {
       "surface": "יהוה",
@@ -88,6 +88,6 @@
       "gloss": "d’Adam"
     }
   ],
-  "timestamp": "2026-08-05T00:29:40.612664206Z",
+  "timestamp": "2026-08-24T21:49:23.185948686Z",
   "model": "glm-4.5"
 }

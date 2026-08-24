@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Et Juda fit le mal aux yeux de YHWH, et ils le rendirent jaloux ⟨au-dessus de⟩ tout ce que firent leurs pères dans leurs fautes lesquelles ils commirent.",
+  "translation": "Et Juda fit le mal aux yeux de YHWH, et ils le rendirent jaloux ⟨את⟩ ⟨au-dessus de⟩ tout ce que firent leurs pères dans leurs fautes lesquelles ils commirent.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨au-dessus de⟩",
+      "gloss": "⟨את⟩ ⟨au-dessus de⟩",
       "marks": "tout ce que firent leurs pères"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "ils commirent"
     }
   ],
-  "timestamp": "2026-08-04T13:53:33.602459265Z",
+  "timestamp": "2026-08-24T21:49:23.387119641Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Non ⟨את⟩ nos pères a coupé YHWH ⟨את⟩ l'alliance celle-ci, car avec nous sommes nous ceux-là ici le jour, nous tous vivants",
+  "translation": "Non ⟨את⟩ nos pères a coupé YHWH ⟨את⟩ l'alliance celle-ci, car ⟨את⟩ avec nous sommes nous ceux-là ici le jour, nous tous vivants",
   "tokens": [
     {
       "surface": "לֹ֣א",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אִתָּ֗נוּ",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "אֲנַ֨חְנוּ",
@@ -74,6 +74,6 @@
       "gloss": "vivants"
     }
   ],
-  "timestamp": "2026-08-04T09:56:56.225800806Z",
+  "timestamp": "2026-08-24T21:49:23.253185987Z",
   "model": "glm-4.5"
 }

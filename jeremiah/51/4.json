@@ -1,19 +1,19 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "jeremiah 51:4",
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 51,
-  "translation": "et les tués tomberont dans le pays des Chaldéens, et les percés dans ses rues",
+  "translation": "Et les blessés à mort tomberont dans le pays des Kasdim, et les transpercés dans ses rues.",
   "tokens": [
     {
       "surface": "ונפלו",
-      "gloss": "et <les> tués tomberont"
+      "gloss": "et tomberont"
     },
     {
       "surface": "חללים",
-      "gloss": ""
+      "gloss": "les blessés à mort"
     },
     {
       "surface": "בארץ",
@@ -21,17 +21,17 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "des Chaldéens"
+      "gloss": "des Kasdim"
     },
     {
       "surface": "ומדקרים",
-      "gloss": "et <les> percés"
+      "gloss": "et les transpercés"
     },
     {
       "surface": "בחוצותיה",
       "gloss": "dans ses rues"
     }
   ],
-  "timestamp": "2026-08-04T23:09:09.670739875Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:56.574497642Z",
+  "model": "glm-5.3"
 }

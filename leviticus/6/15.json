@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et le prêtre oint qui ⟨est⟩ à sa place parmi ses fils fera ⟨cela⟩ : un statut perpétuel pour YHWH, entièrement consumé.",
+  "translation": "Et le prêtre oint qui ⟨est⟩ à sa place parmi ses fils fera ⟨את⟩ ⟨cela⟩ : un statut perpétuel pour YHWH, entièrement consumé.",
   "tokens": [
     {
       "surface": "והכהן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨cela⟩",
+      "gloss": "⟨את⟩ ⟨cela⟩",
       "marks": "un statut"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "consumé"
     }
   ],
-  "timestamp": "2026-08-04T07:33:54.981151582Z",
+  "timestamp": "2026-08-24T21:49:23.332309275Z",
   "model": "glm-4.5"
 }

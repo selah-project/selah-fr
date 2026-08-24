@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et David se leva et alla, et tout le peuple qui était avec lui, depuis Baalé de Juda, pour faire monter de là ⟨את⟩ l'arche de l'Elohim, sur laquelle est invoqué ⟨le⟩ Nom, le Nom de YHWH Tsevaot siégeant sur les chérubins, sur elle.",
+  "translation": "Et David se leva et alla, et tout le peuple qui ⟨את⟩ était avec lui, depuis Baalé de Juda, pour faire monter de là ⟨את⟩ l'arche de l'Elohim, sur laquelle est invoqué ⟨le⟩ Nom, le Nom de YHWH Tsevaot siégeant sur les chérubins, sur elle.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "était avec lui"
+      "gloss": "⟨את⟩ était avec lui"
     },
     {
       "surface": "מבעלי",
@@ -101,6 +101,6 @@
       "gloss": "sur elle"
     }
   ],
-  "timestamp": "2026-08-04T12:59:03.983806427Z",
+  "timestamp": "2026-08-24T21:49:23.087567756Z",
   "model": "glm-4.5"
 }

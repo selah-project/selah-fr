@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Car tous les jours où le fils de Jessie ⟨est⟩ vivant sur la terre, toi et ta royauté ne ⟨serez⟩ pas établis. Et maintenant, envoie et prends-le ⟨את⟩ pour moi, car il est fils de mort.",
+  "translation": "Car tous les jours où le fils de Jessie ⟨est⟩ vivant sur la terre, toi et ta royauté ne ⟨serez⟩ pas établis. Et maintenant, envoie et prends⟨את⟩ -le ⟨את⟩ pour moi, car il est fils de mort.",
   "tokens": [
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "-le",
+      "gloss": "⟨את⟩ -le",
       "marks": "⟨את⟩"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "il est"
     }
   ],
-  "timestamp": "2026-08-04T12:37:01.850385769Z",
+  "timestamp": "2026-08-24T21:49:23.239876945Z",
   "model": "glm-4.5"
 }

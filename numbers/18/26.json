@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Et aux lévites tu parleras et diras : quand vous prendrez des fils d'Israël ⟨את⟩ la dîme, que je vous ai donnée d'eux en votre héritage, alors vous lèverez d'elle une offrande de YHWH, une dîme de la dîme",
+  "translation": "Et aux lévites tu parleras et diras : quand vous prendrez ⟨את⟩ des fils d'Israël ⟨את⟩ la dîme, que je vous ai donnée ⟨את⟩ d'eux en votre héritage, alors vous lèverez d'elle une offrande de YHWH, une dîme de la dîme",
   "tokens": [
     {
       "surface": "ואל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "des"
+      "gloss": "⟨את⟩ des"
     },
     {
       "surface": "בני",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "d'eux"
+      "gloss": "⟨את⟩ d'eux"
     },
     {
       "surface": "בנחלתכם",
@@ -105,6 +105,6 @@
       "gloss": "la dîme"
     }
   ],
-  "timestamp": "2026-08-04T09:04:34.163958722Z",
+  "timestamp": "2026-08-24T21:49:23.366726528Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Ainsi a dit YHWH, l’Élohim d’Israël : Comme ces figues bonnes, ainsi je regarderai ⟨le bien de⟩ la déportation de Juda, celle que j’ai envoyée de ce lieu au pays des Chaldéens pour ⟨leur⟩ bien.",
+  "translation": "Ainsi a dit YHWH, l’Élohim d’Israël : Comme ces figues bonnes, ainsi je regarderai ⟨את⟩ ⟨le bien de⟩ la déportation de Juda, celle que j’ai envoyée de ce lieu au pays des Chaldéens pour ⟨leur⟩ bien.",
   "tokens": [
     {
       "surface": "כה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le bien de⟩",
+      "gloss": "⟨את⟩ ⟨le bien de⟩",
       "marks": "la déportation de Juda"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "pour ⟨leur⟩ bien"
     }
   ],
-  "timestamp": "2026-08-04T16:33:27.030324813Z",
+  "timestamp": "2026-08-24T21:49:23.183901219Z",
   "model": "glm-4.5"
 }

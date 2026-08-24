@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 35,
-  "translation": "Et ⟨les⟩ villes que vous donnerez aux Lévites, ⟨ce sont⟩ les six villes ⟨de⟩ refuge que vous donnerez pour y ⟨s'enfuir⟩ le meurtrier, et sur elles vous donnerez quarante-deux villes",
+  "translation": "⟨את⟩ Et ⟨les⟩ villes que vous donnerez aux Lévites, ⟨את⟩ ⟨ce sont⟩ les six villes ⟨de⟩ refuge que vous donnerez pour y ⟨s'enfuir⟩ le meurtrier, et sur elles vous donnerez quarante-deux villes",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Et ⟨les⟩",
+      "gloss": "⟨את⟩ Et ⟨les⟩",
       "marks": "הערים"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨ce sont⟩",
+      "gloss": "⟨את⟩ ⟨ce sont⟩",
       "marks": "שש"
     },
     {
@@ -86,6 +86,6 @@
       "gloss": "villes"
     }
   ],
-  "timestamp": "2026-08-04T21:48:17.552385246Z",
+  "timestamp": "2026-08-24T21:49:23.345681570Z",
   "model": "glm-4.5"
 }

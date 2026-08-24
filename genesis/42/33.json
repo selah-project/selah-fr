@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 42,
-  "translation": "Et l'homme, le seigneur du pays, nous a dit : Par ceci je saurai que vous êtes honnêtes ; laissez un de vos frères avec moi, et prenez ⟨את⟩ la famine de vos maisons, et allez-vous-en.",
+  "translation": "Et l'homme, le seigneur du pays, nous a dit : Par ceci je saurai que vous êtes honnêtes ; laissez un de vos frères ⟨את⟩ avec moi, et prenez ⟨את⟩ la famine de vos maisons, et allez-vous-en.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "ואת",
@@ -85,6 +85,6 @@
       "gloss": "et allez-vous-en"
     }
   ],
-  "timestamp": "2026-08-04T05:56:57.159809002Z",
+  "timestamp": "2026-08-24T21:49:23.102725385Z",
   "model": "glm-4.5"
 }

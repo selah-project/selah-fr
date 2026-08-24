@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 22,
-  "translation": "De toi ⟨est⟩ ma louange dans la grande assemblée, je payerai mes vœux devant ceux qui ⟨le⟩ craignent.",
+  "translation": "⟨את⟩ De toi ⟨est⟩ ma louange dans la grande assemblée, je payerai mes vœux devant ceux qui ⟨le⟩ craignent.",
   "tokens": [
     {
       "surface": "מאתך",
-      "gloss": "De toi"
+      "gloss": "⟨את⟩ De toi"
     },
     {
       "surface": "תהלתי",
@@ -40,6 +40,6 @@
       "gloss": "ceux qui ⟨le⟩ craignent"
     }
   ],
-  "timestamp": "2026-08-05T01:18:13.186505431Z",
+  "timestamp": "2026-08-24T21:49:23.191923136Z",
   "model": "glm-4.5"
 }

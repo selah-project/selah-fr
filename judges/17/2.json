@@ -1,15 +1,15 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "judges 17:2",
   "book": "judges",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Et il dit à sa mère : les mille cent <shekels> d'argent qui furent pris pour toi, et dont tu avais fait un serment, et dont tu avais parlé à mes oreilles : voici, l'argent <est⟩ avec moi, c'est moi qui l'ai pris. Et sa mère dit : béni <soit⟩ mon fils par YHWH.",
+  "translation": "Et il dit à sa mère : les mille cent ⟨d'⟩argent qui ont été pris de toi, et ⟨את⟩ toi tu as maudit, et même tu as parlé à mes oreilles — voici, l'argent est ⟨את⟩ moi, moi je l'ai pris. Et sa mère dit : béni soit mon fils, par YHWH.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Et il dit"
+      "gloss": "et il dit"
     },
     {
       "surface": "לאמו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "<shekels> d'argent"
+      "gloss": "l'argent"
     },
     {
       "surface": "אשר",
@@ -33,27 +33,28 @@
     },
     {
       "surface": "לקח",
-      "gloss": "furent pris"
+      "gloss": "a été pris"
     },
     {
       "surface": "לך",
-      "gloss": "pour toi"
+      "gloss": "de toi"
     },
     {
       "surface": "ואתי",
-      "gloss": "et dont tu avais fait un serment"
+      "gloss": "et toi",
+      "marks": "toi — tu as maudit"
     },
     {
       "surface": "אלית",
-      "gloss": "tu avais fait un serment"
+      "gloss": "tu as maudit"
     },
     {
       "surface": "וגם",
-      "gloss": "et"
+      "gloss": "et même"
     },
     {
       "surface": "אמרת",
-      "gloss": "tu avais parlé"
+      "gloss": "tu as parlé"
     },
     {
       "surface": "באזני",
@@ -69,19 +70,20 @@
     },
     {
       "surface": "אתי",
-      "gloss": "<est⟩ avec moi"
+      "gloss": "⟨את⟩ moi",
+      "marks": "moi — l'argent est avec moi"
     },
     {
       "surface": "אני",
-      "gloss": "c'est moi"
+      "gloss": "moi"
     },
     {
       "surface": "לקחתיו",
-      "gloss": "qui l'ai pris"
+      "gloss": "je l'ai pris"
     },
     {
       "surface": "ותאמר",
-      "gloss": "Et dit"
+      "gloss": "et elle dit"
     },
     {
       "surface": "אמו",
@@ -89,7 +91,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "béni <soit⟩"
+      "gloss": "béni"
     },
     {
       "surface": "בני",
@@ -100,6 +102,6 @@
       "gloss": "par YHWH"
     }
   ],
-  "timestamp": "2026-08-04T11:57:51.193463883Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:49:23.140744235Z",
+  "model": "glm-5.3"
 }

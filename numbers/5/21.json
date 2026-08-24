@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 5,
-  "translation": "et le prêtre fera jurer ⟨את⟩ la femme par le serment de la malédiction, et le prêtre dira à la femme : YHWH te donne pour malédiction et pour serment au milieu de ton peuple, quand YHWH fait tomber ⟨את⟩ ta cuisse enflée et ⟨את⟩ ton ventre gonflé",
+  "translation": "et le prêtre fera jurer ⟨את⟩ la femme par le serment de la malédiction, et le prêtre dira à la femme : YHWH ⟨את⟩ te donne pour malédiction et pour serment au milieu de ton peuple, quand YHWH fait tomber ⟨את⟩ ta cuisse enflée et ⟨את⟩ ton ventre gonflé",
   "tokens": [
     {
       "surface": "והשביע",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "te"
+      "gloss": "⟨את⟩ te"
     },
     {
       "surface": "לאלה",
@@ -107,6 +107,6 @@
       "gloss": "gonflé"
     }
   ],
-  "timestamp": "2026-08-04T21:39:45.329838634Z",
+  "timestamp": "2026-08-24T21:49:23.344920581Z",
   "model": "glm-4.5"
 }

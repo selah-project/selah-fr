@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Et Élohim vint vers Bilam la nuit et lui dit : Si ⟨les⟩ hommes sont venus pour t'appeler, lève-toi, va avec eux, mais seulement ⟨le⟩ mot que je te dirai, ⟨את⟩ tu feras.",
+  "translation": "Et Élohim vint vers Bilam la nuit et lui dit : Si ⟨les⟩ hommes sont venus pour t'appeler, lève-toi, va ⟨את⟩ avec eux, mais seulement ⟨le⟩ mot que je te dirai, ⟨את⟩ tu feras.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "avec eux"
+      "gloss": "⟨את⟩ avec eux"
     },
     {
       "surface": "ואך",
@@ -102,6 +102,6 @@
       "gloss": "tu feras"
     }
   ],
-  "timestamp": "2026-08-04T09:15:07.595139697Z",
+  "timestamp": "2026-08-24T21:49:23.357324001Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 109,
-  "translation": "Car la bouche ⟨du⟩ méchant et la bouche ⟨de la⟩ tromperie ⟨sont⟩ ouvertes contre moi ; ils ont parlé avec moi ⟨en⟩ langue de mensonge.",
+  "translation": "Car la bouche ⟨du⟩ méchant et la bouche ⟨de la⟩ tromperie ⟨sont⟩ ouvertes contre moi ; ils ont parlé ⟨את⟩ avec moi ⟨en⟩ langue de mensonge.",
   "tokens": [
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "לשון",
@@ -52,6 +52,6 @@
       "gloss": "de mensonge"
     }
   ],
-  "timestamp": "2026-08-05T02:34:18.747762868Z",
+  "timestamp": "2026-08-24T21:49:23.192370501Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Par l'épée vous tomberez, sur la frontière d'Israël je ⟨vous⟩ jugerai, et vous saurez que je suis YHWH",
+  "translation": "Par l'épée vous tomberez, sur la frontière d'Israël je ⟨את⟩ ⟨vous⟩ jugerai, et vous saurez que je suis YHWH",
   "tokens": [
     {
       "surface": "בחרב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨vous⟩",
+      "gloss": "⟨את⟩ ⟨vous⟩",
       "marks": "et vous saurez"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T23:21:11.916182710Z",
+  "timestamp": "2026-08-24T21:49:23.285470617Z",
   "model": "glm-4.5"
 }

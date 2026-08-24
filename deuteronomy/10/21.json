@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Il est ta louange et lui, ton Élohim, ⟨a⟩ fait pour toi ces grandes choses et ⟨les⟩ terribles que tes yeux ont vues",
+  "translation": "Il est ta louange et lui, ton Élohim, ⟨a⟩ fait ⟨את⟩ pour toi ces grandes choses ⟨את⟩ et ⟨les⟩ terribles que tes yeux ont vues",
   "tokens": [
     {
       "surface": "הוא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "pour toi"
+      "gloss": "⟨את⟩ pour toi"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et ⟨les⟩",
+      "gloss": "⟨את⟩ et ⟨les⟩",
       "marks": "terribles"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "tes yeux"
     }
   ],
-  "timestamp": "2026-08-04T10:11:44.608242396Z",
+  "timestamp": "2026-08-24T21:49:23.252213324Z",
   "model": "glm-4.5"
 }

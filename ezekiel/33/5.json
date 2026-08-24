@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 33,
-  "translation": "Il ⟨a⟩ entendu ⟨le⟩ son du shofar et ne ⟨s'est⟩ pas mis en garde, son sang ⟨sera⟩ sur lui ; et il s'est mis en garde, son âme a échappé.",
+  "translation": "Il ⟨a⟩ entendu ⟨את⟩ ⟨le⟩ son du shofar et ne ⟨s'est⟩ pas mis en garde, son sang ⟨sera⟩ sur lui ; et il s'est mis en garde, son âme a échappé.",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "son"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "échappé"
     }
   ],
-  "timestamp": "2026-08-04T23:41:36.914067355Z",
+  "timestamp": "2026-08-24T21:49:23.274669643Z",
   "model": "glm-4.5"
 }

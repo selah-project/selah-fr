@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Et ceci ⟨sera⟩ le jugement des prêtres de la part du peuple, de la part de ceux qui offrent ⟨le⟩ sacrifice, que ce soit bœuf que ce soit menu bétail, et on donnera au prêtre le bras et les joues et le rumen",
+  "translation": "Et ceci ⟨sera⟩ le jugement des prêtres de la part du peuple, ⟨את⟩ de la part de ceux qui offrent ⟨le⟩ sacrifice, que ce soit bœuf que ce soit menu bétail, et on donnera au prêtre le bras et les joues et le rumen",
   "tokens": [
     {
       "surface": "וזה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "העם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "זבחי",
@@ -80,6 +80,6 @@
       "gloss": "et le rumen"
     }
   ],
-  "timestamp": "2026-08-04T10:21:53.002422199Z",
+  "timestamp": "2026-08-24T21:49:23.266830134Z",
   "model": "glm-4.5"
 }

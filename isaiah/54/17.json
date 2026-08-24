@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 54,
-  "translation": "Tout instrument formé contre toi ne réussira pas, et toute langue qui se lèvera contre toi en jugement, tu la condamneras. C'est là l'héritage des serviteurs de YHWH, et leur justice ⟨vient⟩ de moi, déclare YHWH.",
+  "translation": "Tout instrument formé contre toi ne réussira pas, et toute langue qui se lèvera contre toi en jugement, tu la condamneras. C'est là l'héritage des serviteurs de YHWH, et leur justice ⟨את⟩ ⟨vient⟩ de moi, déclare YHWH.",
   "tokens": [
     {
       "surface": "כל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "contre toi"
+      "gloss": "⟨את⟩ contre toi"
     },
     {
       "surface": "למשפט",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨vient⟩ de moi"
+      "gloss": "⟨את⟩ ⟨vient⟩ de moi"
     },
     {
       "surface": "נאם",
@@ -88,6 +88,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T15:49:00.569672116Z",
+  "timestamp": "2026-08-24T21:49:23.335686644Z",
   "model": "glm-4.5"
 }

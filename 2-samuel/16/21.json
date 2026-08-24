@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et Achithophel dit à Avshalom : « Viens vers les concubines de ton père qu'il a laissées pour garder ⟨la⟩ maison, et tout Israël entendra que tu es devenu en odeur fétide pour ton père, et les mains de tous ceux qui sont avec toi se fortifieront ».",
+  "translation": "Et Achithophel dit à Avshalom : « Viens vers les concubines de ton père qu'il a laissées pour garder ⟨la⟩ maison, et tout Israël entendra que tu es devenu en odeur fétide pour ton père, et les mains de tous ceux qui ⟨את⟩ sont avec toi se fortifieront ».",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "sont avec toi"
+      "gloss": "⟨את⟩ sont avec toi"
     }
   ],
-  "timestamp": "2026-08-04T13:15:48.596416656Z",
+  "timestamp": "2026-08-24T21:49:23.083826546Z",
   "model": "glm-4.5"
 }

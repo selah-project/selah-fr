@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et il dit : Ne crains pas, car plus nombreux sont ceux qui sont avec nous que ceux qui sont avec eux.",
+  "translation": "Et il dit : Ne crains pas, car plus nombreux sont ceux qui ⟨את⟩ sont avec nous que ⟨את⟩ ceux qui sont avec eux.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "sont avec nous"
+      "gloss": "⟨את⟩ sont avec nous"
     },
     {
       "surface": "מאשר",
@@ -41,10 +41,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "ceux qui sont avec eux",
+      "gloss": "⟨את⟩ ceux qui sont avec eux",
       "marks": "ceux qui sont avec eux"
     }
   ],
-  "timestamp": "2026-08-04T14:14:46.411181457Z",
+  "timestamp": "2026-08-24T21:49:23.312535945Z",
   "model": "glm-4.5"
 }

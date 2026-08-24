@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et le roi dit à Tsadok le prêtre : Vois-tu ? retourne à la ville en paix, et Ahimaaz ton fils, et Jonathan fils d'Évyatar — vos deux fils avec vous.",
+  "translation": "Et le roi dit à Tsadok le prêtre : Vois-tu ? retourne à la ville en paix, et Ahimaaz ton fils, et Jonathan fils d'Évyatar — vos deux fils ⟨את⟩ avec vous.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     }
   ],
-  "timestamp": "2026-08-04T13:14:24.821909938Z",
+  "timestamp": "2026-08-24T21:49:23.077353320Z",
   "model": "glm-4.5"
 }

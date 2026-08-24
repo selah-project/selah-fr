@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 39,
-  "translation": "Et son maître vit que YHWH était avec lui et ⟨que⟩ tout ce qu'il faisait, YHWH ⟨le⟩ faisait réussir dans sa main.",
+  "translation": "Et son maître vit que YHWH était ⟨את⟩ avec lui et ⟨que⟩ tout ce qu'il faisait, YHWH ⟨le⟩ faisait réussir dans sa main.",
   "tokens": [
     {
       "surface": "וירא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "וכל",
@@ -56,6 +56,6 @@
       "gloss": "dans sa main"
     }
   ],
-  "timestamp": "2026-08-04T05:51:20.269680242Z",
+  "timestamp": "2026-08-24T21:49:23.104348260Z",
   "model": "glm-4.5"
 }

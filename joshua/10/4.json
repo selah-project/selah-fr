@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Montez vers moi, et aidez-moi, et frapperons ⟨את⟩ Gabaon, car elle a fait la paix avec ⟨את⟩ Yehoshoua et avec les fils d'Israël.",
+  "translation": "Montez vers moi, et aidez-moi, et frapperons ⟨את⟩ Gabaon, car elle a fait la paix avec ⟨את⟩ Yehoshoua ⟨את⟩ et avec les fils d'Israël.",
   "tokens": [
     {
       "surface": "עלו",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et avec"
+      "gloss": "⟨את⟩ et avec"
     },
     {
       "surface": "בני",
@@ -62,6 +62,6 @@
       "gloss": "d'Israël"
     }
   ],
-  "timestamp": "2026-08-04T11:03:12.930725003Z",
+  "timestamp": "2026-08-24T21:49:23.367969691Z",
   "model": "glm-4.5"
 }

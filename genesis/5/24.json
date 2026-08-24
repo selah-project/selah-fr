@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et Hanok marcha ⟨avec⟩ Élohim, et il n'était ⟨plus⟩, car Élohim ⟨le⟩ prit.",
+  "translation": "Et Hanok marcha ⟨את⟩ ⟨avec⟩ Élohim, et il n'était ⟨plus⟩, car Élohim ⟨את⟩ ⟨le⟩ prit.",
   "tokens": [
     {
       "surface": "ויתהלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨avec⟩",
+      "gloss": "⟨את⟩ ⟨avec⟩",
       "marks": "Élohim"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "Hanok"
     },
     {
@@ -46,6 +46,6 @@
       "gloss": "Élohim"
     }
   ],
-  "timestamp": "2026-08-04T05:04:54.316815257Z",
+  "timestamp": "2026-08-24T21:49:23.089800375Z",
   "model": "glm-4.5"
 }

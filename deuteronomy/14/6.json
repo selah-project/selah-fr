@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Et tout animal ⟨qui⟩ a ⟨le⟩ sabot fendu et ⟨le⟩ clivage fendu en deux ongles, et qui rumine, parmi les animaux, celui-là, vous le mangerez",
+  "translation": "Et tout animal ⟨qui⟩ a ⟨le⟩ sabot fendu et ⟨le⟩ clivage fendu en deux ongles, et qui rumine, parmi les animaux, ⟨את⟩ celui-là, vous le mangerez",
   "tokens": [
     {
       "surface": "וְכָל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אֹתָ֖הּ",
-      "gloss": "celui-là",
+      "gloss": "⟨את⟩ celui-là",
       "marks": "vous le mangerez"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "vous le mangerez"
     }
   ],
-  "timestamp": "2026-08-04T10:17:00.803748457Z",
+  "timestamp": "2026-08-24T21:49:23.265048398Z",
   "model": "glm-4.5"
 }

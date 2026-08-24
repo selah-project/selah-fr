@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et les fils d'Israël firent ainsi et ils les envoyèrent ⟨à⟩ l'extérieur du camp, comme YHWH avait parlé à Moïse, ainsi firent les fils d'Israël.",
+  "translation": "Et les fils d'Israël firent ainsi et ils les envoyèrent ⟨את⟩ ⟨à⟩ l'extérieur du camp, comme YHWH avait parlé à Moïse, ainsi firent les fils d'Israël.",
   "tokens": [
     {
       "surface": "ויעשו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨à⟩",
+      "gloss": "⟨את⟩ ⟨à⟩",
       "marks": "l'extérieur du camp"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "Israël"
     }
   ],
-  "timestamp": "2026-08-04T08:30:42.722984353Z",
+  "timestamp": "2026-08-24T21:49:23.345160531Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 40,
-  "translation": "La parole qui ⟨fut⟩ à Jérémie de la part de YHWH après que Nebouzaradan chef des bouchers l'eut envoyé de Rama, ⟨quand il l'eut pris⟩, lui qui ⟨était⟩ lié dans des liens, au milieu de tout l'exil de Jérusalem et de Juda, les exilés ⟨allaient⟩ à Babylone.",
+  "translation": "La parole qui ⟨fut⟩ à Jérémie ⟨את⟩ de la part de YHWH après que Nebouzaradan chef des bouchers l'eut envoyé de Rama, ⟨quand il l'eut pris⟩, lui qui ⟨était⟩ lié dans des liens, au milieu de tout l'exil de Jérusalem et de Juda, les exilés ⟨allaient⟩ à Babylone.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "יהוה",
@@ -118,6 +118,6 @@
       "gloss": "⟨allaient⟩ à Babylone"
     }
   ],
-  "timestamp": "2026-08-04T22:56:29.774976139Z",
+  "timestamp": "2026-08-24T21:49:23.171900147Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et David vint à Nob, auprès d’Achimelek le prêtre; et Achimelek trembla à la rencontre de David, et lui dit: pourquoi ⟨es⟩-tu seul, et nul homme ⟨n’est⟩ avec toi?",
+  "translation": "Et David vint à Nob, auprès d’Achimelek le prêtre; et Achimelek trembla à la rencontre de David, et lui dit: pourquoi ⟨es⟩-tu seul, et nul homme ⟨n’est⟩ ⟨את⟩ avec toi?",
   "tokens": [
     {
       "surface": "ויבא",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     }
   ],
-  "timestamp": "2026-08-04T12:38:02.224416088Z",
+  "timestamp": "2026-08-24T21:49:23.238899032Z",
   "model": "glm-4.5"
 }

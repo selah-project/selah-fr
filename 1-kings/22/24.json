@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Et Tsidqiyahou, fils de Kenaanah, s'approcha et frappa ⟨את⟩ Mikaiahu sur la joue, et dit : par où ⟨le⟩ Rouah YHWH a-t-il passé de chez moi pour te parler ?",
+  "translation": "Et Tsidqiyahou, fils de Kenaanah, s'approcha et frappa ⟨את⟩ Mikaiahu sur la joue, et dit : par où ⟨le⟩ Rouah YHWH a-t-il passé ⟨את⟩ de chez moi pour te parler ?",
   "tokens": [
     {
       "surface": "ויגש",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "de chez moi"
+      "gloss": "⟨את⟩ de chez moi"
     },
     {
       "surface": "לדבר",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "אותך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     }
   ],
-  "timestamp": "2026-08-04T14:04:48.476680784Z",
+  "timestamp": "2026-08-24T21:49:23.382749690Z",
   "model": "glm-4.5"
 }

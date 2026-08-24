@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et David dit à Joab et à tout le peuple qui était avec lui : « Déchirez vos vêtements et ceignez-vous de sacs, et menez deuil devant Abner ». Et le roi David allait derrière ⟨le⟩ lit [funéraire].",
+  "translation": "Et David dit à Joab et à tout le peuple qui ⟨את⟩ était avec lui : « Déchirez vos vêtements et ceignez-vous de sacs, et menez deuil devant Abner ». Et le roi David allait derrière ⟨le⟩ lit [funéraire].",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "était avec lui"
+      "gloss": "⟨את⟩ était avec lui"
     },
     {
       "surface": "קרעו",
@@ -92,6 +92,6 @@
       "gloss": "le lit [funéraire]"
     }
   ],
-  "timestamp": "2026-08-04T12:55:05.247440147Z",
+  "timestamp": "2026-08-24T21:49:23.076356399Z",
   "model": "glm-4.5"
 }

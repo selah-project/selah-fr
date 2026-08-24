@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Enquête, je te prie, pour nous auprès de YHWH, car Neboukadretsar, roi de Babel, ⟨est⟩ en guerre contre nous ; peut-être YHWH fera-t-il avec nous selon toutes ses merveilles et il ⟨le⟩ fera monter de sur nous.",
+  "translation": "Enquête, je te prie, pour nous auprès de YHWH, car Neboukadretsar, roi de Babel, ⟨est⟩ en guerre contre nous ; peut-être YHWH fera-t-il ⟨את⟩ avec nous selon toutes ses merveilles et il ⟨le⟩ fera monter de sur nous.",
   "tokens": [
     {
       "surface": "דרש",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אותנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "ככל",
@@ -85,6 +85,6 @@
       "gloss": "de sur nous"
     }
   ],
-  "timestamp": "2026-08-04T16:28:09.710054625Z",
+  "timestamp": "2026-08-24T21:49:23.161650622Z",
   "model": "glm-4.5"
 }

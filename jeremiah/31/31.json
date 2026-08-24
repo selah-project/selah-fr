@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Voici, des jours viennent, oracle de YHWH, où je ⟨ferai⟩ une alliance nouvelle avec ⟨את⟩ la maison d'Israël et avec ⟨את⟩ la maison de Juda.",
+  "translation": "Voici, des jours viennent, oracle de YHWH, où je ⟨ferai⟩ une alliance nouvelle avec ⟨את⟩ la maison d'Israël ⟨את⟩ et avec ⟨את⟩ la maison de Juda.",
   "tokens": [
     {
       "surface": "הנה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et avec"
+      "gloss": "⟨את⟩ et avec"
     },
     {
       "surface": "בית",
@@ -65,6 +65,6 @@
       "gloss": "nouvelle"
     }
   ],
-  "timestamp": "2026-08-04T22:46:29.565398717Z",
+  "timestamp": "2026-08-24T21:49:23.185495098Z",
   "model": "glm-4.5"
 }

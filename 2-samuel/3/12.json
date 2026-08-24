@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Abner envoya des messagers à David, de sa part, pour dire : À qui ⟨est⟩ la terre ? pour dire : Coupe ton alliance avec moi, et voici, ma main ⟨est⟩ avec toi pour faire tourner ⟨vers⟩ toi ⟨את⟩ tout Israël.",
+  "translation": "Et Abner envoya des messagers à David, de sa part, pour dire : À qui ⟨est⟩ la terre ? pour dire : Coupe ton alliance ⟨את⟩ avec moi, et voici, ma main ⟨est⟩ avec toi pour faire tourner ⟨vers⟩ toi ⟨את⟩ tout Israël.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "והנה",
@@ -93,6 +93,6 @@
       "gloss": "Israël"
     }
   ],
-  "timestamp": "2026-08-04T12:54:50.568208762Z",
+  "timestamp": "2026-08-24T21:49:23.075084781Z",
   "model": "glm-4.5"
 }

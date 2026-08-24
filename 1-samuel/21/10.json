@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et le cohen dit : L'épée de Golyath le Philistin, que tu as frappé dans la vallée d'Élah, la voici enveloppée dans un manteau derrière l'éphod ; si ⟨tu⟩ la prends, prends-⟨la⟩, car il n'y en a pas d'autre excepté celle-ci, ici. Et David dit : Il n'y a pas comme elle ; donne-⟨la⟩-moi.",
+  "translation": "Et le cohen dit : L'épée de Golyath le Philistin, que tu as frappé dans la vallée d'Élah, la voici enveloppée dans un manteau derrière l'éphod ; si ⟨את⟩ ⟨tu⟩ la prends, prends-⟨la⟩, car il n'y en a pas d'autre excepté celle-ci, ici. Et David dit : Il n'y a pas comme elle ; donne-⟨la⟩-moi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨tu⟩",
+      "gloss": "⟨את⟩ ⟨tu⟩",
       "marks": "prends"
     },
     {
@@ -133,6 +133,6 @@
       "gloss": "-moi"
     }
   ],
-  "timestamp": "2026-08-04T12:38:39.088508133Z",
+  "timestamp": "2026-08-24T21:49:23.239144612Z",
   "model": "glm-4.5"
 }

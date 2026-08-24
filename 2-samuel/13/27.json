@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Et Absalom ⟨le⟩ pressa, et il envoya avec lui Amnon et tous les fils du roi.",
+  "translation": "Et Absalom ⟨le⟩ pressa, et il envoya ⟨את⟩ avec lui Amnon et tous les fils du roi.",
   "tokens": [
     {
       "surface": "ויפרץ",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "את",
@@ -54,6 +54,6 @@
       "gloss": "du roi"
     }
   ],
-  "timestamp": "2026-08-04T13:10:10.344100808Z",
+  "timestamp": "2026-08-24T21:49:23.085792563Z",
   "model": "glm-4.5"
 }

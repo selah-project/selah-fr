@@ -1,49 +1,49 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "habakkuk 3:7",
   "book": "habakkuk",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Sous l'avidité je vis ⟨les⟩ tentes de Cushan, ⟨les〉 tentures de la terre de Madian tremblaient.",
+  "translation": "Sous l'affliction ⟨את⟩ j'ai vu les tentes de Cushan ; tremblent les tentures du pays de Madian.",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": "Sous"
+      "gloss": "sous"
     },
     {
       "surface": "און",
-      "gloss": "l'avidité"
+      "gloss": "l'affliction"
     },
     {
       "surface": "ראיתי",
-      "gloss": "je vis"
+      "gloss": "j'ai vu"
     },
     {
       "surface": "אהלי",
-      "gloss": "⟨les⟩ tentes de"
+      "gloss": "les tentes"
     },
     {
       "surface": "כושן",
-      "gloss": "Cushan"
+      "gloss": "de Cushan"
     },
     {
       "surface": "ירגזון",
-      "gloss": "tremblaient"
+      "gloss": "tremblent"
     },
     {
       "surface": "יריעות",
-      "gloss": "⟨les〉 tentures"
+      "gloss": "les tentures"
     },
     {
       "surface": "ארץ",
-      "gloss": "de la terre de"
+      "gloss": "du pays"
     },
     {
       "surface": "מדין",
-      "gloss": "Madian"
+      "gloss": "de Madian"
     }
   ],
-  "timestamp": "2026-08-05T00:37:22.141391163Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:34.429762984Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "fr",
   "chapter": 7,
-  "translation": "Et le roi se leva dans sa colère du banquet de vin vers le jardin du palais, et Haman se tint ⟨là⟩ pour solliciter ⟨la grâce⟩ pour sa vie d'Esther la reine, car il vit que le mal ⟨était⟩ résolu contre lui par le roi.",
+  "translation": "Et le roi se leva dans sa colère du banquet de vin vers le jardin du palais, et Haman se tint ⟨là⟩ pour solliciter ⟨la grâce⟩ pour sa vie d'Esther la reine, car il vit que le mal ⟨était⟩ résolu contre lui ⟨את⟩ par le roi.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "par"
+      "gloss": "⟨את⟩ par"
     },
     {
       "surface": "המלך",
       "gloss": "le roi"
     }
   ],
-  "timestamp": "2026-08-05T05:01:45.318005794Z",
+  "timestamp": "2026-08-24T21:49:23.125818060Z",
   "model": "glm-4.5"
 }

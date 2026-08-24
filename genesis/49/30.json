@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 49,
-  "translation": "dans la grotte qui ⟨est⟩ dans ⟨le⟩ champ de la Double-Cave, qui ⟨est⟩ sur la face de Mamré, au pays de Canaan, qu'Abraham a acquise ⟨את⟩ ⟨le⟩ champ, de la main d'Éphron le Hittite, en possession de sépulcre.",
+  "translation": "dans la grotte qui ⟨est⟩ dans ⟨le⟩ champ de la Double-Cave, qui ⟨est⟩ sur la face de Mamré, au pays de Canaan, qu'Abraham a acquise ⟨את⟩ ⟨le⟩ champ, ⟨את⟩ de la main d'Éphron le Hittite, en possession de sépulcre.",
   "tokens": [
     {
       "surface": "במערה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la main"
+      "gloss": "⟨את⟩ de la main"
     },
     {
       "surface": "עפרן",
@@ -89,6 +89,6 @@
       "gloss": "de sépulcre"
     }
   ],
-  "timestamp": "2026-08-04T06:09:50.792301185Z",
+  "timestamp": "2026-08-24T21:49:23.088619204Z",
   "model": "glm-4.5"
 }

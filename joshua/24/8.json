@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Et je fis venir ⟨את⟩ vous vers ⟨את⟩ la terre de l'Amoréen, celui qui réside au-delà du Jourdain, et ils firent la guerre avec vous, et je les donnai en ⟨את⟩ main de vous, et vous possédâtes ⟨את⟩ leur terre, et je les détruisis de devant vous.",
+  "translation": "Et je fis venir ⟨את⟩ vous vers ⟨את⟩ la terre de l'Amoréen, celui qui réside au-delà du Jourdain, et ils firent la guerre ⟨את⟩ avec vous, et je les donnai en ⟨את⟩ main de vous, et vous possédâtes ⟨את⟩ leur terre, et je les détruisis de devant vous.",
   "tokens": [
     {
       "surface": "ואבאה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "ואתן",
@@ -83,6 +83,6 @@
       "gloss": "de devant vous"
     }
   ],
-  "timestamp": "2026-08-04T11:31:21.081681703Z",
+  "timestamp": "2026-08-24T21:49:23.376627822Z",
   "model": "glm-4.5"
 }

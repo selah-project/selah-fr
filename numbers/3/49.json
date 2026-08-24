@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Mosheh prit ⟨את⟩ l'argent du rachat de la part de ceux qui étaient en excédent sur les rachetés ⟨par⟩ les Lévites",
+  "translation": "Et Mosheh prit ⟨את⟩ l'argent du rachat ⟨את⟩ de la part de ceux qui étaient en excédent sur les rachetés ⟨par⟩ les Lévites",
   "tokens": [
     {
       "surface": "ויקח",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "העדפים",
@@ -49,6 +49,6 @@
       "gloss": "par les Lévites"
     }
   ],
-  "timestamp": "2026-08-04T08:26:55.236326629Z",
+  "timestamp": "2026-08-24T21:49:23.351186782Z",
   "model": "glm-4.5"
 }

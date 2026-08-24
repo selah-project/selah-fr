@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et YHWH fera retourner ⟨את⟩ son sang sur sa tête, car il a frappé deux hommes, justes et meilleurs ⟨que⟩ lui, et il les a tués par l'épée, et mon père David ne ⟨le⟩ savait pas, ⟨את⟩ Abner fils de Ner, chef de ⟨l'⟩armée d'Israël, et ⟨את⟩ Amasa fils de Yether, chef de ⟨l'⟩armée de Juda",
+  "translation": "Et YHWH fera retourner ⟨את⟩ son sang sur sa tête, car il a frappé deux hommes, justes et meilleurs ⟨que⟩ lui, et il les a tués par l'épée, et mon père David ne ⟨את⟩ ⟨le⟩ savait pas, ⟨את⟩ Abner fils de Ner, chef de ⟨l'⟩armée d'Israël, et ⟨את⟩ Amasa fils de Yether, chef de ⟨l'⟩armée de Juda",
   "tokens": [
     {
       "surface": "והשיב",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "le fait"
     },
     {
@@ -143,6 +143,6 @@
       "gloss": "de Juda"
     }
   ],
-  "timestamp": "2026-08-04T13:32:15.831102234Z",
+  "timestamp": "2026-08-24T21:49:23.384219236Z",
   "model": "glm-4.5"
 }

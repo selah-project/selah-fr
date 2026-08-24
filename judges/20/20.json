@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et sortirent ⟨les⟩ hommes d'Israël pour ⟨la⟩ guerre contre Benjamin, et se rangèrent en bataille contre eux, ⟨les⟩ hommes d'Israël, pour ⟨la⟩ guerre contre Guibea",
+  "translation": "Et sortirent ⟨les⟩ hommes d'Israël pour ⟨la⟩ guerre contre Benjamin, et se rangèrent en bataille ⟨את⟩ contre eux, ⟨les⟩ hommes d'Israël, pour ⟨la⟩ guerre contre Guibea",
   "tokens": [
     {
       "surface": "ויצא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "contre eux"
+      "gloss": "⟨את⟩ contre eux"
     },
     {
       "surface": "איש",
@@ -60,6 +60,6 @@
       "gloss": "Guibea"
     }
   ],
-  "timestamp": "2026-08-04T12:01:30.544194448Z",
+  "timestamp": "2026-08-24T21:49:23.136245984Z",
   "model": "glm-4.5"
 }

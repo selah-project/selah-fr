@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 33,
-  "translation": "N'as-tu pas vu ce ⟨que⟩ ce peuple a dit, disant : Les deux familles que YHWH a choisies, il les a rejetées ; et mon peuple, ils ⟨le⟩ méprisent de n'être plus une nation devant eux.",
+  "translation": "N'as-tu pas vu ce ⟨que⟩ ce peuple a dit, disant : Les deux familles que YHWH a choisies, il les a rejetées ; et ⟨את⟩ mon peuple, ils ⟨le⟩ méprisent de n'être plus une nation devant eux.",
   "tokens": [
     {
       "surface": "הלוא",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "וימאסם",
-      "gloss": "et ⟨את⟩"
+      "gloss": "et"
     },
     {
       "surface": "ואת",
-      "gloss": "mon peuple"
+      "gloss": "⟨את⟩ mon peuple"
     },
     {
       "surface": "עמי",
@@ -92,6 +92,6 @@
       "gloss": "devant eux"
     }
   ],
-  "timestamp": "2026-08-04T22:49:03.358563105Z",
+  "timestamp": "2026-08-24T21:49:23.157650605Z",
   "model": "glm-4.5"
 }

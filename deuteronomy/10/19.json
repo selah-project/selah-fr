@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et vous aimerez ⟨le⟩ immigrant, car des immigrants vous étiez au pays de Mitsrayim.",
+  "translation": "Et vous aimerez ⟨את⟩ ⟨le⟩ immigrant, car des immigrants vous étiez au pays de Mitsrayim.",
   "tokens": [
     {
       "surface": "ואהבתם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "immigrant"
     },
     {
@@ -41,6 +41,6 @@
       "gloss": "de Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-04T21:50:50.865883205Z",
+  "timestamp": "2026-08-24T21:49:23.252728792Z",
   "model": "glm-4.5"
 }

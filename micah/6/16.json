@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et on observe les statuts d'Omri et toute l'œuvre de la maison d'Achab, et vous marchez dans leurs conseils, afin que je te donne ⟨pour⟩ désolation et ses habitants pour sifflement, et le déshonneur de mon peuple vous porterez",
+  "translation": "Et on observe les statuts d'Omri et toute l'œuvre de la maison d'Achab, et vous marchez dans leurs conseils, afin que je te donne ⟨את⟩ ⟨pour⟩ désolation et ses habitants pour sifflement, et le déshonneur de mon peuple vous porterez",
   "tokens": [
     {
       "surface": "וישתמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨pour⟩",
+      "gloss": "⟨את⟩ ⟨pour⟩",
       "marks": "désolation"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "vous porterez"
     }
   ],
-  "timestamp": "2026-08-05T00:31:54.814615977Z",
+  "timestamp": "2026-08-24T21:49:23.187064148Z",
   "model": "glm-4.5"
 }

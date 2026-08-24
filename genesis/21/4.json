@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et Abraham circoncit ⟨את⟩ Isaac son fils, ⟨un⟩ fils de huit jours, comme Élohim l'avait commandé",
+  "translation": "Et Abraham circoncit ⟨את⟩ Isaac son fils, ⟨un⟩ fils de huit jours, comme Élohim ⟨את⟩ l'avait commandé",
   "tokens": [
     {
       "surface": "וימל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "l'avait",
+      "gloss": "⟨את⟩ l'avait",
       "marks": "commandé"
     },
     {
@@ -58,6 +58,6 @@
       "gloss": "Élohim"
     }
   ],
-  "timestamp": "2026-08-04T05:27:04.934619400Z",
+  "timestamp": "2026-08-24T21:49:23.100211686Z",
   "model": "glm-4.5"
 }

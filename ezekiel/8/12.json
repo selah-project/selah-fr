@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et il me dit : As-tu vu, fils de l'humain, ce que font les anciens de la maison d'Israël dans les ténèbres, chacun dans les chambres de son imagery ? car ils disent : YHWH ne nous voit pas, YHWH a délaissé ⟨את⟩ la terre.",
+  "translation": "Et il me dit : As-tu vu, fils de l'humain, ce que font les anciens de la maison d'Israël dans les ténèbres, chacun dans les chambres de son imagery ? car ils disent : YHWH ne ⟨את⟩ nous voit pas, YHWH a délaissé ⟨את⟩ la terre.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "nous"
+      "gloss": "⟨את⟩ nous"
     },
     {
       "surface": "עזב",
@@ -105,6 +105,6 @@
       "gloss": "la terre"
     }
   ],
-  "timestamp": "2026-08-04T23:18:15.759108620Z",
+  "timestamp": "2026-08-24T21:49:23.295074820Z",
   "model": "glm-4.5"
 }

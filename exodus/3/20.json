@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et j'étendrai ma main et je frapperai ⟨את⟩ l'Égypte par toutes mes merveilles que je ferai au milieu d'elle ; et après cela, il vous renverra.",
+  "translation": "Et j'étendrai ma main et je frapperai ⟨את⟩ l'Égypte par toutes mes merveilles que je ferai au milieu d'elle ; et après cela, il ⟨את⟩ vous renverra.",
   "tokens": [
     {
       "surface": "ושלחתי",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "vous"
+      "gloss": "⟨את⟩ vous"
     }
   ],
-  "timestamp": "2026-08-04T06:15:33.696767950Z",
+  "timestamp": "2026-08-24T21:49:23.206641324Z",
   "model": "glm-4.5"
 }

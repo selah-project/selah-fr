@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et il leur parla selon le conseil des jeunes, disant : Mon père a alourdi votre joug, et moi j'ajouterai sur lui ; mon père vous a corrigés avec des fouets, et moi avec des scorpions.",
+  "translation": "Et il leur parla selon le conseil des jeunes, disant : Mon père a alourdi votre joug, et moi j'ajouterai sur lui ; mon père ⟨את⟩ vous a corrigés avec des fouets, et moi avec des scorpions.",
   "tokens": [
     {
       "surface": "וַיְדַבֵּ֣ר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אֶתְכֶם֙",
-      "gloss": "vous"
+      "gloss": "⟨את⟩ vous"
     },
     {
       "surface": "בַּשּׁוֹטִ֔ים",
@@ -77,6 +77,6 @@
       "gloss": "avec des scorpions"
     }
   ],
-  "timestamp": "2026-08-05T06:03:49.111847363Z",
+  "timestamp": "2026-08-24T21:49:23.230089054Z",
   "model": "glm-5.2"
 }

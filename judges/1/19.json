@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et YHWH ⟨fut⟩ avec Juda et il posséda ⟨את⟩ la montagne car ⟨il ne pouvait⟩ pas déposséder ⟨את⟩ les habitants de la vallée car ⟨ils avaient⟩ des chars de fer",
+  "translation": "Et YHWH ⟨fut⟩ ⟨את⟩ avec Juda et il posséda ⟨את⟩ la montagne car ⟨il ne pouvait⟩ pas déposséder ⟨את⟩ les habitants de la vallée car ⟨ils avaient⟩ des chars de fer",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "Juda"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "⟨ils avaient⟩"
     }
   ],
-  "timestamp": "2026-08-04T11:33:32.563945169Z",
+  "timestamp": "2026-08-24T21:49:23.142255623Z",
   "model": "glm-4.5"
 }

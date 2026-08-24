@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Et le peuple eut soif là ⟨pour⟩ l'eau et le peuple murmura contre Moïse et dit : pourquoi ⟨est⟩ ceci que tu nous as fait monter d'Égypte pour me faire mourir, moi, et ⟨את⟩ mes fils, et ⟨את⟩ mon bétail, par la soif",
+  "translation": "Et le peuple eut soif là ⟨pour⟩ l'eau et le peuple murmura contre Moïse et dit : pourquoi ⟨est⟩ ceci que tu nous as fait monter d'Égypte pour me faire mourir, ⟨את⟩ moi, et ⟨את⟩ mes fils, et ⟨את⟩ mon bétail, par la soif",
   "tokens": [
     {
       "surface": "ויצמא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "moi"
+      "gloss": "⟨את⟩ moi"
     },
     {
       "surface": "ואת",
@@ -90,6 +90,6 @@
       "gloss": "par la soif"
     }
   ],
-  "timestamp": "2026-08-04T06:37:43.081485483Z",
+  "timestamp": "2026-08-24T21:49:23.213523601Z",
   "model": "glm-4.5"
 }

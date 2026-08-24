@@ -1,11 +1,11 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 24,
   "ref": "exodus 35:24",
   "book": "exodus",
   "lang": "fr",
   "chapter": 35,
-  "translation": "Tous ⟨ceux qui⟩ faisaient monter ⟨une⟩ offrande d'argent et de bronze firent venir l'offrande de YHWH, et tout homme qui avait ⟨du⟩ bois de shittim pour tout ouvrage du service, le firent venir",
+  "translation": "Tous ceux qui élevaient une offrande élevée d'argent et de cuivre apportèrent ⟨את⟩ l'offrande élevée de YHWH ; et tous ceux chez qui se trouvait ⟨את⟩ du bois de chittim, pour toute œuvre du service, l'apportèrent.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מרים",
-      "gloss": "ceux qui faisaient monter"
+      "gloss": "ceux qui élevaient"
     },
     {
       "surface": "תרומת",
-      "gloss": "une offrande"
+      "gloss": "une offrande élevée"
     },
     {
       "surface": "כסף",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "ונחשת",
-      "gloss": "et de bronze"
+      "gloss": "et de cuivre"
     },
     {
       "surface": "הביאו",
-      "gloss": "firent venir"
+      "gloss": "apportèrent"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "l'offrande de YHWH"
+      "marks": "l'offrande élevée"
     },
     {
       "surface": "תרומת",
-      "gloss": "l'offrande"
+      "gloss": "l'offrande élevée"
     },
     {
       "surface": "יהוה",
@@ -46,36 +46,35 @@
     },
     {
       "surface": "וכל",
-      "gloss": "et tout"
+      "gloss": "et tous"
     },
     {
       "surface": "אשר",
-      "gloss": "qui"
+      "gloss": "ceux que"
     },
     {
       "surface": "נמצא",
-      "gloss": "avait"
+      "gloss": "se trouvait"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "du bois de shittim"
+      "gloss": "⟨את⟩ chez eux"
     },
     {
       "surface": "עצי",
-      "gloss": "bois"
+      "gloss": "du bois"
     },
     {
       "surface": "שטים",
-      "gloss": "de shittim"
+      "gloss": "de chittim (acacias)"
     },
     {
       "surface": "לכל",
-      "gloss": "pour tout"
+      "gloss": "pour toute"
     },
     {
       "surface": "מלאכת",
-      "gloss": "ouvrage"
+      "gloss": "œuvre"
     },
     {
       "surface": "העבדה",
@@ -83,9 +82,9 @@
     },
     {
       "surface": "הביאו",
-      "gloss": "le firent venir"
+      "gloss": "l'apportèrent"
     }
   ],
-  "timestamp": "2026-08-04T07:11:56.832634215Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:30.605748223Z",
+  "model": "glm-5.3"
 }

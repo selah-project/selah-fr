@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 23,
-  "translation": "Voyez et sachez tous les lieux de cachette où il se cache là, et revenez vers moi avec certitude, et j'irai avec vous ; et il adviendra, s'il ⟨est⟩ dans la terre, que je le ⟨את⟩ chercherai dans tous les milliers de Juda.",
+  "translation": "Voyez et sachez tous les lieux de cachette où il se cache là, et revenez vers moi avec certitude, et j'irai ⟨את⟩ avec vous ; et il adviendra, s'il ⟨est⟩ dans la terre, que je le ⟨את⟩ chercherai dans tous les milliers de Juda.",
   "tokens": [
     {
       "surface": "וראו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "והיה",
@@ -97,6 +97,6 @@
       "gloss": "de Juda"
     }
   ],
-  "timestamp": "2026-08-04T12:40:37.983699632Z",
+  "timestamp": "2026-08-24T21:49:23.242732413Z",
   "model": "glm-4.5"
 }

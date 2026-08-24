@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et si un résident séjourne auprès de vous, ou quiconque ⟨est⟩ au milieu de vous pour vos générations, et qu'il fasse une offrande par feu, odeur apaisante pour YHWH, comme vous ferez, ainsi il fera",
+  "translation": "Et si un résident séjourne ⟨את⟩ auprès de vous, ou quiconque ⟨est⟩ au milieu de vous pour vos générations, et qu'il fasse une offrande par feu, odeur apaisante pour YHWH, comme vous ferez, ainsi il fera",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "auprès de vous"
+      "gloss": "⟨את⟩ auprès de vous"
     },
     {
       "surface": "גר",
@@ -76,6 +76,6 @@
       "gloss": "il fera"
     }
   ],
-  "timestamp": "2026-08-04T08:57:09.581540515Z",
+  "timestamp": "2026-08-24T21:49:23.354916720Z",
   "model": "glm-4.5"
 }

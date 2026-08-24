@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Et il était avec elle caché ⟨dans⟩ la maison de YHWH six ans, et Atalya régnait sur ⟨la⟩ terre.",
+  "translation": "Et il était ⟨את⟩ avec elle caché ⟨dans⟩ la maison de YHWH six ans, et Atalya régnait sur ⟨la⟩ terre.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "avec elle"
+      "gloss": "⟨את⟩ avec elle"
     },
     {
       "surface": "בית",
@@ -52,6 +52,6 @@
       "gloss": "⟨la⟩ terre"
     }
   ],
-  "timestamp": "2026-08-04T14:24:06.777224226Z",
+  "timestamp": "2026-08-24T21:49:23.304604376Z",
   "model": "glm-4.5"
 }

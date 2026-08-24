@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 42,
-  "translation": "Et Yaakov leur père leur dit : vous m'avez privé d'enfants, Yosseph n'est pas, et Shimon n'est pas, et Benjamin vous le prendrez, tout cela est contre moi.",
+  "translation": "Et Yaakov leur père leur dit : vous m'avez privé d'enfants, Yosseph n'est pas, et Shimon n'est pas, et Benjamin vous le prendrez, tout cela est contre ⟨את⟩ moi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "moi",
+      "gloss": "⟨את⟩ moi",
       "marks": "vous m'avez privé d'enfants"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "tout cela"
     }
   ],
-  "timestamp": "2026-08-04T05:56:51.218118178Z",
+  "timestamp": "2026-08-24T21:49:23.103436456Z",
   "model": "glm-4.5"
 }

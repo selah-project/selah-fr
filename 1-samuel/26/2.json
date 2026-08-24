@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 26,
-  "translation": "Alors Shaul se leva et descendit au désert de Zif, et avec lui trois mille hommes, l'élite d'Israël, pour chercher ⟨את⟩ David dans le désert de Zif.",
+  "translation": "Alors Shaul se leva et descendit au désert de Zif, ⟨את⟩ et avec lui trois mille hommes, l'élite d'Israël, pour chercher ⟨את⟩ David dans le désert de Zif.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "et avec lui"
+      "gloss": "⟨את⟩ et avec lui"
     },
     {
       "surface": "שלשת",
@@ -77,6 +77,6 @@
       "gloss": "de Zif"
     }
   ],
-  "timestamp": "2026-08-04T12:45:37.033789599Z",
+  "timestamp": "2026-08-24T21:49:23.241144526Z",
   "model": "glm-4.5"
 }

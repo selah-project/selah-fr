@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 26,
-  "translation": "Et ⟨le⟩ roi Yehoyaqim envoya des hommes ⟨en⟩ Égypte, ⟨את⟩ Elnathan ben Akbor, et des hommes avec lui ⟨en⟩ Égypte.",
+  "translation": "Et ⟨le⟩ roi Yehoyaqim envoya des hommes ⟨en⟩ Égypte, ⟨את⟩ Elnathan ben Akbor, et des hommes ⟨את⟩ avec lui ⟨en⟩ Égypte.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "אל",
@@ -61,6 +61,6 @@
       "gloss": "Égypte"
     }
   ],
-  "timestamp": "2026-08-04T22:42:59.137369156Z",
+  "timestamp": "2026-08-24T21:49:23.167550286Z",
   "model": "glm-4.5"
 }

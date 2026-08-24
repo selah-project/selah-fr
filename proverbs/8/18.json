@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "fr",
   "chapter": 8,
-  "translation": "La richesse et la gloire sont avec moi, le bien durable et ⟨la⟩ justice.",
+  "translation": "La richesse et la gloire ⟨את⟩ sont avec moi, le bien durable et ⟨la⟩ justice.",
   "tokens": [
     {
       "surface": "עשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "sont avec moi"
+      "gloss": "⟨את⟩ sont avec moi"
     },
     {
       "surface": "הון",
@@ -32,6 +32,6 @@
       "gloss": "et ⟨la⟩ justice"
     }
   ],
-  "timestamp": "2026-08-05T03:18:54.609734186Z",
+  "timestamp": "2026-08-24T21:49:23.130882569Z",
   "model": "glm-4.5"
 }

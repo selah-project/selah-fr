@@ -1,31 +1,31 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 7,
   "ref": "ezekiel 41:7",
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 41,
-  "translation": "Et largeur et <enroulement> vers le haut, vers le haut pour les cellules, car <enroulement> de la Maison, vers le haut, vers le haut, tout autour, tout autour de la Maison : à cause de cela, largeur pour la Maison vers le haut ; et ainsi, l'inférieure montait vers la supérieure par la centrale.",
+  "translation": "Et ⟨elle⟩ s'élargissait et tournait vers le haut, toujours plus haut, pour les chambres latérales, car le pourtour de la maison montait vers le haut, toujours plus haut, tout autour, tout autour de la maison ; c'est pourquoi la largeur de la maison croissait vers le haut, et ainsi de la chambre inférieure on montait à la supérieure, par la médiane.",
   "tokens": [
     {
       "surface": "ורחבה",
-      "gloss": "Et largeur"
+      "gloss": "et s'élargissait"
     },
     {
-      "surface": "ונסבה",
-      "gloss": "et <enroulement>"
-    },
-    {
-      "surface": "למעלה",
-      "gloss": "vers le haut"
+      "surface": "וונסבה",
+      "gloss": "et tournait"
     },
     {
       "surface": "למעלה",
       "gloss": "vers le haut"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "toujours plus haut"
     },
     {
       "surface": "לצלעות",
-      "gloss": "pour les cellules"
+      "gloss": "pour les chambres latérales"
     },
     {
       "surface": "כי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מוסב",
-      "gloss": "<enroulement>"
+      "gloss": "le pourtour"
     },
     {
       "surface": "הבית",
-      "gloss": "de la Maison"
+      "gloss": "de la maison"
     },
     {
       "surface": "למעלה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "למעלה",
-      "gloss": "vers le haut"
+      "gloss": "toujours plus haut"
     },
     {
       "surface": "סביב",
@@ -57,23 +57,23 @@
     },
     {
       "surface": "לבית",
-      "gloss": "de la Maison"
+      "gloss": "de la maison"
     },
     {
       "surface": "על",
-      "gloss": "à cause de"
+      "gloss": "c'est pourquoi"
     },
     {
       "surface": "כן",
-      "gloss": "cela"
+      "gloss": "c'est pourquoi"
     },
     {
       "surface": "רחב",
-      "gloss": "largeur"
+      "gloss": "la largeur"
     },
     {
       "surface": "לבית",
-      "gloss": "pour la Maison"
+      "gloss": "de la maison"
     },
     {
       "surface": "למעלה",
@@ -85,15 +85,15 @@
     },
     {
       "surface": "התחתונה",
-      "gloss": "l'inférieure"
+      "gloss": "la chambre inférieure"
     },
     {
       "surface": "יעלה",
-      "gloss": "montait"
+      "gloss": "on montait"
     },
     {
       "surface": "על",
-      "gloss": "vers"
+      "gloss": "à"
     },
     {
       "surface": "העליונה",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "לתיכונה",
-      "gloss": "par la centrale"
+      "gloss": "par la médiane"
     }
   ],
-  "timestamp": "2026-08-04T23:50:13.942421055Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:37.770178778Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et Ben-Hadad, roi d'Aram, rassembla ⟨את⟩ toute son armée, et trente-deux rois avec lui, et le cheval et le char, et il monta et assiégea contre Shomron, et il fit la guerre en elle.",
+  "translation": "Et Ben-Hadad, roi d'Aram, rassembla ⟨את⟩ toute son armée, et trente-deux rois ⟨את⟩ avec lui, et le cheval et le char, et il monta et assiégea contre Shomron, et il fit la guerre en elle.",
   "tokens": [
     {
       "surface": "ובן",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "וסוס",
@@ -89,6 +89,6 @@
       "gloss": "en elle"
     }
   ],
-  "timestamp": "2026-08-04T14:00:45.740344939Z",
+  "timestamp": "2026-08-24T21:49:23.381072088Z",
   "model": "glm-4.5"
 }

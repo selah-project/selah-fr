@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Et le peuple se tut et ne ⟨l'⟩a pas répondu ⟨את⟩ un mot, car ⟨le⟩ commandement ⟨du⟩ roi ⟨est⟩, pour dire : ne le répondez pas.",
+  "translation": "Et le peuple se tut et ne ⟨את⟩ ⟨l'⟩a pas répondu ⟨את⟩ un mot, car ⟨le⟩ commandement ⟨du⟩ roi ⟨est⟩, pour dire : ne le répondez pas.",
   "tokens": [
     {
       "surface": "והחרישו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨l'⟩",
+      "gloss": "⟨את⟩ ⟨l'⟩",
       "marks": "un mot"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "le répondez pas"
     }
   ],
-  "timestamp": "2026-08-04T14:36:10.609456325Z",
+  "timestamp": "2026-08-24T21:49:23.313761233Z",
   "model": "glm-4.5"
 }

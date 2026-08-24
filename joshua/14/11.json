@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Encore aujourd'hui, je suis fort comme au jour où Moshé m'a ⟨את⟩ envoyé ; comme ma force était alors, telle est ma force maintenant, pour la guerre, pour sortir et pour entrer.",
+  "translation": "Encore aujourd'hui, je suis fort comme au jour où Moshé ⟨את⟩ m'a ⟨את⟩ envoyé ; comme ma force était alors, telle est ma force maintenant, pour la guerre, pour sortir et pour entrer.",
   "tokens": [
     {
       "surface": "עודני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "m'a",
+      "gloss": "⟨את⟩ m'a",
       "marks": "Moshé"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "et pour entrer"
     }
   ],
-  "timestamp": "2026-08-04T11:08:55.990121149Z",
+  "timestamp": "2026-08-24T21:49:23.376172381Z",
   "model": "glm-4.5"
 }

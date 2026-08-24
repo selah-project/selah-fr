@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et Édom refusa de donner ⟨à⟩ Israël passage dans sa frontière, et Israël se détourna de lui.",
+  "translation": "Et Édom refusa de donner ⟨את⟩ ⟨à⟩ Israël passage dans sa frontière, et Israël se détourna de lui.",
   "tokens": [
     {
       "surface": "וימאן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨à⟩",
+      "gloss": "⟨את⟩ ⟨à⟩",
       "marks": "Israël"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "de lui"
     }
   ],
-  "timestamp": "2026-08-04T09:08:18.778694474Z",
+  "timestamp": "2026-08-24T21:49:23.349715824Z",
   "model": "glm-4.5"
 }

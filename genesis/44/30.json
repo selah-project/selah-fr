@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 44,
-  "translation": "Et maintenant, quand je viendrai vers ⟨ton⟩ serviteur, ⟨mon⟩ père, et que ⟨le⟩ jeune homme n’est ⟨pas⟩ avec nous, et que sa nefesh est liée à sa nefesh,",
+  "translation": "Et maintenant, quand je viendrai vers ⟨ton⟩ serviteur, ⟨mon⟩ père, et que ⟨le⟩ jeune homme n’est ⟨pas⟩ ⟨את⟩ avec nous, et que sa nefesh est liée à sa nefesh,",
   "tokens": [
     {
       "surface": "ועתה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "ונפשו",
@@ -52,6 +52,6 @@
       "gloss": "à sa nefesh"
     }
   ],
-  "timestamp": "2026-08-04T06:00:40.511615062Z",
+  "timestamp": "2026-08-24T21:49:23.096408855Z",
   "model": "glm-4.5"
 }

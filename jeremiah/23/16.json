@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 23,
-  "translation": "Ainsi a dit YHWH Tsevaot : n'écoutez pas les paroles des prophètes qui prophétisent pour vous, ils ⟨vous⟩ mènent à la vanité, la vision de leur cœur ils parlent, non de la bouche de YHWH",
+  "translation": "Ainsi a dit YHWH Tsevaot : n'écoutez pas les paroles des prophètes qui prophétisent pour vous, ils ⟨את⟩ ⟨vous⟩ mènent à la vanité, la vision de leur cœur ils parlent, non de la bouche de YHWH",
   "tokens": [
     {
       "surface": "כה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨vous⟩",
+      "gloss": "⟨את⟩ ⟨vous⟩",
       "marks": "vision"
     },
     {
@@ -89,6 +89,6 @@
       "gloss": "de YHWH"
     }
   ],
-  "timestamp": "2026-08-04T16:30:26.676640771Z",
+  "timestamp": "2026-08-24T21:49:23.170025950Z",
   "model": "glm-4.5"
 }

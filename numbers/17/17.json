@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Parle aux fils d'Israël et prends d'eux des bâtons, un bâton ⟨pour⟩ la maison de leur père, ⟨de⟩ tous leurs princes ⟨selon⟩ la maison de leurs pères, douze bâtons ; tu écriras le nom de chacun sur son bâton",
+  "translation": "Parle aux fils d'Israël et prends ⟨את⟩ d'eux des bâtons, un bâton ⟨pour⟩ la maison de leur père, ⟨את⟩ ⟨de⟩ tous leurs princes ⟨selon⟩ la maison de leurs pères, douze bâtons ; tu écriras le nom de chacun sur son bâton",
   "tokens": [
     {
       "surface": "דבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "d'eux"
+      "gloss": "⟨את⟩ d'eux"
     },
     {
       "surface": "מטה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩"
+      "gloss": "⟨את⟩ ⟨de⟩"
     },
     {
       "surface": "כל",
@@ -105,6 +105,6 @@
       "gloss": "son bâton"
     }
   ],
-  "timestamp": "2026-08-04T09:02:34.487603431Z",
+  "timestamp": "2026-08-24T21:49:23.358121190Z",
   "model": "glm-4.5"
 }

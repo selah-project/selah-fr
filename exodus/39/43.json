@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 39,
-  "translation": "Et Mosheh vit ⟨את⟩ toute l'œuvre et voici ils l'avaient faite comme YHWH l'avait commandé ainsi ils avaient fait et Mosheh les bénit",
+  "translation": "Et Mosheh vit ⟨את⟩ toute l'œuvre et voici ils ⟨את⟩ l'avaient faite comme YHWH l'avait commandé ainsi ils avaient fait et Mosheh les bénit",
   "tokens": [
     {
       "surface": "וירא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "l'avaient",
+      "gloss": "⟨את⟩ l'avaient",
       "marks": "comme YHWH l'avait commandé"
     },
     {
@@ -75,6 +75,6 @@
       "gloss": "Mosheh"
     }
   ],
-  "timestamp": "2026-08-04T07:22:19.772342256Z",
+  "timestamp": "2026-08-24T21:49:23.205420305Z",
   "model": "glm-4.5"
 }

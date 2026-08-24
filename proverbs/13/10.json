@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Seul par l'insolence vient la querelle et avec ⟨ceux qui⟩ délibèrent est la sagesse.",
+  "translation": "Seul par l'insolence vient la querelle ⟨את⟩ et avec ⟨ceux qui⟩ délibèrent est la sagesse.",
   "tokens": [
     {
       "surface": "רק",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et avec",
+      "gloss": "⟨את⟩ et avec",
       "marks": "ceux qui délibèrent"
     },
     {
@@ -37,6 +37,6 @@
       "gloss": "la sagesse"
     }
   ],
-  "timestamp": "2026-08-05T03:23:00.056238060Z",
+  "timestamp": "2026-08-24T21:49:23.131543482Z",
   "model": "glm-4.5"
 }

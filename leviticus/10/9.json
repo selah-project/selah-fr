@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Vin et boisson forte ne bois pas, toi et tes fils avec toi, à votre entrée dans ⟨le⟩ tent⟨e⟩ d'assignation, et vous ne mourrez pas, statut perpétuel pour vos générations.",
+  "translation": "Vin et boisson forte ne bois pas, toi et tes fils ⟨את⟩ avec toi, à votre entrée dans ⟨le⟩ tent⟨e⟩ d'assignation, et vous ne mourrez pas, statut perpétuel pour vos générations.",
   "tokens": [
     {
       "surface": "יַ֣יִן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אִתָּ֗ךְ",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "בְּבֹאֲכֶ֛ם",
@@ -72,6 +72,6 @@
       "gloss": "pour vos générations"
     }
   ],
-  "timestamp": "2026-08-04T07:39:33.142136466Z",
+  "timestamp": "2026-08-24T21:49:23.315341044Z",
   "model": "glm-4.5"
 }

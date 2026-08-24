@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Et il me ⟨a⟩ dit : YHWH, devant qui j'ai marché, enverra son messager avec toi et ⟨il⟩ fera prospérer ton chemin, et tu prendras une femme pour mon fils de ma famille et de la maison de mon père.",
+  "translation": "Et il me ⟨a⟩ dit : YHWH, devant qui j'ai marché, enverra son messager ⟨את⟩ avec toi et ⟨il⟩ fera prospérer ton chemin, et tu prendras une femme pour mon fils de ma famille et de la maison de mon père.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "והצליח",
@@ -76,6 +76,6 @@
       "gloss": "de mon père"
     }
   ],
-  "timestamp": "2026-08-04T05:30:58.793666048Z",
+  "timestamp": "2026-08-24T21:49:23.120389788Z",
   "model": "glm-4.5"
 }

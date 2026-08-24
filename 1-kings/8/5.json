@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et le roi Shelomoh et toute l'assemblée d'Israël, les rassemblés ⟨qui sont⟩ avec lui, ⟨étaient⟩ devant l'Arche sacrifiant ⟨des⟩ brebis et ⟨du⟩ bétail qui ne se compteraient pas et ne se numéroteraient pas ⟨à cause⟩ du grand nombre.",
+  "translation": "Et le roi Shelomoh et toute l'assemblée d'Israël, les rassemblés ⟨qui sont⟩ avec lui, ⟨את⟩ ⟨étaient⟩ devant l'Arche sacrifiant ⟨des⟩ brebis et ⟨du⟩ bétail qui ne se compteraient pas et ne se numéroteraient pas ⟨à cause⟩ du grand nombre.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨étaient⟩"
+      "gloss": "⟨את⟩ ⟨étaient⟩"
     },
     {
       "surface": "לפני",
@@ -84,6 +84,6 @@
       "gloss": "⟨à cause⟩ du grand nombre"
     }
   ],
-  "timestamp": "2026-08-04T13:41:21.009240392Z",
+  "timestamp": "2026-08-24T21:49:23.385926927Z",
   "model": "glm-4.5"
 }

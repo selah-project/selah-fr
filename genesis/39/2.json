@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 39,
-  "translation": "Et YHWH était ⟨avec⟩ Joseph, et il fut un homme ⟨qui⟩ réussissait, et il était dans la maison de son maître, l'Égyptien.",
+  "translation": "Et YHWH était ⟨את⟩ ⟨avec⟩ Joseph, et il fut un homme ⟨qui⟩ réussissait, et il était dans la maison de son maître, l'Égyptien.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨avec⟩",
+      "gloss": "⟨את⟩ ⟨avec⟩",
       "marks": "Joseph"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "l'Égyptien"
     }
   ],
-  "timestamp": "2026-08-04T05:51:19.451039973Z",
+  "timestamp": "2026-08-24T21:49:23.105244424Z",
   "model": "glm-4.5"
 }

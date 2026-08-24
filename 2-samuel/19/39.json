@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 19,
-  "translation": "Et le roi dit : avec moi il passera, Kimham, et je lui ferai ⟨le⟩ bien ⟨à⟩ tes yeux, et tout ce que tu choisiras sur moi je ferai pour toi.",
+  "translation": "Et le roi dit : ⟨את⟩ avec moi il passera, Kimham, et je lui ferai ⟨le⟩ bien ⟨à⟩ tes yeux, et tout ce que tu choisiras sur moi je ferai pour toi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "יעבר",
@@ -77,6 +77,6 @@
       "gloss": "pour toi"
     }
   ],
-  "timestamp": "2026-08-04T13:20:28.115801154Z",
+  "timestamp": "2026-08-24T21:49:23.083537571Z",
   "model": "glm-4.5"
 }

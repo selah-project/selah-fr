@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et Moïse parla ⟨au⟩ peuple en disant : équipez-vous ⟨de⟩ parmi vous des hommes pour l'armée, et qu'ils soient contre Midiān, pour donner la vengeance de YHWH sur Midiān.",
+  "translation": "Et Moïse parla ⟨au⟩ peuple en disant : équipez-vous ⟨את⟩ ⟨de⟩ parmi vous des hommes pour l'armée, et qu'ils soient contre Midiān, pour donner la vengeance de YHWH sur Midiān.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאתכם",
-      "gloss": "⟨de⟩ parmi vous"
+      "gloss": "⟨את⟩ ⟨de⟩ parmi vous"
     },
     {
       "surface": "אנשים",
@@ -72,6 +72,6 @@
       "gloss": "sur Midiān"
     }
   ],
-  "timestamp": "2026-08-04T09:37:28.505544010Z",
+  "timestamp": "2026-08-24T21:49:23.363567597Z",
   "model": "glm-4.5"
 }

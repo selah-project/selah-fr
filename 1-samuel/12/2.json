@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Et maintenant, voici, le roi ⟨marche⟩ devant vous ; et moi, je suis vieux et blanchi ; et voici, mes fils ⟨sont⟩ avec vous ; et moi j'ai marché devant vous depuis ma jeunesse jusqu'à ce jour-ci.",
+  "translation": "Et maintenant, voici, le roi ⟨marche⟩ devant vous ; et moi, je suis vieux et blanchi ; et voici, mes fils ⟨sont⟩ ⟨את⟩ avec vous ; et moi j'ai marché devant vous depuis ma jeunesse jusqu'à ce jour-ci.",
   "tokens": [
     {
       "surface": "וְעַתָּה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אִתְּכֶם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "וַאֲנִי",
@@ -80,6 +80,6 @@
       "gloss": "-ci"
     }
   ],
-  "timestamp": "2026-08-04T12:19:45.474152945Z",
+  "timestamp": "2026-08-24T21:49:23.244759178Z",
   "model": "glm-4.5"
 }

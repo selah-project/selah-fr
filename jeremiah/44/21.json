@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 44,
-  "translation": "N'est-ce pas ⟨l'encens⟩ que vous avez fait fumer dans les villes de Juda et dans les rues de Jérusalem, vous et vos pères, vos rois et vos chefs, et le peuple du pays, ⟨ceux⟩ YHWH s'en est souvenu, et cela est monté sur son cœur",
+  "translation": "N'est-ce pas ⟨את⟩ ⟨l'encens⟩ que vous avez fait fumer dans les villes de Juda et dans les rues de Jérusalem, vous et vos pères, vos rois et vos chefs, et le peuple du pays, ⟨את⟩ ⟨ceux⟩ YHWH s'en est souvenu, et cela est monté sur son cœur",
   "tokens": [
     {
       "surface": "הלוא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨l'encens⟩",
+      "gloss": "⟨את⟩ ⟨l'encens⟩",
       "marks": "הקטר"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨ceux⟩",
+      "gloss": "⟨את⟩ ⟨ceux⟩",
       "marks": "זכר"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "son cœur"
     }
   ],
-  "timestamp": "2026-08-04T23:00:52.475776262Z",
+  "timestamp": "2026-08-24T21:49:23.156802266Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et Il donna à Mosheh, quand il eut fini de parler avec lui, ⟨au⟩ mont Sinaï, deux tablettes du Témoignage, tablettes de pierre, écrites par le doigt d'Élohim.",
+  "translation": "Et Il donna à Mosheh, quand il eut fini de parler ⟨את⟩ avec lui, ⟨au⟩ mont Sinaï, deux tablettes du Témoignage, tablettes de pierre, écrites par le doigt d'Élohim.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "בהר",
@@ -72,6 +72,6 @@
       "gloss": "d'Élohim"
     }
   ],
-  "timestamp": "2026-08-04T07:05:16.382092894Z",
+  "timestamp": "2026-08-24T21:49:23.219017821Z",
   "model": "glm-4.5"
 }

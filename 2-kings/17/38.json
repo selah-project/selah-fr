@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Et ⟨la⟩ alliance que j'ai ⟨faite⟩ avec vous, vous ne l'oublierez pas, et vous ne craindrez pas ⟨les⟩ Elohim autres",
+  "translation": "Et ⟨la⟩ alliance que j'ai ⟨faite⟩ ⟨את⟩ avec vous, vous ne l'oublierez pas, et vous ne craindrez pas ⟨les⟩ Elohim autres",
   "tokens": [
     {
       "surface": "והברית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "לא",
@@ -48,6 +48,6 @@
       "gloss": "autres"
     }
   ],
-  "timestamp": "2026-08-04T14:34:24.777327282Z",
+  "timestamp": "2026-08-24T21:49:23.307598554Z",
   "model": "glm-4.5"
 }

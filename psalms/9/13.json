@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Car celui qui recherche ⟨les⟩ sangs les ⟨a⟩ rappelés, il n'a ⟨pas⟩ oublié le cri des humbles",
+  "translation": "Car celui qui recherche ⟨les⟩ sangs ⟨את⟩ les ⟨a⟩ rappelés, il n'a ⟨pas⟩ oublié le cri des humbles",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "les ⟨a⟩ rappelés",
+      "gloss": "⟨את⟩ les ⟨a⟩ rappelés",
       "marks": "ceux qui cherchent le sang"
     },
     {
@@ -45,6 +45,6 @@
       "gloss": "des humbles"
     }
   ],
-  "timestamp": "2026-08-05T01:06:51.729651999Z",
+  "timestamp": "2026-08-24T21:49:23.189951909Z",
   "model": "glm-4.5"
 }

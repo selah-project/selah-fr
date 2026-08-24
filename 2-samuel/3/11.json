@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et il ne put plus répondre ⟨את⟩ Abner une parole à cause de sa crainte de lui.",
+  "translation": "Et il ne put plus répondre ⟨את⟩ Abner une parole à cause de sa crainte ⟨את⟩ de lui.",
   "tokens": [
     {
       "surface": "ולא",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "de lui"
+      "gloss": "⟨את⟩ de lui"
     }
   ],
-  "timestamp": "2026-08-04T12:54:28.294898254Z",
+  "timestamp": "2026-08-24T21:49:23.075832003Z",
   "model": "glm-4.5"
 }

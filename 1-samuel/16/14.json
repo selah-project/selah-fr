@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et le Rouah de YHWH se retira d'auprès de Shaoul, et ⟨un⟩ Rouah mauvais ⟨d'auprès⟩ de YHWH le terrifia.",
+  "translation": "Et le Rouah de YHWH se retira d'auprès de Shaoul, et ⟨un⟩ Rouah mauvais ⟨את⟩ ⟨d'auprès⟩ de YHWH le terrifia.",
   "tokens": [
     {
       "surface": "ורוח",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨d'auprès⟩ de"
+      "gloss": "⟨את⟩ ⟨d'auprès⟩ de"
     },
     {
       "surface": "יהוה",
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T12:28:15.877593301Z",
+  "timestamp": "2026-08-24T21:49:23.248685250Z",
   "model": "glm-4.5"
 }

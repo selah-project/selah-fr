@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 35,
-  "translation": "Et les villes que vous donnerez de la possession des fils d'Israël, du nombreux vous en prendrez beaucoup, et du peu vous en prendrez peu ; chacun proportionnellement à son héritage, qu'il héritera, donnera de ses villes aux Lévites.",
+  "translation": "Et les villes que vous donnerez de la possession des fils d'Israël, du nombreux vous en prendrez beaucoup, ⟨את⟩ et du peu vous en prendrez peu ; chacun proportionnellement à son héritage, qu'il héritera, donnera de ses villes aux Lévites.",
   "tokens": [
     {
       "surface": "וְהֶֽעָרִ֗ים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מֵאֵ֤ת",
-      "gloss": "du"
+      "gloss": "⟨את⟩ du"
     },
     {
       "surface": "הָרַב֙",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וּמֵאֵ֥ת",
-      "gloss": "et du",
+      "gloss": "⟨את⟩ et du",
       "marks": "הַמְעַט"
     },
     {
@@ -89,6 +89,6 @@
       "gloss": "aux Lévites"
     }
   ],
-  "timestamp": "2026-08-04T09:45:49.788310253Z",
+  "timestamp": "2026-08-24T21:49:23.346432169Z",
   "model": "glm-4.5"
 }

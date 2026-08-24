@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et le roi et tout le peuple qui était avec lui arrivèrent épuisés et ⟨il⟩ se rafraîchit là",
+  "translation": "Et le roi et tout le peuple qui était ⟨את⟩ avec lui arrivèrent épuisés et ⟨il⟩ se rafraîchit là",
   "tokens": [
     {
       "surface": "ויבא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "עיפים",
@@ -44,6 +44,6 @@
       "gloss": "là"
     }
   ],
-  "timestamp": "2026-08-04T13:15:27.774120293Z",
+  "timestamp": "2026-08-24T21:49:23.084480165Z",
   "model": "glm-4.5"
 }

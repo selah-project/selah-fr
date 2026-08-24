@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et ⟨il fut⟩ une main de YHWH sur moi là, et Il me dit : Lève-toi, sors vers la plaine, et là Je parlerai avec toi.",
+  "translation": "Et ⟨il fut⟩ une main de YHWH sur moi là, et Il me dit : Lève-toi, sors vers la plaine, et là Je parlerai ⟨את⟩ avec toi.",
   "tokens": [
     {
       "surface": "ותהי",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "אותך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     }
   ],
-  "timestamp": "2026-08-04T23:13:50.114708745Z",
+  "timestamp": "2026-08-24T21:49:23.283525341Z",
   "model": "glm-4.5"
 }

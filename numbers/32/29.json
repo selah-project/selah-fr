@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 32,
-  "translation": "Et Mosheh dit à eux : Si les fils de Gad et les fils de Reuben passent avec vous ⟨את⟩ le Yarden, tout homme équipé pour la guerre, devant YHWH, et que le pays soit subjugué devant vous, alors vous donnerez à eux ⟨את⟩ le pays du Guiléad comme possession.",
+  "translation": "Et Mosheh dit à eux : Si les fils de Gad et les fils de Reuben passent ⟨את⟩ avec vous ⟨את⟩ le Yarden, tout homme équipé pour la guerre, devant YHWH, et que le pays soit subjugué devant vous, alors vous donnerez à eux ⟨את⟩ le pays du Guiléad comme possession.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "comme possession"
     }
   ],
-  "timestamp": "2026-08-04T09:41:42.969552635Z",
+  "timestamp": "2026-08-24T21:49:23.346966705Z",
   "model": "glm-4.5"
 }

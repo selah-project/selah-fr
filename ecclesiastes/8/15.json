@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et j'ai fait mon éloge, moi, ⟨de⟩ la joie, car il n'y a rien de bon pour l'humain sous le soleil, sinon de manger et de boire et de se réjouir ; et cela restera avec lui dans son labeur, les jours de sa vie, qu'Élohim lui a donnés sous le soleil.",
+  "translation": "Et j'ai fait mon éloge, moi, ⟨את⟩ ⟨de⟩ la joie, car il n'y a rien de bon pour l'humain sous le soleil, sinon de manger et de boire et de se réjouir ; et cela restera avec lui dans son labeur, les jours de sa vie, qu'Élohim lui a donnés sous le soleil.",
   "tokens": [
     {
       "surface": "ושבחתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨de⟩",
+      "gloss": "⟨את⟩ ⟨de⟩",
       "marks": "la joie"
     },
     {
@@ -113,6 +113,6 @@
       "gloss": "le soleil"
     }
   ],
-  "timestamp": "2026-08-05T04:38:54.201841029Z",
+  "timestamp": "2026-08-24T21:49:23.134226973Z",
   "model": "glm-4.5"
 }

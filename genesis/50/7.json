@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 50,
-  "translation": "Et Joseph monta pour enterrer ⟨את⟩ son père, et ils montèrent avec lui, tous les serviteurs de Pharaon, les anciens de sa maison et tous les anciens du pays d'Égypte.",
+  "translation": "Et Joseph monta pour enterrer ⟨את⟩ son père, et ils montèrent ⟨את⟩ avec lui, tous les serviteurs de Pharaon, les anciens de sa maison et tous les anciens du pays d'Égypte.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "כל",
@@ -73,6 +73,6 @@
       "gloss": "d'Égypte"
     }
   ],
-  "timestamp": "2026-08-04T06:10:21.443153156Z",
+  "timestamp": "2026-08-24T21:49:23.094356109Z",
   "model": "glm-4.5"
 }

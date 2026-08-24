@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et j'établirai, moi, ⟨את⟩ mon alliance avec toi, et tu sauras que je suis YHWH.",
+  "translation": "Et j'établirai, moi, ⟨את⟩ mon alliance ⟨את⟩ avec toi, et tu sauras que je suis YHWH.",
   "tokens": [
     {
       "surface": "והקימותי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "וידעת",
@@ -45,6 +45,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T23:25:51.982853835Z",
+  "timestamp": "2026-08-24T21:49:23.295308417Z",
   "model": "glm-4.5"
 }

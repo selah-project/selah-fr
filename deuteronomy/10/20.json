@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 10,
-  "translation": "YHWH ton Élohim tu craindras, ⟨le⟩ servir, et à ⟨lui⟩ tu t'attacheras, et en son Nom tu prêteras serment.",
+  "translation": "YHWH ton Élohim tu craindras, ⟨את⟩ ⟨le⟩ servir, et à ⟨lui⟩ tu t'attacheras, et en son Nom tu prêteras serment.",
   "tokens": [
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "servir"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "tu prêteras serment"
     }
   ],
-  "timestamp": "2026-08-04T10:11:07.248114549Z",
+  "timestamp": "2026-08-24T21:49:23.252958041Z",
   "model": "glm-4.5"
 }

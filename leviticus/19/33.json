@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 19,
-  "translation": "Et si un ger réside avec toi dans votre terre, vous n'opprimerez pas ⟨את⟩ lui",
+  "translation": "Et si un ger réside ⟨את⟩ avec toi dans votre terre, vous n'opprimerez pas ⟨את⟩ lui",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "גר",
@@ -41,6 +41,6 @@
       "marks": "lui"
     }
   ],
-  "timestamp": "2026-08-04T08:03:41.864841653Z",
+  "timestamp": "2026-08-24T21:49:23.327014866Z",
   "model": "glm-4.5"
 }

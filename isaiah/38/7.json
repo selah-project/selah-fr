@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 38,
-  "translation": "Et ceci ⟨est⟩ pour toi le signe de ⟨la part de⟩ YHWH, que YHWH fera ⟨את⟩ la parole, celle-ci, qu'il a dite.",
+  "translation": "Et ceci ⟨est⟩ pour toi le signe ⟨את⟩ de ⟨la part de⟩ YHWH, que YHWH fera ⟨את⟩ la parole, celle-ci, qu'il a dite.",
   "tokens": [
     {
       "surface": "וזה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de ⟨la part de⟩"
+      "gloss": "⟨את⟩ de ⟨la part de⟩"
     },
     {
       "surface": "יהוה",
@@ -61,6 +61,6 @@
       "gloss": "il a dite"
     }
   ],
-  "timestamp": "2026-08-04T15:33:08.551817372Z",
+  "timestamp": "2026-08-24T21:49:23.340868212Z",
   "model": "glm-4.5"
 }

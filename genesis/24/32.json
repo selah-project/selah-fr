@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Et l'homme ⟨alla⟩ ⟨dans⟩ la maison, et ⟨il⟩ déchargea les chameaux, et donna de la paille et du fourrage aux chameaux, et de l'eau pour laver ses pieds et les pieds des hommes qui étaient avec lui",
+  "translation": "Et l'homme ⟨alla⟩ ⟨dans⟩ la maison, et ⟨il⟩ déchargea les chameaux, et donna de la paille et du fourrage aux chameaux, et de l'eau pour laver ses pieds et les pieds des hommes qui ⟨את⟩ étaient avec lui",
   "tokens": [
     {
       "surface": "ויבא",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "étaient avec lui"
+      "gloss": "⟨את⟩ étaient avec lui"
     }
   ],
-  "timestamp": "2026-08-04T05:30:30.676623373Z",
+  "timestamp": "2026-08-24T21:49:23.121151849Z",
   "model": "glm-4.5"
 }

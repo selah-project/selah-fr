@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 35,
-  "translation": "Va ⟨à⟩ la maison des Rékabites, et parle-leur, et fais-les venir ⟨dans⟩ la maison de YHWH, ⟨dans⟩ l'une des chambres, et fais-leux boire du vin.",
+  "translation": "Va ⟨à⟩ la maison des Rékabites, et parle⟨את⟩ -leur, et fais-les venir ⟨dans⟩ la maison de YHWH, ⟨dans⟩ l'une des chambres, et fais-leux boire du vin.",
   "tokens": [
     {
       "surface": "הלוך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "-leur"
+      "gloss": "⟨את⟩ -leur"
     },
     {
       "surface": "והבאותם",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "אותם",
-      "gloss": "-eux boire"
+      "gloss": "⟨את⟩ -eux boire"
     },
     {
       "surface": "יין",
       "gloss": "du vin"
     }
   ],
-  "timestamp": "2026-08-04T22:51:00.056882876Z",
+  "timestamp": "2026-08-24T21:49:23.155763944Z",
   "model": "glm-4.5"
 }

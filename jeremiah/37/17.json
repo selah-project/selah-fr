@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 37,
-  "translation": "Alors le roi Tsidqijahou envoya et ⟨le⟩ prit, et le roi l'interrogea dans sa maison en secret, et dit : Y a-t-il une parole de ⟨la⟩ part de YHWH ? Et Yirmeyahou dit : Il y en a, et il dit : Dans ⟨la⟩ main du roi de Babel tu seras livrée.",
+  "translation": "Alors le roi Tsidqijahou envoya et ⟨le⟩ prit, et le roi l'interrogea dans sa maison en secret, et dit : Y a-t-il une parole ⟨את⟩ de ⟨la⟩ part de YHWH ? Et Yirmeyahou dit : Il y en a, et il dit : Dans ⟨la⟩ main du roi de Babel tu seras livrée.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de ⟨la⟩ part de"
+      "gloss": "⟨את⟩ de ⟨la⟩ part de"
     },
     {
       "surface": "יהוה",
@@ -92,6 +92,6 @@
       "gloss": "tu seras livrée"
     }
   ],
-  "timestamp": "2026-08-04T22:53:14.446754695Z",
+  "timestamp": "2026-08-24T21:49:23.175753477Z",
   "model": "glm-4.5"
 }

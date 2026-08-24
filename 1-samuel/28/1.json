@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 28,
-  "translation": "Et il arriva en ces jours-là que les Philistins rassemblèrent ⟨את⟩ leurs campements pour ⟨את⟩ la guerre afin de combattre Israël, et Achish dit à David : tu sais ⟨que⟩ tu sais car avec moi tu sortiras dans le camp, toi et tes hommes.",
+  "translation": "Et il arriva en ces jours-là que les Philistins rassemblèrent ⟨את⟩ leurs campements pour ⟨את⟩ la guerre afin de combattre Israël, et Achish dit à David : tu sais ⟨que⟩ tu sais car ⟨את⟩ avec moi tu sortiras dans le camp, toi et tes hommes.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "תצא",
@@ -97,6 +97,6 @@
       "gloss": "et tes hommes"
     }
   ],
-  "timestamp": "2026-08-04T12:47:49.267234896Z",
+  "timestamp": "2026-08-24T21:49:23.236921132Z",
   "model": "glm-4.5"
 }

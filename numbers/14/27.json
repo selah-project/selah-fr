@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Jusqu'à quand ⟨cette⟩ mauvaise congrégation qui murmure contre moi, j'ai entendu ⟨les⟩ murmures des fils d'Israël qu'ils murmurent contre moi",
+  "translation": "Jusqu'à quand ⟨cette⟩ mauvaise congrégation qui murmure contre moi, j'ai entendu ⟨את⟩ ⟨les⟩ murmures des fils d'Israël qu'ils murmurent contre moi",
   "tokens": [
     {
       "surface": "עד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "murmures des fils d'Israël"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "j'ai entendu"
     }
   ],
-  "timestamp": "2026-08-04T08:54:33.862025513Z",
+  "timestamp": "2026-08-24T21:49:23.361467779Z",
   "model": "glm-4.5"
 }

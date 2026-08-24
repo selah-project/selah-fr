@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Et David alla de là à Mitspé de Moab, et il dit au roi de Moab : que sorte, je te prie, mon père et ma mère avec vous jusqu'à ce que je sache ce que fera pour moi Élohim",
+  "translation": "Et David alla de là à Mitspé de Moab, et il dit au roi de Moab : que sorte, je te prie, mon père et ma mère ⟨את⟩ avec vous jusqu'à ce que je sache ce que fera pour moi Élohim",
   "tokens": [
     {
       "surface": "וילך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "עד",
@@ -92,6 +92,6 @@
       "gloss": "Élohim"
     }
   ],
-  "timestamp": "2026-08-04T12:38:59.477117824Z",
+  "timestamp": "2026-08-24T21:49:23.242981730Z",
   "model": "glm-4.5"
 }

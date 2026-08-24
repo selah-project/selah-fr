@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "fr",
   "chapter": 7,
-  "translation": "Et ils diront : « Parce qu'ils ont abandonné ⟨את⟩ YHWH, ⟨le⟩ Élohim de leurs pères, qui les avait fait sortir du pays d'Égypte, et qu'ils ont saisi des élohim étrangers, et se sont prosternés devant eux et les ont servis — c'est pourquoi Il a fait venir sur eux ⟨את⟩ tout ce mal-ci. »",
+  "translation": "Et ils diront : « Parce qu'ils ont abandonné YHWH, ⟨le⟩ Élohim de leurs pères, qui les avait fait sortir du pays d'Égypte, et qu'ils se sont agrippés à des élohim autres, et se sont prosternés devant eux et les ont servis — c'est pourquoi ⟨il⟩ a fait venir sur eux ⟨את⟩ tout ce mal-ci. »",
   "tokens": [
     {
       "surface": "ואמרו",
-      "gloss": "Et ils diront"
+      "gloss": "et ils diront"
     },
     {
       "surface": "על",
-      "gloss": "Parce"
+      "gloss": "parce que"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Élohim de"
+      "gloss": "l'Élohim de"
     },
     {
       "surface": "אבתיהם",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "ויחזיקו",
-      "gloss": "et ils ont saisi"
+      "gloss": "et ils se sont agrippés"
     },
     {
       "surface": "באלהים",
-      "gloss": "des élohim"
+      "gloss": "à des élohim"
     },
     {
       "surface": "אחרים",
-      "gloss": "étrangers"
+      "gloss": "autres"
     },
     {
       "surface": "וישתחוו",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "על",
-      "gloss": "c'est pourquoi"
+      "gloss": "à cause de"
     },
     {
       "surface": "כן",
-      "gloss": "(renforce על)"
+      "gloss": "cela"
     },
     {
       "surface": "הביא",
-      "gloss": "Il a fait venir"
+      "gloss": "il a fait venir"
     },
     {
       "surface": "עליהם",
@@ -114,6 +114,6 @@
       "gloss": "ceci"
     }
   ],
-  "timestamp": "2026-08-05T06:00:55.926056901Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:45.881579463Z",
+  "model": "glm-5.3"
 }

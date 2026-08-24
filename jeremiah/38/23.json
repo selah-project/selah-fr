@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 38,
-  "translation": "Et ⟨את⟩ toutes tes femmes et ⟨את⟩ tes fils font sortir vers les Chaldéens, et toi, tu n'échapperas pas à ⟨leur⟩ main, car par ⟨la⟩ main du roi de Babylone on te saisira, et ⟨את⟩ cette ville, on la brûlera par ⟨le⟩ feu.",
+  "translation": "Et ⟨את⟩ toutes tes femmes et tes fils font sortir vers les Chaldéens, et toi, tu n'échapperas pas à ⟨leur⟩ main, car par ⟨la⟩ main du roi de Babylone on te saisira, et ⟨את⟩ cette ville, on la brûlera par ⟨le⟩ feu.",
   "tokens": [
     {
       "surface": "ואת",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et"
+      "gloss": "⟨את⟩ et"
     },
     {
       "surface": "בניך",
-      "gloss": "⟨את⟩ tes fils",
+      "gloss": "tes fils",
       "marks": "tes fils"
     },
     {
@@ -99,6 +99,6 @@
       "gloss": "par ⟨le⟩ feu"
     }
   ],
-  "timestamp": "2026-08-04T22:54:02.333942730Z",
+  "timestamp": "2026-08-24T21:49:23.179288935Z",
   "model": "glm-4.5"
 }

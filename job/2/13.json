@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et ils s'assirent avec lui sur la terre sept jours et sept nuits, et il n'y avait ⟨aucun⟩ parlant à lui un mot, car ils virent que ⟨la⟩ douleur était très grande.",
+  "translation": "Et ils s'assirent ⟨את⟩ avec lui sur la terre sept jours et sept nuits, et il n'y avait ⟨aucun⟩ parlant à lui un mot, car ils virent que ⟨la⟩ douleur était très grande.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "לארץ",
@@ -76,6 +76,6 @@
       "gloss": "très"
     }
   ],
-  "timestamp": "2026-08-05T03:42:20.987632700Z",
+  "timestamp": "2026-08-24T21:49:23.223771352Z",
   "model": "glm-4.5"
 }

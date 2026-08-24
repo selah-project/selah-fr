@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Dis, je te prie, à la maison rebelle : Ne savez-vous pas ce que sont ⟨ces choses⟩ ? Dis : Voici, est venu le roi de Babel à Jérusalem et il a pris ⟨את⟩ son roi et ⟨את⟩ ses princes et il les a amenés vers lui à Babel.",
+  "translation": "Dis, je te prie, à la maison rebelle : Ne savez-vous pas ce que sont ⟨ces choses⟩ ? Dis : Voici, est venu le roi de Babel à Jérusalem et il a pris ⟨את⟩ son roi et ⟨את⟩ ses princes et il ⟨את⟩ les a amenés vers lui à Babel.",
   "tokens": [
     {
       "surface": "אמר",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "les"
+      "gloss": "⟨את⟩ les"
     },
     {
       "surface": "אליו",
@@ -102,6 +102,6 @@
       "gloss": "à Babel"
     }
   ],
-  "timestamp": "2026-08-04T23:26:57.393353468Z",
+  "timestamp": "2026-08-24T21:49:23.291212131Z",
   "model": "glm-4.5"
 }

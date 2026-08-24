@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 6,
-  "translation": "⟨את⟩ YHWH ton Élohim tu craindras et ⟨le⟩ serviras, et par son nom tu jureras",
+  "translation": "⟨את⟩ YHWH ton Élohim tu craindras ⟨את⟩ et ⟨le⟩ serviras, et par son nom tu jureras",
   "tokens": [
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "et ⟨le⟩",
+      "gloss": "⟨את⟩ et ⟨le⟩",
       "marks": "serviras"
     },
     {
@@ -42,6 +42,6 @@
       "gloss": "tu jureras"
     }
   ],
-  "timestamp": "2026-08-04T10:00:28.970220001Z",
+  "timestamp": "2026-08-24T21:49:23.265536603Z",
   "model": "glm-4.5"
 }

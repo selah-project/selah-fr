@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 26,
-  "translation": "Et je me tournerai vers vous et je vous rendrai fructueux et je vous multiplierai et je maintiendrai ⟨את⟩ mon alliance avec vous",
+  "translation": "Et je me tournerai vers vous et je vous rendrai fructueux et je vous multiplierai et je maintiendrai ⟨את⟩ mon alliance ⟨את⟩ avec vous",
   "tokens": [
     {
       "surface": "וּפָנִ֣יתִי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אֶתְכֶ֔ם",
-      "gloss": "vous",
+      "gloss": "⟨את⟩ vous",
       "marks": "je vous multiplierai"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אֶתְכֶ֑ם",
-      "gloss": "vous",
+      "gloss": "⟨את⟩ vous",
       "marks": "je maintiendrai"
     },
     {
@@ -48,9 +48,9 @@
     },
     {
       "surface": "אִתְּכֶֽם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     }
   ],
-  "timestamp": "2026-08-04T08:17:50.892158192Z",
+  "timestamp": "2026-08-24T21:49:23.320337771Z",
   "model": "glm-4.5"
 }

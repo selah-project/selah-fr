@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Tu ne porteras pas ⟨le⟩ nom de YHWH ton Élohim pour ⟨du⟩ vide, car YHWH ne tiendra pas pour innocent ⟨celui⟩ qui portera ⟨le⟩ nom de YHWH pour ⟨du⟩ vide",
+  "translation": "Tu ne porteras pas ⟨le⟩ nom de YHWH ton Élohim pour ⟨du⟩ vide, car YHWH ne tiendra pas pour innocent ⟨את⟩ ⟨celui⟩ qui portera ⟨le⟩ nom de YHWH pour ⟨du⟩ vide",
   "tokens": [
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "nom de YHWH ton Élohim"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨celui⟩",
+      "gloss": "⟨את⟩ ⟨celui⟩",
       "marks": "qui portera le nom de YHWH pour du vide"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "nom de YHWH"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "pour ⟨du⟩ vide"
     }
   ],
-  "timestamp": "2026-08-04T06:41:33.040365295Z",
+  "timestamp": "2026-08-24T21:49:23.204725746Z",
   "model": "glm-4.5"
 }

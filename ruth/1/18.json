@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Elle vit ⟨qu'elle⟩ se fortifiait à aller avec elle, et elle cessa de lui parler.",
+  "translation": "Elle vit ⟨qu'elle⟩ se fortifiait à aller ⟨את⟩ avec elle, et elle cessa de lui parler.",
   "tokens": [
     {
       "surface": "ותרא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "avec elle"
+      "gloss": "⟨את⟩ avec elle"
     },
     {
       "surface": "ותחדל",
@@ -44,6 +44,6 @@
       "gloss": "à elle"
     }
   ],
-  "timestamp": "2026-08-05T04:24:01.153727214Z",
+  "timestamp": "2026-08-24T21:49:23.222268201Z",
   "model": "glm-4.5"
 }

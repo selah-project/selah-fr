@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Pul, roi d'Ashshour, vint contre le pays, et Menahem donna à Pul mille talents d'argent, pour que ses mains soient avec lui, pour affermir le royaume dans sa main.",
+  "translation": "Pul, roi d'Ashshour, vint contre le pays, et Menahem donna à Pul mille talents d'argent, pour que ses mains soient ⟨את⟩ avec lui, pour affermir le royaume dans sa main.",
   "tokens": [
     {
       "surface": "בא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "להחזיק",
@@ -80,6 +80,6 @@
       "gloss": "dans sa main"
     }
   ],
-  "timestamp": "2026-08-04T14:29:34.904082273Z",
+  "timestamp": "2026-08-24T21:49:23.305101488Z",
   "model": "glm-4.5"
 }

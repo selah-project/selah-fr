@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 28,
-  "translation": "Voici les paroles de ⟨la⟩ alliance que YHWH ⟨a⟩ commandée ⟨à⟩ Moshè de conclure avec les fils d’Israël au pays de Moab, outre ⟨la⟩ alliance qu’il ⟨a⟩ conclue avec eux à Horeb.",
+  "translation": "Voici les paroles de ⟨la⟩ alliance que YHWH ⟨a⟩ commandée ⟨à⟩ Moshè de conclure avec les fils d’Israël au pays de Moab, outre ⟨la⟩ alliance qu’il ⟨a⟩ conclue ⟨את⟩ avec eux à Horeb.",
   "tokens": [
     {
       "surface": "אֵלֶּה",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "אִתָּם",
-      "gloss": "avec eux"
+      "gloss": "⟨את⟩ avec eux"
     },
     {
       "surface": "בְּחֹרֵב",
       "gloss": "à Horeb"
     }
   ],
-  "timestamp": "2026-08-04T10:39:37.765379917Z",
+  "timestamp": "2026-08-24T21:49:23.254946792Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Et il arriva, quand il la vit, qu'il déchira ⟨את⟩ ses vêtements et dit : Ah ! ma fille, tu m'as courbé, tu m'as courbé, et tu fus dans mes troubles, et moi j'ai ouvert ma bouche vers YHWH, et je ne peux pas revenir.",
+  "translation": "Et il arriva, quand il ⟨את⟩ la vit, qu'il déchira ⟨את⟩ ses vêtements et dit : Ah ! ma fille, tu m'as courbé, tu m'as courbé, et tu fus dans mes troubles, et moi j'ai ouvert ma bouche vers YHWH, et je ne peux pas revenir.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "la",
+      "gloss": "⟨את⟩ la",
       "marks": "il la vit"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "revenir"
     }
   ],
-  "timestamp": "2026-08-04T11:49:31.286217798Z",
+  "timestamp": "2026-08-24T21:49:23.138765774Z",
   "model": "glm-4.5"
 }

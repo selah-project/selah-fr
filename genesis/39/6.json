@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 39,
-  "translation": "Et il laissa tout ce qui ⟨était⟩ à lui dans la main de Joseph, et il ne savait avec lui rien, si ce n'est ⟨le⟩ pain qu'il mangeait. Or Joseph était beau de figure et beau d'apparence.",
+  "translation": "Et il laissa tout ce qui ⟨était⟩ à lui dans la main de Joseph, et il ne savait ⟨את⟩ avec lui rien, si ce n'est ⟨le⟩ pain qu'il mangeait. Or Joseph était beau de figure et beau d'apparence.",
   "tokens": [
     {
       "surface": "ויעזב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "מאומה",
@@ -96,6 +96,6 @@
       "gloss": "d'apparence"
     }
   ],
-  "timestamp": "2026-08-04T05:51:56.287054816Z",
+  "timestamp": "2026-08-24T21:49:23.104575896Z",
   "model": "glm-4.5"
 }

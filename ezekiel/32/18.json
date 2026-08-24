@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 32,
-  "translation": "Fils d'humain, gémis sur la foule de Mitsraïm et fais-la descendre, elle et les filles des nations puissantes, ⟨vers⟩ la terre des bas-fonds, avec ⟨ceux⟩ qui descendent ⟨dans⟩ la fosse",
+  "translation": "Fils d'humain, gémis sur la foule de Mitsraïm et fais-la descendre, ⟨את⟩ elle et les filles des nations puissantes, ⟨vers⟩ la terre des bas-fonds, ⟨את⟩ avec ⟨ceux⟩ qui descendent ⟨dans⟩ la fosse",
   "tokens": [
     {
       "surface": "בן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "elle"
+      "gloss": "⟨את⟩ elle"
     },
     {
       "surface": "ובנות",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "ceux qui descendent dans la fosse"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "⟨dans⟩ la fosse"
     }
   ],
-  "timestamp": "2026-08-04T23:40:25.995711849Z",
+  "timestamp": "2026-08-24T21:49:23.276551105Z",
   "model": "glm-4.5"
 }

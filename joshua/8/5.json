@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et moi et tout le peuple qui est avec moi, nous ⟨nous⟩ approcherons de ⟨la⟩ ville, et il arrivera qu'ils sortiront à notre rencontre comme ⟨au⟩ premier ⟨temps⟩, et nous fuirons devant eux.",
+  "translation": "Et moi et tout le peuple qui est ⟨את⟩ avec moi, nous ⟨nous⟩ approcherons de ⟨la⟩ ville, et il arrivera qu'ils sortiront à notre rencontre comme ⟨au⟩ premier ⟨temps⟩, et nous fuirons devant eux.",
   "tokens": [
     {
       "surface": "ואני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "נקרב",
@@ -72,6 +72,6 @@
       "gloss": "devant eux"
     }
   ],
-  "timestamp": "2026-08-04T10:59:47.280387745Z",
+  "timestamp": "2026-08-24T21:49:23.375385922Z",
   "model": "glm-4.5"
 }

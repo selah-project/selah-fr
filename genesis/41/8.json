@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 41,
-  "translation": "Et il fut ⟨le⟩ matin, et son esprit s'agita, et il envoya et appela ⟨את⟩ tous les devins de Mitsraïm, et ⟨את⟩ tous ses sages, et Par‘o leur raconta ⟨את⟩ son songe, et il n'y avait pas d'interprète pour eux pour Par‘o",
+  "translation": "Et il fut ⟨le⟩ matin, et son esprit s'agita, et il envoya et appela ⟨את⟩ tous les devins de Mitsraïm, et ⟨את⟩ tous ses sages, et Par‘o leur raconta ⟨את⟩ son songe, et il n'y avait pas d'interprète ⟨את⟩ pour eux pour Par‘o",
   "tokens": [
     {
       "surface": "ויהי",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "pour eux",
+      "gloss": "⟨את⟩ pour eux",
       "marks": "pour Par‘o"
     },
     {
@@ -100,6 +100,6 @@
       "gloss": "pour Par‘o"
     }
   ],
-  "timestamp": "2026-08-04T05:53:46.365284784Z",
+  "timestamp": "2026-08-24T21:49:23.090966667Z",
   "model": "glm-4.5"
 }

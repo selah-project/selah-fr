@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et la poitrine de l'offrande balancée et ⟨את⟩ la jambe de la contribution vous mangerez dans un lieu pur, toi, et tes fils, et tes filles avec toi ; car ta portion et la portion de tes fils sont données des sacrifices des offrandes de paix des fils d'Israël.",
+  "translation": "Et la poitrine de l'offrande balancée et ⟨את⟩ la jambe de la contribution vous mangerez dans un lieu pur, toi, et tes fils, et tes filles ⟨את⟩ avec toi ; car ta portion et la portion de tes fils sont données des sacrifices des offrandes de paix des fils d'Israël.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "la poitrine"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "la jambe"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "כי",
@@ -98,6 +98,6 @@
       "gloss": "d'Israël"
     }
   ],
-  "timestamp": "2026-08-04T07:39:52.345696465Z",
+  "timestamp": "2026-08-24T21:49:23.315099992Z",
   "model": "glm-4.5"
 }

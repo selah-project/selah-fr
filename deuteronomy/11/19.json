@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 11,
-  "translation": "et vous ⟨les⟩ enseignerez ⟨את⟩ vos fils pour en parler, quand tu sièges dans ta maison et quand tu marches ⟨sur⟩ la route, et quand tu te couches et quand tu te lèves",
+  "translation": "et vous ⟨את⟩ ⟨les⟩ enseignerez ⟨את⟩ vos fils pour en parler, quand tu sièges dans ta maison et quand tu marches ⟨sur⟩ la route, et quand tu te couches et quand tu te lèves",
   "tokens": [
     {
       "surface": "ולמדתם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "את"
     },
     {
@@ -58,6 +58,6 @@
       "gloss": "et quand tu te lèves"
     }
   ],
-  "timestamp": "2026-08-04T10:12:37.278222059Z",
+  "timestamp": "2026-08-24T21:49:23.258979102Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 32,
-  "translation": "Et Moïse leur donna des ordres concernant eux, ⟨le⟩ prêtre Éléazar, et ⟨Josué⟩ fils de Noun, et ⟨les⟩ chefs des pères des tribus des fils d'Israël.",
+  "translation": "Et Moïse leur donna des ordres concernant eux, ⟨את⟩ ⟨le⟩ prêtre Éléazar, et ⟨את⟩ ⟨Josué⟩ fils de Noun, et ⟨את⟩ ⟨les⟩ chefs des pères des tribus des fils d'Israël.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "prêtre Éléazar"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨Josué⟩",
+      "gloss": "⟨את⟩ ⟨Josué⟩",
       "marks": "Josué"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "chefs"
     },
     {
@@ -75,6 +75,6 @@
       "gloss": "d'Israël"
     }
   ],
-  "timestamp": "2026-08-04T21:47:38.374640601Z",
+  "timestamp": "2026-08-24T21:49:23.348389268Z",
   "model": "glm-4.5"
 }

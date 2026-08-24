@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et maintenant, sois fort, Zerubbabel, déclaration de YHWH, et sois fort, Yehoshoua, fils de Yehotsadaq, le grand prêtre, et sois fort, tout le peuple du pays, déclaration de YHWH, et agissez, car moi, je suis avec vous, déclaration de YHWH Tsevaot",
+  "translation": "Et maintenant, sois fort, Zerubbabel, déclaration de YHWH, et sois fort, Yehoshoua, fils de Yehotsadaq, le grand prêtre, et sois fort, tout le peuple du pays, déclaration de YHWH, et agissez, car moi, ⟨את⟩ je suis avec vous, déclaration de YHWH Tsevaot",
   "tokens": [
     {
       "surface": "ועתה",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "je suis avec vous"
+      "gloss": "⟨את⟩ je suis avec vous"
     },
     {
       "surface": "נאם",
@@ -104,6 +104,6 @@
       "gloss": "Tsevaot"
     }
   ],
-  "timestamp": "2026-08-05T00:42:25.360403857Z",
+  "timestamp": "2026-08-24T21:49:23.132486959Z",
   "model": "glm-4.5"
 }

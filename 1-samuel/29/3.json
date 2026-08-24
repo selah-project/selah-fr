@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 29,
-  "translation": "Et les princes des Philistins dirent : Que font ces Hébreux ⟨ici⟩ ? Et Akish dit aux princes des Philistins : N'est-ce ⟨pas⟩ David, serviteur de Shaoul, roi d'Israël, qui a été avec moi ces jours ou ces années, et je n'ai trouvé en lui aucune faute, du jour qu'il s'est réfugié jusqu'à ce jour ?",
+  "translation": "Et les princes des Philistins dirent : Que font ces Hébreux ⟨ici⟩ ? Et Akish dit aux princes des Philistins : N'est-ce ⟨pas⟩ David, serviteur de Shaoul, roi d'Israël, qui a été ⟨את⟩ avec moi ces jours ou ces années, et je n'ai trouvé en lui aucune faute, du jour qu'il s'est réfugié jusqu'à ce jour ?",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "זה",
@@ -148,6 +148,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-04T12:49:17.561460824Z",
+  "timestamp": "2026-08-24T21:49:23.243739824Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 19,
-  "translation": "Et il a dit : Mon seigneur ⟨le⟩ roi, mon serviteur m'a trompé, car ton serviteur a dit : je sellerai ⟨l'⟩âne et je monterai dessus, et j'irai avec ⟨le⟩ roi, car boiteux ⟨est⟩ ton serviteur.",
+  "translation": "Et il a dit : Mon seigneur ⟨le⟩ roi, mon serviteur m'a trompé, car ton serviteur a dit : je sellerai ⟨l'⟩âne et je monterai dessus, et j'irai ⟨את⟩ avec ⟨le⟩ roi, car boiteux ⟨est⟩ ton serviteur.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "le roi"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "ton serviteur"
     }
   ],
-  "timestamp": "2026-08-04T13:20:10.165513418Z",
+  "timestamp": "2026-08-24T21:49:23.082101080Z",
   "model": "glm-4.5"
 }

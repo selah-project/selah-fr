@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 29,
-  "translation": "mais ⟨celui qui⟩ ⟨est⟩ ici avec nous ⟨aujourd'hui⟩ se tient devant YHWH notre Élohim, et ⟨avec⟩ ⟨celui qui⟩ n'⟨est⟩ pas ici avec nous ⟨aujourd'hui⟩",
+  "translation": "mais ⟨celui qui⟩ ⟨est⟩ ici avec nous ⟨aujourd'hui⟩ se tient devant YHWH notre Élohim, ⟨את⟩ et ⟨avec⟩ ⟨celui qui⟩ n'⟨est⟩ pas ici avec nous ⟨aujourd'hui⟩",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨celui qui⟩",
+      "gloss": "⟨את⟩ ⟨celui qui⟩",
       "marks": "אשר"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et ⟨avec⟩",
+      "gloss": "⟨את⟩ et ⟨avec⟩",
       "marks": "אשר"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "⟨aujourd'hui⟩"
     }
   ],
-  "timestamp": "2026-08-04T10:40:41.745738934Z",
+  "timestamp": "2026-08-24T21:49:23.260956181Z",
   "model": "glm-4.5"
 }

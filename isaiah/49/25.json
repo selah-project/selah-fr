@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 49,
-  "translation": "Car ainsi a dit YHWH : même la captivité ⟨du⟩ puissant sera prise, et la proie ⟨du⟩ violent sera délivrée ; car avec ton adversaire Je contesterai, et ⟨את⟩ tes fils Je délivrerai.",
+  "translation": "Car ainsi a dit YHWH : même la captivité ⟨du⟩ puissant sera prise, et la proie ⟨du⟩ violent sera délivrée ; car ⟨את⟩ avec ton adversaire Je contesterai, et ⟨את⟩ tes fils Je délivrerai.",
   "tokens": [
     {
       "surface": "כי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "ton adversaire"
     },
     {
@@ -86,6 +86,6 @@
       "gloss": "délivrerai"
     }
   ],
-  "timestamp": "2026-08-04T15:44:56.438462022Z",
+  "timestamp": "2026-08-24T21:49:23.333807346Z",
   "model": "glm-4.5"
 }

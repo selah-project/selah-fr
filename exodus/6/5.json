@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et même Moi, J'ai entendu ⟨את⟩ le gémissement des fils d'Israël, que les Égyptiens font servir, et Je me suis souvenu de ⟨את⟩ mon alliance",
+  "translation": "Et même Moi, J'ai entendu ⟨את⟩ le gémissement des fils d'Israël, que ⟨את⟩ les Égyptiens font servir, et Je me suis souvenu de ⟨את⟩ mon alliance",
   "tokens": [
     {
       "surface": "וגם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "les"
+      "gloss": "⟨את⟩ les"
     },
     {
       "surface": "ואזכר",
@@ -66,6 +66,6 @@
       "gloss": "mon alliance"
     }
   ],
-  "timestamp": "2026-08-04T06:19:08.683538983Z",
+  "timestamp": "2026-08-24T21:49:23.218054857Z",
   "model": "glm-4.5"
 }

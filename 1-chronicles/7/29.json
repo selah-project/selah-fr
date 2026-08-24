@@ -5,85 +5,85 @@
   "book": "1-chronicles",
   "lang": "fr",
   "chapter": 7,
-  "translation": "Et aux mains des fils de Menashsheh ⟨⟨furent⟩⟩ Beth-Shean et ses filles-villages, Taanak et ses filles-villages, Meguiddo et ses filles-villages, Dor et ses filles-villages. En ceux-ci habitèrent les fils de Yossef, fils d'Israël.",
+  "translation": "Et aux mains des fils de Menashéh : Beth-Shéan et ses filles-villes, Taanak et ses filles-villes, Megiddo et ses filles-villes, Dor et ses filles-villes ; dans celles-ci habitaient les fils de Yossef, fils d'Israël.",
   "tokens": [
     {
-      "surface": "וְעַל",
-      "gloss": "et sur"
+      "surface": "ועל",
+      "gloss": "et aux"
     },
     {
-      "surface": "יְדֵ֣י",
-      "gloss": "les mains de"
+      "surface": "ידי",
+      "gloss": "mains de"
     },
     {
-      "surface": "בְנֵי",
-      "gloss": "les fils de"
-    },
-    {
-      "surface": "מְנַשֶּׁ֗ה",
-      "gloss": "Menashsheh"
-    },
-    {
-      "surface": "בֵּית",
-      "gloss": "Beth"
-    },
-    {
-      "surface": "שְׁאָ֤ן",
-      "gloss": "Shean"
-    },
-    {
-      "surface": "וּבְנֹתֶ֨יהָ֙",
-      "gloss": "et ses filles-villages"
-    },
-    {
-      "surface": "תַּעְנַ֣ךְ",
-      "gloss": "Taanak"
-    },
-    {
-      "surface": "וּבְנֹתֶ֔יהָ",
-      "gloss": "et ses filles-villages"
-    },
-    {
-      "surface": "מְגִדּ֥וֹ",
-      "gloss": "Meguiddo"
-    },
-    {
-      "surface": "וּבְנוֹתֶ֖יהָ",
-      "gloss": "et ses filles-villages"
-    },
-    {
-      "surface": "דּ֣וֹר",
-      "gloss": "Dor"
-    },
-    {
-      "surface": "וּבְנוֹתֶ֑יהָ",
-      "gloss": "et ses filles-villages"
-    },
-    {
-      "surface": "בְּאֵ֨לֶּה֙",
-      "gloss": "en ceux-ci"
-    },
-    {
-      "surface": "יָשְׁב֔וּ",
-      "gloss": "habitèrent"
-    },
-    {
-      "surface": "בְּנֵ֥י",
-      "gloss": "les fils de"
-    },
-    {
-      "surface": "יוֹסֵ֖ף",
-      "gloss": "Yossef"
-    },
-    {
-      "surface": "בֶּן",
+      "surface": "בני",
       "gloss": "fils de"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "מנשה",
+      "gloss": "Menashéh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "Shéan"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "et ses filles-villes"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "et ses filles-villes"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "et ses filles-villes"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "et ses filles-villes"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "dans celles-ci"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "habitaient"
+    },
+    {
+      "surface": "בני",
+      "gloss": "les fils de"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fils de"
+    },
+    {
+      "surface": "ישראל",
       "gloss": "Israël"
     }
   ],
-  "timestamp": "2026-08-05T05:48:24.511358073Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:30.865576170Z",
+  "model": "glm-5.3"
 }

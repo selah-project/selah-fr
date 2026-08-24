@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 1,
-  "translation": "YHWH, votre Élohim, qui marche devant vous, c'est lui qui combattra pour vous, selon tout ce qu'il a fait avec vous en Égypte, sous vos yeux.",
+  "translation": "YHWH, votre Élohim, qui marche devant vous, c'est lui qui combattra pour vous, selon tout ce qu'il a fait ⟨את⟩ avec vous en Égypte, sous vos yeux.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "במצרים",
@@ -60,6 +60,6 @@
       "gloss": "sous vos yeux"
     }
   ],
-  "timestamp": "2026-08-04T09:49:27.653657870Z",
+  "timestamp": "2026-08-24T21:49:23.264524212Z",
   "model": "glm-4.5"
 }

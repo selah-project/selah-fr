@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Pourquoi n'avez-vous pas mangé ⟨את⟩ le sacrifice pour le péché dans le lieu saint, car ⟨il est⟩ très saint, et ⟨lui⟩, ⟨il⟩ a donné ⟨pour⟩ vous pour porter ⟨את⟩ la faute de l'assemblée, pour faire expiation ⟨sur⟩ eux devant YHWH",
+  "translation": "Pourquoi n'avez-vous pas mangé ⟨את⟩ le sacrifice pour le péché dans le lieu saint, car ⟨il est⟩ très saint, et ⟨את⟩ ⟨lui⟩, ⟨il⟩ a donné ⟨pour⟩ vous pour porter ⟨את⟩ la faute de l'assemblée, pour faire expiation ⟨sur⟩ eux devant YHWH",
   "tokens": [
     {
       "surface": "מדוע",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "⟨lui⟩"
+      "gloss": "⟨את⟩ ⟨lui⟩"
     },
     {
       "surface": "נתן",
@@ -98,6 +98,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T07:39:44.155482978Z",
+  "timestamp": "2026-08-24T21:49:23.314538243Z",
   "model": "glm-4.5"
 }

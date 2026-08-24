@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et ils rencontrèrent ⟨את⟩ Moshé et ⟨את⟩ Aharon qui se tenaient ⟨à leur⟩ rencontre, à leur sortie de chez Paroh.",
+  "translation": "Et ils rencontrèrent ⟨את⟩ Moshé et ⟨את⟩ Aharon qui se tenaient ⟨à leur⟩ rencontre, à leur sortie ⟨את⟩ de chez Paroh.",
   "tokens": [
     {
       "surface": "ויפגעו",
@@ -43,13 +43,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de chez"
+      "gloss": "⟨את⟩ de chez"
     },
     {
       "surface": "פרעה",
       "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-04T06:18:12.007583247Z",
+  "timestamp": "2026-08-24T21:49:23.196772003Z",
   "model": "glm-4.5"
 }

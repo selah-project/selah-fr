@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et il fit ainsi pour eux, et ⟨les⟩ délivra de ⟨la⟩ main des fils d'Israël, et ne les tuèrent pas.",
+  "translation": "Et il fit ainsi pour eux, et ⟨את⟩ ⟨les⟩ délivra de ⟨la⟩ main des fils d'Israël, et ne les tuèrent pas.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "de la main des fils d'Israël"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "les tuèrent pas"
     }
   ],
-  "timestamp": "2026-08-04T21:57:42.907753880Z",
+  "timestamp": "2026-08-24T21:49:23.368762813Z",
   "model": "glm-4.5"
 }

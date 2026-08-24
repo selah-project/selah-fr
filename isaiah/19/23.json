@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 19,
-  "translation": "En ce jour ⟨il y aura⟩ une chaussée de l'Égypte vers l'Assyrie, et l'Assyrie viendra en Égypte, et l'Égypte en Assyrie, et les Égyptiens serviront ⟨avec⟩ l'Assyrie",
+  "translation": "En ce jour ⟨il y aura⟩ une chaussée de l'Égypte vers l'Assyrie, et l'Assyrie viendra en Égypte, et l'Égypte en Assyrie, et les Égyptiens serviront ⟨את⟩ ⟨avec⟩ l'Assyrie",
   "tokens": [
     {
       "surface": "בַּיּוֹם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אֶת",
-      "gloss": "⟨avec⟩",
+      "gloss": "⟨את⟩ ⟨avec⟩",
       "marks": "l'Assyrie"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "l'Assyrie"
     }
   ],
-  "timestamp": "2026-08-04T15:10:44.089070847Z",
+  "timestamp": "2026-08-24T21:49:23.341622999Z",
   "model": "glm-4.5"
 }

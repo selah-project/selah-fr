@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 25,
-  "translation": "Fais-moi marcher dans ta vérité et enseigne-moi ; car tu ⟨es⟩ le Dieu de mon salut ; sur toi j'attends tout le jour.",
+  "translation": "Fais-moi marcher dans ta vérité et enseigne-moi ; car tu ⟨es⟩ le Dieu de mon salut ; ⟨את⟩ sur toi j'attends tout le jour.",
   "tokens": [
     {
       "surface": "הדריכני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "sur toi"
+      "gloss": "⟨את⟩ sur toi"
     },
     {
       "surface": "קויתי",
@@ -52,6 +52,6 @@
       "gloss": "le jour"
     }
   ],
-  "timestamp": "2026-08-05T01:20:23.461029114Z",
+  "timestamp": "2026-08-24T21:49:23.193776983Z",
   "model": "glm-4.5"
 }

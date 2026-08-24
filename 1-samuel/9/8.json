@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et le jeune homme ajouta à répondre à ⟨Shaul⟩ : Voici, il est trouvé dans ma main un quart de shekel d'argent ; et je donnerai à l'homme de l'Élohim, et il nous révélera ⟨את⟩ notre route.",
+  "translation": "Et le jeune homme ajouta à répondre à ⟨את⟩ ⟨Shaul⟩ : Voici, il est trouvé dans ma main un quart de shekel d'argent ; et je donnerai à l'homme de l'Élohim, et il nous révélera ⟨את⟩ notre route.",
   "tokens": [
     {
       "surface": "ויסף",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨Shaul⟩",
+      "gloss": "⟨את⟩ ⟨Shaul⟩",
       "marks": "Shaul"
     },
     {
@@ -86,6 +86,6 @@
       "gloss": "notre route"
     }
   ],
-  "timestamp": "2026-08-04T12:15:16.783742215Z",
+  "timestamp": "2026-08-24T21:49:23.238659243Z",
   "model": "glm-4.5"
 }

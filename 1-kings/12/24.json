@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Ainsi a dit YHWH : vous ne monterez pas et vous ne ferez pas la guerre avec vos frères les fils d'Israël ; retournez chacun dans sa maison, car cette chose est de ma part. Et ils écoutèrent ⟨את⟩ la parole de YHWH et ils retournèrent pour s'en aller selon la parole de YHWH.",
+  "translation": "Ainsi a dit YHWH : vous ne monterez pas et vous ne ferez pas la guerre avec vos frères les fils d'Israël ; retournez chacun dans sa maison, car cette chose est ⟨את⟩ de ma part. Et ils écoutèrent ⟨את⟩ la parole de YHWH et ils retournèrent pour s'en aller selon la parole de YHWH.",
   "tokens": [
     {
       "surface": "כה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "de ma part"
+      "gloss": "⟨את⟩ de ma part"
     },
     {
       "surface": "נהיה",
@@ -117,6 +117,6 @@
       "gloss": "de YHWH"
     }
   ],
-  "timestamp": "2026-08-04T13:49:38.445863573Z",
+  "timestamp": "2026-08-24T21:49:23.383460090Z",
   "model": "glm-4.5"
 }

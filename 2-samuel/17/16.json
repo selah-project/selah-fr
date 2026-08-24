@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Et maintenant, envoyez ⟨vite⟩ et dites à David, en disant : ne passe pas cette nuit dans les plaines du désert, et aussi, certainement passe outre, de peur que le roi ne soit englouti, et tout le peuple qui ⟨est⟩ avec lui.",
+  "translation": "Et maintenant, envoyez ⟨vite⟩ et dites à David, en disant : ne passe pas cette nuit dans les plaines du désert, et aussi, certainement passe outre, de peur que le roi ne soit englouti, et tout le peuple qui ⟨את⟩ ⟨est⟩ avec lui.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨est⟩ avec lui"
+      "gloss": "⟨את⟩ ⟨est⟩ avec lui"
     }
   ],
-  "timestamp": "2026-08-04T13:16:58.694120571Z",
+  "timestamp": "2026-08-24T21:49:23.079973467Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Et il dit à Yehoshaphat : iras-tu avec moi à la guerre vers Ramoth de Guiléad ? Et Yehoshaphat dit au roi d'Israël : moi ⟨comme⟩ toi, mon peuple ⟨comme⟩ ton peuple, mes chevaux ⟨comme⟩ tes chevaux.",
+  "translation": "Et il dit à Yehoshaphat : iras-tu ⟨את⟩ avec moi à la guerre vers Ramoth de Guiléad ? Et Yehoshaphat dit au roi d'Israël : moi ⟨comme⟩ toi, mon peuple ⟨comme⟩ ton peuple, mes chevaux ⟨comme⟩ tes chevaux.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "למלחמה",
@@ -84,6 +84,6 @@
       "gloss": "tes chevaux"
     }
   ],
-  "timestamp": "2026-08-04T22:18:43.984218287Z",
+  "timestamp": "2026-08-24T21:49:23.382978588Z",
   "model": "glm-4.5"
 }

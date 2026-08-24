@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Et YHWH dit vers moi : proclame ⟨את⟩ toutes ces paroles dans les villes de Juda et dans les rues de Jérusalem, en disant : Écoutez ⟨את⟩ les paroles de cette alliance, et faites-les.",
+  "translation": "Et YHWH dit vers moi : proclame ⟨את⟩ toutes ces paroles dans les villes de Juda et dans les rues de Jérusalem, en disant : Écoutez ⟨את⟩ les paroles de cette alliance, et faites⟨את⟩ -les.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "אותם",
-      "gloss": "-les"
+      "gloss": "⟨את⟩ -les"
     }
   ],
-  "timestamp": "2026-08-04T16:17:31.049460435Z",
+  "timestamp": "2026-08-24T21:49:23.168519051Z",
   "model": "glm-4.5"
 }

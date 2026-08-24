@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 27,
-  "translation": "Une chose j'ai demandée ⟨à⟩ YHWH, ⟨elle⟩ je la rechercherai : mon séjour dans la maison de YHWH tous les jours de ma vie, pour voir la douceur de YHWH et pour enquêter dans son palais.",
+  "translation": "Une chose j'ai demandée ⟨את⟩ ⟨à⟩ YHWH, ⟨את⟩ ⟨elle⟩ je la rechercherai : mon séjour dans la maison de YHWH tous les jours de ma vie, pour voir la douceur de YHWH et pour enquêter dans son palais.",
   "tokens": [
     {
       "surface": "אחת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨à⟩"
+      "gloss": "⟨את⟩ ⟨à⟩"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨elle⟩"
+      "gloss": "⟨את⟩ ⟨elle⟩"
     },
     {
       "surface": "אבקש",
@@ -76,6 +76,6 @@
       "gloss": "dans son palais"
     }
   ],
-  "timestamp": "2026-08-05T01:21:37.046001737Z",
+  "timestamp": "2026-08-24T21:49:23.193305040Z",
   "model": "glm-4.5"
 }

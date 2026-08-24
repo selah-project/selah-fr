@@ -1,19 +1,19 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 34,
   "ref": "psalms 68:34",
   "book": "psalms",
   "lang": "fr",
   "chapter": 68,
-  "translation": "À celui qui chevauche dans les cieux des cieux de〈qédem〉; voici, il donne de sa voix une voix de force.",
+  "translation": "À celui qui chevauche les cieux des cieux, les cieux d'autrefois — voici, il donne de sa voix une voix de force.",
   "tokens": [
     {
       "surface": "לרכב",
-      "gloss": "À celui qui chevauche"
+      "gloss": "à celui qui chevauche"
     },
     {
       "surface": "בשמי",
-      "gloss": "dans les cieux"
+      "gloss": "sur les cieux"
     },
     {
       "surface": "שמי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "קדם",
-      "gloss": "〈qédem〉"
+      "gloss": "d'autrefois"
     },
     {
       "surface": "הן",
@@ -44,6 +44,6 @@
       "gloss": "de force"
     }
   ],
-  "timestamp": "2026-08-05T01:56:19.136264092Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:42.653477070Z",
+  "model": "glm-5.3"
 }

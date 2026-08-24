@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et moi, voici, je dresse ⟨את⟩ mon alliance avec vous, et ⟨את⟩ votre postérité après vous",
+  "translation": "Et moi, voici, je dresse ⟨את⟩ mon alliance ⟨את⟩ avec vous, ⟨את⟩ et ⟨את⟩ votre postérité après vous",
   "tokens": [
     {
       "surface": "ואני",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "ואת",
-      "gloss": "et"
+      "gloss": "⟨את⟩ et"
     },
     {
       "surface": "זרעכם",
@@ -45,6 +45,6 @@
       "gloss": "après vous"
     }
   ],
-  "timestamp": "2026-08-04T05:08:51.905168359Z",
+  "timestamp": "2026-08-24T21:49:23.099434987Z",
   "model": "glm-4.5"
 }

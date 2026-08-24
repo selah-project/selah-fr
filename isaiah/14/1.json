@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Car YHWH fera grâce ⟨à⟩ Jacob et choisira encore en Israël, et les fera reposer sur leur sol, et se joindra ⟨le⟩ résident à eux, et s'attacheront sur la maison de Jacob.",
+  "translation": "Car YHWH fera grâce ⟨את⟩ ⟨à⟩ Jacob et choisira encore en Israël, et les fera reposer sur leur sol, et se joindra ⟨le⟩ résident à eux, et s'attacheront sur la maison de Jacob.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨à⟩",
+      "gloss": "⟨את⟩ ⟨à⟩",
       "marks": "Jacob"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "de Jacob"
     }
   ],
-  "timestamp": "2026-08-04T15:01:22.565304810Z",
+  "timestamp": "2026-08-24T21:49:23.341874070Z",
   "model": "glm-4.5"
 }

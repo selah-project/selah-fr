@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Yehoshaphat dit : N'y a-t-il pas ici un prophète pour YHWH, et nous interrogerons ⟨את⟩ YHWH par lui ? Et répondit un des serviteurs du roi d'Israël et dit : Ici est Élisha, fils de Shaphat, qui ⟨a⟩ versé de l'eau sur les mains d'Élijah.",
+  "translation": "Et Yehoshaphat dit : N'y a-t-il pas ici un prophète pour YHWH, et nous interrogerons ⟨את⟩ YHWH ⟨את⟩ par lui ? Et répondit un des serviteurs du roi d'Israël et dit : Ici est Élisha, fils de Shaphat, qui ⟨a⟩ versé de l'eau sur les mains d'Élijah.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "par lui"
+      "gloss": "⟨את⟩ par lui"
     },
     {
       "surface": "ויען",
@@ -113,6 +113,6 @@
       "gloss": "d'Élijah"
     }
   ],
-  "timestamp": "2026-08-04T14:09:38.041347054Z",
+  "timestamp": "2026-08-24T21:49:23.303420078Z",
   "model": "glm-4.5"
 }

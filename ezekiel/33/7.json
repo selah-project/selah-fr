@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 33,
-  "translation": "Et toi, fils d'humain, guetteur je t'ai donné ⟨à⟩ la maison d'Israël, et tu entendras de ma bouche une parole, et tu les avertiras de ma part.",
+  "translation": "Et toi, fils d'humain, guetteur je t'ai donné ⟨à⟩ la maison d'Israël, et tu entendras de ma bouche une parole, et tu les avertiras ⟨את⟩ de ma part.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "de ma part",
+      "gloss": "⟨את⟩ de ma part",
       "marks": "ממני"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-04T23:41:36.914353066Z",
+  "timestamp": "2026-08-24T21:49:23.274164645Z",
   "model": "glm-4.5"
 }

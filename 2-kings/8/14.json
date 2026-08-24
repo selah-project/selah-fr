@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Il s'en alla d'avec Élisha et vint vers son maître, et il lui dit : Qu'a-t-il dit, pour toi, Élisha ? Et il dit : Il m'a dit : Certainement tu vivras.",
+  "translation": "Il s'en alla ⟨את⟩ d'avec Élisha et vint vers son maître, et il lui dit : Qu'a-t-il dit, pour toi, Élisha ? Et il dit : Il m'a dit : Certainement tu vivras.",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "d'avec"
+      "gloss": "⟨את⟩ d'avec"
     },
     {
       "surface": "אלישע",
@@ -76,6 +76,6 @@
       "gloss": "tu vivras"
     }
   ],
-  "timestamp": "2026-08-04T14:17:46.808155475Z",
+  "timestamp": "2026-08-24T21:49:23.310783316Z",
   "model": "glm-4.5"
 }

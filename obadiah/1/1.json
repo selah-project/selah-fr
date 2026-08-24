@@ -5,7 +5,7 @@
   "book": "obadiah",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Vision d'Obadyah. Ainsi a dit Adonaï YHWH à Édom. ⟨Nous avons⟩ entendu une nouvelle ⟨de la part de⟩ YHWH, et un messager est envoyé parmi les nations : « Levez-vous, et levons-nous contre elle pour ⟨la⟩ guerre ».",
+  "translation": "Vision d'Obadyah. Ainsi a dit Adonaï YHWH à Édom. ⟨Nous avons⟩ entendu une nouvelle ⟨את⟩ ⟨de la part de⟩ YHWH, et un messager est envoyé parmi les nations : « Levez-vous, et levons-nous contre elle pour ⟨la⟩ guerre ».",
   "tokens": [
     {
       "surface": "חזון",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de la part de⟩"
+      "gloss": "⟨את⟩ ⟨de la part de⟩"
     },
     {
       "surface": "יהוה",
@@ -80,6 +80,6 @@
       "gloss": "pour ⟨la⟩ guerre"
     }
   ],
-  "timestamp": "2026-08-05T00:21:36.038674070Z",
+  "timestamp": "2026-08-24T21:49:23.389388771Z",
   "model": "glm-4.5"
 }

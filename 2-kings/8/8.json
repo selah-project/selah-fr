@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et le roi dit à Hazael : prends ⟨une⟩ offrande dans ta main et va ⟨au⟩-devant ⟨de⟩ l'homme d'Élohim, et consulte ⟨את⟩ YHWH par lui, en disant : est-ce que je vivrai ⟨de⟩ cette maladie ⟨là⟩ ?",
+  "translation": "Et le roi dit à Hazael : prends ⟨une⟩ offrande dans ta main et va ⟨au⟩-devant ⟨de⟩ l'homme d'Élohim, et consulte ⟨את⟩ YHWH ⟨את⟩ par lui, en disant : est-ce que je vivrai ⟨de⟩ cette maladie ⟨là⟩ ?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "par lui"
+      "gloss": "⟨את⟩ par lui"
     },
     {
       "surface": "לאמר",
@@ -85,6 +85,6 @@
       "gloss": "celle-ci"
     }
   ],
-  "timestamp": "2026-08-04T14:18:02.884596770Z",
+  "timestamp": "2026-08-24T21:49:23.310519209Z",
   "model": "glm-4.5"
 }

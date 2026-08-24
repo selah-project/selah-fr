@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 43,
-  "translation": "Si tu envoies ⟨את⟩ notre frère avec nous, nous descendrons et nous achèterons pour toi de la nourriture",
+  "translation": "Si tu envoies ⟨את⟩ notre frère ⟨את⟩ avec nous, nous descendrons et nous achèterons pour toi de la nourriture",
   "tokens": [
     {
       "surface": "אם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "נרדה",
@@ -49,6 +49,6 @@
       "gloss": "de la nourriture"
     }
   ],
-  "timestamp": "2026-08-04T05:57:31.642695233Z",
+  "timestamp": "2026-08-24T21:49:23.123015075Z",
   "model": "glm-4.5"
 }

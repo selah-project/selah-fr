@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 118,
-  "translation": "De ⟨la part de⟩ YHWH ⟨cela⟩ a eu lieu, c'est merveilleux à nos yeux",
+  "translation": "⟨את⟩ De ⟨la part de⟩ YHWH ⟨cela⟩ a eu lieu, c'est merveilleux à nos yeux",
   "tokens": [
     {
       "surface": "מאת",
-      "gloss": "De ⟨la part de⟩"
+      "gloss": "⟨את⟩ De ⟨la part de⟩"
     },
     {
       "surface": "יהוה",
@@ -36,6 +36,6 @@
       "gloss": "à nos yeux"
     }
   ],
-  "timestamp": "2026-08-05T02:43:04.985434617Z",
+  "timestamp": "2026-08-24T21:49:23.194412156Z",
   "model": "glm-4.5"
 }

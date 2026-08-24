@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 42,
-  "translation": "L'homme, le seigneur du pays, a parlé ⟨durement⟩ avec nous, et nous a pris ⟨את⟩ comme des espions du pays.",
+  "translation": "L'homme, le seigneur du pays, a parlé ⟨durement⟩ ⟨את⟩ avec nous, et nous a pris ⟨את⟩ comme des espions du pays.",
   "tokens": [
     {
       "surface": "דבר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "קשות",
@@ -54,6 +54,6 @@
       "gloss": "du pays"
     }
   ],
-  "timestamp": "2026-08-04T05:56:43.700400176Z",
+  "timestamp": "2026-08-24T21:49:23.104137207Z",
   "model": "glm-4.5"
 }

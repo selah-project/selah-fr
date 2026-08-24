@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et répondit ⟨le⟩ messager de YHWH, et il dit : YHWH Tsevaot, jusqu'à quand, toi, tu n'auras pas compassion de ⟨Jérusalem⟩ et de ⟨les⟩ villes de Juda, que tu as détestée, ⟨ceci⟩ soixante-dix ans ?",
+  "translation": "Et répondit ⟨le⟩ messager de YHWH, et il dit : YHWH Tsevaot, jusqu'à quand, toi, tu n'auras pas compassion de ⟨Jérusalem⟩ ⟨את⟩ et de ⟨les⟩ villes de Juda, que tu as détestée, ⟨ceci⟩ soixante-dix ans ?",
   "tokens": [
     {
       "surface": "ויען",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "את",
-      "gloss": "de",
+      "gloss": "⟨את⟩ de",
       "marks": "Jérusalem"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et de",
+      "gloss": "⟨את⟩ et de",
       "marks": "villes"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "ans"
     }
   ],
-  "timestamp": "2026-08-05T00:43:04.679360232Z",
+  "timestamp": "2026-08-24T21:49:23.147669896Z",
   "model": "glm-4.5"
 }

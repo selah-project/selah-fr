@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 29,
-  "translation": "afin de ⟨te⟩ faire lever ⟨את⟩ ce jour-là pour Lui pour peuple, et Il sera pour toi pour Élohim, comme Il a parlé à toi, et comme Il a juré à tes pères, à Abraham, à Isaac et à Jacob",
+  "translation": "afin de ⟨את⟩ ⟨te⟩ faire lever ⟨את⟩ ce jour-là pour Lui pour peuple, et Il sera pour toi pour Élohim, comme Il a parlé à toi, et comme Il a juré à tes pères, à Abraham, à Isaac et à Jacob",
   "tokens": [
     {
       "surface": "לְמַ֣עַן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אֹתְךָ֩",
-      "gloss": "⟨te⟩"
+      "gloss": "⟨את⟩ ⟨te⟩"
     },
     {
       "surface": "הַיּ֨וֹם",
@@ -84,6 +84,6 @@
       "gloss": "et à Jacob"
     }
   ],
-  "timestamp": "2026-08-04T10:40:47.783776882Z",
+  "timestamp": "2026-08-24T21:49:23.260460821Z",
   "model": "glm-4.5"
 }

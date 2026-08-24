@@ -1,31 +1,31 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 26,
   "ref": "joshua 6:26",
   "book": "joshua",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Alors Yehoshoua fit jurer en disant : Maudit ⟨est⟩ l'homme devant YHWH qui se lève et bâtit ⟨את⟩ cette ville-là ⟨את⟩ Yériho ; en son premier-né il la fondera, et en son plus jeune il établira ses portes.",
+  "translation": "Et Yoshua fit prêter serment en ce temps-là, disant : Maudit soit devant YHWH l'homme qui se lèvera et rebâtira cette ville ⟨את⟩ Jéricho : c'est avec son premier-né qu'il en posera les fondations, et avec son plus jeune qu'il en établira les portes.",
   "tokens": [
     {
       "surface": "וישבע",
-      "gloss": "fit jurer"
+      "gloss": "et fit prêter serment"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshoua"
+      "gloss": "Yoshua"
     },
     {
       "surface": "בעת",
-      "gloss": "en"
+      "gloss": "en ce temps-là"
     },
     {
       "surface": "ההיא",
-      "gloss": "ce temps-là"
+      "gloss": "celle-ci"
     },
     {
       "surface": "לאמר",
-      "gloss": "en disant"
+      "gloss": "disant"
     },
     {
       "surface": "ארור",
@@ -49,45 +49,45 @@
     },
     {
       "surface": "יקום",
-      "gloss": "se lève"
+      "gloss": "se lèvera"
     },
     {
       "surface": "ובנה",
-      "gloss": "et bâtit"
+      "gloss": "et rebâtira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cette ville-lה"
+      "marks": "cette ville"
     },
     {
       "surface": "העיר",
-      "gloss": "cette ville-lה"
+      "gloss": "la ville"
     },
     {
       "surface": "הזאת",
-      "gloss": "cette"
+      "gloss": "celle-ci"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yériho"
+      "marks": "Jéricho"
     },
     {
       "surface": "יריחו",
-      "gloss": "Yériho"
+      "gloss": "Jéricho"
     },
     {
       "surface": "בבכרו",
-      "gloss": "en son premier-né"
+      "gloss": "avec son premier-né"
     },
     {
       "surface": "ייסדנה",
-      "gloss": "il la fondera"
+      "gloss": "il en posera les fondations"
     },
     {
       "surface": "ובצעירו",
-      "gloss": "et en son plus jeune"
+      "gloss": "et avec son plus jeune"
     },
     {
       "surface": "יציב",
@@ -98,6 +98,6 @@
       "gloss": "ses portes"
     }
   ],
-  "timestamp": "2026-08-04T10:57:45.369125250Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:39.812245391Z",
+  "model": "glm-5.3"
 }

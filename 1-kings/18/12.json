@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Et il arrivera que je m'en irai d'auprès de toi et le Rouah de YHWH te portera ⟨sur⟩ ⟨ce que⟩ je ne sais pas, et je viendrai pour le faire savoir à Achab, et il ne te trouvera pas, et il me tuera; mais ton serviteur craint YHWH depuis ma jeunesse.",
+  "translation": "Et il arrivera que je m'en irai ⟨את⟩ d'auprès de toi et le Rouah de YHWH te portera ⟨sur⟩ ⟨ce que⟩ je ne sais pas, et je viendrai pour le faire savoir à Achab, et il ne te trouvera pas, et il me tuera; mais ton serviteur craint YHWH depuis ma jeunesse.",
   "tokens": [
     {
       "surface": "וְהָיָ֞ה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מֵאִתָּ֗ךְ",
-      "gloss": "d'auprès de toi"
+      "gloss": "⟨את⟩ d'auprès de toi"
     },
     {
       "surface": "וְר֨וּחַ",
@@ -97,6 +97,6 @@
       "gloss": "depuis ma jeunesse"
     }
   ],
-  "timestamp": "2026-08-04T13:57:54.499300349Z",
+  "timestamp": "2026-08-24T21:49:23.389130005Z",
   "model": "glm-4.5"
 }

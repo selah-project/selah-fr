@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et Mosheh appela Josué et lui dit aux yeux de tout Israël : sois fort et courageux, car toi, tu feras entrer ⟨את⟩ ce peuple vers la terre que YHWH a jurée à leurs pères de leur donner, et toi, tu la leur feras hériter.",
+  "translation": "Et Mosheh appela Josué et lui dit aux yeux de tout Israël : sois fort et courageux, car toi, tu feras entrer ⟨את⟩ ce peuple vers la terre que YHWH a jurée à leurs pères de leur donner, et toi, tu ⟨את⟩ la leur feras hériter.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -114,9 +114,9 @@
     },
     {
       "surface": "אותם",
-      "gloss": "la leur"
+      "gloss": "⟨את⟩ la leur"
     }
   ],
-  "timestamp": "2026-08-04T10:43:30.181315065Z",
+  "timestamp": "2026-08-24T21:49:23.266562140Z",
   "model": "glm-4.5"
 }

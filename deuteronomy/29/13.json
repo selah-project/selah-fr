@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 29,
-  "translation": "et pas avec vous seuls ⟨je⟩ coupe ⟨את⟩ ⟨l'alliance⟩ cette-ci et ⟨את⟩ ⟨l'imprécation⟩ cette-ci",
+  "translation": "et pas ⟨את⟩ avec vous seuls ⟨je⟩ coupe ⟨את⟩ ⟨l'alliance⟩ cette-ci et ⟨את⟩ ⟨l'imprécation⟩ cette-ci",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "לבדכם",
@@ -54,6 +54,6 @@
       "gloss": "cette-ci"
     }
   ],
-  "timestamp": "2026-08-04T10:40:22.816207598Z",
+  "timestamp": "2026-08-24T21:49:23.260712333Z",
   "model": "glm-4.5"
 }

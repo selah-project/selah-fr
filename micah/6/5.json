@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Mon peuple, souviens-toi, ⟨je te prie⟩, de ce que projeta Balak, roi de Moab, et de ce que ⟨lui⟩ répondit Balaam, fils de Beor, depuis Shittim jusqu'à Guilgal, afin de connaître les justes actes de YHWH.",
+  "translation": "Mon peuple, souviens-toi, ⟨je te prie⟩, de ce que projeta Balak, roi de Moab, et de ce que ⟨את⟩ ⟨lui⟩ répondit Balaam, fils de Beor, depuis Shittim jusqu'à Guilgal, afin de connaître les justes actes de YHWH.",
   "tokens": [
     {
       "surface": "עמי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨lui⟩",
+      "gloss": "⟨את⟩ ⟨lui⟩",
       "marks": "à Balaam"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "de YHWH"
     }
   ],
-  "timestamp": "2026-08-05T00:32:00.774370711Z",
+  "timestamp": "2026-08-24T21:49:23.187319338Z",
   "model": "glm-4.5"
 }

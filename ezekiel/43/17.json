@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 43,
-  "translation": "Et la base ⟨est⟩ quatorze de longueur par quatorze de largeur ⟨sur⟩ ses quatre côtés ; et ⟨la⟩ bordure tout autour d'elle ⟨est⟩ un demi-coudée ; et le creux pour elle ⟨est⟩ une coudée tout autour ; et ses montées regardent l'orient.",
+  "translation": "Et la base ⟨est⟩ quatorze de longueur par quatorze de largeur ⟨sur⟩ ses quatre côtés ; et ⟨la⟩ bordure tout autour ⟨את⟩ d'elle ⟨est⟩ un demi-coudée ; et le creux pour elle ⟨est⟩ une coudée tout autour ; et ses montées regardent l'orient.",
   "tokens": [
     {
       "surface": "והעזרה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "d'elle",
+      "gloss": "⟨את⟩ d'elle",
       "marks": "⟨la⟩ bordure"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "l'orient"
     }
   ],
-  "timestamp": "2026-08-04T23:51:58.657365484Z",
+  "timestamp": "2026-08-24T21:49:23.298240113Z",
   "model": "glm-4.5"
 }

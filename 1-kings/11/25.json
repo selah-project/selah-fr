@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Et il fut un adversaire pour Israël tous les jours de Shelomo, outre le mal que fit Hadad, et il ⟨fut⟩ hostile envers Israël, et régna sur Aram.",
+  "translation": "Et il fut un adversaire pour Israël tous les jours de Shelomo, ⟨את⟩ outre le mal que fit Hadad, et il ⟨fut⟩ hostile envers Israël, et régna sur Aram.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "outre",
+      "gloss": "⟨את⟩ outre",
       "marks": "le mal"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-08-04T13:47:29.531880800Z",
+  "timestamp": "2026-08-24T21:49:23.382029391Z",
   "model": "glm-4.5"
 }

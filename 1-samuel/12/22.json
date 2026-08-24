@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Car YHWH n'abandonnera pas ⟨את⟩ son peuple à cause de son grand nom, car YHWH a consenti de faire ⟨de vous⟩ pour lui un peuple.",
+  "translation": "Car YHWH n'abandonnera pas ⟨את⟩ son peuple à cause de son grand nom, car YHWH a consenti de faire ⟨את⟩ ⟨de vous⟩ pour lui un peuple.",
   "tokens": [
     {
       "surface": "כי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨de vous⟩",
+      "gloss": "⟨את⟩ ⟨de vous⟩",
       "marks": "pour lui"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "un peuple"
     }
   ],
-  "timestamp": "2026-08-04T12:20:16.191969782Z",
+  "timestamp": "2026-08-24T21:49:23.244992244Z",
   "model": "glm-4.5"
 }

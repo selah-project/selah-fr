@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 29,
-  "translation": "Car YHWH a versé sur vous un esprit de torpeur, il a bandé ⟨את⟩ vos yeux, ⟨את⟩ les prophètes et vos têtes, les voyants, il a couvert",
+  "translation": "Car YHWH a versé sur vous un esprit de torpeur, il a bandé ⟨את⟩ vos yeux, ⟨את⟩ les prophètes ⟨את⟩ et vos têtes, les voyants, il a couvert",
   "tokens": [
     {
       "surface": "כי",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et vos têtes"
+      "gloss": "⟨את⟩ et vos têtes"
     },
     {
       "surface": "ראשיכם",
@@ -70,6 +70,6 @@
       "gloss": "il a couvert"
     }
   ],
-  "timestamp": "2026-08-04T15:23:44.885676954Z",
+  "timestamp": "2026-08-24T21:49:23.340150939Z",
   "model": "glm-4.5"
 }

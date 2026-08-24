@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et ⟨את⟩ Hashabia, et avec lui Yishaaya, des fils de Merari, ses frères et leurs fils — vingt.",
+  "translation": "Et ⟨את⟩ Hashabia, ⟨את⟩ et avec lui Yishaaya, des fils de Merari, ses frères et leurs fils — vingt.",
   "tokens": [
     {
       "surface": "ואת",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "et avec lui"
+      "gloss": "⟨את⟩ et avec lui"
     },
     {
       "surface": "ישעיה",
@@ -45,6 +45,6 @@
       "gloss": "vingt"
     }
   ],
-  "timestamp": "2026-08-05T05:36:03.813484459Z",
+  "timestamp": "2026-08-24T21:49:23.299706252Z",
   "model": "glm-5.2"
 }

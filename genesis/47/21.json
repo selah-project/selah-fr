@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 47,
-  "translation": "et ⟨את⟩ le peuple, il le fit passer ⟨את⟩ dans les villes, de l'extrémité de la frontière de Mitsraïm jusqu'à son extrémité.",
+  "translation": "⟨את⟩ et ⟨את⟩ le peuple, il le fit passer ⟨את⟩ dans les villes, de l'extrémité de la frontière de Mitsraïm jusqu'à son extrémité.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "le peuple"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "le",
+      "gloss": "⟨את⟩ le",
       "marks": "dans les villes"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "son extrémité"
     }
   ],
-  "timestamp": "2026-08-04T06:05:46.233547526Z",
+  "timestamp": "2026-08-24T21:49:23.096856501Z",
   "model": "glm-4.5"
 }

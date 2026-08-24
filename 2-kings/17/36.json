@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 17,
-  "translation": "car ⟨mais⟩ ⟨את⟩ YHWH qui ⟨a⟩ fait monter ⟨את⟩ vous du pays d'Égypte avec une force grande et avec un bras étendu, ⟨le⟩ craindrez, et à ⟨lui⟩ vous prosternerez, et à ⟨lui⟩ sacrifierez",
+  "translation": "car ⟨mais⟩ ⟨את⟩ YHWH qui ⟨a⟩ fait monter ⟨את⟩ vous du pays d'Égypte avec une force grande et avec un bras étendu, ⟨את⟩ ⟨le⟩ craindrez, et à ⟨lui⟩ vous prosternerez, et à ⟨lui⟩ sacrifierez",
   "tokens": [
     {
       "surface": "כִּי",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אֹת֣וֹ",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "craindrez"
     },
     {
@@ -87,6 +87,6 @@
       "gloss": "sacrifierez"
     }
   ],
-  "timestamp": "2026-08-04T14:34:17.387462732Z",
+  "timestamp": "2026-08-24T21:49:23.308089705Z",
   "model": "glm-4.5"
 }

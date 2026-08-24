@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Abner revint ⟨à⟩ Hébron, et Joab le fit écarter ⟨au⟩ milieu de la porte pour lui parler en secret, et il le frappa là ⟨au⟩ cinquième, et il mourut, pour le sang d'Asahël son frère.",
+  "translation": "Et Abner revint ⟨à⟩ Hébron, et Joab le fit écarter ⟨au⟩ milieu de la porte pour lui parler ⟨את⟩ en secret, et il le frappa là ⟨au⟩ cinquième, et il mourut, pour le sang d'Asahël son frère.",
   "tokens": [
     {
       "surface": "וישב",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "en secret"
+      "gloss": "⟨את⟩ en secret"
     },
     {
       "surface": "בשלי",
@@ -84,6 +84,6 @@
       "gloss": "son frère"
     }
   ],
-  "timestamp": "2026-08-04T12:55:30.781430844Z",
+  "timestamp": "2026-08-24T21:49:23.074767701Z",
   "model": "glm-4.5"
 }

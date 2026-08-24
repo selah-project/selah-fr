@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et Élisha était assis dans sa maison, et les anciens étaient assis avec lui, et ⟨il⟩ envoya un homme de devant lui, avant que le messager vienne vers lui, et il dit aux anciens : Avez-vous vu qu'il a envoyé le fils du meurtrier, celui-ci, pour enlever ⟨את⟩ ma tête ? Voyez, quand le messager viendra, fermez la porte, et serrez-le contre la porte ; n'est-ce pas le bruit des pas de son maître derrière lui ?",
+  "translation": "Et Élisha était assis dans sa maison, et les anciens étaient assis ⟨את⟩ avec lui, et ⟨il⟩ envoya un homme de devant lui, avant que le messager vienne vers lui, et il dit aux anciens : Avez-vous vu qu'il a envoyé le fils du meurtrier, celui-ci, pour enlever ⟨את⟩ ma tête ? Voyez, quand le messager viendra, fermez la porte, et serrez-le contre la porte ; n'est-ce pas le bruit des pas de son maître derrière lui ?",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "וישלח",
@@ -138,7 +138,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "contre la porte"
     },
     {
@@ -166,6 +166,6 @@
       "gloss": "derrière lui"
     }
   ],
-  "timestamp": "2026-08-04T14:15:38.874313846Z",
+  "timestamp": "2026-08-24T21:49:23.313037487Z",
   "model": "glm-4.5"
 }

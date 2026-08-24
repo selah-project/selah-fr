@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 27,
-  "translation": "et commande-leur ⟨de⟩ dire ⟨à⟩ leurs maîtres : Ainsi a dit YHWH Tsevaot, le Élohim d'Israël : Ainsi vous direz ⟨à⟩ vos maîtres",
+  "translation": "et commande⟨את⟩ -leur ⟨de⟩ dire ⟨à⟩ leurs maîtres : Ainsi a dit YHWH Tsevaot, le Élohim d'Israël : Ainsi vous direz ⟨à⟩ vos maîtres",
   "tokens": [
     {
       "surface": "וצוית",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "-leur"
+      "gloss": "⟨את⟩ -leur"
     },
     {
       "surface": "אל",
@@ -68,6 +68,6 @@
       "gloss": "vos maîtres"
     }
   ],
-  "timestamp": "2026-08-04T22:44:00.231499543Z",
+  "timestamp": "2026-08-24T21:49:23.178298817Z",
   "model": "glm-4.5"
 }

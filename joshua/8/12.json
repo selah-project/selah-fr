@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et il prit environ cinq mille hommes et les plaça en embuscade entre Béthel et Ha-Aï, à l'ouest de la ville.",
+  "translation": "Et il prit environ cinq mille hommes et ⟨את⟩ les plaça en embuscade entre Béthel et Ha-Aï, à l'ouest de la ville.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "les"
+      "gloss": "⟨את⟩ les"
     },
     {
       "surface": "ארב",
@@ -64,6 +64,6 @@
       "gloss": "de la ville"
     }
   ],
-  "timestamp": "2026-08-04T21:57:28.417640788Z",
+  "timestamp": "2026-08-24T21:49:23.375167114Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Et tu as ⟨le⟩ fait savoir aujourd'hui ⟨את⟩ que tu as agi envers moi avec bienveillance, ⟨את⟩ que YHWH m'a livré dans ta main et que tu ne m'as pas tué.",
+  "translation": "Et tu as ⟨le⟩ fait savoir aujourd'hui ⟨את⟩ que tu as agi ⟨את⟩ envers moi avec bienveillance, ⟨את⟩ que YHWH m'a livré dans ta main et que tu ne m'as pas tué.",
   "tokens": [
     {
       "surface": "ואת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "envers moi"
+      "gloss": "⟨את⟩ envers moi"
     },
     {
       "surface": "טובה",
@@ -70,6 +70,6 @@
       "gloss": "tu m'as pas tué"
     }
   ],
-  "timestamp": "2026-08-04T12:41:42.460847943Z",
+  "timestamp": "2026-08-24T21:49:23.250944862Z",
   "model": "glm-4.5"
 }

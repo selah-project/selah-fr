@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Ses jours ⟨sont⟩ déterminés, le nombre de ses mois ⟨est⟩ avec toi, tu as fixé sa limite et il ne la franchira pas",
+  "translation": "Ses jours ⟨sont⟩ déterminés, le nombre de ses mois ⟨est⟩ ⟨את⟩ avec toi, tu as fixé sa limite et il ne la franchira pas",
   "tokens": [
     {
       "surface": "אם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "חקו",
@@ -48,6 +48,6 @@
       "gloss": "franchira pas"
     }
   ],
-  "timestamp": "2026-08-05T03:54:28.141499080Z",
+  "timestamp": "2026-08-24T21:49:23.225220828Z",
   "model": "glm-4.5"
 }

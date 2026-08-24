@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Voici le peuple sorti d'Égypte, et il couvre ⟨את⟩ l'œil de la terre ; maintenant viens, maudis-le-moi ; peut-être pourrai-je combattre contre lui et le chasser.",
+  "translation": "Voici le peuple sorti d'Égypte, et il couvre ⟨את⟩ l'œil de la terre ; maintenant viens, maudis⟨את⟩ -le-moi ; peut-être pourrai-je combattre contre lui et le chasser.",
   "tokens": [
     {
       "surface": "הנה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "-le"
+      "gloss": "⟨את⟩ -le"
     },
     {
       "surface": "אולי",
@@ -81,6 +81,6 @@
       "gloss": "et le chasser"
     }
   ],
-  "timestamp": "2026-08-04T09:14:43.564417278Z",
+  "timestamp": "2026-08-24T21:49:23.357072088Z",
   "model": "glm-4.5"
 }

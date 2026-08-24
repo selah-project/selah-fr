@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 32,
-  "translation": "La parole qui fut à Jérémie de la part de YHWH, en la dixième année de Sédécias, roi de Juda, — elle est, la dix-huitième année de Nabuchodonosor.",
+  "translation": "La parole qui fut à Jérémie ⟨את⟩ de la part de YHWH, en la dixième année de Sédécias, roi de Juda, — elle est, la dix-huitième année de Nabuchodonosor.",
   "tokens": [
     {
       "surface": "הדבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "יהוה",
@@ -80,6 +80,6 @@
       "gloss": "de Nabuchodonosor"
     }
   ],
-  "timestamp": "2026-08-04T22:48:12.961152162Z",
+  "timestamp": "2026-08-24T21:49:23.158383930Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Ainsi dit Adonaï YHWH : Voici, je ⟨suis⟩ contre ⟨les⟩ bergers, et je rechercherai mes brebis ⟨de⟩ leur main, et je les ferai cesser de paître ⟨les⟩ brebis, et ⟨les⟩ bergers ne se paîtront plus eux-mêmes ; et je délivrerai mes brebis de leur bouche, et elles ne seront plus pour eux à manger.",
+  "translation": "Ainsi dit Adonaï YHWH : Voici, je ⟨suis⟩ contre ⟨les⟩ bergers, et je rechercherai mes brebis ⟨de⟩ leur main, et je les ferai cesser de paître ⟨les⟩ brebis, et ⟨les⟩ bergers ne se paîtront plus ⟨את⟩ eux-mêmes ; et je délivrerai mes brebis de leur bouche, et elles ne seront plus pour eux à manger.",
   "tokens": [
     {
       "surface": "כה",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "eux-mêmes"
+      "gloss": "⟨את⟩ eux-mêmes"
     },
     {
       "surface": "והצלתי",
@@ -113,6 +113,6 @@
       "gloss": "à manger"
     }
   ],
-  "timestamp": "2026-08-04T23:42:49.377335577Z",
+  "timestamp": "2026-08-24T21:49:23.279159398Z",
   "model": "glm-4.5"
 }

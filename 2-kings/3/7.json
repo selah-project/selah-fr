@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et il alla, et il envoya ⟨vers⟩ Yehoshaphat, roi de Yehudah, disant : Le roi de Moav a péché ⟨contre⟩ moi ; iras-tu avec moi vers Moav à la guerre ? Et il dit : Je monterai ; comme ⟨le⟩ mien, ⟨comme⟩ ⟨le⟩ tien, comme mon peuple, comme ton peuple, comme mes chevaux, comme tes chevaux.",
+  "translation": "Et il alla, et il envoya ⟨vers⟩ Yehoshaphat, roi de Yehudah, disant : Le roi de Moav a péché ⟨contre⟩ moi ; iras-tu ⟨את⟩ avec moi vers Moav à la guerre ? Et il dit : Je monterai ; comme ⟨le⟩ mien, ⟨comme⟩ ⟨le⟩ tien, comme mon peuple, comme ton peuple, comme mes chevaux, comme tes chevaux.",
   "tokens": [
     {
       "surface": "וילך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "אל",
@@ -104,6 +104,6 @@
       "gloss": "comme tes chevaux"
     }
   ],
-  "timestamp": "2026-08-04T14:09:11.006602703Z",
+  "timestamp": "2026-08-24T21:49:23.302660993Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et elles lui dirent : Non, avec toi nous retournerons vers ton peuple.",
+  "translation": "Et elles lui dirent : Non, ⟨את⟩ avec toi nous retournerons vers ton peuple.",
   "tokens": [
     {
       "surface": "ותאמרנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "נשוב",
@@ -32,6 +32,6 @@
       "gloss": "vers ton peuple"
     }
   ],
-  "timestamp": "2026-08-05T04:23:56.223540201Z",
+  "timestamp": "2026-08-24T21:49:23.222481027Z",
   "model": "glm-4.5"
 }

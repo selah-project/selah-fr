@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et David dit à tous ses serviteurs qui étaient avec lui à Jérusalem : Levez-vous et fuyons, car il n'y aura pas de délivrance pour nous de devant Avshalom ; hâtez-vous de partir, de peur qu'il ne se hâte et ne nous atteigne, et ne fasse venir sur nous ⟨את⟩ le malheur, et ne frappe ⟨את⟩ la ville par le tranchant de l'épée.",
+  "translation": "Et David dit à tous ses serviteurs qui étaient ⟨את⟩ avec lui à Jérusalem : Levez-vous et fuyons, car il n'y aura pas de délivrance pour nous de devant Avshalom ; hâtez-vous de partir, de peur qu'il ne se hâte et ne nous atteigne, et ne fasse venir sur nous ⟨את⟩ le malheur, et ne frappe ⟨את⟩ la ville par le tranchant de l'épée.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "בירושלם",
@@ -125,6 +125,6 @@
       "gloss": "l'épée"
     }
   ],
-  "timestamp": "2026-08-04T13:13:22.358465138Z",
+  "timestamp": "2026-08-24T21:49:23.078072387Z",
   "model": "glm-4.5"
 }

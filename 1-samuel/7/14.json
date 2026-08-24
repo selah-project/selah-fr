@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 7,
-  "translation": "Et les villes que les Philistins avaient prises à Israël revinrent à Israël, depuis Éqron jusqu'à Gath, ainsi que ⟨את⟩ leurs frontières ; Israël délivra ⟨la⟩ main des Philistins ; et il y eut la paix entre Israël et l'Amorite.",
+  "translation": "Et les villes que les Philistins avaient prises à Israël revinrent à Israël, depuis Éqron jusqu'à Gath, ⟨את⟩ ainsi que ⟨את⟩ leurs frontières ; Israël délivra ⟨la⟩ main des Philistins ; et il y eut la paix entre Israël et l'Amorite.",
   "tokens": [
     {
       "surface": "וַתָּשֹׁ֣בְנָה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מֵאֵ֨ת",
-      "gloss": "à"
+      "gloss": "⟨את⟩ à"
     },
     {
       "surface": "יִשְׂרָאֵ֤ל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וְאֶ֨ת",
-      "gloss": "ainsi que",
+      "gloss": "⟨את⟩ ainsi que",
       "marks": "leurs frontières"
     },
     {
@@ -101,6 +101,6 @@
       "gloss": "l'Amorite"
     }
   ],
-  "timestamp": "2026-08-04T12:12:58.882175694Z",
+  "timestamp": "2026-08-24T21:49:23.240385931Z",
   "model": "glm-4.5"
 }

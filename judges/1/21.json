@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et ⟨le⟩ Jébusien habitant ⟨à⟩ Jérusalem, ⟨les⟩ fils de Benjamin ne l'ont pas dépossédé ; et ⟨le⟩ Jébusien a habité ⟨avec⟩ ⟨les⟩ fils de Benjamin ⟨à⟩ Jérusalem jusqu'à ce jour.",
+  "translation": "⟨את⟩ Et ⟨le⟩ Jébusien habitant ⟨à⟩ Jérusalem, ⟨les⟩ fils de Benjamin ne l'ont pas dépossédé ; et ⟨le⟩ Jébusien a habité ⟨את⟩ ⟨avec⟩ ⟨les⟩ fils de Benjamin ⟨à⟩ Jérusalem jusqu'à ce jour.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Et ⟨le⟩",
+      "gloss": "⟨את⟩ Et ⟨le⟩",
       "marks": "Jébusien"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨avec⟩",
+      "gloss": "⟨את⟩ ⟨avec⟩",
       "marks": "les fils de Benjamin"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-04T21:59:53.910472246Z",
+  "timestamp": "2026-08-24T21:49:23.141498521Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 26,
-  "translation": "et la terre ouvrit ⟨את⟩ sa bouche et les avala ainsi que Korah, dans la mort de l'assemblée, par le feu dévorant ⟨את⟩ deux cent cinquante hommes, et ils furent pour un signe",
+  "translation": "et la terre ouvrit ⟨את⟩ sa bouche et ⟨את⟩ les avala ⟨את⟩ ainsi que Korah, dans la mort de l'assemblée, par le feu dévorant ⟨את⟩ deux cent cinquante hommes, et ils furent pour un signe",
   "tokens": [
     {
       "surface": "וַתִּפְתַּח",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אֹתָ֛ם",
-      "gloss": "les"
+      "gloss": "⟨את⟩ les"
     },
     {
       "surface": "וְאֶת",
-      "gloss": "ainsi que",
+      "gloss": "⟨את⟩ ainsi que",
       "marks": "Korah"
     },
     {
@@ -83,6 +83,6 @@
       "gloss": "pour un signe"
     }
   ],
-  "timestamp": "2026-08-04T09:24:01.451026379Z",
+  "timestamp": "2026-08-24T21:49:23.353427647Z",
   "model": "glm-4.5"
 }

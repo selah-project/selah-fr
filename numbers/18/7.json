@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Et toi, et tes fils avec toi, vous garderez ⟨את⟩ votre fonction sacerdotale pour toute chose ⟨qui concerne⟩ l'autel et pour la maison ⟨du⟩ voile, et vous servirez, service de don, je donne ⟨את⟩ votre fonction sacerdotale, et le stranger qui approchera sera mis à mort.",
+  "translation": "Et toi, et tes fils ⟨את⟩ avec toi, vous garderez ⟨את⟩ votre fonction sacerdotale pour toute chose ⟨qui concerne⟩ l'autel et pour la maison ⟨du⟩ voile, et vous servirez, service de don, je donne ⟨את⟩ votre fonction sacerdotale, et le stranger qui approchera sera mis à mort.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "תשמרו",
@@ -90,6 +90,6 @@
       "gloss": "sera mis à mort"
     }
   ],
-  "timestamp": "2026-08-04T09:03:38.366503455Z",
+  "timestamp": "2026-08-24T21:49:23.365208779Z",
   "model": "glm-4.5"
 }

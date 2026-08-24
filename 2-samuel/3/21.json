@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Abner dit à David : je me lèverai et irai, et je rassemblerai vers mon seigneur le roi ⟨את⟩ tout Israël, et ils feront avec toi une alliance, et tu régneras sur tout ce que désire ton être. Et David envoya ⟨את⟩ Abner, et il s'en alla en paix.",
+  "translation": "Et Abner dit à David : je me lèverai et irai, et je rassemblerai vers mon seigneur le roi ⟨את⟩ tout Israël, et ils feront ⟨את⟩ avec toi une alliance, et tu régneras sur tout ce que désire ton être. Et David envoya ⟨את⟩ Abner, et il s'en alla en paix.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "ברית",
@@ -118,6 +118,6 @@
       "gloss": "en paix"
     }
   ],
-  "timestamp": "2026-08-04T12:55:10.026949744Z",
+  "timestamp": "2026-08-24T21:49:23.074507812Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et voici les noms des fils d'Israël venus en Égypte, ⟨avec⟩ Jacob, un homme et sa maison ⟨vinrent⟩",
+  "translation": "Et voici les noms des fils d'Israël venus en Égypte, ⟨את⟩ ⟨avec⟩ Jacob, un homme et sa maison ⟨vinrent⟩",
   "tokens": [
     {
       "surface": "ואלה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨avec⟩",
+      "gloss": "⟨את⟩ ⟨avec⟩",
       "marks": "Jacob"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "⟨vinrent⟩"
     }
   ],
-  "timestamp": "2026-08-04T06:11:21.637045611Z",
+  "timestamp": "2026-08-24T21:49:23.216605260Z",
   "model": "glm-4.5"
 }

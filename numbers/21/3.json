@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et YHWH entendit ⟨la⟩ voix d'Israël, et donna ⟨le⟩ Cananéen, et il le dévoua, eux et leurs villes, et il appela ⟨le⟩ nom du lieu Horma.",
+  "translation": "Et YHWH entendit ⟨la⟩ voix d'Israël, et donna ⟨le⟩ Cananéen, et il le dévoua, ⟨את⟩ eux et leurs villes, et il appela ⟨le⟩ nom du lieu Horma.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "אתהם",
-      "gloss": "eux"
+      "gloss": "⟨את⟩ eux"
     },
     {
       "surface": "ואת",
-      "gloss": "et"
+      "gloss": "⟨את⟩ et"
     },
     {
       "surface": "עריהם",
@@ -69,6 +69,6 @@
       "gloss": "Horma"
     }
   ],
-  "timestamp": "2026-08-04T21:45:17.321582134Z",
+  "timestamp": "2026-08-24T21:49:23.349357493Z",
   "model": "glm-4.5"
 }

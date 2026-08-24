@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 109,
-  "translation": "C’est ⟨là⟩ l’œuvre de mes accusateurs ⟨de la part de⟩ YHWH, et de ceux qui parlent ⟨du⟩ mal contre ma nefesh.",
+  "translation": "C’est ⟨là⟩ l’œuvre de mes accusateurs ⟨את⟩ ⟨de la part de⟩ YHWH, et de ceux qui parlent ⟨du⟩ mal contre ma nefesh.",
   "tokens": [
     {
       "surface": "זאת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de la part de⟩"
+      "gloss": "⟨את⟩ ⟨de la part de⟩"
     },
     {
       "surface": "יהוה",
@@ -44,6 +44,6 @@
       "gloss": "ma nefesh"
     }
   ],
-  "timestamp": "2026-08-05T02:34:38.916822421Z",
+  "timestamp": "2026-08-24T21:49:23.192652883Z",
   "model": "glm-4.5"
 }

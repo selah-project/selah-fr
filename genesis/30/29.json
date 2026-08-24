@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 30,
-  "translation": "Et il lui dit : toi, tu as su ⟨את⟩ ce que je t'ai servi et ⟨את⟩ ce que ton bétail a été avec moi",
+  "translation": "Et il lui dit : toi, tu as su ⟨את⟩ ce que je t'ai servi et ⟨את⟩ ce que ton bétail a été ⟨את⟩ avec moi",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     }
   ],
-  "timestamp": "2026-08-04T05:39:29.058639219Z",
+  "timestamp": "2026-08-24T21:49:23.092768703Z",
   "model": "glm-4.5"
 }

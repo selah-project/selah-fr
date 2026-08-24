@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et ils n'enseigneront plus chacun son prochain et chacun son frère, en disant : Connaissez YHWH ; car ils me connaîtront tous, depuis le plus petit d'entre eux jusqu'au plus grand, déclaration de YHWH ; car je pardonnerai leur iniquité, et de leur péché je ne me souviendrai plus.",
+  "translation": "Et ils n'enseigneront plus chacun son prochain et chacun son frère, en disant : Connaissez YHWH ; car ils me connaîtront ⟨את⟩ tous, depuis le plus petit d'entre eux jusqu'au plus grand, déclaration de YHWH ; car je pardonnerai leur iniquité, et de leur péché je ne me souviendrai plus.",
   "tokens": [
     {
       "surface": "ולא",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "tous"
+      "gloss": "⟨את⟩ tous"
     },
     {
       "surface": "למקטנם",
@@ -127,6 +127,6 @@
       "gloss": "plus"
     }
   ],
-  "timestamp": "2026-08-04T22:46:40.499041317Z",
+  "timestamp": "2026-08-24T21:49:23.185239758Z",
   "model": "glm-4.5"
 }

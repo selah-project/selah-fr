@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et maintenant une demande je demande de ta part ne me refuse pas ⟨את⟩ ma face et elle lui dit parle",
+  "translation": "Et maintenant une demande je demande ⟨את⟩ de ta part ne me refuse pas ⟨את⟩ ma face et elle lui dit parle",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "de ta part"
+      "gloss": "⟨את⟩ de ta part"
     },
     {
       "surface": "אל",
@@ -61,6 +61,6 @@
       "gloss": "parle"
     }
   ],
-  "timestamp": "2026-08-04T13:30:57.086273776Z",
+  "timestamp": "2026-08-24T21:49:23.383964848Z",
   "model": "glm-4.5"
 }

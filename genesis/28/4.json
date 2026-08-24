@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 28,
-  "translation": "Et qu'Il te donne ⟨את⟩ la bénédiction d'Abraham, à toi, et à ta descendance avec toi, pour que tu possèdes ⟨את⟩ la terre de tes séjours, qu'Élohim a donnée à Abraham.",
+  "translation": "Et qu'Il te donne ⟨את⟩ la bénédiction d'Abraham, à toi, et à ta descendance ⟨את⟩ avec toi, pour que tu possèdes ⟨את⟩ la terre de tes séjours, qu'Élohim a donnée à Abraham.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "לרשתך",
@@ -74,6 +74,6 @@
       "gloss": "à Abraham"
     }
   ],
-  "timestamp": "2026-08-04T05:36:20.644419739Z",
+  "timestamp": "2026-08-24T21:49:23.090259553Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 39,
-  "translation": "Et il refusa et dit à la femme de son maître : Voici, mon maître ne sait pas ce qui est ⟨avec⟩ moi dans la maison, et tout ce qu'il a, il a donné dans ma main.",
+  "translation": "Et il refusa et dit à la femme de son maître : Voici, mon maître ne sait pas ⟨את⟩ ce qui est ⟨avec⟩ moi dans la maison, et tout ce qu'il a, il a donné dans ma main.",
   "tokens": [
     {
       "surface": "וימאן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "ce qui est ⟨avec⟩ moi"
+      "gloss": "⟨את⟩ ce qui est ⟨avec⟩ moi"
     },
     {
       "surface": "מה",
@@ -80,6 +80,6 @@
       "gloss": "dans ma main"
     }
   ],
-  "timestamp": "2026-08-04T05:51:23.712793096Z",
+  "timestamp": "2026-08-24T21:49:23.105025966Z",
   "model": "glm-4.5"
 }

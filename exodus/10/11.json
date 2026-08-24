@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Pas ainsi, allez donc, ⟨les⟩ hommes, et servez YHWH, car c'est ⟨cela⟩ que vous recherchez ; et on les chassa de devant la face de Pharaon.",
+  "translation": "Pas ainsi, allez donc, ⟨les⟩ hommes, et servez YHWH, car ⟨את⟩ c'est ⟨cela⟩ que vous recherchez ; et on les chassa ⟨את⟩ de devant la face de Pharaon.",
   "tokens": [
     {
       "surface": "לא",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "c'est ⟨cela⟩",
+      "gloss": "⟨את⟩ c'est ⟨cela⟩",
       "marks": "vous"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de devant"
+      "gloss": "⟨את⟩ de devant"
     },
     {
       "surface": "פני",
@@ -79,6 +79,6 @@
       "gloss": "de Pharaon"
     }
   ],
-  "timestamp": "2026-08-04T06:25:06.563104705Z",
+  "timestamp": "2026-08-24T21:49:23.195310083Z",
   "model": "glm-4.5"
 }

@@ -1,19 +1,19 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 37,
   "ref": "ezekiel 40:37",
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 40,
-  "translation": "Et ses piliers ⟨étaient⟩ vers la cour extérieure, et des palmiers ⟨étaient⟩ sur ses piliers, de ce côté-ci et de ce côté-là : et huit <i>ma'alot<\/i> étaient sa montée.",
+  "translation": "Et ses piliers ⟨étaient⟩ vers ⟨la⟩ cour extérieure, et des palmiers sur ses piliers, de côté et de côté ; et sa montée ⟨avait⟩ huit marches.",
   "tokens": [
     {
       "surface": "ואילו",
-      "gloss": "Et ses piliers"
+      "gloss": "et ses piliers"
     },
     {
       "surface": "לחצר",
-      "gloss": "vers la cour"
+      "gloss": "vers ⟨la⟩ cour"
     },
     {
       "surface": "החיצונה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מפו",
-      "gloss": "de ce côté-ci"
+      "gloss": "de côté"
     },
     {
       "surface": "ומפו",
-      "gloss": "et de ce côté-là"
+      "gloss": "et de côté"
     },
     {
       "surface": "ושמנה",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "מעלות",
-      "gloss": "ma'alot"
+      "gloss": "marches"
     },
     {
       "surface": "מעלו",
-      "gloss": "étaient sa montée"
+      "gloss": "sa montée"
     }
   ],
-  "timestamp": "2026-08-04T23:48:30.745383807Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:27.676157027Z",
+  "model": "glm-5.3"
 }

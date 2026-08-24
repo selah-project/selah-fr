@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et le roi Assuérus dit à Esther la reine et à Mordehaï le Juif : Voici, la maison de Haman j'ai donnée à Esther et lui ils ont pendu sur ⟨le⟩ bois pour avoir étendu sa main contre les Juifs",
+  "translation": "Et le roi Assuérus dit à Esther la reine et à Mordehaï le Juif : Voici, la maison de Haman j'ai donnée à Esther ⟨את⟩ et lui ils ont pendu sur ⟨le⟩ bois pour avoir étendu sa main contre les Juifs",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "et lui"
+      "gloss": "⟨את⟩ et lui"
     },
     {
       "surface": "תלו",
@@ -92,6 +92,6 @@
       "gloss": "contre les Juifs"
     }
   ],
-  "timestamp": "2026-08-05T05:02:58.605641726Z",
+  "timestamp": "2026-08-24T21:49:23.126290785Z",
   "model": "glm-4.5"
 }

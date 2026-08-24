@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 24,
-  "translation": "et le fils de la femme israélite blasphéma ⟨le⟩ Nom et maudit ; et ils le conduisirent vers Moïse ; et le nom de sa mère était Shelomith, fille de Dibri, de la tribu de Dan.",
+  "translation": "et le fils de la femme israélite blasphéma ⟨את⟩ ⟨le⟩ Nom et maudit ; et ils le conduisirent vers Moïse ; et le nom de sa mère était Shelomith, fille de Dibri, de la tribu de Dan.",
   "tokens": [
     {
       "surface": "ויקב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "Nom"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "vers Moïse"
     },
     {
@@ -82,6 +82,6 @@
       "gloss": "de Dan"
     }
   ],
-  "timestamp": "2026-08-04T08:13:29.646122080Z",
+  "timestamp": "2026-08-24T21:49:23.331606229Z",
   "model": "glm-4.5"
 }

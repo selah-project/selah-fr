@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Et Shimshon leur dit : Je vous proposerai ⟨maintenant⟩ une énigme ; si vous me la déclarez certainement ⟨pendant⟩ les sept jours du festin et ⟨la⟩ trouvez, je vous donnerai trente draps et trente ensembles de vêtements.",
+  "translation": "Et Shimshon leur dit : Je vous proposerai ⟨maintenant⟩ une énigme ; si vous me la déclarez certainement ⟨pendant⟩ les sept jours du festin et ⟨את⟩ ⟨la⟩ trouvez, je vous donnerai trente draps et trente ensembles de vêtements.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨la⟩",
+      "gloss": "⟨את⟩ ⟨la⟩",
       "marks": "à moi"
     },
     {
@@ -101,6 +101,6 @@
       "gloss": "vêtements"
     }
   ],
-  "timestamp": "2026-08-04T11:54:13.668505285Z",
+  "timestamp": "2026-08-24T21:49:23.145846829Z",
   "model": "glm-4.5"
 }

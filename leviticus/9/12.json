@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et il égorgea ⟨l'⟩ola, et les fils d’Aaron ⟨le⟩ lui présentèrent ⟨le⟩ sang, et il le jeta sur l’autour, tout autour.",
+  "translation": "Et il égorgea ⟨את⟩ ⟨l'⟩ola, et les fils d’Aaron ⟨le⟩ lui présentèrent ⟨le⟩ sang, et il le jeta sur l’autour, tout autour.",
   "tokens": [
     {
       "surface": "וישחט",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨l'⟩",
+      "gloss": "⟨את⟩ ⟨l'⟩",
       "marks": "ola (offrande d'élévation)"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "sang"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "tout autour"
     }
   ],
-  "timestamp": "2026-08-04T07:38:35.218100584Z",
+  "timestamp": "2026-08-24T21:49:23.316683260Z",
   "model": "glm-4.5"
 }

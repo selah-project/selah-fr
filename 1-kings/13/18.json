@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Et il lui dit : Moi aussi ⟨je suis⟩ prophète comme toi, et un messager a parlé à moi par la parole de YHWH en disant : fais-leu revenir avec toi vers ⟨ta⟩ maison, et il mangera du pain et boira de l'eau — il a menti à lui",
+  "translation": "Et il lui dit : Moi aussi ⟨je suis⟩ prophète comme toi, et un messager a parlé à moi par la parole de YHWH en disant : fais-leu revenir ⟨את⟩ avec toi vers ⟨ta⟩ maison, et il mangera du pain et boira de l'eau — il a menti à lui",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "אל",
@@ -96,6 +96,6 @@
       "gloss": "à lui"
     }
   ],
-  "timestamp": "2026-08-04T13:51:37.227578726Z",
+  "timestamp": "2026-08-24T21:49:23.387803619Z",
   "model": "glm-4.5"
 }

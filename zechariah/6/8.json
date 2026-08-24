@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et il cria vers moi et parla avec moi pour dire : vois, ceux sortant vers le pays du nord ont fait reposer ⟨את⟩ mon Rouah dans le pays du nord.",
+  "translation": "Et il cria ⟨את⟩ vers moi et parla avec moi pour dire : vois, ceux sortant vers le pays du nord ont fait reposer ⟨את⟩ mon Rouah dans le pays du nord.",
   "tokens": [
     {
       "surface": "ויזעק",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "vers moi"
+      "gloss": "⟨את⟩ vers moi"
     },
     {
       "surface": "וידבר",
@@ -69,6 +69,6 @@
       "gloss": "du nord"
     }
   ],
-  "timestamp": "2026-08-05T00:47:46.839144086Z",
+  "timestamp": "2026-08-24T21:49:23.148696906Z",
   "model": "glm-4.5"
 }

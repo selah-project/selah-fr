@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Pour ce jeune homme j'ai prié, et YHWH m'a donné ⟨את⟩ ma demande que j'avais demandée de ⟨sa⟩ part",
+  "translation": "Pour ce jeune homme j'ai prié, et YHWH m'a donné ⟨את⟩ ma demande ⟨את⟩ que j'avais demandée de ⟨sa⟩ part",
   "tokens": [
     {
       "surface": "אל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "את",
-      "gloss": "que"
+      "gloss": "⟨את⟩ que"
     },
     {
       "surface": "שאלתי",
@@ -57,6 +57,6 @@
       "gloss": "de ⟨sa⟩ part"
     }
   ],
-  "timestamp": "2026-08-04T12:04:13.006445599Z",
+  "timestamp": "2026-08-24T21:49:23.247944792Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et il dit : Bon, ⟨je⟩ ferai alliance avec toi, seulement une chose je demande de ta part, en disant : Tu ne verras pas ⟨את⟩ ma face, si ce n'est avant que tu aies fait venir ⟨את⟩ Mikhal, fille de Shaoul, quand tu viendras voir ⟨את⟩ ma face.",
+  "translation": "Et il dit : Bon, ⟨je⟩ ferai alliance ⟨את⟩ avec toi, seulement une chose je demande ⟨את⟩ de ta part, en disant : Tu ne verras pas ⟨את⟩ ma face, si ce n'est avant que tu aies fait venir ⟨את⟩ Mikhal, fille de Shaoul, quand tu viendras voir ⟨את⟩ ma face.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "ברית",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "de ta part"
+      "gloss": "⟨את⟩ de ta part"
     },
     {
       "surface": "לאמר",
@@ -127,6 +127,6 @@
       "gloss": "ma face"
     }
   ],
-  "timestamp": "2026-08-04T12:55:14.256398672Z",
+  "timestamp": "2026-08-24T21:49:23.075339740Z",
   "model": "glm-4.5"
 }

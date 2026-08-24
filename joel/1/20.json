@@ -1,15 +1,15 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 20,
   "ref": "joel 1:20",
   "book": "joel",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Même les bêtes du champ soupirent vers toi, car ont séché les cours d'eau, et le feu a dévoré les pâtures du désert",
+  "translation": "Même les bêtes des champs halètent vers toi, car les lits des eaux se sont desséchés, et le feu a dévoré les pâturages du désert.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "Même"
+      "gloss": "même"
     },
     {
       "surface": "בהמות",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "שדה",
-      "gloss": "du champ"
+      "gloss": "des champs"
     },
     {
       "surface": "תערוג",
-      "gloss": "soupirent"
+      "gloss": "halètent"
     },
     {
       "surface": "אליך",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "יבשו",
-      "gloss": "ont séché"
+      "gloss": "se sont desséchés"
     },
     {
       "surface": "אפיקי",
-      "gloss": "les cours d'eau"
+      "gloss": "les lits"
     },
     {
       "surface": "מים",
-      "gloss": "<eau>"
+      "gloss": "des eaux"
     },
     {
       "surface": "ואש",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "נאות",
-      "gloss": "les pâtures"
+      "gloss": "les pâturages"
     },
     {
       "surface": "המדבר",
       "gloss": "du désert"
     }
   ],
-  "timestamp": "2026-08-05T00:10:23.785888497Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:30.102732339Z",
+  "model": "glm-5.3"
 }

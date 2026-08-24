@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 9,
-  "translation": "et il tourna son visage vers la fenêtre et dit : Qui est avec moi ? qui ? et se penchèrent vers lui deux ou trois eunuques",
+  "translation": "et il tourna son visage vers la fenêtre et dit : Qui ⟨את⟩ est avec moi ? qui ? et se penchèrent vers lui deux ou trois eunuques",
   "tokens": [
     {
       "surface": "וישא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "est avec moi"
+      "gloss": "⟨את⟩ est avec moi"
     },
     {
       "surface": "מי",
@@ -60,6 +60,6 @@
       "gloss": "eunuques"
     }
   ],
-  "timestamp": "2026-08-04T14:19:41.996035058Z",
+  "timestamp": "2026-08-24T21:49:23.301399194Z",
   "model": "glm-4.5"
 }

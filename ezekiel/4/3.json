@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 4,
-  "translation": "Et toi, prends-toi une poêle de fer, et mets-la comme ⟨un⟩ mur de fer entre toi et ⟨la⟩ ville, et dirige ta face contre elle, et elle sera en siège, et tu assiégeras contre elle ; signe ⟨est⟩ elle pour la maison d'Israël",
+  "translation": "Et toi, prends-toi une poêle de fer, et mets-la ⟨את⟩ comme ⟨un⟩ mur de fer entre toi et ⟨la⟩ ville, et dirige ta face contre elle, et elle sera en siège, et tu assiégeras contre elle ; signe ⟨est⟩ elle pour la maison d'Israël",
   "tokens": [
     {
       "surface": "ואתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "comme",
+      "gloss": "⟨את⟩ comme",
       "marks": "קיר"
     },
     {
@@ -106,6 +106,6 @@
       "gloss": "d'Israël"
     }
   ],
-  "timestamp": "2026-08-04T23:14:54.208514079Z",
+  "timestamp": "2026-08-24T21:49:23.284237224Z",
   "model": "glm-4.5"
 }

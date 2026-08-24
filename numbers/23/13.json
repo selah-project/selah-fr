@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 23,
-  "translation": "Et Balak lui dit : va, je te prie, avec moi vers un autre lieu, d'où tu le verras ; seulement son extrémité tu verras, et ⟨le⟩ tout tu ne le verras pas ; et maudis-le-le-moi de là.",
+  "translation": "Et Balak lui dit : va, je te prie, ⟨את⟩ avec moi vers un autre lieu, d'où tu le verras ; seulement son extrémité tu verras, et ⟨le⟩ tout tu ne le verras pas ; et maudis-le-le-moi de là.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "אל",
@@ -92,6 +92,6 @@
       "gloss": "de là"
     }
   ],
-  "timestamp": "2026-08-04T09:18:45.480785930Z",
+  "timestamp": "2026-08-24T21:49:23.355890877Z",
   "model": "glm-4.5"
 }

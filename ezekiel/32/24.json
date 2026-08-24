@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 32,
-  "translation": "Là est Élam et toute sa multitude, autour de sa sépulture, tous percés, tombés par l'épée, qui sont descendus incirconcis vers les terres d'en bas, eux qui mirent leur terreur au pays des vivants, et portèrent leur honte ⟨avec⟩ ceux qui descendent ⟨dans⟩ la fosse.",
+  "translation": "Là est Élam et toute sa multitude, autour de sa sépulture, tous percés, tombés par l'épée, qui sont descendus incirconcis vers les terres d'en bas, eux qui mirent leur terreur au pays des vivants, et portèrent leur honte ⟨את⟩ ⟨avec⟩ ceux qui descendent ⟨dans⟩ la fosse.",
   "tokens": [
     {
       "surface": "שם",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨avec⟩",
+      "gloss": "⟨את⟩ ⟨avec⟩",
       "marks": "ceux qui descendent"
     },
     {
@@ -113,6 +113,6 @@
       "gloss": "⟨dans⟩ la fosse"
     }
   ],
-  "timestamp": "2026-08-04T23:40:29.305230447Z",
+  "timestamp": "2026-08-24T21:49:23.277442078Z",
   "model": "glm-4.5"
 }

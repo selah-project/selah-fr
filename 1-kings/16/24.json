@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et il acheta ⟨את⟩ la montagne de Shoméron de la part de Shémer pour deux kikar d'argent, et il bâtit ⟨את⟩ la montagne, et il appela ⟨את⟩ le nom de la ville qu'il avait bâtie d'après le nom de Shémer, l'Adonaï de la montagne de Shoméron.",
+  "translation": "Et il acheta ⟨את⟩ la montagne de Shoméron ⟨את⟩ de la part de Shémer pour deux kikar d'argent, et il bâtit ⟨את⟩ la montagne, et il appela ⟨את⟩ le nom de la ville qu'il avait bâtie d'après le nom de Shémer, l'Adonaï de la montagne de Shoméron.",
   "tokens": [
     {
       "surface": "ויקן",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "שמר",
@@ -103,6 +103,6 @@
       "gloss": "de Shoméron"
     }
   ],
-  "timestamp": "2026-08-04T13:56:07.909761391Z",
+  "timestamp": "2026-08-24T21:49:23.386884952Z",
   "model": "glm-4.5"
 }

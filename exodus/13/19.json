@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Et Mosheh prit ⟨את⟩ les ossements de Joseph avec lui, car il avait fait jurer ⟨את⟩ les fils d'Israël, en disant : Elohim vous visitera certainement, et vous ferez monter ⟨את⟩ mes ossements d'ici avec vous.",
+  "translation": "Et Mosheh prit ⟨את⟩ les ossements de Joseph avec lui, car il avait fait jurer ⟨את⟩ les fils d'Israël, en disant : Elohim vous visitera certainement, et vous ferez monter ⟨את⟩ mes ossements d'ici ⟨את⟩ avec vous.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "vous"
+      "gloss": "⟨את⟩ vous"
     },
     {
       "surface": "והעליתם",
@@ -96,9 +96,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     }
   ],
-  "timestamp": "2026-08-04T06:30:23.196423604Z",
+  "timestamp": "2026-08-24T21:49:23.217810378Z",
   "model": "glm-4.5"
 }

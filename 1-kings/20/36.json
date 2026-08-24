@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Alors il lui dit : Puisque tu n'as pas écouté la voix de YHWH, voici, tu t'en vas d'auprès de moi, et le lion te frappera. Et il s'en alla d'auprès de lui, et le lion le trouva, et le frappa.",
+  "translation": "Alors il lui dit : Puisque tu n'as pas écouté la voix de YHWH, voici, tu t'en vas ⟨את⟩ d'auprès de moi, et le lion te frappera. Et il s'en alla d'auprès de lui, et le lion le trouva, et le frappa.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "d'auprès de moi"
+      "gloss": "⟨את⟩ d'auprès de moi"
     },
     {
       "surface": "והכך",
@@ -80,6 +80,6 @@
       "gloss": "et le frappa"
     }
   ],
-  "timestamp": "2026-08-04T14:01:48.428280920Z",
+  "timestamp": "2026-08-24T21:49:23.380308995Z",
   "model": "glm-4.5"
 }

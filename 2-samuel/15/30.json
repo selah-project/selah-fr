@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et David montait par ⟨la⟩ montée des Oliviers, montant et pleurant, et la tête pour lui ⟨était⟩ couverte, et il allait pieds nus, et tout le peuple qui ⟨était⟩ avec lui couvrit, chacun sa tête, et ils montaient, montant et pleurant",
+  "translation": "Et David montait par ⟨la⟩ montée des Oliviers, montant et pleurant, et la tête pour lui ⟨était⟩ couverte, et il allait pieds nus, et tout le peuple qui ⟨était⟩ ⟨את⟩ avec lui couvrit, chacun sa tête, et ils montaient, montant et pleurant",
   "tokens": [
     {
       "surface": "ודוד",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "חפו",
@@ -96,6 +96,6 @@
       "gloss": "et pleurant"
     }
   ],
-  "timestamp": "2026-08-04T13:14:46.568682566Z",
+  "timestamp": "2026-08-24T21:49:23.078808157Z",
   "model": "glm-4.5"
 }

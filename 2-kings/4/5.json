@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 4,
-  "translation": "Alors elle s'en alla de chez lui et ferma la porte derrière elle et derrière ses fils ; eux ⟨apportaient⟩ près d'elle et elle ⟨versait⟩",
+  "translation": "Alors elle s'en alla ⟨את⟩ de chez lui et ferma la porte derrière elle et derrière ses fils ; eux ⟨apportaient⟩ près d'elle et elle ⟨versait⟩",
   "tokens": [
     {
       "surface": "ותלך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "de chez lui"
+      "gloss": "⟨את⟩ de chez lui"
     },
     {
       "surface": "ותסגר",
@@ -56,6 +56,6 @@
       "gloss": "⟨versait⟩"
     }
   ],
-  "timestamp": "2026-08-04T14:11:45.348901211Z",
+  "timestamp": "2026-08-24T21:49:23.303927301Z",
   "model": "glm-4.5"
 }

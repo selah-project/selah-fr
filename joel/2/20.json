@@ -5,7 +5,7 @@
   "book": "joel",
   "lang": "fr",
   "chapter": 2,
-  "translation": "⟨את⟩ le septentrional, je l'éloignerai de vous, et je le chasserai vers une terre aride et désolée ; son front vers la mer orientale, et son arrière-garde vers la mer occidentale ; et son infection montera, et sa puanteur montera, car il a agi grandement.",
+  "translation": "⟨את⟩ le septentrional, je l'éloignerai de vous, et je le chasserai vers une terre aride et désolée ; ⟨את⟩ son front vers la mer orientale, et son arrière-garde vers la mer occidentale ; et son infection montera, et sa puanteur montera, car il a agi grandement.",
   "tokens": [
     {
       "surface": "ואת",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "את",
-      "gloss": "son front"
+      "gloss": "⟨את⟩ son front"
     },
     {
       "surface": "פניו",
@@ -109,6 +109,6 @@
       "gloss": "grandement"
     }
   ],
-  "timestamp": "2026-08-05T00:11:21.369278647Z",
+  "timestamp": "2026-08-24T21:49:23.221018566Z",
   "model": "glm-4.5"
 }

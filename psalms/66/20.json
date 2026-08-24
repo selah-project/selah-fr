@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 66,
-  "translation": "Béni ⟨soit⟩ Élohim qui n'a pas rejeté ma prière, et son hessed d'avec moi.",
+  "translation": "Béni ⟨soit⟩ Élohim qui n'a pas rejeté ma prière, et son hessed ⟨את⟩ d'avec moi.",
   "tokens": [
     {
       "surface": "ברוך",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "d'avec moi"
+      "gloss": "⟨את⟩ d'avec moi"
     }
   ],
-  "timestamp": "2026-08-05T01:54:41.681176217Z",
+  "timestamp": "2026-08-24T21:49:23.193989619Z",
   "model": "glm-4.5"
 }

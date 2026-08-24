@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Et Shaoul entendit ⟨que⟩ David ⟨était⟩ connu, ainsi que ⟨les⟩ hommes ⟨qui étaient⟩ avec lui. Or Shaoul ⟨était⟩ assis à Guibea, sous ⟨le⟩ tamarisc, à Rama, et sa lance ⟨était⟩ dans sa main, et tous ses serviteurs se tenaient ⟨debout⟩ près de lui.",
+  "translation": "Et Shaoul entendit ⟨que⟩ David ⟨était⟩ connu, ainsi que ⟨les⟩ hommes ⟨qui étaient⟩ ⟨את⟩ avec lui. Or Shaoul ⟨était⟩ assis à Guibea, sous ⟨le⟩ tamarisc, à Rama, et sa lance ⟨était⟩ dans sa main, et tous ses serviteurs se tenaient ⟨debout⟩ près de lui.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "ושאול",
@@ -88,6 +88,6 @@
       "gloss": "près de lui"
     }
   ],
-  "timestamp": "2026-08-04T12:39:01.460902941Z",
+  "timestamp": "2026-08-24T21:49:23.243226580Z",
   "model": "glm-4.5"
 }

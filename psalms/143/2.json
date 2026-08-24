@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 143,
-  "translation": "Et n'entre pas en jugement avec ton serviteur, car aucun vivant ne sera justifié devant toi.",
+  "translation": "Et n'entre pas en jugement ⟨את⟩ avec ton serviteur, car aucun vivant ne sera justifié devant toi.",
   "tokens": [
     {
       "surface": "ואל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "ton serviteur"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "vivant"
     }
   ],
-  "timestamp": "2026-08-05T03:05:17.285642394Z",
+  "timestamp": "2026-08-24T21:49:23.189481238Z",
   "model": "glm-4.5"
 }

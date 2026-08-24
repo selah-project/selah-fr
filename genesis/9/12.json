@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et dit Élohim : ceci ⟨est⟩ le signe de l'alliance que je pose entre moi et vous, et entre toute nefesh vivante qui ⟨est⟩ avec vous, pour les générations perpétuelles",
+  "translation": "Et dit Élohim : ceci ⟨est⟩ le signe de l'alliance que je pose entre moi et vous, et entre toute nefesh vivante qui ⟨est⟩ ⟨את⟩ avec vous, pour les générations perpétuelles",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "לדרת",
@@ -80,6 +80,6 @@
       "gloss": "perpétuelles"
     }
   ],
-  "timestamp": "2026-08-04T05:09:40.406174776Z",
+  "timestamp": "2026-08-24T21:49:23.099214315Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 35,
-  "translation": "Et tu sauras que je suis YHWH — j'ai entendu ⟨toutes⟩ tes insultes que tu as dites contre les montagnes d'Israël en disant : « Dévastation, ⟨elles nous sont⟩ données pour dévorer »",
+  "translation": "Et tu sauras que je suis YHWH — j'ai entendu ⟨את⟩ ⟨toutes⟩ tes insultes que tu as dites contre les montagnes d'Israël en disant : « Dévastation, ⟨elles nous sont⟩ données pour dévorer »",
   "tokens": [
     {
       "surface": "וידעת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨toutes⟩",
+      "gloss": "⟨את⟩ ⟨toutes⟩",
       "marks": "כל נאצותיך"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "pour dévorer »"
     }
   ],
-  "timestamp": "2026-08-04T23:43:18.752110313Z",
+  "timestamp": "2026-08-24T21:49:23.270954534Z",
   "model": "glm-4.5"
 }

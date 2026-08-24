@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et le cohen apportera devant YHWH et fera ⟨le⟩ sacrifice pour le péché et ⟨l⟩offrande d'élévation.",
+  "translation": "Et le cohen apportera devant YHWH et fera ⟨את⟩ ⟨le⟩ sacrifice pour le péché et ⟨את⟩ ⟨l⟩offrande d'élévation.",
   "tokens": [
     {
       "surface": "וְהִקְרִיב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אֶת",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "sacrifice pour le péché"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "וְאֶת",
-      "gloss": "⟨l⟩",
+      "gloss": "⟨את⟩ ⟨l⟩",
       "marks": "offrande d'élévation"
     },
     {
@@ -46,6 +46,6 @@
       "gloss": "offrande d'élévation"
     }
   ],
-  "timestamp": "2026-08-04T08:33:49.876033214Z",
+  "timestamp": "2026-08-24T21:49:23.363102167Z",
   "model": "glm-4.5"
 }

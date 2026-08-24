@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et il revint vers ⟨le⟩ homme d'Élohim, lui et tout son camp, et il vint et se tint devant lui, et il dit : Voici donc, je sais qu'il n'y a pas d'Élohim dans toute ⟨la⟩ terre si ce n'est en Israël, et maintenant prends donc une bénédiction de la part de ton serviteur.",
+  "translation": "Et il revint vers ⟨le⟩ homme d'Élohim, lui et tout son camp, et il vint et se tint devant lui, et il dit : Voici donc, je sais qu'il n'y a pas d'Élohim dans toute ⟨la⟩ terre si ce n'est en Israël, et maintenant prends donc une bénédiction ⟨את⟩ de la part de ton serviteur.",
   "tokens": [
     {
       "surface": "וישב",
@@ -113,13 +113,13 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "עבדך",
       "gloss": "ton serviteur"
     }
   ],
-  "timestamp": "2026-08-04T14:14:08.667554541Z",
+  "timestamp": "2026-08-24T21:49:23.300684255Z",
   "model": "glm-4.5"
 }

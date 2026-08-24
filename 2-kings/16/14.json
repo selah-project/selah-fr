@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 16,
-  "translation": "et ⟨את⟩ l'autel de bronze qui ⟨était⟩ devant YHWH, et il fit avancer du devant de la Maison, entre l'autel et la Maison de YHWH, et il le mit sur le côté de l'autel, côté nord",
+  "translation": "et ⟨את⟩ l'autel de bronze qui ⟨était⟩ devant YHWH, et il fit avancer ⟨את⟩ du devant de la Maison, entre l'autel et la Maison de YHWH, et il le mit sur le côté de l'autel, côté nord",
   "tokens": [
     {
       "surface": "וְאֵת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מֵאֵת",
-      "gloss": "du devant"
+      "gloss": "⟨את⟩ du devant"
     },
     {
       "surface": "פְּנֵי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אֹתוֹ",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "sur le côté"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "côté nord"
     }
   ],
-  "timestamp": "2026-08-04T14:31:12.010228935Z",
+  "timestamp": "2026-08-24T21:49:23.311256712Z",
   "model": "glm-4.5"
 }

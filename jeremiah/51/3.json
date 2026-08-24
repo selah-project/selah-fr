@@ -1,27 +1,27 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 3,
   "ref": "jeremiah 51:3",
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 51,
-  "translation": "Contre celui <qui> tend <son> arc, que l'archer tende son arc, et contre celui <qui> se revêt de sa cuirasse, qu'il ne se montre pas épargnant : vouez à la destruction tout ⟨את⟩ son armée",
+  "translation": "Que celui qui bande son arc ne le bande pas, et que ⟨celui qui⟩ revêt sa cuirasse ne s'élève pas ; n'épargnez pas ses jeunes hommes — dévouez par interdit toute son armée.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Contre"
+      "gloss": "que … ne"
     },
     {
       "surface": "ידרך",
-      "gloss": "<celui qui> tend"
+      "gloss": "bande"
     },
     {
       "surface": "ידרך",
-      "gloss": "<que> l'archer tende"
+      "gloss": "bande"
     },
     {
       "surface": "הדרך",
-      "gloss": ""
+      "gloss": "celui qui bande"
     },
     {
       "surface": "קשתו",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "et contre"
+      "gloss": "et que … ne"
     },
     {
       "surface": "יתעל",
-      "gloss": "<celui qui> se revêt"
+      "gloss": "s'élève"
     },
     {
       "surface": "בסרינו",
-      "gloss": "de sa cuirasse"
+      "gloss": "dans sa cuirasse"
     },
     {
       "surface": "ואל",
@@ -45,29 +45,29 @@
     },
     {
       "surface": "תחמלו",
-      "gloss": "<qu'il> ne <soit pas> épargnant"
+      "gloss": "n'épargnez pas"
     },
     {
       "surface": "אל",
-      "gloss": "contre"
+      "gloss": "sur"
     },
     {
       "surface": "בחריה",
-      "gloss": "sa jeunesse"
+      "gloss": "ses jeunes hommes"
     },
     {
       "surface": "החרימו",
-      "gloss": "vouez à la destruction"
+      "gloss": "dévouez par interdit"
     },
     {
       "surface": "כל",
-      "gloss": "tout"
+      "gloss": "toute"
     },
     {
       "surface": "צבאה",
-      "gloss": "⟨את⟩ son armée"
+      "gloss": "son armée"
     }
   ],
-  "timestamp": "2026-08-04T23:09:09.670640390Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:56.574278033Z",
+  "model": "glm-5.3"
 }

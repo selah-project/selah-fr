@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et à Sarah il dit : Voici, j'ai donné mille pièces d'argent à ton frère ; voici, c'est pour toi une couverture pour les yeux, vis-à-vis de tous ⟨את⟩ ceux qui sont avec toi, et avec tout ; et tu es justifiée.",
+  "translation": "Et à Sarah il dit : Voici, j'ai donné mille pièces d'argent à ton frère ; voici, c'est pour toi une couverture pour les yeux, vis-à-vis de tous ⟨את⟩ ceux qui ⟨את⟩ sont avec toi, et avec tout ; et tu es justifiée.",
   "tokens": [
     {
       "surface": "ולשרה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "sont avec toi"
+      "gloss": "⟨את⟩ sont avec toi"
     },
     {
       "surface": "ואת",
@@ -81,6 +81,6 @@
       "gloss": "et tu es justifiée"
     }
   ],
-  "timestamp": "2026-08-04T05:26:03.829141237Z",
+  "timestamp": "2026-08-24T21:49:23.102484013Z",
   "model": "glm-4.5"
 }

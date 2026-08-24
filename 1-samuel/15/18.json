@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 15,
-  "translation": "et YHWH t'a envoyé ⟨par⟩ la route et a dit : va, et dévoue à ⟨la⟩ destruction ⟨את⟩ les pécheurs ⟨את⟩ Amalek, et combats contre lui jusqu'à les détruire, eux.",
+  "translation": "et YHWH t'a envoyé ⟨par⟩ la route et a dit : va, et dévoue à ⟨la⟩ destruction ⟨את⟩ les pécheurs ⟨את⟩ Amalek, et combats contre lui jusqu'à les détruire, ⟨את⟩ eux.",
   "tokens": [
     {
       "surface": "וישלחך",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "אתם",
-      "gloss": "eux"
+      "gloss": "⟨את⟩ eux"
     }
   ],
-  "timestamp": "2026-08-04T12:26:51.304733335Z",
+  "timestamp": "2026-08-24T21:49:23.241947978Z",
   "model": "glm-4.5"
 }

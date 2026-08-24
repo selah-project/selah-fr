@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Et Pinechas, fils d'Élazar, le prêtre, et les princes revinrent d'auprès des fils de Ruben et d'auprès ⟨את⟩ des fils de Gad, du pays de Galaad, vers le pays de Canaan, vers les fils d'Israël, et leur rapportèrent ⟨את⟩ la parole.",
+  "translation": "Et Pinechas, fils d'Élazar, le prêtre, et les princes revinrent ⟨את⟩ d'auprès des fils de Ruben et d'auprès ⟨את⟩ des fils de Gad, du pays de Galaad, vers le pays de Canaan, vers les fils d'Israël, et leur rapportèrent ⟨את⟩ la parole.",
   "tokens": [
     {
       "surface": "וישב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "d'auprès de"
+      "gloss": "⟨את⟩ d'auprès de"
     },
     {
       "surface": "בני",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ומאת",
-      "gloss": "et d'auprès de"
+      "gloss": "⟨את⟩ et d'auprès de"
     },
     {
       "surface": "בני",
@@ -101,6 +101,6 @@
       "gloss": "la parole"
     }
   ],
-  "timestamp": "2026-08-04T11:26:53.151549499Z",
+  "timestamp": "2026-08-24T21:49:23.372882393Z",
   "model": "glm-4.5"
 }

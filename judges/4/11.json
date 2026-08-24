@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 4,
-  "translation": "Or Héber ⟨le⟩ Qénite ⟨s'était⟩ séparé des Qénites, des fils de Hobab ⟨le⟩ beau-père de Moïse, et il avait tendu sa tente jusqu'au chêne de Tsaanayim, qui est ⟨près de⟩ Qédesh.",
+  "translation": "Or Héber ⟨le⟩ Qénite ⟨s'était⟩ séparé des Qénites, des fils de Hobab ⟨le⟩ beau-père de Moïse, et il avait tendu sa tente jusqu'au chêne de Tsaanayim, qui est ⟨את⟩ ⟨près de⟩ Qédesh.",
   "tokens": [
     {
       "surface": "וחבר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨près de⟩",
+      "gloss": "⟨את⟩ ⟨près de⟩",
       "marks": "Qédesh"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "Qédesh"
     }
   ],
-  "timestamp": "2026-08-04T11:39:07.103152219Z",
+  "timestamp": "2026-08-24T21:49:23.137001742Z",
   "model": "glm-4.5"
 }

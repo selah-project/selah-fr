@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 35,
-  "translation": "Parce que tu as dit : ⟨Les⟩ deux nations et ⟨les⟩ deux terres ⟨seront⟩ à moi, et nous les possèderons, alors que YHWH était là",
+  "translation": "Parce que tu as dit : ⟨את⟩ ⟨Les⟩ deux nations et ⟨את⟩ ⟨les⟩ deux terres ⟨seront⟩ à moi, et nous les possèderons, alors que YHWH était là",
   "tokens": [
     {
       "surface": "יען",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨Les⟩",
+      "gloss": "⟨את⟩ ⟨Les⟩",
       "marks": "שני הגוים"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "שתי הארצות"
     },
     {
@@ -66,6 +66,6 @@
       "gloss": "là"
     }
   ],
-  "timestamp": "2026-08-04T23:43:18.751886514Z",
+  "timestamp": "2026-08-24T21:49:23.271209733Z",
   "model": "glm-4.5"
 }

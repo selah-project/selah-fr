@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Et toi, YHWH, tu m'as connu, tu m'as vu, et tu as éprouvé mon cœur avec toi; sépare-les comme ⟨un⟩ mouton pour l'abattage, et consacre-les pour le jour de l'égorgement.",
+  "translation": "Et toi, YHWH, tu m'as connu, tu m'as vu, et tu as éprouvé mon cœur ⟨את⟩ avec toi; sépare-les comme ⟨un⟩ mouton pour l'abattage, et consacre-les pour le jour de l'égorgement.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "התקם",
@@ -60,6 +60,6 @@
       "gloss": "de l'égorgement"
     }
   ],
-  "timestamp": "2026-08-04T16:18:52.269906313Z",
+  "timestamp": "2026-08-24T21:49:23.174307678Z",
   "model": "glm-4.5"
 }

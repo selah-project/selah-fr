@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 7,
-  "translation": "Ceci ⟨est⟩ la dédicace de l'autel, le jour où on l'a oint, ⟨de la part des⟩ princes d'Israël : douze coupes d'argent, douce bols d'argent, douze coupes d'or.",
+  "translation": "Ceci ⟨est⟩ la dédicace de l'autel, le jour où on l'a oint, ⟨את⟩ ⟨de la part des⟩ princes d'Israël : douze coupes d'argent, douce bols d'argent, douze coupes d'or.",
   "tokens": [
     {
       "surface": "זאת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de la part des⟩"
+      "gloss": "⟨את⟩ ⟨de la part des⟩"
     },
     {
       "surface": "נשיאי",
@@ -93,6 +93,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-04T08:38:46.009471090Z",
+  "timestamp": "2026-08-24T21:49:23.352913441Z",
   "model": "glm-4.5"
 }

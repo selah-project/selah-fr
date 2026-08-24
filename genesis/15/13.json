@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et Il dit à Abram : Sache-le bien, ta descendance sera résidente dans une terre qui n'est pas ⟨la⟩ leur, et ils les serviront, et ils ⟨les⟩ affligeront ⟨את⟩ quatre cents ans.",
+  "translation": "Et Il dit à Abram : Sache-le bien, ta descendance sera résidente dans une terre qui n'est pas ⟨la⟩ leur, et ils les serviront, et ils ⟨את⟩ ⟨les⟩ affligeront ⟨את⟩ quatre cents ans.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "quatre cents ans"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "ans"
     }
   ],
-  "timestamp": "2026-08-04T05:20:14.702315850Z",
+  "timestamp": "2026-08-24T21:49:23.109117412Z",
   "model": "glm-4.5"
 }

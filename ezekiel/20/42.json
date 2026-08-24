@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et vous saurez que je suis YHWH, quand je vous amènerai ⟨sur⟩ le sol d'Israël, ⟨sur⟩ le pays que j'ai levé ⟨ma⟩ main pour donner ⟨le⟩ à vos pères.",
+  "translation": "Et vous saurez que je suis YHWH, quand je vous amènerai ⟨sur⟩ le sol d'Israël, ⟨sur⟩ le pays que j'ai levé ⟨ma⟩ main pour donner ⟨את⟩ ⟨le⟩ à vos pères.",
   "tokens": [
     {
       "surface": "וידעתם",
@@ -75,13 +75,13 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨le⟩"
+      "gloss": "⟨את⟩ ⟨le⟩"
     },
     {
       "surface": "לאבותיכם",
       "gloss": "à vos pères"
     }
   ],
-  "timestamp": "2026-08-04T23:29:54.526232761Z",
+  "timestamp": "2026-08-24T21:49:23.280672589Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 51,
-  "translation": "Prêtez l'oreille à moi, mon peuple, et à ma nation, à moi, prêtez attention ; car une Torah sortira de chez moi, et mon jugement, pour une lumière des peuples, je le ferai surseoir.",
+  "translation": "Prêtez l'oreille à moi, mon peuple, et à ma nation, à moi, prêtez attention ; car une Torah sortira ⟨את⟩ de chez moi, et mon jugement, pour une lumière des peuples, je le ferai surseoir.",
   "tokens": [
     {
       "surface": "הקשיבו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "de chez moi"
+      "gloss": "⟨את⟩ de chez moi"
     },
     {
       "surface": "תצא",
@@ -64,6 +64,6 @@
       "gloss": "je le ferai surseoir"
     }
   ],
-  "timestamp": "2026-08-04T15:46:04.535454897Z",
+  "timestamp": "2026-08-24T21:49:23.336651532Z",
   "model": "glm-4.5"
 }

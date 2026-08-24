@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Tout mâle parmi les prêtres la mangera ; ⟨c'est⟩ chose très sainte.",
+  "translation": "Tout mâle parmi les prêtres ⟨את⟩ la mangera ; ⟨c'est⟩ chose très sainte.",
   "tokens": [
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "la",
+      "gloss": "⟨את⟩ la",
       "marks": "offrande"
     },
     {
@@ -41,6 +41,6 @@
       "gloss": "⟨c'est⟩"
     }
   ],
-  "timestamp": "2026-08-04T07:33:49.374069504Z",
+  "timestamp": "2026-08-24T21:49:23.332093964Z",
   "model": "glm-4.5"
 }

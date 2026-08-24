@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Fils de quarante ans ⟨étais⟩-je, au moment où Moché, serviteur de YHWH, ⟨m'a⟩ envoyé depuis Qadesh-Barnéa pour explorer ⟨את⟩ le pays, et j'ai rapporté ⟨את⟩ la parole selon ⟨ce qui était⟩ avec mon cœur.",
+  "translation": "Fils de quarante ans ⟨étais⟩-je, au moment où Moché, serviteur de YHWH, ⟨את⟩ ⟨m'a⟩ envoyé depuis Qadesh-Barnéa pour explorer ⟨את⟩ le pays, et j'ai rapporté ⟨את⟩ la parole selon ⟨ce qui était⟩ avec mon cœur.",
   "tokens": [
     {
       "surface": "בן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨m'a⟩",
+      "gloss": "⟨את⟩ ⟨m'a⟩",
       "marks": "envoyé"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "mon cœur"
     }
   ],
-  "timestamp": "2026-08-04T11:09:34.360944661Z",
+  "timestamp": "2026-08-24T21:49:23.375938173Z",
   "model": "glm-4.5"
 }

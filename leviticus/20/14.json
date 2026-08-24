@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et un homme qui prendra ⟨את⟩ la femme et ⟨את⟩ sa mère, ⟨c'est⟩ une infamie : dans le feu ils brûleront lui et elles, et il n'y aura pas d'infamie au milieu de vous.",
+  "translation": "Et un homme qui prendra ⟨את⟩ la femme et ⟨את⟩ sa mère, ⟨c'est⟩ une infamie : dans le feu ils brûleront lui ⟨את⟩ et elles, et il n'y aura pas d'infamie au milieu de vous.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "ואתהן",
-      "gloss": "et elles"
+      "gloss": "⟨את⟩ et elles"
     },
     {
       "surface": "ולא",
@@ -79,6 +79,6 @@
       "gloss": "au milieu de vous"
     }
   ],
-  "timestamp": "2026-08-04T08:05:31.105957625Z",
+  "timestamp": "2026-08-24T21:49:23.317660943Z",
   "model": "glm-4.5"
 }

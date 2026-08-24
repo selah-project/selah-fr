@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 11,
-  "translation": "et ⟨את⟩ le porc car il est diviseur de sabot et fendeur de fente de sabot, et lui la rumination il ne rumine pas, impur il est pour vous",
+  "translation": "et le porc car il est diviseur de sabot et fendeur de fente de sabot, et lui la rumination il ne rumine pas, impur il est pour vous",
   "tokens": [
     {
       "surface": "וְאֶת",
-      "gloss": "et"
+      "gloss": "⟨את⟩ et"
     },
     {
       "surface": "הַחֲזִיר",
-      "gloss": "⟨את⟩ le porc"
+      "gloss": "le porc"
     },
     {
       "surface": "כִּי",
@@ -72,6 +72,6 @@
       "gloss": "pour vous"
     }
   ],
-  "timestamp": "2026-08-04T07:40:40.720994439Z",
+  "timestamp": "2026-08-24T21:49:23.321780394Z",
   "model": "glm-4.5"
 }

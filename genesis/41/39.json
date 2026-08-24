@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 41,
-  "translation": "Et Paroh dit à Joseph : Après qu'Élohim t'a ⟨fait savoir⟩ tout ⟨את⟩ cela, il n'y a point ⟨de⟩ discernant et sage comme toi.",
+  "translation": "Et Paroh dit à Joseph : Après qu'Élohim ⟨את⟩ t'a ⟨fait savoir⟩ tout ⟨את⟩ cela, il n'y a point ⟨de⟩ discernant et sage comme toi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "t'a",
+      "gloss": "⟨את⟩ t'a",
       "marks": "את"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "comme toi"
     }
   ],
-  "timestamp": "2026-08-04T05:54:44.926539902Z",
+  "timestamp": "2026-08-24T21:49:23.092155684Z",
   "model": "glm-4.5"
 }

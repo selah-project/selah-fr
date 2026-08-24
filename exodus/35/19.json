@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 35,
-  "translation": "⟨les⟩ vêtements du service pour servir ⟨dans⟩ le lieu saint, ⟨les⟩ vêtements sacrés pour Aaron le prêtre, et ⟨les⟩ vêtements de ses fils pour servir comme prêtres",
+  "translation": "⟨les⟩ vêtements du service pour servir ⟨dans⟩ le lieu saint, ⟨les⟩ vêtements sacrés pour Aaron le prêtre, ⟨את⟩ et ⟨les⟩ vêtements de ses fils pour servir comme prêtres",
   "tokens": [
     {
       "surface": "את",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "vêtements du service"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "vêtements sacrés"
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et ⟨les⟩",
+      "gloss": "⟨את⟩ et ⟨les⟩",
       "marks": "vêtements"
     },
     {
@@ -67,6 +67,6 @@
       "gloss": "pour servir comme prêtres"
     }
   ],
-  "timestamp": "2026-08-04T07:11:21.473091811Z",
+  "timestamp": "2026-08-24T21:49:23.200907495Z",
   "model": "glm-4.5"
 }

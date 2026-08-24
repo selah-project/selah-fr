@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Si Balak me ⟨donne⟩ sa maison remplie d'argent et d'or, je ne puis transgresser ⟨את⟩ la parole de YHWH pour faire du bien ou du mal de mon propre cœur ; ce que YHWH dira, cela je le dirai.",
+  "translation": "Si Balak me ⟨donne⟩ sa maison remplie d'argent et d'or, je ne puis transgresser ⟨את⟩ la parole de YHWH pour faire du bien ou du mal de mon propre cœur ; ce que YHWH dira, ⟨את⟩ cela je le dirai.",
   "tokens": [
     {
       "surface": "אם",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "cela",
+      "gloss": "⟨את⟩ cela",
       "marks": "le dirai"
     },
     {
@@ -106,6 +106,6 @@
       "gloss": "je le dirai"
     }
   ],
-  "timestamp": "2026-08-04T09:20:31.984127882Z",
+  "timestamp": "2026-08-24T21:49:23.362663328Z",
   "model": "glm-4.5"
 }

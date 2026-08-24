@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Mosheh dénombra, selon ⟨ce que⟩ YHWH avait commandé ⟨à⟩ lui, ⟨את⟩ tout premier-né parmi les fils d'Israël",
+  "translation": "Et Mosheh dénombra, selon ⟨ce que⟩ YHWH avait commandé ⟨את⟩ ⟨à⟩ lui, ⟨את⟩ tout premier-né parmi les fils d'Israël",
   "tokens": [
     {
       "surface": "ויפקד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨à⟩ lui",
+      "gloss": "⟨את⟩ ⟨à⟩ lui",
       "marks": "את"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "Israël"
     }
   ],
-  "timestamp": "2026-08-04T08:26:57.903625561Z",
+  "timestamp": "2026-08-24T21:49:23.350959598Z",
   "model": "glm-4.5"
 }

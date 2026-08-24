@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Et son frère et sa mère dirent : que la jeune fille demeure avec nous des jours ou dix, après tu iras.",
+  "translation": "Et son frère et sa mère dirent : que la jeune fille demeure ⟨את⟩ avec nous des jours ou dix, après tu iras.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "ימים",
@@ -52,6 +52,6 @@
       "gloss": "tu iras"
     }
   ],
-  "timestamp": "2026-08-04T05:31:14.339952468Z",
+  "timestamp": "2026-08-24T21:49:23.120159858Z",
   "model": "glm-4.5"
 }

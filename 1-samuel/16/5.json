@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Il dit : Paix ; pour sacrifier à YHWH je suis venu, sanctifiez-vous et venez avec moi ⟨au⟩ sacrifice. Et il sanctifia ⟨את⟩ Isaï et ⟨את⟩ ses fils, et les convoqua ⟨au⟩ sacrifice.",
+  "translation": "Il dit : Paix ; pour sacrifier à YHWH je suis venu, sanctifiez-vous et venez ⟨את⟩ avec moi ⟨au⟩ sacrifice. Et il sanctifia ⟨את⟩ Isaï et ⟨את⟩ ses fils, et les convoqua ⟨au⟩ sacrifice.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "בזבח",
@@ -78,6 +78,6 @@
       "gloss": "sacrifice"
     }
   ],
-  "timestamp": "2026-08-04T12:28:40.661038669Z",
+  "timestamp": "2026-08-24T21:49:23.248920521Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Et YHWH dit à Moïse : Écris pour toi ⟨את⟩ ces paroles, car sur ⟨la⟩ base de ces paroles, j'ai contracté une alliance avec toi et avec Israël.",
+  "translation": "Et YHWH dit à Moïse : Écris pour toi ⟨את⟩ ces paroles, car sur ⟨la⟩ base de ces paroles, j'ai contracté une alliance ⟨את⟩ avec toi ⟨את⟩ et avec Israël.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "ברית",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et avec"
+      "gloss": "⟨את⟩ et avec"
     },
     {
       "surface": "ישראל",
       "gloss": "Israël"
     }
   ],
-  "timestamp": "2026-08-04T07:09:55.119756222Z",
+  "timestamp": "2026-08-24T21:49:23.202945362Z",
   "model": "glm-4.5"
 }

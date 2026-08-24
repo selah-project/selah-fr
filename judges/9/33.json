@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et il sera, au matin, au lever du soleil, ⟨tu⟩ te lèveras tôt et ⟨tu⟩ feras une sortie sur la ville, et voici, lui et le peuple qui est avec lui sortent vers toi, et tu lui feras selon ce que trouvera ta main.",
+  "translation": "Et il sera, au matin, au lever du soleil, ⟨tu⟩ te lèveras tôt et ⟨tu⟩ feras une sortie sur la ville, et voici, lui et le peuple qui ⟨את⟩ est avec lui sortent vers toi, et tu lui feras selon ce que trouvera ta main.",
   "tokens": [
     {
       "surface": "וְהָיָה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אִתּוֹ֙",
-      "gloss": "est avec lui"
+      "gloss": "⟨את⟩ est avec lui"
     },
     {
       "surface": "יֹצְאִ֣ים",
@@ -88,6 +88,6 @@
       "gloss": "ta main"
     }
   ],
-  "timestamp": "2026-08-04T11:46:50.677029084Z",
+  "timestamp": "2026-08-24T21:49:23.134529605Z",
   "model": "glm-4.5"
 }

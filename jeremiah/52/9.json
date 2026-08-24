@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 52,
-  "translation": "Et ils prirent ⟨le⟩ roi et le firent monter vers ⟨le⟩ roi de Babel, à Riblah, au pays de Hamath, et il parla avec lui des jugements.",
+  "translation": "Et ils prirent ⟨le⟩ roi et le firent monter vers ⟨le⟩ roi de Babel, à Riblah, au pays de Hamath, et il parla ⟨את⟩ avec lui des jugements.",
   "tokens": [
     {
       "surface": "ויתפשו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "le roi"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "vers le roi de Babel"
     },
     {
@@ -59,13 +59,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "משפטים",
       "gloss": "des jugements"
     }
   ],
-  "timestamp": "2026-08-04T23:10:53.692163564Z",
+  "timestamp": "2026-08-24T21:49:23.152484187Z",
   "model": "glm-4.5"
 }

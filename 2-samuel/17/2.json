@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Et je viendrai sur lui, et il est las et mains affaiblies, et je ⟨le⟩ ferai trembler, et fuira tout le peuple qui est avec lui, et je frapperai ⟨את⟩ le roi, lui seul",
+  "translation": "Et je viendrai sur lui, et il est las et mains affaiblies, et je ⟨את⟩ ⟨le⟩ ferai trembler, et fuira tout le peuple qui ⟨את⟩ est avec lui, et je frapperai ⟨את⟩ le roi, lui seul",
   "tokens": [
     {
       "surface": "ואבוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "lui"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "est avec"
+      "gloss": "⟨את⟩ est avec"
     },
     {
       "surface": "והכיתי",
@@ -78,6 +78,6 @@
       "gloss": "lui seul"
     }
   ],
-  "timestamp": "2026-08-04T22:12:19.730506338Z",
+  "timestamp": "2026-08-24T21:49:23.080702734Z",
   "model": "glm-4.5"
 }

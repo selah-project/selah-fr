@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 11,
-  "translation": "La parole qui a été ⟨à⟩ Jérémie, de la part de YHWH, pour dire",
+  "translation": "La parole qui a été ⟨à⟩ Jérémie, ⟨את⟩ de la part de YHWH, pour dire",
   "tokens": [
     {
       "surface": "הדבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "יהוה",
@@ -40,6 +40,6 @@
       "gloss": "pour dire"
     }
   ],
-  "timestamp": "2026-08-04T22:39:20.301052306Z",
+  "timestamp": "2026-08-24T21:49:23.169042526Z",
   "model": "glm-4.5"
 }

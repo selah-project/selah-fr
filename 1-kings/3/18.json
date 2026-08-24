@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Or il advint ⟨le⟩ troisième jour de mon enfantement que cette femme aussi enfanta ; et nous étions ensemble ; il n'y avait aucun étranger avec nous dans la maison, excepté nous deux dans la maison.",
+  "translation": "Or il advint ⟨le⟩ troisième jour de mon enfantement que cette femme aussi enfanta ; et nous étions ensemble ; il n'y avait aucun étranger ⟨את⟩ avec nous dans la maison, excepté nous deux dans la maison.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "בבית",
@@ -80,6 +80,6 @@
       "gloss": "dans la maison"
     }
   ],
-  "timestamp": "2026-08-04T13:33:43.603678864Z",
+  "timestamp": "2026-08-24T21:49:23.381305274Z",
   "model": "glm-4.5"
 }

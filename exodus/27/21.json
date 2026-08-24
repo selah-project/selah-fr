@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 27,
-  "translation": "Dans la tente d'assignation, à l'extérieur du voile qui est sur le Témoignage, ⟨le⟩ préparera Aaron et ses fils, du soir jusqu'au matin, devant YHWH : un statut perpétuel pour leurs générations, de la part des fils d'Israël.",
+  "translation": "Dans la tente d'assignation, à l'extérieur du voile qui est sur le Témoignage, ⟨את⟩ ⟨le⟩ préparera Aaron et ses fils, du soir jusqu'au matin, devant YHWH : un statut perpétuel pour leurs générations, ⟨את⟩ de la part des fils d'Israël.",
   "tokens": [
     {
       "surface": "באהל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "les lampes (sous-entendu)"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part"
+      "gloss": "⟨את⟩ de la part"
     },
     {
       "surface": "בני",
@@ -97,6 +97,6 @@
       "gloss": "d'Israël"
     }
   ],
-  "timestamp": "2026-08-04T06:54:23.985902353Z",
+  "timestamp": "2026-08-24T21:49:23.214025272Z",
   "model": "glm-4.5"
 }

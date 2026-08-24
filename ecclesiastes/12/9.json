@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Et de plus, Qohéleth ⟨est⟩ sage, il a encore enseigné la connaissance ⟨au⟩ peuple, et a fait écouter et chercher et arrangé beaucoup de proverbes.",
+  "translation": "Et de plus, Qohéleth ⟨est⟩ sage, il a encore enseigné la connaissance ⟨את⟩ ⟨au⟩ peuple, et a fait écouter et chercher et arrangé beaucoup de proverbes.",
   "tokens": [
     {
       "surface": "ותר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨au⟩",
+      "gloss": "⟨את⟩ ⟨au⟩",
       "marks": "le peuple"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "beaucoup"
     }
   ],
-  "timestamp": "2026-08-05T04:52:08.217526189Z",
+  "timestamp": "2026-08-24T21:49:23.133439362Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 32,
-  "translation": "Car j'ai mis ⟨sa⟩ terreur dans ⟨la⟩ terre des vivants, et on le couchera au milieu des incirconcis avec ⟨les⟩ transpercés de l'épée — Pharaon et toute ⟨sa⟩ multitude — déclare Adonaï YHWH.",
+  "translation": "Car j'ai mis ⟨sa⟩ terreur dans ⟨la⟩ terre des vivants, et on le couchera au milieu des incirconcis ⟨את⟩ avec ⟨les⟩ transpercés de l'épée — Pharaon et toute ⟨sa⟩ multitude — déclare Adonaï YHWH.",
   "tokens": [
     {
       "surface": "כי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "les transpercés de l'épée"
     },
     {
@@ -82,6 +82,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T23:40:42.640608336Z",
+  "timestamp": "2026-08-24T21:49:23.277126751Z",
   "model": "glm-4.5"
 }

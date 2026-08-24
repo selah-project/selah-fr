@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 1,
-  "translation": "après ⟨sa⟩ frappe de Sihon, roi de l'Amoréen, ⟨qui⟩ réside à Heshbon, et ⟨de⟩ Og, roi du Bashan, ⟨qui⟩ réside à Ashtaroth et à Edrei",
+  "translation": "après ⟨sa⟩ frappe de Sihon, roi de l'Amoréen, ⟨qui⟩ réside à Heshbon, et ⟨את⟩ ⟨de⟩ Og, roi du Bashan, ⟨qui⟩ réside à Ashtaroth et à Edrei",
   "tokens": [
     {
       "surface": "אחרי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨de⟩",
+      "gloss": "⟨את⟩ ⟨de⟩",
       "marks": "Sihon"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et ⟨de⟩",
+      "gloss": "⟨את⟩ et ⟨de⟩",
       "marks": "Og"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "et à Edrei"
     }
   ],
-  "timestamp": "2026-08-04T09:49:16.153971085Z",
+  "timestamp": "2026-08-24T21:49:23.264292188Z",
   "model": "glm-4.5"
 }

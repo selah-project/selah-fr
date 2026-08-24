@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 4,
-  "translation": "Et elle dit : Ai-je demandé ⟨un⟩ fils à ⟨mon⟩ seigneur ? N'ai-je pas dit : ne me trompe pas ⟨את⟩ moi ?",
+  "translation": "Et elle dit : Ai-je demandé ⟨un⟩ fils ⟨את⟩ à ⟨mon⟩ seigneur ? N'ai-je pas dit : ne me trompe pas ⟨את⟩ moi ?",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "à"
+      "gloss": "⟨את⟩ à"
     },
     {
       "surface": "אדני",
@@ -49,6 +49,6 @@
       "marks": "moi"
     }
   ],
-  "timestamp": "2026-08-04T14:12:07.806476618Z",
+  "timestamp": "2026-08-24T21:49:23.304164625Z",
   "model": "glm-4.5"
 }

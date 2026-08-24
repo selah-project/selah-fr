@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 38,
-  "translation": "Mon cœur palpite, ma force m'a abandonné, et ⟨la⟩ lumière de mes yeux, même ⟨elle⟩ n'est pas avec moi.",
+  "translation": "Mon cœur palpite, ma force m'a abandonné, et ⟨la⟩ lumière de mes yeux, même ⟨elle⟩ n'est pas ⟨את⟩ avec moi.",
   "tokens": [
     {
       "surface": "לבי",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     }
   ],
-  "timestamp": "2026-08-05T01:32:30.204228688Z",
+  "timestamp": "2026-08-24T21:49:23.193530471Z",
   "model": "glm-4.5"
 }

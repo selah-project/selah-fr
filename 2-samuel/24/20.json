@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 24,
-  "translation": "Et Aravnah regarda et vit ⟨le⟩ roi et ⟨ses⟩ serviteurs passant vers lui, et Aravnah sortit et se prosterna devant ⟨le⟩ roi, son visage contre terre.",
+  "translation": "Et Aravnah regarda et vit ⟨le⟩ roi et ⟨את⟩ ⟨ses⟩ serviteurs passant vers lui, et Aravnah sortit et se prosterna devant ⟨le⟩ roi, son visage contre terre.",
   "tokens": [
     {
       "surface": "וישקף",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "roi"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨ses⟩",
+      "gloss": "⟨את⟩ ⟨ses⟩",
       "marks": "serviteurs"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "contre terre"
     }
   ],
-  "timestamp": "2026-08-04T13:27:43.792527086Z",
+  "timestamp": "2026-08-24T21:49:23.087325673Z",
   "model": "glm-4.5"
 }

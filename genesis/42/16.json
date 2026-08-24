@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 42,
-  "translation": "Envoyez l'un d'entre vous et qu'il prenne ⟨את⟩ votre frère, et vous, vous serez liés, et on éprouvera ⟨את⟩ vos paroles si ⟨la⟩ vérité ⟨est⟩ avec vous, et sinon, vive Paroh, car vous êtes des espions.",
+  "translation": "Envoyez l'un d'entre vous et qu'il prenne ⟨את⟩ votre frère, et vous, vous serez liés, et on éprouvera ⟨את⟩ vos paroles si ⟨la⟩ vérité ⟨est⟩ ⟨את⟩ avec vous, et sinon, vive Paroh, car vous êtes des espions.",
   "tokens": [
     {
       "surface": "שלחו",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "ואם",
@@ -85,6 +85,6 @@
       "gloss": "vous êtes"
     }
   ],
-  "timestamp": "2026-08-04T05:56:30.583975151Z",
+  "timestamp": "2026-08-24T21:49:23.102978019Z",
   "model": "glm-4.5"
 }

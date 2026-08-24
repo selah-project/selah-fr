@@ -5,69 +5,69 @@
   "book": "2-chronicles",
   "lang": "fr",
   "chapter": 30,
-  "translation": "Car nombreux ⟨était⟩ dans l'assemblée ⟨celui⟩ qui ne s'était pas sanctifié, et les Lévites ⟨étaient⟩ chargés de l'abattage des Pâques pour tout ⟨celui⟩ qui ⟨n'était⟩ pas pur, pour sanctifier ⟨⟨את⟩⟩ à YHWH.",
+  "translation": "Car nombreux ⟨était⟩ dans l'assemblée ⟨celui⟩ qui ne s'était pas sanctifié ; et les Lévites ⟨étaient⟩ sur l'abattage des pessa'h, pour tout ⟨celui qui⟩ n'était pas pur, pour sanctifier ⟨את⟩ à YHWH.",
   "tokens": [
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "car"
     },
     {
-      "surface": "רַבַּ֥ת",
+      "surface": "רבת",
       "gloss": "nombreux"
     },
     {
-      "surface": "בַּקָּהָ֖ל",
+      "surface": "בקהל",
       "gloss": "dans l'assemblée"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "qui"
     },
     {
-      "surface": "לֹא",
-      "gloss": "ne...pas"
+      "surface": "לא",
+      "gloss": "ne"
     },
     {
-      "surface": "הִתְקַדָּ֑שׁוּ",
-      "gloss": "s'était sanctifié"
+      "surface": "התקדשו",
+      "gloss": "s'était pas sanctifié"
     },
     {
-      "surface": "וְהַלְוִיִּ֞ם",
+      "surface": "והלוים",
       "gloss": "et les Lévites"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "gloss": "sur"
     },
     {
-      "surface": "שְׁחִיטַ֣ת",
+      "surface": "שחיטת",
       "gloss": "l'abattage"
     },
     {
-      "surface": "הַפְּסָחִ֗ים",
-      "gloss": "des Pâques"
+      "surface": "הפסחים",
+      "gloss": "des pessa'h"
     },
     {
-      "surface": "לְכֹל֙",
+      "surface": "לכל",
       "gloss": "pour tout"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "ne...pas"
+      "surface": "לא",
+      "gloss": "n'était pas"
     },
     {
-      "surface": "טָה֔וֹר",
+      "surface": "טהור",
       "gloss": "pur"
     },
     {
-      "surface": "לְהַקְדִּ֖ישׁ",
+      "surface": "להקדיש",
       "gloss": "pour sanctifier"
     },
     {
-      "surface": "לַיהוָֽה",
+      "surface": "ליהוה",
       "gloss": "à YHWH"
     }
   ],
-  "timestamp": "2026-08-05T06:12:18.897075173Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:29.296684080Z",
+  "model": "glm-5.3"
 }

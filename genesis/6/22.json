@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et Noach fit selon tout ce que ⟨את⟩ Élohim lui avait commandé, ainsi fit-il.",
+  "translation": "Et Noach fit selon tout ce que ⟨את⟩ Élohim ⟨את⟩ lui avait commandé, ainsi fit-il.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "lui",
+      "gloss": "⟨את⟩ lui",
       "marks": "Élohim"
     },
     {
@@ -45,6 +45,6 @@
       "gloss": "fit-il"
     }
   ],
-  "timestamp": "2026-08-04T18:42:09.117850629Z",
+  "timestamp": "2026-08-24T21:49:23.123229144Z",
   "model": "glm-4.5"
 }

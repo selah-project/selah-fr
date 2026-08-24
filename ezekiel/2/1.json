@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et Il me dit : Fils d'humain, tiens-toi ⟨sur⟩ tes pieds, et je parlerai avec toi.",
+  "translation": "Et Il me dit : Fils d'humain, tiens-toi ⟨sur⟩ tes pieds, et je parlerai ⟨את⟩ avec toi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     }
   ],
-  "timestamp": "2026-08-04T23:13:01.761470993Z",
+  "timestamp": "2026-08-24T21:49:23.289977876Z",
   "model": "glm-4.5"
 }

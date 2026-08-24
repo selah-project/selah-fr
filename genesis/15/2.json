@@ -1,11 +1,11 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 2,
   "ref": "genesis 15:2",
   "book": "genesis",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et Abram dit : Adonaï YHWH, que me donneras-tu, moi je vais <dépourvu> d'enfant, et le fils de possession de ma maison, c'est Dammeseq Éliézer.",
+  "translation": "Et Abram dit : Adonaï YHWH, que me donneras-tu, quand moi je marche ⟨sans⟩ enfant, et le fils-pour-hériter de ma maison, c'est lui, Damas-Éliézer ?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "quoi"
+      "gloss": "que"
     },
     {
       "surface": "תתן",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "הולך",
-      "gloss": "je vais"
+      "gloss": "je marche"
     },
     {
       "surface": "ערירי",
-      "gloss": "<dépourvu> d'enfant"
+      "gloss": "⟨sans⟩ enfant"
     },
     {
       "surface": "ובן",
-      "gloss": "et <le> fils"
+      "gloss": "et le fils"
     },
     {
       "surface": "משק",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "הוא",
-      "gloss": "c'est"
+      "gloss": "c'est lui"
     },
     {
       "surface": "דמשק",
-      "gloss": "Dammeseq"
+      "gloss": "Damas-"
     },
     {
       "surface": "אליעזר",
       "gloss": "Éliézer"
     }
   ],
-  "timestamp": "2026-08-04T05:19:51.819799956Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:41.087115329Z",
+  "model": "glm-5.3"
 }

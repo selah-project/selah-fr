@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et vous dites : « Voici, une fatigue ! » et vous le méprisez, dit YHWH Tsevaot ; et vous apportez ⟨le⟩ volé et ⟨le⟩ boiteux et ⟨le⟩ malade, et vous apportez ⟨le⟩ présent ; accepterai-je ⟨cette⟩ chose de votre main ? dit YHWH.",
+  "translation": "Et vous dites : « Voici, une fatigue ! » et vous le méprisez, dit YHWH Tsevaot ; et vous apportez ⟨le⟩ volé et ⟨le⟩ boiteux et ⟨le⟩ malade, et vous apportez ⟨le⟩ présent ; accepterai-je ⟨את⟩ ⟨cette⟩ chose de votre main ? dit YHWH.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אותו",
-      "gloss": "le"
+      "gloss": "⟨את⟩ le"
     },
     {
       "surface": "אמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "boiteux"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "malade"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "présent"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨cette⟩ chose",
+      "gloss": "⟨את⟩ ⟨cette⟩ chose",
       "marks": "de votre main"
     },
     {
@@ -100,6 +100,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-05T00:57:09.743390816Z",
+  "timestamp": "2026-08-24T21:49:23.229607231Z",
   "model": "glm-4.5"
 }

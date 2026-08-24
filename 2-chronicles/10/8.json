@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et il abandonna ⟨את⟩ le conseil des anciens qu'ils lui avaient donné, et il se consulta avec ⟨את⟩ les jeunes gens qui avaient grandi avec lui, ceux qui se tenaient devant lui.",
+  "translation": "Et il abandonna ⟨את⟩ le conseil des anciens qu'ils lui avaient donné, et il se consulta avec ⟨את⟩ les jeunes gens qui avaient grandi ⟨את⟩ avec lui, ceux qui se tenaient devant lui.",
   "tokens": [
     {
       "surface": "ויעזב",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "העמדים",
@@ -66,6 +66,6 @@
       "gloss": "devant lui"
     }
   ],
-  "timestamp": "2026-08-05T06:04:10.926001514Z",
+  "timestamp": "2026-08-24T21:49:23.229851048Z",
   "model": "glm-5.2"
 }

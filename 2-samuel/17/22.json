@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Et David se leva, et tout le peuple qui était avec lui, et ils passèrent ⟨את⟩ le Jourdain jusqu'à la lumière du matin, jusqu'à ce qu'il n'en manquât pas un qui n'ait passé ⟨את⟩ le Jourdain.",
+  "translation": "Et David se leva, et tout le peuple qui ⟨את⟩ était avec lui, et ils passèrent ⟨את⟩ le Jourdain jusqu'à la lumière du matin, jusqu'à ce qu'il n'en manquât pas un qui n'ait passé ⟨את⟩ le Jourdain.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "était avec lui"
+      "gloss": "⟨את⟩ était avec lui"
     },
     {
       "surface": "ויעברו",
@@ -94,6 +94,6 @@
       "gloss": "le Jourdain"
     }
   ],
-  "timestamp": "2026-08-04T13:17:13.946677936Z",
+  "timestamp": "2026-08-24T21:49:23.080933465Z",
   "model": "glm-4.5"
 }

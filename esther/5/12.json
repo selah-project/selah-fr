@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et Haman dit : même Esther la reine n'a fait entrer personne avec le roi au banquet qu'elle a fait, si ce n'est moi ; et aussi pour demain je suis appelé par elle avec le roi.",
+  "translation": "Et Haman dit : même Esther la reine n'a fait entrer personne avec le roi au banquet qu'elle a fait, si ce n'est ⟨את⟩ moi ; et aussi pour demain je suis appelé par elle avec le roi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "moi"
+      "gloss": "⟨את⟩ moi"
     },
     {
       "surface": "וגם",
@@ -100,6 +100,6 @@
       "gloss": "le roi"
     }
   ],
-  "timestamp": "2026-08-05T04:59:43.772847328Z",
+  "timestamp": "2026-08-24T21:49:23.123904786Z",
   "model": "glm-4.5"
 }

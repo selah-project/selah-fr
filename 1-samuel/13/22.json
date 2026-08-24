@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Et il advint ⟨le⟩ jour de ⟨la⟩ bataille, et ⟨il⟩ ne fut pas trouvé d'épée ni de lance dans ⟨la⟩ main de tout ⟨le⟩ peuple qui ⟨était⟩ avec Shaoul et avec Yonathan ; et ⟨il⟩ fut trouvé pour Shaoul et pour Yonathan son fils.",
+  "translation": "Et il advint ⟨le⟩ jour de ⟨la⟩ bataille, et ⟨il⟩ ne fut pas trouvé d'épée ni de lance dans ⟨la⟩ main de tout ⟨le⟩ peuple qui ⟨était⟩ avec Shaoul ⟨את⟩ et avec Yonathan ; et ⟨il⟩ fut trouvé pour Shaoul et pour Yonathan son fils.",
   "tokens": [
     {
       "surface": "וְהָיָה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "וְאֶת",
-      "gloss": "et avec"
+      "gloss": "⟨את⟩ et avec"
     },
     {
       "surface": "יוֹנָתָן",
@@ -85,6 +85,6 @@
       "gloss": "son fils"
     }
   ],
-  "timestamp": "2026-08-04T12:23:17.049235883Z",
+  "timestamp": "2026-08-24T21:49:23.250341301Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et il leur dit : Pourquoi faites-vous des choses comme celles-ci, ⟨car⟩ moi, j'entends ⟨את⟩ vos propos mauvais, venant de la part de tout ce peuple — ces ⟨choses⟩.",
+  "translation": "Et il leur dit : Pourquoi faites-vous des choses comme celles-ci, ⟨car⟩ moi, j'entends ⟨את⟩ vos propos mauvais, ⟨את⟩ venant de la part de tout ce peuple — ces ⟨choses⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "venant de la part de"
+      "gloss": "⟨את⟩ venant de la part de"
     },
     {
       "surface": "כל",
@@ -73,6 +73,6 @@
       "gloss": "ces ⟨choses⟩"
     }
   ],
-  "timestamp": "2026-08-04T12:06:59.231178337Z",
+  "timestamp": "2026-08-24T21:49:23.245473927Z",
   "model": "glm-4.5"
 }

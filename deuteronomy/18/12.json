@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Car une abomination pour YHWH est tout quiconque fait ces choses, et à cause de ces abominations YHWH ton Élohim les dépossède de devant toi.",
+  "translation": "Car une abomination pour YHWH est tout quiconque fait ces choses, et à cause de ces abominations YHWH ton Élohim ⟨את⟩ les dépossède de devant toi.",
   "tokens": [
     {
       "surface": "כי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "les",
+      "gloss": "⟨את⟩ les",
       "marks": "les"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "de devant toi"
     }
   ],
-  "timestamp": "2026-08-04T21:52:08.804632726Z",
+  "timestamp": "2026-08-24T21:49:23.267088980Z",
   "model": "glm-4.5"
 }

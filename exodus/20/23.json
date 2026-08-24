@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Ne ⟨faites⟩ point avec ⟨moi⟩ des dieux d'argent et des dieux d'or ; ne ⟨vous en⟩ faites point ⟨pour vous-mêmes⟩.",
+  "translation": "Ne ⟨faites⟩ point ⟨את⟩ avec ⟨moi⟩ des dieux d'argent et des dieux d'or ; ne ⟨vous en⟩ faites point ⟨pour vous-mêmes⟩.",
   "tokens": [
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec ⟨moi⟩"
+      "gloss": "⟨את⟩ avec ⟨moi⟩"
     },
     {
       "surface": "אלהי",
@@ -48,6 +48,6 @@
       "gloss": "⟨pour vous-mêmes⟩"
     }
   ],
-  "timestamp": "2026-08-04T06:42:04.391788333Z",
+  "timestamp": "2026-08-24T21:49:23.204959103Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et il dit : Voici, je te fais savoir ⟨ce⟩ qui sera dans l'après de l'indignation, car pour ⟨le⟩ temps fixé est la fin.",
+  "translation": "Et il dit : Voici, je te fais savoir ⟨את⟩ ⟨ce⟩ qui sera dans l'après de l'indignation, car pour ⟨le⟩ temps fixé est la fin.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨ce⟩",
+      "gloss": "⟨את⟩ ⟨ce⟩",
       "marks": "qui sera"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "est la fin"
     }
   ],
-  "timestamp": "2026-08-05T05:16:02.696547591Z",
+  "timestamp": "2026-08-24T21:49:23.227224839Z",
   "model": "glm-4.5"
 }

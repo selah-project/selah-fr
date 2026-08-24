@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et son homme alla avec elle, allant et pleurant derrière elle jusqu'à Bahourim. Et Abner lui dit : Va, retourne ; et il retourna.",
+  "translation": "Et son homme alla ⟨את⟩ avec elle, allant et pleurant derrière elle jusqu'à Bahourim. Et Abner lui dit : Va, retourne ; et il retourna.",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "avec elle"
+      "gloss": "⟨את⟩ avec elle"
     },
     {
       "surface": "אישה",
@@ -64,6 +64,6 @@
       "gloss": "et il retourna"
     }
   ],
-  "timestamp": "2026-08-04T12:55:00.390042823Z",
+  "timestamp": "2026-08-24T21:49:23.074263935Z",
   "model": "glm-4.5"
 }

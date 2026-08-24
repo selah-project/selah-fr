@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et ils répondirent à ⟨le⟩ messager de YHWH se tenant entre ⟨les⟩ myrtes, et ils dirent : nous avons marché dans ⟨la⟩ terre, et voici, toute ⟨la⟩ terre est assise et tranquille.",
+  "translation": "Et ils répondirent à ⟨את⟩ ⟨le⟩ messager de YHWH se tenant entre ⟨les⟩ myrtes, et ils dirent : nous avons marché dans ⟨la⟩ terre, et voici, toute ⟨la⟩ terre est assise et tranquille.",
   "tokens": [
     {
       "surface": "ויענו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "messager de YHWH"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "et tranquille"
     }
   ],
-  "timestamp": "2026-08-05T00:43:04.679269495Z",
+  "timestamp": "2026-08-24T21:49:23.147939334Z",
   "model": "glm-4.5"
 }

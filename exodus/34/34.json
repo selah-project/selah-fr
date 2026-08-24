@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Et lorsque Mosheh entrait devant YHWH pour parler avec lui, il retirait ⟨את⟩ le voile jusqu'à sa sortie ; et il sortait et parlait aux fils d'Israël ⟨את⟩ ce qui lui était ordonné.",
+  "translation": "Et lorsque Mosheh entrait devant YHWH pour parler ⟨את⟩ avec lui, il retirait ⟨את⟩ le voile jusqu'à sa sortie ; et il sortait et parlait aux fils d'Israël ⟨את⟩ ce qui lui était ordonné.",
   "tokens": [
     {
       "surface": "ובבא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "יסיר",
@@ -86,6 +86,6 @@
       "gloss": "lui était ordonné"
     }
   ],
-  "timestamp": "2026-08-04T07:10:40.221976902Z",
+  "timestamp": "2026-08-24T21:49:23.204183235Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 37,
-  "translation": "Voici les tolédot de Yaakov. Yosseph, ⟨fils de⟩ dix-sept ans, ⟨était⟩ berger avec ses frères ⟨le⟩ troupeau, et lui ⟨était⟩ ⟨jeune garçon⟩ avec les fils de Bilhah et avec les fils de Zilpah, les femmes de son père. Et Yosseph apporta ⟨את⟩ leur mauvaise réputation à leur père.",
+  "translation": "Voici les tolédot de Yaakov. Yosseph, ⟨fils de⟩ dix-sept ans, ⟨était⟩ berger avec ses frères ⟨le⟩ troupeau, et lui ⟨était⟩ ⟨jeune garçon⟩ avec les fils de Bilhah ⟨את⟩ et avec les fils de Zilpah, les femmes de son père. Et Yosseph apporta ⟨את⟩ leur mauvaise réputation à leur père.",
   "tokens": [
     {
       "surface": "אלה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "les fils"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et avec",
+      "gloss": "⟨את⟩ et avec",
       "marks": "les fils"
     },
     {
@@ -132,6 +132,6 @@
       "gloss": "leur père"
     }
   ],
-  "timestamp": "2026-08-04T05:48:33.820989121Z",
+  "timestamp": "2026-08-24T21:49:23.113328672Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 29,
-  "translation": "Et ⟨את⟩ Aharon et ⟨את⟩ ses fils tu feras approcher vers l'ouverture de la tente d'assignation, et tu les laveras avec de l'eau.",
+  "translation": "Et ⟨את⟩ Aharon et ⟨את⟩ ses fils tu feras approcher vers l'ouverture de la tente d'assignation, et tu ⟨את⟩ les laveras avec de l'eau.",
   "tokens": [
     {
       "surface": "ואת",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "les",
+      "gloss": "⟨את⟩ les",
       "marks": "avec de l'eau"
     },
     {
@@ -59,6 +59,6 @@
       "gloss": "avec de l'eau"
     }
   ],
-  "timestamp": "2026-08-04T06:58:33.760716484Z",
+  "timestamp": "2026-08-24T21:49:23.210629388Z",
   "model": "glm-4.5"
 }

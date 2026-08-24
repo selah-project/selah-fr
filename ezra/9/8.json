@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et maintenant, comme un bref instant, il y a eu faveur de la part de YHWH notre Élohim, pour nous laisser un reste rescapé et pour nous donner un pieu dans ⟨le⟩ lieu de sa sainteté, afin d'éclairer nos yeux, ô notre Élohim, et pour nous donner un peu de vie dans notre servitude.",
+  "translation": "Et maintenant, comme un bref instant, il y a eu faveur ⟨את⟩ de la part de YHWH notre Élohim, pour nous laisser un reste rescapé et pour nous donner un pieu dans ⟨le⟩ lieu de sa sainteté, afin d'éclairer nos yeux, ô notre Élohim, et pour nous donner un peu de vie dans notre servitude.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "יהוה",
@@ -100,6 +100,6 @@
       "gloss": "dans notre servitude"
     }
   ],
-  "timestamp": "2026-08-05T06:32:51.848899948Z",
+  "timestamp": "2026-08-24T21:49:23.299456092Z",
   "model": "glm-5.2"
 }

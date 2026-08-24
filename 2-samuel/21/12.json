@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et David alla et prit ⟨את⟩ les os de Shaoul et ⟨את⟩ les os de Yehonathan son fils de la part des maîtres de Yavesh-Guilead qui les avaient volés ⟨את⟩ de la place de Bet-Shan où les Philistins les avaient suspendus le jour où les Philistins frappèrent ⟨את⟩ Shaoul au Guilboa",
+  "translation": "Et David alla et prit ⟨את⟩ les os de Shaoul et ⟨את⟩ les os de Yehonathan son fils ⟨את⟩ de la part des maîtres de Yavesh-Guilead qui les avaient volés ⟨את⟩ de la place de Bet-Shan où les Philistins les avaient suspendus le jour où les Philistins frappèrent ⟨את⟩ Shaoul au Guilboa",
   "tokens": [
     {
       "surface": "וילך",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "בעלי",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "les",
+      "gloss": "⟨את⟩ les",
       "marks": "place de Bet-Shan"
     },
     {
@@ -132,6 +132,6 @@
       "gloss": "au Guilboa"
     }
   ],
-  "timestamp": "2026-08-04T13:23:15.753297173Z",
+  "timestamp": "2026-08-24T21:49:23.073721804Z",
   "model": "glm-4.5"
 }

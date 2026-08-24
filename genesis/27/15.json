@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 27,
-  "translation": "Et Rivka prit ⟨את⟩ les vêtements d'Ésaü son fils aîné, les précieux, qui étaient avec elle dans ⟨la⟩ maison, et elle revêtit ⟨את⟩ Yaakov son fils cadet.",
+  "translation": "Et Rivka prit ⟨את⟩ les vêtements d'Ésaü son fils aîné, les précieux, qui ⟨את⟩ étaient avec elle dans ⟨la⟩ maison, et elle revêtit ⟨את⟩ Yaakov son fils cadet.",
   "tokens": [
     {
       "surface": "ותקח",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "étaient avec elle"
+      "gloss": "⟨את⟩ étaient avec elle"
     },
     {
       "surface": "בבית",
@@ -74,6 +74,6 @@
       "gloss": "le cadet"
     }
   ],
-  "timestamp": "2026-08-04T05:34:49.369393586Z",
+  "timestamp": "2026-08-24T21:49:23.115418621Z",
   "model": "glm-4.5"
 }

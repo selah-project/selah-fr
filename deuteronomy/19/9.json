@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 19,
-  "translation": "Si tu gardes ⟨le⟩ tout ⟨de⟩ ⟨la⟩ mitzvah celle-ci pour la faire, que moi je te commande aujourd'hui, pour aimer ⟨את⟩ YHWH ton Élohim et pour marcher dans ses voies tous les jours, alors tu ajouteras pour toi encore trois villes sur les trois celles-ci",
+  "translation": "Si tu gardes ⟨את⟩ ⟨le⟩ tout ⟨de⟩ ⟨la⟩ mitzvah celle-ci pour la faire, que moi je te commande aujourd'hui, pour aimer ⟨את⟩ YHWH ton Élohim et pour marcher dans ses voies tous les jours, alors tu ajouteras pour toi encore trois villes sur les trois celles-ci",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "tout de la mitzvah"
     },
     {
@@ -118,6 +118,6 @@
       "gloss": "celles-ci"
     }
   ],
-  "timestamp": "2026-08-04T10:23:13.962031809Z",
+  "timestamp": "2026-08-24T21:49:23.264778510Z",
   "model": "glm-4.5"
 }

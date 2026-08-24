@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 44,
-  "translation": "Et il dit : même maintenant, selon vos paroles, il en ⟨est⟩ ainsi : celui chez qui ⟨le⟩ se trouvera sera mon serviteur, et vous, vous serez innocents.",
+  "translation": "Et il dit : même maintenant, selon vos paroles, il en ⟨est⟩ ainsi : celui chez qui ⟨את⟩ ⟨le⟩ se trouvera sera mon serviteur, et vous, vous serez innocents.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "la coupe"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "innocents"
     }
   ],
-  "timestamp": "2026-08-04T05:59:43.690501595Z",
+  "timestamp": "2026-08-24T21:49:23.095729957Z",
   "model": "glm-4.5"
 }

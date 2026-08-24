@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et ceux qui le trouvèrent ⟨le⟩ ramassant du bois le firent venir vers Moïse et vers Aaron et vers toute l'assemblée.",
+  "translation": "Et ceux qui le trouvèrent ⟨את⟩ ⟨le⟩ ramassant du bois le firent venir vers Moïse et vers Aaron et vers toute l'assemblée.",
   "tokens": [
     {
       "surface": "ויקריבו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "ceux qui le trouvèrent"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "le ramassant du bois"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "l'assemblée"
     }
   ],
-  "timestamp": "2026-08-04T08:57:58.031583478Z",
+  "timestamp": "2026-08-24T21:49:23.354418325Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 33,
-  "translation": "Et ils viennent à toi comme vient le peuple, et ils s'assoient devant toi, mon peuple, et ils entendent tes paroles, mais ils ne les font pas ; car des désirs amoureux sont dans leur bouche, leur cœur va après leur gain.",
+  "translation": "Et ils viennent à toi comme vient le peuple, et ils s'assoient devant toi, mon peuple, et ils entendent tes paroles, ⟨את⟩ mais ils ne les font pas ; car des désirs amoureux sont dans leur bouche, leur cœur va après leur gain.",
   "tokens": [
     {
       "surface": "ויבואו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ואותם",
-      "gloss": "mais ils"
+      "gloss": "⟨את⟩ mais ils"
     },
     {
       "surface": "לא",
@@ -97,6 +97,6 @@
       "gloss": "va"
     }
   ],
-  "timestamp": "2026-08-04T23:41:41.076826943Z",
+  "timestamp": "2026-08-24T21:49:23.275267173Z",
   "model": "glm-4.5"
 }

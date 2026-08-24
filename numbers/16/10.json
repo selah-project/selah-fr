@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et il ⟨a⟩ fait approcher ⟨את⟩ toi, et ⟨את⟩ tous tes frères, les fils de Lévi, avec toi, et vous cherchez ⟨le⟩ sacerdoce aussi.",
+  "translation": "Et il ⟨a⟩ fait approcher ⟨את⟩ toi, et ⟨את⟩ tous tes frères, les fils de Lévi, ⟨את⟩ avec toi, et vous cherchez ⟨le⟩ sacerdoce aussi.",
   "tokens": [
     {
       "surface": "ויקרב",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "ובקשתם",
@@ -54,6 +54,6 @@
       "gloss": "le sacerdoce"
     }
   ],
-  "timestamp": "2026-08-04T08:59:51.237522354Z",
+  "timestamp": "2026-08-24T21:49:23.361252197Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et il lui dit : Va en paix. Et il s'en alla de lui ⟨d'une⟩ distance de terre.",
+  "translation": "Et il lui dit : Va en paix. Et il s'en alla ⟨את⟩ de lui ⟨d'une⟩ distance de terre.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "de lui"
+      "gloss": "⟨את⟩ de lui"
     },
     {
       "surface": "כברת",
@@ -40,6 +40,6 @@
       "gloss": "de terre"
     }
   ],
-  "timestamp": "2026-08-04T14:13:41.489702247Z",
+  "timestamp": "2026-08-24T21:49:23.300924856Z",
   "model": "glm-4.5"
 }

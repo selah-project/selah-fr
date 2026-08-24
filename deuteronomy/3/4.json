@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 3,
-  "translation": "et nous prîmes ⟨את⟩ toutes ses villes en ce temps-là, il n'y avait pas de ville que nous n'ayons pas prise d'eux, soixante villes, toute la région d'Argob, le royaume de Og en Bashan",
+  "translation": "et nous prîmes ⟨את⟩ toutes ses villes en ce temps-là, il n'y avait pas de ville que nous n'ayons pas prise ⟨את⟩ d'eux, soixante villes, toute la région d'Argob, le royaume de Og en Bashan",
   "tokens": [
     {
       "surface": "ונלכד",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "d'eux"
+      "gloss": "⟨את⟩ d'eux"
     },
     {
       "surface": "ששים",
@@ -93,6 +93,6 @@
       "gloss": "en Bashan"
     }
   ],
-  "timestamp": "2026-08-04T09:53:36.372087976Z",
+  "timestamp": "2026-08-24T21:49:23.257770347Z",
   "model": "glm-4.5"
 }

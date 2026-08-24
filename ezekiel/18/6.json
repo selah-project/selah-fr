@@ -1,15 +1,15 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 6,
   "ref": "ezekiel 18:6",
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 18,
-  "translation": "sur les montagnes n'a pas mangé et ses yeux n'a pas levés vers lesギlloulim de la maison d'Israël et ⟨את⟩ la femme de son prochain n'a pas souillé et vers une femme impure n'a pas approché",
+  "translation": "Sur les montagnes il n'a pas mangé, et ses yeux ne se sont pas levés vers les idoles de la maison d'Israël, et ⟨את⟩ la femme de son prochain il ne l'a pas souillée, et vers une femme dans son impureté il ne s'est pas approché.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "sur"
+      "gloss": "vers"
     },
     {
       "surface": "ההרים",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "n'a pas"
+      "gloss": "pas"
     },
     {
       "surface": "אכל",
-      "gloss": "mangé"
+      "gloss": "il a mangé"
     },
     {
       "surface": "ועיניו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "n'a pas"
+      "gloss": "pas"
     },
     {
       "surface": "נשא",
-      "gloss": "levés"
+      "gloss": "se sont levés"
     },
     {
       "surface": "אל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "גלולי",
-      "gloss": "lesギlloulim"
+      "gloss": "les idoles"
     },
     {
       "surface": "בית",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "n'a pas"
+      "gloss": "pas"
     },
     {
       "surface": "טמא",
-      "gloss": "souillé"
+      "gloss": "souillée"
     },
     {
       "surface": "ואל",
@@ -82,17 +82,17 @@
     },
     {
       "surface": "נדה",
-      "gloss": "impure"
+      "gloss": "dans son impureté"
     },
     {
       "surface": "לא",
-      "gloss": "n'a pas"
+      "gloss": "pas"
     },
     {
       "surface": "יקרב",
-      "gloss": "approché"
+      "gloss": "il s'est approché"
     }
   ],
-  "timestamp": "2026-08-04T23:27:46.502063601Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:39.443047440Z",
+  "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 11,
-  "translation": "N'est-ce pas ⟨ce que⟩ Kemosh ton Élohim te fait posséder, ⟨את⟩ le possèdes-tu ? Et ⟨tout ce que⟩ YHWH notre Élohim a dépossédé devant nous, ⟨את⟩ le possédons-nous.",
+  "translation": "N'est-ce pas ⟨את⟩ ⟨ce que⟩ Kemosh ton Élohim te fait posséder, ⟨את⟩ le possèdes-tu ? Et ⟨tout ce que⟩ YHWH notre Élohim a dépossédé devant nous, ⟨את⟩ le possédons-nous.",
   "tokens": [
     {
       "surface": "הלא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨ce que⟩",
+      "gloss": "⟨את⟩ ⟨ce que⟩",
       "marks": "אשר"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "תירש"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et"
+      "gloss": "⟨את⟩ et"
     },
     {
       "surface": "כל",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "נירש"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "possédons-nous"
     }
   ],
-  "timestamp": "2026-08-04T11:49:05.939113658Z",
+  "timestamp": "2026-08-24T21:49:23.139034290Z",
   "model": "glm-4.5"
 }

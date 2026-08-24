@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 41,
-  "translation": "Et Yohanân, fils de Qaréah, et tous les chefs des forces ⟨qui étaient⟩ avec lui, entendirent tout le mal ⟨que⟩ Yishmaël, fils de Netanyahou, avait fait.",
+  "translation": "Et Yohanân, fils de Qaréah, et tous les chefs des forces ⟨qui étaient⟩ ⟨את⟩ avec lui, entendirent tout le mal ⟨que⟩ Yishmaël, fils de Netanyahou, avait fait.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "את",
@@ -77,6 +77,6 @@
       "gloss": "de Netanyahou"
     }
   ],
-  "timestamp": "2026-08-04T22:57:31.438594893Z",
+  "timestamp": "2026-08-24T21:49:23.154482817Z",
   "model": "glm-4.5"
 }

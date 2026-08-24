@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Élisha dit au roi d'Israël : « Qu'y a-t-il pour moi et pour toi ? Va aux prophètes de ton père et aux prophètes de ta mère. » Et le roi d'Israël lui dit : « Non ! Car YHWH a appelé ces trois rois-ci pour les livrer en la main de Moab. »",
+  "translation": "Et Élisha dit au roi d'Israël : « Qu'y a-t-il pour moi et pour toi ? Va aux prophètes de ton père et aux prophètes de ta mère. » Et le roi d'Israël lui dit : « Non ! Car YHWH a appelé ces trois rois-ci pour ⟨את⟩ les livrer en la main de Moab. »",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -117,7 +117,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "les"
+      "gloss": "⟨את⟩ les"
     },
     {
       "surface": "ביד",
@@ -128,6 +128,6 @@
       "gloss": "de Moab"
     }
   ],
-  "timestamp": "2026-08-04T22:19:38.460206542Z",
+  "timestamp": "2026-08-24T21:49:23.303157014Z",
   "model": "glm-4.5"
 }

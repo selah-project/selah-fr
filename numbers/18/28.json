@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Ainsi vous lèverez, vous aussi, l'offrande de YHWH sur tous vos dîmes que ⟨vous⟩ prendrez d'avec les fils d'Israël, et vous donnerez d'elle ⟨את⟩ l'offrande de YHWH à Aaron le prêtre",
+  "translation": "Ainsi vous lèverez, vous aussi, l'offrande de YHWH sur tous vos dîmes que ⟨vous⟩ prendrez ⟨את⟩ d'avec les fils d'Israël, et vous donnerez d'elle ⟨את⟩ l'offrande de YHWH à Aaron le prêtre",
   "tokens": [
     {
       "surface": "כן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "d'avec"
+      "gloss": "⟨את⟩ d'avec"
     },
     {
       "surface": "בני",
@@ -89,6 +89,6 @@
       "gloss": "le prêtre"
     }
   ],
-  "timestamp": "2026-08-04T09:04:22.513225373Z",
+  "timestamp": "2026-08-24T21:49:23.366969564Z",
   "model": "glm-4.5"
 }

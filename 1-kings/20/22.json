@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et le prophète s'approcha du roi d'Israël et lui dit : Va, fortifie-toi et sache et regarde ⟨ce⟩ que tu feras ; car au retour de l'année, le roi d'Aram monte contre toi.",
+  "translation": "Et le prophète s'approcha du roi d'Israël et lui dit : Va, fortifie-toi et sache et regarde ⟨את⟩ ⟨ce⟩ que tu feras ; car au retour de l'année, le roi d'Aram monte contre toi.",
   "tokens": [
     {
       "surface": "ויגש",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨ce⟩",
+      "gloss": "⟨את⟩ ⟨ce⟩",
       "marks": "ce que tu feras"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "contre toi"
     }
   ],
-  "timestamp": "2026-08-04T14:01:10.432688811Z",
+  "timestamp": "2026-08-24T21:49:23.380076670Z",
   "model": "glm-4.5"
 }

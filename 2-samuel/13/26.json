@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Et Absalom dit : qu'il ne vienne pas, ⟨je te prie⟩, Amnon mon frère avec nous. Et le roi lui dit : pourquoi irait-il avec toi ?",
+  "translation": "Et Absalom dit : qu'il ne vienne pas, ⟨je te prie⟩, Amnon mon frère ⟨את⟩ avec nous. Et le roi lui dit : pourquoi irait-il avec toi ?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "אמנון",
@@ -64,6 +64,6 @@
       "gloss": "avec toi"
     }
   ],
-  "timestamp": "2026-08-04T13:10:23.200559719Z",
+  "timestamp": "2026-08-24T21:49:23.086228676Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 34,
-  "translation": "et mariez-vous avec nous, vos filles donnez-⟨את⟩ à nous, et ⟨את⟩ nos filles prenez pour vous",
+  "translation": "et mariez-vous ⟨את⟩ avec nous, vos filles donnez-⟨את⟩ à nous, et ⟨את⟩ nos filles prenez pour vous",
   "tokens": [
     {
       "surface": "והתחתנו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "בנתיכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תתנו",
-      "gloss": "donnez-⟨את⟩"
+      "gloss": "donnez-"
     },
     {
       "surface": "לנו",
@@ -45,6 +45,6 @@
       "gloss": "pour vous"
     }
   ],
-  "timestamp": "2026-08-04T05:44:27.863795482Z",
+  "timestamp": "2026-08-24T21:49:23.101814242Z",
   "model": "glm-4.5"
 }

@@ -1,15 +1,15 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 11,
   "ref": "psalms 95:11",
   "book": "psalms",
   "lang": "fr",
   "chapter": 95,
-  "translation": "〈Au sujet duquel〉 j'ai juré dans ma colère : « 〈S'ils〉 entrent dans mon repos ! »",
+  "translation": "אַשֶׁר j'ai juré dans ma colère : s'ils entrent dans mon repos !",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "〈Au sujet duquel〉"
+      "gloss": "אַשֶׁר"
     },
     {
       "surface": "נשבעתי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "〈S'ils〉"
+      "gloss": "si"
     },
     {
       "surface": "יבאון",
-      "gloss": "entrent"
+      "gloss": "ils entrent"
     },
     {
       "surface": "אל",
@@ -36,6 +36,6 @@
       "gloss": "mon repos"
     }
   ],
-  "timestamp": "2026-08-05T02:22:10.162026526Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:28.717338703Z",
+  "model": "glm-5.3"
 }

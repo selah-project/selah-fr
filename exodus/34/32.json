@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Et après cela s'approchèrent tous les fils d'Israël, et il leur ordonna ⟨את⟩ tout ce que YHWH avait dit avec lui sur ⟨le⟩ mont Sinaï.",
+  "translation": "Et après cela s'approchèrent tous les fils d'Israël, et il leur ordonna ⟨את⟩ tout ce que YHWH avait dit ⟨את⟩ avec lui sur ⟨le⟩ mont Sinaï.",
   "tokens": [
     {
       "surface": "ואחרי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "בהר",
@@ -69,6 +69,6 @@
       "gloss": "Sinaï"
     }
   ],
-  "timestamp": "2026-08-04T07:10:09.789682712Z",
+  "timestamp": "2026-08-24T21:49:23.203707484Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et les Lévites firent descendre ⟨את⟩ l'arche de YHWH et ⟨את⟩ le coffre qui était avec elle, dans lequel étaient les objets d'or, et ils les placèrent sur la grande pierre ; et les hommes de Beth-Shemesh firent monter des olot et sacrifièrent des sacrifices en ce jour-là à YHWH",
+  "translation": "Et les Lévites firent descendre ⟨את⟩ l'arche de YHWH et ⟨את⟩ le coffre qui était ⟨את⟩ avec elle, dans lequel étaient les objets d'or, et ils les placèrent sur la grande pierre ; et les hommes de Beth-Shemesh firent monter des olot et sacrifièrent des sacrifices en ce jour-là à YHWH",
   "tokens": [
     {
       "surface": "והלוים",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec elle"
+      "gloss": "⟨את⟩ avec elle"
     },
     {
       "surface": "אשר",
@@ -118,6 +118,6 @@
       "gloss": "à YHWH"
     }
   ],
-  "timestamp": "2026-08-04T12:11:30.282846008Z",
+  "timestamp": "2026-08-24T21:49:23.251436574Z",
   "model": "glm-4.5"
 }

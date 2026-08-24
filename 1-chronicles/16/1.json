@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et ils apportèrent ⟨את⟩ l'arche d'Élohim et la placèrent au milieu de la tente que David avait tendue pour elle, et ils présentèrent des olot et des shelamim devant Élohim.",
+  "translation": "Et ils apportèrent ⟨את⟩ l'arche d'Élohim et la placèrent au milieu de la tente que David avait tendue pour ⟨את⟩ elle, et ils présentèrent des olot et des shelamim devant Élohim.",
   "tokens": [
     {
       "surface": "וַיָּבִ֨יאוּ֙",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אֹת֔וֹ",
-      "gloss": "elle"
+      "gloss": "⟨את⟩ elle"
     },
     {
       "surface": "בְּת֣וֹךְ",
@@ -77,6 +77,6 @@
       "gloss": "Élohim"
     }
   ],
-  "timestamp": "2026-08-05T05:52:04.297526324Z",
+  "timestamp": "2026-08-24T21:49:23.221792911Z",
   "model": "glm-5.2"
 }

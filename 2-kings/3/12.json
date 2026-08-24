@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Yehoshaphat dit : il y a ⟨avec⟩ lui la parole de YHWH. Et descendirent vers lui le roi d'Israël et Yehoshaphat et le roi d'Édom.",
+  "translation": "Et Yehoshaphat dit : il y a ⟨את⟩ ⟨avec⟩ lui la parole de YHWH. Et descendirent vers lui le roi d'Israël et Yehoshaphat et le roi d'Édom.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨avec⟩ lui",
+      "gloss": "⟨את⟩ ⟨avec⟩ lui",
       "marks": "la parole"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "d'Édom"
     }
   ],
-  "timestamp": "2026-08-04T14:10:29.415348474Z",
+  "timestamp": "2026-08-24T21:49:23.302914639Z",
   "model": "glm-4.5"
 }

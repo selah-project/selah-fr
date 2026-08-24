@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 22,
-  "translation": "Sauf ⟨que⟩ ⟨on⟩ ne comptera point ⟨avec⟩ eux ⟨l'⟩argent ⟨le⟩ donné ⟨sur⟩ leur main, car ⟨dans⟩ la fidélité ⟨ils⟩ font",
+  "translation": "Sauf ⟨que⟩ ⟨on⟩ ne comptera point ⟨את⟩ ⟨avec⟩ eux ⟨l'⟩argent ⟨le⟩ donné ⟨sur⟩ leur main, car ⟨dans⟩ la fidélité ⟨ils⟩ font",
   "tokens": [
     {
       "surface": "אך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨avec⟩ eux"
+      "gloss": "⟨את⟩ ⟨avec⟩ eux"
     },
     {
       "surface": "הכסף",
@@ -56,6 +56,6 @@
       "gloss": "font"
     }
   ],
-  "timestamp": "2026-08-04T14:40:40.864652497Z",
+  "timestamp": "2026-08-24T21:49:23.305887156Z",
   "model": "glm-4.5"
 }

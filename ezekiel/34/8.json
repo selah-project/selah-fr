@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Je vis, déclare Adonaï YHWH, si ce n'est ⟨pas⟩ parce que mes brebis sont devenues une proie et que mes brebis sont devenues nourriture pour tout animal des champs faute de pasteur, et que mes bergers n'ont pas cherché mes brebis, et ⟨que⟩ les bergers se sont nourris eux-mêmes et ⟨qu'⟩ils n'ont pas fait paître mes brebis.",
+  "translation": "Je vis, déclare Adonaï YHWH, si ce n'est ⟨pas⟩ parce que mes brebis sont devenues une proie et que mes brebis sont devenues nourriture pour tout animal des champs faute de pasteur, et que mes bergers n'ont pas cherché mes brebis, et ⟨que⟩ les bergers se sont nourris ⟨את⟩ eux-mêmes et ⟨qu'⟩ils n'ont pas fait paître mes brebis.",
   "tokens": [
     {
       "surface": "חי",
@@ -114,11 +114,11 @@
     },
     {
       "surface": "אותם",
-      "gloss": "eux-mêmes"
+      "gloss": "⟨את⟩ eux-mêmes"
     },
     {
       "surface": "ואת",
-      "gloss": "et"
+      "gloss": "⟨את⟩ et"
     },
     {
       "surface": "צאני",
@@ -133,6 +133,6 @@
       "gloss": "fait paître"
     }
   ],
-  "timestamp": "2026-08-04T23:42:45.536820252Z",
+  "timestamp": "2026-08-24T21:49:23.278892787Z",
   "model": "glm-4.5"
 }

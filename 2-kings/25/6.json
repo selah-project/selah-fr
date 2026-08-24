@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 25,
-  "translation": "Ils saisirent ⟨את⟩ le roi et le firent monter vers le roi de Babel à Riblah, et ils prononcèrent contre lui le jugement.",
+  "translation": "Ils saisirent ⟨את⟩ le roi et le firent monter vers le roi de Babel à Riblah, et ils prononcèrent ⟨את⟩ contre lui le jugement.",
   "tokens": [
     {
       "surface": "ויתפשו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "le"
+      "gloss": "⟨את⟩ le"
     },
     {
       "surface": "אל",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "contre lui"
+      "gloss": "⟨את⟩ contre lui"
     },
     {
       "surface": "משפט",
       "gloss": "le jugement"
     }
   ],
-  "timestamp": "2026-08-04T14:46:48.800003505Z",
+  "timestamp": "2026-08-24T21:49:23.308598792Z",
   "model": "glm-4.5"
 }

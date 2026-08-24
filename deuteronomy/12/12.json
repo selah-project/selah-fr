@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Et vous vous réjouirez devant YHWH votre Élohim, vous, et vos fils, et vos filles, et vos serviteurs, et vos servantes, et le Lévite qui est dans vos portes, car il n'a pas avec vous de part et d'héritage.",
+  "translation": "Et vous vous réjouirez devant YHWH votre Élohim, vous, et vos fils, et vos filles, et vos serviteurs, et vos servantes, et le Lévite qui est dans vos portes, car il n'a pas ⟨את⟩ avec vous de part et d'héritage.",
   "tokens": [
     {
       "surface": "וּשְׂמַחְתֶּ֗ם",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "אִתְּכֶֽם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     }
   ],
-  "timestamp": "2026-08-04T10:14:43.058069224Z",
+  "timestamp": "2026-08-24T21:49:23.261456580Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 54,
-  "translation": "Car les montagnes ⟨seront⟩ mues et les collines ⟨seront⟩ ébranlées, et mon hessed ⟨ne⟩ s'en ira ⟨pas⟩ de chez toi, et mon alliance de shalom ⟨ne sera⟩ point ébranlée, a dit celui qui te compatît, YHWH.",
+  "translation": "Car les montagnes ⟨seront⟩ mues et les collines ⟨seront⟩ ébranlées, et mon hessed ⟨ne⟩ s'en ira ⟨pas⟩ ⟨את⟩ de chez toi, et mon alliance de shalom ⟨ne sera⟩ point ébranlée, a dit celui qui te compatît, YHWH.",
   "tokens": [
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "de chez toi"
+      "gloss": "⟨את⟩ de chez toi"
     },
     {
       "surface": "לא",
@@ -72,6 +72,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T15:48:38.842422429Z",
+  "timestamp": "2026-08-24T21:49:23.336159419Z",
   "model": "glm-4.5"
 }

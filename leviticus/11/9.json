@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Ceci ⟨את⟩ vous mangerez de tout ce qui ⟨est⟩ dans les eaux : tout ce qui a nageoire et écaille dans les eaux, dans les mers et dans les fleuves, eux ⟨vous⟩ mangerez",
+  "translation": "Ceci ⟨את⟩ vous mangerez de tout ce qui ⟨est⟩ dans les eaux : tout ce qui a nageoire et écaille dans les eaux, dans les mers et dans les fleuves, ⟨את⟩ eux ⟨vous⟩ mangerez",
   "tokens": [
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "eux",
+      "gloss": "⟨את⟩ eux",
       "marks": "vous mangerez"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "mangerez"
     }
   ],
-  "timestamp": "2026-08-04T07:41:25.594080462Z",
+  "timestamp": "2026-08-24T21:49:23.322016836Z",
   "model": "glm-4.5"
 }

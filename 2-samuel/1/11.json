@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Alors David saisit ⟨ses⟩ vêtements et les déchira, et aussi tous les hommes qui étaient avec lui",
+  "translation": "Alors David saisit ⟨ses⟩ vêtements et les déchira, et aussi tous les hommes qui ⟨את⟩ étaient avec lui",
   "tokens": [
     {
       "surface": "ויחזק",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "étaient avec lui"
+      "gloss": "⟨את⟩ étaient avec lui"
     }
   ],
-  "timestamp": "2026-08-04T12:51:42.886230487Z",
+  "timestamp": "2026-08-24T21:49:23.081652502Z",
   "model": "glm-4.5"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 23,
-  "translation": "et ses prostitutions d'Égypte elle n'⟨a⟩ pas quittées, car avec elle ils couchèrent dans sa jeunesse, et ils firent les seins de sa virginité, et ils répandirent leurs prostitutions sur elle.",
+  "translation": "et ses prostitutions d'Égypte elle n'⟨a⟩ pas quittées, car ⟨את⟩ avec elle ils couchèrent dans sa jeunesse, et ils firent les seins de sa virginité, et ils répandirent leurs prostitutions sur elle.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "ses prostitutions"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "avec elle",
+      "gloss": "⟨את⟩ avec elle",
       "marks": "ils couchèrent"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "sur elle"
     }
   ],
-  "timestamp": "2026-08-04T23:32:33.695386757Z",
+  "timestamp": "2026-08-24T21:49:23.286202088Z",
   "model": "glm-4.5"
 }

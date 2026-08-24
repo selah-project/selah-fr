@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 6,
-  "translation": "Et ils descendirent vers lui, et Élisha pria YHWH et dit : frappe, je te prie, ⟨ce⟩ peuple de cécité. Et il les frappa de cécité selon la parole d'Élisha.",
+  "translation": "Et ils descendirent vers lui, et Élisha pria YHWH et dit : frappe, je te prie, ⟨את⟩ ⟨ce⟩ peuple de cécité. Et il les frappa de cécité selon la parole d'Élisha.",
   "tokens": [
     {
       "surface": "וירדו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨ce⟩",
+      "gloss": "⟨את⟩ ⟨ce⟩",
       "marks": "peuple"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "d'Élisha"
     }
   ],
-  "timestamp": "2026-08-04T14:15:22.368281078Z",
+  "timestamp": "2026-08-24T21:49:23.312768791Z",
   "model": "glm-4.5"
 }

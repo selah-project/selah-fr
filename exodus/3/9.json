@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et maintenant, voici, le cri des fils d'Israël ⟨est⟩ venu jusqu'à moi, et aussi j'ai vu ⟨את⟩ la détresse dont Mitsraïm ⟨les⟩ opprime",
+  "translation": "Et maintenant, voici, le cri des fils d'Israël ⟨est⟩ venu jusqu'à moi, et aussi j'ai vu ⟨את⟩ la détresse dont Mitsraïm ⟨את⟩ ⟨les⟩ opprime",
   "tokens": [
     {
       "surface": "ועתה",
@@ -66,10 +66,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "les fils d'Israël"
     }
   ],
-  "timestamp": "2026-08-04T06:14:54.941767927Z",
+  "timestamp": "2026-08-24T21:49:23.206402828Z",
   "model": "glm-4.5"
 }

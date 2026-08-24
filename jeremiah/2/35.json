@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et tu as dit : Car je ⟨suis⟩ innocent, certainement son colère se retourne de moi. Voici, je vais plaider contre toi sur ta parole : Je n'ai pas péché.",
+  "translation": "Et tu as dit : Car je ⟨suis⟩ innocent, certainement son colère se retourne de moi. Voici, je vais plaider ⟨את⟩ contre toi sur ta parole : Je n'ai pas péché.",
   "tokens": [
     {
       "surface": "ותאמרי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "contre toi",
+      "gloss": "⟨את⟩ contre toi",
       "marks": "sur ta parole"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "j'ai péché"
     }
   ],
-  "timestamp": "2026-08-04T16:05:49.227309247Z",
+  "timestamp": "2026-08-24T21:49:23.175037706Z",
   "model": "glm-4.5"
 }

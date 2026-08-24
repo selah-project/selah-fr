@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 34,
-  "translation": "La parole qui fut à Jérémie, de la part de YHWH, après que le roi Sédécias eut coupé une alliance avec tout le peuple qui ⟨était⟩ à Jérusalem, pour proclamer ⟨pour⟩ eux la liberté",
+  "translation": "La parole qui fut à Jérémie, ⟨את⟩ de la part de YHWH, après que le roi Sédécias eut coupé une alliance ⟨את⟩ avec tout le peuple qui ⟨était⟩ à Jérusalem, pour proclamer ⟨pour⟩ eux la liberté",
   "tokens": [
     {
       "surface": "הדבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "יהוה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec"
+      "gloss": "⟨את⟩ avec"
     },
     {
       "surface": "כל",
@@ -88,6 +88,6 @@
       "gloss": "la liberté"
     }
   ],
-  "timestamp": "2026-08-04T22:50:11.485588462Z",
+  "timestamp": "2026-08-24T21:49:23.162655979Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 1,
-  "translation": "jusqu'à ce que YHWH donne du repos à vos frères comme ⟨à⟩ vous, et qu'ils possèdent, eux aussi, ⟨את⟩ la terre que YHWH votre Elohim leur donne ; alors vous retournerez vers la terre de votre possession, et vous la posséderez, celle que Moïse, serviteur de YHWH, vous a donnée de l'autre côté du Jourdain, au levant du soleil.",
+  "translation": "jusqu'à ce que YHWH donne du repos à vos frères comme ⟨à⟩ vous, et qu'ils possèdent, eux aussi, ⟨את⟩ la terre que YHWH votre Elohim leur donne ; alors vous retournerez vers la terre de votre possession, et vous la posséderez, ⟨את⟩ celle que Moïse, serviteur de YHWH, vous a donnée de l'autre côté du Jourdain, au levant du soleil.",
   "tokens": [
     {
       "surface": "עד",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "celle"
+      "gloss": "⟨את⟩ celle"
     },
     {
       "surface": "אשר",
@@ -133,6 +133,6 @@
       "gloss": "du soleil"
     }
   ],
-  "timestamp": "2026-08-04T10:50:04.619286323Z",
+  "timestamp": "2026-08-24T21:49:23.374390083Z",
   "model": "glm-4.5"
 }

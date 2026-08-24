@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 6,
-  "translation": "⟨La⟩ Maison, ⟨celle⟩ que tu ⟨es en⟩ train de bâtir : si tu marches dans ⟨mes⟩ prescriptions et que tu agis selon ⟨mes⟩ jugements, et si tu gardes ⟨le⟩ bien ⟨toutes⟩ ⟨mes⟩ mitsvot pour ⟨y⟩ marcher, alors j'accomplirai ⟨ma⟩ parole avec toi, celle que j'ai dite à David, ton père.",
+  "translation": "⟨La⟩ Maison, ⟨celle⟩ que tu ⟨es en⟩ train de bâtir : si tu marches dans ⟨mes⟩ prescriptions et que tu agis selon ⟨mes⟩ jugements, et si tu gardes ⟨le⟩ bien ⟨toutes⟩ ⟨mes⟩ mitsvot pour ⟨y⟩ marcher, alors j'accomplirai ⟨ma⟩ parole ⟨את⟩ avec toi, celle que j'ai dite à David, ton père.",
   "tokens": [
     {
       "surface": "הבית",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "mes jugements"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "אשר",
@@ -115,6 +115,6 @@
       "gloss": "ton père"
     }
   ],
-  "timestamp": "2026-08-04T13:37:49.894859361Z",
+  "timestamp": "2026-08-24T21:49:23.388674654Z",
   "model": "glm-4.5"
 }

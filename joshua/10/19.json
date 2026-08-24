@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et vous, ne vous arrêtez pas, poursuivez après vos ennemis et frappez leur arrière-garde, ne ⟨les⟩ laissez pas entrer dans leurs villes, car YHWH votre Élohim les a donnés dans votre main.",
+  "translation": "Et vous, ne vous arrêtez pas, poursuivez après vos ennemis et frappez leur arrière-garde, ne ⟨את⟩ ⟨les⟩ laissez pas entrer dans leurs villes, car YHWH votre Élohim les a donnés dans votre main.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "les ennemis"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "dans votre main"
     }
   ],
-  "timestamp": "2026-08-04T11:03:23.593044471Z",
+  "timestamp": "2026-08-24T21:49:23.367199153Z",
   "model": "glm-4.5"
 }

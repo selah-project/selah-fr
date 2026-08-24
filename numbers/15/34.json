@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 15,
-  "translation": "et ils mirent ⟨lui⟩ en garde car ⟨il n'est⟩ pas expliqué ce ⟨qui sera⟩ fait à lui",
+  "translation": "et ils mirent ⟨את⟩ ⟨lui⟩ en garde car ⟨il n'est⟩ pas expliqué ce ⟨qui sera⟩ fait à lui",
   "tokens": [
     {
       "surface": "ויניחו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨lui⟩",
+      "gloss": "⟨את⟩ ⟨lui⟩",
       "marks": "en garde"
     },
     {
@@ -45,6 +45,6 @@
       "gloss": "à lui"
     }
   ],
-  "timestamp": "2026-08-04T08:57:53.457938594Z",
+  "timestamp": "2026-08-24T21:49:23.355148213Z",
   "model": "glm-4.5"
 }

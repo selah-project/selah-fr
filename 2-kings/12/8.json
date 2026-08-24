@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Et le roi Yehoash appela Yehoyada ⟨le⟩ prêtre et ⟨les⟩ prêtres, et leur dit : pourquoi ne renforcez-vous pas ⟨את⟩ la brèche de ⟨la⟩ maison ? Et maintenant, ne prenez pas d'argent de la part de vos connaissances, car pour la brèche de ⟨la⟩ maison vous ⟨le⟩ donnerez.",
+  "translation": "Et le roi Yehoash appela Yehoyada ⟨le⟩ prêtre et ⟨les⟩ prêtres, et leur dit : pourquoi ne renforcez-vous pas ⟨את⟩ la brèche de ⟨la⟩ maison ? Et maintenant, ne prenez pas d'argent ⟨את⟩ de la part de vos connaissances, car pour la brèche de ⟨la⟩ maison vous ⟨le⟩ donnerez.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "מכריכם",
@@ -105,6 +105,6 @@
       "gloss": "vous ⟨le⟩ donnerez"
     }
   ],
-  "timestamp": "2026-08-04T14:25:41.265644046Z",
+  "timestamp": "2026-08-24T21:49:23.306651762Z",
   "model": "glm-4.5"
 }

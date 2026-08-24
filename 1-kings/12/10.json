@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Et les jeunes hommes qui avaient grandi avec lui lui parlèrent, en disant : « Ainsi tu parleras à ce peuple qui t'a parlé, en disant : Ton père a alourdi ⟨את⟩ notre joug, et toi, allège-le pour nous ; ainsi tu leur parleras : Mon petit doigt est plus épais que les reins de mon père »",
+  "translation": "Et les jeunes hommes qui avaient grandi ⟨את⟩ avec lui lui parlèrent, en disant : « Ainsi tu parleras à ce peuple qui t'a parlé, en disant : Ton père a alourdi ⟨את⟩ notre joug, et toi, allège-le pour nous ; ainsi tu leur parleras : Mon petit doigt est plus épais que les reins de mon père »",
   "tokens": [
     {
       "surface": "וידברו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "לאמר",
@@ -125,6 +125,6 @@
       "gloss": "de mon père"
     }
   ],
-  "timestamp": "2026-08-04T13:49:39.605262277Z",
+  "timestamp": "2026-08-24T21:49:23.383729969Z",
   "model": "glm-4.5"
 }

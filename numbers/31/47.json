@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et Mosheh prit de la moitié des fils d'Israël ⟨את⟩ une part sur cinquante, des humains et du bétail, et il les donna aux Lévites, gardiens de la garde du mishkan de YHWH, comme YHWH avait commandé ⟨את⟩ Mosheh.",
+  "translation": "Et Mosheh prit de la moitié des fils d'Israël ⟨את⟩ une part sur cinquante, des humains et du bétail, et il ⟨את⟩ les donna aux Lévites, gardiens de la garde du mishkan de YHWH, comme YHWH avait commandé ⟨את⟩ Mosheh.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "les",
+      "gloss": "⟨את⟩ les",
       "marks": "aux Lévites"
     },
     {
@@ -115,6 +115,6 @@
       "gloss": "Mosheh"
     }
   ],
-  "timestamp": "2026-08-04T09:39:36.001324551Z",
+  "timestamp": "2026-08-24T21:49:23.364253079Z",
   "model": "glm-4.5"
 }

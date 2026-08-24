@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et nous passâmes ⟨par⟩ ⟨de⟩ nos frères, les fils d'Ésaü, habitant dans Séïr, ⟨par⟩ la route de la Arabah, ⟨de⟩ Élath et ⟨de⟩ Etsyon-Géber ; et nous tournâmes et nous passâmes la route du désert de Moab.",
+  "translation": "Et nous passâmes ⟨את⟩ ⟨par⟩ ⟨de⟩ nos frères, les fils d'Ésaü, habitant dans Séïr, ⟨par⟩ la route de la Arabah, ⟨de⟩ Élath et ⟨de⟩ Etsyon-Géber ; et nous tournâmes et nous passâmes la route du désert de Moab.",
   "tokens": [
     {
       "surface": "ונעבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨par⟩ ⟨de⟩",
+      "gloss": "⟨את⟩ ⟨par⟩ ⟨de⟩",
       "marks": "nos frères"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "de Moab"
     }
   ],
-  "timestamp": "2026-08-04T09:51:54.826946263Z",
+  "timestamp": "2026-08-24T21:49:23.262740542Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Et ils sauront que moi, YHWH, leur Élohim, suis avec eux, et eux, ⟨sont⟩ mon peuple, la maison d'Israël — déclaration d'Adonaï YHWH.",
+  "translation": "Et ils sauront que moi, YHWH, leur Élohim, ⟨את⟩ suis avec eux, et eux, ⟨sont⟩ mon peuple, la maison d'Israël — déclaration d'Adonaï YHWH.",
   "tokens": [
     {
       "surface": "וידעו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "suis avec eux"
+      "gloss": "⟨את⟩ suis avec eux"
     },
     {
       "surface": "והמה",
@@ -60,6 +60,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T23:42:30.842218120Z",
+  "timestamp": "2026-08-24T21:49:23.279396823Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 26,
-  "translation": "Et YHWH ⟨est⟩ apparu à lui cette nuit-là, et dit : « Moi, ⟨je suis⟩ le Élohim d’Abraham, ton père : ne crains pas, car avec toi ⟨je suis⟩, et je t’ai béni, et j’ai multiplié ⟨את⟩ ta semence, à cause d’Abraham, mon serviteur ».",
+  "translation": "Et YHWH ⟨est⟩ apparu à lui cette nuit-là, et dit : « Moi, ⟨je suis⟩ le Élohim d’Abraham, ton père : ne crains pas, car ⟨את⟩ avec toi ⟨je suis⟩, et je t’ai béni, et j’ai multiplié ⟨את⟩ ta semence, à cause d’Abraham, mon serviteur ».",
   "tokens": [
     {
       "surface": "וירא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "אנכי",
@@ -97,6 +97,6 @@
       "gloss": "mon serviteur"
     }
   ],
-  "timestamp": "2026-08-04T18:47:18.223742801Z",
+  "timestamp": "2026-08-24T21:49:23.108136232Z",
   "model": "glm-4.5"
 }

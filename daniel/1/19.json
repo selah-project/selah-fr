@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et le roi parla avec eux ; et il ne fut pas trouvé parmi eux tous comme Daniel, Hanania, Mishaël et Azaria ; et ils se tinrent devant le roi.",
+  "translation": "Et le roi parla ⟨את⟩ avec eux ; et il ne fut pas trouvé parmi eux tous comme Daniel, Hanania, Mishaël et Azaria ; et ils se tinrent devant le roi.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "avec eux"
+      "gloss": "⟨את⟩ avec eux"
     },
     {
       "surface": "המלך",
@@ -60,6 +60,6 @@
       "gloss": "le roi"
     }
   ],
-  "timestamp": "2026-08-05T05:05:58.196656333Z",
+  "timestamp": "2026-08-24T21:49:23.226996893Z",
   "model": "glm-4.5"
 }

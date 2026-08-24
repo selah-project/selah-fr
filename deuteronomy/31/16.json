@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et YHWH dit à Moïse : te voici couché avec tes pères, et ce peuple se lèvera et se prostituera après les dieux étrangers du pays, au milieu duquel il va entrer, et m'abandonnera, et violera ⟨את⟩ mon alliance que j'ai conclue avec lui",
+  "translation": "Et YHWH dit à Moïse : te voici couché avec tes pères, et ce peuple se lèvera et se prostituera après les dieux étrangers du pays, au milieu duquel il va entrer, et m'abandonnera, et violera ⟨את⟩ mon alliance que j'ai conclue ⟨את⟩ avec lui",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -118,9 +118,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     }
   ],
-  "timestamp": "2026-08-04T10:44:48.701136388Z",
+  "timestamp": "2026-08-24T21:49:23.266046781Z",
   "model": "glm-4.5"
 }

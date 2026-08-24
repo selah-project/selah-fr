@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et Mosheh dit à Hobab, fils de Réouël, le Midianite, beau-père de Mosheh : « Nous partons pour le lieu dont YHWH a dit : ⟨Je le⟩ donnerai à vous. Viens avec nous, et nous ferons du bien à toi, car YHWH a parlé ⟨de⟩ bien sur Israël. »",
+  "translation": "Et Mosheh dit à Hobab, fils de Réouël, le Midianite, beau-père de Mosheh : « Nous partons pour le lieu dont YHWH a dit : ⟨Je le⟩ donnerai à vous. Viens ⟨את⟩ avec nous, et nous ferons du bien à toi, car YHWH a parlé ⟨de⟩ bien sur Israël. »",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "lieu"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "והטבנו",
@@ -121,6 +121,6 @@
       "gloss": "Israël"
     }
   ],
-  "timestamp": "2026-08-04T08:46:33.802334068Z",
+  "timestamp": "2026-08-24T21:49:23.344422266Z",
   "model": "glm-4.5"
 }

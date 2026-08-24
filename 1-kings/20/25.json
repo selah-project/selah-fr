@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et toi, compte pour toi une armée comme l'armée ⟨את⟩ qui est tombée de toi, et cheval pour cheval, et char pour char, et nous combattrons avec eux dans la plaine ; si nous ne sommes pas plus forts qu'eux ? Et il écouta leur voix et fit ainsi.",
+  "translation": "Et toi, compte pour toi une armée comme l'armée ⟨את⟩ qui est tombée ⟨את⟩ de toi, et cheval pour cheval, et char pour char, et nous combattrons ⟨את⟩ avec eux dans la plaine ; si nous ne sommes pas plus forts qu'eux ? Et il écouta leur voix et fit ainsi.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מאותך",
-      "gloss": "de",
+      "gloss": "⟨את⟩ de",
       "marks": "cheval"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "eux"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "ainsi"
     }
   ],
-  "timestamp": "2026-08-04T14:01:35.406413527Z",
+  "timestamp": "2026-08-24T21:49:23.380558874Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 7,
-  "translation": "Et Akan répondit ⟨à⟩ Yoshoua et dit : En vérité, c'est moi qui ai péché contre YHWH, l'Élohim d'Israël, et voici ce que j'ai fait, et voici ce que j'ai fait.",
+  "translation": "Et Akan répondit ⟨את⟩ ⟨à⟩ Yoshoua et dit : En vérité, c'est moi qui ai péché contre YHWH, l'Élohim d'Israël, et voici ce que j'ai fait, et voici ce que j'ai fait.",
   "tokens": [
     {
       "surface": "ויען",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨à⟩",
+      "gloss": "⟨את⟩ ⟨à⟩",
       "marks": "Yoshoua"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-04T10:58:33.884052897Z",
+  "timestamp": "2026-08-24T21:49:23.370907299Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 15,
-  "translation": "Et ce sera pour vous une frange, et vous ⟨la⟩ verrez, et vous vous souviendrez de ⟨toutes⟩ les mitsvot de YHWH, et vous ⟨les⟩ ferez, et vous n'errerez pas après votre cœur et après vos yeux, desquels vous vous prostituez après eux.",
+  "translation": "Et ce sera pour vous une frange, et vous ⟨את⟩ ⟨la⟩ verrez, et vous vous souviendrez de ⟨את⟩ ⟨toutes⟩ les mitsvot de YHWH, et vous ⟨את⟩ ⟨les⟩ ferez, et vous n'errerez pas après votre cœur et après vos yeux, desquels vous vous prostituez après eux.",
   "tokens": [
     {
       "surface": "והיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨la⟩",
+      "gloss": "⟨את⟩ ⟨la⟩",
       "marks": "la frange"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨toutes⟩",
+      "gloss": "⟨את⟩ ⟨toutes⟩",
       "marks": "toutes les mitsvot"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "les mitsvot"
     },
     {
@@ -99,6 +99,6 @@
       "gloss": "après eux"
     }
   ],
-  "timestamp": "2026-08-04T08:58:17.148187760Z",
+  "timestamp": "2026-08-24T21:49:23.355386409Z",
   "model": "glm-4.5"
 }

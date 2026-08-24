@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Elle dit : une petite chose, je la demande de ta part, ne rejette pas ⟨את⟩ ma face. Et le roi lui dit : demande, ma mère, car je ne rejette pas ⟨את⟩ ta face.",
+  "translation": "Elle dit : une petite chose, je la demande ⟨את⟩ de ta part, ne rejette pas ⟨את⟩ ma face. Et le roi lui dit : demande, ma mère, car je ne rejette pas ⟨את⟩ ta face.",
   "tokens": [
     {
       "surface": "וַתֹּאמֶר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מֵאִתָּךְ",
-      "gloss": "de ta part"
+      "gloss": "⟨את⟩ de ta part"
     },
     {
       "surface": "אַל",
@@ -94,6 +94,6 @@
       "gloss": "ta face"
     }
   ],
-  "timestamp": "2026-08-04T13:31:21.064945042Z",
+  "timestamp": "2026-08-24T21:49:23.384468764Z",
   "model": "glm-4.5"
 }

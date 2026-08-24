@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 8,
-  "translation": "Et Shemuël dit ⟨את⟩ toutes les paroles de YHWH au peuple ⟨qui⟩ demandait un roi de sa part",
+  "translation": "Et Shemuël dit ⟨את⟩ toutes les paroles de YHWH au peuple ⟨qui⟩ demandait un roi ⟨את⟩ de sa part",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "de sa part"
+      "gloss": "⟨את⟩ de sa part"
     },
     {
       "surface": "מלך",
       "gloss": "un roi"
     }
   ],
-  "timestamp": "2026-08-04T12:13:32.619800325Z",
+  "timestamp": "2026-08-24T21:49:23.248173249Z",
   "model": "glm-4.5"
 }

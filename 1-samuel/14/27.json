@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Mais Jonathan n'avait pas entendu son père adjurer ⟨את⟩ le peuple ; et il tendit l'extrémité du bâton qui ⟨est⟩ dans sa main, et la plongea dans ⟨את⟩ le rayon de miel, et ramena sa main vers sa bouche, et ses yeux virent.",
+  "translation": "Mais Jonathan n'avait pas entendu son père adjurer ⟨את⟩ le peuple ; et il tendit l'extrémité du bâton qui ⟨est⟩ dans sa main, et ⟨את⟩ la plongea dans ⟨את⟩ le rayon de miel, et ramena sa main vers sa bouche, et ses yeux virent.",
   "tokens": [
     {
       "surface": "ויונתן",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "la"
+      "gloss": "⟨את⟩ la"
     },
     {
       "surface": "ביערת",
@@ -102,6 +102,6 @@
       "gloss": "ses yeux"
     }
   ],
-  "timestamp": "2026-08-04T12:24:53.044352978Z",
+  "timestamp": "2026-08-24T21:49:23.249392594Z",
   "model": "glm-4.5"
 }

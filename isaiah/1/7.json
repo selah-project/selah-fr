@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Votre pays ⟨est⟩ désolation, vos villes ⟨sont⟩ brûlées par le feu ; votre sol, devant vous, des étrangers ⟨le⟩ dévorent, et ⟨il est⟩ désolation comme un bouleversement d'étrangers.",
+  "translation": "Votre pays ⟨est⟩ désolation, vos villes ⟨sont⟩ brûlées par le feu ; votre sol, devant vous, des étrangers ⟨את⟩ ⟨le⟩ dévorent, et ⟨il est⟩ désolation comme un bouleversement d'étrangers.",
   "tokens": [
     {
       "surface": "אַרְצְכֶ֣ם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אֹתָ֔הּ",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "votre sol"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "d'étrangers"
     }
   ],
-  "timestamp": "2026-08-04T14:48:02.218375083Z",
+  "timestamp": "2026-08-24T21:49:23.341104003Z",
   "model": "glm-4.5"
 }

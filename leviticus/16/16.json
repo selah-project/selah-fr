@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et il fera expiation ⟨pour⟩ le sanctuaire ⟨contre⟩ les impuretés des fils d'Israël et ⟨contre⟩ leurs rébellions, pour tous leurs péchés ; et ainsi il fera ⟨pour⟩ la tente d'assignation, celle qui réside ⟨avec⟩ eux, au milieu de leurs impuretés.",
+  "translation": "Et il fera expiation ⟨pour⟩ le sanctuaire ⟨contre⟩ les impuretés des fils d'Israël et ⟨contre⟩ leurs rébellions, pour tous leurs péchés ; et ainsi il fera ⟨pour⟩ la tente d'assignation, celle qui réside ⟨את⟩ ⟨avec⟩ eux, au milieu de leurs impuretés.",
   "tokens": [
     {
       "surface": "וְכִפֶּר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אִתָּ֔ם",
-      "gloss": "⟨avec⟩ eux"
+      "gloss": "⟨את⟩ ⟨avec⟩ eux"
     },
     {
       "surface": "בְּת֖וֹךְ",
@@ -77,6 +77,6 @@
       "gloss": "de leurs impuretés"
     }
   ],
-  "timestamp": "2026-08-04T07:58:39.218165861Z",
+  "timestamp": "2026-08-24T21:49:23.328022016Z",
   "model": "glm-4.5"
 }

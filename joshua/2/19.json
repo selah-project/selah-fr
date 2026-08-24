@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et il arrivera que tout ce qui sortira des portes de ta maison dehors, son sang ⟨sera⟩ sur sa tête, et nous serons innocents ; et tout ce qui ⟨sera⟩ avec toi dans la maison, son sang ⟨sera⟩ sur notre tête, si une main ⟨est⟩ sur lui.",
+  "translation": "Et il arrivera que tout ce qui sortira des portes de ta maison dehors, son sang ⟨sera⟩ sur sa tête, et nous serons innocents ; et tout ce qui ⟨sera⟩ ⟨את⟩ avec toi dans la maison, son sang ⟨sera⟩ sur notre tête, si une main ⟨est⟩ sur lui.",
   "tokens": [
     {
       "surface": "והיה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "בבית",
@@ -96,6 +96,6 @@
       "gloss": "sur lui"
     }
   ],
-  "timestamp": "2026-08-04T10:51:11.186863774Z",
+  "timestamp": "2026-08-24T21:49:23.373648362Z",
   "model": "glm-4.5"
 }

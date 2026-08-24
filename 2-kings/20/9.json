@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et Ésaïe dit : C'est ⟨pour⟩ toi le signe de ⟨la⟩ part de YHWH, que YHWH fera ⟨את⟩ la parole dont il a parlé : l'ombre a avancé dix degrés, ou bien elle reviendra dix degrés ?",
+  "translation": "Et Ésaïe dit : C'est ⟨pour⟩ toi le signe ⟨את⟩ de ⟨la⟩ part de YHWH, que YHWH fera ⟨את⟩ la parole dont il a parlé : l'ombre a avancé dix degrés, ou bien elle reviendra dix degrés ?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de ⟨la⟩ part de"
+      "gloss": "⟨את⟩ de ⟨la⟩ part de"
     },
     {
       "surface": "יהוה",
@@ -97,6 +97,6 @@
       "gloss": "degrés"
     }
   ],
-  "timestamp": "2026-08-04T14:38:49.485134392Z",
+  "timestamp": "2026-08-24T21:49:23.302371286Z",
   "model": "glm-4.5"
 }

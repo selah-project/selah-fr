@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et Adoniyahou et tous les appelés qui étaient avec lui entendirent, et ils avaient fini de manger, et Yoav entendit ⟨את⟩ le son du shophar, et il dit : pourquoi ⟨le⟩ son de la ville est-il en tumulte ?",
+  "translation": "Et Adoniyahou et tous les appelés qui ⟨את⟩ étaient avec lui entendirent, et ils avaient fini de manger, et Yoav entendit ⟨את⟩ le son du shophar, et il dit : pourquoi ⟨le⟩ son de la ville est-il en tumulte ?",
   "tokens": [
     {
       "surface": "וישמע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "étaient avec lui"
+      "gloss": "⟨את⟩ étaient avec lui"
     },
     {
       "surface": "והם",
@@ -85,6 +85,6 @@
       "gloss": "est-il en tumulte"
     }
   ],
-  "timestamp": "2026-08-04T13:30:36.699958084Z",
+  "timestamp": "2026-08-24T21:49:23.384960306Z",
   "model": "glm-4.5"
 }

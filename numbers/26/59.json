@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 26,
-  "translation": "Et le nom de la femme d'Amram était Yokéved, fille de Lévi, ⟨qui⟩ ⟨elle⟩ mit au monde pour Lévi en Égypte ; et elle enfanta à Amram ⟨את⟩ Aharon, et ⟨את⟩ Moshé, et ⟨את⟩ Myriam, leur sœur.",
+  "translation": "Et le nom de la femme d'Amram était Yokéved, fille de Lévi, ⟨qui⟩ ⟨elle⟩ mit au monde ⟨את⟩ pour Lévi en Égypte ; et elle enfanta à Amram ⟨את⟩ Aharon, et ⟨את⟩ Moshé, et ⟨את⟩ Myriam, leur sœur.",
   "tokens": [
     {
       "surface": "ושם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "pour"
+      "gloss": "⟨את⟩ pour"
     },
     {
       "surface": "ללוי",
@@ -91,6 +91,6 @@
       "gloss": "leur sœur"
     }
   ],
-  "timestamp": "2026-08-04T09:25:57.906657663Z",
+  "timestamp": "2026-08-24T21:49:23.353174802Z",
   "model": "glm-4.5"
 }

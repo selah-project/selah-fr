@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 25,
-  "translation": "et il lui parla de bonnes choses et plaça ⟨את⟩ son trône au-dessus du trône des rois qui étaient avec lui à Babylone",
+  "translation": "et il lui parla de bonnes choses et plaça ⟨את⟩ son trône au-dessus du trône des rois qui ⟨את⟩ étaient avec lui à Babylone",
   "tokens": [
     {
       "surface": "וידבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "lui"
+      "gloss": "⟨את⟩ lui"
     },
     {
       "surface": "טבות",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "étaient avec lui"
+      "gloss": "⟨את⟩ étaient avec lui"
     },
     {
       "surface": "בבבל",
       "gloss": "à Babylone"
     }
   ],
-  "timestamp": "2026-08-04T14:47:35.801999911Z",
+  "timestamp": "2026-08-24T21:49:23.309783930Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 40,
-  "translation": "Et il interrogea ⟨את⟩ les eunuques de Pharaon qui ⟨étaient⟩ avec lui en garde dans la maison de son maître, en disant : pourquoi vos visages ⟨sont-ils⟩ mauvais aujourd'hui ?",
+  "translation": "Et il interrogea ⟨את⟩ les eunuques de Pharaon qui ⟨étaient⟩ ⟨את⟩ avec lui en garde dans la maison de son maître, en disant : pourquoi vos visages ⟨sont-ils⟩ mauvais aujourd'hui ?",
   "tokens": [
     {
       "surface": "וישאל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "במשמר",
@@ -65,6 +65,6 @@
       "gloss": "aujourd'hui"
     }
   ],
-  "timestamp": "2026-08-04T05:52:45.226984118Z",
+  "timestamp": "2026-08-24T21:49:23.110003295Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Revenez à ma réprimande, voici, je ferai jaillir pour vous mon souffle, je ferai connaître mes paroles ⟨avec⟩ vous.",
+  "translation": "Revenez à ma réprimande, voici, je ferai jaillir pour vous mon souffle, je ferai connaître mes paroles ⟨את⟩ ⟨avec⟩ vous.",
   "tokens": [
     {
       "surface": "תשובו",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨avec⟩ vous"
+      "gloss": "⟨את⟩ ⟨avec⟩ vous"
     }
   ],
-  "timestamp": "2026-08-05T03:11:03.552565306Z",
+  "timestamp": "2026-08-24T21:49:23.130431036Z",
   "model": "glm-4.5"
 }

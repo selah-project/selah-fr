@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 19,
-  "translation": "Et YHWH fit pleuvoir sur Sedom et sur Amorah du soufre et du feu, ⟨de⟩ la part de YHWH ⟨du⟩ des cieux.",
+  "translation": "Et YHWH fit pleuvoir sur Sedom et sur Amorah du soufre et du feu, ⟨את⟩ ⟨de⟩ la part de YHWH ⟨du⟩ des cieux.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de⟩ la part de"
+      "gloss": "⟨את⟩ ⟨de⟩ la part de"
     },
     {
       "surface": "יהוה",
@@ -56,6 +56,6 @@
       "gloss": "des cieux"
     }
   ],
-  "timestamp": "2026-08-04T05:25:22.176982020Z",
+  "timestamp": "2026-08-24T21:49:23.118719670Z",
   "model": "glm-4.5"
 }

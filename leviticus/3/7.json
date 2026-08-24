@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Si c'est un agneau qu'il présente, ⟨את⟩ son offrande, et qu'il la présente devant YHWH",
+  "translation": "Si c'est un agneau qu'il présente, ⟨את⟩ son offrande, et qu'il ⟨את⟩ la présente devant YHWH",
   "tokens": [
     {
       "surface": "אם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "la",
+      "gloss": "⟨את⟩ la",
       "marks": "devant YHWH"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T07:27:32.703651102Z",
+  "timestamp": "2026-08-24T21:49:23.317899380Z",
   "model": "glm-4.5"
 }

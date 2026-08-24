@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et Haggai, le messager de YHWH, dans le message de YHWH, parla au peuple, en disant : Je suis avec vous — déclaration de YHWH.",
+  "translation": "Et Haggai, le messager de YHWH, dans le message de YHWH, parla au peuple, en disant : Je suis ⟨את⟩ avec vous — déclaration de YHWH.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "נאם",
@@ -56,6 +56,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-05T00:41:06.298513667Z",
+  "timestamp": "2026-08-24T21:49:23.132743200Z",
   "model": "glm-4.5"
 }

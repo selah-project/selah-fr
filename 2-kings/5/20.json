@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et Gechazi, le jeune homme d'Élisha, l'homme de l'Élohim, dit : Voici, mon maître a épargné ⟨את⟩ Naaman l'Araméen, celui-ci, de prendre de sa main ⟨את⟩ ce qu'il a apporté ; YHWH est vivant ! si je cours après lui, je prendrai de chez lui quelque chose.",
+  "translation": "Et Gechazi, le jeune homme d'Élisha, l'homme de l'Élohim, dit : Voici, mon maître a épargné ⟨את⟩ Naaman l'Araméen, celui-ci, de prendre de sa main ⟨את⟩ ce qu'il a apporté ; YHWH est vivant ! si je cours après lui, je prendrai ⟨את⟩ de chez lui quelque chose.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -111,13 +111,13 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "de chez lui"
+      "gloss": "⟨את⟩ de chez lui"
     },
     {
       "surface": "מאומה",
       "gloss": "quelque chose"
     }
   ],
-  "timestamp": "2026-08-04T14:14:10.521603564Z",
+  "timestamp": "2026-08-24T21:49:23.301156820Z",
   "model": "glm-4.5"
 }

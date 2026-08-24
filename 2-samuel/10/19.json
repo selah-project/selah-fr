@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et ils virent tous les rois, serviteurs de Hadadézer, qu'ils avaient été frappés devant Israël, et ils firent la paix avec Israël et le servirent, et Aram craignit d'aider encore les fils d'Ammon.",
+  "translation": "Et ils virent tous les rois, serviteurs de Hadadézer, qu'ils avaient été frappés devant Israël, et ils firent la paix ⟨את⟩ avec Israël et le servirent, et Aram craignit d'aider encore les fils d'Ammon.",
   "tokens": [
     {
       "surface": "ויראו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "את",
-      "gloss": "avec",
+      "gloss": "⟨את⟩ avec",
       "marks": "Israël"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "surface": "את",
-      "gloss": "les",
+      "gloss": "⟨את⟩ les",
       "marks": "fils d'Ammon"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "d'Ammon"
     }
   ],
-  "timestamp": "2026-08-04T13:04:55.409265141Z",
+  "timestamp": "2026-08-24T21:49:23.072569810Z",
   "model": "glm-4.5"
 }

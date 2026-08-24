@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 66,
-  "translation": "Réjouissez-vous de Jérusalem, et triomphez en elle, tous ⟨את⟩ ceux qui l’aiment ; soyez dans l’allégresse avec elle, tous ⟨את⟩ ceux qui mènent deuil sur elle",
+  "translation": "Réjouissez-vous de Jérusalem, et triomphez en elle, tous ⟨את⟩ ceux qui l’aiment ; soyez dans l’allégresse ⟨את⟩ avec elle, tous ⟨את⟩ ceux qui mènent deuil sur elle",
   "tokens": [
     {
       "surface": "שמחו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "de",
+      "gloss": "⟨את⟩ de",
       "marks": "Jérusalem"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "avec elle"
+      "gloss": "⟨את⟩ avec elle"
     },
     {
       "surface": "משוש",
@@ -61,6 +61,6 @@
       "gloss": "sur elle"
     }
   ],
-  "timestamp": "2026-08-04T16:01:42.970461522Z",
+  "timestamp": "2026-08-24T21:49:23.342400621Z",
   "model": "glm-4.5"
 }

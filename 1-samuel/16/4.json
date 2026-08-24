@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et Samuel fit ⟨ce⟩ que YHWH avait dit, et il vint à Bethléhem, et les anciens de la ville tremblèrent ⟨à⟩ sa rencontre, et ils dirent : ⟨Est⟩ ta venue ⟨en⟩ shalom ?",
+  "translation": "Et Samuel fit ⟨את⟩ ⟨ce⟩ que YHWH avait dit, et il vint à Bethléhem, et les anciens de la ville tremblèrent ⟨à⟩ sa rencontre, et ils dirent : ⟨Est⟩ ta venue ⟨en⟩ shalom ?",
   "tokens": [
     {
       "surface": "ויעש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨ce⟩",
+      "gloss": "⟨את⟩ ⟨ce⟩",
       "marks": "ce que YHWH avait dit"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "ta venue"
     }
   ],
-  "timestamp": "2026-08-04T22:06:12.250266526Z",
+  "timestamp": "2026-08-24T21:49:23.249151924Z",
   "model": "glm-4.5"
 }

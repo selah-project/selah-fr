@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 10,
-  "translation": "Et il dit : Viens avec moi et vois ⟨ma⟩ zèle pour YHWH ; et ils le firent monter ⟨את⟩ dans son char.",
+  "translation": "Et il dit : Viens ⟨את⟩ avec moi et vois ⟨ma⟩ zèle pour YHWH ; et ils le firent monter ⟨את⟩ dans son char.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "וראה",
@@ -45,6 +45,6 @@
       "gloss": "dans son char"
     }
   ],
-  "timestamp": "2026-08-04T14:22:41.915238964Z",
+  "timestamp": "2026-08-24T21:49:23.299929108Z",
   "model": "glm-4.5"
 }

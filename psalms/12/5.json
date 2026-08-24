@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Qui ont dit : Par notre langue, nous ⟨allons⟩ prévaloir ; nos lèvres ⟨sont⟩ avec nous ; qui ⟨est⟩ maître sur nous ?",
+  "translation": "Qui ont dit : Par notre langue, nous ⟨allons⟩ prévaloir ; nos lèvres ⟨את⟩ ⟨sont⟩ avec nous ; qui ⟨est⟩ maître sur nous ?",
   "tokens": [
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨sont⟩ avec nous"
+      "gloss": "⟨את⟩ ⟨sont⟩ avec nous"
     },
     {
       "surface": "מי",
@@ -44,6 +44,6 @@
       "gloss": "sur nous"
     }
   ],
-  "timestamp": "2026-08-05T01:09:38.953059359Z",
+  "timestamp": "2026-08-24T21:49:23.192866081Z",
   "model": "glm-4.5"
 }

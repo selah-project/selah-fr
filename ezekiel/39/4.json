@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 39,
-  "translation": "Sur les montagnes d'Israël tu tomberas, toi et toutes tes bandes, et les peuples qui sont avec toi, ⟨aux⟩ oiseaux de proie, à tout oiseau, et à la bête du champ je t'ai donné pour nourriture.",
+  "translation": "Sur les montagnes d'Israël tu tomberas, toi et toutes tes bandes, et les peuples qui ⟨את⟩ sont avec toi, ⟨aux⟩ oiseaux de proie, à tout oiseau, et à la bête du champ je t'ai donné pour nourriture.",
   "tokens": [
     {
       "surface": "על",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "sont avec toi"
+      "gloss": "⟨את⟩ sont avec toi"
     },
     {
       "surface": "לעיט",
@@ -80,6 +80,6 @@
       "gloss": "pour nourriture"
     }
   ],
-  "timestamp": "2026-08-04T23:47:35.144623588Z",
+  "timestamp": "2026-08-24T21:49:23.283022116Z",
   "model": "glm-4.5"
 }

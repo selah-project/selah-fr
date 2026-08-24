@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 5,
-  "translation": "Et ils vinrent de tous les peuples pour entendre ⟨את⟩ la sagesse de Shelomo, de la part de tous les rois de la terre qui avaient entendu ⟨את⟩ sa sagesse",
+  "translation": "Et ils vinrent de tous les peuples pour entendre ⟨את⟩ la sagesse de Shelomo, ⟨את⟩ de la part de tous les rois de la terre qui avaient entendu ⟨את⟩ sa sagesse",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "כל",
@@ -70,6 +70,6 @@
       "gloss": "sa sagesse"
     }
   ],
-  "timestamp": "2026-08-04T13:35:29.189409876Z",
+  "timestamp": "2026-08-24T21:49:23.379317735Z",
   "model": "glm-4.5"
 }

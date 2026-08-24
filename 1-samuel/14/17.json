@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Et Shaoul dit au peuple qui ⟨était⟩ avec lui : Faites l'appel, je vous prie, et voyez qui ⟨a marché⟩ d'avec nous. Ils firent l'appel, et voici, Yonathan et celui qui portait ses armes n'étaient ⟨pas⟩ là.",
+  "translation": "Et Shaoul dit au peuple qui ⟨était⟩ ⟨את⟩ avec lui : Faites l'appel, je vous prie, et voyez qui ⟨a marché⟩ d'avec nous. Ils firent l'appel, et voici, Yonathan et celui qui portait ses armes n'étaient ⟨pas⟩ là.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "פקדו",
@@ -76,6 +76,6 @@
       "gloss": "ses armes"
     }
   ],
-  "timestamp": "2026-08-04T12:24:20.719071572Z",
+  "timestamp": "2026-08-24T21:49:23.249648926Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 37,
-  "translation": "Et je ferai avec eux une alliance de shalom, une alliance ⟨pour⟩ toujours ; elle sera pour eux, et je les placerai et je les multiplierai, et je placerai ⟨את⟩ mon sanctuaire au milieu d'eux pour toujours.",
+  "translation": "Et je ferai avec eux une alliance de shalom, une alliance ⟨pour⟩ toujours ; elle sera ⟨את⟩ pour eux, et je les placerai et je les multiplierai, et je placerai ⟨את⟩ mon sanctuaire au milieu d'eux pour toujours.",
   "tokens": [
     {
       "surface": "וכרתי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "pour eux"
+      "gloss": "⟨את⟩ pour eux"
     },
     {
       "surface": "ונתתים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "[les]"
+      "gloss": "⟨את⟩ [les]"
     },
     {
       "surface": "ונתתי",
@@ -73,6 +73,6 @@
       "gloss": "pour toujours"
     }
   ],
-  "timestamp": "2026-08-04T23:45:44.317344207Z",
+  "timestamp": "2026-08-24T21:49:23.290696242Z",
   "model": "glm-4.5"
 }

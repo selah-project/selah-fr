@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Je vis, déclaration d'Adonaï YHWH, si ⟨il ne⟩ meurt pas au lieu du roi qui l'a fait régner, dont il a méprisé ⟨le⟩ serment et ⟨dont⟩ il a rompu l'alliance, avec lui au milieu de Babylone il mourra",
+  "translation": "Je vis, déclaration d'Adonaï YHWH, si ⟨il ne⟩ meurt pas au lieu du roi qui l'a fait régner, dont il a méprisé ⟨le⟩ serment et ⟨dont⟩ il a rompu l'alliance, ⟨את⟩ avec lui au milieu de Babylone il mourra",
   "tokens": [
     {
       "surface": "חי",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "בתוך",
@@ -103,6 +103,6 @@
       "gloss": "il mourra"
     }
   ],
-  "timestamp": "2026-08-04T23:27:02.851023864Z",
+  "timestamp": "2026-08-24T21:49:23.290949618Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 18,
-  "translation": "Et Yithro dit : béni soit YHWH, qui vous a délivrés ⟨את⟩ de la main de l'Égypte et de la main de Pharaon, qui a délivré ⟨את⟩ le ⟨le⟩ peuple de sous ⟨la⟩ main de l'Égypte.",
+  "translation": "Et Yithro dit : béni soit YHWH, qui vous a délivrés ⟨את⟩ de la main de l'Égypte et ⟨את⟩ de la main de Pharaon, qui a délivré ⟨את⟩ le ⟨le⟩ peuple de sous ⟨la⟩ main de l'Égypte.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "a délivrés"
+      "gloss": "⟨את⟩ a délivrés"
     },
     {
       "surface": "מיד",
-      "gloss": "⟨את⟩,"
+      "gloss": ","
     },
     {
       "surface": "מצרים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "את",
-      "gloss": "de la main de Pharaon,"
+      "gloss": "⟨את⟩ de la main de Pharaon,"
     },
     {
       "surface": "העם",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מתחת",
-      "gloss": "a délivré ⟨את⟩"
+      "gloss": "a délivré"
     },
     {
       "surface": "יד",
@@ -80,6 +80,6 @@
       "gloss": "peuple de sous ⟨la⟩ main de l'Égypte."
     }
   ],
-  "timestamp": "2026-08-04T06:39:04.699013732Z",
+  "timestamp": "2026-08-24T21:49:23.219526977Z",
   "model": "glm-4.5"
 }

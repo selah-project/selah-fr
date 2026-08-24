@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et il dit : Tu as demandé une chose dure : si tu vois ⟨את⟩ être pris d'avec toi, il en sera ainsi pour toi ; et si non, cela ne sera pas.",
+  "translation": "Et il dit : Tu as demandé une chose dure : si tu vois ⟨את⟩ être pris ⟨את⟩ d'avec toi, il en sera ainsi pour toi ; et si non, cela ne sera pas.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "d'avec toi"
+      "gloss": "⟨את⟩ d'avec toi"
     },
     {
       "surface": "יהי",
@@ -69,6 +69,6 @@
       "gloss": "sera pas"
     }
   ],
-  "timestamp": "2026-08-04T14:07:35.987878919Z",
+  "timestamp": "2026-08-24T21:49:23.307127853Z",
   "model": "glm-4.5"
 }

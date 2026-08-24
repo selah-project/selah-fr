@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 51,
-  "translation": "Et je briserai avec toi ⟨את⟩ homme et ⟨את⟩ femme ; et je briserai avec toi ⟨את⟩ vieillard et ⟨את⟩ jeune homme ; et je briserai avec toi ⟨את⟩ jeune homme et ⟨את⟩ vierge",
+  "translation": "Et je briserai avec toi homme et ⟨את⟩ femme ; et je briserai avec toi vieillard et jeune homme ; et je briserai avec toi ⟨את⟩ jeune homme et ⟨את⟩ vierge",
   "tokens": [
     {
       "surface": "ונפצתי",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "איש",
-      "gloss": "⟨את⟩ homme",
+      "gloss": "homme",
       "marks": "homme"
     },
     {
       "surface": "ואשה",
-      "gloss": "et ⟨את⟩ femme",
+      "gloss": "et femme",
       "marks": "femme"
     },
     {
@@ -35,12 +35,12 @@
     },
     {
       "surface": "זקן",
-      "gloss": "⟨את⟩ vieillard",
+      "gloss": "vieillard",
       "marks": "vieillard"
     },
     {
       "surface": "ונער",
-      "gloss": "et ⟨את⟩ jeune homme",
+      "gloss": "et jeune homme",
       "marks": "jeune homme"
     },
     {
@@ -53,15 +53,15 @@
     },
     {
       "surface": "בחור",
-      "gloss": "⟨את⟩ jeune homme",
+      "gloss": "jeune homme",
       "marks": "jeune homme"
     },
     {
       "surface": "ובתולה",
-      "gloss": "et ⟨את⟩ vierge",
+      "gloss": "et vierge",
       "marks": "vierge"
     }
   ],
-  "timestamp": "2026-08-04T23:09:48.657995794Z",
+  "timestamp": "2026-08-24T21:49:23.160120809Z",
   "model": "glm-4.5"
 }

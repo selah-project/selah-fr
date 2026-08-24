@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 41,
-  "translation": "Et Paroh dit à Joseph : un rêve j'ai rêvé et pour l'interpréter il n'y a personne, et moi j'ai entendu dire sur toi : tu entends un rêve pour l'interpréter.",
+  "translation": "Et Paroh dit à Joseph : un rêve j'ai rêvé et pour l'interpréter il n'y a ⟨את⟩ personne, et moi j'ai entendu dire sur toi : tu entends un rêve pour l'interpréter.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "personne",
+      "gloss": "⟨את⟩ personne",
       "marks": "personne"
     },
     {
@@ -78,6 +78,6 @@
       "marks": "le rêve"
     }
   ],
-  "timestamp": "2026-08-04T18:50:41.816063928Z",
+  "timestamp": "2026-08-24T21:49:23.091683570Z",
   "model": "glm-4.5"
 }

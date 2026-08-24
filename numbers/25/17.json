@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 25,
-  "translation": "Traquez ⟨את⟩ les Madianites et frappez-les",
+  "translation": "Traquez ⟨את⟩ les Madianites et frappez⟨את⟩ -les",
   "tokens": [
     {
       "surface": "צרור",
@@ -26,10 +26,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "-les",
+      "gloss": "⟨את⟩ -les",
       "marks": ""
     }
   ],
-  "timestamp": "2026-08-04T09:22:04.222636840Z",
+  "timestamp": "2026-08-24T21:49:23.359170514Z",
   "model": "glm-4.5"
 }

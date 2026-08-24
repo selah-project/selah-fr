@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Et Abner vint vers David à Hébron, et avec lui vingt hommes, et David fit pour Abner et pour les hommes qui étaient avec lui un festin.",
+  "translation": "Et Abner vint vers David à Hébron, ⟨את⟩ et avec lui vingt hommes, et David fit pour Abner et pour les hommes qui étaient avec lui un festin.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "et avec lui"
+      "gloss": "⟨את⟩ et avec lui"
     },
     {
       "surface": "עשרים",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "משתה",
       "gloss": "un festin"
     }
   ],
-  "timestamp": "2026-08-04T12:55:06.284496692Z",
+  "timestamp": "2026-08-24T21:49:23.076063717Z",
   "model": "glm-4.5"
 }

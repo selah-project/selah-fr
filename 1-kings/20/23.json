@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et les serviteurs du roi d'Aram lui dirent : Les dieux des montagnes ⟨sont⟩ leurs dieux ; c'est pourquoi ils ⟨ont été⟩ plus forts que nous. Mais nous combattrons avec eux dans la plaine ; si nous ne ⟨sommes⟩ pas plus forts qu'eux !",
+  "translation": "Et les serviteurs du roi d'Aram lui dirent : Les dieux des montagnes ⟨sont⟩ leurs dieux ; c'est pourquoi ils ⟨ont été⟩ plus forts que nous. Mais nous combattrons ⟨את⟩ avec eux dans la plaine ; si nous ne ⟨sommes⟩ pas plus forts qu'eux !",
   "tokens": [
     {
       "surface": "וְעַבְדֵי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אִתָּם֙",
-      "gloss": "avec eux"
+      "gloss": "⟨את⟩ avec eux"
     },
     {
       "surface": "בַּמִּישׁ֔וֹר",
@@ -88,6 +88,6 @@
       "gloss": "qu'eux"
     }
   ],
-  "timestamp": "2026-08-04T14:01:40.144758490Z",
+  "timestamp": "2026-08-24T21:49:23.380817981Z",
   "model": "glm-4.5"
 }

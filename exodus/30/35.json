@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 30,
-  "translation": "et tu feras d'elle un parfum, mélange, ouvrage de parfumeur, salé, pur, sacré",
+  "translation": "et tu feras ⟨את⟩ d'elle un parfum, mélange, ouvrage de parfumeur, salé, pur, sacré",
   "tokens": [
     {
       "surface": "ועשית",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "d'elle",
+      "gloss": "⟨את⟩ d'elle",
       "marks": "un parfum"
     },
     {
@@ -45,6 +45,6 @@
       "gloss": "sacré"
     }
   ],
-  "timestamp": "2026-08-04T07:02:14.607651373Z",
+  "timestamp": "2026-08-24T21:49:23.200155203Z",
   "model": "glm-4.5"
 }

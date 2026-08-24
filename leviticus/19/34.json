@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 19,
-  "translation": "Comme l'autochtone ⟨parmi⟩ vous ⟨sera⟩ pour vous le résident le résident ⟨auprès⟩ de vous et tu aimeras pour lui comme toi-même car résidents vous avez été ⟨dans⟩ le pays d'Égypte moi YHWH votre Élohim",
+  "translation": "Comme l'autochtone ⟨parmi⟩ vous ⟨sera⟩ pour vous le résident le résident ⟨את⟩ ⟨auprès⟩ de vous et tu aimeras pour lui comme toi-même car résidents vous avez été ⟨dans⟩ le pays d'Égypte moi YHWH votre Élohim",
   "tokens": [
     {
       "surface": "כאזרח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨auprès⟩ de vous",
+      "gloss": "⟨את⟩ ⟨auprès⟩ de vous",
       "marks": "le résident"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "votre Élohim"
     }
   ],
-  "timestamp": "2026-08-04T08:03:47.392884380Z",
+  "timestamp": "2026-08-24T21:49:23.327471259Z",
   "model": "glm-4.5"
 }

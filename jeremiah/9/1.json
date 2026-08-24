@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Qui me donnerait dans le désert un ⟨logis⟩ de voyageurs, et je quitterais ⟨את⟩ mon peuple, et je m'éloignerais d'eux, car tous sont des adultères, une ⟨assemblée⟩ de traîtres",
+  "translation": "Qui me donnerait dans le désert un ⟨logis⟩ de voyageurs, et je quitterais ⟨את⟩ mon peuple, et je m'éloignerais ⟨את⟩ d'eux, car tous sont des adultères, une ⟨assemblée⟩ de traîtres",
   "tokens": [
     {
       "surface": "מי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "d'eux"
+      "gloss": "⟨את⟩ d'eux"
     },
     {
       "surface": "כי",
@@ -69,6 +69,6 @@
       "gloss": "de traîtres"
     }
   ],
-  "timestamp": "2026-08-04T16:15:41.034648447Z",
+  "timestamp": "2026-08-24T21:49:23.159572025Z",
   "model": "glm-4.5"
 }

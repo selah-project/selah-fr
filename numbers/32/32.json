@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 32,
-  "translation": "Nous, nous traverserons en armes devant YHWH ⟨vers⟩ le pays de Canaan, et avec nous ⟨est⟩ la possession de notre héritage de l'autre côté du Jourdain.",
+  "translation": "Nous, nous traverserons en armes devant YHWH ⟨vers⟩ le pays de Canaan, ⟨את⟩ et avec nous ⟨est⟩ la possession de notre héritage de l'autre côté du Jourdain.",
   "tokens": [
     {
       "surface": "נַחְנוּ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וְאִתָּנוּ",
-      "gloss": "et avec nous"
+      "gloss": "⟨את⟩ et avec nous"
     },
     {
       "surface": "אֲחֻזַּת",
@@ -56,6 +56,6 @@
       "gloss": "du Jourdain"
     }
   ],
-  "timestamp": "2026-08-04T09:41:20.796793263Z",
+  "timestamp": "2026-08-24T21:49:23.347452766Z",
   "model": "glm-4.5"
 }

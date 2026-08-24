@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Car maintenant j'ai étendu ⟨את⟩ ma main et je t'ai frappé, toi et ⟨את⟩ ton peuple, par ⟨la⟩ peste, et tu as été retranché de ⟨la⟩ terre.",
+  "translation": "Car maintenant j'ai étendu ⟨את⟩ ma main et je t'ai frappé, ⟨את⟩ toi et ⟨את⟩ ton peuple, par ⟨la⟩ peste, et tu as été retranché de ⟨la⟩ terre.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אותך",
-      "gloss": "toi"
+      "gloss": "⟨את⟩ toi"
     },
     {
       "surface": "ואת",
@@ -62,6 +62,6 @@
       "gloss": "⟨la⟩ terre"
     }
   ],
-  "timestamp": "2026-08-04T18:53:36.599898580Z",
+  "timestamp": "2026-08-24T21:49:23.202470764Z",
   "model": "glm-4.5"
 }

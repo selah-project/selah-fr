@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et je prononcerai ⟨את⟩ mes jugements contre eux sur toute leur méchanceté qui m'ont abandonné et ont fait brûler des parfums à d'autres dieux et se sont prosternés devant les œuvres de leurs mains",
+  "translation": "Et je prononcerai mes jugements ⟨את⟩ contre eux sur toute leur méchanceté qui m'ont abandonné et ont fait brûler des parfums à d'autres dieux et se sont prosternés devant les œuvres de leurs mains",
   "tokens": [
     {
       "surface": "ודברתי",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "משפטי",
-      "gloss": "⟨את⟩ mes jugements",
+      "gloss": "mes jugements",
       "marks": "mes jugements"
     },
     {
       "surface": "אותם",
-      "gloss": "contre eux"
+      "gloss": "⟨את⟩ contre eux"
     },
     {
       "surface": "על",
@@ -65,6 +65,6 @@
       "gloss": "de leurs mains"
     }
   ],
-  "timestamp": "2026-08-04T16:03:11.407022757Z",
+  "timestamp": "2026-08-24T21:49:23.181412119Z",
   "model": "glm-4.5"
 }

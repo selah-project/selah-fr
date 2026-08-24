@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Et le roi dit : la main de Joab est-elle avec toi dans tout ceci ? Et la femme répondit et dit : ⟨que⟩ vive ton âme, mon seigneur le roi, ⟨il n'y a personne pour⟩ dévier à droite ou à gauche de tout ce qu'a dit mon seigneur le roi, car ton serviteur Joab, c'est lui qui m'a chargée, et il a mis dans la bouche de ta servante ⟨את⟩ toutes ces paroles.",
+  "translation": "Et le roi dit : la main de Joab ⟨את⟩ est-elle avec toi dans tout ceci ? Et la femme répondit et dit : ⟨que⟩ vive ton âme, mon seigneur le roi, ⟨il n'y a personne pour⟩ dévier à droite ou à gauche de tout ce qu'a dit mon seigneur le roi, car ton serviteur Joab, c'est lui qui m'a chargée, et il a mis dans la bouche de ta servante ⟨את⟩ toutes ces paroles.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "est-elle avec toi"
+      "gloss": "⟨את⟩ est-elle avec toi"
     },
     {
       "surface": "בכל",
@@ -153,6 +153,6 @@
       "gloss": "ces"
     }
   ],
-  "timestamp": "2026-08-04T13:12:13.230413345Z",
+  "timestamp": "2026-08-24T21:49:23.085509549Z",
   "model": "glm-4.5"
 }

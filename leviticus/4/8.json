@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 4,
-  "translation": "Et ⟨il fera monter⟩ de lui ⟨את⟩ toute la graisse du taureau du sacrifice pour le péché, ⟨את⟩ la graisse couvrant sur les entrailles, et ⟨את⟩ toute la graisse qui est sur les entrailles.",
+  "translation": "Et ⟨il fera monter⟩ de lui ⟨את⟩ toute la graisse du taureau du sacrifice pour le péché, ⟨את⟩ la graisse couvrant sur les entrailles, ⟨את⟩ et ⟨את⟩ toute la graisse qui est sur les entrailles.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "toute la graisse"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "toute la graisse"
     },
     {
@@ -83,6 +83,6 @@
       "gloss": "les entrailles"
     }
   ],
-  "timestamp": "2026-08-04T07:30:27.834061106Z",
+  "timestamp": "2026-08-24T21:49:23.318910338Z",
   "model": "glm-4.5"
 }

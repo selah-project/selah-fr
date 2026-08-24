@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 30,
-  "translation": "Et tu prendras ⟨את⟩ l'argent des expiations d'avec les fils d'Israël, et tu le donneras sur le service de la tente d'assignation, et il sera pour les fils d'Israël un mémorial devant YHWH pour faire expiation pour vos êtres.",
+  "translation": "Et tu prendras ⟨את⟩ l'argent des expiations ⟨את⟩ d'avec les fils d'Israël, et tu le donneras sur le service de la tente d'assignation, et il sera pour les fils d'Israël un mémorial devant YHWH pour faire expiation pour vos êtres.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "d'avec"
+      "gloss": "⟨את⟩ d'avec"
     },
     {
       "surface": "בני",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "sur"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "vos êtres"
     }
   ],
-  "timestamp": "2026-08-04T07:02:15.824328585Z",
+  "timestamp": "2026-08-24T21:49:23.199003509Z",
   "model": "glm-4.5"
 }

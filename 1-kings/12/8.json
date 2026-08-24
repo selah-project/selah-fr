@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 12,
-  "translation": "Mais il abandonna ⟨את⟩ le conseil des anciens qui l'avaient conseillé, et il consulta ⟨את⟩ les jeunes gens qui avaient grandi avec lui, qui se tenaient devant lui",
+  "translation": "Mais il abandonna ⟨את⟩ le conseil des anciens qui l'avaient conseillé, et il consulta ⟨את⟩ les jeunes gens qui avaient grandi ⟨את⟩ avec lui, qui se tenaient devant lui",
   "tokens": [
     {
       "surface": "ויעזב",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "אשר",
@@ -70,6 +70,6 @@
       "gloss": "devant lui"
     }
   ],
-  "timestamp": "2026-08-04T13:48:42.072875232Z",
+  "timestamp": "2026-08-24T21:49:23.383225201Z",
   "model": "glm-4.5"
 }

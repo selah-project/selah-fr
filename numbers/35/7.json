@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 35,
-  "translation": "Toutes les villes que vous ⟨vous⟩ donnerez aux Lévites, quarante-huit villes : elles, et ⟨את⟩ leurs banlieues.",
+  "translation": "Toutes les villes que vous ⟨vous⟩ donnerez aux Lévites, quarante-huit villes : ⟨את⟩ elles, et ⟨את⟩ leurs banlieues.",
   "tokens": [
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אתהן",
-      "gloss": "elles",
+      "gloss": "⟨את⟩ elles",
       "marks": "ו את"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "leurs banlieues"
     }
   ],
-  "timestamp": "2026-08-04T09:46:03.402489710Z",
+  "timestamp": "2026-08-24T21:49:23.346185797Z",
   "model": "glm-4.5"
 }

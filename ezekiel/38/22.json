@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 38,
-  "translation": "Et je me jugerai avec lui ⟨par⟩ la peste et ⟨par⟩ le sang, et une pluie torrentielle, et des pierres de grêle, du feu et du soufre, je ferai pleuvoir sur lui et sur ses bandes, et sur les peuples nombreux qui sont avec lui.",
+  "translation": "Et je me jugerai avec lui ⟨par⟩ la peste et ⟨par⟩ le sang, et une pluie torrentielle, et des pierres de grêle, du feu et du soufre, je ferai pleuvoir sur lui et sur ses bandes, et sur les peuples nombreux qui ⟨את⟩ sont avec lui.",
   "tokens": [
     {
       "surface": "ונשפטתי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "בדבר",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "sont avec lui"
+      "gloss": "⟨את⟩ sont avec lui"
     }
   ],
-  "timestamp": "2026-08-04T23:46:32.084218511Z",
+  "timestamp": "2026-08-24T21:49:23.293633159Z",
   "model": "glm-4.5"
 }

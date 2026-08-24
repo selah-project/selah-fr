@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et ils n'écoutèrent pas, et Manassé les fit errer pour faire ⟨le⟩ mal plus que ⟨les⟩ nations que YHWH avait détruites de devant les fils d'Israël",
+  "translation": "Et ils n'écoutèrent pas, et Manassé les fit errer pour faire ⟨את⟩ ⟨le⟩ mal plus que ⟨les⟩ nations que YHWH avait détruites de devant les fils d'Israël",
   "tokens": [
     {
       "surface": "ולא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "mal"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "Israël"
     }
   ],
-  "timestamp": "2026-08-04T22:23:10.610515444Z",
+  "timestamp": "2026-08-24T21:49:23.302123271Z",
   "model": "glm-4.5"
 }

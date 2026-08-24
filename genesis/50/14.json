@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 50,
-  "translation": "Et Joseph revint d'Égypte, lui et ses frères, et tous ceux qui étaient montés avec lui pour enterrer ⟨את⟩ son père, après qu'il eut enterré ⟨את⟩ son père.",
+  "translation": "Et Joseph revint d'Égypte, lui et ses frères, et tous ceux qui étaient montés ⟨את⟩ avec lui pour enterrer ⟨את⟩ son père, après qu'il eut enterré ⟨את⟩ son père.",
   "tokens": [
     {
       "surface": "וישב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "לקבר",
@@ -70,6 +70,6 @@
       "gloss": "son père"
     }
   ],
-  "timestamp": "2026-08-04T06:10:37.656940573Z",
+  "timestamp": "2026-08-24T21:49:23.094845276Z",
   "model": "glm-4.5"
 }

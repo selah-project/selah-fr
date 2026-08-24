@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 31,
-  "translation": "Et Mosheh et Eléazar le prêtre prirent ⟨את⟩ l'or venant d'eux, tout objet ouvrage",
+  "translation": "Et Mosheh et Eléazar le prêtre prirent ⟨את⟩ l'or ⟨את⟩ venant d'eux, tout objet ouvrage",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "venant d'eux"
+      "gloss": "⟨את⟩ venant d'eux"
     },
     {
       "surface": "כל",
@@ -49,6 +49,6 @@
       "gloss": "ouvrage"
     }
   ],
-  "timestamp": "2026-08-04T09:39:13.710256286Z",
+  "timestamp": "2026-08-24T21:49:23.364495874Z",
   "model": "glm-4.5"
 }

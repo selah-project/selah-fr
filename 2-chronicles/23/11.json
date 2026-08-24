@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "fr",
   "chapter": 23,
-  "translation": "Et ils firent sortir ⟨את⟩ le fils du roi, et ils mirent sur lui ⟨את⟩ le diadème et ⟨את⟩ le témoignage, et ils le firent roi ; et ils l'oignirent, Yehoyada et ses fils, et ils dirent : « Vive le roi ! »",
+  "translation": "Et ils firent sortir ⟨את⟩ le fils du roi, et ils placèrent sur lui ⟨את⟩ le diadème et ⟨את⟩ le témoignage, et ils le firent roi ; et ils l'oignirent, Yehoyada et ses fils, et ils dirent : Vive le roi !",
   "tokens": [
     {
       "surface": "ויוציאו",
@@ -18,15 +18,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "le fils de"
+      "gloss": "le fils"
     },
     {
       "surface": "המלך",
-      "gloss": "le roi"
+      "gloss": "du roi"
     },
     {
       "surface": "ויתנו",
-      "gloss": "et ils mirent"
+      "gloss": "et ils placèrent"
     },
     {
       "surface": "עליו",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את lui⟩"
+      "gloss": "⟨את⟩ lui"
     },
     {
       "surface": "וימשחהו",
@@ -76,13 +76,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "qu'il vive"
+      "gloss": "Vive"
     },
     {
       "surface": "המלך",
       "gloss": "le roi"
     }
   ],
-  "timestamp": "2026-08-05T06:09:12.314772288Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T21:35:47.955317342Z",
+  "model": "glm-5.3"
 }

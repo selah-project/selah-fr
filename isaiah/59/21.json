@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 59,
-  "translation": "Et moi, c'est ⟨ceci⟩ mon alliance avec eux, dit YHWH : mon Rouah qui ⟨est⟩ sur toi, et mes paroles que j'ai mises dans ta bouche, ne s'éloigneront pas de ta bouche, ni de la bouche de ta semence, ni de la bouche de la semence de ta semence, dit YHWH, dorénavant et jusqu'à l'éternité.",
+  "translation": "Et moi, c'est ⟨ceci⟩ mon alliance ⟨את⟩ avec eux, dit YHWH : mon Rouah qui ⟨est⟩ sur toi, et mes paroles que j'ai mises dans ta bouche, ne s'éloigneront pas de ta bouche, ni de la bouche de ta semence, ni de la bouche de la semence de ta semence, dit YHWH, dorénavant et jusqu'à l'éternité.",
   "tokens": [
     {
       "surface": "ואני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "avec eux"
+      "gloss": "⟨את⟩ avec eux"
     },
     {
       "surface": "אמר",
@@ -112,6 +112,6 @@
       "gloss": "l'éternité"
     }
   ],
-  "timestamp": "2026-08-04T15:53:25.385688969Z",
+  "timestamp": "2026-08-24T21:49:23.333040446Z",
   "model": "glm-4.5"
 }

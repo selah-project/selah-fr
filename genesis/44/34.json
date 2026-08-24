@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 44,
-  "translation": "Car comment monterai-je vers mon père, et le jeune garçon n'est pas avec moi, de peur que je ne voie ⟨le⟩ mal qui trouvera ⟨את⟩ mon père",
+  "translation": "Car comment monterai-je vers mon père, et le jeune garçon n'est pas ⟨את⟩ avec moi, de peur que je ne voie ⟨le⟩ mal qui trouvera ⟨את⟩ mon père",
   "tokens": [
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "פן",
@@ -69,6 +69,6 @@
       "gloss": "mon père"
     }
   ],
-  "timestamp": "2026-08-04T06:00:41.575177482Z",
+  "timestamp": "2026-08-24T21:49:23.095949707Z",
   "model": "glm-4.5"
 }

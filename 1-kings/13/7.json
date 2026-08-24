@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 13,
-  "translation": "Et le roi parla à l'homme de l'Élohim : viens ⟨avec moi⟩ ⟨à la⟩ maison, et réconforte-toi, et je te donnerai un présent.",
+  "translation": "Et le roi parla à l'homme de l'Élohim : viens ⟨את⟩ ⟨avec moi⟩ ⟨à la⟩ maison, et réconforte-toi, et je te donnerai un présent.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨avec moi⟩"
+      "gloss": "⟨את⟩ ⟨avec moi⟩"
     },
     {
       "surface": "הביתה",
@@ -56,6 +56,6 @@
       "gloss": "un présent"
     }
   ],
-  "timestamp": "2026-08-04T13:51:33.623698521Z",
+  "timestamp": "2026-08-24T21:49:23.387569491Z",
   "model": "glm-4.5"
 }

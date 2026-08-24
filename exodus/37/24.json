@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 37,
-  "translation": "Un talent d'or pur fit ⟨il⟩ ⟨le⟩ [menorah], et ⟨את⟩ tous ses ustensiles.",
+  "translation": "Un talent d'or pur fit ⟨את⟩ ⟨il⟩ ⟨le⟩ [menorah], ⟨את⟩ et ⟨את⟩ tous ses ustensiles.",
   "tokens": [
     {
       "surface": "ככר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨il⟩ ⟨le⟩ [menorah]"
+      "gloss": "⟨את⟩ ⟨il⟩ ⟨le⟩ [menorah]"
     },
     {
       "surface": "ואת",
-      "gloss": "et"
+      "gloss": "⟨את⟩ et"
     },
     {
       "surface": "כל",
@@ -40,6 +40,6 @@
       "gloss": "ses ustensiles"
     }
   ],
-  "timestamp": "2026-08-04T07:17:47.202200999Z",
+  "timestamp": "2026-08-24T21:49:23.213050926Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 16,
-  "translation": "Et elle lui dit : comment ⟨tu peux⟩ dire : je t'aime, alors que ton cœur n'est pas avec moi ? voici, trois fois tu t'es moqué de moi et tu n'as pas déclaré en quoi ta force est grande.",
+  "translation": "Et elle lui dit : comment ⟨tu peux⟩ dire : je t'aime, alors que ton cœur n'est pas ⟨את⟩ avec moi ? voici, trois fois tu t'es moqué de moi et tu n'as pas déclaré en quoi ta force est grande.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "זה",
@@ -84,6 +84,6 @@
       "gloss": "est grande"
     }
   ],
-  "timestamp": "2026-08-04T11:56:07.327464183Z",
+  "timestamp": "2026-08-24T21:49:23.145068106Z",
   "model": "glm-4.5"
 }

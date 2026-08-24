@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 5,
-  "translation": "et ⟨ce sera⟩ si ⟨il⟩ a péché et ⟨est⟩ coupable et ⟨il⟩ a rendu ⟨את⟩ le vol qu'il a volé ou ⟨את⟩ l'extorsion qu'il a extorqué ou ⟨את⟩ le dépôt qui a été déposé avec lui ou ⟨את⟩ la perte qu'il a trouvée",
+  "translation": "et ⟨ce sera⟩ si ⟨il⟩ a péché et ⟨est⟩ coupable et ⟨il⟩ a rendu ⟨את⟩ le vol qu'il a volé ou ⟨את⟩ l'extorsion qu'il a extorqué ou ⟨את⟩ le dépôt qui a été déposé ⟨את⟩ avec lui ou ⟨את⟩ la perte qu'il a trouvée",
   "tokens": [
     {
       "surface": "וְהָיָה",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "אִתּ֑וֹ",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "א֥וֹ",
@@ -112,6 +112,6 @@
       "gloss": "il a trouvée"
     }
   ],
-  "timestamp": "2026-08-04T07:33:08.788626953Z",
+  "timestamp": "2026-08-24T21:49:23.316171649Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 14,
-  "translation": "Et sortirent ⟨le⟩ roi de Sedom, et ⟨le⟩ roi d'Amora, et ⟨le⟩ roi d'Adma, et ⟨le⟩ roi de Tseboim, et ⟨le⟩ roi de Béla — elle est Tsoar — et ils rangèrent ⟨את⟩ la bataille contre eux dans la vallée du Siddim",
+  "translation": "Et sortirent ⟨le⟩ roi de Sedom, et ⟨le⟩ roi d'Amora, et ⟨le⟩ roi d'Adma, et ⟨le⟩ roi de Tseboim, et ⟨le⟩ roi de Béla — elle est Tsoar — et ils rangèrent ⟨את⟩ la bataille ⟨את⟩ contre eux dans la vallée du Siddim",
   "tokens": [
     {
       "surface": "ויצא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "contre eux",
+      "gloss": "⟨את⟩ contre eux",
       "marks": "eux"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "du Siddim"
     }
   ],
-  "timestamp": "2026-08-04T05:18:55.861755285Z",
+  "timestamp": "2026-08-24T21:49:23.119011071Z",
   "model": "glm-4.5"
 }

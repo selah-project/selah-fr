@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "fr",
   "chapter": 29,
-  "translation": "Et ils mangeront ⟨ceux⟩ par lesquels ⟨a été faite⟩ l'expiation pour remplir ⟨leur⟩ main afin de les sanctifier ; et un étranger ne mangera pas car ils sont saints.",
+  "translation": "Et ils mangeront ⟨את⟩ ⟨ceux⟩ par lesquels ⟨a été faite⟩ l'expiation pour remplir ⟨leur⟩ main afin de les sanctifier ; et un étranger ne mangera pas car ils sont saints.",
   "tokens": [
     {
       "surface": "וְאָכְל֤וּ",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אֹתָם֙",
-      "gloss": "⟨ceux⟩",
+      "gloss": "⟨את⟩ ⟨ceux⟩",
       "marks": "ceux par lesquels"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "surface": "אֹתָ֑ם",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "les sacrifiés"
     },
     {
@@ -75,6 +75,6 @@
       "gloss": "ils sont"
     }
   ],
-  "timestamp": "2026-08-04T06:59:48.044669247Z",
+  "timestamp": "2026-08-24T21:49:23.209355896Z",
   "model": "glm-4.5"
 }

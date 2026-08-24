@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "fr",
   "chapter": 23,
-  "translation": "Et ⟨les⟩ autels qui ⟨étaient⟩ sur ⟨le⟩ toit de l’aliyah d’Achaz, que les rois de Juda avaient faits, et ⟨les⟩ autels que Manassé avait faits dans ⟨les⟩ deux parvis de la maison de YHWH, le roi détruisit ; et il coura de là et jeta ⟨leur⟩ poussière dans le torrent du Cédron.",
+  "translation": "Et ⟨les⟩ autels qui ⟨étaient⟩ sur ⟨le⟩ toit de l’aliyah d’Achaz, que les rois de Juda avaient faits, ⟨את⟩ et ⟨les⟩ autels que Manassé avait faits dans ⟨les⟩ deux parvis de la maison de YHWH, le roi détruisit ; et il coura de là et jeta ⟨את⟩ ⟨leur⟩ poussière dans le torrent du Cédron.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "et ⟨les⟩",
+      "gloss": "⟨את⟩ et ⟨les⟩",
       "marks": "autels"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "et ⟨les⟩",
+      "gloss": "⟨את⟩ et ⟨les⟩",
       "marks": "autels"
     },
     {
@@ -111,7 +111,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨leur⟩",
+      "gloss": "⟨את⟩ ⟨leur⟩",
       "marks": "poussière"
     },
     {
@@ -131,6 +131,6 @@
       "gloss": "du Cédron"
     }
   ],
-  "timestamp": "2026-08-04T14:41:48.902413784Z",
+  "timestamp": "2026-08-24T21:49:23.305636816Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Nous nous souvenons ⟨du⟩ poisson que nous mangions en Égypte, ⟨pour rien⟩, des concombres, et des melons, et des poireaux, et des oignons, et de l'ail :",
+  "translation": "Nous nous souvenons ⟨את⟩ ⟨du⟩ poisson que nous mangions en Égypte, ⟨pour rien⟩, des concombres, et des melons, et des poireaux, et des oignons, et de l'ail :",
   "tokens": [
     {
       "surface": "זכרנו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨du⟩",
+      "gloss": "⟨את⟩ ⟨du⟩",
       "marks": "le poisson"
     },
     {
@@ -82,6 +82,6 @@
       "gloss": "l'ail"
     }
   ],
-  "timestamp": "2026-08-04T08:47:38.791553699Z",
+  "timestamp": "2026-08-24T21:49:23.353932024Z",
   "model": "glm-4.5"
 }

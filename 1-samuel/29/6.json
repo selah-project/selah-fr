@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 29,
-  "translation": "Et Akish appela David et lui dit : Vivant ⟨est⟩ YHWH, car ⟨tu es⟩ droit et ⟨ton⟩ sortir et ⟨ton⟩ entrer avec moi dans le camp ⟨sont⟩ bons à mes yeux, car je n'ai pas trouvé en toi de mal depuis le jour où tu es venu à moi jusqu'à ce jour-ci, mais aux yeux des chefs tu n'es pas bon.",
+  "translation": "Et Akish appela David et lui dit : Vivant ⟨est⟩ YHWH, car ⟨tu es⟩ droit et ⟨ton⟩ sortir et ⟨ton⟩ entrer ⟨את⟩ avec moi dans le camp ⟨sont⟩ bons à mes yeux, car je n'ai pas trouvé en toi de mal depuis le jour où tu es venu à moi jusqu'à ce jour-ci, mais aux yeux des chefs tu n'es pas bon.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "במחנה",
@@ -140,6 +140,6 @@
       "gloss": ""
     }
   ],
-  "timestamp": "2026-08-04T12:49:31.064359795Z",
+  "timestamp": "2026-08-24T21:49:23.244015042Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Et ce sont ici les noms des hommes qui se tiendront avec vous : pour Réuben, Élitsour, fils de Shedéour",
+  "translation": "Et ce sont ici les noms des hommes qui se tiendront ⟨את⟩ avec vous : pour Réuben, Élitsour, fils de Shedéour",
   "tokens": [
     {
       "surface": "ואלה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "לראובן",
@@ -48,6 +48,6 @@
       "gloss": "de Shedéour"
     }
   ],
-  "timestamp": "2026-08-04T08:21:37.010329493Z",
+  "timestamp": "2026-08-24T21:49:23.359631786Z",
   "model": "glm-4.5"
 }

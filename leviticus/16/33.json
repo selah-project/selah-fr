@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 16,
-  "translation": "et il couvrira ⟨le⟩ lieu saint, et ⟨את⟩ la tente d'assignation, et ⟨את⟩ l'autel il couvrira, et sur les prêtres et sur tout le peuple de l'assemblée il couvrira",
+  "translation": "et il couvrira ⟨את⟩ ⟨le⟩ lieu saint, et ⟨את⟩ la tente d'assignation, et ⟨את⟩ l'autel il couvrira, et sur les prêtres et sur tout le peuple de l'assemblée il couvrira",
   "tokens": [
     {
       "surface": "וְכִפֶּר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אֶת",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "le lieu saint"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "surface": "וְאֶת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "la tente d'assignation"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "surface": "וְאֶת",
-      "gloss": "et",
+      "gloss": "⟨את⟩ et",
       "marks": "l'autel"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "il couvrira"
     }
   ],
-  "timestamp": "2026-08-04T07:59:16.055885742Z",
+  "timestamp": "2026-08-24T21:49:23.327743842Z",
   "model": "glm-4.5"
 }

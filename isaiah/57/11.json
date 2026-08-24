@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 57,
-  "translation": "Et de qui as-tu eu peur et craint, que tu as menti, et que tu ne m'as pas ⟨את⟩ mis sur ton cœur ? N'ai-je pas ⟨את⟩ et depuis longtemps, et tu ne me crains pas ?",
+  "translation": "⟨את⟩ Et de qui as-tu eu peur et craint, que tu as menti, ⟨את⟩ et que tu ne m'as pas ⟨את⟩ mis sur ton cœur ? N'ai-je pas ⟨את⟩ et depuis longtemps, ⟨את⟩ et tu ne me crains pas ?",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Et",
+      "gloss": "⟨את⟩ Et",
       "marks": "de qui"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ואותי",
-      "gloss": "et que tu ne m'as pas",
+      "gloss": "⟨את⟩ et que tu ne m'as pas",
       "marks": "mis"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "surface": "ואותי",
-      "gloss": "et tu ne me",
+      "gloss": "⟨את⟩ et tu ne me",
       "marks": "crains"
     },
     {
@@ -91,6 +91,6 @@
       "gloss": "crains"
     }
   ],
-  "timestamp": "2026-08-04T15:51:18.848753919Z",
+  "timestamp": "2026-08-24T21:49:23.339080945Z",
   "model": "glm-4.5"
 }

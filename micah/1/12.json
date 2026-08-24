@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Car l'habitante de Maroth est anxieuse pour le bien, car le mal est descendu de la part de YHWH jusqu'à la porte de Jérusalem.",
+  "translation": "Car l'habitante de Maroth est anxieuse pour le bien, car le mal est descendu ⟨את⟩ de la part de YHWH jusqu'à la porte de Jérusalem.",
   "tokens": [
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "יהוה",
@@ -56,6 +56,6 @@
       "gloss": "de Jérusalem"
     }
   ],
-  "timestamp": "2026-08-05T00:25:43.730388027Z",
+  "timestamp": "2026-08-24T21:49:23.186816514Z",
   "model": "glm-4.5"
 }

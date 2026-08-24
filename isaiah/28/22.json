@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "fr",
   "chapter": 28,
-  "translation": "Et maintenant, ne vous moquez pas, de peur que ⟨les⟩ liens ⟨de vous⟩ ne se fortifient ; car une destruction, et ⟨décrétée⟩, j'ai entendue ⟨de la part⟩ d'Adonaï YHWH Tsevaot, sur toute la terre.",
+  "translation": "Et maintenant, ne vous moquez pas, de peur que ⟨les⟩ liens ⟨de vous⟩ ne se fortifient ; car une destruction, et ⟨décrétée⟩, j'ai entendue ⟨את⟩ ⟨de la part⟩ d'Adonaï YHWH Tsevaot, sur toute la terre.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨de la part⟩"
+      "gloss": "⟨את⟩ ⟨de la part⟩"
     },
     {
       "surface": "אדני",
@@ -76,6 +76,6 @@
       "gloss": "la terre"
     }
   ],
-  "timestamp": "2026-08-04T15:22:54.705501134Z",
+  "timestamp": "2026-08-24T21:49:23.334578295Z",
   "model": "glm-4.5"
 }

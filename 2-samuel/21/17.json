@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 21,
-  "translation": "Et Abishaï, fils de Tseruiah, lui vint en aide et frappa ⟨את⟩ le Philistin et le mit à mort ; alors les hommes de David lui firent serment, en disant : tu ne sortiras plus avec nous pour la guerre, et tu n'éteindras pas ⟨את⟩ la lampe d'Israël.",
+  "translation": "Et Abishaï, fils de Tseruiah, lui vint en aide et frappa ⟨את⟩ le Philistin et le mit à mort ; alors les hommes de David lui firent serment, en disant : tu ne sortiras plus ⟨את⟩ avec nous pour la guerre, et tu n'éteindras pas ⟨את⟩ la lampe d'Israël.",
   "tokens": [
     {
       "surface": "ויעזר",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "avec nous"
+      "gloss": "⟨את⟩ avec nous"
     },
     {
       "surface": "למלחמה",
@@ -110,6 +110,6 @@
       "gloss": "d'Israël"
     }
   ],
-  "timestamp": "2026-08-04T13:23:19.203089362Z",
+  "timestamp": "2026-08-24T21:49:23.073254951Z",
   "model": "glm-4.5"
 }

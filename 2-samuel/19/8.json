@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "fr",
   "chapter": 19,
-  "translation": "Et maintenant, lève-toi, sors et parle au ⟨cœur⟩ de tes serviteurs, car je le jure par YHWH : si tu ne sors pas, il ne passera pas la nuit un homme avec toi, et ⟨ce⟩ ⟨sera⟩ pire pour toi que tout le mal qui ⟨est⟩ venu sur toi depuis ta jeunesse jusqu'à maintenant.",
+  "translation": "Et maintenant, lève-toi, sors et parle au ⟨cœur⟩ de tes serviteurs, car je le jure par YHWH : si tu ne sors pas, il ne passera pas la nuit un homme ⟨את⟩ avec toi, et ⟨ce⟩ ⟨sera⟩ pire pour toi que tout le mal qui ⟨est⟩ venu sur toi depuis ta jeunesse jusqu'à maintenant.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "avec toi"
+      "gloss": "⟨את⟩ avec toi"
     },
     {
       "surface": "הלילה",
@@ -124,6 +124,6 @@
       "gloss": "maintenant"
     }
   ],
-  "timestamp": "2026-08-04T13:19:40.433803249Z",
+  "timestamp": "2026-08-24T21:49:23.082341811Z",
   "model": "glm-4.5"
 }

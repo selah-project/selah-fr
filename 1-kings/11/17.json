@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "fr",
   "chapter": 11,
-  "translation": "que Hadad s’enfuit, lui et des hommes édomites, des serviteurs de son père, avec lui, pour entrer en Égypte — et Hadad était un jeune garçon ⟨tout petit⟩.",
+  "translation": "que Hadad s’enfuit, lui et des hommes édomites, des serviteurs de son père, ⟨את⟩ avec lui, pour entrer en Égypte — et Hadad était un jeune garçon ⟨tout petit⟩.",
   "tokens": [
     {
       "surface": "ויברח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "avec lui"
+      "gloss": "⟨את⟩ avec lui"
     },
     {
       "surface": "לבוא",
@@ -60,6 +60,6 @@
       "gloss": "⟨tout petit⟩"
     }
   ],
-  "timestamp": "2026-08-04T13:46:47.376150479Z",
+  "timestamp": "2026-08-24T21:49:23.381797407Z",
   "model": "glm-4.5"
 }

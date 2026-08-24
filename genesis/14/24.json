@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "fr",
   "chapter": 14,
-  "translation": "si ce n'est ⟨que⟩ ce ⟨que⟩ ont mangé ⟨les⟩ jeunes gens et ⟨la⟩ part des hommes qui sont allés avec moi — Aner, Eshkol et Mamré — eux prendront leur part.",
+  "translation": "si ce n'est ⟨que⟩ ce ⟨que⟩ ont mangé ⟨les⟩ jeunes gens et ⟨la⟩ part des hommes qui sont allés ⟨את⟩ avec moi — Aner, Eshkol et Mamré — eux prendront leur part.",
   "tokens": [
     {
       "surface": "בלעדי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "avec moi"
+      "gloss": "⟨את⟩ avec moi"
     },
     {
       "surface": "ענר",
@@ -72,6 +72,6 @@
       "gloss": "leur part"
     }
   ],
-  "timestamp": "2026-08-04T05:19:22.014329558Z",
+  "timestamp": "2026-08-24T21:49:23.119467524Z",
   "model": "glm-4.5"
 }

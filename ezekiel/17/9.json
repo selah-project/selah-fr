@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 17,
-  "translation": "Dis ainsi : Ainsi a dit Adonaï YHWH : ⟨Elle⟩ prospérera ? ⟨N'est-ce pas⟩ que ⟨ses⟩ racines il arrachera et ⟨son⟩ fruit il coupera et elle séchera ? Tout le feuillage de sa pousse séchera ; et non par un bras grand ni par un peuple nombreux ⟨pour⟩ l'arracher de ses racines.",
+  "translation": "Dis ainsi : Ainsi a dit Adonaï YHWH : ⟨Elle⟩ prospérera ? ⟨N'est-ce pas⟩ que ⟨ses⟩ racines il arrachera et ⟨son⟩ fruit il coupera et elle séchera ? Tout le feuil⟨את⟩ lage de sa pousse séchera ; et non par un bras grand ni par un peuple nombreux ⟨pour⟩ l'arracher de ses racines.",
   "tokens": [
     {
       "surface": "אמר",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "אותה",
-      "gloss": "la"
+      "gloss": "⟨את⟩ la"
     },
     {
       "surface": "משרשיה",
       "gloss": "de ses racines"
     }
   ],
-  "timestamp": "2026-08-04T23:26:57.392821250Z",
+  "timestamp": "2026-08-24T21:49:23.291738101Z",
   "model": "glm-4.5"
 }

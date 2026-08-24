@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "fr",
   "chapter": 3,
-  "translation": "Mais moi, je suis rempli de force, ⟨le⟩ Rouah de YHWH, et de jugement et de puissance, pour faire savoir à Jacob sa révolte, et à Israël son péché",
+  "translation": "Mais moi, je suis rempli de force, ⟨את⟩ ⟨le⟩ Rouah de YHWH, et de jugement et de puissance, pour faire savoir à Jacob sa révolte, et à Israël son péché",
   "tokens": [
     {
       "surface": "ואולם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "Rouah de YHWH"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "son péché"
     }
   ],
-  "timestamp": "2026-08-05T00:27:21.934806036Z",
+  "timestamp": "2026-08-24T21:49:23.186206400Z",
   "model": "glm-4.5"
 }

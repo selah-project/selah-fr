@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "fr",
   "chapter": 23,
-  "translation": "Tu la boiras et tu ⟨la⟩ suceras, et ses tessons tu ⟨les⟩ briseras, et tes seins tu ⟨les⟩ arracheras, car moi j’ai parlé, déclare Adonaï YHWH.",
+  "translation": "Tu la boiras et tu ⟨את⟩ ⟨la⟩ suceras, et ses tessons tu ⟨les⟩ briseras, et tes seins tu ⟨les⟩ arracheras, car moi j’ai parlé, déclare Adonaï YHWH.",
   "tokens": [
     {
       "surface": "ושתית",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨la⟩"
+      "gloss": "⟨את⟩ ⟨la⟩"
     },
     {
       "surface": "ומצית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨les⟩",
+      "gloss": "⟨את⟩ ⟨les⟩",
       "marks": "ses tessons"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-08-04T23:32:36.334794874Z",
+  "timestamp": "2026-08-24T21:49:23.287178729Z",
   "model": "glm-4.5"
 }

@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et je ravagerai ⟨את⟩ sa vigne et ⟨את⟩ son figuier dont elle a dit : ce sont mes dons que m'ont donnés mes amants, et j'en ferai une forêt, et les mangeront ⟨את⟩ les bêtes des champs",
+  "translation": "Et je ravagerai sa vigne et ⟨את⟩ son figuier dont elle a dit : ce sont mes dons que m'ont donnés mes amants, et j'en ferai une forêt, et les mangeront les bêtes des champs",
   "tokens": [
     {
       "surface": "והשמתי",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "גפנה",
-      "gloss": "⟨את⟩ sa vigne",
+      "gloss": "sa vigne",
       "marks": "sa vigne"
     },
     {
       "surface": "ותאנתה",
-      "gloss": "et ⟨את⟩ son figuier",
+      "gloss": "et son figuier",
       "marks": "son figuier"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "surface": "חית",
-      "gloss": "⟨את⟩ les bêtes",
+      "gloss": "les bêtes",
       "marks": "les bêtes"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "des champs"
     }
   ],
-  "timestamp": "2026-08-04T23:58:01.576672297Z",
+  "timestamp": "2026-08-24T21:49:23.127006736Z",
   "model": "glm-4.5"
 }

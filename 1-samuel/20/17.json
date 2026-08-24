@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "fr",
   "chapter": 20,
-  "translation": "Et Yehonatan ajouta de faire jurer David à cause de son amour pour lui, car il l'aimait comme l'amour de sa propre nefesh.",
+  "translation": "Et Yehonatan ajouta de faire jurer David à cause de son amour ⟨את⟩ pour lui, car il l'aimait comme l'amour de sa propre nefesh.",
   "tokens": [
     {
       "surface": "ויוסף",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "pour lui"
+      "gloss": "⟨את⟩ pour lui"
     },
     {
       "surface": "כי",
@@ -53,6 +53,6 @@
       "gloss": "il l'aimait"
     }
   ],
-  "timestamp": "2026-08-04T12:36:22.242312237Z",
+  "timestamp": "2026-08-24T21:49:23.239389612Z",
   "model": "glm-4.5"
 }

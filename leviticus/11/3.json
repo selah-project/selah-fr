@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 11,
-  "translation": "Tout ⟨ce qui⟩ a le sabot fendu et fait la fente du sabot ⟨et⟩ rumine, dans la bête, celle-la vous mangerez",
+  "translation": "Tout ⟨ce qui⟩ a le sabot fendu et fait la fente du sabot ⟨et⟩ rumine, dans la bête, ⟨את⟩ celle-la vous mangerez",
   "tokens": [
     {
       "surface": "כל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "celle-la",
+      "gloss": "⟨את⟩ celle-la",
       "marks": "vous mangerez"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "vous mangerez"
     }
   ],
-  "timestamp": "2026-08-04T07:40:21.722698547Z",
+  "timestamp": "2026-08-24T21:49:23.321516417Z",
   "model": "glm-4.5"
 }

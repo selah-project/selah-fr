@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 9,
-  "translation": "Et si ⟨un⟩ résident séjourne avec vous et fait ⟨le⟩ Pessah pour YHWH, selon ⟨la⟩ loi du Pessah et selon son jugement, ainsi il fera ; ⟨une⟩ seule loi sera pour vous, pour le résident et pour le natif du pays.",
+  "translation": "Et si ⟨un⟩ résident séjourne ⟨את⟩ avec vous et fait ⟨le⟩ Pessah pour YHWH, selon ⟨la⟩ loi du Pessah et selon son jugement, ainsi il fera ; ⟨une⟩ seule loi sera pour vous, pour le résident et pour le natif du pays.",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "avec vous"
+      "gloss": "⟨את⟩ avec vous"
     },
     {
       "surface": "גר",
@@ -84,6 +84,6 @@
       "gloss": "du pays"
     }
   ],
-  "timestamp": "2026-08-04T08:41:58.654871543Z",
+  "timestamp": "2026-08-24T21:49:23.348889798Z",
   "model": "glm-4.5"
 }

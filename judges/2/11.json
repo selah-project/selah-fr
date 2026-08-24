@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Et les fils d'Israël firent ⟨le⟩ mal aux yeux de YHWH, et ils servirent ⟨את⟩ les Baals",
+  "translation": "Et les fils d'Israël firent ⟨את⟩ ⟨le⟩ mal aux yeux de YHWH, et ils servirent ⟨את⟩ les Baals",
   "tokens": [
     {
       "surface": "ויעשו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "mal"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "les Baals"
     }
   ],
-  "timestamp": "2026-08-04T11:35:09.132640708Z",
+  "timestamp": "2026-08-24T21:49:23.140202976Z",
   "model": "glm-4.5"
 }

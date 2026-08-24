@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "fr",
   "chapter": 31,
-  "translation": "et lève un tribut pour YHWH, parmi les hommes de la guerre, ceux qui sortirent ⟨pour⟩ ⟨le⟩ corps d'armée, une nefesh sur cinq cents, depuis ⟨les⟩ humains, et depuis ⟨le⟩ bétail, et depuis ⟨les⟩ ânes, et depuis ⟨les⟩ ovins",
+  "translation": "et lève un tribut pour YHWH, ⟨את⟩ parmi les hommes de la guerre, ceux qui sortirent ⟨pour⟩ ⟨le⟩ corps d'armée, une nefesh sur cinq cents, depuis ⟨les⟩ humains, et depuis ⟨le⟩ bétail, et depuis ⟨les⟩ ânes, et depuis ⟨les⟩ ovins",
   "tokens": [
     {
       "surface": "והרמת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "parmi"
+      "gloss": "⟨את⟩ parmi"
     },
     {
       "surface": "אנשי",
@@ -88,6 +88,6 @@
       "gloss": "⟨les⟩ ovins"
     }
   ],
-  "timestamp": "2026-08-04T09:38:05.604223588Z",
+  "timestamp": "2026-08-24T21:49:23.364975642Z",
   "model": "glm-4.5"
 }

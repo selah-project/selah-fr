@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "fr",
   "chapter": 27,
-  "translation": "Il ne le changera pas et ne ⟨le⟩ substituera pas, un bon contre un mauvais, ou un mauvais contre un bon ; et si substituer il substitue une bête contre une bête, alors elle et sa substitution seront saintes.",
+  "translation": "Il ne le changera pas et ne ⟨את⟩ ⟨le⟩ substituera pas, un bon contre un mauvais, ou un mauvais contre un bon ; et si substituer il substitue une bête contre une bête, alors elle et sa substitution seront saintes.",
   "tokens": [
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨le⟩",
+      "gloss": "⟨את⟩ ⟨le⟩",
       "marks": "bon"
     },
     {
@@ -89,6 +89,6 @@
       "gloss": "saintes"
     }
   ],
-  "timestamp": "2026-08-04T08:20:36.051558663Z",
+  "timestamp": "2026-08-24T21:49:23.324243763Z",
   "model": "glm-4.5"
 }

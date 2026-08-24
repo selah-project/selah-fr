@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "fr",
   "chapter": 2,
-  "translation": "Voici, n'est-ce pas de la part de YHWH Tsevaot ? ⟨et⟩ les peuples peineront pour le feu, ⟨et⟩ les nations se fatigueront pour le vide.",
+  "translation": "Voici, n'est-ce pas ⟨את⟩ de la part de YHWH Tsevaot ? ⟨et⟩ les peuples peineront pour le feu, ⟨et⟩ les nations se fatigueront pour le vide.",
   "tokens": [
     {
       "surface": "הלוא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "de la part de"
+      "gloss": "⟨את⟩ de la part de"
     },
     {
       "surface": "יהוה",
@@ -60,6 +60,6 @@
       "gloss": "se fatigueront"
     }
   ],
-  "timestamp": "2026-08-05T00:36:27.384516820Z",
+  "timestamp": "2026-08-24T21:49:23.314240180Z",
   "model": "glm-4.5"
 }

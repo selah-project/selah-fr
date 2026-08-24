@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "fr",
   "chapter": 34,
-  "translation": "Et elle leur dit : ainsi dit YHWH, Élohim d'Israël : dites à l'homme qui vous a envoyés vers moi",
+  "translation": "Et elle leur dit : ainsi dit YHWH, Élohim d'Israël : dites à l'homme qui ⟨את⟩ vous a envoyés vers moi",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "vous"
+      "gloss": "⟨את⟩ vous"
     },
     {
       "surface": "אלי",
       "gloss": "vers moi"
     }
   ],
-  "timestamp": "2026-08-05T06:14:13.121366940Z",
+  "timestamp": "2026-08-24T21:49:23.231877173Z",
   "model": "glm-5.2"
 }

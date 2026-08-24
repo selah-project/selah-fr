@@ -1,11 +1,11 @@
 {
-  "tier": "bulk",
+  "tier": "glm-5.2",
   "verse": 4,
   "ref": "haggai 1:4",
   "book": "haggai",
   "lang": "fr",
   "chapter": 1,
-  "translation": "Est-ce le temps pour vous, vous-mêmes, d'habiter dans vos maisons lambrissées, et cette maison ⟨est⟩ en ruine ?",
+  "translation": "Est-ce ⟨le⟩ temps, pour vous, vous, d'habiter dans vos maisons ⟨aux⟩ plafonds lambrissés, tandis que cette maison ⟨est⟩ dévastée ?",
   "tokens": [
     {
       "surface": "העת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "vous-mêmes"
+      "gloss": "vous"
     },
     {
       "surface": "לשבת",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "ספונים",
-      "gloss": "lambrissées"
+      "gloss": "aux plafonds lambrissés"
     },
     {
       "surface": "והבית",
-      "gloss": "et cette maison"
+      "gloss": "et la maison — tandis que cette maison"
     },
     {
       "surface": "הזה",
-      "gloss": "<>"
+      "gloss": "cette"
     },
     {
       "surface": "חרב",
-      "gloss": "⟨est⟩ en ruine"
+      "gloss": "dévastée"
     }
   ],
-  "timestamp": "2026-08-05T00:41:07.981445284Z",
-  "model": "glm-4.5"
+  "timestamp": "2026-08-24T21:35:30.101032578Z",
+  "model": "glm-5.3"
 }
