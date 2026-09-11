@@ -70,3 +70,9 @@ Nous invitons lecteurs, étudiants d'hébreu, traducteurs et locuteurs
 natifs du français à améliorer cette version. Lisez
 [CONTRIBUTING.md](CONTRIBUTING.md) avant d'ouvrir un signalement ou une
 demande de modification.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
