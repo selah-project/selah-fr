@@ -65,3 +65,8 @@ public et l'attribution. L'équipe de maintenance compare la proposition
 à l'hébreu, aux conventions, aux sources et à l'alignement. Elle peut
 l'accepter, la réviser avec vous, attendre plus d'éléments ou la
 refuser en expliquant pourquoi. Critiquez la lecture, non la personne.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
